@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.262-6-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>262.6 Extrav., 1r – Biographie Herzog Julius zu Braunschweig und Lüneburg</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>262.6 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>262.6 Extrav., 1r</idno></msIdentifier>
+            <msContents>
+              <summary>Im Auftrag von <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Julius von Braunschweig-Wolfenbuettel</rs> verfasste Biographie, daher als Autobiographie in das Repertorium aufgenommen. Auf 1r-4v: "An den günstigen Leser". Einen großen Teil nimmt die Beschreibung der Krankheiten des <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Herzogs</rs> ein. 
+                Aber auch Reisen und die Lebensbedingungen, wie Ernährung und Gewohnheiten, werden beschrieben.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Autobiographie">
+                <locus from="1r" to="120v"/>
+                <author ref="../../register.xml#Franz_Algermann">Franz Algermann</author>
+                <title type="uniform">Biographie <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Herzog Julius zu Braunschweig und Lüneburg</rs></title>
+                <date type="coverage" from="1529" to="1602-10-21"/>
+                
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier.</material>
+                  </support>
+                  <extent>
+                    <measure>II + 122 Bll.</measure>
+                    <dimensions>
+                      <height quantity="18.5" unit="cm"/>
+                      <width quantity="16" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, nachträglich mit Tinte 1r-120v.</p>
+                  </foliation>
+                </supportDesc>
+                
+              </objectDesc>
+              
+              
+              <bindingDesc>
+                <p>Blaue Pappe.</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1598" to="1608"/>
+                
+              </origin>
+              
+              
+            </history>
+            <additional>
+              <listBibl>
+                <bibl>Vgl. <ref target="19-22-aug-4f.xml">19.22</ref> Augusteer in Quart, 90.3, 210.3, 210.3.a und <ref target="253-10-extrav.xml">253.10</ref> Extravagantes.</bibl>
+                <bibl type="druck"> 	
+                  <ref type="gbv" cRef="136328873">Leben des Herzogs Julius zu Braunschweig und Lüneburg von Franz Algermann, hrsg. von Friedrich Karl von Strombeck, Helmstedt 1823.</ref>
+                  <ref target="http://resolver.sub.uni-goettingen.de/purl?PPN507173392"/>
+                </bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

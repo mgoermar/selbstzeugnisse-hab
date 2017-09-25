@@ -1,0 +1,129 @@
+{% import "macros.twig" as m %}
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="repertorium.suche.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>
+          <name>Wolfenbüttel, Germany</name>
+        </pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <p>born digital</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Suche im Repertorium</head>
+      <!-- Im folgenden <div> werden die dynamischen Inhalte ergänzt -->
+      <div xmlns="http://www.w3.org/1999/xhtml" class="mainpage">
+          <form method="GET">
+              <fieldset>
+                  <div>
+                      <label for="query">Suche nach</label>
+                      <input type="text" name="query" id="query" value="{{ query }}"/>
+                      <label for="field">Suche in</label>
+                      <select name="field" id="field">
+                          {% for value, label in fields %}
+                              <option value="{{ value }}"{% if value == field %} selected="selected" {% endif %}>
+                                  {{ label }}
+                              </option>
+                          {% endfor %}
+                      </select>
+                      <input type="submit" value="OK"/>
+                  </div>
+              </fieldset>
+          </form>
+          <div class="search-result">
+              {% if records.total == 0 %}
+                  <p>Keine Treffer für Ihre Suchanfrage</p>
+              {% else %}
+                  <p>
+                      Zeige Treffer {{ 1 + paginator.currentPageOffset }} bis
+                      {% if paginator.currentPageOffset + paginator.itemsPerPage > records.total %}
+                          {{ records.total }}
+                      {% else %}
+                          {{ paginator.currentPageOffset + paginator.itemsPerPage }}
+                      {% endif %}
+                      von {{ records.total }}</p>
+                  {{ m.paginator(paginator) }}
+                  <ol>
+                      {% for record in records %}
+                          <li>
+                              {% if record.id in available %}
+                                  <a href="{{ path('repertorium.eintrag', { metsId: record.id }) }}">
+                                      <strong>
+                                          {% if record.title %}
+                                              {{ record.title.0 }}
+                                          {% else %}
+                                              [ohne Titel]
+                                          {% endif %}
+                                      </strong>
+                                  </a>
+                              {% else %}
+                                  {% if record.title %}
+                                      {{ record.title.0 }}
+                                  {% else %}
+                                      [ohne Titel]
+                                  {% endif %}
+                              {% endif %}
+                              <dl>
+                                  <dt>Signatur</dt>
+                                  <dd>
+                                      {% if record.identifier|length == 2 %}
+                                          {{ record.identifier.1 }}
+                                      {% else %}
+                                          {{ record.identifier.0 }}
+                                      {% endif %}
+                                  </dd>
+                                  <dt>Entstehungszeit</dt>
+                                  <dd>
+                                      {% if record.date_display %}
+                                          {{ record.date_display }}
+                                      {% else %}
+                                          Unbekannt
+                                      {% endif %}
+                                  </dd>
+                                  {% if record.creator_display %}
+                                      <dt>Verfasser</dt>
+                                      <dd>{{ record.creator_display.0 }}</dd>
+                                  {% endif %}
+                                  {% if record.abstract %}
+                                      <dt>Zusammenfassung</dt>
+                                      <dd>{{ record.abstract }}</dd>
+                                  {% endif %}
+                              </dl>
+                          </li>
+                      {% endfor %}
+                  </ol>
+              {% endif %}
+          </div>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="infopanel">
+          {% for facet in facets %}
+              <div class="facet">
+                  <h1>{{ facet.label }}</h1>
+                  <ul>
+                      {% for value in facet.facetValueContainer.iterator %}
+                          <li class="facet-value">
+                              <span class="facet-value-label {% if value.selected %} active {% endif %}">
+                                  <a href="?{{ value.query|url_encode }}">
+                                     {{ value.label }}
+                                  </a>
+                              </span>
+                              <span class="facet-value-count">{{ value.count }}</span>
+                          </li>
+                      {% endfor %}
+                  </ul>
+              </div>
+          {% endfor %}
+      </div>
+    </body>
+  </text>
+</TEI>

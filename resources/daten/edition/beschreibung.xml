@@ -1,0 +1,112 @@
+<?xml-stylesheet type="text/xsl" href="../../xslt/default.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="statisch" xml:id="edition.beschreibung.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+                        Wolfenbüttel</name>
+                </publisher>
+                <pubPlace>
+                    <name>Wolfenbüttel, Germany</name>
+                </pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Handschriftenbeschreibung</head>
+                <p>Die Handschrift mit der Signatur Cod. Guelf. 42.19 Aug. 2° ist ein Autograph von August d. Jüngeren. Sie gelangte vermutlich bereits nach dem Tod des Verfassers (1666) in die Verwahrung der nach ihm benannten Herzog August Bibliothek in Wolfenbüttel, in deren Besitz sie sich noch heute befindet. 
+                    Der Originaltitel lautet „Ephemerides.
+                    Sive Diarium". Gerahmt ist der Titel von der doppelten
+                    Abkürzung „mp" (manu propria = mit eigener Hand). Nach dem Titel folgt eine Liste mit den Namen
+                    der Nichten und Neffen Augusts, den Nachkommen von <rs ref="register.xml#Anton_II." type="person">Anton II. von Oldenburg-Delmenhorst</rs> (1550-1619) und Augusts Schwester <rs ref="register.xml#Sibylle_El_Ol" type="person">Sibylle Elisabeth von Braunschweig-Dannenberg</rs> (1576-1630). 
+                    Das Manuskript war in weißes Pergament gebunden und mit einer
+                    Überschlagklappe und einem Pergamentriemen versehen. Heute ist der alte Einband, der noch beiliegt, durch einen weißen Pappeinband ersetzt. Dem Diarium liegen außerdem
+                    drei Briefe bei, zwei in der Handschrift des Herzogs an Bernhard Rülow
+                    (Rostock 13.04.1594, 24.11.1594) sowie ein Antwortbrief an August (22.10.1665). Es gibt
+                    verschiedene Anmerkungen mit Bleistift von fremder Hand sowie eine Zeichnung Augusts auf 9r.</p>
+                <p>Die Handschrift besteht aus 60 beschriebenen und 37 leeren Folioseiten. Das
+                    Manuskript ist in zwei Spalten eingeteilt. Die beiden Spalten haben zwei Funktionen, erstens den Haupttext 
+                    sowie zweitens die Kommentare und nachträglichen Anmerkungen in Form von Marginalien aufzunehmen. Beispielsweise wird dem Abschnitt über das Jahr 1626 eine Notiz in der
+                    linken Spalte hinzugefügt „Auf der h. zu Grabow begrebniß“ (51v). Stellenweise
+                    verlässt der Verfasser diese Ordnung, überschreibt die vorher gezogenen Linien
+                    und nutzt die Seite, als fehle jegliche Unterteilung (z.B. 23v). Die
+                    Einträge in der Spalte für den Haupttext werden durch waagerechte Striche
+                    voneinander, ein Jahr von dem anderen gewöhnlich durch doppelte Unterstreichung
+                    getrennt. Die Schrift füllt ähnlich wie beim Blocksatz jede Zeile einer Spalte
+                    voll aus. Augusts Einträge folgen einem bestimmten Schema. Einleitend nennt er
+                    das Datum mit Tages-, Monats- und Wochentagsangabe, letztere ausgedrückt durch
+                    das zugehörige Planetensymbol. Wenn man die Wochentage ins Verhältnis zum
+                    Datum setzt, ergibt sich, dass August nach dem, in den allermeisten protestantischen Territorien des Heiligen Römischen Reiches deutscher Nation bis 1700 gültigen, Julianischen Kalender
+                    datiert.</p>
+                <p>Der Hauptteil des Eintrags variiert je nach Thema stark in Umfang und Aufbau,
+                    grundsätzlich zählt der Verfasser die besuchten Orte auf, jeweils mit Namen versehen und
+                    je nach Größe betitelt mit Dorf, Stadt, Flecken oder Reichsstadt. Außerdem werden
+                    die Personen und Sehenswürdigkeiten wie Paläste, Klöster und Gartenanlagen teilweise sehr ausführlich beschrieben. Abgeschlossen wird ein
+                    Eintrag für gewöhnlich mit der Angabe der Herberge und der zurückgelegten Etappe, die mit Meilenangaben versehen ist. Für
+                    Einträge außerhalb der größeren Reisen gilt das gleiche Muster. Die andere Themen reichen von Todesfällen (42r) über Geburten, Taufen, Hochzeiten
+                    (51r, 38r) und Turniere bis hin zu Schmuckeinkäufen sowie zur Auflistung von
+                    Besuchern und Gegenbesuchen.</p> 
+                <p> Der Umfang einer Notiz kann von einer Zeile bis zu mehreren Seiten reichen. In
+                        einigen Fällen übernimmt August während der Auslandsreisen in Italien ganze
+                       Inschriften in seine Aufzeichnungen. Die Hauptsprache des Diariums ist Deutsch, Fremdwörter, Namen oder Inschriften
+                        sowie kirchliche oder offizielle Bezeichnungen hat August in lateinischer
+                        Sprache und in Auszeichnungsschrift wiedergegeben. Außerdem
+                        wird für wenige Zeilen Geheimschrift verwendet.</p>                     
+                <p>Außer den Strichen, Doppelstrichen und Spalten weist das Diarium keine Einteilungen
+                    in Kapitel oder Absätze auf. Die Einträge besitzen kaum Verschreibungen,
+                    Durchstreichungen oder Veränderungen. Die Schrift ist zumeist flüssig und fast
+                    immer gleichmäßig über die Spalten verteilt. Das Tagebuch ist bis auf die später
+                    hinzugefügten Kommentare und Zusätze chronologisch und nicht thematisch
+                    aufgebaut. Das Diarium deckt einen Zeitraum von über vierzig Jahren ab, mit
+                    Lücken von mehreren Tagen oder Monaten, die Jahre 1616, 1617 und 1631 fehlen gänzlich. Es wurde von August selbst verfasst, dies ist
+                    evtl. dadurch zu begründen, dass es sich nicht um ein ausschließliches
+                    Reisetagebuch handelt, sondern inhaltlich ausdifferenzierter ist. Der Schreibstil Augusts wirkt selten emotional,
+                    sondern eher rational und berichtend. Dabei reichen die Beschreibungen von
+                    Gegenständen oder Tieren von einem sehr detaillierten bis zu einem
+                    verkürzten Stil. Für eine eventuelle Interpretation des Textes ist die Tatsache zu beachten, dass
+                    August alle genannten Inhalte in einem Tagebuch zusammenfasst und die Reisen
+                    nicht separiert. Hingegen wurden die Kosten und Ausgaben in zwei Ausgabenbüchern festgehalten, von denen August eines selbst verfasste („Des Herzog August eigenhändig geführte Rechnung über die von seinen Handgeldern bestrittenen Ausgaben. Angefangen zu Dannenberg“ Niedersächsisches Landesarchiv - Staatsarchiv Wolfenbüttel: 1 Alt 22, Nr. 117).
+                    Das zweite wurde für ihn von seinem Hofmeister Volrad von Watzdorf (1568-1641) im Zeitraum von 1595 bis
+                    1598 geführt, es enthält die Einnahmen und Ausgaben während der Aufenthalte in
+                    Tübingen und Straßburg („Volrad v. Watzdorfs Rechnung über die zu Hzg. August d. J. Reisen und Aufenthalt zu Tübingen und Straßburg verwandten Gelder“ Niedersächsisches Landesarchiv - Staatsarchiv Wolfenbüttel: 1 Alt 22, Nr. 114. ).</p>                               
+                <p>Beginn und
+                    Endpunkt des Diariums bilden jeweils markante Lebensabschnitte Augusts. Er
+                    beginnt das Tagebuch mit dem Eintritt in die Universität (10.04.1594) und beschließt es fast auf den Tag 41 Jahre später im
+                    Jahr seines Einzugs in die Residenz Wolfenbüttel (16.04.1635). Über die Reiseumstände
+                    erfahren wir z.B., dass Bernhard Tege als „Hofmeister, Präzeptor und Reiseleiter“ in
+                    einer Person fungierte. Selten finden die Ausrüstung, die Begleitpersonen, die
+                    Reisemotivation oder Reisebedingungen, so z. B. „die Post gehn Fontenbleaů
+                    geritten“ Erwähnung. Teilweise werden besondere Wetterverhältnisse, wie z. B.
+                    „den 11 Julÿ. ʘ ein grosser vngestümer windt, hagell vnd donner, vnter der
+                    predigt entstanden“ oder außergewöhnliche Fortbewegungsmittel, wie z.B. Schiffe
+                    „fregata gezogen biß Gozzo Jnsell, Cumini Jnsell, Malta Jnsell”, notiert. Der
+                    Tageseintrag während einer Reise (17.08.1600) endet nach dem Datum und einem
+                    kurzen Text in eine größere Leerstelle. Dies deutet darauf hin, dass August
+                    zumindest einige Einträge von früheren Notizen auf Zetteln oder Büchern später
+                    ins Diarium übertragen hat. Es gibt zudem eindeutige Hinweise darauf, dass er sein Tagebuch nachträglich bearbeitet
+                    hat, indem er beispielsweise Abkürzungen später selbst auflöste. Da das Diarium
+                    über viele Jahre geführt wurde, verändert sich das Schriftbild im Verlauf des
+                    Diariums stark.</p>
+                <p>Die Eigenheiten der Handschrift Augusts sind vor allem, dass das doppelte Minuskel-t
+                    zu einem Buchstabenzeichen zusammengezogen wird. Die Wortendungen `-en`, `-em`
+                    werden durch Verschleifung gekürzt. Das Affix `ver-` wird durch ein
+                    durchgestrichenes Minuskel-v wiedergegeben. Das `sch` innerhalb eines Wortes wird
+                    zu `sh` verkürzt. Kürzung von `dem` und `den` zu `d` + Verschleifung.</p>
+                <p>Unter dem Pseudonym Gustavus Selenus verfasste August ein Standardwerk zur Kryptographie (<ref type="opac" cRef="092020607">Cryptomenytices et
+                    cryptographiae libri IX. Lunaeburgi 1624</ref>). Im Diarium verwendet er eine Geheimschrift, die er im genannten Werk erläutert. Auf 25r und 36r  befinden sich chiffrierte Stellen und als
+                    nachträgliche Bleistiftnotizen der Versuch einer Dechiffrierung: „einem Pferde gefallen im scharmutzieren“. 
+                    Da es sich bei der Geheimschrift um eine Substitution handelt, kann jeder Buchstabe durch einen anderen ersetzt werden. 
+                    Daraus ergibt sich die korrekte Dechiffrierung: „mit dem Pferde gefallen“.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

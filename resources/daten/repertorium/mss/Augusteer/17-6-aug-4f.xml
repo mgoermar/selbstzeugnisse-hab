@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  type="repertorium" xml:id="repertorium.eintrag.17-6-aug-4f.xml">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>17.6 Aug. 4° - Tagebuch Johannes Werner</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+          Wolfenbüttel</name></publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
+            <collection>Augusteer in Quart</collection>
+            <idno>17.6 Aug. 4°</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>17.6 Aug. 4°</idno></msIdentifier>
+            <msContents>
+              <summary>
+                Tagebuchartige Aufzeichnungen über politische, meteorologische und persönliche Ereignisse im Reich und auf lokaler Ebene, insbesondere in <rs type="place" ref="../../register.xml#Nuremberg">Nürnberg</rs>.
+              </summary>
+              <textLang mainLang="lat"/>
+              <msItem class="../../register.xml#Tagebuch">
+                <locus/>
+                <author ref="">Johannes Werner</author>
+                <title type="uniform">Tagebuch Johannes Werner</title>
+                <date type="coverage" from="1506" to="1521"/>
+                <rubric>
+                  Johannes Verneri presbiteri Bambergensis diocesis et vicarii seu rectoris cappelle beatorum Johannis baptiste et Johannis evangeliste Norinbergensis Historicus diarius inde ab anno 1506 – 1521
+                </rubric>
+                <note/>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>71 Bll.</measure>
+                    <dimensions>
+                      <height quantity="22" unit="cm"/>
+                      <width quantity="16" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>rechts oben</p>
+                  </foliation>
+                </supportDesc>
+              </objectDesc>
+              <bindingDesc>
+                <p>Pergament über Pappe</p>
+              </bindingDesc>
+            </physDesc>
+            <history>
+              <origin>
+                <origDate notAfter="1550" notBefore="1500">1. Hälfte 16. Jhdt.</origDate>
+              </origin>
+              <acquisition>
+                <p>1652/53 von Herzog August erworben</p>
+              </acquisition>
+            </history>
+            <additional>
+              <listBibl>
+                <bibl>Siegfried Bachmann, Johannes Werner, kaiserlicher Hofkaplan, Mathematiker und Astronom zu Nürnberg, als Chronist der Jahre 1506 bis 1521, in: Bericht des Historischen Vereins Bamberg 102 (1966), S. 315-337</bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+</TEI>

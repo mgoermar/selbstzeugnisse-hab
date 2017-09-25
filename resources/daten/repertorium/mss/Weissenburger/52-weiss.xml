@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.52-weiss.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>52 Weiss., 1 – Pilgerbericht Wilhelm Textor</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Weißenburger</collection>
+            <idno>52 Weiss.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>52 Weiss., 1</idno></msIdentifier>
+            <msContents>
+              <summary>In Ich-Form verfasster Pilgerbericht von Wilhelm Textor, hier in einer Abschrift vom Ende des 15. Jhds. Die Reise sowie das Ziel der Pilgerfahrt (1477-1478) werden ausführlich beschrieben. Reisestationen sind u.a. Venedig und Jaffa. Jerusalem und das Heilige Land werden im zweiten Teil des Berichtes genau beschrieben, dieser Teil ist etwas unpersönlicher gehalten. Auch Reisevorbereitungen und praktische Hinweise für Pilger finden Erwähnung.</summary>
+              <textLang mainLang="lat"/>
+              <msItem class="../../register.xml#Pilgerbericht">
+                <locus from="1" to="92"/>
+                <author ref="../../register.xml#Guilelmus_Textor">Wilhelm Textor</author>
+                <respStmt>
+                  <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
+                  <name>unbekannt</name>
+                </respStmt>
+                <title type="uniform">Pilgerbericht Wilhelm Textor</title>
+                <date type="coverage"/>
+                
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>93 Bll.</measure>
+                    <dimensions>
+                      <height quantity="29" unit="cm"/>
+                      <width quantity="21.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, mit Tinte 1-93</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Einspaltig geschrieben und unregelmäßig auf der Seite verteilt. Viele lerre Abschnitte. Rote Anfangsbuchstaben und Linien. Marginalien von verschiedenen Händen vorhanden</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Wurde 1968 restauriert, Einband aus dieser Zeit</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              
+              <provenance>
+                <p>Auf 13r: Iste lyber perdinet Johannis mynen wyllyghen deynst und weß ych gotz vermach [...]</p>
+              </provenance>
+              
+            </history>
+            <additional>
+              <listBibl>
+                <bibl>Gritje Hartmann: Wilhelm Tzewers: Itinerarius terre sancte. Einleitung, Edition, Kommentar und Übersetzung, Wiesbaden 2004.</bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

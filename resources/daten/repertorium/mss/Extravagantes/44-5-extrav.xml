@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.44-5-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>44.5 Extrav., 334r – Lebenslauf Ferdinand Albrechts I. von Braunschweig-Wolfenbüttel-Bevern</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>44.5 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>44.5 Extrav., 334r</idno></msIdentifier>
+            <msContents>
+              <summary>Autographer Lebenslauf Ferdinand Albrechts I. von Braunschweig-Wolfenbüttel-Bevern, in Ich-Form verfasst. Textanfang: "Jm Jahr Christi 1636 den 22 May Sontag Abens um 9 Uhr, 30 Minuten bin ich in der Stadt Braunschweig, auf dem so genanten Graven-Hoffe, gebohren". Wichtige Lebensstationen, wie z.B. die Taufe und Reisen, werden beschrieben. Außerdem wird auf seine Erziehung sowie ihm bekannte Personen und Orte Bezug genommen.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Lebenslauf">
+                <locus from="334r" to="341v"/>
+                <author ref="../../register.xml#Ferdinand_Albrecht_I._von_Braunschweig_Wolfenbuettel_Bevern">Ferdinand Albrecht I. von Braunschweig-Wolfenbüttel-Bevern</author>
+                <title type="uniform">Lebenslauf Ferdinand Albrechts I. von Braunschweig-Wolfenbüttel-Bevern</title>
+                <date type="coverage" from="1636-05-22" to="1671-01-07"/>
+                
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>I + 357 Bll.</measure>
+                    <dimensions>
+                      <height quantity="33" unit="cm"/>
+                      <width quantity="21" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, Bleistiftfoliierung modern 334-341.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Jede Seite komplett beschrieben ohne Ränder oder Markierungen. Es gibt einige nachträgliche Hinzufügungen.</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Pappe</p>
+              </bindingDesc>
+              <accMat>
+                <p>Auf 343v folgt die Notiz: "Anno 1709. haben Hertzog Ferdinand Albrechts dhl. des Keyl. Regiment bekommen. NB. addidit Dn. Consil. Hille."</p>
+              </accMat>
+            </physDesc>
+            
+            
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

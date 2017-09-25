@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.221-2-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>221.2 Extrav., 3r – Lebenslauf Johann Tennhart 1709-1710</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>221.2 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>221.2 Extrav., 3r</idno></msIdentifier>
+            <msContents>
+              <summary>Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> 1709-1710. Im Lebenslauf sind viele 
+                Traumbeschreibungen enthalten. Für <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> sind diese Träume das an ihn gerichtete Wort Gottes, 
+                an welchem er sein Leben ausrichtet.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Lebenslauf">
+                <locus from="3r" to="262v"/>
+                <author ref="../../register.xml#Johann_Tennhart">Johann Tennhart</author>
+                <title type="uniform">Lebenslauf <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> 1709-1710</title>
+                <date type="coverage" from="1709-02-05" to="1710-02-25">05.02.1709 bis 25.02.1710</date>
+                <rubric>Anno 1709. 1. Gehört zum Original. B. ist die Erste Abschrift.</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>343 Bll.</measure>
+                    <dimensions>
+                      <height quantity="21.5" unit="cm"/>
+                      <width quantity="17.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, nachträglich 1-343.</p>
+                  </foliation>
+                </supportDesc>
+                
+              </objectDesc>
+              
+              
+              <bindingDesc>
+                <p>Braunes Leder. Titel auf dem Buchrücken: <rs type="person" ref="../../register.xml#Johann_Tennhart">Joh. Tennhart</rs> Lebenslauf Vol. II.</p>
+              </bindingDesc>
+              <accMat>
+                <p>In der Handschrift ist außerdem enthalten: 287r-335v Fragmente der Lebensbeschreibung, Überschrift auf 287r: Diß ist daß rechte Original, deckt sich inhaltlich mit 3r-26v. Auf 263r-286v befindet sich der Traktat an die verstreuten Juden und ebenso eine Fortsetzung des Lebenslaufs, die sich mit 221.1 293r-310r deckt. Weitere Teile des Lebenslaufs befinden sich in <ref target="221-1-extrav.xml">221.1</ref> und <ref target="221-3-extrav.xml">221.3 Extravagantes</ref></p>
+              </accMat>
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1709-02-05" to="1710-02-25"/>
+                
+              </origin>
+              
+              <acquisition>
+                <p>Laut <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, 
+                  Teil 3, 220.1 Extrav. - 317 Extrav., Frankfurt am Main 1993) durch <rs type="person" ref="../../register.xml#Tobias_Eisler">Tobias Eisler</rs> in die Wolfenbütteler Bibliothek gekommen.</p>
+              </acquisition>
+            </history>
+            <additional>
+              <listBibl>
+                <bibl><rs type="person" ref="../../register.xml#Johann_Tennhart">Tennhardt, Johann</rs>: Gott allein soll die Ehre seyn: Welcher mir befohlen fein: Zu schreiben durch seinen Geist allein: Gantz wunderlich zwey Tractätelein: An alle menschen insgemein ... : Benebst meinem Johann Tennhardts Lebens-Lauff ... / Alles in und durch die Liebe geschrieben in Nürnberg den 3. Novembr. [Nürnberg], 1710.</bibl>         
+                <bibl>A Dieu seul la gloire, qui m'a commandé d'écrire par son esprit d'une maniére du tout merveilleuse 2 traitez à tous les hommes en général, qu'ils soient empereures, rois ... Ensemble la vie de moi, Jean Tennhard. Trad. et impr. en françois
+                  / Jean Tennhard. - [S.l.], 1712</bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

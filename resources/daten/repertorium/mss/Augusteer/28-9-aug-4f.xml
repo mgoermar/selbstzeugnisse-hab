@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.28-9-aug-4f.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>28.9 Aug. 4°, 1r – Reisebericht Emanuel Ortel</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Augusteer in Quart</collection>
+            <idno>28.9 Aug. 4°</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>28.9 Aug. 4°, 1r</idno></msIdentifier>          
+            <msContents>
+              <summary>Abschrift des Reiseberichtes von Emanuel Ortel. Anfangs in Ich-Form, später in Wir-Form verfasst. Die Reise führt von Augsburg über Venedig nach Ägypten. Laut Text war Oertel in Venedig ein Diener des Aloys Mocenigo, den er auf der Reise begleitete.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Reisebericht">
+                <locus from="1r" to="270r"/>
+                <author ref="../../register.xml#Emanuel_Oertel">Emanuel Ortel</author>
+                <respStmt>
+                  <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
+                  <name>unbekannt</name>
+                </respStmt>
+                <title type="uniform">Reisebericht Emanuel Ortel</title>
+                <date type="coverage" from="1561-05-03"/>
+                <rubric>Kurze Einfeltige Beschreibung der Raiß. So Emanuel Ortel von Augsburg. von Venedig auß in Egypten gethan hatte von seinem eigenen Exemplar nachgeschrieben im Jahr MDLXVI.</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier mit rot gesprenkeltem Schnitt</material>
+                  </support>
+                  <extent>
+                    <measure>II + 273 Bll.</measure>
+                    <dimensions>
+                      <height quantity="19.5" unit="cm"/>
+                      <width quantity="16" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, original 1-101, Bleistiftfoliierung modern 220-270</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Absätze durch Zeileneinzug markiert</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Pergament, zwei defekte Bandbuchschließen</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1566" to="1566"/>
+                
+              </origin>
+              
+              
+            </history>
+            
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

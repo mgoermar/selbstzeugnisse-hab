@@ -1,0 +1,25 @@
+{
+    "autoload": {
+        "psr-0": {
+            "HAB\\": "src/"
+        }
+    },
+    "require": {
+        "silex/silex": "^2.0",
+        "hab/solr": "dev-master",
+        "hab/paginator": "dev-master",
+        "twig/twig": "~1.0",
+        "symfony/twig-bridge": "^3.2",
+        "willdurand/negotiation": "^2.3"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url":  "git@github.com:dmj/php-solr.git"
+        },
+        {
+            "type": "git",
+            "url":  "git@github.com:dmj/php-paginator.git"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.70-1-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>70.1 Extrav., 1r – Wand- und Schreibkalender Niedersachsen, 1580-1610</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>70.1 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>70.1 Extrav., 1r</idno></msIdentifier>
+            <msContents>
+              <summary>Sammlung von Wand- und Schreibkalendern der Jahre 1580-1610. Die Einblattdrucke sowie Schreibkalender 
+                sind teilweise gefaltet, oft zerschnitten und zusammengeklebt worden. Enthalten sind zahlreiche handschriftliche Notizen, hauptsächlich zu 
+                <rs type="place" ref="../../register.xml#Hannover">Hannover</rs>, <rs type="place" ref="../../register.xml#Wolfenbuettel">Wolfenbüttel</rs> und 
+                <rs type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs>-<rs type="place" ref="../../register.xml#Lueneburg">Lüneburg</rs>. Mit Ausnahme der Jahre 1594 und 1601 lückenlos geführt. 
+                Es sind gedruckte Kalenderblätter folgender Personen enthalten: <rs type="person" ref="../../register.xml#Lukas_Bathodius">Lukas Bathodius</rs>, 122r, 
+                132r; <rs type="person" ref="../../register.xml#Kaspar_Bucha">Kaspar Bucha</rs>, 17r, 27r, 58r, 109r, 118r, 145r; <rs type="person" ref="../../register.xml#Georg_Busch">Georg Busch</rs>, 
+                10r; <rs type="person" ref="../../register.xml#Georg_Caesius">Georg Caesius</rs>, 36r, 45r; <rs type="person" ref="../../register.xml#Georg_Friedrich_Caesius">Georg Friedrich Caesius</rs>,
+                192r; <rs type="person" ref="../../register.xml#Matthias_Fischer">Matthias Fischer</rs>, 124r; <rs type="person" ref="../../register.xml#Valentin_Fuhrmann">Valentin Fuhrmann</rs>;
+                <rs type="person" ref="../../register.xml#Hartmann_Beyer">B. Hartmann</rs>, 166r; <rs type="person" ref="../../register.xml#Georg_Henisch">Georg Henisch</rs>, 161r;
+                <rs type="person" ref="../../register.xml#Bartholomaeus_Huebner">Bartholomäus Hübner</rs>, 18r, 45r; <rs type="person" ref="../../register.xml#Valentin_Jacobi">Valentin Jacobi</rs>,
+                136r; <rs type="person" ref="../../register.xml#Johann_Kandler">Johann Kandler</rs>, 45r; <rs type="person" ref="../../register.xml#Johann_Krabbe">Johann Krabbe</rs>, 
+                178r, 189r, 197r, 202r, 208r, 227r; <rs type="person" ref="../../register.xml#Johann_Mencius">Johann Mencius</rs>, 211; <rs type="person" ref="../../register.xml#Simon_Mencius">Simon Mencius</rs>,
+                174r; <rs type="person" ref="../../register.xml#Hektor_Mithobius">Hektor Mithobius</rs>, 2r, 14r, 36r, 50r, 63r, 81r, 142r, 149r; 
+                <rs type="person" ref="../../register.xml#Albinus_Moller">Albinus Moller</rs>, 77r, 80r; <rs type="person" ref="../../register.xml#Bartholomaeus_Moller">Bartholomäus Moller</rs>, 
+                185r; <rs type="person" ref="../../register.xml#Tobias_Moller">Tobias Moller</rs>, 76r; <rs type="person" ref="../../register.xml#Andreas_Rosa">Andreas Rosa</rs>, 17r, 
+                159r; <rs type="person" ref="../../register.xml#Burkhard_Victorinus_Schoenfeld">Burkhard Victorinus Schönfeld</rs>, 193r; 
+                <rs type="person" ref="../../register.xml#Moritz_Steinmetz">Moritz Steinmetz</rs>, 1r; <rs type="person" ref="../../register.xml#Valentin_Steinmetz">Valentin Steinmetz</rs>, 
+                99r; <rs type="person" ref="../../register.xml#Leonhard_Thurneisser">Leonhard Thurneisser</rs>, 26r. 
+                Enthält einen Auszug aus <rs type="person" ref="../../register.xml#David_Chytraeus">David Chyträus</rs>: Sylva cronici saxonici <ref type="opac" cRef="233592024">Chyträus, David: Sylva chronici ab anno Christi 1581 vsq[ue]
+                  ad 1589, [Rostock] 1589.</ref>; auf 86r folgt eine Liste der in der Nacht am 25.12.1589 aus der Kirche in
+                <rs type="place" ref="../../register.xml#NeuCeolln">Cölln an der Spree</rs> gestohlenen Gegenstände hier: Kelch aus Gold, Bild aus Gold, Bild eines Kaisers (vgl. ZStA Merseburg, Rep. II Nr. 11, Bl. 114r-U4v, 115 Bezeichnung).</summary>            
+              <textLang mainLang="deu" otherLangs="lat"/>
+              <msItem class="../../register.xml#Schreibkalender">
+                <locus from="1r" to="228"/>
+                <author ref="../../register.xml#Bernhard_Hohmeister">Bernhard Hohmeister</author>
+                <title type="uniform">Wand- und Schreibkalender Niedersachsen, 1580-1610</title>
+                <date type="coverage" from="1580" to="1610"/>
+                
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>II + 229 Bll.</measure>
+                    <dimensions>
+                      <height quantity="35.5" unit="cm"/>
+                      <width quantity="21.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, nachträglich 1-229.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Enthält weitere leere zusammengeklebte Blätter, darunter viele Briefumschläge, die teils an den Rat und den Bürgermeister der Stadt <rs type="place" ref="../../register.xml#Hannover">Hannover</rs> adressiert sind.</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              
+              <bindingDesc>
+                <p>Brauner Lederband</p>
+              </bindingDesc>
+              <accMat>
+                <p>Auf dem Vorsatzblatt ist ein Titel von unbekannter Hand mit Bleistift vermerkt: Calendaria Antiqua de annii 1580-1597.</p>
+              </accMat>
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1580" to="1610"/>
+                <origPlace ref="../../register.xml#Niedersachsen">Niedersachsen</origPlace>
+              </origin>
+              
+              
+            </history>
+            <additional>
+              <listBibl>
+                <bibl>Cod. Guelf. 91.8-9 Extrav., Cod. Guelf. 91.11-13 Extrav., Cod. Guelf. 112.2 Extrav., <ref type="opac" cRef="313955417">Homeister, Bernhard: [Aufzeichnungen zur Geschichte der Stadt Hannover] Bernhard Hohmeister's Aufzeichnungen zur Geschichte der Stadt Hannover, mitgetheilt vom Archiv-Secretair Dr. Grotefend und Amtsrichter Fiedeler, Hannover 1861</ref></bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

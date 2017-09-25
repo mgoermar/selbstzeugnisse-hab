@@ -1,0 +1,364 @@
+#
+# Schema Selbstzeugnisse Repertorium
+#
+# Autor:      David Maus <maus@hab.de>
+# Time-stamp: <2017-08-10 17:01:36 maus>
+#
+# ChangeLog
+#
+# 2017-08-10  David Maus  <maus@hab.de>
+#   * <textLang>/@otherLangs optional
+#   * <msIdentifier>/<institution> zulässig
+#   * <titleStmt> und <publicationStmt> zulässig
+#   * <TEI>/@xml:id zulässig
+#   * <author>/@ref optional
+#   * Regeln für Register entfernt
+#   * <origin> optional
+#   * <history> optional
+#
+# 2017-07-21  David Maus  <maus@hab.de>
+#   * <death> und <birth> optional
+#   * <idno> für Personenregistereintrag zulässig
+#   * <idno> für Ortsregistereintrag zulässig
+#
+# 2017-01-13  David Maus  <maus@hab.de>
+#   * TEI/@type mit Wert 'repertorium' als Marker für <oXygen/> Dokumenttyp
+#
+# 2016-06-13  David Maus  <maus@hab.de>
+#   * @from und @to dürfen auch leere Attribute sein
+#   * <lg><l>+ in Freitext zulassen
+#
+# 2016-02-19  David Maus  <maus@hab.de>
+#   * Signatur des Selbstzeugnisses ist optional
+#
+# 2016-02-05  David Maus  <maus@hab.de>
+#   * <respStmt> kann beliebige Rolle definieren
+#   * <handDesc> nicht mehr zulässig
+#
+# 2016-02-03  David Maus  <maus@hab.de>
+#   * Verwendung von generischen Verweisen in Freitext zugelassen
+#
+# 2016-02-01  David Maus  <maus@hab.de>
+#   * <respStmt> für Angabe des Redaktors (E23) erlauben
+#   * Pattern-Einschränkung für Personen- und Ortsverweise entfernt
+#     (dann macht <oXygen> auch brav eine Kandidatenliste)
+#
+# 2015-08-04  David Maus  <maus@hab.de>
+#   * Wiederholung von bibl in listBibl zulassen 
+#
+# 2015-07-20  David Maus  <maus@hab.de>
+#   * rs/@ref als optional definiert
+#
+# 2015-03-20  David Maus  <maus@hab.de>
+#
+#   * ref/@cRef und ref/@type als data.text, nicht data.enumerated
+#   * taxonomy ist innerhalb der classDecl wiederholbar
+
+default namespace = "http://www.tei-c.org/ns/1.0"
+
+include "tei/tei.rnc" {
+   data.temporal.w3c =
+      xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | empty
+}
+include "tei/core.rnc"
+include "tei/header.rnc"
+include "tei/namesdates.rnc"
+
+tei.att.datable.w3c.attributes = att.datable.w3c.attributes
+tei.data.text = data.text
+tei.taxonomy = taxonomy
+tei.birth = birth
+tei.death = death
+tei.persName = persName
+tei.placeName = placeName
+tei.idno = idno
+tei.titleStmt = titleStmt
+tei.publicationStmt = publicationStmt
+
+start = Repertoriumseintrag
+
+Repertoriumseintrag =
+   element TEI {
+      attribute type { "repertorium" },
+      attribute xml:id { xsd:ID },
+      element teiHeader {
+         element fileDesc {
+            tei.titleStmt,
+            tei.publicationStmt,
+            e.sourceDesc
+         }
+      },
+      \text?
+   }
+
+
+e.sourceDesc =
+   element sourceDesc {
+      e.msDesc
+   }
+
+e.note =
+   element note {
+      ( text | e.ref )*
+   }
+
+e.ref =
+   element ref {
+      (
+         attribute target { xsd:anyURI } |
+         (
+            attribute cRef { tei.data.text },
+            attribute type { tei.data.text }
+         )
+      ),
+      text?
+   }
+
+e.msDesc =
+   element msDesc {
+      E01,
+      element msPart {
+         E02b?,
+         element msContents {
+            E19,
+            E18,
+            element msItem {
+               E06,
+               E02a,
+               E03*,
+               E23*,
+               E05,
+               E10,
+               E04?,
+               e.note*
+            }
+         },
+         element physDesc {
+            element objectDesc {
+               element supportDesc {
+                  E12,
+                  element extent {
+                     E13?,
+                     E14
+                  },
+                  E15
+               },
+               E16?
+            },
+            E17?,
+            E11,
+            E20?
+         },
+         element history {
+            element origin {
+               E09,
+               E22*
+            }?,
+            E07
+         }?,
+         element additional {
+            E21?
+         }?
+      }
+   }
+
+# E01: Aufbewahrungsort
+E01 =
+   element msIdentifier {
+      element institution {
+          attribute ref { xsd:anyURI },
+          text
+      },
+      element collection { text },
+      element idno { text }
+   }
+
+# E02: Signatur des Selbstzeugnisses
+E02a =
+   element locus {
+      attribute from { xsd:string { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" } },
+      attribute to { xsd:string { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" } }
+   }
+
+E02b =
+   element msIdentifier {
+      element idno { text }
+   }
+
+# E03: Verfasser
+E03 =
+   element author {
+      attribute ref { xsd:anyURI }?,
+      text
+   }
+
+# E04: Title in Vorlageform
+E04 =
+   element rubric { Freitext }
+
+# E05: Sachtitel
+E05 =
+   element title {
+      attribute type { "uniform" },
+      ( Freitext )+
+   }
+
+# E06: Textart
+E06 =
+   attribute class { text }
+
+# E07: Besitzgeschichte
+E07 =
+   element provenance { Freitext | Absätze }?,
+   element acquisition { Freitext | Absätze }?
+
+# E08: Überlieferungsart
+E08 =
+   element handDesc {
+      element handNote { Freitext }+
+   }
+
+# E09: Entstehungszeit
+E09 =
+   element origDate {
+      tei.att.datable.w3c.attributes,
+      text
+   }
+
+# E10: Berichtszeitraum
+E10 =
+   element date {
+      attribute type { "coverage" },
+      tei.att.datable.w3c.attributes,
+      text
+   }
+
+# E11: Einband
+E11 =
+   element bindingDesc { Absätze }
+
+# E12: Beschreibstoff
+E12 =
+   element support {
+      element material { text }
+   }
+
+# E13: Umfang
+E13 =
+   element measure { text }
+
+# E14: Maße des Buchblocks
+E14 =
+   element dimensions {
+      element height {
+         attribute quantity { xsd:float },
+         attribute unit { "cm" | "mm" }
+      },
+      element width {
+         attribute quantity { xsd:float },
+         attribute unit { "cm" | "mm" }
+      }
+   }
+
+# E15: Seitenzählung
+E15 =
+   element foliation { Absätze }
+
+# E16: Seitenaufbau
+E16 =
+   element layoutDesc {
+      element layout {
+         Absätze
+      }
+   }
+
+# E17: Illustrationen
+E17 =
+   element decoDesc {
+      element decoNote {
+         Freitext
+      }*
+   }
+
+# E18: Sprache
+E18 =
+   element textLang {
+      attribute mainLang { xsd:language },
+      attribute otherLangs { list { xsd:language* } }?
+   }
+
+# E19: Inhaltsangabe
+E19 =
+   element summary { Freitext }
+
+# E20: Beigaben/Besonderheiten
+E20 =
+   element accMat { Freitext | Absätze }
+
+# E21: Editionen
+E21 =
+   element listBibl {
+      element bibl {
+         attribute type { xsd:token }?,
+         ( text | e.ref? )*
+      }*
+   }
+
+# E22: Entstehungsort
+E22 =
+   element origPlace {
+      attribute ref { xsd:anyURI },
+      text
+   }
+
+# E23: Redaktor
+E23 =
+   element respStmt {
+      element resp {
+         attribute ref { xsd:anyURI },
+         text
+      },
+      element name {
+         text
+      }
+   }
+
+# Datentypen
+Freitext =
+   ( text | Ortsverweis | Personenverweis | Hyperlink | Zeilengruppe )+
+
+Absätze =
+   element p { Freitext }*
+
+Ortsverweis =
+   element rs {
+      attribute type { "place" },
+      attribute ref { xsd:anyURI }?,
+      text
+   }
+
+Personenverweis =
+   element rs {
+      attribute type { "person" },
+      attribute ref { xsd:anyURI }?,
+      text
+   }
+
+Hyperlink =
+   element ref {
+      attribute target { xsd:anyURI },
+      text
+   }
+
+Zeilengruppe =
+   element lg {
+      element l { text }+
+   }

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" next="1622.xml" n="1621" prev="1620.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1621</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00100.jpg" n="48v">Anno 1621</head></div>
+            
+            <div xml:id="E1621-01-07"><head><date when="1621-01-07">den 7 Januar<ex>ÿ</ex> <c>☉</c>,</date></head><p> 
+                biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>, über die Elbe, beÿ <rs ref="register.xml#Lenzen" type="place">Lantzatze</rs>. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1621-09-14"><head><date when="1621-09-14">den 14 7bris <c>♀</c></date></head><p> biß <rs ref="register.xml#Neustadt_Glewe" type="place">Newstadt</rs>, 5.
+                m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-09-15"><head><date when="1621-09-15">d<ex>e</ex>n 15 7bris <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Parchim" type="place">Parchim</rs>, 
+                <rs ref="register.xml#Luebz" type="place">Lüptze</rs>, <rs ref="register.xml#Plate" type="place">Plage</rs>, 5. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-09-16"><head><date when="1621-09-16">d<ex>e</ex>n 16 7bris <c>☉</c>.</date></head><p> biß <rs ref="register.xml#Mirow" type="place">Miraw</rs>. <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert</note>.</p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00101.jpg" n="49r"/>
+            
+            <div xml:id="E1621-09-17"><head><date when="1621-09-17">den 17. 7bris. <c>☽</c></date></head><p> biß <rs ref="register.xml#Stargard_Stargard_Szczecinski" type="place">Stargardt</rs>
+                <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert</note>.</p></div>
+            
+            <div xml:id="E1621-09-18"><head><date when="1621-09-18">den 18 7bris <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Torgelow" type="place">Torgerlaw</rs>.
+                <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert</note>.</p></div>
+            
+            <div xml:id="E1621-09-20"><head><date when="1621-09-20">den 20 7bris <c>♃</c></date></head><p> biß <rs ref="register.xml#Stettin" type="place">Alten Stetin</rs>;
+                <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert</note>.</p></div>
+            
+            <div xml:id="E1621-10-02"><head><date when="1621-10-02">den 2. 8bris <c>♂</c></date></head><p> biß <rs ref="register.xml#Goleniow_Gollnow" type="place">Goldenaw</rs>. 6.
+                m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-10-03"><head><date when="1621-10-03">d<ex>e</ex>n 3 8bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Langendorf" type="place">Langendorf</rs>, biß <rs ref="register.xml#Gryfice_Greifenberg" type="place">Greiffenberg</rs>, 6. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-10-04"><head><date when="1621-10-04">d<ex>e</ex>n 4 8bris, <c>♃</c></date></head><p> biß <rs ref="register.xml#Altentreptow" type="place">Treptow</rs>. 2. meill.</p></div>
+            
+            <div xml:id="E1621-10-06"><head><date when="1621-10-06">den 6 8bris <c>♄</c></date></head><p> biß <rs ref="register.xml#Karlino_Koerlin" type="place">Carlin</rs>, 5. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-10-07"><head><date when="1621-10-07">d<ex>e</ex>n 7. 8bris <c>☉</c>,</date></head><p> biß <rs ref="register.xml#Koeslin" type="place">Lößlin</rs>; 2 m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-10-11"><head><date when="1621-10-11">d<ex>e</ex>n 11. 8bris <c>♃</c></date></head><p> biß <rs ref="register.xml#Gryfice_Greifenberg" type="place">Greiffenberg</rs>, 8. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-10-12"><head><date when="1621-10-12">d<ex>e</ex>n 12 8bris <c>♀</c></date></head><p> biß <rs ref="register.xml#Stepenitz_Stepnica" type="place">Stepenitz</rs>.</p></div>
+            
+            <div xml:id="E1621-10-16"><head><date when="1621-10-16">d<ex>e</ex>n 16 8bris <c>♂</c></date></head><p> biß <rs ref="register.xml#Stettin" type="place">Alten Stetin</rs>.</p></div>
+            
+            <div xml:id="E1621-10-18"><head><date when="1621-10-18">d<ex>e</ex>n 18 8bris, <c>♃</c></date></head><p> biß <rs ref="register.xml#Torgelow" type="place">Torgerlaw</rs>.</p></div>
+            
+            <div xml:id="E1621-10-19"><head><date when="1621-10-19">d<ex>e</ex>n 19 8bris <c>♀</c></date></head><p> biß <rs ref="register.xml#Stargard_Stargard_Szczecinski" type="place">Stargard</rs>.</p></div>
+            
+            <div xml:id="E1621-10-20"><head><date when="1621-10-20">d<ex>e</ex>n 20 8bris <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Mirow" type="place">Miraw</rs>.</p></div>
+            
+            <div xml:id="E1621-10-21"><head><date when="1621-10-21">d<ex>e</ex>n 21 8bris <c>☉</c>,</date></head><p> biß <rs ref="register.xml#Plau" type="place">Plawe</rs>.</p></div>
+            
+            <div xml:id="E1621-10-22"><head><date when="1621-10-22">d<ex>e</ex>n 22 8bris <c>☽</c></date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>, 6. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-10-23"><head><date when="1621-10-23">d<ex>e</ex>n 23 8bris <c>♂</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs></p></div>
+            
+            <div xml:id="E1621-12-01"><head><date when="1621-12-01">d<ex>e</ex>n 1. Xbris <c>♄</c></date></head><p> biß <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs>. 5 m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-12-02"><head><date when="1621-12-02">d<ex>e</ex>n 2 Xbris <c>☉</c></date></head><p> biß <rs ref="register.xml#Dreilingen" type="place">Dreyling</rs> 2 m<ex>eill</ex>. biß
+                <rs ref="register.xml#Bergen" type="place">Bergen</rs> 3 meyl.</p></div>
+            
+            <div xml:id="E1621-12-03"><head><date when="1621-12-03">d<ex>e</ex>n 3 Xbris <c>☽</c></date></head><p> biß <rs ref="register.xml#Dueshorn" type="place">Dußhorn</rs>, <rs ref="register.xml#Rethem" type="place">Rethem</rs>, <rs ref="register.xml#Hoya" type="place">Hoÿe</rs>, 7. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1621-12-04"><head><date when="1621-12-04">d<ex>e</ex>n 4 Xbris <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Syke" type="place">Sike</rs>, <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>.</p></div>
+            
+            <div><p>d<ex>e</ex>n</p><note type="annotation">In anderer Tinte und vermutlich zu einem späteren Zeitpunkt notierter Satzanfang</note></div>
+                    </body>
+    </text>
+</TEI>

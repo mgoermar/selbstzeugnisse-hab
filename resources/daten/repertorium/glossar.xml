@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="../schema/repertorium.rnc"?>
+<classDecl xmlns="http://www.tei-c.org/ns/1.0" xml:id="glossar">    
+  <list>
+      
+      <head>Recherchehilfe: Suchbegriffe und Synonyme</head>   
+       
+       <item>Lebenslauf, Vita, Lebens-Lauff, Lebensrückblick, Lebensverlauf, Lebensgeschichte, Lebensbild, Lebenserinnerung, Lebensbeschreibung, Lebensbericht, Curriculum vitae</item>
+       <item>Autobiographie, Selbstbiographie</item>
+       <item>Memoiren, Tagzettel, Erinnerungszettel, Memorandum, Tag-Büchlein, Pro Memoria</item>
+       <item>Tagebuch, Diensttagebuch, Diarium, Ephemeriden, Journal, Annalen, Rodel, Dnevniki</item>
+       <item>Reisebeschreibung, Kriegsbeschreibung, Traumbeschreibung</item>
+       <item>Notizkalender, Wandkalender, Schreibkalender</item>
+       <item>Chronik, Chronicon</item>
+       <item>Historia</item>
+       <item>Denkwürdigkeiten</item>
+       <item>Relation</item>
+      <item>Itinerar, Jtineris</item>
+       <item>Gedächtnisbuch, Erinnerungsbuch, Merkbuch, Gedenkbuch</item>
+       <item>Schreibkalender, Taschenkalender, Jahreskalender, Arbeitskalender</item>
+      <item>Kostenbuch, Haushaltbuch, Rechnungsbuch, Wirtsschaftsbuch</item>
+       <item>Logbuch, Hauptbuch, Einschreibbuch, Anschreibebuch</item>
+       <item>Sterbebuch, Geburtenbuch</item>
+       <item>Klosterbuch, Kloster- und Stiftsdiarium</item>
+      <item>Almanach</item>
+      <item>Reisebericht, Pilgerbericht, Kriegsbericht, Gefangenenbericht, Fluchtbericht, Traumbericht, Gesandtschaftsbericht</item>
+      <item>Familienchronik, Hauschronik, Familienbuch, Hausbuch, Liber Genealogie familie</item>
+                       
+       <head>Recherchehilfe: Oberbegriffe/Synonyme von Selbstzeugnis, Ego-Dokument und Autobiographie</head>
+       
+      <item>Artikulation des Ich</item>
+      <item>autobiographisches Material</item>
+      <item>autobiographische Texte</item>
+      <item>autoreferenzieller Text</item>
+      <item>Identitätszeugnis</item>
+      <item>Lebensdokument</item>
+      <item>lebensgeschichtliches Erzählen</item>
+      <item>Lebenszeugnis</item>
+      <item>Memoirenliteratur</item>
+      <item>private Schriftlichkeit, private Aufzeichnungen</item>
+      <item>persönliche Aufzeichnungen, persönliche Schriften</item>
+      <item>schriftliche Selbstthematisierung</item> 
+      <item>literarische Selbstbildnisse</item>
+      <item>zusammenhängede/ schriftliche Selbstdarstellung, Selbstbeschreibung</item>
+      <item>Selbstbiographie</item>
+      <item>Selbsterzählung</item>
+      <item>selbstreferentiell</item>
+      <item>Selbstsichtzeugnisse</item>     
+      <item>Zeitzeugnis</item>     
+   </list> 
+       
+</classDecl>
+

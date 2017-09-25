@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.30-3-extrav-2.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>30.3 Extrav., 53v – Abschiedsbrief</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>30.3 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>30.3 Extrav., 53v</idno></msIdentifier>
+            <msContents>
+              <summary>Abschiedsbrief aus der Mitte des 18. Jhds. <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, 
+                Teil 1, A Extrav.-90 Extrav., Frankfurt am Main 1986) vermerkt, dass der Brief 
+                von einem Hauptmann <rs type="person" ref="../../register.xml#Sievers">Sievers</rs> aus <rs type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs> 
+                verfasst wurde. Hierfür findet sich allerdings kein Nachweis. Transkription des Textes: 
+                "Daß Menschliche Leben ist an sich voller Mühsee-lichkeit, wenn dan daßelbe noch darzu beständig mit Verdruß 
+                vergeseelschafftet wird, und darum gar keine Änderung zu hoffen ist, kann auch daß Standthafftigste vielmehr 
+                ein ohneden zur Schwermuth geneigtes=Gemüth dahin gebracht werden, daß es dieses beschwerliche Leben mit einem Geschwinden Tode endiget."
+              </summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Abschiedsbrief">
+                <locus from="53v" to="53v"/>
+                <author ref="../../register.xml#Sievers"/>
+                <title type="uniform">Abschiedsbrief</title>
+                <date type="coverage"/>
+                
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>I. + 80 Bll.</measure>
+                    <dimensions>
+                      <height quantity="19" unit="cm"/>
+                      <width quantity="12.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, nachträglich 1-80.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Den Abschiedsbrief besiegelte der Schreiber mit einem stark aufgetragenen Strich unterhalb des Textes. 
+                      Es fehlen eine Unterschrift oder andere Hinweise auf den Verfasser.</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              
+              <bindingDesc>
+                <p>Pappe, Buchecken und Buchrücken sind mit braunem Leder bezogen.</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              
+              <provenance>
+                <p>Auf dem Vorsatzblatt ist vermerkt: Ex Donatione <rs type="person" ref="../../register.xml#Jacob_Burckhardt">Jacobo Burckhardi</rs></p>
+              </provenance>
+              
+            </history>
+            
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

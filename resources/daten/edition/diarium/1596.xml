@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" next="1597.xml" n="1596" prev="1595.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1596</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00008.jpg" n="2v">Anno 1596. <foreign xml:lang="lat">Biss<ex>extilis</ex></foreign><note type="translation">Schaltjahr</note></head></div>
+            
+            <div xml:id="E1596-01-07"><head><date when="1596-01-07">Den 7 Januar<ex>is</ex>
+                <c>☿</c></date></head> <p> Frischlini Comoedia<ex>m</ex> Latina<ex>m</ex> de Rebecca
+                    agierett.</p><note type="annotation">„Rebecca“ von Nicodemus Frischlin, August war in Begleitung von Martin Crusius</note></div>
+            
+
+            <div xml:id="E1596-01-15"><head><date when="1596-01-15">Den 15 Jan<ex>uaris</ex>
+                <c>♃</c></date></head> <p> d<ex>er</ex>
+                    <rs ref="register.xml#Wilhelm_Kurland" type="person">H<ex>err</ex> vo<ex>n</ex> Curlandt</rs> hir gewesen; vnd
+                    hab d<ex>az</ex> schloß besehen.</p></div>
+
+            <div xml:id="E1596-01-16"><head><date when="1596-01-16">Den 16 Jan<ex>uaris</ex>
+                <c>♀</c></date></head> <p> wiederwegkgezogen.</p></div>
+
+            <div xml:id="E1596-02-10"><head><date when="1596-02-10">Den 10 Febr<ex>uari</ex>
+                <c>♂</c></date></head> <p> <rs type="person">Peter d<ex>er</ex> Fechter</rs> angetretten.</p></div>
+
+            <div xml:id="E1596-02-14"><head><date when="1596-02-14">Den 14 Febr<ex>uari</ex> <c>♄</c></date></head> <p> nach <rs ref="register.xml#Stuttgart" type="place">stutgardt</rs> gezog<ex>en</ex> 4 meill.</p></div>
+
+            <div xml:id="E1596-02-15"><head><date when="1596-02-15">Den 15 Febr<ex>uari</ex> <c>☉</c></date></head> <p> d<ex>az</ex> lusthauß beseh<ex>en</ex>.</p></div>
+
+            <div xml:id="E1596-02-17"><head><date when="1596-02-17">Den 17 Febr<ex>uari</ex>
+                <c>♂</c></date></head> <p> zu<ex>m</ex>
+                    erstenmahl d&lt;<ex>en</ex>&gt; fueßthurnier <ex>ver</ex>suchett.</p></div>
+
+            <div xml:id="E1596-02-20"><head><date when="1596-02-20">Den 20 Febr<ex>uari</ex>
+                <c>♀</c></date></head> <p> H<ex>err</ex>
+                    <rs type="person">Frantz reysiger</rs> <rs type="person">knecht</rs> da ankommen.</p></div>
+
+            <div xml:id="E1596-02-24"><head><date when="1596-02-24">Den 24 Febr<ex>uari</ex>
+                <c>♂</c></date></head> <p> ist d<ex>er</ex> fueßthurnier recht gehalte<ex>n</ex> word<ex>en</ex> im Platze.</p></div>
+
+            <div xml:id="E1596-02-26"><head><date when="1596-02-26">Den 26 Febr<ex>uari</ex>
+                <c>♃</c></date></head> <p> wied<ex>er</ex>
+                    nach <rs ref="register.xml#Tuebingen" type="place">Tybing<ex>en</ex></rs> gezogen. 4 meill. </p></div>
+
+            <div xml:id="E1596-03-05"><head><date when="1596-03-05">Den 5 Martÿ. <del rend="overstrike"><c>♃</c></del><add><c>♀</c></add></date></head> <p> nach <rs ref="register.xml#Stuttgart" type="place">stutgardt</rs> aùf die
+                Kindtaufe gezog<ex>en</ex>.</p></div>
+
+            <div xml:id="E1596-03-06"><head><date when="1596-03-06">Den 6 Martÿ <c>♄</c></date></head> <p> d<ex>er</ex> <rs ref="register.xml#Eduard_Fortunat_von_Baden_Rodemachern" type="person">Marggraf vo<ex>n</ex> Bad<ex>en</ex> zu
+                Hochberg</rs> gesessen angelangett.</p></div>
+
+            <div xml:id="E1596-03-07"><head><date when="1596-03-07">Den 7 Mart<ex>ÿ</ex> <c>☉</c></date></head> <p> die Kindtaůfe gehalten, vnd seindt die
+                gefatttern gewese<ex>n</ex>, der <rs ref="register.xml#Friedrich_IV._Kurfuerst_Pfalz" type="person">Churfürst zu Heydelbergk</rs>, d<ex>er</ex> <rs ref="register.xml#Eduard_Fortunat_von_Baden_Rodemachern" type="person">Marggraff</rs>, des Herrn <rs ref="register.xml#Ursula_v_SL" type="person">Frawmutter</rs>, auf d<ex>en</ex> 
+                abendt ist beÿm Tantz d<ex>az</ex> Cartel zum <w>ringrenne<ex>n</ex></w><note type="annotation">Tjost, Zweikampfspiel mit der Lanze zu Pferd</note> abgelesen word<ex>en</ex>.</p></div>
+
+            <div xml:id="E1596-03-09"><head><date when="1596-03-09">Den 9 Mart<ex>ÿ</ex>
+                <c>♂</c></date></head> <p> d<ex>az</ex>
+                    <w>ringrenne<ex>n</ex></w><note type="annotation">Tjost, Zweikampfspiel mit der Lanze zu Pferd</note> gehalten word<ex>en</ex>. Der 1
+                    auffzueg, Globus caelestis, Italia, Gallia, Hispania, Germania d<ex>er</ex> <rs ref="register.xml#Friedrich_I._von_Wuerttemberg" type="person">H<ex>err</ex> vo<ex>n</ex> Wirtenberg</rs>
+    Mantenator, zween Aventurirer. Der 2. aufzuegk 6 Mönche, mit 6 nonne<ex>n</ex> vnd 4 Chorschüler. Der 3
+                aufzuegk d<ex>er</ex> <rs ref="register.xml#Eduard_Fortunat_von_Baden_Rodemachern" type="person">Marggraf vo<ex>n</ex> Baden</rs> mitt 5
+    Persone<ex>n</ex> wie Rittere, roht vnd weiß, 3 Pf&lt;<ex>erde</ex>&gt; im selben geschmůeck, hin:
+
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00009.jpg" n="3r"/>
+
+            dersich herziehen lassen. Der 4 aufzueg 7 geÿger in einem Kleide; ein gelarther, ein
+    Kriegßman, Fircks d<ex>er</ex> Janùs grün vnd graw gekleidett. Der 5
+    aufzueg 3 Jungfrawen, darunter Venùs d<ex>en</ex> Cupidine<ex>m</ex> am seÿll gefuehrett. Der 6 aufzueg, 3 Jungkfrawe<ex>n</ex> so ringe im mawll hetten. Der 7 aufzueg 3 Königinne<ex>n</ex>. Der 8. aufzueg, tag vnd nacht, mitt d<ex>en</ex> 7 Planeten. Der 9. aufzueg ettliche Mohren so Marggrä: vische. Der 10 aufzueg,
+    Türcken. Aùf d<ex>en</ex> abendt ist d<ex>az</ex>
+                Cartell zum fueßthurnier abgelesen.</p></div>
+
+            <div xml:id="E1596-03-10"><head><date when="1596-03-10">Den 10 Mart<ex>ÿ</ex>
+                <c>☿</c></date></head> <p> d<ex>az</ex>
+                    Kübelstechen geschen.</p></div>
+
+            <div xml:id="E1596-03-11"><head><date when="1596-03-11">Den 11 Mart<ex>ÿ</ex>
+                <c>♃</c></date></head> <p> d<ex>er</ex>
+                    fueßthurnier gehalten.</p></div>
+
+            <div xml:id="E1596-03-12"><head><date when="1596-03-12">Den 12 Mart<ex>ÿ</ex>
+                <c>♀</c></date></head> <p> die fechtschuell gehalten. Auf
+    d<ex>en</ex> abenth d<ex>az</ex> Fewrwerck, wie ein
+                    schiff gemachet, abgangen.</p></div>
+
+            <div xml:id="E1596-03-16"><head><date when="1596-03-16">Den 16 Martÿ <c>♂</c></date></head> <p> d<ex>er</ex> <rs ref="register.xml#Eduard_Fortunat_von_Baden_Rodemachern" type="person">Marggraff</rs> wegkgezogen.</p></div>
+
+            <div xml:id="E1596-03-01"><head><date when="1596-03-01">Den 18 Martÿ <c>♃</c></date></head> <p> bin ich wied<ex>er</ex> nach <rs ref="register.xml#Tuebingen" type="place">Tybing<ex>en</ex></rs> gezogen.</p></div>
+
+            <div xml:id="E1596-03-18"><head><date when="1596-03-18">Den 23 <del rend="overstrike"><c>♂</c></del> Mart<ex>ÿ</ex>
+                <c>♂</c></date></head> <p> d<ex>er</ex>
+                    <rs ref="register.xml#Friedrich_I._von_Wuerttemberg" type="person">H<ex>err</ex> vo<ex>n</ex> Wirtenberg</rs> hir
+                    ankommen.</p></div>
+
+            <div xml:id="E1596-03-25"><head><date when="1596-03-25">Den 25 <del rend="overstrike"><c>♃</c></del> Mart<ex>ÿ</ex>
+                <c>♃</c></date></head> <p> wied<ex>er</ex>wegkgezog<ex>en</ex>.</p></div>
+
+            <div xml:id="E1596-04-21"><head><date when="1596-04-21">Den 21 Apr<ex>ilis</ex>
+                <c>☿</c></date></head> <p> den <w>Haegdorn</w><note type="annotation">Weißdorn (Rosengewächs)</note> besehen sampt dem
+                    <w>vogelherdt</w><note type="annotation">Fangplatz, an dem verschiedene Vögel gefangen wurden</note> vnd <w>Pirsch<ex>en</ex>s</w><note type="annotation">Jagdart</note>.</p></div>
+
+            <div xml:id="E1596-04-26"><head><date when="1596-04-26">Den 26 Apr<ex>ilis</ex>
+                <c>☽</c></date></head> <p> statuta novi Collegÿ
+                    abgelese<ex>n</ex> vnd dasselbe wiederumb angefang<ex>en</ex> word<ex>en</ex>.</p></div>
+
+            <div xml:id="E1596-05-19"><head><date when="1596-05-19">Den 19 Maÿ <c>☿</c></date></head> <p> d<ex>az</ex> fechte<ex>n</ex> angefang<ex>en</ex>.</p></div>
+            
+            <div xml:id="E1596-07-02"><head><date when="1596-07-02">Den 2. Julÿ, <c>♀</c></date></head> <p> d<ex>az</ex> Bläserbadt besehen.</p></div>
+
+            <div xml:id="E1596-07-11"><head><date when="1596-07-11">Den 11 Julÿ. <c>☉</c></date></head> <p> ein grosser vngestümer windt, 
+                hagell vnd donner, vnter d<ex>er</ex> predigt entstand<ex>en</ex>.</p></div>
+
+            <div xml:id="E1596-07-19"><head><date when="1596-07-19">Den 19 Julÿ. <c>☽</c></date></head> <p> der <rs ref="register.xml#Johann_II._Pfalz_Zweibrueckender" type="person">
+               Pfaltzgrave vo<ex>n</ex> Zweÿbruck</rs> hir gewesen.</p></div>
+
+            <div xml:id="E1596-07-20"><head><date when="1596-07-20">Den 20 July <c>♂</c></date></head> <p> wied<ex>er</ex>wegkgezogen.</p></div>
+
+            <div xml:id="E1596-07-31"><head><date when="1596-07-31">Den 31 Julÿ. <c>♄</c></date></head> <p> d<ex>er</ex> <rs ref="register.xml#Friedrich_I._von_Wuerttemberg" type="person">H<ex>err</ex> vo<ex>n</ex> Wirtenberg</rs> 
+                mit dem <rs ref="register.xml#Johann_Georg_von_Brandenburg" type="person">Bischoff zu straßburg</rs> hir Kommen.</p></div>
+
+            <div xml:id="E1596-08-23"><head><date when="1596-08-23">Den 23 Aug<ex>usti</ex>
+                <subst><del><c>☉</c></del> <add><c>☽</c></add></subst></date></head> <p> <rs type="person">Gottfrid<ex>us</ex> Comes Öttingensis</rs> horam 1. pomer: in Sabb: Barth:</p></div>
+
+            <div xml:id="E1596-09-02"><head><date when="1596-09-02">Den 2 Sept<ex>embris</ex> <subst><del><c>☿</c></del> <add><c>♃</c></add></subst> </date></head> <p> <w>Kilbergk</w><note type="annotation">Schloss Kilchberg der Ritter von Ehingen</note> beÿ <rs ref="register.xml#Georg_von_Ehingen" type="person">Georg vo<ex>n</ex> Ehingen</rs>. Horologium.</p></div>
+
+            <div xml:id="E1596-09-06"><head><date when="1596-09-06">Den 6 Sept<ex>embris</ex> <subst><del rend="overstrike"><c>♂</c></del> <add><c>☽</c></add></subst> </date></head> <p> <foreign xml:lang="lat">Sepult<ex>us</ex> est</foreign><note type="translation">Ist begraben worden</note>
+                <rs type="person">comes Öttingensis</rs>.</p></div>
+
+            <div xml:id="E1596-09-13"><head><date when="1596-09-13">Den 13 Sept<ex>embris</ex>
+                <c>☽</c></date></head> <p> zu <rs ref="register.xml#Bebenhausen" type="place">Bebenhaůsen</rs> gewesen, alda
+                    ma<ex>n</ex> <seg>Frischlini Hildegarden</seg><note type="annotation">„Hildegardis magna“ (1579) von Nicodemus Frischlin</note> agierett.</p></div>
+
+            <div xml:id="E1596-09-14"><head><date when="1596-09-14">Den 14 Sept<ex>embris</ex>
+                <c>♂</c></date></head> <p> wied<ex>er</ex>hereinkommen.</p></div>
+
+            <div xml:id="E1596-09-16"><head><date when="1596-09-16">Den 16 Sept<ex>embris</ex>
+                <c>♃</c></date></head> <p> zu <w>Kilbergk</w><note type="annotation">Schloss Kilchberg der Ritter von Ehingen</note> gefatter
+                    gestand<ex>en</ex>.</p></div>
+
+            <div xml:id="E1596-09-20"><head><date when="1596-09-20">Den 20 <del rend="overstrike"><c>☽</c></del> Sept<ex>embris</ex>
+                <c>☽</c></date></head> <p> <rs type="person">Peter</rs> wegkgezogen.</p></div>
+
+            <div xml:id="E1596-10-18"><head><date when="1596-10-18">Den 18 Octobr<ex>is</ex>
+                <c>☽</c></date></head> <p> <foreign xml:lang="lat">Resigno<ex>r</ex> facta Rectoris: Gratulatio; deductio in domu<ex>m</ex></foreign><note type="translation">Ich werde Rektor, Glückwunsch, Einzug ins Haus</note></p><note type="annotation">Vom 18. Oktober 1596-1. Mai 1597 war August Rektor der Universität Tübingen</note></div>
+
+            <div xml:id="E1596-10-19"><head><date when="1596-10-19">Den 19 Octob<ex>ris</ex>
+                <c>♂</c></date></head> <p> die Rectorspredigt
+                    gehalten.</p></div>
+
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00010.jpg" n="3v"/>
+
+            <div xml:id="E1596-11-01"><head><date when="1596-11-01">Den 1 Novembr<ex>is</ex>
+                <c>☽</c></date></head> <p> auß dem vorigen haůß
+                    aůßgezogen. </p></div>
+
+            <div xml:id="E1596-11-17"><head><date when="1596-11-17">Den 17 Nov<ex>embris</ex>
+                <c>☿</c></date></head> <p> <foreign xml:lang="lat">Leges recitator sunt</foreign><note type="translation">Die Gesetze sind verlesen worden</note>.</p></div>
+
+            <div xml:id="E1596-12-02"><head><date when="1596-12-02">Den 2 Decembr<ex>is</ex>
+                <c>♃</c></date></head> <p> <w>Kilbergk</w><note type="annotation">Schloss Kilchberg der Ritter von Ehingen</note>.</p></div>
+
+            <div xml:id="E1596-12-03"><head><date when="1596-12-03">Den 3 Decemb<ex>ris</ex>
+                <c>♀</c></date></head> <p> d<ex>er</ex>
+                    <rs type="person">dögker</rs> angetreten.</p></div>
+
+            <div xml:id="E1596-12-14"><head><date when="1596-12-14">Den 14 Decembr<ex>is</ex>
+                <c>♂</c></date></head> <p> in <rs type="person">D. Hochmanß</rs> Collegium
+    gezogen.</p><note type="annotation">August zog zu Martin Crusius</note></div>
+
+
+        </body>
+    </text>
+</TEI>

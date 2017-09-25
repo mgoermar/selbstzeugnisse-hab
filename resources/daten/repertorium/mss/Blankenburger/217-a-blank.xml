@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.217-a-blank.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>217a Blank., 1 – Autobiographie Ludwig Rudolf von Braunschweig-Wolfenbüttel</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Blankenburger</collection>
+            <idno>217a Blank.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>217a Blank., 1</idno></msIdentifier>
+            <msContents>
+              <summary>Autobiographie von <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs> 
+                von seiner Geburt bis mindestens 1697. Auf dem Spiegel: "Cum Deo. Omnia. Dieses Buch welches in sich hält meine Lebensbeschreibung
+                habe ich angefangen den 17. April. in dem Jahre 1690. Gott laße es mir so lange fortsetzen, alß wie es ihm belieben wird. 
+                <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludewig Rudolff Hzg. Braunschweig Lüneburg</rs>". Unter anderem wird auch seine Kavaliersreise beschrieben, die Einträge hierzu enthalten 
+                Informationen zu Zeit, Ort, Dauer und beteiligten Personen. Tinte und Duktus der Einträge sind unterschiedlich, 
+                einige Passagen sind nachtrgäglich unkenntlich gemacht oder gestrichen worden.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Autobiographie">
+                <locus from="1" to="129"/>
+                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
+                <title type="uniform">Autobiographie <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs></title> 
+                <date type="coverage" from="1671" to="1697"/>
+                <rubric>Lebensbeschreibung</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Marmorpapier</material>
+                  </support>
+                  <extent>
+                    <measure>I + 181 S.</measure>
+                    <dimensions>
+                      <height quantity="20" unit="cm"/>
+                      <width quantity="15.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts. Original von 1r-129r, von anderer Hand 131r-133r und von einer weiteren Hand mit Bleistift 1, 10, 20, 50, 60 und 90.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Jedes Blatt mittig gefaltet und jeweils die Spalte innen beschrieben. In der leeren Spalte selten Anmerkungen und Änderungen.</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              
+              <bindingDesc>
+                <p>Braunes Leder</p>
+              </bindingDesc>
+              <accMat>
+                <p><ref target="http://diglib.hab.de/mss/217a-blank/start.htm">Digitalisat</ref>. Vergleiche außerdem: <ref target="28-blank.xml">28 Blankenburger</ref>, <ref target="89-blank.xml">89 Blankenburger</ref> und <ref target="286-a-blank.xml">286a Blankenburger</ref>.</p>
+              </accMat>
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1690-04-17" to="1696"/>
+                
+              </origin>
+              
+              
+            </history>
+            
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

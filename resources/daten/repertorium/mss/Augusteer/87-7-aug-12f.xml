@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.87-7-aug-12f.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>87.7 Aug. 12°, 65 – Haus- und Schreibkalender (1571) von Heinrich d. J. zu Braunschweig und Lüneburg</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Augusteer in Duodez</collection>
+            <idno>87.7 Aug. 12°</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>87.7 Aug. 12°, 65</idno></msIdentifier>
+            <msContents>
+              <summary>Schreibkalender des Jahres 1571. Heinrich d. J. zu Braunschweig-Lüneburg führte diesen wie einen heutigen Terminkalender. Die Einträge sind daher meist Termine von z.B. Hochzeiten und Jagden, ebenso werden aber auch nachträgliche Notizen zu Besuchen und Wetterereignissen verfasst.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Schreibkalender">
+                <locus from="65" to="157"/>
+                <author ref="../../register.xml#Heinrich_BS_LB">Heinrich d. J. zu Braunschweig und Lüneburg</author>
+                <title type="uniform">Haus- und Schreibkalender (1571) von <rs type="person" ref="../../register.xml#Heinrich_BS_LB">Heinrich d. J. zu Braunschweig und Lüneburg</rs></title>
+                <date type="coverage" from="1571-01-01" to="1571-12-31"/>
+                <rubric>1517. Gott verlest die seinen nicht. <rs type="person" ref="../../register.xml#Heinrich_BS_LB">Heinrich der Jünger zu Braunschweig und Lüneburgk</rs>.</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>157 Bll.</measure>
+                    <dimensions>
+                      <height quantity="9.5" unit="cm"/>
+                      <width quantity="7" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, Bleistiftfoliierung modern 1-157.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Jede Seite besitzt eine rote Überschrift (Monatsname auf Latein) und ist in zwei Zeilen für Tageseinträge gegliedert. Die Einträge zu den einzelnen Tagen erfolgen mit variierender Tinte. Seiten 14-23 und 56-64 sind leer. </p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              
+              <bindingDesc>
+                <p>Pergament mit geprägtem Muster, zwei Buchschließen. Text auf dem Einband vorne: "H.D.I.H.Z.B.V.L." (<rs type="person" ref="../../register.xml#Heinrich_BS_LB">Heinrich der Jüngere Herzog zu Braunschweig und Lüneburg</rs>); hinten "G.V.D.S.N." (Gott verlässt die Seinen nicht).</p>
+              </bindingDesc>
+              <accMat>
+                <p>Psalmen und Bibelzitate auf 1r-13v. Almanach des Jahres 1571 auf 24r-55v, gedruckt in Magdeburg durch Victorinum Schönfeld gestellt.</p>
+              </accMat>
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1571-01-01" to="1571-12-31"/>
+                <origPlace ref="../../register.xml#Wolfenbuettel">Wolfenbüttel</origPlace>
+              </origin>
+              
+              
+            </history>
+            <additional>
+              <listBibl>
+                <bibl>Ein zweiter Kalender (1572) Heinrichs d. J. zu Braunschweig-Lüneburg: <ref target="87-8-aug-12.xml">87.8 Aug. 12°</ref>.</bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

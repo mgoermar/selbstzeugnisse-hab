@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.62-3-B-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>62.3.B Extrav., 82r – Reisebericht Schweden</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>62.3.B Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>62.3.B Extrav., 82r</idno></msIdentifier>
+            <msContents>
+              <summary>Reisebericht und Zeichnungen eines Reisenden in Schweden über Sehenswürdikeiten wie Kirchen, Bücher und Gebäude.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Reisebericht">
+                <locus from="82r" to="86v"/>
+                <author>unbekannt</author>
+                <title type="uniform">Reisebericht Schweden</title>
+                <date type="coverage" from="1697-09-22" to="1697-09-25"/>
+                <rubric>22. [...]. September. 1697</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>164 Bll.</measure>
+                    <dimensions>
+                      <height quantity="33" unit="cm"/>
+                      <width quantity="21.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, Bleistiftfoliierung modern 82-86.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Die Seiten sind zu zwei Spalten geknickt worden, wobei immer die linke Seite beschrieben ist, in der rechten Spalte befinden sich Korrekturen und Anmerkungen.</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              <decoDesc>
+                <decoNote>Auf 84r-v befinden sich 5 Zeichnungen: 1) Buchschmuck, mit der Notiz "diesser zirrath mit gold und farben gemahlet, findet sich auf alle Blätter 
+                  Codicis argentei der 4 Evangelisten ex interpretatione Ulphiae - in der Bibl. zu Upsahl", 2) vier Personen liegend und ein Wildschwein, mit der Notiz 
+                  "Zirrath an den Friesen oder GeSimbs des Cöhrs der Dohm kärkia zu Upsahl en ba relief.", 3) Dom St. Erik an einem Fluß, mit der Notiz "unter diesem Thrum 
+                  oder Gebäude befindet sich ein brunnen in Upsahl nahe dem Wasser welcher an dem Ohrt entsteugen seyn soll, wo des H. Erici abgehauener Kopf hingefallen.", 
+                  4) Statur, mit der Notiz "Der Abgott Thor lag in einem winckel der Kirche", 5) Steine in einem Kreis auf einem Feld angeordnet, dazu die Notiz "[...] 
+                  44 Steine. 46 schritt lang und 40 in die breite". Auf 85r Zeichnung des Zimmers Königin Christinas von Schweden als Grundriß; auf 86v Zeichnung 
+                  eines Tisches; auf 86v Zeichnung eines Tischbeines.</decoNote>
+              </decoDesc>
+              <bindingDesc>
+                <p>Pappe mit Marmorpapier.</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1697-09-22" to="1697-09-25"/>
+                
+              </origin>
+              
+              
+            </history>
+            
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

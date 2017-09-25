@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.249-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>249 Extrav., 1 – Geistliches Tagebuch von Sibylle Ursula von Braunschweig-Wolfenbüttel</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>249 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>249 Extrav., 1</idno></msIdentifier>
+            <msContents>
+              <summary>In Ich-Form verfasste geistliche Betrachtungen und persönliche Notizen von <rs type="person" ref="../../register.xml#Sybille_Ursula_Schleswig-Holstein-Sonderburg">Sibylle Ursula von Braunschweig-Wolfenbüttel</rs>. 
+                Die Betrachtungen und einzelnen Textabschnitte sind mit Überschirften versehen und so thematisch gegliedert. Zu ihrem eigenen Geburtstag schreibt sie eine 
+                Danksagung an Gott, diesen Tag nochmals erleben zu dürfen (S. 109-110 und S. 184-186). Auf S. 63 befindet sich eine Zwischenüberschrift: "Paßions-Seuftzer", 
+                ebenfalls auf S. 154: "Seuftzer Auff Sontage Fest und Aposteltagen uber die Episteln" und auf S. 163: "Seuftzer auf Fest und Aposteltägen". Zu diesem Band 
+                gehört Teil 1 mit der Signatur 248 Extravagantes.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Geistliches_Tagebuch">
+                <locus from="1" to="186"/>
+                <author ref="../../register.xml#Sybille_Ursula_Schleswig-Holstein-Sonderburg">Sibylle Ursula von Braunschweig-Wolfenbüttel</author>
+                <title type="uniform">Geistliches Tagebuch von Sibylle Ursula von Braunschweig-Wolfenbüttel</title>
+                <date type="coverage" from="1653-05-07" to="1656"/>
+                <rubric>Ander Theil der Seuftzer auff Sonntäge, Fest und Aposteltägen</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier mit Goldschnitt.</material>
+                  </support>
+                  <extent>
+                    <measure>297 Bll.</measure>
+                    <dimensions>
+                      <height quantity="18.5" unit="cm"/>
+                      <width quantity="14.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben zentriert, original mit Tinte 1-187, Bleistiftfoliierung modern oben rechts 189-297.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Schreibfeld in roter Farbe vorgezeichnet.</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Schwarzes Leder mit goldenen Prägungen, zwei grüne Bandbuchschließen.</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1653-05-07" to="1653-12-04"/>
+                
+              </origin>
+              
+              
+            </history>
+            <additional>
+              <listBibl>
+                <bibl>Vgl. 248 Extravagantes</bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

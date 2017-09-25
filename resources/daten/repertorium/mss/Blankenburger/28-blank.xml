@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.28-blank.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>28 Blank., 1r – Tagebuch Ludwig Rudolf von Braunschweig-Wolfenbüttel</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Blankenburger</collection>
+            <idno>28 Blank.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>28 Blank., 1r</idno></msIdentifier>
+            <msContents>
+              <summary>Von einem Schreiber in Reinschrift gebrachtes Tagebuch von <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs> aus dem Jahr 1701, in Ich-Form verfasst.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Tagebuch">
+                <locus from="1r" to="144r"/>
+                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
+                <respStmt>
+                  <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
+                  <name>unbekannt</name>
+                </respStmt>
+                <title type="uniform">Tagebuch Ludwig Rudolf von Braunschweig-Wolfenbüttel</title>
+                <date type="coverage" from="1701" to="1701"/>
+                <rubric>Diarium Sni: Princip: ac Domii Dmi Ludovici Rudolphi Brunsvicensium ac Luneburg Ducis Vitam &amp; Actiones nec non pleraq in aula Guelphica ut et Christiano Orbi universo notatu digna complecteus.</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier mit Goldschnitt.</material>
+                  </support>
+                  <extent>
+                    <measure>243 Bll.</measure>
+                    <dimensions>
+                      <height quantity="35" unit="cm"/>
+                      <width quantity="21.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, original auf jeder Seite 1-186, Bleistiftfoliierung modern 187-243.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Schreibfeld mit roten Linien eingerahmt, zentriert auf der Seite plaziert</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Braunes Leder.</p>
+              </bindingDesc>
+              <accMat>
+                <p>Vergleiche: 89, 217a und 286a Blankenburger. Sowie das Exemplar im Niedersächsischen Landesarchiv Wolfenbüttel: <ref target="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v5544571">NLA WO 1 Alt 22 Nr. 451</ref>.</p>
+              </accMat>
+            </physDesc>
+            <history>
+              
+              <provenance>
+                <p>Im Spiegel: Ex libris <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs></p>
+              </provenance>
+              <acquisition>
+                Vergleiche: <ref target="89-blank.xml">89 Blankenburger</ref>, <ref target="217-a-blank.xml">217a Blankenburger</ref> und <ref target="286-a-blank.xml">286a Blankenburger</ref>.
+              </acquisition>
+            </history>
+            
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

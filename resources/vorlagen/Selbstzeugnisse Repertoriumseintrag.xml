@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="repertorium">
+  <teiHeader>
+    <fileDesc>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <collection></collection>
+            <idno></idno>
+          </msIdentifier>
+          <msPart>
+            <msContents>
+              <summary></summary>
+              <textLang mainLang="" otherLangs=""/>
+              <msItem class="">
+                <locus from="" to=""/>
+                <author ref=""></author>
+                <title type="uniform"/>
+                <date type="coverage" from="" to=""/>
+                <rubric></rubric>
+                <note/>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material></material>
+                  </support>
+                  <extent>
+                    <measure></measure>
+                    <dimensions>
+                      <height quantity="" unit="cm"/>
+                      <width quantity="" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p></p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p></p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <bindingDesc>
+                <p></p>
+              </bindingDesc>
+              <accMat>
+                <p></p>
+              </accMat>
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="" to=""></origDate>
+                <origPlace ref=""></origPlace>
+              </origin>
+              <provenance>
+                <p></p>
+              </provenance>
+              <acquisition>
+                <p></p>
+              </acquisition>
+            </history>
+            <additional>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        <xi:include href="../../register/personen.xml" xpointer="personen"/>
+        <xi:include href="../../register/orte.xml" xpointer="orte"/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include href="../../register/vokabular.xml" xpointer="vokabular"/>
+    </encodingDesc>
+  </teiHeader>
+</TEI>

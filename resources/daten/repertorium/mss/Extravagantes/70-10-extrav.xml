@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.70-10-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>70.10 Extrav., 1r – Reisetagebuch Christian Ernst von Brandenburg</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>70.10 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>70.10 Extrav., 1r</idno></msIdentifier>
+            <msContents>
+              <summary>Tagebuch der Reise von <rs type="person" ref="../../register.xml#Christian_Ernst_von_Brandenburg">Christian Ernst von Brandenburg</rs> nach Dresden, wo er und seine Cousine <rs type="person" ref="../../register.xml#Erdmuthe_Sophie_von_Sachsen">Erdmuthe Sophie von Sachsen</rs> am 29. Oktober 1662 heirateten. 
+                Verfasst vermutlich von <rs type="person" ref="../../register.xml#Johann_Friedrich_Schweser">Johann Friedrich Schweser</rs> in Sie-Form, der am Ende des Textes unter dem Titel "Erinnerungen" notiert, dass es sich um einen 
+                "glaubwürige[n] und gründliche[n] bericht" handele. Der Text ist in Tageseinträge gegliedert und berichtet von der Reise und anderen adeligen Personen, 
+                die der Herzog unterwegs traf.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Reisetagebuch">
+                <locus from="1r" to="84r"/>
+                <author ref="../../register.xml#Johann_Friedrich_Schweser">Johann Friedrich Schweser</author>
+                <title type="uniform">Reisetagebuch Christian Ernst von Brandenburg</title>
+                <date type="coverage" from="1662-10-10" to="1662-12-06"/>
+                <rubric>Diarium oder Verzeichnis Deßen so bey des Durchleuchtigsten Fürsten und herren, Herrn Christian Ernsts, Marggrafens zu Brandenburg ... Abreise von Bayreuth nacher dresden, zu Dero Hochfürstlichen Beylager, wie auch vor und nach demselben, nicht weniger bey S. Hochfürstlichen Durchlaucht Heimführung vorgangen.</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier.</material>
+                  </support>
+                  <extent>
+                    <measure>I + 87 Bll.</measure>
+                    <dimensions>
+                      <height quantity="33" unit="cm"/>
+                      <width quantity="20" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, nachträglich mit Tinte 1-84 sowie Bleistiftfoliierung modern 85-87.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Rechter Steg auf jeder Seite schmaler als die anderen</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              <decoDesc>
+                <decoNote>Auf 33r merkwürdige Zeichnung von zwei Kreisen, auf 47r Noten im Notensaystem.</decoNote>
+              </decoDesc>
+              <bindingDesc>
+                <p>Pappe mit Ecken und Rücken aus braunem Leder.</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1733" to="1733"/>
+                
+              </origin>
+              
+              
+            </history>
+            
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

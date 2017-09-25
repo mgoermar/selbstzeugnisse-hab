@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" n="1635" prev="1634.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1635</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00123.jpg" n="60r">1635.</head></div>
+            
+            <div xml:id="E1635-02-13"><note place="margin-right">Schwerinisch Beylager</note><head><date when="1635-02-13">den 13. Febr<ex>uari</ex>
+                <c>♀</c>,</date></head><p> bey d<ex>er</ex> <rs ref="register.xml#Eldena" type="place">Eldena</rs> zu meinem f<ex>ürstlichen</ex> l<ex>ieben</ex> Brud<ex>er</ex>n, H<ex>err</ex> <rs ref="register.xml#Julius_Ernst_Br-Db" type="person">Julio Ernsten</rs>, Alß S.r L.
+                dero Frewlein Tochtern <rs ref="register.xml#Maria_Katharina_von_Mecklenburg_Schwerin" type="person">Catharinen Marien</rs>; H<ex>err</ex> <rs ref="register.xml#Adolf_Friedrich_I._von_Mecklenburg" type="person">Adolphen
+                    Friederichen zu Mecklenburg</rs>, nach <rs ref="register.xml#Schwerin" type="place">Schwerin</rs> zuführen wollen; gestossen: und biß nach
+                d<ex>er</ex> <rs ref="register.xml#Neustadt_Glewe" type="place">Newstadt</rs> gezogen: 6.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1635-02-14"><head><date when="1635-02-14">den 14. Febr<ex>uari</ex> <c>♄</c>.</date></head><p> mit d<ex>er</ex> Fürstlichen
+                <rs ref="register.xml#Maria_Katharina_von_Mecklenburg_Schwerin" type="person">Braut</rs> zu Schwerin eingezogen: 4.m<ex>eill</ex> </p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00124.jpg" n="60v"/>
+            
+            <div xml:id="E1635-02-15"><head><date when="1635-02-15">den 15. Febr<ex>uari</ex> <c>☉</c></date></head><p> <seg>die Copulatio <ex>ver</ex>richtet.</seg><note type="annotation">Eheschließung zwischen Maria Katharina von Mecklenburg-Schwerin und Adolf Friedrich I. von Mecklenburg</note> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1635-02-18"><head><date when="1635-02-18">den 18. Febr<ex>uari</ex>
+                <c>☿</c></date></head><p> biß <rs ref="register.xml#Guestrow" type="place">Güstrow</rs>. 6.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1635-02-19"><head><date when="1635-02-19">d<ex>en</ex> 19. Febr<ex>uari</ex>
+                <c>♃</c></date></head><p> biß <rs ref="register.xml#Neuenkrug" type="place">Newenkrug</rs>, <rs ref="register.xml#Dragun" type="place">dragun</rs>,
+                    <rs ref="register.xml#Demmin" type="place">dam<ex>m</ex>in</rs>: 6 meyl.</p></div>
+            
+            <div xml:id="E1635-02-20"><head><date when="1635-02-20">d<ex>en</ex> 20. Febr<ex>uari</ex>
+                <c>♀</c></date></head><p> biß <rs ref="register.xml#Loitz" type="place">Loitz</rs>. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> 1.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1635-02-21"><head><date when="1635-02-21">d<ex>en</ex> 21 Febr<ex>uari</ex> <c>♄</c>.</date></head><p> die <rs ref="register.xml#Anna_von_Croy" type="person">Hertzoginne zu
+                Croy</rs> zukommen.</p></div>
+            
+            <div xml:id="E1635-02-22"><head><date when="1635-02-22">d<ex>en</ex> 22. Febr<ex>uari</ex> <c>☉</c></date></head><p> biß <rs ref="register.xml#Dragun" type="place">dragun</rs>, 2.
+               m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1635-02-23"><head><date when="1635-02-23">d<ex>en</ex> 23. Febr<ex>uari</ex>
+                <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Guestrow" type="place">Güstrow</rs>, 5. m<ex>eill</ex>. <foreign xml:lang="lat">Tertii Conjugii, cum</foreign><note type="translation">Dritte Ehe mit</note> <rs ref="register.xml#Sophie_Elisabeth_Br_L" type="person">Sophia Elisabetha
+                    Megapolitana, principium</rs>: h. l. die werbung ist durch d. <rs type="person">Joh. Brüning</rs>, gegen <rs ref="register.xml#Paschasius_von_der_Luehe" type="person">Paschen
+                        von d<ex>er</ex> Lühe</rs> geschehen: worauf <foreign xml:lang="lat">seq<ex>uenz</ex> die</foreign><note type="translation">am folgenden Tag</note>, wilfährige
+                    Resolution erfolget: d<ex>er</ex> Allmächtige schicke ferner seine<ex>n</ex> willen.</p></div>
+            
+            <div xml:id="E1635-02-25"><head><date when="1635-02-25">den 25. Febr<ex>uari</ex>
+                <c>☿</c></date></head><p> seynd <foreign xml:lang="lat">utrinque</foreign><note type="translation">beide</note> die <w>Arrhe<ex>n</ex></w><note type="annotation">Draufgeld, Mitgift</note>
+                    gegeben.</p></div>
+            
+            <div xml:id="E1635-02-26"><head><date when="1635-02-26">den 26. Febr<ex>uari</ex>
+                <c>♃</c>.</date></head><p> biß <rs ref="register.xml#Herzberg_Mecklenburg_Vorpommern" type="place">Hertzberg</rs>, alda ein
+                    <rs ref="register.xml#Kardorff" type="org">karrdorf</rs> wohnet, 4.m<ex>eill</ex> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>, 4.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8. </p></div>
+             
+            <div xml:id="E1635-02-27"><head><date when="1635-02-27">d<ex>en</ex> 27. Febr<ex>uari</ex>
+                <c>♀</c>,</date></head><p> <foreign xml:lang="lat">prima vice scripsi ad</foreign><note type="translation">Das erste Mal, das ich geschrieben habe an</note> <unclear>S. E.
+                   M.</unclear><note type="annotation">Evtl. ist "Seine Majestät (S.M.)" gemeint</note> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger.</rs>: 4 m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1635-03-30"><head><date when="1635-03-30">d<ex>en</ex> 30. Martii, <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>, zu mittage, biß <rs ref="register.xml#Parchim" type="place">Parchimb</rs>, 7. m</p></div>
+            
+            <div xml:id="E1635-03-31"><head><date when="1635-03-31">d<ex>en</ex> 31. Martii <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Guestrow" type="place">Gustrow</rs>. 5.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1635-04-10"><head><date when="1635-04-10">d<ex>en</ex> 10. Aprilis <c>♀</c>,</date></head><p> seynd die Ehereceß beed<ex>er</ex>seitz vollenzogen
+                worden. Gott gebe zu glücke. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1635-04-15"><head><date when="1635-04-15">d<ex>en</ex> 15. Aprilis <c>☿</c></date></head><p> biß <rs ref="register.xml#Neustadt_Glewe" type="place">Newstadt</rs>. 7.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1635-04-16"><head><date when="1635-04-16">d<ex>en</ex> 16 Aprilis, <c>♃</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>, 5.m<ex>eill</ex></p></div>
+  
+        </body>
+    </text>
+</TEI>

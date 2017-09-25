@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.30-2-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>30.2 Extrav., 76r – Reisebericht Herzog Ferdinand Albrecht</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>30.2 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>30.2 Extrav., 76r</idno></msIdentifier>
+            <msContents>
+              <summary>Von einem unbekannten Schreiber in Sie-Form verfasster Reisebericht. Dieser beschreibt die Reise von <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Ferdinand Albrecht zu Braunschweig-Lüneburg</rs> von Wolfenbüttel nach Komorn und zurück. Hauptsächlich werden die Reisebedingungen, wie Wetter, Reiseroute, Reisemittel, beschrieben. Mit der im Titel genannten "Installation" 
+                kann die Statthalterschaft <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Ferdinand Albrechts</rs> der Festung Komorn gemeint sein.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Reisebericht">
+                <locus from="76r" to="78r"/>
+                <author>unbekannt</author>
+                <respStmt>
+                  <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
+                  <name>unbekannt</name>
+                </respStmt>
+                <title type="uniform">Reisebericht <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Herzog Ferdinand Albrecht</rs></title>
+                <date type="coverage" from="1716-01-15" to="1716-01-21"/>
+                <rubric>Relation Von des dürchlauchtigsten Fürsten und herrn, herrn Ferdinand Albrechts hertzogen zu Braunschweig und Lüneburg nach Comorra gethanen hin= und her=Reise und in specie von dero daselbst vollzogener Installation.</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>111 Bll.</measure>
+                    <dimensions>
+                      <height quantity="33.5" unit="cm"/>
+                      <width quantity="20" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, nachträglich mit Tinte 1-100, Bleistiftfoliierung modern 101-111</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Linker Steg auf jeder Seite breiter als die anderen</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Pappe, Ecken mit braunem Leder bezogen</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              
+              <provenance>
+                <p>Aus dem Besitz von Jakob Burckhardt</p>
+              </provenance>
+              
+            </history>
+            
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" next="1601.xml" n="1600" prev="1599.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1600</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head facs="http://selbstzeugnisse.hab.de/edition/images/00041.jpg" n="19r">Anno
+                    1600. <foreign xml:lang="lat">Biss<ex>extilis</ex></foreign><note type="translation">Schaltjahr</note></head>
+            </div>
+            <div xml:id="E1600-01-01">
+                <head><date when="1600-01-01">Den 1 Januar<ex>is</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Napels" type="place">Napoli</rs> zulande 7. meill.
+                        <foreign xml:lang="lat">Laůs Deo.</foreign><note type="translation">Gelobt
+                        sei Gott</note></p>
+            </div>
+
+            <div xml:id="E1600-01-05">
+                <head><date when="1600-01-05">Den 5 Januar<ex>is</ex>
+                        <c>♄</c>
+                    </date></head>
+                <p><rs type="person">Dieterici</rs>
+                    <foreign xml:lang="lat">abit<ex>us</ex></foreign><note type="translation">ist
+                        weg gegangen</note>.</p>
+            </div>
+
+            <div xml:id="E1600-02-16">
+                <head><date when="1600-02-16">Den 16 Febr<ex>uari</ex>
+                        <c>♄</c></date></head>
+                <p>
+                    <unclear>Horatius</unclear>.</p>
+            </div>
+
+            <div xml:id="E1600-03-13">
+                <head><date when="1600-03-13">Den 13 Martÿ <c>♃</c>
+                    </date></head>
+                <p><unclear>- 0 /</unclear></p>
+            </div>
+            <note type="annotation">Die Bedeutung der Zeichen konnte nicht ermittelt werden</note>
+
+            <div xml:id="E1600-03-30">
+                <head><date when="1600-03-30">Den 30 Martÿ <c>☉</c>
+                    </date></head>
+                <p>mitt dem <rs type="person">Marggrafen</rs> nach <rs type="place" resp="#Chiaia">Cziaia</rs> gewesen; alda beseh<ex>en</ex> d<ex>a</ex>z begrebnůß <rs ref="register.xml#Jacopo_Sannazaro" type="person">Sannazari</rs> vnd <rs ref="register.xml#Vergilius" type="person">Vergilÿ</rs>, vnd einen
+                        garte<ex>n</ex> mitt wasserkunsten.</p>
+            </div>
+
+            <div xml:id="E1600-04-22">
+                <head><date when="1600-04-22">Den 22 Apr<ex>ilis</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>beseh<ex>en</ex>
+                    <rs ref="register.xml#Casalnuovo_di_Napoli" type="place">Castel nuova</rs> nach
+                    dem Portt hinaůß geleg<ex>en</ex> alda in d<ex>er</ex> thuer noch ein Kůgell
+                    steckett so zur zeitt d<ex>er</ex> belägerůng ist hineingeschossen. Die
+                        <w>stück</w><note type="annotation">Geschütz, Kanone, Waffe</note> seindt
+                    mehrertheilß Sächsische.</p>
+            </div>
+
+            <div xml:id="E1600-04-25">
+                <head><date when="1600-04-25">Den 25 Apr<ex>ilis</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>beseh<ex>en</ex>
+                    <rs ref="register.xml#Castel_Sant_Elmo" type="place">Castell S<ex>anct</ex>
+                        Helmo</rs> aůfm berge geleg<ex>en</ex>, da man die gantze stadt
+                        überseh<ex>en</ex> kan; beÿ dieser vestung ist ein Cartheyser kloster
+                        zusehe<ex>n</ex>, in welchem zu notieren eine schöne Sacristeÿ vo<ex>n</ex>
+                    eingelegten hültzern tafelln.</p>
+            </div>
+
+            <div xml:id="E1600-05-01">
+                <head><date when="1600-05-01">Den 1. Maÿ <c>♃</c>
+                    </date></head>
+                <p>nach <rs ref="register.xml#Pozzuoli" type="place">Pozzoullo</rs> geritten alda
+                        geseh<ex>en</ex>
+                    <rs ref="register.xml#Grotta_del_Cane" type="place">Grotta di Cane</rs>, beÿm
+                        <rs ref="register.xml#Lago_Agnano" type="place">Lago Aniano</rs>, 2 <seg>La
+                        Sulfatara</seg><note type="annotation">Cratere Solfatara, Vulkankrater im
+                        Stadtgebiet von Pozzuoli</note>, 3. <ex>ver</ex>fallen
+                        Aq<ex>uae</ex>duct<ex>us</ex>, 4. Amphÿtheatrum, 5. <rs ref="register.xml#Cicero" type="person">Ciceron<ex>is</ex></rs>
+                        garte<ex>n</ex> dabeÿ seine Academia, 6 (3 seůlen auß dem palatio des <rs ref="register.xml#Cicero" type="person">Ciceronis</rs>, 7 Pons <rs ref="register.xml#Caligula" type="person">Caligulae</rs> Imp<ex>erator</ex>
+                    überß meer. 8 Portus Julÿ. 9. Templum Apollinis, 10. dabeÿ <rs ref="register.xml#Lago_d_Averno" type="place">Lacůs Avernus</rs>, 11. Grotta
+                    di Sybilla, darinnen ein Kammer, Bad vnd Pfortt zumercken; 12. Thermae <rs ref="register.xml#Cicero" type="person">Cic<ex>eronis</ex></rs> darinnen
+                        Bäd<ex>er</ex> zu viellen kranckheite<ex>n</ex> gewesen; die
+                        <w>Salernitaner</w><note type="annotation">Latein: Schola Medica
+                        Salernitana; deutsch auch Medizinschule von Salern</note> habenß abgerissen,
+                        (<foreign xml:lang="lat">Valetudine<ex>m</ex></foreign><note type="translation">die Gesundheit</note>) 13
+                        <w>Sudatorsum</w><note>Sudatorium, Dampfschwitzbad in antiken Thermen, siehe
+                            <ref target="https://de.wikipedia.org/wiki/Sudatorium">Wikipedia</ref></note> de Trittole, 14 <foreign xml:lang="lat">Thermae
+                        Bajanae</foreign><note type="translation">Bäder von Bajae</note>
+                    <foreign xml:lang="lat">antiquas</foreign><note type="translation">antik</note>;
+                    15. Pallatium <rs ref="register.xml#Nero" type="person">Neronis</rs> aufm berge,
+                    16 <rs ref="register.xml#Lago_Lucrino" type="place">Lago Lucrino</rs>, 17 Villa
+                        <rs ref="register.xml#Caesar" type="person">Caesaris</rs> &amp; <rs ref="register.xml#Pompei" type="place">Pompey</rs> 18 Villa C. Marÿ. 19
+                        <foreign xml:lang="lat">Rudera</foreign><note type="translation">Ruinen</note>
+                    <w>Bajorum</w><note type="annotation">Baiae war eine antike Siedlung am Golf von
+                        Neapel. <ref target="https://de.wikipedia.org/wiki/Baiae">Wikipedia</ref></note>, 20 <seg>Porto Bajense</seg><note type="annotation">Baiae war der alte Hafen der von griechischen Kolonisten gegründeten Stadt
+                        Cumae. <ref target="https://de.wikipedia.org/wiki/Baiae">Wikipedia</ref></note>. 21. <seg>Templum veneris rotundum</seg><note type="annotation">Kuppelbau, Tempel der Venus</note>, 22 <seg>Templum
+                        Dianae</seg><note type="annotation">Tempel der Dianae</note>, 23
+                        <seg>Vivarium p<del rend="overstrike">i</del>scium</seg><note type="translation">Behälter für Fische</note>, 24 <seg>Schola dei
+                        putti</seg><note type="translation">Nische der Putten</note>; 25.
+                            <seg>Templu<ex>m</ex>
+                        <c>♄</c></seg><note type="annotation">Tempel des Saturn</note>, 26.
+                    Sepulchrum <rs ref="register.xml#Agrippina" type="person">Agrippinae</rs>
+                    <foreign xml:lang="lat">m<ex>at</ex>ris Imp<ex>erator</ex></foreign><note type="translation">Mutter von Kaiser</note>
+                    <rs ref="register.xml#Nero" type="person">Neronis</rs> gar schön, dabeÿ (27
+                            <seg>Templu<ex>m</ex>
+                        <c>☿</c></seg><note type="annotation">Tepmel des Merkur</note>
+                        darinne<ex>n</ex> ein bawm zu stein word<ex>en</ex>. 28 Mercato di Sabbatho
+                    alda vielle begrebnůssen vnd Urnae da sie die Asche d<ex>er</ex> verbrenten
+                    cörper eingelegt; 29 Campi Elisei alda (30) die Piscina mirabilis, cum 48
+                    columnis. 31 Villa di <rs ref="register.xml#Lucullus" type="person">L<ex>ucius</ex> Lůcullo</rs> 32 Villa Marinneae m<ex>at</ex>ris <rs ref="register.xml#Pompei" type="place">Pompeÿ</rs>. 33. Cento Camerae, 34
+                        Temp<ex>lum</ex> d´ Hercole, ubi <rs ref="register.xml#Nero" type="person">Neronis</rs> mr occisa, 35 Grotta di <rs ref="register.xml#Lucullus" type="person">Lucullo</rs>, 36. Grotta Dragonaria, 37 Grotta <rs ref="register.xml#Caesar" type="person">Caesaris</rs>, da man mitt dem
+                    Schiffe vnten durch fehrett; <rs ref="register.xml#Napels" type="place">Napoli</rs>; 6 meÿll.</p>
+            </div>
+
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00042.jpg" n="19v"/>
+
+            <div xml:id="E1600-05-02">
+                <head><date when="1600-05-02">Den 2 Maÿ <c>♀</c>
+                    </date></head>
+                <p><unclear>0 1 – Shoozfind<ex>en</ex></unclear>.</p>
+            </div>
+            <note type="annotation">Die Bedeutung dieses Satzes konnte nicht ermittelt werden</note>
+
+            <div xml:id="E1600-05-05">
+                <head><date when="1600-05-05">Den 5 Maÿ <c>☽</c>
+                    </date></head>
+                <p>in S<ex>anct</ex> Severini Kirchen nachfolgende Epitaphia gesehen; (1. Hic ossa
+                        q<ex>ui</ex>escunt <rs type="person">Jacobi Sanseverini</rs>, comitis
+                    Saponariae veneno misere` ob avaritiam necati, cu<ex>m</ex>
+                    <w>2bq</w><note type="annotation">duobus</note> miseris
+                        fr<ex>atr</ex>ib<ex>us</ex>, eode<ex>m</ex> fato, eade<ex>m</ex> hora,
+                        <ex>com</ex>morientibus. (2. Jacet hic Sigismund<ex>us</ex>
+                        Sanseverin<ex>us</ex>, veneno impie` absumpt<ex>us</ex>, q<ex>ui</ex>
+                        eode<ex>m</ex> fato, eadem <del>hora</del> tempore, pe<ex>re</ex>unteis
+                    Germanos fratres, nec alloq<ex>ui</ex> nec cernere potuit. (3. Hic
+                        sit<ex>us</ex> e<ex>st</ex> Ascani<ex>us</ex>
+                    Sansev<ex>er</ex>in<ex>us</ex>, cui obeunti, eode<ex>m</ex> veneno inique`
+                        atq<ex>ue</ex> impie` commorenteis fratres, nec alloq<ex>ui</ex> nec videre
+                        q<ex>ui</ex>de<ex>m</ex> Licůit. (4: Hospes miserrimae/ miserrima<ex>m</ex>
+                    defleas orbitatem/ En illa Hyppolita Montia/ post natas faeminas
+                        infaeliciss<ex>ima</ex>/ Quae Ugo Sanseverino conjugi/ treis
+                        max<ex>imae</ex> expect<ex>ati</ex>o<ex>n</ex>is filios peperi/ qui
+                    venenatis poculis, vicit in familia proh scel<ex>us</ex>/ pietatem
+                        cupidit<ex>a</ex>z/ timorem audacia &amp; r<ex>ati</ex>o<ex>n</ex>em
+                    amentia/ una` in misero<ex>rum</ex>
+                    <ex>com</ex>plexib<ex>us</ex> pare<ex>n</ex>tu<ex>m</ex>/ miserabiliter ilico`
+                    expirarunt/ vir aegritudine sensim obrepente, paucis post annis/ In his
+                        Et<ex>iam</ex> manib<ex>us</ex> expiravit/ Ego tot superstes
+                        funerib<ex>us</ex>/ c<ex>uius</ex> req<ex>ui</ex>es in tenebris/ solamen in
+                    Lachrymis/ Et cura o<ex>mn</ex>is in morte collocat<ex>ur</ex>/ quos vides
+                    separatim tamůlos/ ob aeterni doloris arg<ex>umen</ex>t<ex>u</ex>m, &amp; in
+                    memoriam illo<ex>rum</ex> sempiterna<ex>m</ex>. <seg>A<ex>nn</ex>o M. D.
+                        XLVII.</seg><note type="annotation">Im Jahr 1547</note></p>
+            </div>
+
+            <div xml:id="E1600-06-02">
+                <head><date when="1600-06-02">Den 2 Jun<ex>ÿ</ex>
+                        <c>☽</c>
+                    </date></head>
+                <p>vo<ex>n</ex> hinnen (Campagna solice) biß <rs ref="register.xml#Melito_di_Napoli" type="place">Melito</rs> dorf, <rs ref="register.xml#Aversa" type="place">Aversa</rs> stadt, auf d<ex>er</ex> r<ex>echten</ex> seiten gezogen gehn
+                        <rs ref="register.xml#Santa_Maria_Capua_Vetere" type="place">S<ex>anta</ex>
+                        Maria</rs> dorf, alda nicht weitt ein Amphytheatrum zuseh<ex>en</ex>, welchß
+                    in altt<rs ref="register.xml#Capua" type="place">Capůa</rs> gestand<ex>en</ex>,
+                        <rs ref="register.xml#Capua" type="place">Capua</rs> al <c>☉</c><hi rend="superscript">e</hi> 3 meÿll, biß <rs ref="register.xml#Francolise" type="place">Torre di Francolino</rs> stadt, <rs ref="register.xml#Cascano" type="place">Cascian stedlein</rs>, S<ex>ant</ex> Agata wirtzhaůß, 4 meill
+                        <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7. nicht weitt vo<ex>n</ex>
+                    <rs ref="register.xml#Sessa" type="place">Suessa</rs>.</p>
+            </div>
+
+            <div xml:id="E1600-06-03">
+                <head><date when="1600-06-03">den 3 Jun<ex>ÿ</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>biß <rs type="place">Pauza<ex>n</ex></rs> dorf auf d<ex>er</ex> l<ex>inken</ex>
+                        s<ex>eite</ex> über d<ex>en</ex> fluß <w>Gargiglion</w><note type="annotation">Garigliano</note>, <rs type="place">Trajetta</rs> stadt,
+                    Castel honorato; <rs ref="register.xml#Maranola" type="place">Marangola</rs>
+                    stadt, <rs ref="register.xml#Formia" type="place">Mola</rs> stadt, oben
+                    Castellone` 3 meill, mitt d<ex>er</ex> barcke darnach gehn <rs ref="register.xml#Gaeta" type="place">Cajeta</rs> stadt vnd Vestung, hin vnd
+                        wied<ex>er</ex> 2. meill<ex>en</ex>:</p>
+            </div>
+
+            <div xml:id="E1600-06-04">
+                <head><date when="1600-06-04">den 4 Jun<ex>ÿ</ex>
+                        <c>☿</c></date></head>
+                <p>biß <rs ref="register.xml#Itri" type="place">Itri</rs> stadt, <rs ref="register.xml#Fondi" type="place">Fundi</rs> stadt, <rs ref="register.xml#Monticelli" type="place">Monticello</rs> schloß, dabeÿ
+                        d<ex>er</ex> Paß da man die <w>Gabella</w><note type="annotation">Steuer/Zollgeld</note> zahlett (Bapst gebieth) <rs ref="register.xml#Terracina" type="place">Terracina</rs> stadt 4 meÿll, biß
+                        <rs type="place">L´ abbatia di nůova</rs>, l` abbatia di <rs ref="register.xml#San_Martino" type="place">S<ex>an</ex> Martino</rs>, <rs ref="register.xml#Roccasecca_dei_Volsci" type="place">Rocca secca</rs>
+                    festůng, <rs ref="register.xml#Priverno" type="place">Piperno</rs> stadt 2 ½
+                    meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6 ½ meÿll im wirtzhauß.</p>
+            </div>
+
+            <div xml:id="E1600-06-05">
+                <head><date when="1600-06-05">den 5 Jun<ex>ÿ</ex>
+                        <c>♃</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Sezze" type="place">Cece</rs> stadt aufm berge, <rs ref="register.xml#Sermoneta" type="place">Sermonetta</rs> stadt 2 ½ meÿll,
+                    biß <rs ref="register.xml#Cori" type="place">Cuore</rs> stadt auf d<ex>er</ex>
+                        r<ex>echten</ex> s<ex>eite</ex>
+                    <rs ref="register.xml#Velletri" type="place">Velitri</rs> stadt zur Kron (3,
+                        <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5 1/2.</p>
+            </div>
+
+            <div xml:id="E1600-06-06">
+                <head><date when="1600-06-06">den 6 Jun<ex>ÿ</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Castel_Gandolfo" type="place">Castel pandolfo</rs>, <rs ref="register.xml#Marino" type="place">Marino</rs> stadt, d<ex>en</ex>
+                    <rs ref="register.xml#Prospero_Colonna" type="person">Cardinall colomna</rs>
+                    zustendig, <rs ref="register.xml#Rom" type="place">ROMA</rs> All´ urso 4
+                    meÿll</p>
+            </div>
+
+            <div xml:id="E1600-06-08">
+                <head><date when="1600-06-08">den 8 Jun<ex>ÿ</ex>
+                        <c>☉</c>
+                    </date></head>
+                <p>Castell S<ex>anct</ex> Angelo besehen; beÿm <rs ref="register.xml#Ludwig_Friedrich_von_Wuerttemberg" type="person">H<ex>err</ex> vo<ex>n</ex> Wirtenberg</rs> gewesen.</p>
+            </div>
+
+            <div xml:id="E1600-06-09">
+                <head><date when="1600-06-09">den 9 Junÿ <c>☽</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Bracciano" type="place">Baccamo</rs> dörfle, <rs ref="register.xml#Monterosi" type="place">Montarosa</rs>
+                    <foreign xml:lang="it">alla posta</foreign><note type="translation">Zur
+                        Post</note> 4 meÿll.</p>
+            </div>
+
+            <div xml:id="E1600-06-10">
+                <head><date when="1600-06-10">den 10 Jun<ex>ÿ</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Capranica" type="place">Caprarolo</rs> stadt, alda ein
+                        Palatiu<ex>m</ex> sampt einem garten vnd <w>fontanen</w><note type="translation">Brunnen</note> zusehen. <rs ref="register.xml#Viterbo" type="place">Viterbo</rs>
+                    <foreign xml:lang="it">alla campana</foreign><note type="translation">Zur
+                        Glocke</note> 3 ½ meill, <rs ref="register.xml#Montefiascone" type="place">Montefiasco<ex>n</ex></rs> stadt, <rs ref="register.xml#Bolsena" type="place">Bulzano</rs> stadt dabeÿ ein grosser Lago, <rs ref="register.xml#San_Lorenzo_Nuovo" type="place">S. Lorenzo</rs> stadt al
+                        <rs type="place">S. Mario</rs> 3 ½ <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note>
+                    7.</p>
+            </div>
+
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00043.jpg" n="20r"/>
+
+            <div xml:id="E1600-06-11">
+                <head><date when="1600-06-11">den 11 Jun<ex>ÿ</ex>
+                        <c>☿</c>
+                    </date></head>
+                <p><rs ref="register.xml#Acquapendente" type="place">Aquape<ex>n</ex>dente</rs>
+                    stadt, ponte <unclear>s</unclear> La paglia (Duc de sforza gebieth) <rs ref="register.xml#Proceno" type="place">Porcene</rs> stadt, Ponte <rs ref="register.xml#Centeno" type="place">Centino</rs>, (Senesisch gebieth)
+                        <rs ref="register.xml#Radicofani" type="place">Radicofoni</rs> stadt vnd
+                    vestůng aufm berge, vnten im wirtzhaůß 3 ½ meill, biß <rs type="place">Campiggio</rs> stadt, <rs type="place">Rocca di vadorzia</rs>, <rs ref="register.xml#Pienza" type="place">Pienza</rs> stadt, <rs ref="register.xml#Monticchiello" type="place">Mont` uccello</rs>, <rs ref="register.xml#Montepulciano" type="place">Montepulzano</rs> städte; <rs ref="register.xml#Monte_San_Quirico" type="place">S<ex>an</ex> Quirico</rs>
+                        stadt,<rs type="place">Mont`Euxino</rs>, <rs ref="register.xml#Torrenieri" type="place">Totniero</rs> stadt, al Sole 3 ½ <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p>
+            </div>
+
+            <div xml:id="E1600-06-12">
+                <head><date when="1600-06-12">den 12 Jun<ex>ÿ</ex>
+                        <c>♃</c>
+                    </date></head>
+                <p>Bon convento, Il <rs ref="register.xml#Ponte_Arbia" type="place">ponte d`
+                        Arbia</rs>, Lusignano Castell, <rs ref="register.xml#Monteroni" type="place">Monterone</rs> städtle,<rs ref="register.xml#Cuna" type="place">Cuno</rs>,
+                        <rs ref="register.xml#Siena" type="place">Siena</rs> al S<hi rend="superscript">o</hi> Marc: 3 meill, Castell Reggio,
+                        (Flor<ex>entinisch</ex> gebieth) staggio castell, <rs ref="register.xml#Poggibonsi" type="place">Poggiobonzo</rs> 2 ½ meill
+                        <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5 ½ alle chiave.</p>
+            </div>
+
+            <div xml:id="E1600-06-13">
+                <head><date when="1600-06-13">den 13 Jun<ex>ÿ</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>Barbarino Castell, <rs ref="register.xml#Tavernelle" type="place">Tavernelle</rs>, städle, <rs ref="register.xml#San_Casciano_in_Val_di_Pesa" type="place">S. Casciano</rs>, <rs ref="register.xml#Florenz" type="place">Fiorenza</rs>, all` Agla Nera. 4 meill.</p>
+            </div>
+
+            <div xml:id="E1600-06-17">
+                <head><date when="1600-06-17">den 17 Jun<ex>ÿ</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>besehe<ex>n</ex>
+                    <seg>d<ex>a</ex>z pallatium deß <rs type="person">D. Anthonÿ</rs></seg><note type="annotation">Palazzo Vecchio</note>, benebest der
+                        <w>Guardarobba</w><note type="annotation">Stanza delle Mappe geografiche o
+                        della Guardaroba im Palazzo Vecchio</note>.</p>
+            </div>
+
+            <div xml:id="E1600-06-18">
+                <head><date when="1600-06-18">den 18 Jun<ex>ÿ</ex>
+                        <c>☿</c>
+                    </date></head>
+                <p>biß <rs type="place">Pietola</rs> dorf, <rs type="place">Prothi</rs> dorf. <rs ref="register.xml#San_Donnino" type="place">S. Domenico</rs> dorf, <rs ref="register.xml#Poggio_a_Caiano" type="place">Poggio</rs> flecke, <rs ref="register.xml#Pistoia" type="place">Pistoja</rs> di fuora, 4 meÿll, biß
+                        <rs ref="register.xml#Serravalle_Pistoiese" type="place">Saravallo</rs>,
+                    Monte <rs ref="register.xml#Monsummano_Terme" type="place">somanno</rs>
+                        städtle,<rs type="place">Monte vitterino</rs>
+                    <rs ref="register.xml#Montecatini_Terme" type="place">S<ex>anc</ex>t Monte
+                        cattino</rs> städtle, <rs ref="register.xml#Massa_E" type="place">Massa
+                        stad</rs>, <rs ref="register.xml#Buggiano" type="place">Bugiana</rs> stadt,
+                        <add>&amp;</add>
+                    <del>b</del>Burg, <rs type="place">Bulzano</rs>, <rs type="place">Uzano</rs>,
+                        <rs ref="register.xml#Pescia" type="place">Pescia</rs>, <rs ref="register.xml#Lucca" type="place">Lucca</rs> 4 meill, <foreign xml:lang="it">alla Campana</foreign><note type="translation">Zur
+                        Glocke</note>, <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8.</p>
+            </div>
+
+            <div xml:id="E1600-06-19">
+                <head><date when="1600-06-19">den 19 Jun<ex>ÿ</ex>
+                        <c>♃</c>
+                    </date></head>
+                <p>beÿm <rs type="person">Lelio Bersotti</rs>, <seg><foreign xml:lang="it">alli
+                            stipeti</foreign><note type="translation">Das
+                        Kämmerchen</note></seg><note type="annotation">Vermutlich ein
+                        Wirtshaus</note>, darnach biß <rs type="place">S<ex>an</ex> Lucia</rs>,
+                    hosteria (2 meÿll.</p>
+            </div>
+
+            <div xml:id="E1600-06-20">
+                <head><date when="1600-06-20">den 20 Jun<ex>ÿ</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Pistoia" type="place">Pistoja</rs>, <foreign xml:lang="it">Alla croce hosteria</foreign><note type="translation">Gasthaus
+                        zum Kreuz</note>, <rs ref="register.xml#Spedaletto" type="place">Spidaletto</rs> hosteria, 4 meÿll, biß (Bononesisch gebieth) <rs type="place">Moscacchia</rs> dorf, <rs type="place">Lize casale</rs>, <rs type="place">Ariolo</rs> dorf, <rs type="place">Lissano</rs> dorf, <rs ref="register.xml#Vergato" type="place">Vergato</rs> Burgo, 4 meill ½
+                        <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8 ½ <seg><foreign xml:lang="it">allo
+                            montone</foreign><note type="translation">Der Hammel</note></seg><note type="annotation"> Vermutlich ein Wirtshaus</note>; (gefallen.)</p>
+            </div>
+
+            <div xml:id="E1600-06-21">
+                <head><date when="1600-06-21">den 21 Jun<ex>ÿ</ex>
+                        <c>♄</c>
+                    </date></head>
+                <p>biß <rs type="place">Assiba</rs> hosteria, All <rs ref="register.xml#Sasso_Marconi" type="place">Sasso</rs>, <foreign xml:lang="it">alla Fontana</foreign><note type="translation">Zum
+                        Brunnen</note>
+                    <hi rend="superscript">wirtshaus daselbst</hi> 2 meill, biß Alle <rs ref="register.xml#Casalecchio_di_Reno" type="place">casali</rs> dorf,<rs ref="register.xml#Bologna" type="place">Bologna</rs>, 2 meÿll <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 4 <seg><foreign xml:lang="it">allo Pelegrino</foreign><note type="translation">Der Pilger</note></seg><note type="annotation">
+                        Vermutlich ein Wirtshaus</note>.</p>
+            </div>
+
+            <div xml:id="E1600-06-22">
+                <head><date when="1600-06-22">den 22 Jun<ex>ÿ</ex>
+                        <c>☉</c>
+                    </date></head>
+                <p>besehe<ex>n</ex> die kirche S<ex>anct</ex> Francisci, daraussen nebest
+                        and<ex>er</ex>n liegt begrab<ex>en</ex> der <rs ref="register.xml#Mariangelo_Accursio" type="person">Glossator
+                        Accursius</rs>; darinne<ex>n</ex>
+                    <rs ref="register.xml#Alexander_V." type="person">Paulus 5. Pont<ex>ifici</ex>
+                            Max<ex>imo</ex></rs></p>
+            </div>
+
+            <div xml:id="E1600-06-23">
+                <head><date when="1600-06-23">den 23 Jun<ex>ÿ</ex>
+                        <c>☽</c></date></head>
+                <p> biß <rs ref="register.xml#Castelfranco_Emilia" type="place">Castel franco</rs>
+                    städtlein (Modenesisch gebieth) übergesetzett über d<ex>a</ex>z fluß Panaza, <rs ref="register.xml#Modena" type="place">Modena</rs> stadt, dem vertriebenen
+                        <rs ref="register.xml#Aldobrandius_de_Ferraria" type="person">Hertzog Esten
+                            vo<ex>n</ex> Ferrara</rs> zustendig, <foreign xml:lang="it">illa posta
+                            od<ex>er</ex> Angelo</foreign><note type="translation">Zur Post oder
+                        Engel</note> 4 meill, alda zusehen d<ex>a</ex>z Castell darinnen er sich
+                    aufhelt, sein staal, vnd darnach an d<ex>er</ex>
+                    <w>Kirchen</w><note type="annotation">Kathedrale von Modena</note> aufm Platz,
+                        <seg>La potta di Modena, welches ein <w>Contrafeht</w><note type="annotation">Bild, Abbild</note> ist einer frawen, so 50
+                            kind<ex>er</ex> auf einmahl gehabtt</seg><note type="annotation">Skulptur einer Frau auf dem Platz der Kathedrale von Modena. Diese Frau
+                        soll 42 oder sogar 50 Kinder geboren haben</note>, biß <rs ref="register.xml#San_Martino_B" type="place">S. Martino</rs>
+                    <rs type="place">Burgo di fora</rs> 2 ½ <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 6 ½ hiebeÿ
+                        d<ex>er</ex> fluß Se<unclear>r</unclear>chio.</p>
+            </div>
+
+            <div xml:id="E1600-06-24">
+                <head><date when="1600-06-24">den 24 Jun<ex>ÿ</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>biß (Mirandolesisch gebieth) <rs ref="register.xml#Concordia_Sulla_Secchia" type="place">Concordia</rs> dörfle, (Mantuanisch gebieth) <rs type="place">Bondanello</rs> dorf, alda übergesetzett vber die Secchia, S<ex>anct</ex>
+                    Benedetto schön groß Kloster, 4 meÿll, vor d<ex>er</ex> Kirchen,</p>
+                <lg xml:lang="lat">
+                    <l><rs type="person">Adam</rs></l>
+                    <l>Conjugis affecta cecidi, non daemonis astu</l>
+                    <l>vos morti genitos pane ligonis <add place="above">hacke</add> alo,</l>
+                    <l>Est homo bulla ut ego umbra fui: tot saecula vixi</l>
+                    <l>Tu licet hoc vivar tempore, punctas erit.</l>
+                </lg>
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00044.jpg" n="20v"/>
+                <lg xml:lang="lat">
+                    <l><hi rend="underline"><rs type="person">Eva</rs>.</hi></l>
+                    <l>Eva p<ex>un</ex>cti caput: <rs type="person">Eva</rs> vitae</l>
+                    <l>Finis exulta, tibi mater o<ex>mn</ex>is</l>
+                    <l>Gr<ex>ati</ex>ae, vitam meruit cruento</l>
+                </lg>
+                <lg xml:lang="lat">
+                    <l> Funere nati</l>
+                    <l><rs type="person">Eva</rs> site sub colubro fefellit</l>
+                    <l>Daemon ob poni spe<ex>cie</ex>m Mariae</l>
+                    <l>Miss<ex>us</ex> e<ex>st</ex> caelo <rs type="person">Gabriel</rs> salutem</l>
+                    <l> protulit orbis.</l>
+                </lg>
+                <lg xml:lang="lat">
+                    <l><hi rend="underline">Proph<unclear>a</unclear></hi>.</l>
+                    <l>Excidium Solymae, populiq<ex>ue</ex> immane p<ex>er</ex> horas,</l>
+                    <l>Exilium plorans te doceo esse pium</l>
+                    <l>Et pietate Deo sacras p<ex>er</ex>stantius: absunt</l>
+                    <l>Dona: a<ex>n</ex>i<ex>m</ex>um superis sufficit esse pium.</l>
+                </lg>
+                <lg xml:lang="lat">
+                    <l><hi rend="underline"><rs type="person">David</rs> &amp; <rs type="person">Goliath</rs>;</hi></l>
+                    <l>Imbellis validi pastorcul<ex>us</ex> arma Gygatis</l>
+                    <l>Negligit: ac rabida<ex>m</ex> sternit ut agna <unclear>Ieam</unclear>,</l>
+                    <l>Hunc lapide ex funda torto: velut aere colossu<ex>m</ex></l>
+                    <l>Deicit; &amp; collo disruit Ense caput.</l>
+                </lg>
+                <lg xml:lang="lat">
+                    <l><hi rend="underline"><rs type="person">Abraham</rs> &amp; <rs type="person">Isaac</rs>.</hi></l>
+                    <l>Hostia q<ex>uam</ex> faelix: aries mactate <rs type="person">Isacci</rs></l>
+                    <l>Nomine &amp; <rs type="person">Isacci</rs> funere <w>xrq</w><note type="annotation">Jesus Christus</note> obit,</l>
+                    <l>Nobilis e<ex>t</ex> fidei virt<ex>us</ex> tua pignora servas</l>
+                    <l><unclear>ô pr:</unclear> &amp; justi nomen ubiq<ex>us</ex> geris</l>
+                </lg>
+                <lg xml:lang="lat">
+                    <l><hi rend="underline"><rs type="person">Moyses</rs>.</hi></l>
+                    <l>Ductae est ad <w>xrum</w><note type="annotation">Jesus Christus</note>
+                        <rs type="person">Moses</rs>: cur lege timoris</l>
+                    <l>Nos trahis? Legem <w>xrq</w><note type="annotation">Jesus Christus</note>
+                        amoris h<ex>aben</ex>t.</l>
+                    <l>Serv<ex>us</ex> in alteri<ex>us</ex> famulae <unclear>are</unclear>:
+                            <w>Xrq</w><note type="annotation">Jesus Christus</note> in aede</l>
+                    <l>P<ex>at</ex>ris, ut in p<ex>ro</ex>pria p<ex>ro</ex> cupit o<ex>mn</ex>e
+                            <foreign xml:lang="lat">facit</foreign><note type="translation">ergibt</note>.</l>
+                </lg>
+                <lg xml:lang="lat">
+                    <l><hi rend="underline"><rs type="person">Aaron</rs></hi></l>
+                    <l>Hostia odora p<ex>at</ex>ri atque holocaustum pingue tonanti,</l>
+                    <l>Est humiles nitido p<ex>er</ex>mere corde preces,</l>
+                    <l>Non quantu<ex>m</ex> dederis: sed quale dedisse videris</l>
+                    <l>un<ex>us</ex> ab aetherea p<ex>er</ex>spicit arce Deus.</l>
+                </lg>
+                <lg xml:lang="lat">
+                    <l><hi rend="underline"><rs type="person">Josua</rs>
+                        </hi><c type="accent">x</c><note type="annotation">Betonungszeichen</note></l>
+                    <l>Tu prece no<ex>n</ex> armis Amalecti fortissime sesa</l>
+                    <l>Vincis ut infraenas tu prece <w><c>☉</c>is</w><note type="annotation">Planetensymbol für Sonne</note> equos.</l>
+                    <l>Quid prece nobili<ex>us</ex> q<ex>uo</ex>d fortius? Ecce precante</l>
+                    <l><rs type="person">Mose</rs>; inimico Deo castra p<ex>er</ex> arva netas.</l>
+                    <l><rs type="person">Johannes Baptista</rs>, tentro nella chiesa.</l>
+                    <l>Quem p<ex>ro</ex>pe Jordane<ex>m</ex> Baptista vocaverat agnu<ex>m</ex>,</l>
+                    <l>En tibi sub puero dat faber ultro <rs type="person">Joseph</rs>,</l>
+                    <l>Criminsa se roseo tetersit avita cruore</l>
+                    <l>Jam tua teterget crimine morte sua.</l>
+                </lg>
+
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00045.jpg" n="21r"/>
+
+                <p>Weÿter im refethorio ein schön gemeldte, Caena Dei, alleß so lebendig, wie sie
+                        frag<ex>en</ex>, wer <rs ref="register.xml#Jesus_Christus" type="person">Xrum</rs>
+                    <ex>ver</ex>rathen wölle. Eine wasserkunst, da durch räd<ex>er</ex> d<ex>a</ex>z
+                    wasser wirdt getrieb<ex>en</ex> durchß gantze Kloster; die Sacristeÿ, Stein
+                    Catonis Uticensis 500 ke werth, in einer mützen: biß übergesetzett über
+                        d<ex>en</ex> Po od<ex>er</ex> padum, porto <rs type="place">Correggio</rs>,
+                        <rs ref="register.xml#Pietole" type="place">Pietula</rs> dörfle wo<ex>n</ex>
+                    da d<ex>er</ex>
+                    <rs ref="register.xml#Vergilius" type="person">Virgili<ex>us</ex></rs> bürtig,
+                    alda man über den See sich setzett, <rs ref="register.xml#Mantua" type="place">Mantua</rs> stadt, all O<hi rend="superscript">le</hi> 2 ½ <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6 ½ alda gesehen d<ex>a</ex>z <seg>Schloß Alte</seg><note type="annotation">Palazzo del Te</note> aussen vorm Thor darinnen eine
+                    kammer, in welcher die <rs type="person">Hertzoginne</rs> schläfft, welche also
+                    gemachett d<ex>a</ex>z wan einer im winckell heimlich redett, d<ex>er</ex>
+                        and<ex>er</ex> so im winckell keg<ex>en</ex> über d<ex>a</ex>z Ohr hatt
+                    angelegt eß hören Kann, d<ex>er</ex> in d<ex>er</ex> mitte aber stehett, weiß
+                    niergendt von <w>rc.</w><note type="annotation" resp="ao">etc.</note> al ritorno
+                    piu.</p>
+            </div>
+
+            <div xml:id="E1600-06-25">
+                <head><date when="1600-06-25">den 25 Jun<ex>ÿ</ex>
+                        <c>☿</c></date></head>
+                <p> biß <rs type="place">Castione Castell</rs>, (veronesisch gebieth) <rs type="place">Pelealocco</rs> Casale, S. zenone wirtzhaůß 2. 1/2, biß <rs type="place">Castell franco</rs>, <rs ref="register.xml#Villafranca_di_Verona" type="place">villa franca</rs>
+                    dorf, <rs ref="register.xml#Verona" type="place">Verona</rs> stadt <foreign xml:lang="it">alla torre</foreign><note type="translation">Zum Turm</note> 2
+                    ½ <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p>
+            </div>
+
+            <div xml:id="E1600-06-28">
+                <head><date when="1600-06-28">den 28 Jun<ex>ÿ</ex>
+                        <c>♄</c></date></head>
+                <p> inß hauß gezogen.</p>
+            </div>
+
+            <div xml:id="E1600-07-30">
+                <head><date when="1600-07-30">den 30 Julÿ <c>☽</c></date></head>
+                <p>
+                    <rs type="person">Bernardt</rs> nach <rs ref="register.xml#Padova" type="place">Padua</rs> gezoge<ex>n</ex>.</p>
+            </div>
+
+            <div xml:id="E1600-07-03">
+                <head><date when="1600-07-03">den 3 Jul<ex>ÿ</ex>
+                        <c>♃</c>
+                    </date></head>
+                <p>wiederkommen.</p>
+            </div>
+
+            <div xml:id="E1600-07-07">
+                <head><date when="1600-07-07">den 7. Jul<ex>ÿ</ex>
+                        <c>☽</c>
+                    </date></head>
+                <p>Baltzar angefang<ex>en</ex>. </p>
+            </div>
+
+            <div xml:id="E1600-07-10">
+                <head><date when="1600-07-10">den 10 Jul<ex>ÿ</ex>
+                        <c>♃</c></date></head>
+                <p> d<ex>er</ex>
+                    <rs type="person">Marggraf</rs> kommen.</p>
+            </div>
+
+            <div xml:id="E1600-07-12">
+                <head><date when="1600-07-12">den 12 Jul<ex>ÿ</ex>
+                        <c>♄</c>
+                    </date></head>
+                <p>wiederwegkgezogen.</p>
+            </div>
+
+
+            <div xml:id="E1600-08-10">
+                <head><date when="1600-08-10">den 10 Aug<ex>usti</ex>
+                        <c>☉</c>
+                    </date></head>
+                <p>nach <rs ref="register.xml#Vicenza" type="place">Vicentz</rs>
+                    <c type="accent">x</c><note type="annotation">Schluss- oder
+                        Betonungszeichen</note>
+                    <rs ref="register.xml#Padova" type="place">Padua</rs>.</p>
+            </div>
+
+            <div xml:id="E1600-08-11">
+                <head><date when="1600-08-11">den 11. Aug<ex>usti</ex>
+                        <c>☽</c>. </date></head>
+                <p><rs ref="register.xml#Venedig" type="place">Venedig</rs>.</p>
+            </div>
+
+            <div xml:id="E1600-08-16">
+                <head><date when="1600-08-16">den 16 Aug<ex>usti</ex>
+                        <c>♄</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Custoza" type="place">Custosa</rs> 3 meill,
+                            <seg>vid<ex>e</ex>: s<ex>upra</ex> p<ex>agina</ex> 13. L. ii</seg><note type="annotation">Nachträgliche Ergänzung von August: Siehe oben Seite 13,
+                        Zeile 11. An der angegebenen Stellen befindet sich ein ebensolcher Verweis
+                        auf die Stelle hier</note>.</p>
+            </div>
+
+            <div xml:id="E1600-08-17">
+                <head><date when="1600-08-17">den 17 Aug<ex>usti</ex>
+                        <c>☉</c>
+                    </date></head>
+                <p>alda beseh<ex>en</ex> d<ex>a</ex>z pallatium, darinnen d<ex>er</ex> windt durch
+                    eine Caverne weyt herausser in ein gemach geführet wirdt, in dem gemach stehet
+                        geschrieb<ex>en</ex>. <foreign xml:lang="lat">In aestu temperies, incognita
+                        priscis</foreign><note type="translation"/>. Vnten da man inß gewelbe gehett
+                    stehett; <foreign xml:lang="lat">Aeolus hic clauso ventorum carcere
+                        regnato</foreign><note type="translation"/> biß <rs ref="register.xml#Vicenza" type="place">Vicentz</rs> 1. meill al Capello,
+                    biß <rs ref="register.xml#Verona" type="place">Verona</rs> 7 meÿll. for
+                        d<ex>er</ex> vntersten thuer stehet eine grosse steinerne tafell darauf
+                    folgendes <w>geschrieben</w><note type="annotation">Die angekündigte Inschrift
+                        notiert August nicht, die Seite ist daher zu einem Drittel nicht
+                        beschrieben</note>: </p>
+            </div>
+
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00046.jpg" n="21v"/>
+
+            <div xml:id="E1600-08-26">
+                <head><date when="1600-08-26">den 26 Aug<ex>usti</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Parona" type="place">Parona</rs> dorf, <rs type="place">Spidaletto</rs> dorf, <rs ref="register.xml#Volargne" type="place">Volarne</rs> dorf 2 ½ meyll. biß Il passo di chiaso, <rs ref="register.xml#Dolce" type="place">Dolce</rs> dorf, <rs ref="register.xml#Peri" type="place">Peri</rs> dorf, <rs type="place">Uzinigo</rs> dorf, (Trenbinisch gebieth, od<ex>er</ex> Keÿserisch,
+                        od<ex>er</ex> Grafschafft Tyroll) <rs ref="register.xml#Borghetto" type="place">Borghetto</rs> 2 ½ <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 5.</p>
+            </div>
+
+            <div xml:id="E1600-08-27">
+                <head><date when="1600-08-27">den 27 Aug<ex>usti</ex>
+                        <c>☿</c>
+                    </date></head>
+                <p>biß <rs type="place">Il vo`</rs>dorf, <rs ref="register.xml#Ala" type="place">L`ala</rs> dorf, <rs ref="register.xml#Santa_Margherita" type="place">S.
+                        Margaretha</rs> dorf, <rs ref="register.xml#Serravalle_All_adige" type="place">Saravalla</rs> dorf, <rs ref="register.xml#Marco" type="place">Marco</rs> dorf, La<rs type="place">viove</rs> dorf <rs ref="register.xml#Lizzana" type="place">Lizzano</rs> dorf, <rs ref="register.xml#Rovereto" type="place">Rovere</rs> stadt all` <rs ref="register.xml#Calliano" type="place">Cavaletto</rs>, 3 meill, biß <rs ref="register.xml#Besenello" type="place">Bullam</rs> dorf, Castello di
+                    preda, Castello Bese`, <rs type="place">Caglion</rs> dorf, <rs ref="register.xml#Mattarello" type="place">Matharetto</rs> dorf mitm
+                    Castell, <rs ref="register.xml#Trento" type="place">Tre<ex>n</ex>to</rs>
+                        od<ex>er</ex>
+                    <rs ref="register.xml#Trento" type="place">Trient</rs> stadt, 3 meyll <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p>
+            </div>
+
+            <div xml:id="E1600-08-28">
+                <head><date when="1600-08-28">den 28 Aug<ex>usti</ex>
+                        <c>♃</c>
+                    </date></head>
+                <p><rs ref="register.xml#Lavis" type="place">Laviso</rs> dorf, <rs type="place">Bressano</rs> dorf, <rs type="place">La rave</rs> dorf, Castell Königsperg,
+                    Castell <rs type="place">salorno</rs> mitten dorf, <rs ref="register.xml#Egna_Neumarkt" type="place">Newmarckt</rs>
+                        fleck<ex>en</ex> zur kronen, 4 meill, biß <rs ref="register.xml#Bronzolo" type="place">Brunzuol</rs> dorf, <rs ref="register.xml#Leifers" type="place">Leyfers</rs> dorf, <rs ref="register.xml#Bozen" type="place">Botzen</rs>
+                        fleck<ex>en</ex> zum Cardinalßhuett 3 meill, <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 7.</p>
+            </div>
+
+            <div xml:id="E1600-08-29">
+                <head><date when="1600-08-29">den 29 Aug<ex>usti</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>biß <rs type="place">Rensch</rs> dorf, <rs ref="register.xml#Cornedo" type="place">Cordcun</rs> dorf, auf d<ex>er</ex> hohen Clausen, wirtzhaus,
+                        <rs ref="register.xml#Blumau" type="place">Blamaw</rs> dorf, Beim <rs type="place">Teutschen</rs> dorf, <rs type="place">Zattzuan</rs>, da
+                        d<ex>er</ex> kalte Keller, Ein <rs type="place">sande</rs> dorf, <seg><rs type="place">Collmar</rs> fleck<ex>en</ex></seg><note type="annotation">Kollmann</note>, 3 meÿll, biß <rs ref="register.xml#Klausen" type="place">Claůse</rs> Fleck<ex>en</ex>, <rs type="place">Seebenschloß</rs>, <rs ref="register.xml#Brixen" type="place">Briven</rs> fleck<ex>en</ex>, Zum
+                    schwartzen adler 3 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p>
+            </div>
+
+            <div xml:id="E1600-08-30">
+                <head><date when="1600-08-30">den 30 Aug<ex>usti</ex>
+                        <c>♄</c>
+                    </date></head>
+                <p>biß zum <rs type="place">Peisser</rs> dorf, <rs ref="register.xml#Mittewald" type="place">Mittenwaldt</rs> dorf, <rs type="place">Sack</rs> dorf, <rs ref="register.xml#Mules" type="place">Maliß</rs> dorf, <rs type="place">Brechenstein</rs> schlos, <rs ref="register.xml#Sterzing" type="place">Stärtzing</rs>. stadt zur guldenen rosen beÿm altten wirth, 4 meyll; <rs ref="register.xml#Bernhard_Teges" type="person">Bernardo</rs>
+                    <foreign xml:lang="lat">Malato</foreign><note type="translation" resp="as">krank</note>.</p>
+            </div>
+
+            <div xml:id="E1600-08-31">
+                <note place="margin-left"><foreign xml:lang="lat">Eodem die</foreign><note type="translation">Am selben Tag</note> Meine f<ex>ürstlche</ex>
+                        l<ex>iebe</ex>
+                    <rs ref="register.xml#Sibylle_El_Ol" type="person">Schwester</rs> hochzeitt
+                    gehalten. mitt <rs ref="register.xml#Anton_II." type="person">Graf Antonio zu
+                            Old<ex>denburg</ex> und Delm<ex>enhorst</ex></rs>
+                    <c type="accent">x</c><note type="annotation">Schluss- oder
+                        Betonungszeichen</note></note>
+                <head><date when="1600-08-31">den 31 Aug<ex>usti</ex>
+                        <c>☉</c>
+                    </date></head>
+                <p>zum <rs type="place">rieth</rs> dorf, aufm <rs type="place">straßburg</rs>
+                    schloß, zu <rs type="place">Gossen sees</rs> dorf, Ein<rs ref="register.xml#Brenner" type="place">Brenner</rs> dorf, zum <rs ref="register.xml#Lueg" type="place">Lueg</rs> dorf, 2 ½ meill</p>
+            </div>
+
+            <div xml:id="E1600-09-01">
+                <head><date when="1600-09-01">den 1 Sept<ex>embris</ex>
+                        <c>☽</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Stafflach" type="place">staffell</rs> dorf, <rs ref="register.xml#Steinach" type="place">steinach</rs> fleck<ex>en</ex>, <rs ref="register.xml#Matrei_am_Brenner" type="place">Martira</rs>
+                        fleck<ex>en</ex>, <rs ref="register.xml#Innsbruck" type="place">Jnsprug</rs>
+                    stadt zum güldenen Hirsch, 4 ½ meill.</p>
+            </div>
+
+            <div xml:id="E1600-09-02">
+                <head><date when="1600-09-02">den 2 Sept<ex>embris</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>still geleg<ex>en</ex>, p<ex>er</ex>
+                    <foreign xml:lang="it">conto del</foreign><note type="translation" resp="as">Rechnung</note> 30 <unclear> Aug:</unclear>
+                </p>
+            </div>
+
+            <div xml:id="E1600-09-03">
+                <head><date when="1600-09-03">den 3 Sept<ex>embris</ex>
+                        <c>☿</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Zirl" type="place">zirle</rs> Schloß vnd dorf, zum <rs type="place">Reitt</rs> dorf, <rs ref="register.xml#Seefeld_in_Tirol" type="place">Seefels</rs> dorf zum schwartze<ex>n</ex> Adler 3 meill, biß
+                        <rs type="place">Liarne</rs> dorf, (Bayerlandt) <rs ref="register.xml#Mittenwald" type="place">Mittenwaldt</rs> dorf, zum gulden
+                    Lewen, 3 meill <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 6.</p>
+            </div>
+
+            <div xml:id="E1600-09-04">
+                <head><date when="1600-09-04">den 4 Sept<ex>embris</ex>
+                        <c>♃</c>
+                    </date></head>
+                <p>biß <rs type="place">Bardekirch</rs> Marckt, <rs type="place">Carmiß</rs> dorf
+                    aůf d<ex>er</ex> l<ex>inken</ex> s<ex>eite</ex>, wardefelß schloß, Varche dorf,
+                        <rs ref="register.xml#Ettal" type="place">Etoll</rs> Benedictiner Kloster
+                    Item keyser Ludwig dem 4 gestifftett 4 ½ zum schwartzen Adler, <rs ref="register.xml#Oberammergau" type="place">Oberammergaw</rs> dorf, <rs ref="register.xml#Unterammergau" type="place">Vnderammergaw</rs> dorf, <rs type="place">säwigen</rs> dorf zu<ex>m</ex> schwartze<ex>n</ex> Adler 2 ½
+                        <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p>
+            </div>
+
+            <div xml:id="E1600-09-05">
+                <head><date when="1600-09-05">den 5 Sept<ex>embris</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Rottenbuch" type="place">Rotenbach</rs> kloster, <rs ref="register.xml#Peiting" type="place">Beůtingen</rs> gedorf, <rs ref="register.xml#Schongau" type="place">Schöngaw</rs> stadt zum güldenen
+                    stern 2 meill, biß <rs ref="register.xml#Hohenfurch" type="place">Hohenfurth</rs> dorf, <rs ref="register.xml#Denklingen" type="place">dencklingen</rs> dorf, <rs ref="register.xml#Leeder" type="place">Leder</rs> dorf, <rs ref="register.xml#Asch" type="place">Asche</rs> dorf,
+                        <rs ref="register.xml#Roemerkessel" type="place">Reinenkessell</rs> dorf <rs ref="register.xml#Landsberg_am_Lech" type="place">Landsperg</rs> stadt zum
+                    Morenkopf 4 meill.</p>
+            </div>
+
+            <div xml:id="E1600-09-06">
+                <head><date when="1600-09-06">den 6 Sept<ex>embris</ex>
+                        <c>♄</c>
+                    </date></head>
+                <p>biß <rs type="place">stadell</rs> wirtzhaůß, <rs type="place">Hohensteten</rs>
+                    dorf (Schwabe<ex>n</ex>
+                    <rs ref="register.xml#Augsburg" type="place">Augspurg</rs> stadt zur
+                    Weintraůben: 6 meill.</p>
+            </div>
+
+            <div xml:id="E1600-09-07">
+                <head><date when="1600-09-07">den 7. Sept<ex>embris</ex>
+                        <c>☉</c>
+                    </date></head>
+                <p>still geleg<ex>en</ex></p>
+            </div>
+
+            <div xml:id="E1600-09-08">
+                <head><date when="1600-09-08">den 8 Sept<ex>embris</ex>
+                        <c>☽</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Oberhausen" type="place">Oberhausen</rs> dorf, <rs ref="register.xml#Gersthofen" type="place">Geersehoren</rs> dorf, <rs ref="register.xml#Langweid" type="place">Langwied</rs> dorf,<rs ref="register.xml#Allmannshofen" type="place">hermanßhoren</rs> dorf, <rs ref="register.xml#Meitingen" type="place">Meůtingen</rs> dorf, <rs ref="register.xml#Westendorf" type="place">Wessendorf</rs>, dorf, <rs ref="register.xml#Nordendorf" type="place">Narendorf</rs>, <rs type="place">Truisse</rs> dorf <rs ref="register.xml#Mertingen" type="place">Merdingen</rs> dorf, <rs ref="register.xml#Auchsesheim" type="place">Echse<ex>n</ex> hausen</rs> dorf, <rs ref="register.xml#Donauwoerth" type="place">Thonawerth</rs> Reichstadt., zum güldene<ex>n</ex> Lewen 6
+                    meill.</p>
+            </div>
+
+            <div xml:id="E1600-09-09">
+                <head><date when="1600-09-09">den 9 Sept<ex>embris</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>biß (Newbürgisch gebieth) <rs type="place">Berge</rs> dorf, <rs ref="register.xml#Kaisheim" type="place">Gheiß</rs> kloster, <rs ref="register.xml#Buchdorf" type="place">Buechdorf</rs> dorf, <rs ref="register.xml#Itzing" type="place">Jtzingen</rs> dorf, <rs ref="register.xml#Monheim" type="place">Monheim</rs> stedtle ausse<ex>n</ex>
+                    vorm Thore 2 meill, biß Diethsorth dem vo<ex>n</ex> Bappeneheim zu: <pb facs="http://selbstzeugnisse.hab.de/edition/images/00047.jpg" n="22r"/>
+                    stendig, <rs type="place">Tetenheim</rs> dorf demselben gehörig
+                    (Marggraffschafft Anspach) oder Franckenlandt) <rs ref="register.xml#Wilburgstetten" type="place">Wilßburg</rs> schloß so mitt
+                    den Noribergern streitig, <rs ref="register.xml#Weissenburg_in_Bayern" type="place">Weissenburg</rs> Reichstadt, <rs ref="register.xml#Ellingen" type="place">Elbingen</rs> flecken, einem <unclear>pter</unclear> Teutscheß
+                    Ordenß gehörig,<rs ref="register.xml#Pleinfeld" type="place">Bleÿfeldt</rs>
+                    Marckflecken, <del>4 meill</del> dem <rs ref="register.xml#Johann_Konrad_Eichstaett" type="place">Bischof von
+                        Aichstedt</rs> gehörig, 4 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note>
+                    6.</p>
+            </div>
+
+            <div xml:id="E1600-09-10">
+                <head><date when="1600-09-10">den 10 Sept<ex>embris</ex>
+                        <c>☿</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Muehlstetten" type="place">Mülstadt</rs> dorf, <rs ref="register.xml#Georgensgmuend" type="place">Mindt</rs> dorf, <rs ref="register.xml#Rittersbach" type="place">Rieterßbach</rs> dorf, <rs type="place">kewdorf</rs> dorf, <rs ref="register.xml#Schwabach" type="place">Schwabach</rs> stadt, 4 meill zum schwartze<ex>n</ex> Adler biß
+                        <rs type="place">Regelßdorf</rs>, zum <rs ref="register.xml#Stein" type="place">stein</rs> dorf (<rs ref="register.xml#Nuernberg" type="place">Nörnberg</rs> auf der r<ex>echten</ex> h<ex>and</ex> lieg<ex>en</ex>
+                        lasse<ex>n</ex> vo<ex>n</ex> weg<ex>en</ex> d<ex>er</ex> Pest) zum <rs type="place">Toost</rs> dorf, <rs ref="register.xml#Fuerth" type="place">Purth</rs> dorf, <rs type="place">Elderßdorf</rs>, dorf, <rs ref="register.xml#Bruck" type="place">Bruck</rs> dorf,<rs ref="register.xml#Erlangen" type="place">Erlange<ex>n</ex></rs> stedtle, 5
+                    meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 9.</p>
+            </div>
+
+            <div xml:id="E1600-09-11">
+                <head><date when="1600-09-11">den 11 Sept<ex>embris</ex>
+                        <c>♃</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Baiersdorf" type="place">Bayerßdorf</rs>, (Bambergisch
+                    gebieth) <rs ref="register.xml#Forchheim" type="place">Purcheim</rs>, feste
+                    stadt, <rs type="place">nawseleß</rs> dorf, <rs ref="register.xml#Altendorf" type="place">Altendorf</rs>, <rs ref="register.xml#Hirschaid" type="place">Hirschhaide</rs> dorf, <rs type="place">strullendorf</rs>, <rs ref="register.xml#Bamberg" type="place">Bamberg</rs>, Bischöfliche stadt zum
+                    Einhorn 6 meill alda gesehen d<ex>a</ex>z Münster, den Müntzberg <w>rc.</w><note type="annotation" resp="ao">etc.</note> biß <rs ref="register.xml#Hallstadt" type="place">Alstette</rs> dorf, <rs type="place">Wüstebach</rs> dorf, (über
+                    den Mayn) <rs ref="register.xml#Rattelsdorf" type="place">Ratterßdorf</rs> dorf
+                    2 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8.</p>
+            </div>
+
+            <div xml:id="E1600-09-12">
+                <head><date when="1600-09-12">den 12 Sept<ex>embris</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>biß <rs type="place">Mülß</rs> dorf (Wirtzbürgisch gebieth) <rs type="place">Bůsendorf</rs> dorf, <rs type="place">Kalte<ex>n</ex> Herberge</rs> dorf,
+                        <rs type="place">Leime</rs> dorf, <rs type="place">Kaltenbrun</rs> dorf
+                    (Coburgisch gebiethe)<rs type="place">Gleissen</rs> dorf, <rs type="place">Rosen</rs> dorf, <rs type="place">Herrbisch</rs> dorf <rs type="place">Waschbach</rs> dorf, <rs type="place">Müllbach</rs> dorf, <rs ref="register.xml#Coburg" type="place">Coburg</rs> fürstliche stadt mitt dem
+                    schloß 4 meill.</p>
+            </div>
+
+            <div xml:id="E1600-09-13">
+                <head><date when="1600-09-13">den 13 Sept<ex>embris</ex>
+                        <c>♄</c></date></head>
+                <p> biß <rs ref="register.xml#Unterlauter" type="place">Lauter</rs> dorf, <rs ref="register.xml#Eisfeld" type="place">Eiffeldt</rs> stedtle 3 meill biß
+                        <rs ref="register.xml#Crock" type="place">Krock</rs> dorf, <rs ref="register.xml#Oberwind" type="place">Oberwindt</rs> dorf, <rs ref="register.xml#Engenstein" type="place">Engestein</rs> dorf (Thüringen;
+                    Hennebergsch gebieth) (an Jetzo <unclear>erisch</unclear>) <rs type="place">steinbach</rs> dorf, durch den Thüringer waldt, <rs ref="register.xml#Frauenwald" type="place">Frawenwaldt</rs> dorf 2 meill,
+                        <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p>
+            </div>
+
+            <div xml:id="E1600-09-14">
+                <head><date when="1600-09-14">den 14 Sept<ex>embris</ex>
+                        <c>☉</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Ilmenau" type="place">Elmenaw</rs> städtle meines H. s.
+                    G. s. s. zugehörig, <rs ref="register.xml#Neusiss" type="place">Neůses</rs> dorf
+                    (Schwartzbürgisch gebieth) <rs ref="register.xml#Plaue" type="place">Blawe</rs>
+                    dorf, <rs ref="register.xml#Arnstadt" type="place">Arenstadt</rs>, stadt 4
+                    meill, <foreign xml:lang="it">p<ex>er</ex> rispetto dell 2 di
+                            <unclear>Sette:</unclear></foreign><note type="translation"/></p>
+            </div>
+
+            <div xml:id="E1600-09-15">
+                <head><date when="1600-09-15">den 15 Sept<ex>embris</ex>
+                        <c>☽</c>. </date></head>
+                <p>beÿ <rs ref="register.xml#Karl_Schwarzburg_Rudolstadt" type="person">Graff Carll
+                            vo<ex>n</ex> Schwartzburg</rs> gewesen; darnach biß <rs ref="register.xml#Ichtershausen" type="place">Ichterhaůsen</rs> dorf <rs ref="register.xml#Eischleben" type="place">Eichstedt</rs> dorf <subst>
+                        <del><unclear>kircheim</unclear></del>
+                        <add><rs ref="register.xml#Waltersleben" type="place">walterhausen</rs></add>
+                    </subst> dorf, <rs ref="register.xml#Erfurt" type="place">Erfurdt</rs> stadt,
+                    zum <rs type="person">Christoff</rs> 2 meill, alda beseh<ex>en</ex> aůfm Münster
+                    die grosse glocke so 275 Centner schwer, der Kupell aber 11, hatt im umbgrieff 5
+                    Klaffter. Zu S<ex>anct</ex> Peter zuseh<ex>en</ex> d<ex>a</ex>z begrebniß deß
+                        <rs ref="register.xml#Gleichen_Grafen" type="org">Grafen vo<ex>n</ex>
+                        Gleichen</rs>, mitt seine<ex>n</ex> zwoen gemahlen. Aussen vor d<ex>er</ex>
+                    stadt, liegt eine vestung, S<ex>anct</ex> Cyriac<ex>us</ex> genandt, welcheß vor
+                    diesem ein nonnenkloster gewesen, dazue man gehen kann von d<ex>er</ex> stadt
+                    unter d<ex>er</ex> Erden.</p>
+            </div>
+
+            <div xml:id="E1600-09-16">
+                <head><date when="1600-09-16">den 16 Sept<ex>embris</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>stillgelegen, wegen des 14 Septe<ex>m</ex>b<ex>er</ex>.</p>
+            </div>
+
+            <div xml:id="E1600-09-17">
+                <head><date when="1600-09-17">den 17 Sept<ex>embris</ex>
+                        <c>☿</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Stotternheim" type="place">stotterheim</rs> dorf gehn
+                        <rs ref="register.xml#Erfurt" type="place">Erfurdt</rs> gehörig (Chur:
+                    sächsisch gebieth) <rs ref="register.xml#Wundersleben" type="place">Wund<ex>er</ex>ßleb<ex>en</ex></rs> dorf, <rs ref="register.xml#Weissensee" type="place">Weissensee</rs> stadt, zum
+                    schwartzen Beeren 3 meill, biß <rs ref="register.xml#Guenstedt" type="place">Kuestette</rs> dorf, <rs ref="register.xml#Kindelbrueck" type="place">Kindelbrugk</rs> flecken, <rs ref="register.xml#Kannawurf" type="place">Kuewurf</rs> dorf, <rs ref="register.xml#Ruine_Sachsenburg" type="place">Sachsenburg</rs> schloß und dorf, <rs ref="register.xml#Oldisleben" type="place">Olderßleb<ex>en</ex></rs> dorf, <rs type="place" ref="#Riethnordhausen">Riehtleb<ex>en</ex></rs> dorf, <rs type="place">Ittenhortz</rs> dorf, <rs ref="register.xml#Martinsrieth" type="place">Martenried</rs> dorf, <rs ref="register.xml#Sangerhausen" type="place">Sangerhaůsen</rs> stedt zum grünen waldt, 4 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p>
+            </div>
+
+            <div xml:id="E1600-09-18">
+                <head><date when="1600-09-18">den 18 Sept<ex>embris</ex>
+                        <c>♃</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Gonna" type="place">hünne</rs> dorf, <rs type="place">Eberßdorf</rs>, dorf,<rs ref="register.xml#Poelsfeld" type="place">Belltzfeld</rs> dorf, über d<ex>e</ex>n <rs ref="register.xml#Harz" type="place">Hartz</rs> (Grafschafft Mansfeldt) Manß: <pb facs="http://selbstzeugnisse.hab.de/edition/images/00048.jpg" n="22v"/>
+                    <rs ref="register.xml#Annarode" type="place">rod</rs> dorf,<rs ref="register.xml#Mansfeld" type="place">Mansfeldt</rs> schloß und stadt auf
+                        d<ex>er</ex> l<ex>inken</ex> s<ex>eite</ex>
+                    <c type="accent">x</c><note type="annotation">Schluss- oder
+                        Betonungszeichen</note>
+                    <rs ref="register.xml#Kloster_Mansfeld" type="place">Kloster Mansfeldt</rs> dorf
+                    (Fürstenthumb Anhaltt) <rs ref="register.xml#Andersleben" type="place">And<ex>er</ex>ßleb<ex>en</ex></rs> stadt, zum Hind<ex>er</ex>nest
+                    schloß, <rs ref="register.xml#Neundorf" type="place">Niendorf</rs>, dorf
+                    (Magdeburgisch gebiethe) <rs ref="register.xml#Stassfurth" type="place">Stasfarth</rs> stadt 6 meill biß <rs ref="register.xml#Dodendorf" type="place">Totte<ex>n</ex>dorf</rs>, <rs ref="register.xml#Magdeburg" type="place">Magdeburg</rs> stadt, in d<ex>er</ex> vorstadt 5 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 11.</p>
+            </div>
+
+            <div xml:id="E1600-09-19">
+                <head><date when="1600-09-19">den 19 Sept<ex>embris</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>biß<rs ref="register.xml#Barleben" type="place">Barleb<ex>en</ex></rs> dorf, <rs ref="register.xml#Jersleben" type="place">Jllby</rs> dorf, <rs ref="register.xml#Wolmirstedt" type="place">Wolmerstad</rs> schloß und <rs ref="register.xml#Colbitz" type="place">Colbitz</rs> schloß und dorf 3
+                    meill, biß (Marck Brandeburg) <rs ref="register.xml#Barleben" type="place">Barleb<ex>en</ex></rs> stadt 4 meill, <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p>
+            </div>
+
+            <div xml:id="E1600-09-20">
+                <head><date when="1600-09-20">den 20 Sept<ex>embris</ex>
+                        <c>♄</c>
+                    </date></head>
+                <p>biß (Lüneburgisch gebiethe) <rs ref="register.xml#Luechow" type="place">Lüchaw</rs> stadt und schloß.</p>
+            </div>
+
+            <div xml:id="E1600-11-12">
+                <head><date when="1600-11-12">den 12 Novemb<ex>ris</ex>
+                        <c>☿</c>
+                    </date></head>
+                <p>von <rs ref="register.xml#Dannenberg" type="place">Dannenbergk</rs> biß <rs ref="register.xml#Oldenstadt" type="place">Oldenstadt</rs> Kloster, 5
+                    meill.</p>
+            </div>
+
+            <div xml:id="E1600-11-13">
+                <head><date when="1600-11-13">den 13 Nove<ex>m</ex>b<ex>ris</ex>
+                        <c>♃</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Uelzen" type="place">Ultzen</rs> stadt,<rs ref="register.xml#Dreilingen" type="place">Dreÿling</rs> dorff 2 meill, biß
+                        <rs ref="register.xml#Bergen" type="place">Bergen</rs>, <add place="above">vogteÿ</add> 4 meill, <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p>
+            </div>
+
+            <div xml:id="E1600-11-14">
+                <head><date when="1600-11-14">den 14 Nove<ex>m</ex>b<ex>ris</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Dueshorn" type="place">Düßhorn</rs>
+                    <add place="above">dorf</add> 2 meill, <rs ref="register.xml#Rethem" type="place">Rechem</rs> Ampt hauß und Stettlein, liegt auf d<ex>er</ex>
+                    Aller; daselbst <rs ref="register.xml#Wilhelm_Braunschweig_Lueneburg" type="person">die Herren von Zell</rs> unserm dürchzuge, zugesehen, biß <rs ref="register.xml#Hoya" type="place">Hoya</rs> 4 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6 welches d<ex>a</ex>s haubthauß in d<ex>er</ex> Grafschaft
+                        <rs ref="register.xml#Hoya" type="place">Hoÿa</rs>, <add place="above">liegt
+                        an der weser</add> an Jetzo d<ex>e</ex>n <rs ref="register.xml#Ernst_II._von_Braunschweig_Lueneburg_Celle" type="person">Hertzogen von Lüneburg</rs> zugehörig, alhir ist d<ex>er</ex>
+                    <rs ref="register.xml#Konrad_von_Bothmer" type="person">Abtt von Lüneburg</rs>
+                    zu unß gestossen.</p>
+            </div>
+
+            <div xml:id="E1600-11-15">
+                <head><date when="1600-11-15">den 15 Nove<ex>m</ex>b<ex>ris</ex>
+                        <c>♄</c>
+                    </date></head>
+                <p>biß zum <rs ref="register.xml#Syke" type="place">Sike</rs>, ein ambthaus in
+                        d<ex>er</ex> grafschafft <rs ref="register.xml#Hoya" type="place">Hoye</rs>,
+                    dabeÿ ein Flecken, gehörett dem <rs ref="register.xml#Heinrich_Julius_Braunschweig_Wolfenbuettel" type="person">Hertzoge zu Brunschwieg</rs>, 2 meill: alda<rs ref="register.xml#Konrad_von_Bothmer" type="person">H<ex>err</ex> Moritz von
+                        Sachsen</rs> zu unß gestossen.</p>
+            </div>
+
+            <div xml:id="E1600-11-16">
+                <head><date when="1600-11-16">den 16 Novemb<ex>ris</ex>
+                        <c>☉</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Heiligenrode" type="place">Hilligenrode</rs> Kloster
+                    nachm <rs ref="register.xml#Syke" type="place">Sike</rs> gehörig. biß <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs> vestung und
+                    stadt, <add place="above">2 meill</add>. davor wir von <rs ref="register.xml#Anton_II." type="person">Graff Anthonio</rs> unserem
+                        f<ex>ürstlichen</ex> l<ex>ieben</ex> Schwagern gar stadtlich sein
+                        empfange<ex>n</ex> word<ex>en</ex> im hineinzueg hab<ex>en</ex>
+                        S<ex>eine</ex> L<ex>iebden</ex> viell <w>stücke</w><note type="annotation">Geschütz, Kanone, Waffe</note> lassen abgeben.</p>
+            </div>
+
+            <div xml:id="E1600-11-17">
+                <head><date when="1600-11-17">den 17 Novemb<ex>ris</ex>
+                        <c>☽</c>
+                    </date></head>
+                <p>unsere gn<ex>ädie</ex>
+                    <rs ref="register.xml#Ursula_v_SL" type="person">FrawMutter</rs> krangk
+                        word<ex>en</ex>.</p>
+            </div>
+
+            <div xml:id="E1600-12-09">
+                <head><date when="1600-12-09">den 9 Decembr<ex>is</ex>
+                        <c>♂</c>
+                    </date></head>
+                <p>durch <rs ref="register.xml#Bremen" type="place">Bremen</rs> grosse kaufstadt,
+                    biß <rs ref="register.xml#Achim" type="place">Achim</rs> groß dorf, <seg><rs ref="register.xml#Langwedel" type="place">Langwedell</rs> ein altt
+                        verfallen hauß</seg><note type="annotation">Vogtei und Burg
+                        Langwedelb</note> und ein Fleck<ex>en</ex>, dem <rs ref="register.xml#Johann_Friedrich_Schl_Holstein_G" type="person">Bischof
+                        von Bremen</rs>, so an Jetzo ein <rs ref="register.xml#Johann_Adolf_Schleswig_Holstein" type="person">Hertzog von
+                        Hollstein</rs> zu: <pb facs="http://selbstzeugnisse.hab.de/edition/images/00048.jpg" n="23r"/>
+                    stendig; <unclear>Zedelitz</unclear>
+                    <c type="accent">n</c><note type="annotation">Schluss- oder
+                        Betonungszeichen</note>.</p>
+            </div>
+
+            <div xml:id="E1600-12-10">
+                <head><date when="1600-12-10">den 10 Dece<ex>m</ex>b<ex>e</ex>r<ex>is</ex>
+                        <c>☿</c>
+                    </date></head>
+                <p>von <rs ref="register.xml#Langwedel" type="place">Langwedell</rs> biß <rs ref="register.xml#Walsrode" type="place">Walßrade</rs>, <seg>Altt
+                        Jungfrawenkloster</seg><note type="annotation">Kloster Walsrode, ab 1570 ist
+                        der Konvent durchweg lutherischen Glaubens</note> sampt einem stedtlein, 3
+                    meill.</p>
+            </div>
+
+            <div xml:id="E1600-12-11">
+                <head><date when="1600-12-11">den 11 Dece<ex>m</ex>br<ex>is</ex>
+                        <c>♃</c></date></head>
+                <p> biß <rs ref="register.xml#Bremen" type="place">Bremen</rs>, 3. meill.</p>
+            </div>
+
+            <div xml:id="E1600-12-12">
+                <head><date when="1600-12-12">den 12 Dece<ex>m</ex>b<ex>ris</ex>
+                        <c>♀</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Dreilingen" type="place">dreÿling</rs>, <rs ref="register.xml#Uelzen" type="place">Ultzen</rs>, <rs ref="register.xml#Oldenstadt" type="place">Oldenstadt</rs>, 6 meill.</p>
+            </div>
+
+            <div xml:id="E1600-12-13">
+                <head><date when="1600-12-13">den 13 Decembr<ex>is</ex>
+                        <c>♄</c>
+                    </date></head>
+                <p>biß <rs ref="register.xml#Dannenberg" type="place">Dannenberg</rs> seindt 5
+                    meill.</p>
+            </div>
+
+            <div xml:id="E1600-12-29">
+                <head><date when="1600-12-29">den 29 Dece<ex>m</ex>b<ex>ris</ex>
+                        <c>☽</c>
+                    </date></head>
+                <p>unsers f<ex>ürstlichen</ex> l<ex>ieben</ex>
+                    <rs type="person">Brudern H<ex>err</ex> Fratze<ex>n</ex></rs> Gesinde nach <rs ref="register.xml#Strassfurt" type="place">straßburg</rs> gezogen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

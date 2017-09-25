@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.53-novissimi-8.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>53 Noviss. 8°, 1r – Geistliches Tagebuch Sophie Elisabeth von Braunschweig und Lüneburg</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Novissimi</collection>
+            <idno>53 Noviss. 8°</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>53 Noviss. 8°, 1r</idno></msIdentifier>
+            <msContents>
+              <summary>In Ich-Form verfasste Gedanken zu moralischen, religiösen, die Seele, den Geist und Tugenden betreffende Themen. 
+                Die <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Verfasserin</rs> verarbeitet in Versform (meist 4 bis 10 Zeilen) alle Kapitel fast aller Bücher des alten und neuen Testamentes. <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Sie</rs> nimmt Bezug auf weitere 
+                Geschichten und Kapitel des Buches Daniel, wofür als Vorlagen die Titel mit den Signaturen: A: 230.16 Theol. (6) und A: 510.4 Theol. (7) gedient haben könnten.
+                Außerdem rekurriert die <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Verfasserin</rs> auf antike Autoren und Kirchenväter. Anhand der Datierung, die die <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Verfasserin</rs> jedem einzelnen Eintrag beifügt, 
+                kann man erkennen, dass sie im Jahr 1650 täglich und im Jahr 1651 fast jeden Tag Einträge vorgenommen hat. Zu sehen ist außerdem, dass <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">sie</rs> bei Reisen 
+                oder Ortsveränderungen zum Datum den passenden Ort notiert hat, beispielsweise nimmt <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">sie</rs> das Buch mit auf eine Reise nach Norddeutschland im Juli 1650. 
+                Am Ende des Buches befindet sich ein Register, welches Auskunft über die Texte gibt, auf die sich die <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Verfasserin</rs> bezieht. Außerdem sind hier Melodien zu den 
+                einzelnen von der <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Verfasserin</rs> gedichteten Textstücken verzeichnet. 53 Noviss. 8° gehört zu einer Reihe von geistlichen Tagebüchern 
+                (<ref target="10-novissimi-2f.xml">10 Novissimi 2</ref>, <ref target="10-1-novissimi-2f.xml">10.1 Novissimi 2</ref>, <ref target="10-2-novissimi-2f.xml">10.2 Novissimi 2</ref>, <ref target="53-1-novissimi-8f.xml">53.1 Novissimi 8</ref> und <ref target="53-2-novissimi-8f.xml">53.2 Novissimi 8</ref>), die <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Sophie Elisabeth von Braunschweig-Lüneburg</rs> verfasst 
+                hat. Persönliche, selbstreferentielle Notizen befinden sich vor allem im Band <ref target="53-1-novissimi-8f.xml">53.1 Novissimi 8</ref>.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Geistliches_Tagebuch">
+                <locus from="1r" to="182v"/>
+                <author ref="../../register.xml#Sophie_Elisabeth_Br_L">Sophie Elisabeth von Braunschweig und Lüneburg</author>
+                <title type="uniform">Geistliches Tagebuch Sophie Elisabeth von Braunschweig und Lüneburg</title>
+                <date type="coverage" from="1650" to="1651"/>
+                <rubric>Kurtze Stoßbethlein auß ein iedeß Capitel durch die gantze biebel in allerhandt not vndt anligen zu gebrauchen, vndt zu meiner vndt aller fromen Christen erbauung erfunden vndt aufgezeichnet alhir zu Wolfenbüttel, im iahr 1.6.50. Sophie Elisabeth HzBW</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier.</material>
+                  </support>
+                  <extent>
+                    <measure>183 Bll.</measure>
+                    <dimensions>
+                      <height quantity="18" unit="cm"/>
+                      <width quantity="14.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, Bleistiftfoliierung modern 1-183.</p>
+                  </foliation>
+                </supportDesc>
+                
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Pergament</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1650" to="1651"/>
+                <origPlace ref="../../register.xml#Wolfenbuettel">Wolfenbüttel</origPlace>
+              </origin>
+              
+              
+            </history>
+            <additional>
+              <listBibl>
+                <bibl>Vgl. <ref target="10-novissimi-2f.xml">10 Novissimi 2</ref>, <ref target="10-1-novissimi-2f.xml">10.1 Novissimi 2</ref>, <ref target="10-2-novissimi-2f.xml">10.2 Novissimi 2</ref>, <ref target="53-1-novissimi-8f.xml">53.1 Novissimi 8</ref> und <ref target="53-2-novissimi-8f.xml">53.2 Novissimi 8</ref></bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

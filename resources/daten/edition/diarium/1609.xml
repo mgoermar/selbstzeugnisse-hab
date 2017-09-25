@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" n="1609" prev="1608.xml" next="1610.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1609</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>       
+            
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00084.jpg" n="40v">Anno 1.609.</head></div>
+                    
+            <div xml:id="E1609-04-17"><head type="margin-left"><date when="1609-04-17">den 17 April<ex>is</ex></date></head><p> 
+                <foreign xml:lang="lat">horam 3.30. m: a<ex>nte</ex> meridiem, abortivam <add place="above">conjunx</add> enixa est filiam:</foreign><note type="translation">Um 3.30 Uhr erlitt meine Gattin eine Tochter gebährend eine Fehlgeburt</note> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> 
+                </p></div>        
+            
+            <div xml:id="E1609-08-31"><note place="margin-left">Prager Reÿse:</note><note place="margin-left">10.</note><head><date when="1609-08-31">den 31 Aug<ex>usti</ex> <c>♃</c> </date></head><p>biß zum Hohen Kruge, durch
+                <rs ref="register.xml#Kalbe" type="place">Calbe</rs> <seg>Eysern Schnippe</seg><note type="annotation">Burg Gardelegen, auch Isenschnibbe genannt</note>, <rs ref="register.xml#Alvensleben" type="org">Alvenschl</rs>: gehörig: <rs ref="register.xml#Gardelegen" type="place">Gardeleben</rs>: 10 meÿll: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1609-09-01"><note place="margin-left">17</note><head><date when="1609-09-01">den 1 7bris <c>♀</c>,</date></head><p>
+                biß <rs ref="register.xml#Letzlingen" type="place">Netzlingen</rs>, <rs ref="register.xml#Colbitz" type="place">Colbitz</rs> <w>Jagtheuser</w><note type="annotation">Jagdschloss Letzlingen</note>: 4 m<ex>eyll</ex> Auf der l<ex>inken</ex> s<ex>eite</ex> <rs ref="register.xml#Burg_bei_Magdeburg" type="place">Burgk</rs> eine stadt: biß
+                <rs ref="register.xml#Wolmirstedt" type="place">Wolmerstedt</rs>, <rs ref="register.xml#Magdeburg" type="place">Magdeburgk</rs> zum langen Halß, 3 m<ex>eyll</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7. 
+                Jm thumb daselbst ist die AltarTafell 7 Ellen lang, 4
+                breitt, 1 dicke: Auf des <rs ref="register.xml#Theodor_Magd" type="person">bischoffs</rs>, d<ex>er</ex> die Tafell dareyn
+                geben grabe, ist d<ex>er</ex>gleichen stein: unter dem Chor ein
+                gewelb, darinnen <rs ref="register.xml#Otto_I." type="person">Keyser Otto</rs> 1., in einem Messings Sarcke An ketten hengett: die
+                <seg>krugk von Cana</seg><note type="annotation">Kana-Krüge <ref target="https://de.wikipedia.org/wiki/Domschatzkammer_Quedlinburg">Wikipedia</ref></note>, <rs ref="register.xml#Johannes_Tetzel" type="person">Tetzels</rs> Geldkasten<note type="annotation"><ref target="http://www.braunschweig-touren.de/Seiten/Tetzelsage.html">Tetzelsage</ref></note> von 3 fachen: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1609-09-02"><note place="margin-left">22</note> <head><date when="1609-09-02">den 2 7bris <c>♄</c> </date></head><p>biß <rs ref="register.xml#Koenigsborn" type="place">königßborn</rs> : <add place="above">1. m<ex>eill</ex></add> 
+                beÿ <seg><rs type="person">Zigiesar</rs></seg><note type="annotation">Andreas Georg von Ziegesar</note>: biß <rs ref="register.xml#Letzlingen" type="place">litzingen</rs> hauß d<ex>a</ex>z
+                <rs ref="register.xml#Muenchhausen_Adelsgeschlecht" type="org">Munichausen</rs> zustendig: <rs ref="register.xml#Zerbst_Anhalt" type="place">Zerbst</rs> zum grawen Wolff 4 meill: <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note>
+                5. <rs ref="register.xml#Rudolf_An_Ze" type="person">F<ex>ürst</ex> Rudolf von Anh<ex>alt</ex></rs>: helt da hoff. </p></div>
+            
+            <div xml:id="E1609-09-04"><note place="margin-left">28</note> <head><date when="1609-09-04">d<ex>e</ex>n 4 7bris <c>☽</c>.</date></head><p> Auf d<ex>er</ex> r<ex>echten</ex> 
+                s<ex>eite</ex> <rs ref="register.xml#Bernburg" type="place">Berneburgk</rs>,
+                <rs ref="register.xml#Dessau" type="place">Dessaw</rs>, biß <rs ref="register.xml#Coswig_Anhalt" type="place">Coßwigk</rs>, f<ex>ürst</ex> <rs ref="register.xml#Rudolf_An_Ze" type="person">Rud<ex>olf</ex></rs> Wittwen <w>leibzuchtt</w><note type="annotation">Leibzucht, Leibgedinge oder auch Witwengut</note>: 4 m<ex>eill</ex> biß
+                <rs ref="register.xml#Wittenberg" type="place">Wittenbergk</rs> zum schwartzen beeren: beÿ <rs type="person">Richtern</rs>: 2 m<ex>eill</ex>
+                <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1609-09-05"><note place="margin-left">33</note> <head><date when="1609-09-05">d<ex>e</ex>n 5 7br<ex>is</ex>
+                <c>♂</c> </date></head><p>besehen in d<ex>er</ex> schloßkirchen, <rs ref="register.xml#Lucas_Chranach" type="person">Lucoer</rs> und <rs ref="register.xml#Albrecht_Duerer" type="person">Dureri</rs> kunstreiche gemelte, <rs ref="register.xml#Martin_Luther" type="person">Lutheri</rs> &amp;
+                    <rs ref="register.xml#Phillip_Melanchthon" type="person">Melanthonid</rs>, Epitaphia und sepulturor: 2 <w>Walfischgrad<ex>e</ex>n</w><note type="annotation">Walfischrippen</note> eine
+                    <w>Greifsklawe</w><note type="annotation">Gebräuchliche Bezeichnung für Trinkhorn. Vgl. auch Deutsches Wörterbuch von Jacob und Wilhelm Grimm. 16 Bde. in 32 Teilbänden. Leipzig 1854-1961. Quellenverzeichnis Leipzig 1971, Bd. 9, Sp. 46 bis 47: "(zum kirchenschatz gehörte) ein greiffklauen mit dem bildt S. Thomae Wolfg. Franzius histor. erzehlung der beyden heiligthümen .. in der schloszkirchen zu Wittenberg (1618)"</note>; in gestalt eines Jegerhorns: reyExpulsio Adami ex Paradiso von <rs type="person">Muthero</rs>
+                    gemahlett; <rs ref="register.xml#Klaus_Narr" type="person">Clauß Narren</rs> <w>Contrafehtt</w><note type="annotation">Bild, Abbild</note>: biß <rs ref="register.xml#Pretzsch" type="place">Pretz</rs>, 3. m<ex>eill</ex>
+                <rs ref="register.xml#Dommitzsch" type="place">Thumnitz</rs>; <rs ref="register.xml#Torgau" type="place">Torgaw</rs>: 2 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 5.
+                    Landtag gehalt<ex>en</ex>:</p></div>
+            
+            <div xml:id="E1609-09-06"><note place="margin-left">36 ½</note> <head><date when="1609-09-06">d<ex>e</ex>n 6 7bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Belgern" type="place">Belgern</rs>: 
+                fleck<ex>en</ex> über die Elbe: <rs ref="register.xml#Muehlberg_Elbe" type="place">Mulbergk</rs> fl<ex>ecken</ex> biß
+                <rs ref="register.xml#Lichtensee" type="place">Lichtensee</rs>: dorff: 3 ½ m<ex>eill</ex></p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00085.jpg" n="41r"/>
+            
+            <div xml:id="E1609-09-07"><note place="margin-right">42</note> <head><date when="1609-09-07">den 7 7bris, <c>♃</c></date></head><p>
+                biß <rs ref="register.xml#Grossenhain" type="place">Grossen Haan</rs> flecken: <rs ref="register.xml#Reichenbach_Oberlausitz" type="place">Reichenbach</rs> 
+                4 ½ m<ex>eill</ex> biß <rs ref="register.xml#Dresden" type="place">Dresden</rs>
+                zum guld<ex>en</ex> Adler. 1 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 5 ½: Alda besehen die <seg>†kirche</seg><note type="annotation">Kreuzkirche in Dresden</note> Am marcktt. <seg>Darinnen
+                    <rs ref="register.xml#Moritz_Sachsen" type="person">Churf<ex>ürst</ex> Moritz</rs> <w>Contrafehtt</w><note type="annotation">Bild, Abbild</note>, da der Todt mit d<ex>er</ex> kurtzen buchsen hinter ihm stehet und fewr giebet</seg><note type="annotation">Moritzmonument in Dresden, von Hans Walther, Bildhauer, im Jahr 1555 erstellt</note>: <rs ref="register.xml#August_Sachsen" type="person">Elect<ex>or</ex>
+                    Aug<ex>ust</ex></rs> Christiani: It<ex>em</ex> <seg>Graf <rs type="person">Christian von Oldenburgk</rs></seg><note type="annotation">* 7. November 1544; † 6. August 1570, Sohn von Herzogin Sophie von Sachsen-Lauenburg und Graf Anton I. von Oldenburg und Delmenhorst</note> in einem stein gehawen kniendt:
+                <foreign xml:lang="lat">aetat<ex>is</ex> 27</foreign><note type="translation">Des Lebensalters 27</note>. Anno 73: Auf d<ex>e</ex>n Turm gestiegen, 4 groß geschutz,
+                und eine grosse glocken:</p></div>
+            
+            <div xml:id="E1609-09-08"><head><date when="1609-09-08">den 8 7bris <c>♀</c></date></head><p> besehen den stall,
+                sambt d<ex>er</ex> Rustkammer.</p></div>
+            
+            <div xml:id="E1609-09-09"><note place="margin-right">46</note> <head><date when="1609-09-09">den 9 7bris <c>♄</c></date></head><p> biß <rs ref="register.xml#Herzogswalde" type="place">Hirtzwaldt</rs> dorf 2. m<ex>eill</ex>
+                biß <rs ref="register.xml#Freiberg" type="place">Freÿbergk</rs> stadt alda die Ch<ex>urfüsten</ex> von Sachsen ihre begrebnussen haben: 2 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 4. m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1609-09-10"><note place="margin-right">49 ½</note> <head><date when="1609-09-10">den 10. 7bris <c>☉</c></date></head><p> besehen die Epitaphia; unter Andern <rs ref="register.xml#Moritz_Sachsen" type="person">Ch<ex>urfürst</ex> Moritzen</rs>
+                rustungen darinnen eine Patron steckett, zeigendt den Orth, da durch er
+                schelmischer weÿse von rucke zu von seinem <rs type="person">stalJungen</rs>, dessen <rs type="person">vatter</rs>, so ihm wildt
+                Abgeschossen, er Auf einen Hirsch gebunden, und in den waldt geschickett,
+                erschossen: biß <rs ref="register.xml#Sayda" type="place">Sada</rs> 3 m<ex>eill</ex>. <rs ref="register.xml#Neuhausen" type="place">Newhauß</rs> ½ meill <foreign xml:lang="lat">facit</foreign><note type="translation">ergibt</note> 3 ½ m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1609-09-11"><note place="margin-right">56.</note> <head><date when="1609-09-11">den 11. 7bris <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Dolni_Poustevna_Niedereinsiedel" type="place">Einsiedell</rs> dorf, 
+                <rs ref="register.xml#Jonsdorf" type="place">Jonsdorf</rs>, <rs ref="register.xml#Bruex" type="place">Brüxen</rs> zum Hirsch, 
+                stadt 3 ½ m<ex>eill</ex> biß <rs ref="register.xml#Laun_Louny" type="place">Laune</rs> zum stern stadt, 3 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 6 ½ </p></div>
+            
+            <div xml:id="E1609-09-12"><note place="margin-right">63.</note> <head><date when="1609-09-12">den 12 7bris <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Schlan_Slany" type="place">Schlane</rs> stadt 3 m<ex>eill</ex> 
+                biß <rs ref="register.xml#Prag" type="place">Praag</rs> zum greÿffen 4 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7.</p></div>
+            
+            <div xml:id="E1609-09-14"><head><date when="1609-09-14">den 14 7bris <c>♃</c>.</date></head><p> besehen des
+                <rs ref="register.xml#Rudolf_II." type="person">Keÿsers</rs> stall, 2 lewen, 1. leopardt: 2 <w>Zieberthkatzen</w><note type="annotation">Zibetkatzen</note>:</p></div>
+            
+            <div xml:id="E1609-09-15"><head><date when="1609-09-15">den 15 7bris <c>♀</c></date></head><p> d<ex>e</ex>n <rs type="person">Camillo</rs> bereutern zugesehen: Jm garten viell Damhirsch; AurOchsen; 1
+                BüffelOchsen; 1. Ochsen, so hinten wie ein Hirsch und keÿnen schwantz hatt: bey <rs ref="register.xml#Wilhelm_von_Lueneburg" type="person">HW</rs> zu gast:</p></div>
+            
+            <div xml:id="E1609-09-16"><head><date when="1609-09-16">d<ex>e</ex>n 16 7bris <c>♄</c>:</date></head><p> besehen d<ex>a</ex>s
+                Fasanenhaus: it<ex>em</ex> die grosse<ex>n</ex> <seg>Englische<ex>n</ex>
+                    Hunde</seg><note type="annotation">Vermutlich handelt es sich um die Deutsche Dogge, die Anfang des 16. Jhs. aus England eingeführt wurde</note>: den gart<ex>e</ex>n zum <w>stern</w><note type="annotation">Heute Wildpark Stern (Obora Hvězda)</note> genandt, d<ex>a</ex>s lusthaus ist, wie ein stern von 6 Ecken gebawett: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00086.jpg" n="41v"/>
+            
+            <div xml:id="E1609-09-25"><head><date when="1609-09-25">den 25 7bris <c>☽</c>,</date></head><p> in d<ex>e</ex>n <seg><rs type="place">wild<ex>e</ex>n 
+                Man</rs></seg><note>Evtl. der noch heute bestehende Gasthof "Wilder Mann" in Pfreimd.<ref target="http://www.wilder-mann.net"/></note> gezogen zu H<ex>errn</ex> 
+                <rs ref="register.xml#Wilhelm_von_Lueneburg" type="person">Wilhelm: von Luneburgk</rs></p></div>
+            
+            <div xml:id="E1609-09-27"><head><date when="1609-09-27">den 27 7bris <c>☿</c></date></head><p> in <foreign xml:lang="it">Anti Camera</foreign><note type="translation">Vorzimmer</note>
+                Imp: Ausgewartet, und hatt die Venetianische Bottschafft, audientz beÿ <rs ref="register.xml#Rudolf_II." type="person">I<ex>hrer</ex> M<ex>ajestät</ex></rs> gehabbt: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1609-09-28"><head><date when="1609-09-28">den 28 7bris <c>♃</c>,</date></head><p> beÿm <rs ref="register.xml#Georg_Ludwig_von_Leuchtenberg" type="person">Landtgraffen
+                von Leuchtenbergk</rs> zu gaste.</p></div>
+            
+            <div xml:id="E1609-10-04"><note place="margin-left">Rugkreÿse: 9.</note> <head><date when="1609-10-04">den 4. 8bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Velvary" type="place">Wölbern</rs> stadt 3 meill 
+                biß <add place="above"><rs ref="register.xml#Budin_Budyne_nad_Ohri" type="place">Budiene</rs>, 2 m<ex>eill</ex></add> <rs ref="register.xml#Lobositz_Lovosice" type="place">Lobesitz</rs> 2 m<ex>eill</ex> da man beÿ die
+                Elbe kommett: biß <rs ref="register.xml#Aussig" type="place">Aussigk</rs>, <subst><del>2</del><add>6</add></subst> m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 9. zum Engell.</p></div>
+            
+            <div xml:id="E1609-10-05"><note place="margin-left">14.</note> <head><date when="1609-10-05">den 5 8bris <c>♃</c></date></head><p>
+                biß <rs ref="register.xml#Peterswald_Petrovice_u_Chabrovice" type="place">Peters Walde</rs> dorf 2 ½ m<ex>eill</ex> biß <rs ref="register.xml#Bad_Gottleuba_Berggiesshuebel" type="place">GießHübelen</rs> flecken dabeÿ
+                ein <w>eÿsenbergwerck</w><note type="annotation"><ref target="https://marie-louise-stolln.de/das-bergwerk/geschichte.html">Heute Besucherbergwerk Marie Louise Stolln</ref></note>: 1 ½ m<ex>eill</ex> biß <rs ref="register.xml#Pirna" type="place">Pirn</rs> stadt, da es
+                Kunstreiche bildthawer hatt: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> 1 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1609-10-06"><note place="margin-left">16.</note> <head><date when="1609-10-06">den 6 8bris <c>♀</c></date></head><p>
+                biß <rs ref="register.xml#Dresden" type="place">dresd<ex>e</ex>n</rs> zum g<ex>u</ex>l<ex>den</ex> Adeler; 2 meill</p></div>
+            
+            <div xml:id="E1609-10-08"><head><date when="1609-10-08">d<ex>e</ex>n 8. 8bris. <c>☉</c></date></head><p> Aufs Schloß geritten: und ist eine <w>Gutzsche</w><note type="annotation">Kutsche</note>
+                Auch herunter geschickett.</p></div>
+            
+            <div xml:id="E1609-10-09"><head><date when="1609-10-09">d<ex>e</ex>n 9 8bris <c>☽</c></date></head><p> mit d<ex>e</ex>m <rs ref="register.xml#Christian_II." type="person">Curfurst<ex>en</ex></rs>
+                Taffell gehalten:</p></div>
+            
+            <div xml:id="E1609-10-10"><note place="margin-left">19:</note> <head><date when="1609-10-10">den 10. 8bris <c>♂</c></date></head><p>
+                die kunst Kammer besehen: Ein orgell von gläsern Pfeiffen: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> biß <rs ref="register.xml#Meissen" type="place">Meissen</rs> stadt; 3
+                m<ex>eill</ex>. beÿm <w>Schösser</w><note>Berufbezeichnung, die das Eintreiben des Schosses (Steuern) beschreibt, siehe <ref target="https://de.wikipedia.org/wiki/Sch%C3%B6sser_(Beruf)">Wikipedia</ref></note>.</p></div>
+            
+            <div xml:id="E1609-10-11"><note place="margin-left">23</note> <head><date when="1609-10-11">den 11. 8bris <c>☿</c></date></head><p>
+                biß <rs ref="register.xml#Oschatz" type="place">Oschatz</rs> stadt zum stern: 4 m<ex>eill.</ex></p></div>
+            
+            <div xml:id="E1609-10-12"><note place="margin-left">29.</note> <head><date when="1609-10-12">den 12 8bris <c>♃</c></date></head><p>
+                biß <rs ref="register.xml#Wurzen" type="place">Wurtzen</rs> stadt, 3. m<ex>eill</ex> biß <rs ref="register.xml#Leipzig" type="place">Leibziegk</rs> 3 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 6: zum Tannenbawm.</p></div>
+            
+            <div xml:id="E1609-10-14"><note place="margin-left">36</note> <head><date when="1609-10-14">den 14 8bris <c>♄</c></date></head><p> biß <rs ref="register.xml#Landsberg" type="place">landtsberg</rs> 3. m<ex>eill</ex> biß
+                <rs ref="register.xml#Zoerbig" type="place">zerbick</rs> 2 m<ex>eill</ex> <rs ref="register.xml#Koethen_Anhalt" type="place">Röeten</rs> 2 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7. da f<ex>ürst</ex> 
+                <rs ref="register.xml#Ludwig_I._von_Anhalt_Koethen" type="person">Ludwig von Anhaltt</rs> hofheltt:</p></div>
+            
+            <div xml:id="E1609-10-15"><note place="margin-left">43</note> <head><date when="1609-10-15">den 15 8bris <c>☉</c></date></head><p> biß <rs ref="register.xml#Calbe_Saale" type="place">Kalbe</rs> 3 m<ex>eill</ex> zum gulden
+                stern: biß <rs ref="register.xml#Salzelmen" type="place">Saltza</rs> 2 m<ex>eill</ex> biß <rs ref="register.xml#Magdeburg" type="place">Magdeburg</rs>k 2 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7. <seg>lang halß</seg><note type="annotation">Gasstätte Zum langen Hals</note>.</p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00087.jpg" n="42r"/>
+           
+            <div xml:id="E1609-10-16"><note place="margin-right">50.</note> <head><date when="1609-10-16">den 16 8bris <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Wolmirstedt" type="place">Wolmerstedt</rs>: 
+                <rs ref="register.xml#Colbitz" type="place">Colbitz</rs> 3 m<ex>eill</ex> biß <rs ref="register.xml#Letzlingen" type="place">Netzlingen</rs>,
+                <rs ref="register.xml#Gardelegen" type="place">Gardeleben</rs> 4 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7.</p></div>
+            
+            <div xml:id="E1609-10-17"><note place="margin-right">55.</note> <head><date when="1609-10-17">den 17. 8bris <c>♂</c></date></head><p> biß <rs ref="register.xml#Arendsee_Altmark" type="place">Arendtseehe</rs>: 5 m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1609-10-18"><note place="margin-right">60.</note> <head><date when="1609-10-18">den 18. 8bris <c>☿</c>,</date></head><p> biß <rs ref="register.xml#Pretzsch" type="place">Pretzetz</rs>, 
+                <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> <subst><del>6</del><add>5</add></subst> m<ex>eill</ex> <unclear/> </p></div>
+            
+            <div xml:id="E1609-12-13"><head type="margin-left"><foreign xml:lang="lat">N<ex>ota</ex>B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note> <date when="1609-12-13">den 13, 10bris,
+                <c>☿</c> </date></head><p><foreign xml:lang="lat">nata 6 filia</foreign><note type="translation">wurde die sechste Tochter geboren von</note>, <w><rs type="person">Dorothea</rs></w><note type="annotation">Augusts Nichte und sechste Tochter von Sibylle Elisabeth von Braunschweig-Dannenberg und Anton II.</note>,
+                <rs ref="register.xml#Anton_II." type="person">Anthonio C. Oldenburgio</rs>, <foreign xml:lang="lat">horam 10.30. m. a<ex>nte</ex> mer<ex>idiem</ex></foreign><note type="translation">Um 10.30 Uhr</note></p></div>
+        </body>
+    </text>
+</TEI>

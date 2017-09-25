@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" next="1602.xml" n="1601" prev="1600.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1601</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00049.jpg" n="23r">Anno 1601.</head></div>
+            
+            <div xml:id="E1601-01-01"><head><date when="1601-01-01">den 1 Januar<ex>is</ex>
+                <c>♃</c></date></head><p><rs ref="register.xml#Bernhard_Teges" type="person">Bernardt Tege</rs> seinen abschiedt
+                und urlaub bekommen.</p></div>
+            
+            <div xml:id="E1601-02-06"><head type="margin-left"><date when="1601-02-06">den 6 Februar<ex>is</ex>
+                <c>♀</c> </date></head><p>Krank gewesen, zu <rs ref="register.xml#Warpke" type="place">warpke</rs> <rs ref="register.xml#Clenze" type="place">clentz</rs> und
+                    <rs ref="register.xml#Luechow" type="place">Lüchow.</rs></p></div>
+            
+            <div xml:id="E1601-02-11"><head type="margin-left"><date when="1601-02-11">den 11 Februar<ex>is</ex>
+                <c>☿</c> </date></head><p> ist <rs ref="register.xml#Heinrich_Camerarius" type="person">D. Henricus Camerarius</rs>,
+                    beÿ <rs ref="register.xml#Gieseritz" type="place">Gisewitz</rs> 1 ½ meill vo<ex>n</ex> <rs ref="register.xml#Salzwedel" type="place">Saltzwedell</rs>, Plötzlich gestorb<ex>en</ex>, dem Gott gnedig; <foreign xml:lang="lat">in ipsi<ex>us</ex> locu<ex>m</ex> successit</foreign><note type="translation">An die gleiche Stelle ist nachgerückt</note>
+                     <rs ref="register.xml#Wilhelm_Clericus" type="person">D. Wilhelmus Cleric<ex>us</ex></rs></p></div>
+            
+            <div xml:id="E1601-02-16"><head><date when="1601-02-16">den 16 Februar<ex>ii</ex>
+                <c>☽</c></date></head><p> biß <rs ref="register.xml#Barendorf" type="place">Barendorf</rs>, <rs type="place">dorf</rs>, <rs ref="register.xml#Lueneburg" type="place">Luneburgk</rs>
+                    stadt, <rs ref="register.xml#Reppenstedt" type="place">Reppenstede</rs> dorf, <rs ref="register.xml#Luhmuehlen" type="place">Luemüle</rs>, mülle, <rs ref="register.xml#Luebberstedt" type="place">Lübberstede</rs> im Kruge <add place="above">3 ½</add>
+                    meill, <rs ref="register.xml#Oberhaverbeck" type="place">Haverbecke</rs> dorf, (Verdisch gebieth) <rs ref="register.xml#Schneverdingen" type="place">Schnewerling</rs> dorf, 3 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6 ½.</p></div>
+            
+            <div xml:id="E1601-02-17"><head><date when="1601-02-17">den 17 Februar<ex>is</ex>
+                <c>♂</c> </date></head><p>biß <rs ref="register.xml#Neuenkirchen" type="place">newkirchen</rs> dorf,
+                    <rs ref="register.xml#Visselhoevede" type="place">wesselhöfen</rs> dorf (Bremisch gebieth) <rs ref="register.xml#Langwedel" type="place">Langwedell</rs> dorf, <rs ref="register.xml#Achim" type="place">Achim</rs> dorf 6 meill.</p></div>
+            
+            <div xml:id="E1601-02-18"><head><date when="1601-02-18">den 18 Febr<ex>uaris</ex>
+                <c>☿</c> </date></head><p>biß <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>; Vestung und
+                    stadt, <rs ref="register.xml#Hude" type="place">Houde</rs> alt v<ex>er</ex>fallen <seg>Kloster an Jetzo ein Jagthaus</seg><note type="annotation">Schloss Rastede</note>, 4 ½ </p></div>
+            
+            <div xml:id="E1601-02-20"><head><date when="1601-02-20">den 20 Febr<ex>uaris</ex>
+                <c>♀</c> </date></head><p><rs type="person">Graf Christian</rs> wegkgezogen.</p></div>
+            
+            <div xml:id="E1601-02-21"><head><date when="1601-02-21">den 21 Febr<ex>uaris</ex> <c>♄</c> </date></head><p>nach <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs> gezogen.</p></div>
+                
+            <div xml:id="E1601-03-01"><head><date when="1601-03-01">den 1 Martii <c>☉</c> </date></head><p>den wall mitt den 4 <w>Bastionen</w><note type="annotation">Auch Bollwerk oder Bastei, Befestigungs- und Verteidigungsanlage</note> besehen, heimliche ausfarth,
+                <w>Pferdemühle</w><note type="annotation">Auch Rossmühle oder Göpel</note>; <w>rc.</w><note type="annotation">etc.</note> vielle geschütz.</p></div>
+            
+            <div xml:id="E1601-03-03"><head><date when="1601-03-03">den 3 Martii <w><c>☽</c></w><note type="annotation">Richtig: Dienstag</note> </date></head><p>2 Reysige Pf<ex>erde</ex>
+                <unclear>Junfferken</unclear> genandt, <w>rc.</w><note type="annotation">etc.</note>, zur <rs ref="register.xml#Hude" type="place">Hude</rs> gewesen.</p></div>
+            
+            <div xml:id="E1601-03-05"><head><date when="1601-03-05">den 5 Martii <c>☿</c>
+                <c>♃</c> </date></head><p>biß <rs ref="register.xml#Achim" type="place">Achim</rs> 3 meill, vorm hauß
+                    <add place="above"><rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs></add> d<ex>a</ex>z rad vom wagen gelaufen, <add place="above">alß</add> d<ex>a</ex>z geschütz loß gangen.</p></div>
+            
+            <div xml:id="E1601-03-06"><head><date when="1601-03-06">den 6 Martii <c>♀</c> </date></head><p>biß <rs ref="register.xml#Visselhoevede" type="place">Wesselhöfen</rs>,
+                <rs ref="register.xml#Schneverdingen" type="place">Schneverding</rs> 6 meill</p></div>
+            
+            <div xml:id="E1601-03-06"><head><date when="1601-03-06">den 7 Martii <c>♄</c> </date></head><p>Zwischen <rs ref="register.xml#Schneverdingen" type="place">Schneverding</rs> und <rs ref="register.xml#Oberhaverbeck" type="place">Haverbeke</rs> mitt d<ex>er</ex> <w>Gutzschen</w><note type="annotation">Kutsche</note> umbgefallen, an d<ex>er</ex> scheidung des stiffts
+                <rs ref="register.xml#Verden" type="place">verden</rs> und des Landes zu <rs ref="register.xml#Lueneburg" type="place">Lüneburgk</rs>, auf d<ex>en</ex> abendt zum
+                <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs> angelangett.</p><note type="annotation">Witwensitz von Ursula von Sachsen-Lauenburg (Mutter von August II.)</note></div>
+            
+            
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00050.jpg" n="23v"/>
+           
+            <div xml:id="E1601-04-01"><note place="margin-left">7</note><head><date when="1601-04-01">den 1 Aprilis <c>☿</c> </date></head><p>vom <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>
+                ufgezogen, biß <rs ref="register.xml#Luechow" type="place">Lüchow</rs>, 7 meill</p></div>
+            
+            <div xml:id="E1601-04-03"><head><date when="1601-04-03">den 3 Aprilis <c>♀</c> </date></head><p>H<ex>err</ex> <rs ref="register.xml#Julius_Ernst_Br-Db" type="person">Juli<ex>us</ex> kommen</rs>; die Pfe<ex>rde</ex> nach <rs ref="register.xml#Warpke" type="place">warpke</rs> geschickett.</p></div>
+            
+            <div xml:id="E1601-04-04"><head><date when="1601-04-04">den 4 April<ex>is</ex> <c>♄</c> </date></head><p>d<ex>a</ex>z <w>Positiff</w><note type="annotation">Positiv: Kleine Orgel, Musikinstrument</note>
+                    gekauffett.</p></div>
+            
+            <div xml:id="E1601-04-05"><head><date when="1601-04-05">den 5 April<ex>is</ex> <c>☉</c> </date></head><p>in der nacht umb 1 Uhr <rs type="person">Andreas Georgi<ex>us</ex> von Zigesar</rs> Ankommen.</p></div>
+            
+            <div xml:id="E1601-04-06"><note place="margin-left">7</note><note place="margin-left">die <rs type="person">von Solmß</rs> gestorb<ex>en</ex></note><head><date when="1601-04-06">den 6 April<ex>is</ex>
+                <c>☽</c> </date></head><p>biß <rs ref="register.xml#Warpke" type="place">Warpke</rs> 4 meill, biß <add place="above">(Märckisch gebieth)</add> <rs ref="register.xml#Goehr" type="place">Döre</rs> dorff, <rs ref="register.xml#Abbendorf" type="place">Apendorf</rs>, dorf, <rs type="place">Severn</rs> 3 meill, <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p>
+            </div>
+            
+            <div xml:id="E1601-04-07"><note place="margin-left">15</note><head><date when="1601-04-07">den 7 April<ex>is</ex>
+                    <c>♂</c> </date></head><p>biß <rs ref="register.xml#Brome" type="place">Brome</rs>dorf, <rs ref="register.xml#Radenbeck" type="place">Manebecke</rs>
+                        dorf, <rs ref="register.xml#Vorsfelde" type="place">Fosfelde</rs> dorf, <rs ref="register.xml#Wolfsburg" type="place">Wolfsburgk</rs> 4 meill, biß (Lünebürgisch gebiethe) <rs type="place">Kampfe</rs></p>
+                    <p>schloß, <rs ref="register.xml#Flechtorf" type="place">Flechte dorf</rs> (landt zu Brunschwieg) <rs ref="register.xml#Braunschweig" type="place">Brunschwieg</rs> stadt, beÿ <rs type="person">Hauß Peme</rs>, 4
+                        meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8.</p></div>
+            
+            <div xml:id="E1601-04-08"><note place="margin-left">18</note><head><date when="1601-04-08">den 8 April<ex>is</ex>
+                <c>☿</c> </date></head><p>biß <rs ref="register.xml#Gebhardshagen" type="place">Geverßhag<ex>en</ex></rs> dorf 3 meill.</p></div>
+            
+            <div xml:id="E1601-04-09"><note place="margin-left">21½</note><head><date when="1601-04-09">den 9 Apr<ex>ilis</ex>
+                <c>♃</c> </date></head><p>biß <rs ref="register.xml#Wallmoden" type="place">New Wallmöden</rs>, <rs ref="register.xml#Seesen" type="place">Sesen</rs> stadt
+                        zum Hirsch, 3 ½ meill.</p></div>
+            
+            <div xml:id="E1601-04-10"><note place="margin-left">24½</note><note place="margin-left">29½</note><head><date when="1601-04-10">den 10 April<ex>is</ex>
+                <c>♀</c> </date></head><p>biß <rs type="place">Brunstein</rs>, <rs ref="register.xml#Erich_II." type="person">H<ex>err</ex> Erichens</rs> schloß, <rs ref="register.xml#Wipshausen" type="place">Wibberßhausen</rs> Jungfrawenkloster,
+                        <rs ref="register.xml#Northeim" type="place">Nordtheim</rs> stadt 3 meill, zum stern; biß <rs ref="register.xml#Noerten-Hardenberg" type="place">Nörtell</rs> stadt, <rs ref="register.xml#Noerten-Hardenberg" type="place">Harenbergk</rs> Edelsitz zum stein
+                    Kloster, des Meintzerß, Plessen, landtgräfisch schloß, <rs ref="register.xml#Harste" type="place">Harst</rs> dorf, 2 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1601-04-11"><note place="margin-left">32½</note><head><date when="1601-04-11">den 11 April<ex>is</ex> <c>♄</c> </date></head><p>biß <rs ref="register.xml#Hannoversch_Muenden" type="place">Mund<ex>en</ex></rs> stadt beÿ
+                d<ex>er</ex> Weser und Fülda gelegen, 3 meill, vorm Thore</p></div>
+            
+            <div xml:id="E1601-04-13"><note place="margin-left">37½</note><head><date when="1601-04-13">den 13 Aprilis <c>☽</c> </date></head><p>biß (Hessen)
+                gehn <rs ref="register.xml#Kassel" type="place">Cassell</rs> vestung 2 meill zum wild<ex>en</ex> Man; biß <rs ref="register.xml#Besse" type="place">Passe</rs> dorf,
+                <rs ref="register.xml#Gudensberg" type="place">Kumgßberg</rs> schlos und stadt, <rs type="place">Fröscheler</rs> stadt, Meintzisch. zur Lilien, 3 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1601-04-14"><note place="margin-left">43½</note><head><date when="1601-04-14">den 14 April<ex>is</ex>
+                <c>♂</c> </date></head><p>biß <rs type="place">Arenspach</rs> dorf da d<ex>er</ex> Schwalln überfleussett, <rs type="place">Wallerßbruck</rs> dorf, <rs type="place">Dieterßhausen</rs>
+                    dorf, <rs type="place">Dreßde</rs> stettlein 3 meill, biß <rs ref="register.xml#Kirchhain" type="place">Kirchan</rs> stättle 3 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6</p></div>
+            
+            <div xml:id="E1601-04-15"><note place="margin-left">48½</note><head><date when="1601-04-15">den 15 April<ex>is</ex>
+                <c>♀</c> </date></head><p>biß <rs ref="register.xml#Amoeneburg" type="place">Ammelburg</rs>, Meintzisch
+                    Schloß und bergstadt, <rs ref="register.xml#Ebsdorf" type="place">Erßdorf</rs>, dorf, <rs ref="register.xml#Staufenberg" type="place">stauffenburg</rs> flecken, <rs ref="register.xml#Giessen" type="place">Giessen</rs> vestung <rs ref="register.xml#Ludwig_IV." type="person">landtgraf
+                        Ludwigß</rs> 3 meill, biß <rs ref="register.xml#Grossen_Linden" type="place">Grossen Linden</rs> flecken, <rs ref="register.xml#Lang_Goens" type="place">Langkünß</rs> dorf <rs ref="register.xml#Kirch_Goens" type="place">Kirchkünß</rs> dorf, <rs ref="register.xml#Pohl_Goens" type="place">Pollkünß</rs>
+                dorf, <rs ref="register.xml#Butzbach" type="place">Pützbach</rs> stadt zum roten Xrutz, 2 meill, <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5. Alda
+                    d<ex>er</ex> <rs type="person">Graff vo<ex>n</ex> Solmß</rs> wegen seiner
+                    v<ex>er</ex>storbenen <rs type="person">Gemahlinnen</rs> ankommen.</p></div>
+            
+            <div xml:id="E1601-04-16"><note place="margin-left">52½</note><head><date when="1601-04-16">den 16 April<ex>is</ex>
+                <c>♃</c> </date></head><p>biß <rs ref="register.xml#Friedberg_Hessen" type="place">Friedebergk</rs> Reichstadt
+                    (die Aue) <rs ref="register.xml#Frankfurt_am_Main" type="place">franckfurth am Meyen</rs> stadt 4 meill. Zur Gersten.</p></div>
+            
+            <div xml:id="E1601-04-17"><note place="margin-left">55</note><head><date when="1601-04-17">den 17 April<ex>is</ex>
+                <c>♀</c> </date></head><p>biß <rs ref="register.xml#Sprendlingen_Dreieich" type="place">Sprenningen</rs> dorf, <rs ref="register.xml#Langen" type="place">Langheim</rs>
+                    fleck<ex>en,</ex> <add place="above">(<rs ref="register.xml#Ludwig_V." type="person">landtgraf von darmstadt</rs>)</add>
+                    <rs ref="register.xml#Arheilgen" type="place">Aarheiligen</rs> fleck<ex>en</ex> zum güldenen Schwan; 2 ½ meyll.</p>
+                </div>
+            
+            <div xml:id="E1601-04-18"><note place="margin-left">60</note><head><date when="1601-04-18">den 18 April<ex>is</ex> <c>♄</c> </date></head><p>biß <rs type="place">speengelingen</rs> dorf <add place="above"><unclear>Landtgraf w[...]stad</unclear></add>; die wage<ex>n</ex> ein Teich, <rs ref="register.xml#Gernsheim" type="place">Gernßheimb</rs> stadt, Meintzisch, 3 meyll zum
+                Hirsch; biß (<rs ref="register.xml#Ernst_Kurfuerst" type="person">Churfurst vo<ex>n</ex>
+                <del>Cölln</del></rs> <rs ref="register.xml#Heidelberg" type="place">Heydellbergk</rs> behegenett) <rs ref="register.xml#Worms" type="place">wormbß</rs> Reichstadt 2
+                    meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5. zum weissen Schwan</p></div>
+            
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00051.jpg" n="24r"/>
+            
+            <div xml:id="E1601-04-20"><note place="margin-left">66</note><head><date when="1601-04-20">den 20 April<ex>is</ex>
+                <c>☽</c> </date></head><p>biß <rs ref="register.xml#Frankenthal" type="place">Franckenthall</rs> stadt voller
+                    Niederländer, <rs ref="register.xml#Bobenheim-Roxheim" type="place">wobernen</rs> dorf, <rs ref="register.xml#Obrigheim_Pfalz" type="place">Oberßheim</rs> städtle zur Krone<ex>n</ex> 3
+                    meyll (biß zur Hütte (Churfurst. Pfaltz. gestüde) <rs ref="register.xml#Speyer" type="place">Speyer</rs> zu<ex>m</ex>
+                        Einhorn 3 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1601-04-21"><note place="margin-left">70</note><head><date when="1601-04-21">den 21 April<ex>is</ex>
+                <c>♂</c> </date></head><p>biß <rs ref="register.xml#Oberhausen_Rheinhausen" type="place">Oberhausen</rs>, <rs ref="register.xml#Rheinhausen" type="place">Reinhausen</rs>
+                    dorf, <rs type="place">Eydenheimb</rs> (<rs ref="register.xml#Bischof_von_Speyer" type="person">Bischoffs von Speyer</rs>) (<rs ref="register.xml#Durlach" type="place">durlachß</rs> gebieth) <rs type="place">Grabe</rs> fleck<ex>en</ex>, 2 meill zum Schwanen. biß <rs ref="register.xml#Muehlberg" type="place">Mülberg</rs> Schloß <rs type="place">wied</rs> dorf zum
+                        Hirsch, d<ex>e</ex>n lagkeyen wegkgeschickett. 2 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 4.</p></div>
+            
+            <div xml:id="E1601-04-22"><head><note place="margin-left">75</note><date when="1601-04-22">den 22 April<ex>is</ex>
+                <c>☿</c> </date></head><p>biß <rs ref="register.xml#Rastatt" type="place">Rastadt</rs> zur Crone<ex>n</ex> 2 meill biß <rs ref="register.xml#Stollhofen" type="place">Stolhofen</rs> Paß (Hanawisch gebieth) <rs ref="register.xml#Lichtenau" type="place">Liechtenaw</rs>
+                    stadt, <rs ref="register.xml#Scherzheim" type="place">Schertzach</rs> dorf, zum Ochsen) 3 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1601-04-23"><head><date when="1601-04-23">den 23 April<ex>is</ex>
+                    <c>♃</c> </date></head><p>H<ex>err</ex>
+                        <rs type="person">Frantz</rs><note type="annotation">Augusts Bruder</note> alhero Kommen. <foreign xml:lang="lat">m<ex>anu</ex> p<ex>ropria</ex></foreign><note type="translation" resp="as">eigenhändig</note></p></div>
+            
+            <div xml:id="E1601-04-24"><note place="margin-left"><foreign xml:lang="lat">S<ex>umma</ex> S<ex>ummarum</ex></foreign><note type="translation">Alles in allem</note> 78</note><head><date when="1601-04-24">den 24. April<ex>is</ex>
+                <c>♀</c> </date></head><p>zu <rs ref="register.xml#Strassburg" type="place">Straßburg</rs> Angelanget 3
+                        meill</p></div>
+            
+            <div xml:id="E1601-04-25"><head><date when="1601-04-25">den 25 April<ex>is</ex> <c>♄</c> </date></head><p>nach <rs ref="register.xml#Dachstein" type="place">dachstein</rs> gezogen.</p></div>
+            
+           <div xml:id="E1601-05-17"><head><date when="1601-05-17">den 17 Maÿ <c>☉</c> </date></head><p>nach <rs ref="register.xml#Dachstein" type="place">dachstein</rs> verreÿsett.</p></div>
+            
+            <div xml:id="E1601-05-18"><head><date when="1601-05-18">den 18 Maÿ <c>☽</c> </date></head><p>wied<ex>er</ex> nach <rs ref="register.xml#Strassburg" type="place">straßburg</rs>.</p></div>
+            
+            <div xml:id="E1601-05-21"><head><date when="1601-05-21"><foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note> den 21 Maÿ <c>♃</c>,</date></head><p> die Ascensionis,
+                    ist d<ex>er</ex> <rs ref="register.xml#Gebhardt_von_Truchsess" type="person">Churfurst Truckses</rs> mitt tode verblichen.</p></div>
+            
+            <div xml:id="E1601-05-29"><head><date when="1601-05-29">den 29 May <c>♀</c> </date></head><p>der H<ex>err</ex> von Bayern, sampt seiner gemahl, alhir zum Geist
+                    gelegen.</p></div>
+            
+            <div xml:id="E1601-05-30"><head><date when="1601-05-30">den 30 Maÿ </date></head><p>H<ex>err</ex> wiederwegkgezogen.</p></div>
+            
+            <div xml:id="E1601-08-09"><head><date when="1601-08-09">den 9 Aug<ex>usti</ex>
+                <c>☽</c> </date></head><p>der <w>Gutzschen</w><note type="annotation">Kutsche</note> loß word<ex>en</ex>. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1601-08-16"><head><date when="1601-08-16">den 16 Aug<ex>usti</ex>
+                    <c>☽</c> </date></head><p>d<ex>e</ex>n grossen Hengst d<ex>e</ex>m <rs type="person">von Eberstein</rs> geschicket.</p></div>
+            
+            <div xml:id="E1601-09-07"><note place="margin-left"><foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex> Terraemotus!</foreign><note type="translation" resp="as">wohlgemerkt, übrigens Erdbeben!</note></note><note place="margin-left"> <foreign xml:lang="lat">veni dachstein</foreign><note type="translation"/>Komm Dachstein</note><head><date when="1601-09-07">den 7 Sept<ex>embris</ex> <c>☽</c> </date></head><p>in der <add place="above">folgenden</add> nacht zwischen 1 und 2 uhr ist an vielen örten ein Erdbeben gewesen.</p></div>
+            
+            <div xml:id="E1601-09-09"><head><date when="1601-09-09">den 9 Sept<ex>embris</ex>
+                <c>☿</c> </date></head><p><foreign xml:lang="lat">redÿ <rs ref="register.xml#Strassburg" type="place">Arge<ex>n</ex>tina<ex>m</ex></rs></foreign><note type="translation">Kehre nach Straßburg zurück</note>.</p><note type="annotation">Straßburg war einst ein Römerlager mit Namen Argentoratum</note></div>
+            
+            <div xml:id="E1601-10-07"><head><date when="1601-10-07"><note type="annotation">Der 07. Oktober ist hier an der falschen Stelle notiert. August merkt dies mit einem Positionszeichen in Rautenform in der linken Spalte am Rand des Textes an. Dieses Zeichen wiederholt er am Rand nach dem 25 September, an der für den 07.12.1601 chronologisch richtigen Stelle.</note> den
+                        7 Octobr<ex>is</ex> <c>☿</c> </date></head><p>einen botten inß N<ex>assau</ex>. zu <rs ref="register.xml#Moritz_von_Nassau" type="person">G<ex>raf</ex> M<ex>oritz</ex> V<ex>on</ex> N<ex>assau</ex></rs> geschickett. <foreign xml:lang="lat">vid<ex>e</ex> i<ex>nfra</ex></foreign><note type="translation">Siehe unten</note> <seg>28
+                            Nove<ex>m</ex>b<ex>ris</ex></seg><note type="annotation">Der Hinweis "siehe den 28 November" hat August später hinzugefügt. An dem Tag ist der Bote zurück gekommen.</note>.</p></div>
+            
+            <div xml:id="E1601-09-14"><head><date when="1601-09-14">den 14 Sept<ex>embris</ex>
+                <c>☽</c> </date></head><p>biß <rs ref="register.xml#La_Wantzenau" type="place">wantznaw</rs> dorf, <rs ref="register.xml#Kilstett" type="place">Kilsteden</rs>
+                    <rs ref="register.xml#Gambsheim" type="place">Kampsen</rs>, <rs ref="register.xml#Offendorf" type="place">Offendorf</rs>, <rs ref="register.xml#Roppenheim" type="place">Rappenheim</rs> (den <rs type="person">von Fleckenstein</rs> zustendig) <rs ref="register.xml#Beinheim" type="place">Beinheimb</rs> stättle,
+                        <rs ref="register.xml#Seltz" type="place">seltz</rs> städtle, <rs ref="register.xml#Lauterbourg" type="place">Lauterberg</rs> stadt zum schwartzen Beeren. 7 meill.</p></div>
+            
+            <div xml:id="E1601-09-15"><head><date when="1601-09-15">den 15 Sept<ex>embris</ex>
+                <c>♂</c> </date></head><p>(dürch d<ex>e</ex>n <rs ref="register.xml#Bienwald" type="place">Bienwaldt</rs>) <rs ref="register.xml#Jockgrim" type="place">Jückenem</rs> flecken, <rs ref="register.xml#Rheinzabern" type="place">Reinzabern</rs> dorf, <rs ref="register.xml#Germersheim" type="place">Germersen</rs> stadt zum
+                güld<ex>en</ex> Posthorn. 5 meill d<ex>e</ex>m
+                    <rs type="person">Churfurste<ex>n</ex></rs> gehörig. <rs ref="register.xml#Speyer" type="place">Speyer</rs> stadt, zur Hütten,
+                    Pfaltzgräfisch gestüde 3 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8.</p></div>
+            
+            <div xml:id="E1601-09-16"><head><date when="1601-09-16">den 16 Sept<ex>embris</ex>
+                <c>☿</c> </date></head><p>biß <rs ref="register.xml#Frankenthal" type="place">Franckenthall</rs> stadt,
+                    <rs ref="register.xml#Worms" type="place">wormbs</rs> zum weissen Lewen 5 meill, biß (über Rein,) <rs ref="register.xml#Gernsheim" type="place">Gernitzen</rs> fleck<ex>en</ex> zum schaff 3 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8.</p></div>
+            
+            <div xml:id="E1601-09-17"><head><date when="1601-09-17"><note type="annotation">Der 07. Oktober ist hier an der falschen Stelle notiert. August merkt dies mit einem Positionszeichen in Rautenform in der linken Spalte am Rand des Textes an. Dieses Zeichen wiederholt er am Rand nach dem 25 September, an der für den 07.12.1601 chronologisch richtigen Stelle</note> den 17 Sept<ex>embris</ex>
+                <c>♃</c>,</date></head><p> biß <rs type="place">Merburg</rs> flecken 3 meill
+                    biß <rs ref="register.xml#Frankfurt_am_Main" type="place">Franckfurtt</rs> 2 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1601-09-25"><head><date when="1601-09-25">den 25 Sept<ex>embris</ex>
+                <c>♀</c> </date></head><p>zu <rs ref="register.xml#Strassburg" type="place">straßburg</rs> wied<ex>er</ex> angelanget <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p><note type="annotation">An der Seite befindet sich das Positionszeichen in Rautenform, mit dem August den Eintrag für den 07. Oktober markiert</note></div>
+            
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00052.jpg" n="24v"/>
+            
+            <div xml:id="E1601-10-12"><head><date when="1601-10-12">den 12 Octobr<ex>is</ex>
+                <c>☽</c> </date></head><p>gehn <rs ref="register.xml#Ettenheim" type="place">Ettenheim</rs>.</p></div>
+            
+            <div xml:id="E1601-10-13"><head><date when="1601-10-13">den 13 Octobr<ex>is</ex>
+                <c>♂</c> </date></head><p>gehn <rs ref="register.xml#Marckolsheim" type="place">Marckelsen</rs>.</p></div>
+            
+            <div xml:id="E1601-10-16"><head><date when="1601-10-16">den 16 Octobr<ex>is</ex>
+                <c>♀</c> </date></head><p>gehn <rs ref="register.xml#Strassburg" type="place">straßburgk</rs></p></div>
+           
+            <div xml:id="E1601-10-28"><head><date when="1601-10-28">den 28 Octobr<ex>is</ex>
+                <c>☿</c> </date></head><p>biß <rs ref="register.xml#Oberkirch" type="place">Oberkirchen</rs> <add place="above">zum beern</add> 4 meill.</p></div>
+            
+            <div xml:id="E1601-10-29"><head><date when="1601-10-29">den 29 Octobr<ex>is</ex>
+                <c>♃</c> </date></head><p>öber den <rs ref="register.xml#Kniebis" type="place">Kniebs</rs>, ein berg vnd
+                    Kloster; biß <rs ref="register.xml#Dornstetten" type="place">dornstet</rs> zur Kronen 4 meill</p></div>
+            
+            <div xml:id="E1601-10-30"><head><date when="1601-10-30">den 30 Octobr<ex>is</ex>
+                <c>♀</c> </date></head><p>biß <rs ref="register.xml#Nagold" type="place">Nagelldt</rs>. 2 meill</p></div>
+            
+            <div xml:id="E1601-10-31"><head><date when="1601-10-31">den 31 Octobr<ex>is</ex> <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Tuebingen" type="place">Tybingen</rs>. 2 meill</p></div>
+            
+            <div xml:id="E1601-11-02"><head><date when="1601-11-02">den 2 Nove<ex>m</ex>br<ex>is</ex>
+                <c>☽</c>.</date></head><p> ein <w>ringelrenne<ex>n</ex></w><note type="annotation">Tjost, Zweikampfspiel mit der Lanze zu Pferd</note> gehalten.</p></div>
+            
+            <div xml:id="E1601-11-05"><head><date when="1601-11-05">den 5 Novembr<ex>is</ex>
+                <c>♃</c> </date></head><p>biß <rs ref="register.xml#Herrenberg" type="place">Herrenbergk</rs> zum Beeren.
+                        1.</p></div>
+            
+            <div xml:id="E1601-11-06"><head><date when="1601-11-06">den 6 Nove<ex>m</ex>br<ex>is</ex>
+                <c>♀</c> </date></head><p>biß <rs ref="register.xml#Weil_der_Stadt" type="place">weÿlerstadt</rs> Reichstadt zur
+                    Kronen 2 meill biß <rs ref="register.xml#Pforzheim" type="place">Pfortzheim</rs> zu<ex>m</ex> adler 2 meill. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 4</p></div>
+            
+            <div xml:id="E1601-11-07"><head><date when="1601-11-07">den 7 Nove<ex>m</ex>br<ex>is</ex> <c>♄</c> </date></head><p>biß <rs ref="register.xml#Ettlingen" type="place">Ettlingen</rs>. Zum
+                Engell, 2 meill, biß <rs ref="register.xml#Rastatt" type="place">Rastadt</rs> 2 meill. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 4</p></div>
+            
+            <div xml:id="E1601-11-08"><head><date when="1601-11-08">den 8 Nove<ex>m</ex>br<ex>is</ex> <c>☉</c> </date></head><p><rs type="place">zum Hohenstege</rs> 4
+                meill, biß <rs ref="register.xml#Strassburg" type="place">straßburgk</rs> 2 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1601-11-15"><head><date when="1601-11-15">den 15 Nove<ex>m</ex>br<ex>is</ex> <c>☉</c> </date></head><p>d<ex>a</ex>s wirtenbergische Pferdt ankommen.</p></div>
+            
+            <div xml:id="E1601-11-28"><head><date when="1601-11-28">den 28 Nove<ex>m</ex>br<ex>is</ex> <c>♄</c> </date></head><p>d<ex>er</ex> Botte vo<ex>n</ex> <rs ref="register.xml#Moritz_der_Gelehrte_von_Hessen-Kassel" type="person">Graf Moritze<ex>n</ex></rs>
+                    wied<ex>er</ex>kommen. <foreign xml:lang="lat">vid<ex>e</ex> s<ex>upra</ex></foreign><note type="translation">Siehe oben</note> 7. Octobr<ex>is</ex></p></div>
+            
+            <div xml:id="E1601-12-10"><note place="margin-left"><foreign xml:lang="lat">N<ex>ota</ex>B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note></note><head><date when="1601-12-10">den 10 Decemb<ex>ris</ex> <c>♃</c> </date></head><p>hor<ex>am</ex>.
+                1. m<ex>eill</ex> 30. <foreign xml:lang="lat">a<ex>nte</ex> m<ex>eridiem</ex></foreign><note type="translation">vormittags</note> ist geborn <rs type="person">Frewlein Sophia wrsula, zu Old<ex>enburg</ex> vnd delmenh<ex>orst</ex></rs></p></div>
+            
+            <div xml:id="E1601-12-19"><head><date when="1601-12-19">den 19 Decemb<ex>ris</ex> <c>♄</c> </date></head><p>der <rs ref="register.xml#Friedrich_IV." type="person">Churfursst von Heidelbergk</rs> <rs ref="register.xml#Moritz_der_Gelehrte_von_Hessen-Kassel" type="person">Landtgraf
+                Moritz</rs>, vnd <rs ref="register.xml#Ludwig_IV." type="person">Landtgraf Ludwig der Jünger</rs>, <rs ref="register.xml#Joachim_Ernst" type="person">Marggraf Jochim Ernst</rs> <w>rc</w><note type="annotation" resp="ao">etc.</note> alhie<ex>r</ex> ankommen.</p><note type="annotation">Nach diesem Eintrag folgt ein längerer Trennstrich. Die beiden Einträge vor und nach dem Trennstrich markieren den Besuch des Kurfürsten an Augusts Hof. Der Trennstrich hat evtl. einen semantischen Aspekt, indem er die Relevanz der Einträge andeutet</note>
+            </div>
+            
+            <div xml:id="E1601-12-22"><head><date when="1601-12-22">den 22 Decemb<ex>ris</ex>
+                    <c>♂</c> </date></head><p>wiederwekgezogen biß gehn <rs ref="register.xml#Rastatt" type="place">Rastadt</rs>.</p></div>
+            
+            <div xml:id="E1601-12-23"><head><date when="1601-12-23">den 23 Decemb<ex>ris</ex>
+                <c>☿</c> </date></head><p>von einand<ex>er</ex> gezogen biß gehn <rs ref="register.xml#Durlach" type="place">Durlach</rs>; die and<ex>er</ex>n gehn
+                    <rs ref="register.xml#Stollhofen" type="place">stolhofen</rs>.</p></div>
+            
+            <div xml:id="E1601-12-24"><head><date when="1601-12-24">den 24 Decemb<ex>ris</ex>
+                <c>♃</c> </date></head><p>hatt sich der leidige vnd trawrige fall zugetragen; mitt meinem f<ex>ürstlichen</ex> l<ex>ieben</ex> brud<ex>er</ex>n H<ex>errn</ex> <rs ref="register.xml#Franz_von_Braunschweig_Lueneburg" type="person">frantzen</rs> Christmilder gedechtnes beÿ <rs ref="register.xml#Memprechtshofen" type="place">Rennechenloch</rs>, von
+                    d<ex>er</ex> brucken. deren Liebden <add place="above">d<ex>em</ex></add> d<ex>er</ex> Allmechtige, gnedig vnd barmhertzig sein wölle, vnd d<ex>er</ex>selb<ex>en</ex> vnd vnß allen, an Jenem
+                    grossen tage eine fröliche ufferstehung verleihen vnd geb<ex>en</ex>. Amen.</p><note type="annotation">Augusts Bruder Franz von Braunschweig-Lüneburg war am 24.12.1601 verstorben</note></div>
+            
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00053.jpg" n="25r"/>
+            
+            <div xml:id="E1601-12-25"><head><date when="1601-12-25">den 25 Decemb<ex>ris</ex>
+                <c>♀</c> </date></head><p>vmb 10 Uhren von <rs ref="register.xml#Durlach" type="place">durlach</rs>
+                    geritten, vnd vmb 3 vhr <foreign xml:lang="lat">a<ex>nte</ex> m<ex>eridiem</ex></foreign><note type="translation">nachmittags</note> zu <rs ref="register.xml#Liechtenau" type="place">Liechtenaw</rs> angelangett, seindt 7 grosser meill. vf
+                    den abendt vmb die 8 biß gehn <rs ref="register.xml#Haguenau" type="place">Augenaw</rs> seindt 2 meill. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 9.</p></div><note type="annotation">August besucht hier den Ort des Unfalls und Todes seines Bruders vom Vortag</note>
+            
+            <div xml:id="E1601-12-26"><head><date when="1601-12-26">den 26 Decemb<ex>ris</ex> <c>♄</c>.</date></head><p> zu <rs ref="register.xml#Strassburg" type="place">straßburg</rs> wied<ex>er</ex>
+                    Aengelanget, 1 meill.</p></div>
+            
+            <div xml:id="E1601-12-28"><head><date when="1601-12-28">den 28 Decemb<ex>ris</ex>
+                    <c>☽</c> </date></head><p>wiedergefund<ex>en</ex> word<ex>en</ex>.</p></div>
+            
+            <div xml:id="E1601-12-29"><head><date when="1601-12-29">den 29 Dece<ex>m</ex>b<ex>ris</ex>
+                <c>♂</c> </date></head><p><rs type="person">Hans</rs> den Knecht
+                    wegkgeschickett. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+        </body>
+    </text>
+</TEI>

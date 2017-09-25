@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.38-19-aug-2f.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>38.19 Aug. 2°, 1 – Reisetagebuch Piet Heyn</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Augusteer in Folio</collection>
+            <idno>38.19 Aug. 2°</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>38.19 Aug. 2°, 1</idno></msIdentifier>
+            <msContents>
+              <summary>Reisetagebuch einer Schiffsreise nach Brasilien. Das Tagebuch oder Logbuch berichtet davon, wie <rs type="person" ref="../../register.xml#Piet_Heyn">Heyn</rs> als Vize-Admiral der Niederländischen Westindien-Kompanie eine Flotte nach Brasilien und Afrika leitete. Es enthält viele Einträge zu Wind, Wetter, Landschaften sowie Längen- und Breitengraden. In Ich-From verfasst, hier vermutlich als Abschrift vorliegend.</summary>
+              <textLang mainLang="nl"/>
+              <msItem class="../../register.xml#Reisetagebuch">
+                <locus from="1" to="39"/>
+                <author ref="../../register.xml#Piet_Heyn">Piet Pieterszoon Heyn</author>
+                <respStmt>
+                  <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
+                  <name>unbekannt</name>
+                </respStmt>
+                <title type="uniform">Reisetagebuch Piet Heyn</title>
+                <date type="coverage" from="1624-01-15" to="1625-07-16"/>
+                <rubric>Journal van den Brasilisho reyse gehouden opt schip de Neptunius by den Vice-Admrl. Pieter Heyn. begonnen den 15 Jan. 1624. tot den 16 July 1625</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>52 Bll.</measure>
+                    <dimensions>
+                      <height quantity="31.5" unit="cm"/>
+                      <width quantity="20.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, nachträglich mit Tinte 1-39</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Linker Steg auf jeder Seite breiter, enthält das Tagesdatum der einzelnen Einträge. Jede Seite ist mit dem Monat und Jahr überschrieben, Daten fungieren auch als Zwischenüberschriften</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Pergament, zwei Lederbuchschließen</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1624" to="1625"/>
+                
+              </origin>
+              
+              
+            </history>
+            <additional>
+              <listBibl>
+                <bibl>Journaal van de reis van Piet Heyn naar Brazilië en West Afrika, 1624-1625, medegedeeld door Leonardus Maria Akveld, Groningen 1962.<ref type="opac" cRef="396407811"/></bibl>
+                <bibl>De westafrikaanse reis van Piet Heyn, 1624 - 1625, uitg. door K. Ratelband. Met portret, 1 kaart en 2 facs, 's-Gravenhage 1959.<ref type="gbv" cRef="362696985"/></bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

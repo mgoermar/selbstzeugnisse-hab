@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.293-2-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>293.2 Extrav., 1 – Schreibkalender 1617</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>293.2 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>293.2 Extrav., 1</idno></msIdentifier>
+            <msContents>
+              <summary>Schreibkalender von <rs type="person" ref="../../register.xml#August_Juengere">August d. J.</rs> Die Einträge befinden sich in einem gedruckten Kalender des Jahres 1617. Die Notizen beziehen sich mindestens auf einen Zeitraum der Jahre 1571-1663. Verzeichnet werden Geburten, Todesfälle und Geschehnisse am Hof und in der Umgebung. Auf S. 429: "A.i.64. 
+                ward die belagerung vor wulfenb. aufgehob. Und kam dz grosse wasser in Brunschwieg: und offenbahrte vieler hertzen gedank."; S. 329: "In disen tage [...], 
+                An 1657. hat unser hl. Soen R. A. einen harten gefärlichen Stand, in seiner langwirig krankheit, ausgestanden, darinnen der Allmächtige yn nach seinem 
+                Väterlichen willen, beym Leben erhalten; der schikke alles ferner, wy es ym nüz und sälig seyn. ym alleine gebüret der Dank."; S. 359: "Ao 1657. hor. 12m. 
+                hat dz donnerwetter zu Hitzger in unsere Gemalinnen Gemach geschlag. und ein Posten angezündet: Es ist aber Gott sey dank alsbald geloschet".</summary>
+              <textLang mainLang="deu" otherLangs="lat"/>
+              <msItem class="../../register.xml#Schreibkalender">
+                <locus from="1" to="662"/>
+                <author ref="../../register.xml#August_Juengere">Herzog August der Jüngere zu Braunschweig-Lüneburg-Wolfenbüttel</author>
+                <title type="uniform">Schreibkalender 1617</title>
+                <date type="coverage" from="1571" to="1663"/>
+                
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier.</material>
+                  </support>
+                  <extent>
+                    <measure>IV + 662 + 40 Seiten.</measure>
+                    <dimensions>
+                      <height quantity="14.5" unit="cm"/>
+                      <width quantity="8" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl gedruckt auf jeder Seite 1-662.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Einträge in gedrucktem Kalender, Titelblatt: "Hemerologium Ex Jacobi Augusti Thuani Historiarum Operibus Confectum ut compendivm Horundem sit atque Indexi A Johanne Fabricio Neapoli Nemetum Impensis Christoph. Vetteri, Liberarii Frane. Excudebat Henricus Starckius. MDCXVII."</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Pergament, zwei defekte Buchschließen</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              <origin>
+                
+                <origPlace>Wolfenbüttel</origPlace>
+              </origin>
+              
+              
+            </history>
+            
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

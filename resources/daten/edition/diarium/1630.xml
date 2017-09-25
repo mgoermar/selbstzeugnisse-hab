@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" n="1630" prev="1629.xml" next="1632.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1630</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00117.jpg" n="57r">1630.</head></div>
+           
+            <div xml:id="E1630-07-05"><head><date when="1630-07-05">den 5. Julii. <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Diesdorf" type="place">Distorf</rs>, 7.
+               m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-07-06"><head><date when="1630-07-06">den 6. Julii <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Wolfsburg" type="place">Wulfesburg</rs>,
+                4.m<ex>eill</ex> biß <rs ref="register.xml#Helmstedt" type="place">helmestedte</rs> 3.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7.</p></div>
+            
+            <div xml:id="E1630-07-07"><head><date when="1630-07-07">d<ex>en</ex> 7 Julii <c>☿</c></date></head><p> biß <rs ref="register.xml#Evessen" type="place">Hessen</rs>, 4.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-07-09"><head><date when="1630-07-09">den 9 Julii. <c>♀</c></date></head><p> biß <rs ref="register.xml#Wolfenbuettel" type="place">Wolfenbüttel</rs>,
+                3.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-07-12"><head><date when="1630-07-12">den 12 Julii <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Wolfsburg" type="place">Wulfesburg</rs>,
+                4.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-07-13"><head><date when="1630-07-13">den 13 Julii. <c>♂</c></date></head><p> biß <rs ref="register.xml#Diesdorf" type="place">Distorff</rs>. 5.
+               m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-07-14"><head><date when="1630-07-14">d<ex>en</ex> 14 Julii </date></head><p> biß <rs ref="register.xml#Clenze" type="place">Clentzen</rs>, <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
+            
+            <div xml:id="E1630-08-18"><head><date when="1630-08-18">den 18. Augusti <c>☿</c></date></head><p> biß <rs ref="register.xml#Ebsdorf" type="place">Ebstorf</rs>, 6.
+               m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-08-19"><head><date when="1630-08-19">d<ex>en</ex> 19. Aug<ex>usti</ex>
+                <c>♃</c></date></head><p> biß <rs ref="register.xml#Wietzendorf" type="place">Witzendorf</rs> 4.m<ex>eill</ex> biß
+                    <rs ref="register.xml#Dorfmark" type="place">Dorpmarck</rs>, <rs ref="register.xml#Fallingbostel" type="place">Fallenborstell</rs>, <rs ref="register.xml#Walsrode" type="place">Walsrade</rs>, 3.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7.</p></div>
+            
+            <div xml:id="E1630-08-20"><head><date when="1630-08-20">d<ex>en</ex> 20 Aug<ex>usti</ex>
+                <c>♀</c></date></head><p> biß <rs ref="register.xml#Langwedel" type="place">Langwedel</rs>, 4.m<ex>eill</ex> biß
+                    <rs ref="register.xml#Bremen" type="place">Bremen</rs> 3.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-08-21"><head><date when="1630-08-21">d<ex>en</ex> 21 Aug<ex>usti</ex> <c>♄</c></date></head><p> biß <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>. i. </p></div>
+            
+            <div xml:id="E1630-09-16"><head><date when="1630-09-16">den 16, 7bris, <add place="above"><c>♃</c></add> </date></head><p> durch
+                <rs ref="register.xml#Oldenburg" type="place">Oldenburgk</rs>, biß <rs ref="register.xml#Varel" type="place">Varle</rs>; 6.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-09-18"><head><date when="1630-09-18">den 18 7br. <c>♄</c></date></head><p> durch <rs ref="register.xml#Nienburg" type="place">Nienburgk</rs> 1.m<ex>eill</ex> <rs ref="register.xml#Friedeburg" type="place">Friedeburgk</rs>, 1.m<ex>eill</ex> <rs ref="register.xml#Aurich" type="place">Aurich</rs>, 3.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-09-21"><head><date when="1630-09-21">d<ex>en</ex> 21. 7bris <c>♂</c>,</date></head><p> zu rucke Auß <rs ref="register.xml#Varel" type="place">Varle</rs>.</p></div>
+            
+            <div xml:id="E1630-09-23"><head><date when="1630-09-23">den 23. 7bris <c>♃</c></date></head><p> biß 
+                <rs ref="register.xml#Sande" type="place">Havendorf Sande</rs>, 5.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-09-24"><head><date when="1630-09-24">d<ex>en</ex> 24. 7bris <c>♀</c></date></head><p> biß nach d<ex>er</ex> <rs ref="register.xml#Hude" type="place">Hude</rs>. 7.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-09-25"><head><date when="1630-09-25">d<ex>en</ex> 25 7bris <c>♄</c></date></head><p> nach <rs ref="register.xml#Harpstedt" type="place">Harpstede</rs>, nach <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>.</p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00118.jpg" n="57v"/>
+            
+            <div xml:id="E1630-10-07"><head><date when="1630-10-07">den 7. 8bris</date></head><p> biß <rs ref="register.xml#Langwedel" type="place">Langwedel</rs>, 4.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-10-08"><head><date when="1630-10-08">d<ex>en</ex> 8. 8bris</date></head><p> biß <rs ref="register.xml#Walsrode" type="place">Walßrade</rs>. 4 m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-10-09"><head><date when="1630-10-09">d<ex>en</ex> 9 8bris</date></head><p> biß <rs ref="register.xml#Wietzendorf" type="place">Witzendorf</rs>, <rs ref="register.xml#Ebsdorf" type="place">Ebstorf</rs> 7.m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1630-10-10"><head><date when="1630-10-10">d<ex>en</ex> 10 8bris,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">hitzger</rs></p></div>
+            
+        </body>
+    </text>
+</TEI>

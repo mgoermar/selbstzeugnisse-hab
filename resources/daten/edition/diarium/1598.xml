@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" next="1599.xml" n="1598" prev="1597.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1598</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00010.jpg" n="3v">Anno 1598.</head></div>   
+            
+            <div xml:id="E1598-01-13"><head><date when="1598-01-13">Den 13. <c>♀</c> 14. <c>♄</c> Januar<ex>is</ex></date></head> <p><foreign xml:lang="lat">N<ex>ota</ex>B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note>+</p></div>
+                <div xml:id="E1598-01-19"><head><date when="1598-01-19">Den 19 Jan<ex>uaris</ex>
+                    <c>♃</c></date></head> <p><foreign xml:lang="lat">h<ex>oram</ex>
+                    11. ½ a<ex>nte</ex> m<ex>eridiem</ex> obÿt <rs ref="register.xml#Heinrich_von_Braunschweig_Lueneburg" type="person">Henricus D<ex>ux</ex>
+                        B<ex>runswigensis</ex></rs> &amp; L<ex>uneburgensis</ex> pater meus dilectissimus;</foreign><note type="translation" resp="as">Um 11:30 Uhr ist mein geliebter Vater Herzog Heinrich von Braunschweig Lüneburg gestorben</note> <foreign xml:lang="lat">m<ex>anu</ex> p<ex>ropria</ex></foreign><note type="translation" resp="as">eigenhändig</note></p></div>
+                <div xml:id="E1598-02-17"><head><date when="1598-02-17">Den 17 Februar<ex>i</ex>
+                    <c>♀</c> </date></head> <p>gerähte wegkgeschickett.</p><note type="annotation">Gerät meint hier Hausrat, Ausrüstung und Vorrat. August schickt dies aus Tübingen zurück in seine Heimat. Denn August hatte von 1594 bis 1598 in Rostock und Tübingen studiert. Er war außerdem Ehrendoktor in Tübingen gewesen und schloss seine Studienzeit dort am 25. Februar 1598 ab. Es folgten ein halbjähriger Aufenthalt in Straßburg und eine Reise nach Italien.</note></div>
+            <div xml:id="E1598-02-19"><head><date when="1598-02-19">Den 19 Febr<ex>uari</ex> <c>☉</c> </date></head> <p><foreign xml:lang="lat">Valet geben</foreign><note type="translation" resp="as">Abschied genommen</note></p><note type="annotation">August bricht von Tübingen nach Strßburg auf.</note></div>
+                <div xml:id="E1598-02-25"><head><date when="1598-02-25">Den 25 Febr<ex>uari</ex> <c>♄</c></date></head> <p>biß nach <rs ref="register.xml#Ehningen" type="place">Ehing<ex>en</ex></rs>,
+                    <rs ref="register.xml#Rotenburg_an_der_Fulda" type="place">Rotenburg</rs> stadt, <rs ref="register.xml#Horb_am_Neckar" type="place">Horbe</rs> stadt 2 meÿll</p></div>
+            <div xml:id="E1598-02-26"><head><date when="1598-02-26">Den 26 Febr<ex>uari</ex> <c>☉</c></date></head> <p> biß <rs ref="register.xml#Neuneck" type="place">Newneck</rs> <rs ref="register.xml#Neuneck_Herren" type="person">edelmanß Sitz</rs>, 1 meÿll.</p></div>
+                <div xml:id="E1598-02-27"><head><date when="1598-02-27">Den 27 Febr<ex>uari</ex>
+                    <c>☽</c></date></head> <p> still geleg<ex>en</ex>.</p></div>
+                <div xml:id="E1598-02-28"><head><date when="1598-02-28">Den 28 Febr<ex>uari</ex>
+                    <c>♂</c></date></head> <p> biß <rs ref="register.xml#Bietigheim-Bissingen" type="place">Bissing<ex>en</ex></rs> dorf 3 meÿll.</p></div>
+                <div xml:id="E1598-03-01"><head><date when="1598-03-01">Den 1 Martÿ <c>☿</c></date></head> <p> biß <rs ref="register.xml#Pforzheim" type="place">Pfortzheim</rs>
+                stadt 4 meill.</p></div>
+                <div xml:id="E1598-03-02"><head><date when="1598-03-02">Den 2 Martÿ <c>♃</c></date></head> <p> biß <rs ref="register.xml#Ettlingen" type="place">Ettling<ex>en</ex></rs> stadt, <rs ref="register.xml#Rastatt" type="place">Rastadt</rs>, stadt 4 meÿll.</p></div>
+                <div xml:id="E1598-03-03"><head><date when="1598-03-03">Den 3 Martÿ <c>♀</c></date></head> <p> biß <rs ref="register.xml#Stollhofen" type="place">Stolhofe<ex>n</ex></rs> stadt, <rs ref="register.xml#Lichtenau" type="place">Liechtenaw</rs> stadt, <rs ref="register.xml#Strassburg" type="place">Straßburgk</rs> 6 meÿll.</p></div>
+                <div xml:id="E1598-03-23"><head><date when="1598-03-23">Den 23 Mart<ex>ÿ</ex>
+                    <c>♃</c></date></head> <p> H<ex>err</ex>
+                        <rs ref="register.xml#Joachim_Carl_von_Braunschweig_Lueneburg" type="person">Jochim Carll</rs><note type="annotation">Ein Vetter Augusts und Domprobst von Straßburg</note> ein Fewrwerck anzünd<ex>en</ex> lassen.</p></div>
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00011.jpg" n="4r"/>
+            <div xml:id="E1598-03-25"><head><date when="1598-03-25">Den 25 Martÿ <c>♄</c></date></head> <p> H<ex>err</ex> <rs type="person">Frantz</rs><note type="annotation">Ein Bruder Augusts und Dompropst in Straßburg</note> vo<ex>n</ex> hinne<ex>n</ex> nach hauß gezogen.</p></div>
+                <div xml:id="E1598-04-05"><head><date when="1598-04-05">Den 5 Apr<ex>ilis</ex>
+                    <c>☿</c></date></head> <p> <rs ref="register.xml#T_B_Walmoden" type="person">Wallmöd<ex>er</ex></rs> vo<ex>n</ex> mir gezogen.</p></div>
+                <div xml:id="E1598-04-27"><head><date when="1598-04-27">Den 27 Apr<ex>ilis</ex>
+                    <c>♃</c></date></head> <p><unclear>0 /-</unclear></p></div><note type="annotation">Die Bedeutung der Zeichen konnte nicht ermittelt werden</note>
+            <div xml:id="E1598-07-02"><head><date when="1598-07-02">Den 2 Jul<ex>ÿ</ex> <c>☉</c></date></head> <p><seg>visito<ex>n</ex>is Mariae</seg><note type="annotation">Visitatio Mariae ist der Gedenktag Mariä Heimsuchung</note>,
+                <c>☉</c>, <foreign xml:lang="lat">gladium</foreign><note type="translation" resp="as">Schwert</note>. <w>rc.</w><note type="annotation" resp="ao">etc.</note></p></div>
+                <div xml:id="E1598-07-03"><head><date when="1598-07-03">Den 3 Jul<ex>ÿ</ex>
+                    <c>☽</c></date></head> <p> d<ex>er</ex>
+                        <rs ref="register.xml#Friedrich_IV._Kurfuerst_Pfalz" type="person">Churfürst vo<ex>n</ex> Heÿdelberg</rs> herkommen.</p></div>
+                <div xml:id="E1598-07-04"><head><date when="1598-07-04">Den 4 Jul<ex>ÿ</ex>
+                    <c>♂</c> </date></head> <p><w>Ohrgehenck</w><note type="annotation">Vermutlich hat Herzog August sich einen Ohrring stechen lassen oder gekauft; folgendes Bild zeigt ihn mit Ohrring: <ref target="http://www.portraitindex.de/documents/obj/34701757/gs125787d">Digitaler Portraitindex</ref></note>.</p></div>
+                <div xml:id="E1598-07-05"><head><date when="1598-07-05">Den 5 Jul<ex>ÿ</ex>
+                    <c>☿</c></date></head> <p> schiessen gehalten.</p></div>
+                <div xml:id="E1598-07-06"><head><date when="1598-07-06">Den 6 Jul<ex>ÿ</ex>
+                    <c>♃</c></date></head> <p> hochzeitt.</p></div>
+                <div xml:id="E1598-07-07"><head><date when="1598-07-07">Den 7 Jul<ex>ÿ</ex>
+                    <c>♀</c> </date></head> <p>Tragedia vo<ex>n</ex> d<ex>er</ex> <w>Medea</w><note type="annotation">Medea - Tragödie des griechischen Dichters Euripides (431 v. Chr. verfasst)</note> agierett.</p></div>
+                <div xml:id="E1598-07-08"><head><date when="1598-07-08">Den 8 Jul<ex>ÿ</ex> <c>♄</c></date></head> <p> d<ex>er</ex> <rs type="person">Churfürst</rs> wied<ex>er</ex> wegkgezog<ex>en</ex>.</p></div>
+                <div xml:id="E1598-08-02"><head><date when="1598-08-02">Den 2 Aug<ex>usti</ex>
+                    <c>☿</c></date></head> <p> <w>ringrennen</w><note type="annotation">Tjost, Zweikampfspiel mit der Lanze zu Pferd</note>.</p></div>
+            <div xml:id="E1598-09-24"><head><date when="1598-09-24">Den 24 Sept<ex>embris</ex> <c>☉</c></date></head> <p><foreign xml:lang="lat">ad me venit <rs ref="register.xml#Bernhard_Tege" type="person">Bernhard<ex>us</ex> Tegger<ex>us</ex></rs></foreign><note type="translation" resp="as">Zu mir kam Bernd Teger</note></p></div>
+                <div xml:id="E1598-10-06"><head><date when="1598-10-06">Den 6 Octobr<ex>is</ex>
+                    <c>♀</c></date></head> <p> vo<ex>n</ex>
+                        <rs ref="register.xml#Strassburg" type="place">Straßburg</rs> über die Reinbruck<ex>en</ex> biß <rs ref="register.xml#Koeln" type="place">Cölen</rs>, (Hanawsch gebieth)
+                <rs ref="register.xml#Auenheim" type="place">Augenaw dorf</rs>, <rs type="place">Lintzenaw dorf</rs>, <rs ref="register.xml#Linx" type="place">Linse dorff</rs>,<rs type="place"> Hohenbill dorf</rs>, zur <rs type="place">hohenstege</rs> dorf,
+                        <rs type="place"> Reinigenlochdorf</rs>, <rs ref="register.xml#Scherzheim" type="place">Schertz dorf</rs>, <rs ref="register.xml#Lichtenau" type="place">Liechtenaw</rs> stadt mittagßmahl zur Krone<ex>n</ex>, (3 meill (Badensch gebiethe)
+                <rs ref="register.xml#Rheinmuenster-Schwarzach" type="place">Schwartzach</rs> Kloster, <rs ref="register.xml#Stollhofen" type="place">Stolhofen</rs> schloß,<rs type="place"> Harrdisch</rs> dorff,<rs ref="register.xml#Baden-Baden" type="place"> Baden</rs> stadt sampt dem
+                fürstlichen Schloß zum <w>Vngemachett</w><note type="annotation">"Die Badherberge "Zum Ungemach" war schon einzigartig in der mittelalterlichen Residenzstadt Baden. Unterhalb des Neuen Schlosses direkt an der östlichen Stadtmauer gelegen, war sie die einzige Badeherberge, die nach ihrem Besitzer, der Familie Ungemach, benannt worden war.", zitiert nach <ref target="http://www.bad-bad.de/gesch/hot_ungemach.htm">http://www.bad-bad.de/gesch/hot_ungemach.htm</ref></note> 2 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+                <div xml:id="E1598-10-08"><head><date when="1598-10-08">Den 8 Octob<ex>ris</ex> <c>☉</c></date></head> <p> biß <rs ref="register.xml#Oos" type="place">Aaß</rs> dorf, <rs ref="register.xml#Eberstein" type="place">Hohen Eberstein</rs>, dorf,
+                    <rs ref="register.xml#Kuppenheim" type="place">Kuppenheim</rs> stadt, <rs ref="register.xml#Muggensturm" type="place">Muckensturm</rs> dorf, <rs ref="register.xml#Malsch" type="place">Malsen</rs>dorf, <rs ref="register.xml#Ettlingen" type="place">Ettling<ex>en</ex></rs>
+                    stadt, <rs ref="register.xml#Wolfartsweier" type="place">Wolfenzweÿ</rs>dorf, <rs ref="register.xml#Durlach" type="place">Durlach</rs>stadt, sampt einem fürstlichem Schloß, zur krone 4
+                meÿll.</p></div>
+                <div xml:id="E1598-10-09"><head><date when="1598-10-09">Den 9 Octob<ex>ris</ex>
+                    <c>☽</c></date></head> <p> biß <rs ref="register.xml#Kleinsteinbach" type="place">Kleine<ex>n</ex> Steinbach</rs> dorf, <rs ref="register.xml#Singen" type="place">Zingendorf</rs>, <rs ref="register.xml#Wilferdingen" type="place">Wulferding</rs> dorf, <rs ref="register.xml#Pforzheim" type="place">Pfortzheim</rs> stadt mitt einem
+                        f<ex>ürst</ex><ex>lichen</ex> schloß zum güldenen Adeler. 2. meÿll.</p></div>
+                <div xml:id="E1598-10-10"><head><date when="1598-10-10">Den 10 Octob<ex>ris</ex>
+                    <c>♂</c></date></head> <p> biß <rs ref="register.xml#Hagenschiess" type="place">Hagenschießwaldt</rs>
+                (Wirtenbergisch gebiethe) <rs ref="register.xml#Tiefenbronn" type="place">Tieffe<ex>n</ex>brun</rs> dorf, <rs ref="register.xml#Flacht" type="place">Heimbse fleck<ex>en</ex></rs>, <rs ref="register.xml#Rutesheim" type="place">Ruttene</rs> dorf, <rs ref="register.xml#Leonberg" type="place">Leonberg</rs> städtlein zum Ochsen 3 meÿll.</p></div>
+                <div xml:id="E1598-10-11"><head><date when="1598-10-11">Den 11 Octobr<ex>is</ex>
+                    <c>☿</c></date></head> <p> biß <rs ref="register.xml#Botnang" type="place">Botenaw</rs> dorf, <rs ref="register.xml#Stuttgart" type="place">Stutgardt</rs>
+                stadt, alda d<ex>a</ex>z Lusthauß so mit schönen gemeldten gezierett,
+                die wasserkunst mitt 4 Brünne<ex>n</ex> (Actaeon, Bawrendantz,
+                Fechtschuel, schweinhatz genandt) vnd einem růnden hause darinnen ein Tisch. Der
+                Lustgarte, darinne<ex>n</ex> allerleÿ seltzame früchte vnd gewechß.
+                <rs ref="register.xml#Untertuerkheim" type="place">Vndertürckene<ex>n</ex></rs> dorf, <rs ref="register.xml#Esslingen_am_Neckar" type="place">Eßling<ex>en</ex></rs>
+                Reichstadt zu<ex>m</ex> güldene<ex>n</ex> lewen, od<ex>er</ex> beÿm Staal, 2 meill.</p></div>
+                <div xml:id="E1598-10-12"><head><date when="1598-10-12">Den 12 Octobr<ex>is</ex>
+                    <c>♃</c></date></head> <p> alda d<ex>a</ex>z schloß od<ex>er</ex> vestung besehen, wein verehrett word<ex>en</ex>. Anweÿler Kommen.</p></div>
+                <div xml:id="E1598-10-13"><head><date when="1598-10-13">Den 13 Octob<ex>ris</ex>
+                    <c>♀</c> </date></head> <p>biß <rs ref="register.xml#Oberesslingen" type="place">oberEßling<ex>en</ex></rs> dorf, <rs type="place">Cell</rs> dorf, <rs ref="register.xml#Altbach" type="place">Allbach</rs> dorf, <rs ref="register.xml#Plochingen" type="place">Blocking<ex>en</ex></rs> dorf <rs ref="register.xml#Ebersbach_an_der_Fils" type="place">Eberspach</rs> dorf, <rs ref="register.xml#Singen" type="place">Fingen</rs> dorf, <rs ref="register.xml#Goeppingen" type="place">Göpping<ex>en</ex></rs>
+                        stadt alda ein Sawrbrun vnd ein badt (3 meyll, vorm
+                Thore: biß
+                    
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00012.jpg" n="4v"/>
+                    
+                <rs type="place">Gruntßling<ex>en</ex></rs> dorf, (Graffeschafft <rs ref="register.xml#Helfenstein" type="place">Helffenstein</rs>, an Jetzo d<ex>en</ex> Vlmern zugehörig) <rs ref="register.xml#Suessen" type="place">Süsse</rs> dorf, <rs ref="register.xml#Gingen_an_der_Fils" type="place">Hing<ex>en</ex></rs> dorf, <rs ref="register.xml#Kuchen" type="place">Buchen</rs> dorf, <rs type="place">Altenbach</rs> dorf, <rs ref="register.xml#Geislingen_an_der_Steige" type="place">Geißlinge<ex>n</ex></rs>
+                stadt, zum weissen schwan 2 meill</p>
+                    <p><foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+                <div xml:id="E1598-10-14"><head><date when="1598-10-14">Den 14 Octob<ex>ris</ex> <c>♄</c></date></head> <p> (Vlmer gebiethe) biß <rs ref="register.xml#Urspring" type="place">Vhrsprung</rs> dorf,
+                    <rs ref="register.xml#Luizhausen" type="place">Lützhausen</rs> dorf, <rs ref="register.xml#Dornstadt" type="place">Dornstadt</rs> dorf, <rs ref="register.xml#Ulm" type="place">Vlm</rs> Reichstadt, zur güldenen krone, 3 meÿll alda
+                die donaw an d<ex>er</ex> Mawren herfleůst.</p></div>
+                <div xml:id="E1598-10-15"><head><date when="1598-10-15">Den 15 Octob<ex>ris</ex> <c>☉</c> </date></head> <p>biß <rs ref="register.xml#Offenhausen" type="place">Offenhaůsen</rs> dorf, <rs ref="register.xml#Pfuhl" type="place">Pfuell</rs> dorf (so die
+                    wallonen im durchzieh<ex>en</ex> nach Vngern, d<ex>en</ex> vlmern angezůndet) <rs type="place">Pahl</rs> dorf, (Marggraffschafft <rs ref="register.xml#Burgau" type="place">Burgow</rs> d<ex>er</ex> keÿserliche<ex>n</ex> Mayestet noch zur zeit
+                    gehörig) <rs ref="register.xml#Guenzburg" type="place">Guntzbourg</rs> stadt (3 meill, mittagßmahl zur
+                    Sonnen, alda wir aufm schloß gesehe<ex>n</ex> eine<ex>n</ex> Leůchter vo<ex>n</ex> 7 ½ Centner, Ein Teppich zu<ex>m</ex> bette vor 7000 <w>fl<ex>orin</ex></w><note type="annotation">Gulden</note>; d<ex>a</ex>z schlos hatt
+                54 stub<ex>en</ex>, 84 kammern; Jn einer Jeglichen stube eine sond<ex>er</ex>liche gattung von Ofen. Jn der schloß Capellen ein <w>Positiff</w><note type="annotation">Positiv: Kleine Orgel, Musikinstrument</note> vor 2000 <w>fl<ex>orin</ex></w><note type="annotation">Gulden</note> so ein Kunstuck sein soll, d<ex>a</ex>z Keiner, alß d<ex>er</ex> eß gemachet hatt,
+                die Register zusamen bringen kan, d<ex>a</ex>z sie sich zugleich
+                schicken. Jm garten vielle zahme Phasanen, die einem auß d<ex>er</ex>
+                handt essen :) biß <rs ref="register.xml#Unterknoeringen" type="place">Kieringen</rs> dorff, <rs ref="register.xml#Burgau" type="place">Burgow</rs> dorf sampt dem schloß, <rs ref="register.xml#Jettingen" type="place">Klettingen</rs> dorff,
+                (Bischoffs von <rs ref="register.xml#Augsburg" type="place">Augßpurg</rs> gebiethe) <rs ref="register.xml#Landensberg" type="place">Landtßpurg</rs> dorf, <rs ref="register.xml#Zusmarshausen" type="place">Zußmerßhausen</rs> fleck<ex>en</ex> sampt dem schlosse zur Sonne<ex>n</ex> 3
+                meill <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note>6.</p></div>
+                <div xml:id="E1598-10-16"><head><date when="1598-10-16">Den 16 Octob<ex>ris</ex>
+                    <c>☽</c></date></head> <p> biß <rs ref="register.xml#Auerbach" type="place">Aurbach</rs> dorf, <rs ref="register.xml#Horgau" type="place">Horche</rs> dorf,
+                <rs ref="register.xml#Kreppen" type="place">Kreite</rs> dorf, <rs ref="register.xml#Biburg" type="place">Biber</rs> dorf, <rs ref="register.xml#Schlipsheim" type="place">Schlepse</rs> dorf, <rs ref="register.xml#Kriegshaber" type="place">Grißhaber</rs> dorf, <rs ref="register.xml#Augsburg" type="place">Augßpurg</rs> Reichstadt zu<ex>m</ex> strauß<ex>en</ex> 3 meÿll, alda
+                    gesehe<ex>n</ex> erstlich ein sehr <rs type="libri">Künstliches Vhrwerck</rs>,
+                deßgleichen man in d<ex>er</ex> gantzen weÿten weltt nicht findett:
+                        darinnen veri planetarum motus; Ipsorum Latitudines, (welche zw<subst><del>en</del><add>oen</add></subst> halbe Kugelen
+                        anzeigen) Horae planetarior: Eclypses &amp; <w><c>☉</c>is</w><note type="annotation">Sonne</note> &amp; <w><c>☽</c>ae</w><note type="annotation">Mond</note>. <foreign xml:lang="lat">Et an sint meridionales vel
+                            Septentrionales demo<ex>n</ex>stra<ex>n</ex>t <seg>Globus caelestis</seg><note type="annotation">Himmelsglobus</note></foreign><note type="translation"/>. Globus terrestris; Sphaera malis. Astrolabium. Longitudo diei.
+                Zodiacus mobilis. Kalendarium: Epactor. Schlägt alle Minůten eines. Tres magi
+                adorates <w>Xrum</w><note type="annotation">Jesus Christus</note>, ipsi<ex>us</ex> munera offere<ex>n</ex>tes. Septemviri, Imp: adorantes. Equites cum vexillis Electorum.
+                <rs type="person">Herodes</rs> occidi jubens innocentes. <rs type="person">Josephus</rs> fugiens in Aegyptum. <rs ref="register.xml#Jesus_Christus" type="person">Jesus</rs> <hi rend="superscript">(</hi>12 annorum: parenter (q<ex>uae</ex> rentes eum. Quatuor aetates: Ascensio <w>Xri</w><note type="annotation">Jesus Christus</note>; Eductio Xri<note type="annotation">Jesus Christus</note> ad crucem.
+                Resurrectio ipsus. Ave Maria geleutett. Saluto sive annunciation Mariae. Ettliche
+                Register so sich selber schlagen, vnd die blaßbelge aufziehen. Trummeten vnd
+                HeerPaucken. Die Höhe deß gantzen werckß ist 13 werckschue. Die breÿte 9. Kostet
+                gantz außgemachet 40000 th<ex>aler</ex>. <foreign xml:lang="lat">N<ex>ota</ex>B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note>
+                ein haůß nicht weitt vo<ex>n</ex> Vnser lieben Frawen kirchen, daranne
+                man nicht weÿterß bawen od<ex>er</ex> end<ex>er</ex>n
+                kan, sond<ex>er</ex>n so offt ma<ex>n</ex> solches
+                thuett, feltt es gleich die folgende nacht wied<ex>er</ex> herůnter,
+                die Vrsach weiß man nichtt. Item die wasserkunst, alda d<ex>a</ex>z
+                wasser durch Räd<ex>er</ex> Canalln od<ex>er</ex> Röhre,
+                vnd Pumpen, in zween grosse Kässell wirdt hinaůf geführett, da eß darnach herůnter
+                fellett,
+                    
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00013.jpg" n="5r"/>
+                    
+            vnd sich in die gantze stadt vertheilett, ist woll zuseh<ex>en</ex>.
+                Sie liegt hartt <seg>am rothen Thor</seg><note type="annotation">Wasserwerk am Roten Tor in Augsburg, gilt als das älteste bestehende Wasserwerk Deutschlands</note>. Jm Jahr 1563 ist alda ein wildt Schwein, wie dan
+                auch A<ex>nn</ex>o 1592 ein Rehe hineingeschwommen, welche ma<ex>n</ex> gefang<ex>en</ex>. Zum letzten den Einlaß:
+                welches erstlich eine starcke Thuer so sich selber auf vnd zuthuett: ein ZuegPruck
+                so sich selber herunter lest: vnd dan ein getter so von ihm selber aufSPringett.
+                Darnach noch 3 Pforten so zweÿ gewelbe <ex>ver</ex>wahren, vnd sich
+                ebenmessiger weÿse auff vnd zuthuen: endtlich kompt man in die stadt. Die
+                eingelassene Person muß einen batzen gebe<ex>n</ex>, wie es gemachett
+                seÿ od<ex>er</ex> zugehe, zeiget ma<ex>n</ex> nicht.</p></div>
+                <div xml:id="E1598-10-17"><head><date when="1598-10-17">Den 17 Octob<ex>ris</ex>
+                    <c>♂</c></date></head> <p> weÿter gesehen deß <rs ref="register.xml#Fugger" type="org">Marci
+                Fuggerß</rs> sein schloß darinne<ex>n</ex> ein grosser Saall, vo<ex>n</ex> schöne<ex>n</ex> gemeldten vnd perspectiven.
+                Jm nebengemach ein hundt vo<ex>n</ex> leim gar künstlich gemachet. Ein
+                anderer schöner gewelbter Saall, darinne die 12 Ethnici Impp: à Julio Cesare
+                    angefang<ex>en</ex> zubesehe<ex>n</ex>, welches des
+                        Sommers külle, des winterß aber warm ist. Jm nebengemach E<unclear>tsi</unclear>gies Urbis Romae
+                Ciceronis &amp; aliorum. Ein tisch mitt edellgestein eingelegett. Andere schöne p<ex>er</ex>spective<ex>n</ex>: alß ein fueß so ein
+                altter übergeschlag<ex>en</ex> hatt, welcher einem alles nachfolgett:
+                ein gantz bildt so oben in d<ex>er</ex> mitte gemahlett, welches einem
+                        allenthalb<ex>en</ex> nachsiehett. Grosse <w>stucke</w><note type="annotation">Geschütz, Kanone, Waffe</note> im hoffe welche
+                        die <rs ref="register.xml#Fugger" type="org">Fugger</rs> zur zeitt deß aufrůhrs gebrauch<ex>en</ex>, vnd für die
+                Thore stelle<ex>n</ex> lassen. Eine<ex>n</ex>
+                Jndianischen geÿß od<ex>er</ex> Ziege. <seg>Ein altt Heidnisch Epitaphiu<ex>m</ex>; daranne Amazones wie sie mitt. de<ex>n</ex>
+                        Männern streÿten zu Ros vnd fueß, gehawe<ex>n</ex>; welches die <rs ref="register.xml#Fugger" type="org">Fugger</rs>
+                        auß <rs ref="register.xml#Cyprus" type="place">Cypern</rs> biß <rs ref="register.xml#Napels" type="place">Napoli</rs> bring<ex>en</ex> lassen vnd vo<ex>n</ex> danne<ex>n</ex> nach AuSpurgk, eß soll 2000 Jahr altt
+                    sein</seg><note type="annotation">Amazonensarkophag, 2. Hälfte 4. Jh. v. Chr.; Kunsthistorisches Museum Wien, Antikensammlung, Inv.-Nr. ANSA_I_169</note>. Weÿther eine Kammer die güldene genandt, besehen, darinne<ex>n</ex> viell bildnůß, vnd oben d<ex>a</ex>z tabulat vo<ex>n</ex> Messing gar starck überguldett, gemachett. Neben d<ex>er</ex>selbe<ex>n</ex> ist eine schöne Kleine
+                Cappellen zusehe<ex>n</ex>, darinne schöne sache<ex>n</ex> vo<ex>n</ex> Silber, wachß, vnd Stepwerck gezeigett
+                werden. Harnisch auß 25 Man, so sie auch zur zeitt deß aufrührß gebrauchen. Darnach
+                    d<ex>a</ex>z Rahthauß so schön vnd groß erbawett, darauf zusehen
+                        an einem Pfeiler eine Manßlenge vo<ex>n</ex> <seg>12 spannen</seg><note type="annotation">Entspricht einer Körpergröße von ca. 240 cm</note>.</p></div>
+                <div xml:id="E1598-10-18"><head><date when="1598-10-18">Den 18 Octob<ex>ris</ex>
+                    <c>☿</c></date></head> <p> vo<ex>n</ex>
+                        <rs ref="register.xml#Augsburg" type="place">Augspurg</rs> mitt d<ex>er</ex> <w>Gutzsche<ex>n</ex></w><note type="annotation">Kutsche</note> gefahre<ex>n</ex> biß <rs ref="register.xml#Rutesheim" type="place">Ruete</rs> dorf, alda mittagßmahl gehalten <rs ref="register.xml#Kirchheim_unter_Teck" type="place">Kirchheim</rs>
+                    fleck<ex>en</ex> 6 meill</p></div>
+                <div xml:id="E1598-10-19"><head><date when="1598-10-19">Den 19 Octob<ex>ris</ex>
+                    <c>♃</c></date></head> <p> alda besehe<ex>n</ex> d<ex>er</ex> <rs ref="register.xml#Fugger" type="org">Fugger</rs> schloß, so in 8 Jahre<ex>n</ex> alda erbawett, vnd 4 Tonne<ex>n</ex> goldes Kosten soll.
+                    Eine<ex>n</ex> schöne<ex>n</ex> saal von statuen vnd
+                    grosse<ex>n</ex> bildern: in welchem zweÿ schöne gemeldte: eines
+                des BaPsts vnd d<ex>er</ex> Geistliche<ex>n</ex> Ord<ex>en</ex>, dadurch d<ex>er</ex> geistliche Standt,
+                    d<ex>a</ex>z and<ex>er</ex> des Kayserß sampt d<ex>en</ex> 7 Churfürsten, vnd and<ex>er</ex>n des
+                    Reichßstend<ex>en</ex> dadurch d<ex>er</ex>
+                welttliche Standt wirdt angedeutett. Eine schöne Kammer mitt Tappecerein behengett,
+                so
+                
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00014.jpg" n="5v"/>
+                        
+                        die welsche Kammer genennett wirdt. Ein andere Kammer darinnen ettliche <w>Contrafeht</w><note type="annotation">Bild, Abbild</note>
+                vnd zween Tafelln von nackend<ex>en</ex> bild<ex>er</ex>n gesehe<ex>n</ex> werd<ex>en</ex>. Jn einer
+                    stube<ex>n</ex> siehet ma<ex>n</ex> gar grosse
+                        Rehegehürn, alß ma<ex>n</ex> leichtlich nicht find<ex>en</ex> soll. Oben in einem <subst><del>saal</del><add>gang</add></subst>, aller Planeten wirckung<ex>en</ex> gantz schön abgemahlett. Ein Rustkammer vo<ex>n</ex>
+                Harnisch, Buchsen vnd Spies, auch HelleParten. <seg>Ein schön gemeldte einer lachend<ex>en</ex> Frawen,
+                    vnd weinend<ex>en</ex> Kindes</seg><note type="annotation">Gemälde von Vincenzo Campi, Titel: "Fishmongers" <ref target="https://commons.wikimedia.org/wiki/File:Vincenzo_Campi_-_Fishmongers_-_WGA3827.jpg">Wikipedia</ref></note>, so <rs ref="register.xml#Vincenzo_Campi" type="person">Vinceti<ex>us</ex>
+                    Campus</rs> Cremonensis gemahlett. Treyfacher bawrtantz gar artig gemahlett; Ein
+                altartafell in einer stuben über d<ex>er</ex> Kirchen, darinnen
+                Annunciatio Mariae vo<ex>n</ex> Messing gar schön gegossen. Die 4
+                Elementen, gantz schon in 4 quadren abgemahlet. Gemeldte d<ex>er</ex> Musica, darinne<ex>n</ex> eine Laute zu observiere<ex>n</ex>, welche sich allenthalben zu einem wendett. Imago Cereris,
+                Bachi &amp; Veneris; dadurch angedeutett wirdt d<ex>er</ex> <unclear>vers</unclear> <foreign xml:lang="lat">Sine
+                    Cerere &amp; Bacho friget Venus.</foreign><note type="translation">Ohne Ceres und Bacchus friert Venus</note> <rs type="person">Jonae</rs> Schifbruch, Anfang des Turnß zu Babylon. Ein badt vo<ex>n</ex> nackend<ex>en</ex> frawen. Ein stälern
+                spiegell, mitt Figuren vo<ex>n</ex> Albaster eingefast. Venetianische
+                Trachtt. <foreign xml:lang="lat">Quatuor mundi partes</foreign><note type="translation">Die vier Teile der Welt</note>, gar schön gemahlett. Ein schöner Röhrbrunn im hoffe mitt
+                messingbildern. Ein schöner lustgarte, in welchem eine
+                wasserkunst, da einer vo<ex>n</ex> vnten auf beSPrengett wirdt; wan er oben d<ex>a</ex>s Compas besehen will. Einen
+                grossen Pflueg, damitt die gräben vmß schloß seindt gemachett word<ex>en</ex>, an welchem 200 Ochsen zu<ex>n</ex> zeite<ex>n</ex> gezog<ex>en</ex> vnd dan einen Kleinen
+                Pflueg, an welchem 50 gezogen: biß <rs ref="register.xml#Rutesheim" type="place">Ruete</rs> dorff <hi rend="superscript">(</hi>3 meÿll</p></div>
+                <div xml:id="E1598-10-20"><head><date when="1598-10-20">Den 20 Octob<ex>ris</ex>
+                    <c>♂</c><c>♀</c></date></head> <p> biß <rs ref="register.xml#Augsburg" type="place">Augspurg</rs> 5 meill
+                mittagß (Baÿerische gebieth) <rs ref="register.xml#Tegernbach" type="place">Tegerbach</rs> dorf 3 meÿlen.</p></div>
+                <div xml:id="E1598-10-21"><head><date when="1598-10-21">Den 21 Octob<ex>ris</ex> <c>♄</c>.</date></head> <p> biß <rs ref="register.xml#Mittelstetten" type="place">Medellstadt</rs> dorf, <rs ref="register.xml#Guenzlhofen" type="place">Gintzelhofen</rs> dorff,
+                    <rs type="place">Newhofen</rs> schloß <rs type="place">Burch</rs> dorf, <rs ref="register.xml#Fuerstenfeldbruck" type="place">Fürstenfeldt</rs> Kloster, <rs type="place">Bruck</rs> fleck<ex>en</ex>, mittagßmahl zum güldenen hirsch <hi rend="superscript">(</hi>3 meill,
+                    biß <rs type="place">Hofelen</rs> dorf,<rs ref="register.xml#Puchheim" type="place"> Buch</rs> dorf, <rs ref="register.xml#Pasing" type="place">Boßlingen</rs> dorf mitt dem schloß;<rs ref="register.xml#Muenchen" type="place"> München</rs> stadt, in welcher die
+                    Hertzoge vo<ex>n</ex> Bayern hofhalten; beÿm stadler, 3 meÿll <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 6,
+                    alda geseh<ex>en</ex> einen <w>lewen</w><note type="annotation">Löwen</note> vnd <w>Lewinne</w><note type="annotation">Löwinnen</note>, Item einen schönen
+                    brunne<ex>n</ex> so beÿ H<ex>erzog</ex> <rs ref="register.xml#Ferdinand_von_Bayern" type="person"> Ferdinandß</rs>
+                Schloß gebawett vnd aufgerichtett, welcher eines Schreiberß dochter zur ehe hatt:
+                Seine Kind<ex>er</ex> so mitt ihr gezeugett, werd<ex>en</ex> vor vo<ex>n</ex> Adell gehalten, die Ursach d<ex>a</ex>z er sie genomme<ex>n</ex>, ist diese, weill
+                er <ex>ver</ex>sprechen müssen, nicht zu heyrathen auß Fürstlichem,
+                Gräfflichen vnd Herrenstandt, auf d<ex>a</ex>z nicht d<ex>a</ex>z landt zu sehr vnd in zuviell theill getheilet würde.
+                    <foreign xml:lang="lat">m<ex>anu</ex> p<ex>ropria</ex></foreign><note type="translation" resp="as">eigenhändig</note></p></div>
+                <div xml:id="E1598-10-22"><head><date when="1598-10-22">Den 22 Octob<ex>ris</ex> <c>☉</c></date></head> <p> beseh<ex>en</ex> die Jesuiter
+                Kirchen, so H<ex>err</ex> <rs ref="register.xml#Wilhelm_von_Bayern" type="person">Wilhelm von Bayern</rs> ihnen hatt erbawen
+                lassen. Darnach obgedachten H<ex>err</ex> <rs ref="register.xml#Ferdinand_von_Bayern" type="person">Ferdinandß</rs> Lustgarten, in
+                welchem ein vogelhaus
+                    
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00015.jpg" n="6r"/>
+                    
+            darinnen vnter and<ex>er</ex>n vielen gevöglen ein Awrhan ein bundtes
+                    Rapphun ist. An einer wandt im selben lusthause seindt 3 Hirschgeweih darund<ex>er</ex> folgendes geschrieben: diese 3 <w>Khürn</w><note type="annotation">Gehörn/ Geweih</note> hatt ein hamblicher
+                    Hirschen, an einem Jahr. auf den Kopf gehabtt, nachfolgend<ex>er</ex> gestaltt: daß erste hatt er, nachdem erß an die stadt bereitt od<ex>er</ex> geschlag<ex>en</ex> den 22 Junÿ A<ex>nn</ex>o 1596 <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> geworfen; nachmalß d<ex>a</ex>z
+                    and<ex>er</ex> wied<ex>er</ex> aufgesetzett, den 26
+                    Apr<ex>ilis</ex> A<ex>nn</ex>o i597 auch geworfen;
+                    d<ex>a</ex>z dritte hatt er zwischen den 26 April<ex>is</ex> vnd 22 Junÿ A<ex>nn</ex>o 97 abermahls aufgesetzett. Alß
+                hatt er (vo<ex>n</ex> 22 Junÿ A<ex>nn</ex>o 96 biß auf
+                den 22 Junÿ A<ex>nn</ex>o 97 dreÿ vnterschiedliche stück od<ex>er</ex> gehirn aufgehabtt. darund<ex>er</ex> die 2
+                    geschlag<ex>en</ex> od<ex>er</ex> bereitett, d<ex>a</ex>z dritte aber in den 2 Monaten also rauch 4 ende gehabtt,
+                welcheß er gleichwoll hernach bereÿtet, vnd vmb halben Octob<ex>ris</ex> A<ex>nn</ex>o 97 auch geworfen, ist nachmalß, weill er
+                    böß vnd vntrew, <ex>ver</ex>schnied<ex>en</ex> word<ex>en</ex>. <foreign xml:lang="lat">m<ex>anu</ex> p<ex>ropria</ex></foreign><note type="translation" resp="as">eigenhändig</note>. Ferner gesehe<ex>n</ex> die weittberümbte Kunstkammer. Darinnen 3 Sähle
+                voller kunstucke: die vornemheste sachen so da habe<ex>n</ex>
+                konnen in d<ex>er</ex> eÿll <ex>ver</ex>zeichnet werd<ex>en</ex>, sindt diese: Ein drache vo<ex>n</ex> 7
+                Kopfen mitt 6 füssen, aůf 4 ist er gestand<ex>en</ex>, die and<ex>er</ex>n 2 hatt er vor<subst><del>h</del><add>n</add></subst>en aufgehebtt getrag<ex>en</ex>: 4 schwäntze: ist nicht sehr groß, sond<ex>er</ex>n wie
+                ein Kleines hündlein. Ein Camaeleonae Eine spore inß holtz <ex>ver</ex>wachsen. Instrume<ex>n</ex>ta p<ex>er</ex> sacrificiis Judaicis.
+                Leinwadt vo<ex>n</ex> holtz gemachett. Zween donnerstein. Ettlich
+                holtz wie schlang<ex>en</ex> gewachsen. Ein Kirschkern daranne 117
+                gesichter zusehen. Aegÿptische Abgötter auß welchen d<ex>er</ex>
+                teufell vorzeiten geredt. Ein tisch voll Schüsseln vo<ex>n</ex> Terra
+                porcellana, so 40 Jahr moß p<ex>rae</ex>parieret w<ex>er</ex>d<ex>en</ex>. Eine schöne Kunstliche
+                perspectiff, darinnen <rs type="person">Carol<ex>us</ex></rs> 5 vnd abgemahlett <rs ref="register.xml#Ferdinand_von_Bayern" type="person">Ferdinand<ex>us</ex></rs>, vnd Ven<ex>us</ex> &amp; Cupido, wie dan
+                    auch <rs type="person">Ada<ex>m</ex></rs> vnd <rs type="person">Eva</rs>: welche so ma<ex>n</ex> von
+                vorn zu ansiehett eine landschafft scheinett, voller wasser vnd wiesen; wan<del rend="overstrike">s</del>
+                manß aber von d<ex>er</ex> seÿten (durch löcher so dazue
+                gemachett) anschawett, sehet ma<ex>n</ex> obgedachte 4 stück, gar artig vnd
+                Künstlich gemahlett vnd <w>abcontrafehtet</w><note type="annotation">abgebildet</note>. Ein gesichte von blumen, von Früchten, von
+                Obß, von dornen. Ein silbern bergwerck darinnen thiere vo<ex>n</ex> lauterm golde gesetzett. Ein
+                Elefanth. A<ex>nn</ex>o 1590 ist beÿ Breßlaw eine Henne (so erst
+                gemawsett, vnd deßweg<ex>en</ex> in die stuben genomme<ex>n</ex> worden; seindt ihr die fed<ex>er</ex>n
+                außgefallen, vnd an deren stadt, hanen Fed<ex>er</ex>n gewachsen) zu
+                    eine<ex>m</ex> hane<ex>n</ex> word<ex>en</ex>, vnd hatt einen Hanen <ex>ver</ex>wesen. Ein stuck auß
+                    d<ex>er</ex> Music, da die Bawren, Bawrmegde BawrJungen vnd Hunde
+                an staadt d<ex>er</ex> noten sein, ist lustig zusehen. Ein lax vo<ex>n</ex> 73 Pf<ex>und</ex>. –
+                
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00016.jpg" n="6v"/>
+                
+                Ein Tisch so an 4 örten Clavier hatt, vnd also viererleÿ Instrument, da d<ex>a</ex>z eine allezeitt hoher gestimmett ist, dan d<ex>a</ex>z and<ex>er</ex>. Imago Senecor. Landtsschafft
+                so wan manß vmbkehrett ein Menschenkopf ist. die 7. Planeten vo<ex>n</ex> Helfenbein, daranne
+                geschrieben: Severo <c>♄</c>: Benigno <c>♃</c>: Invicto <c>♂</c>: Splendido <c>☉</c>
+                Formosae <c>♀</c>: Facundo <c>☿</c>: Castae Dianae ÷ <c>☽</c>: Ein Tisch mitt PerlenMutter
+                eingelegtt, darauf viell kästlein vo<ex>n</ex> PerleMutter mitt
+                edelgestein <ex>ver</ex>setzett, gestand<ex>en</ex>. Zween Krüge <seg>de terra Sigillata</seg><note type="annotation">Römischen Tafelgeschirr aus Keramik</note>. Ein säbell mitt lauter vngeschnittene<ex>n</ex> rubinen vnd <w>Türckosen</w><note type="annotation">Türkise</note> <ex>ver</ex>setzett.
+                Wie dan auch ein <w>Rappier</w><note type="annotation">Stich- und Hiebwaffe, Degen</note> vnd Tolch, deren gefäß vo<ex>n</ex> pur
+                lauterm golde, vnd vielem edelgesteine. Ein ziemliche grosse Kanten, mitt <w>Türckosen</w><note type="annotation">Türkise</note>,
+                rubine<ex>n</ex> vnd Diamanten, über vnd über <ex>ver</ex>setzett. Eine schüssell von <seg>Lapide Lazaro</seg><note type="annotation">Lapislazuli</note>. Eine schale
+                vo<ex>n</ex> <seg>Jaspide</seg><note type="annotation">Jaspis</note> darinnen <rs ref="register.xml#Neptun" type="person">Neptunus</rs> mitt 2 Pferd<ex>en</ex> sitzett: welche am halse schöne vnd grosse Rubin, auch
+                andern edellgestein haben, w<ex>er</ex>d<ex>en</ex> mitt
+                güldene<ex>n</ex> Ketten regierett. Ein becher vo<ex>n</ex> <seg>Jaspide</seg><note type="annotation">Jaspis</note>, mitt grossen Perlen versetzett. Die <w>Passion</w><note type="annotation">künstlerische Darstellung der Leidensgeschichte Christi</note> von Federn
+                gemachett, welche nicht and<ex>er</ex>ß scheinett, alß wan sie von
+                allerhandt geferbter Seÿde gestickett were. Indianische abgötter, auß welchen d<ex>er</ex> teufell geredt. Ettliche stette in grundt gelegtt, gar
+                artig in holtz geschnitten. Eine silberne Schnecke so aufm thuech liegtt, wa<ex>n</ex> einer die angreifft, ziehet einer einen bogen, vnd scheůst
+                sich selber aůf die finger, mitt dem boltzen. Bildnuß eineß Mörd<ex>er</ex>ß, darunter folgendtß geschrieb<ex>en</ex>: Warhaffte
+                <w>abcontrafeht</w><note type="annotation">abgebildet</note>, <seg><rs type="person">Christoffell Froschhamelß</rs></seg><note type="annotation">Christoph Froschhammer</note> vo<ex>n</ex> <rs ref="register.xml#Waging" type="place">weginge<ex>n</ex></rs> auß de<ex>m</ex> stifft Saltzburg, welcher
+                mitt seiner eigenen handt 345 mordt, vnd noch 400 mitt seiner geselschafft begang<ex>en</ex>, ist zu <rs ref="register.xml#Wels" type="place">Welß</rs> in Östereich gerichtet word<ex>en</ex> im Jahr 1578. Ein Kasten, darinne<ex>n</ex> von Corallen
+                gemachet, ein waldt voller Hirschen vnd anderer thiere, vnd viell schiffe im wasser
+                vnd ein festes schloß, ein Gembßen Jagen. Ein Kalbßkopf mitt 2 mewlern, 3 aug<ex>e</ex>n 3 ohre<ex>n</ex>. Ein Mundstuck in eine<ex>m</ex> stier gefund<ex>en</ex>. Ein schwerdt so
+                einer vo<ex>n</ex> Frawnberg, wied<ex>er</ex> einen
+                Französischen edellman gebrauchet, welches er hernacher, da er denselben
+                    überwonne<ex>n</ex>, mitt seines feindes hautt (dan also hatten
+                sie sich mitteinand<ex>er</ex>, im anfang des Kampfes vergliechen)
+                uberziehen lassen. H<ex>erzog</ex> <rs ref="register.xml#Johann_Friedrich_von_Sachsen" type="person">Johan Friederichen von
+                Sachsen</rs> stiefell, so über den waden 1½ Span, oben über
+                
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00017.jpg" n="7r"/>
+                
+                dem Knie 2 Span weitt ist. Eine landtschafft von edellgestein zusamen gesetzett.
+                Noten in holtz geschnitten. Eine grosse Laute 10 Span lang. Bildnuß <w><c>♀</c>is</w><note type="annotation">Venus</note> vnd Cupidinis daranne
+                diese verß zufind<ex>en</ex>:</p>
+                    <lg xml:lang="lat">
+            <l>Dum puer alveolo furatur mella Cupido</l>
+                    <l>Furanti digitum cuspide fixit apis:</l>
+                <l>Sic etiam nobis, brevis &amp; peritura voluptas,</l>
+                        <l>Quam petim<ex>us</ex> tristi mixta dolore, nocet.</l></lg><note type="translation">Während der Junge Honig aus dem Bienenstock stiehlt Cupido, 
+                            durchbohrte die Biene den Finger des Diebes mit dem Stachel. So schadet uns auch die kurze und vergängliche Freude, die wir ersuchen,
+                            welche mit traurigem Schmerz vermischt ist</note>
+                    <p><seg>Flachs so nicht <ex>ver</ex>brendt</seg><note type="annotation">Asbest</note>; <unclear>Cum ingbus tibile</unclear>. Eine flasche,
+                        von <w>Agatthstein</w><note type="annotation">Achat</note>. Die <w>passion</w><note type="annotation">künstlerische Darstellung der Leidensgeschichte Christi</note> in einer Nůß. Glob<ex>us</ex> caelestis
+                        d<ex>er</ex> vom Vhrwerck wirdt herumbgetrieb<ex>en</ex>. <w>Contrafeht</w><note type="annotation">Bild, Abbild</note> so mitt Golde und silber gestickett) d<ex>er</ex> Bäpstlichen Capellen, so in d<ex>er</ex> Kirchen S<ex>anct</ex> Giouani Laterani ist. Ein stück darinnen schmaragden
+                gewachsen: Schalen vo<ex>n</ex> Schiltkröte<ex>n</ex>,
+                so sehr leicht gewesen. Alleß waß auf eine fl. Tafell gehörett von Helffenbeÿn:
+                korn so geregenett ist. Holtz so zu stein worden. Schwartzer stein, so schwartze
+                sachen, weiß reibet. <rs type="libri">Schöne Schachspiell</rs>. <w>Leÿlachen</w><note type="annotation">Laken, Bettlaken, Überwurf</note> <rs ref="register.xml#Ferdinand_I." type="person">Keÿserß Ferdinandi</rs> <rs ref="register.xml#Anna_Boehmen_Ungarn" type="person">gemahl</rs>, so 9
+                elen breitt, ohne nahtt. Ihr brautthembde gar schön außgenehett. <rs type="libri">Buch vo<ex>n</ex> Palmblettern daraůf die Jndianer schreiben.</rs> Credentztisch
+                waß dazue gehörett, vo<ex>n</ex> silber vnd goldt. Eine Kette vo<ex>n</ex> 20 glied<ex>er</ex>n da ein gliedt 100 kronen
+                gehabtt. Ein trinckgeschir vom steine Trasbe. Zweÿ grosse <del rend="overstrike">raůbvögell</del>
+                schlangenheute, da die eine <ex>ver</ex>wicklett mitt einem raubvogell
+                todt gefůnd<ex>en</ex> word<ex>en</ex>, dan sie
+                    mitteinand<ex>er</ex> gekempfett. Ein groß wambß 10 Spannen weitt,
+                        eines <rs ref="register.xml#Familie_von_Nussdorf" type="org">Edellmanß von Nußdorf</rs>, welcher ein Abtt gewesen: Vielle pussierte <w>Contrafehtt</w><note type="annotation">Bild, Abbild</note>.
+                Ein gemaldter Reůter so mitt einem bog<ex>en</ex> aůf d<ex>en</ex> ziehlett d<ex>er</ex> ihn ansiehett, man
+                gehe hin auf welche seÿten ma<ex>n</ex> wölle, oder auch vo<ex>n</ex> vornen zů. Dockenhaůß, darinne<ex>n</ex> eine
+                gantze haůßhaltůng vo<ex>n</ex> docken gemachett gewesen. zween sehr
+                        grosse Crocodile<ex>n.</ex> Eine grosse schildtkröte. <w>rc.</w><note type="annotation">etc.</note> <foreign xml:lang="lat">m<ex>anu</ex> p<ex>ropria</ex></foreign><note type="translation" resp="as">eigenhändig</note></p></div>
+           <div xml:id="E1598-10-23"><head><date when="1598-10-23">Den 23 Octobr<ex>is</ex>
+                        <c>☽</c></date></head> <p> beseh<ex>en</ex>
+                    d<ex>en</ex> Garten, so nichtt weÿtt vom Schloß liegt, darinnen
+                ein schönes werck gemachet word<ex>en</ex> vnd zusamen gesetzett von
+                Corallen, Meermůscheln, PerleMutter, so Künstlich, denn viell: vnd ist im selben
+                werck eine wasserkunst; Item allerleÿ Art vögell vnd thiere: Hernacher seindt im
+                selben garten (so zwar kleine, aber sehr schöne vnd vnd 3 tonnen goldes kosten soll)
+                viell antiquae statuae so von Rom gebracht zubeseh<ex>en</ex>. Eß
+                stehen auch an d<ex>en</ex> gängen folgende verß geschrieben:</p>
+               <lg xml:lang="lat"><l>Pulchra vides, sed vana vites hic můlta viator,</l>
+                   <l>Haec ita fac capias, ne tu capiaris ab illis.</l><c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note>
+               </lg>
+               
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00018.jpg" n="7v"/>
+               
+                <p><rs type="libri">die Biblioteck darinnen <foreign xml:lang="lat">omnium facultatum libri</foreign><note type="translation">Bücher aller Disziplinen</note> vnd authores zufinden, vnd viell
+                    manuscripta</rs>.</p></div>
+                <div xml:id="E1598-10-24"><head><date when="1598-10-24">Den 24 Octobr<ex>is</ex>
+                    <c>♂</c> </date></head> <p>biß <rs ref="register.xml#Obersendling" type="place">Obersentlingen</rs> dorf, <rs ref="register.xml#Pullach_im_Isartal" type="place">Bule</rs>
+                dorf, <rs ref="register.xml#Baierbrunn" type="place">Zweÿbru<ex>n</ex></rs> dorf,<rs ref="register.xml#Wolfratshausen" type="place"> Wolberßhausen</rs> dorf zur Güldene<ex>n</ex> Sonnen, 4 meÿll.</p></div>
+                <div xml:id="E1598-10-25"><head><date when="1598-10-25">Den 25 Octobr<ex>is</ex>
+                    <c>☿</c></date></head> <p> biß <rs ref="register.xml#Koenigsdorf" type="place">Kinßdorf</rs> mittagßmahl
+                    gehalte<ex>n</ex>, <hi rend="superscript">(</hi>2 meill, alda
+                        vnserer Pf<ex>erden</ex> eineß geblieben; <rs ref="register.xml#Hoefen" type="place">Hoffe</rs> dorf, <rs type="place">Schletten</rs> dorf, <rs type="place">Schinse</rs> dorf,
+                <rs ref="register.xml#Obermuehl" type="place">Ohrmill</rs> dorf, <rs type="place">Spiell</rs> dorf, <rs ref="register.xml#Langau" type="place">Langern</rs> dorf, dabeÿ ein Kloster genandt <rs ref="register.xml#Benediktbeuren" type="place"> Benedictayern</rs>, 2
+                meill <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 4.</p></div>
+                <div xml:id="E1598-10-26"><head><date when="1598-10-26">Den 26 Octob<ex>ris</ex>
+                    <c>♃</c></date></head> <p> biß <rs ref="register.xml#Ried" type="place">Riett</rs> dorf,<rs ref="register.xml#Ort" type="place">Ohre</rs> dorf,
+                        <rs ref="register.xml#Kochel_am_See" type="place">Kochlen</rs> dorf, dabeÿ d<ex>er</ex> Kochlersee (welschgebirg oder
+                Teutschgebirg didho respectu) d<ex>er</ex> <rs ref="register.xml#Kesselberg" type="place">Kesselberg</rs> so d<ex>er</ex> erste berg ist, da d<ex>a</ex>z gebirg
+                anfahett, auf welchem mehrertheill lauter Tannenholtz wächsett;<rs ref="register.xml#Walchensee" type="place"> Wallensee</rs> dorf,
+                dabeÿ ein schöner grosser <rs ref="register.xml#Walchensee_See" type="place">see</rs> auch also genandt, mittagßmahl, 3 meill, biß <rs ref="register.xml#Wallgau" type="place">Wolgehe</rs>
+                dorf, <rs ref="register.xml#Kruen" type="place">Grün</rs> dorf, <rs ref="register.xml#Mittenwald" type="place">Mittenwaldt</rs> fleck<ex>en</ex> zur güldenen traůben, 3
+                meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+                <div xml:id="E1598-10-27"><head><date when="1598-10-27">Den 27 Octobr<ex>is</ex>
+                    <c>♀</c> </date></head> <p>(Grafschafft <rs ref="register.xml#Tirol" type="place">Tyroll</rs>) biß
+                <rs ref="register.xml#Scharnitz" type="place">Scheer</rs> dorf, <rs type="place">Vnterseedorf</rs>, dorf, <rs ref="register.xml#Seefeld_in_Tirol" type="place">oberseedorf</rs> alda eine grosse Walfath von weg<ex>en</ex> eines wund<ex>er</ex>zeichnuß so sich alda
+                soll begeb<ex>en</ex> hab<ex>en</ex>, wie auß
+                    nachfolgend<ex>em</ex> so in d<ex>er</ex>
+                    Kirche<ex>n</ex> an einer Tafell daselbest gelesen werd<ex>en</ex>, zuersehen: Kund vnd zubissen<hi rend="superscript">h</hi>
+                        seÿ gethaen aller meninglich, d<ex>a</ex>z in dem Jahr, alß ma<ex>n</ex> zaltt nach <rs ref="register.xml#Jesus_Christus" type="person">xri</rs> geburth 1300 vnd in dem 84 Jahr, ein
+                <rs type="person">Edelma<ex>n</ex> Oßbaldt Mülser</rs> genandt, hatt begehret zu d<ex>er</ex> Österlichen zeitt an einem Priester hir, d<ex>a</ex>z er ihm solte speÿsen, mitt einer grossen Hostien, vnd
+                nicht alß and<ex>er</ex>n leuthe<ex>n</ex>, d<ex>a</ex>z also d<ex>er</ex> Priester vo<ex>n</ex> furcht begehen, thuen müste, vnd da ihm d<ex>er</ex> Priester d<ex>a</ex>z Sacrament legt auf die Zung<ex>en</ex>, da <ex>ver</ex>sanck er für de<ex>n</ex> altar, in d<ex>a</ex>z erdreich, biß an die
+                knie, vnd graf in den altar mitt de<ex>n</ex> Hend<ex>en</ex>, alß ma<ex>n</ex> die Zeich<ex>en</ex> d<ex>er</ex> finger, noch im altarstein sehett, also na<ex>m</ex> d<ex>er</ex> Priester d<ex>a</ex>z Sacrament in vider aůß dem můnde, vnd behalt d<ex>a</ex>z zu and<ex>er</ex>m
+                Sacrament, d<ex>er</ex> <rs type="person">Mülser</rs> <del rend="overstrike">aber</del> viell in grosser rede vnd
+                beicht sich, vnd bart Kranck, lebett ettwan lang vnd starb darnach, biß Herr
+                    <rs type="person">Parrcivall Frinnecker Ritter</rs> ein <w>Monstrannetze<ex>n</ex></w><note type="annotation">Monstranz, kostbar verziertes Behältnis, in dem die Hostie gezeigt wird</note> machen, vnd
+                    beschickett alle Priester, so in einer oder 3er meÿlen baren. vnd thett d<ex>a</ex>z Sacrament in die <w>Monstrannetzen</w><note type="annotation">Monstranz, kostbar verziertes Behältnis, in dem die Hostie gezeigt wird</note>, d<ex>a</ex>z Sacrame<ex>n</ex>t hatt sich geboche<ex>n</ex>, vo<ex>n</ex> d<ex>er</ex> feůchtigkeitt
+                begen d<ex>er</ex> Zung<ex>en</ex>, darnach důrch die
+                    bůnd<ex>er</ex>berck<hi rend="superscript">i</hi> unsers Herren,
+                bardt d<ex>a</ex>z Sacrament gebinnen, ein gestaltes blueth, d<ex>a</ex>z sich alda vo<ex>n</ex> tag zu tag gemehrett
+                vnd gebachsen hatt. <foreign xml:lang="lat">m<ex>anu</ex> p<ex>ropria</ex></foreign><note type="translation" resp="as">eigenhändig</note> Es soll sich auch aufm schloß zu d<ex>er</ex>
+                zeitt ein wund<ex>er</ex>zeiche<ex>n</ex> begebe<ex>n</ex> habe<ex>n</ex>, da<ex>n</ex> alß seiner Hausfrawen solcheß angezeiget, hatt sie zur andtwort
+                
+                    <pb facs="http://selbstzeugnisse.hab.de/edition/images/00019.jpg" n="8r"/>
+                    
+                gebe<ex>n</ex>, d<ex>a</ex>z were ebe<ex>n</ex> so möglich, alß d<ex>a</ex>z auß de<ex>m</ex> steck<ex>en</ex>, so sie in d<ex>er</ex> handt hette, Könten bletter herauß schlag<ex>en</ex>,
+                welchß dan wie sie ihn auf die erde geworfe<ex>n</ex>, geschen, vnd
+                ist sie in Ohnmacht, da nied<ex>er</ex> gesuncke<ex>n</ex>, vnd gestorbe<ex>n</ex>) zu<ex>m</ex>
+                schwartze<ex>n</ex> Adler 3 meÿll, biß <rs ref="register.xml#Reith_bei_Seefeld" type="place">streit dorf</rs>, <rs type="place">Schleten</rs> dorf,
+                d<ex>er</ex> <rs type="place">zierleberg</rs>, fraget den stein, schloß, <rs ref="register.xml#Zirl" type="place">zierle</rs> fleck<ex>en</ex>, Berg darauf sich <rs ref="register.xml#Maximilian_I." type="person">Keÿser Maximilianus</rs> nach Gembsen
+                    tostieg<ex>en</ex>, dahin ein Crucifix zur gedechtnůß gesetzett
+                word<ex>en</ex>. <rs type="place">Cracow</rs> dorf, <rs ref="register.xml#Innsbruck" type="place">Jnspruch</rs> stadt 3. meill. <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 6</p></div>
+            
+                <div xml:id="E1598-10-28"><head><date when="1598-10-28">Den 28 Octob<ex>ris</ex> <c>♄</c></date></head> <p> still geleg<ex>en</ex>, vnd
+                alda gesehe<ex>n</ex>, wie Volgett: Die Franciscaner Kirche,</p>
+                    <p>darinnen 28 statuae aene<ex>ae</ex> zesehe<ex>n</ex>, daru<ex>n</ex>ter ettliche mitt diesen nahmen verzeichnett: <hi rend="superscript">(</hi>1. <rs ref="register.xml#Chlodwig_I." type="person">Clodoveus d<ex>er</ex> erste Christliche König vo<ex>n</ex>
+                        Franckreich</rs>; / 2/ 3/ <hi rend="superscript">(</hi>4. <rs ref="register.xml#Albrecht_IV." type="person">Albrecht d<ex>er</ex> weÿse Erthertzog<hi rend="superscript"/> zu Ostereich</rs>, ein Sohn <rs type="person">König Albrechte<ex>n</ex> deß Sieghafften</rs>. 1528. / 5/ 6/ 7/ 8/ <hi rend="superscript">(</hi>9. <rs ref="register.xml#Siegmund_von_OEsterreich" type="person">Sigißmundt Ertzhertzog zu Ostereich, Grafe zu Tyroll</rs>; 10 <rs ref="register.xml#Maria_von_Burgund" type="person">Fraw Maria BlanKaKo
+                        königinne</rs>, 1525. / 11./ 12/ <hi rend="superscript">(</hi>13 <rs ref="register.xml#Karl_der_Kuehne" type="person">Caroll Hertzog zu Burgundt, zu Brabandt, zu Geldern,
+                        Grave zu Fland<ex>er</ex>n</rs>. / 14. / <hi rend="superscript">(</hi>15 Fraw <rs ref="register.xml#Johanna_von_Kastilien" type="person">Johanne Königinne zu
+                            Castilien</rs> <rs ref="register.xml#Philipp_von_Kastilien" type="person">König Philipß</rs> Gemahl, 1528. <hi rend="superscript">(</hi>16 <rs ref="register.xml#Ferdinand_II." type="person">Ferdinandt König zu Hispanien</rs>,
+                Keyserlicher vnd Königlicher M<ex>ajestä</ex>t Altvater. / 17./ 18/
+                        19/ <hi rend="superscript">(</hi>20. Fraw <rs ref="register.xml#Elisabeth_von_Luxemburg" type="person">Elisabeth</rs> Hungerisch <rs ref="register.xml#Sigismund" type="person">Königß Sigißmůndt</rs> tochter vo<ex>n</ex> Vngern <rs ref="register.xml#Albrecht_II." type="person">Albrecht deß fünfte<ex>n</ex> vo<ex>n</ex> Östereich Römisch: Vngrischer, Böhemischer Königß Gemahl</rs>, <rs ref="register.xml#Laszlo_V." type="person">Königß Laßlaw</rs>
+                        Mutter, 1528. <hi rend="superscript">(</hi>21, <rs ref="register.xml#Gottfried_von_Bouillon" type="person">Gottfried vo<ex>n</ex> Ballion</rs> König zu Jerůsalem.
+                        <hi rend="superscript">(</hi>22 rs <rs ref="register.xml#Albrecht_I." type="person">König Albrecht d<ex>er</ex> erste Hertzog zu Ostereich, zu Steÿr:
+                            zu Kernten, vnd zu Kraÿn; Grafe zu Tyroll</rs>. /24./ 25/ 26/ <hi rend="superscript">(</hi>27. <rs ref="register.xml#Friedrich_III" type="person">Frideric<ex>us</ex> terti<ex>us</ex> Imp<ex>eratus</ex></rs> Divi Imp<ex>erator</ex> Maximiliani <hi rend="superscript">(</hi>pr<ex>ätor</ex>. <hi rend="superscript">(</hi>28.
+                    <rs ref="register.xml#Albrecht_II." type="person">Albrecht vo<ex>n</ex> Ostereich, Römischer, Vngrischer vnd Behemischer
+                        König</rs>, <rs ref="register.xml#Laszlo_V." type="person">Laßlaw</rs> Vatter. Mitten vnter diesen vo<ex>n</ex> Ertz gegoßnen
+                Bildern vnd statuen ist zubesehe<ex>n</ex> d<ex>a</ex>z
+                        Epitaphium <rs ref="register.xml#Maximilian_I." type="person">Maximiliani primi</rs> auß weissem vnd schwartze<ex>m</ex> Marmor gehawen. Oben aůf demselben ist seine statua Kniend gehawen, an d<ex>en</ex>
+                <hi rend="superscript">(</hi>4 ecke<ex>n</ex> stehe<ex>n</ex> die 4 Heupthugendt, Prudentia, Justicia, Fortitudo, Temperantia. An den
+                    seÿte<ex>n</ex> seindt seine res gestae gar künstlich abgehawe<ex>n</ex>, welchß auß folgend<ex>em</ex> (so mitt
+                    güldene<ex>n</ex> Buchstaben in schwartz Marmor daranne gehawen)
+                        zuersehen: Imp<ex>erator</ex> <rs ref="register.xml#Maximilian_I." type="person">Caes<ex>ar</ex> Maximiliano</rs>
+                pio, faelici, Augusto, principi tum pacis, tu<ex>m</ex> belli artib<ex>us</ex>, o<ex>mn</ex>ium aetatis suae
+                    Reg<ex>n</ex>u<ex>m</ex> longe
+                        clarissimo sub c<ex>um</ex>q<ex>ue</ex> felici Imp<ex>er</ex>io, inclyta Germania, ipsi<ex>us</ex> p<ex>er</ex>ria, ta<ex>m</ex> armis q<ex>uam</ex> Crar# studÿs pri<ex>us</ex> q<ex>uam</ex> unq<ex>uam</ex> antehac florere, caput<ex>us</ex>
+                        sup<ex>er</ex> alias nationes extollere caepit, c<ex>um</ex>q<ex>ue</ex> insignia
+                        facta tabellis inferiorib<ex>us</ex>, q<ex>uam</ex>vis sub compendio expressa,
+                conspiciunte, Caesar Ferdina<ex>n</ex>d<ex>us</ex>,
+                        Pius, faelix, Augustus, avo p<ex>ater</ex>no, p<ex>er</ex>q<ex>uam</ex> colendo, pietatis atque gratitudinis ergo P. Nat<ex>us</ex> est 27. Martÿ A<ex>nn</ex>o <seg>C. M. CCCC.
+                            LVIIII</seg><note type="annotation">1559</note>, A<ex>nn</ex>o D<ex>omi</ex>ni <seg>M. D. XIX</seg><note type="annotation">1519</note>, die 20
+                        Januarÿ.
+                    
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00020.jpg" n="8v"/>
+                    
+                    (1. Tabula. Matrimonio cum Marta potentissimi Burgudio<ex>num</ex> Ducis, Caroli filia c<ex>ontrac</ex>to,
+                opuletissimae Belgo<ex>rum</ex> ac Seq<hi rend="superscript">a</hi>nox ditiones, Austriacae
+                        domui adjectae. (2, Fuso ad Guynegatu<ex>m</ex> vicu<ex>m</ex> Gallo<ex>um</ex>, q<ex>ui</ex> ex 30000<hi rend="superscript"><unclear>bus</unclear></hi> ho<ex>m</ex>i<ex>n</ex>um <ex>con</ex>stabat,
+                exercitu, magna pars Tynegoniae una cu<ex>m</ex> Imp<ex>er</ex>iali urbe Cameraco recup<ex>er</ex>ato:
+                (3 Atrebatu<ex>m</ex> Arthesiae metropolas, q<ex>uae</ex> antea Gallo<ex>rum</ex> armis
+                cessera<ex>n</ex>t, egregio stratagemate, p<ex>er</ex> noctarnas insidias
+                aceptis hostiu<ex>m</ex> custodys, in potestate<ex>m</ex> redacta. (4 Vivente adhůc p<ex>at</ex>re Friderico 3 Imp<ex>eratore</ex> a Sacri Rom<ex>ani</ex> Imp<ex>erii</ex> Electorib<ex>us</ex> in Regem Rom<ex>anorum</ex> unanimiter elect<ex>us</ex>,
+                ac paulo post Aq<ex>ui</ex>sgrani adhibitis rite caeremonÿs
+                    coronat<ex>us</ex>. (5 Junctis cu<ex>m</ex>
+                        p<ex>at</ex>ruele <rs ref="register.xml#Sigmund_Erzherzog_Oesterreich" type="person">Sigismundo</rs> armis, Rovetu<ex>m</ex> oppidu<ex>m</ex> expugnatu<ex>m</ex>, ac Veneto<ex>rum</ex> copiae, una cu<ex>m</ex> <rs ref="register.xml#Roberto_da_Sanseverino" type="person">Duce Roberto Sanseverino</rs> ad vicu<ex>m</ex>
+                        Gallianu<ex>m</ex> deletae. (6. Univ<ex>er</ex>sae inferioris, Austriae
+                        p<ex>ro</ex>vinciae, q<ex>uae</ex> una cu<ex>m</ex> metropoli <rs ref="register.xml#Vienna" type="place"/>Vienna in p<ex>otes</ex>tate<ex>m</ex>
+                        <rs ref="register.xml#Matyas_I." type="person">Mathiae Corvini</rs> inclyti Hungariae Regis d<ex>e</ex>venerat, intra z#iu<ex>m</ex> mensiu<ex>m</ex> spatiu<ex>m</ex>
+                recup<ex>er</ex>ata. (7 Alba regalis, urbs nobiliss<ex>im</ex>a, in q<ex>ua</ex> Reges
+                Hungariae &amp; inaugurari &amp; sepeliri soleba<ex>n</ex>t, valido
+                exercitu cincta &amp; expugnata, ingens<ex>que</ex>. univ<ex>er</ex>so illi regno
+                terror illat<ex>us</ex>. (8 Facta cu<ex>m</ex> Carolo
+                8 Gallo<ex>rum</ex> Rege pace, Margaritha filia una cu<ex>m</ex>
+                        opulentissimis Burgundiae Arthesiae comitatib<ex>us</ex>, ante id temp<ex>us</ex>,
+                a Lud<ex>ovico</ex> XI. occupatis, recepta. (9 Turca<ex>rum</ex> ingens multitudo<ex>nem</ex> q<ex>uae</ex> in Croatia &amp; Silavonia cu<ex>n</ex>cta ferro
+                &amp; Igne vastaverat, soli<ex>us</ex> ipsi<ex>us</ex> auspicÿs, ac alio<ex>rum</ex> ope,
+                        neq<ex>ui</ex>cq<ex>uam</ex> implorata, inde ejecta. (10 Faed<ex>us</ex> cu<ex>m</ex> <rs ref="register.xml#Alexander_VI." type="person">Alexa<ex>n</ex>der VI.</rs> Pont<ex>ifice</ex>
+                        Max<ex>imo</ex> Senatu Veneto, ac Lud<ex>eveco</ex> Sfortia initu<ex>m</ex> q<ex>uo</ex> media<ex>n</ex>te
+                        <rs ref="register.xml#Charles_VIII." type="person">Carol<ex>us</ex> VIII</rs> Gallo<ex>rum</ex> Rex regnu<ex>m</ex>
+                    Neapolitanu<ex>m</ex>, a se subjugatu<ex>m</ex>,
+                deserere ac domu<ex>m</ex> redire coact<ex>us</ex>. (11
+                Ducta in m<ex>at</ex>rimoniu<ex>m</ex> Blanca Maria principis Mediolani
+                        filia, receptoq<ex>ue</ex> a´ Lud<ex>ovico</ex> Sfortia fidei juramento, ducat<ex>us</ex> Mediolani ad obedientia<ex>m</ex> Imperÿ
+                sine sanguine reduct<ex>us</ex>. (12. Conciliatis inter filiu<ex>m</ex> suu<ex>m</ex> Philipp ac inclyto<ex>rum</ex> Reg<ex>um</ex> Ferdina<ex>n</ex>di &amp; Elizabethae
+                    filia<ex>m</ex> Johanna<ex>m</ex> nuptÿs, ad
+                ampliss<ex>imorum</ex> Hispaniae regno<ex>rum</ex> sucessione<ex>m</ex> adit<ex>us</ex> posteris ipsi<ex>us</ex> ap<ex>er</ex>t<ex>us</ex>. (13 Bohemi q<ex>ui</ex> sororiu<ex>m</ex> ipsi<ex>us</ex> Albertu<ex>m</ex> Bavariae Duce<ex>m</ex>, mercede c<ex>on</ex>ducti
+                        oppugnatu<ex>s</ex> advenerant, memorabili (p<ex>rae</ex>lio p<ex>ro</ex>pe urbe<ex>m</ex> <rs ref="register.xml#Regensburg" type="place">Ratispbona<ex>m</ex></rs> plurimas illo<ex>rum</ex>
+                inter fectis, sup<ex>er</ex>ati. (14 Kuefsteinio ac Geroltzecko
+                munitissimis artib<ex>us</ex> expugnatis septem insignes p<ex>rae</ex>fecturae,
+                        dictioni Austriacae partim adjector, partim q<ex>uasi</ex> postliminio q<ex>uo</ex>da<ex>m</ex> restitutae. (15 Arnhemio, q<ex>uod</ex>
+                    primariu<ex>m</ex> Geldriae oppidu<ex>m</ex>
+                e<ex>st</ex>, capto Carolo Duci Geldriae, q<ex>ui</ex> Gallo<ex>rum</ex> partes secut<ex>us</ex>,
+                    reb<ex>us</ex>. in inferiori Germ<ex>ania</ex> nova<ex>ndis</ex>
+                        semp<ex>er</ex>. studuerat, pax supplici data.
+                        
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00021.jpg" n="9r"/>
+                        
+                    (16. Percusso cu<ex>m</ex> Julio II Pont<ex>ifice</ex> Max<ex>imo</ex> ac Hisp<ex>aniarum</ex> &amp; Gall<ex>iae</ex>
+                    regib<ex>us</ex>, foedre, Veneti tota p<ex>ro</ex>pemodu<ex>m</ex> c<ex>on</ex>tineti, q<ex>uam</ex> in Italia possidebant depulsi, &amp; ad summa<ex>m</ex> re<ex>rum</ex> desper<ex>ation</ex>em aducti. (17 Insignes Veneto<ex>rum</ex> urbes
+                    Pataviu<ex>m</ex>, Vicentia, una cu<ex>m</ex> magna
+                Fori Julÿ parte in potestate<ex>m</ex> redactae, Brixia vero
+                        auxiliarib<ex>us</ex> Gallo<ex>rum</ex> armis expugnata. 18. Societate cu<ex>m</ex> Julio Pontifice &amp; pagis Helvetio<ex>rum</ex> <ex>contra</ex>cta, Galli penity
+                        Italia ejecti, Maximilian<ex>us</ex>q<ex>ue</ex> Sfortia tot ja<ex>m</ex> annis exul, p<ex>ate</ex>rno Insubriae principatui restitut<ex>us</ex>. (19 Junctis cu<ex>m</ex> Henrico VIII, Anglo<ex>rum</ex>
+                rege virib<ex>us</ex> ite<ex>rum</ex> ad vicu<ex>m</ex> Amy:
+                    negata<ex>m</ex> Locu<ex>m</ex> anti<ex>qua</ex> Caesaris victoria fatale<ex>m</ex>,
+                insigni p<ex>rae</ex>lio &amp; p<ex>ro</ex>fligat<ex>us</ex> Gallo<ex>rum</ex> exercit<ex>us</ex>. (20 Terrovana Moreno<ex>rum</ex> excisa, Turnacu<ex>m</ex> vero priscae bellicosi a fortissimi Nervio<ex>rum</ex> populi colonia, insignis
+                        civitas, post leve<ex>m</ex> oppugratione<ex>m</ex>, in fidem accepta. (21,
+                    Bartholome<ex>us</ex> Livian<ex>us</ex> excelsi
+                no<ex>mi</ex>nis Dux cu<ex>m</ex> ingenti Veneta<ex>rum</ex> copia<ex>rum</ex> apparatu a parva
+                        Caesareano<ex>rum</ex> militu<ex>m</ex> Germ<ex>anorum</ex> ac Hispan<ex>iorum</ex> <foreign xml:lang="lat">manu p<ex>ro</ex>pria</foreign><note type="translation" resp="as">eigenhändig</note> Vicentia<ex>m</ex> fus<ex>que</ex> &amp; fugat<ex>us</ex>. (22, Maracu<ex>m</ex> oppidu<ex>m</ex>
+                astu captu<ex>m</ex> obsidentib<ex>us</ex> id paulo
+                post Venetis, eruptione inde facta cu<ex>m</ex> Paulo Manerono &amp;
+                Baltasare Scipione, acerrimis hostiu<ex>m</ex> Ducib<ex>us</ex> feliciter pugnatu<ex>m</ex>. (23 Conventu cu<ex>m</ex> Hung<ex>ariae</ex> ac Polon<ex>iae</ex> Regib<ex>us</ex> Vienae
+                        habito, <ex>contra</ex>ctis<ex>que</ex> hinc inde m<ex>at</ex>rimonÿs nepotib<ex>us</ex> ipsi<ex>us</ex>
+                        via ac<ex>que</ex>re<ex>n</ex>dis ampliss<ex>imis</ex> Hunga<ex>riae</ex> ac Bohem<ex>iae</ex> regnis strata. (24 Urbs Verona op<ex>er</ex>a M.
+                Antonÿ Columnae submissisq<ex>ue</ex> p<ex>er</ex> Gulielmu<ex>m</ex> Rogendorffium commeatu &amp; subsidÿs, adv<ex>ersus</ex> immensa<ex>m</ex> vim oppugnatiu<ex>m</ex> Gallo<ex>rum</ex> &amp; Veneto<ex>rum</ex>
+                        strenue <w>defensa.</w><note type="annotation">An dieser Stelle befindet sich eine Zeichnung Augusts zur Lage der Gräber</note> Vmb d<ex>a</ex>z Epitaphiu<ex>m</ex> ist gar ein schöneß
+                Eysenes gitter gesetzet word<ex>en</ex>. Jn d<ex>er</ex>selben Kirche<ex>n</ex> ist auch zusehe<ex>n</ex> eine schöne Capell darinne<ex>n</ex> die Altartafell vnd
+                alleß waß zur Messe gehörett, vo<ex>n</ex> lauter Silber gemachett;
+                daselbsten ist d<ex>a</ex>z Epitaphiu<ex>m</ex>
+                    <rs ref="register.xml#Ferdinand_II." type="person">Ertzhertzog Ferdinands</rs> zuseh<ex>en</ex>, welches vo<ex>n</ex> schwartzem <w>Marmoll</w><note type="annotation">Marmor</note> gemachet, an welche<ex>m</ex> ein
+                Künstlich eÿsenes <ex>ver</ex>silbertes getter: Ite<ex>m</ex> d<ex>a</ex>z monumentu<ex>m</ex> d<ex>er</ex> <rs ref="register.xml#Philippine_Welser" type="person">Philippinae Welferin</rs>, so obgemeldter Ertzhertzog mitt
+                gewaldt von Augßpurg entführett, welche er hernacher geehligett, so ex seq<ex>uitur</ex>:
+                    zuersehe<ex>n</ex>. Philippinae Conjugi clarissimo<ex>rum</ex> hoc
+                    monůmentu<ex>m</ex> poni curavit <w>rc.</w><note type="annotation">etc.</note>
+                Weÿter d<ex>a</ex>z Fürstliche schlos so gewaltig weÿt vmbgrieffen,
+                    darinne<ex>n</ex> d<ex>er</ex> Ertzhertzog nicht
+                allzeit sicher hatt wohne<ex>n</ex> Konne<ex>n</ex>,
+                        vo<ex>n</ex> wege<ex>n</ex> d<ex>er</ex> erdbiebe<ex>n</ex>, darumb er hernach
+                    
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00022.jpg" n="9v"/>
+                    
+                ein schloß vo<ex>n</ex> lauterm, holtze hatt bawen lassen, darauf er
+                        hernach sicherer hatt hofhelte<ex>n</ex> Könne<ex>n</ex>. Ferner die Rentereÿ da ein Kleiner ercker außwendig zu oberst <ex>ver</ex>güldt, welcher genennett wirdt d<ex>a</ex>z <ex>ver</ex>güldte tach.
+                Aussen vor d<ex>er</ex> stadt etwa eine halbe Teutsche meÿlle ist
+                        zusehe<ex>n</ex> ein schloß so aufm berge liegt, genandt <w>Amorus</w><note type="annotation">Schloss Ambras</note>,
+                daselbsten gezeigett wirdt ein schöne Rüstkammer, vo<ex>n</ex>
+                allerhandt Rustung<ex>en</ex> vnd wehre<ex>n</ex>:
+                        Jmgleiche<ex>n</ex> auch eine Kunstkammer. </p></div>
+                <div xml:id="E1598-10-29"><head><date when="1598-10-29">Den 29 Octob<ex>ris</ex> <c>☉</c> </date></head> <p>biß <rs ref="register.xml#Wilten" type="place">Wilten</rs> Kloster, alda eineß Riese<ex>n</ex> statua zuseh<ex>en</ex> vnd eine zunge vo<ex>n</ex> einem Trache<ex>n</ex>, welche d<ex>er</ex> Riese beÿ nacht erleget, dieweill er ihm allezeitt, waß er
+                deß tages mitt eigenen händ<ex>en</ex> an dem Kloster gebawett, deß
+                nachtes wied<ex>er</ex> eingerissen; d<ex>er</ex> <rs ref="register.xml#Schoenberg_im_Stubaital" type="place">Schönberg</rs>, <rs ref="register.xml#Schoenberg_im_Stubaital" type="place">Schönberg</rs> dorf, <rs ref="register.xml#Matrei_am_Brenner" type="place">Martira</rs> Flecke<ex>n</ex>, <rs ref="register.xml#Steinach_am_Brenner" type="place">Steinach</rs>
+                    fleck<ex>en</ex>, zu<ex>m</ex> Schwartze<ex>n</ex> Adler 4 meÿll, biß an den <rs ref="register.xml#Brenner" type="place">Brenner</rs> so ein grosser berg,
+                nicht weitt vo<ex>n</ex> demselbe<ex>n</ex> ist in
+                    Messing zur gedechtnůß gegossen word<ex>en</ex>, wie <rs ref="register.xml#Karl_V." type="person">Keÿser Carll d<ex>er</ex> fünffte</rs>, auß Hispanien, vnd <rs ref="register.xml#Ferdinand_I." type="person">Erthertzog Ferdinandt</rs> sein
+                    Brud<ex>er</ex> auß Vngern, an demselbe<ex>n</ex>
+                    Ohrt ohngefehr einand<ex>er</ex> sein begegnett A<ex>nn</ex>o 1530. biß <rs ref="register.xml#Colle_Isarco_Gossensass" type="place">Kostensee</rs> groß dorf, <rs ref="register.xml#Vipiteno" type="place">Sturtzing<ex>en</ex></rs> 
+                    Fleck<ex>en</ex> zur rose<ex>n</ex> 3 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p></div>
+                <div xml:id="E1598-10-30"><head><date when="1598-10-30">Den 30. Octob<ex>ris</ex>
+                    <c>☽</c> </date></head> <p>biß <rs ref="register.xml#Mules" type="place">Malis</rs> dorf, <rs type="place">Sack</rs> dorf, Ein
+                loch im stein da die reÿsende Zur kurtzweill durchkriech<ex>en</ex>,
+                <rs ref="register.xml#Mittewald" type="place">Mittewaldt</rs> rf, <rs ref="register.xml#Brixen" type="place">Brixe<ex>n</ex></rs> stadt, zum Schwartze<ex>n</ex> Adler, 4. biß <rs type="place">Schram dorf</rs>, zur <rs ref="register.xml#Klausen" type="place">Clausen</rs>, Fleck<ex>en</ex>,
+                        <rs ref="register.xml#Kollmann" type="place">Colma<ex>n</ex></rs> dorf 3 meÿll <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note>
+                7.</p></div>
+                <div xml:id="E1598-10-31"><head><date when="1598-10-31">Den 31 Octob<ex>ris</ex>
+                    <c>♂</c> </date></head> <p>biß zum <rs type="place">Kaltenkeller</rs> dorf,
+                <rs ref="register.xml#Bozen" type="place">Botzen</rs> Stadt zu<ex>m</ex> Cardinallßhuett 3 meill.</p></div>
+                <div xml:id="E1598-11-01"><head><date when="1598-11-01">Den 1 Nove<ex>m</ex>b<ex>ris</ex>
+                    <c>☿</c> </date></head> <p>biß <rs ref="register.xml#Egna_Neumark" type="place">Newmarck</rs> fleck<ex>en</ex> zur krone<ex>n</ex> 3 meÿll, bis <rs ref="register.xml#Salorno" type="place">Solurno</rs>
+                dorf alda ein Schloß, darauf vo<ex>n</ex> weg<ex>en</ex>
+                d<ex>er</ex> vielen gespenste, Keiner sicher wohne<ex>n</ex> Kan, stehet aůfm berge, wüste, vnd einöde. <rs type="place">Neving</rs> dorf 3
+                meÿll <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6. Zur Krone<ex>n</ex>.</p></div>
+                <div xml:id="E1598-11-02"><head><date when="1598-11-02">Den 2 Nove<ex>m</ex>b<ex>ris</ex>
+                    <c>♃</c> </date></head> <p>biß <rs ref="register.xml#Trento" type="place">Triendt</rs> stadt alda
+                    zubeseh<ex>en</ex> d<ex>a</ex>z schloß, die
+                    kirche<ex>n</ex>, darinne<ex>n</ex> d<ex>a</ex>z Conciliu<ex>m</ex> A. C 1546 gehalte<ex>n</ex> word<ex>en</ex>. Jte<ex>m</ex>
+                die Kirche in welcher gezeiget wirdt ein Kleines Kindt, so vor viell Jahren vo<ex>n</ex> d<ex>en</ex> Juden, Jämerlich soll gemartert
+                vnd getödtet word<ex>en</ex> sein: Auß welcher vrsache sein Cörper wie
+                sie fürgeb<ex>en</ex> nimmer Kan (wie zwar zuseh<ex>en</ex> ist) <ex>ver</ex>wese<ex>n</ex>; nome<ex>n</ex> fuit Simon, biß <rs type="place">Persing</rs> dorf Zum Creutz 2 meÿll (Bandite<ex>n</ex> Orth) <rs ref="register.xml#Loeweneck" type="place">Leving<ex>en</ex> </rs> dorf, <rs type="place">Nöfe</rs>
+                        dorf, <rs ref="register.xml#Burg_im_Suganertal" type="place">Burgaw</rs> dorf zum schwartze<ex>n</ex> Adler 2 meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 4.</p></div>
+                <div xml:id="E1598-11-03"><head><date when="1598-11-03">Den 3 Nove<ex>m</ex>b<ex>ris</ex>
+                    <c>♀</c> </date></head> <p>biß <rs ref="register.xml#Ospedaletto" type="place">Hospitall</rs> dorf, <rs type="place">Grimma</rs>
+                dorf zum schwartzen Adler, <hi rend="superscript">(</hi>2 meill (venediger
+                gebiethe) <rs ref="register.xml#Primolano" type="place">Primolano</rs> dorf; auf d<ex>er</ex> r<ex>echten</ex> s<ex>eite</ex> zeiget ma<ex>n</ex>
+                        <seg>ettliche berge, welche obe<ex>n</ex> eine grosse ebene habe<ex>n</ex> solle<ex>n</ex></seg><note type="annotation">Hochebene von Asiago</note>, daraůf vielle leuthe wohnen,
+                vnd grosse dörfer hinaufgebawett habe<ex>n</ex>. <seg>Jhren vrsprung wöllen
+                sie vo<ex>n</ex> den Gothen od<ex>er</ex> Schlesiern her
+                    rächnen:</seg><note type="annotation">Sieben Gemeinden, deutsche Sprachinseln der Zimbern <ref target="https://de.wikipedia.org/wiki/Sieben_Gemeinden_(Italien)">Wikipedia</ref></note> dan dieselbe zur zeitt des krieges sich flüchtig auf diese berge sollen <ex>ver</ex>steckett habe<ex>n</ex>: Jhre Sprache ist
+                alt Teutsch
+                    
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00023.jpg" n="10r"/>
+                    
+                    vnd welsch; Sie erkenne<ex>n</ex> vor ihre Oberherre<ex>n</ex> die stadt <rs ref="register.xml#Venedig" type="place">Venedig</rs>, sie seindt sonste<ex>n</ex> fr<del>y</del>eÿe leuthe <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> <rs ref="register.xml#Covelo" type="place">Covelo</rs> schloß, welches in einen felsen
+                gehawen, vnd niemandts Kan hinaůfkomme<ex>n</ex>, er w<ex>er</ex>de dan mitt einem grossen Seÿll hinaufgezog<ex>en</ex>: gehörett ihrer Keÿserlen Majestät zusehe: ist ein
+                schlüssell <del rend="overstrike">d<ex>a</ex>z</del> zu Teutschlandt, ist mitt geschutz vnd
+                munition woll <ex>ver</ex>seh<ex>en</ex>: eß wohnet ein
+                edelman daroben mitt seine<ex>m</ex> gantze<ex>n</ex>
+                    haußgesinde. <rs ref="register.xml#Cismon_del_Grappa" type="place">Cismona</rs> dorf, <rs ref="register.xml#Carpenedo" type="place">Carpenetta</rs> dorf <hi rend="superscript">(</hi>3 meÿll
+                    <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5. </p></div>
+                <div xml:id="E1598-11-04"><head><date when="1598-11-04">Den 4 Nov<ex>embris</ex> <c>♄</c> </date></head> <p>biß <rs ref="register.xml#Malo" type="place">Melardo</rs> dorf, <rs type="place">Tannafara</rs>, dorf, <rs type="place">Colania</rs> 
+                    dorf, <rs ref="register.xml#Schio" type="place">Scholanio</rs> dorf, (welschgebirge ende) <rs ref="register.xml#Bassano_del_Grappa" type="place">Basiano</rs> stadt zum stern, 1 ½ meill, <rs ref="register.xml#Rosa" type="place">La
+                        Rosalda</rs> dorf, <rs ref="register.xml#Cittadella" type="place">Cittadella</rs> stadt, zum Adler 1 ½ meill <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 3.</p></div>
+                <div xml:id="E1598-11-05"><head><date when="1598-11-05">Den 5 Nov<ex>embris</ex> <c>☉</c></date></head> <p> biß <rs ref="register.xml#Padova" type="place">Padua</rs> stadt zůr glock<ex>en</ex>
+                <hi rend="superscript">(</hi>3 meill; diese stadt ist sehr groß vnd hörett den
+                    Venetianern zů, alda eine Univ<ex>er</ex>sitet so vo<ex>n</ex> <rs ref="register.xml#Ferdinand_II." type="person">Keÿser
+                Friderico</rs> <hi rend="superscript">(</hi>2 zu <ex>ver</ex>achtung vnd
+                    <ex>wer</ex>d<ex>en</ex> d<ex>er</ex>
+                Bononieser ist aůfgebawet vnd aufgerichtet word<ex>en</ex> dieweill
+                    sie es mitt dem <rs ref="register.xml#Gregorius_IX." type="person">Bapst</rs>, d<ex>er</ex> des Keÿserß feindt, gehalten
+                haben; studiu<ex>m</ex> Medicu<ex>m</ex> florieret
+                    daselbste<ex>n</ex> zum höh<unclear>st</unclear>en vornehmlich d<ex>em</ex> Anatomicu<ex>m</ex>, in ansehung die
+                studiosi Medicor facultatis privilegia hab<ex>en</ex>, einen er seÿ
+                wer er wölle, auch auß d<ex>er</ex> kirche<ex>n</ex>
+                wiederumb auszugraben, vnd zu anatomieren. Jegliche facult<ex>ät</ex> hatt ihren Rectoren,
+                welcher auß d<ex>en</ex> stud<unclear>o</unclear>sis wirdt genommen.</p></div>
+                <div xml:id="E1598-11-09"><head><date when="1598-11-09">Den 9 Novemb<ex>ris</ex>
+                    <c>♃</c> </date></head> <p>beseh<ex>en</ex>
+                    d<ex>en</ex> palatiu<ex>m</ex> od<ex>er</ex> Curia<ex>m</ex>, darinnen d<ex>er</ex>
+                podesta wohnett, welches ob eß woll über die masse lang vnd breitt, vnd mitt einer
+                grossen bürde alß mitt bleÿ bedeckett; ist es doch mitt Keiner Seulen fulcieret
+                    od<ex>er</ex> gestützet (p<ex>er</ex> notatu dignu<ex>m</ex>),
+                    sond<ex>er</ex>n obe<ex>n</ex> mitt vielem eÿsen <ex>ver</ex>seh<ex>en</ex>. Aůf diesem pallatio ist des
+                        <rs ref="register.xml#Titus_Livius" type="person">T. Livÿ Historici</rs> <unclear>q</unclear>fäth, weill er von <rs ref="register.xml#Padova" type="place">Padua</rs> bürdig gewese<ex>n</ex>
+                zur gedechtnůß in einer mawre<ex>n ver</ex>fassett, darunter
+                nachfolgende verß </p>
+                    <p><foreign xml:lang="lat">Ossa, tuum<ex>que</ex> caput cives tibi maxime Livi</foreign><note type="translation" resp="as">Deine Gebeine und dein Haupt haben die Bürger dir, höchster Livius,</note></p>
+                    <p><foreign xml:lang="lat">Prompto animo hic omnes composuere tui.</foreign><note type="translation" resp="as"/></p>
+                    <p><foreign xml:lang="lat">Tu fama<ex>m</ex> aeterna<ex>m</ex>, Romae patriaeque dedisti:</foreign><note type="translation" resp="as"/></p>
+                    <p><foreign xml:lang="lat">Huic oriens, illi fortia facta canens.</foreign><note type="translation" resp="as"/></p>
+                    <p><foreign xml:lang="lat">At tibi dat p<ex>at</ex>;ria haec, &amp; si majora Liceret,</foreign><note type="translation" resp="as"/></p>
+                    <p><foreign xml:lang="lat">Hoc tot<ex>us</ex> stares aureus ipse Loco.</foreign><note type="translation" resp="as"/></p>
+                    <p><foreign xml:lang="lat">T. Livi<ex>us</ex> 4 to Imperÿ Tyb: Caesaris anno, vita excessit:
+                        Aetatis vero</foreign><note type="translation" resp="as">Titus Livius virter </note> <foreign xml:lang="lat">suae, L X X V I.</foreign></p></div>
+                    <div xml:id="E1598-11-11"><head><date when="1598-11-11">Den 11. Nov<ex>embris</ex> <c>♄</c> </date></head> <p>biß <rs ref="register.xml#Vicenza" type="place">Vicentz</rs> stadt (alda eß gar diebisch
+                        vnd mörderisch volck hatt, d<ex>a</ex>z ein sprichwortt vo<ex>n</ex> ihm außgang<ex>en</ex>; <foreign xml:lang="it">Vicentini o sono
+                            Ladri; o sono assassini</foreign><note type="translation" resp="as">Die Vincentiner sind Diebe oder Mörder</note>: Man findet da viell nied<ex>er</ex>gerißne
+                Heÿser, an deren stadt eine Seůle gesetzett, darann gehawen, waß die Herre<ex>n</ex> d<ex>er</ex>selbig<ex>en</ex>
+                heůser für mörderische thaten
+                        
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00024.jpg" n="10v"/>
+                        
+                   begang<ex>en</ex>, vnd Können dieselbe nimmermehr wied<ex>er</ex> erbawett vnd bewohnett werd<ex>en</ex>) 3 ½ meÿll zum
+                Cardinalßhuett.</p></div>
+                <div xml:id="E1598-11-12"><head><date when="1598-11-12">Den 12 Novembr<ex>is</ex> <c>☉</c> </date></head> <p>biß <rs ref="register.xml#Montebello_Vicentino" type="place">Montebella</rs> dorf, <rs type="place">La torre</rs> dorf,
+                    <rs ref="register.xml#Villanova" type="place">Villanova</rs> dorf 3 ½ mittags, biß <rs ref="register.xml#San_Martino_del_Aubergo" type="place">S<ex>anct</ex> Martin</rs>, biß <rs type="place">S<ex>anct</ex> Michaël</rs> dorf 2 ½ <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 6. gar nahe beÿ <rs ref="register.xml#Verona" type="place">Verona</rs>. Beÿ
+                diesem dorf ist zuseh<ex>en</ex>, dies herrliche ebene feldt, Campagna
+                Veronese genandt, so 20 welsche d<ex>a</ex>z ist 4 Teutsche meÿll
+                lang, wirdt vo<ex>n</ex> d<ex>en</ex> Scribenten
+                gerümbt, von weg<ex>en</ex> d<ex>er</ex> schlachten so
+                alda gehalten word<ex>en</ex>, zwischen C. Marium, Römischen
+                Burgemeÿster vnd die Cimbros, deren er 140000 auf einen tagk erschlag<ex>en</ex> vnd 60000 gefang<ex>en</ex>. Jtem:
+                    zwische<ex>n</ex> Odoacre<ex>m</ex>
+                    Herůlu<ex>m</ex> Italiae Tyrannu<ex>m</ex>,
+                    vnd <rs type="person">Theodox d<ex>er</ex> Ostrogoth<ex>en</ex> könig</rs>.
+                    Ite<ex>m</ex> ist auf obgemeldter ebne geschlag<ex>en</ex> word<ex>en</ex>, <rs ref="register.xml#Arnulf_I." type="person">Hertzog Arnoldt auß Baÿern</rs>. Fernerß
+                siehett ma<ex>n</ex> auf dem wege den berümbten berg Baldum da
+                selzame, nůtzbarliche Kreůter gefůnd<ex>en</ex> werd<ex>en</ex>: nach diese<ex>m</ex> berge verfüeg<ex>en</ex> sich Jährlichen auß Italia, vielle gelerthe vnd erfahrne
+                Männer vnd Medici, simplicia daselbsten zusamlen. Verner siehet eine runde Kirche
+                    od<ex>er</ex> Capell an d<ex>er</ex> strassen, in
+                welcher ein Marienbild, so groß wund<ex>er</ex>werck soll gethaen
+                haben, vnd deßweg<ex>en</ex> ist eine grosse wallfarth dahin: die
+                Capell ist auß dem gelde gebawett, so die wallfahrende leuthe, auß blindheitt dem
+                bilde geschencket.</p></div>
+                <div xml:id="E1598-11-13"><head><date when="1598-11-13">Den 13 Novemb<ex>ris</ex>
+                    <c>☽</c> </date></head> <p>biß <rs ref="register.xml#Verona" type="place">Verona</rs> stadt all
+                <rs type="place">Cavalletto</rs>, vo<ex>n</ex> dannen die post genomme<ex>n</ex> biß <rs ref="register.xml#Villafranca_di_Verona" type="place">Villa franca</rs>, <rs ref="register.xml#Marmirolo" type="place">Marmiroll</rs>, <rs ref="register.xml#Mantova" type="place">Mantua</rs> stadt, 5 meill, in 3 stund<ex>en.</ex></p></div>
+                <div xml:id="E1598-11-14"><head><date when="1598-11-14">Den 14 Novemb<ex>ris</ex>
+                    <c>♂</c> </date></head> <p>biß <rs ref="register.xml#Chastellucchio" type="place">Castelmo</rs> schloß, <rs ref="register.xml#Marcaria" type="place">Marcaria</rs>,
+                dörfle 3 meÿll. <rs ref="register.xml#San_Martino_dall_Argine" type="place">S<ex>anct</ex> Martino</rs> fleck<ex>en</ex>,
+                <rs ref="register.xml#Bozzolo" type="place">Bozo</rs> fleck<ex>en</ex> mitt eine<ex>m</ex> Castell, <rs type="place">S<ex>anct</ex> Jacomo di Lape</rs>, Fullin bloß wirtzhauß <hi rend="superscript">(</hi>2 meÿll <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 5. </p></div>
+                <div xml:id="E1598-11-15"><head><date when="1598-11-15">Den 15 Nove<ex>m</ex>b<ex>ris</ex>
+                    <c>☿</c> </date></head> <p>biß <rs ref="register.xml#Cremona" type="place">Cremona</rs> stadt (, alda
+                    zuseh<ex>en</ex> d<ex>a</ex>z pallatium urbis, wie
+                dan auch viell andere stadtliche pallatia: Item ein altt begrebnůß eines vo<ex>n</ex> Adelß, welcher begerth, d<ex>a</ex>z ma<ex>n</ex> ihn mitten in d<ex>er</ex> stadt begrab<ex>en</ex> möchte: welches dan gescheen, vnd stehett nicht weitt
+                    vo<ex>n</ex> S<ex>anct</ex> Domenici Kirch<ex>en</ex>. Dieweÿll dohmahln S<ex>anct</ex> Catharinae
+                tag war, hatt man ein stadtliche Fest gehalten in S<ex>anct</ex>
+                Catharinae Kirche<ex>n</ex> zur gedechtnůs, d<ex>a</ex>z
+                sie auf d<ex>en</ex> tag vorzeiten sein erledigett word<ex>en</ex> vo<ex>n</ex> eine<ex>m</ex>
+                    grosse<ex>n</ex> vnglück, od<ex>er</ex> gefahr:
+                Padus, Addua, Oy, Ticin<ex>us</ex> fliessen da nicht weitt herumb die
+                stadt) zum schwartze<ex>n</ex> Adler 3 meill, (gefehrlicher Orth
+                weg<ex>en</ex> d<ex>er</ex> Banditen) <rs ref="register.xml#Pizzighettone" type="place">Bizigeton</rs>
+                    fleck<ex>en</ex>, mitt d<ex>er</ex> fähre über den
+                flůß Addua, <rs type="place">Gierra di pizigeto<ex>n</ex></rs> fleck<ex>en</ex>, 2 ½ meÿll <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5. ½ alda ma<ex>n</ex> d<ex>er</ex> Königinne<ex>n</ex> auß
+                Spanien eine Schifbrucke gebawett.</p></div>
+                <div xml:id="E1598-11-16"><head><date when="1598-11-16">Den 16 Novembr<ex>is</ex>
+                    <c>♃</c> </date></head> <p>biß <rs ref="register.xml#Cavacurta" type="place">Cavalcurto</rs> dorf, <rs ref="register.xml#Castiglione_d_Adda" type="place">Castion</rs> 
+                dorf (einer d<ex>en</ex> vorige<ex>n</ex> abendt vo<ex>n</ex> de<ex>n</ex> banditen, erschlagen, d<ex>er</ex> an d<ex>er</ex> strassen geleg<ex>en</ex>.)
+                    
+                <pb facs="http://selbstzeugnisse.hab.de/edition/images/00025.jpg" n="11r"/>
+                    
+                    <rs ref="register.xml#Lodi" type="place">Lodi</rs>, Latinis Laudu<ex>m</ex>, stadt, zum Hirsch 3 ½. <rs ref="register.xml#Melegnano" type="place">Maringnano</rs> stadt,
+                    <rs ref="register.xml#Mailand" type="place">Meÿlandt</rs> grosse stadt, 4 meÿll zum falck<ex>en</ex>, <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 7 ½, in
+                        welcher vorzeiten die Römische Keÿser, die eÿserne Krone von Ertzbischof daselbsten, empfang<ex>en</ex> hab<ex>en</ex>.</p></div>
+                
+                <div xml:id="E1598-11-17"><head><date when="1598-11-17">Den 17 Novemb<ex>ris</ex>
+                    <c>♀</c> </date></head> <p>beseh<ex>en</ex>
+                        die hauptkirche od<ex>er</ex> Il domo, welche vo<ex>n</ex> lauter weissen vnd schwartzen <w>marmoll</w><note type="annotation">Marmor</note> aufgebawett; ist aber noch nicht
+                gantz außgemachett. Vnter den bildern deren ausswendig an d<ex>er</ex> kirche<ex>n</ex> sehr
+                vielle vnd Künstliche sein, wirdt auch gezeiget, d<ex>er</ex>
+                geschůndene <rs ref="register.xml#Bartholomaeus" type="person">Bartholomae<ex>us</ex></rs>: welcher seine hautt vnterm arm
+                tregtt, vnd siehett man ihm die rippen, gebein, adern vnd sehnen gantz eigendtlich: vnter welch<ex>em</ex> dieser verß stehett: Non me praxiteles, sed Mari<ex>us</ex> finxit Agrotus. <hi rend="superscript">(</hi>2 d<ex>a</ex>z Hospitall welches sehr woll <ex>ver</ex>seh<ex>en</ex>, hatt Jehrlich 130000 kr<ex>euzer</ex> einkomme<ex>n</ex>: ist ein großmechtig gebew. Ite<ex>m</ex> d<ex>a</ex>z pallatium des Connestabelß od<ex>er</ex> ViceRegis (d<ex>er</ex> vo<ex>m</ex> König aůß Hispanien dahin
+                gesetzett word<ex>en</ex>.) Welcheß ziemblich schön, vnd einen weÿten
+                Platz hatt, daselbsten ein Adler zuseh<ex>en</ex>.</p></div>
+                
+            <div xml:id="E1598-11-18"><head><date when="1598-11-18">Den 18 Nove<ex>m</ex>b<ex>ris</ex> <c>♄</c></date></head> <p> beseh<ex>en</ex> d<ex>a</ex>z gewaltige berumbte Castell,
+                Porta Zobia genandt, so eineß vnter d<ex>en</ex> grösten vnd festen
+                Castellen Europae ist, hatt 4 vnterschiedliche Porten od<ex>er</ex> eingenge, beÿ d<ex>er</ex> letzte<ex>n</ex> nach
+                dem schloß wertß stehen 2 gewaltige, grosse Carthaůnen, Eß ist auch zu notiere<ex>n</ex> ein groß <w>stück</w><note type="annotation">Geschütz, Kanone, Waffe</note> so <rs ref="register.xml#Karl_V." type="person">Keÿser Carol<ex>us</ex></rs> <hi rend="superscript">(</hi>5 de<ex>m</ex> Churfürste<ex>n</ex> vo<ex>n</ex> Sachse<ex>n</ex> <rs ref="register.xml#Johann_Friedrich_von_Sachsen" type="person">Johanni
+                Friederico</rs> abgenomme<ex>n</ex> auf welch<ex>en</ex>
+                ettliche Reÿme wied<ex>er</ex> d<ex>en</ex> Babst
+                    gegrab<ex>en</ex> gewese<ex>n</ex>, sampt de<ex>m</ex> Babst, so neb<ex>en</ex> de<ex>m</ex> Teůfell gestand<ex>en</ex>, welcheß durch anstifftůng
+                eineß Jesuiters außgekratzet word<ex>en</ex>. Auf d<ex>er</ex> eine seÿte nach dem felde werts, seindt 2 sehr grosse vnd starcke thürn
+                aus quadersteinen gebawett, welche wie spitze Diamanten formierett: Die nimmer
+                gezeigett werd<ex>en</ex>: Sie steh<ex>en</ex> so weÿt
+                in d<ex>er</ex> erd<ex>en</ex> alß heraussen. Jst mitt
+                allem woll verseh<ex>en</ex>, insond<ex>er</ex>heitt
+                mitt Profiandt auf 6 Jahr, hatt eine Pulvermühle, wie dan auch eine Brodmühle, so
+                ihr mitt gewaldt nicht kan genomme<ex>n</ex> werd<ex>en</ex>. Dieß Castell soll niema<subst><del>ldt</del><add>hls</add></subst> mitt gewaldt eingenomme<ex>n</ex> word<ex>en</ex> sein, sond<ex>er</ex>n
+                    entwed<ex>er</ex> mitt verretereÿ, od<ex>er</ex>
+                durch mangell d<ex>er</ex> victualien. </p></div>
+            <div xml:id="E1598-11-19"><head><date when="1598-11-19">Den 19 Novemb<ex>ris</ex> <c>☉</c></date></head> <p> auf d<ex>en</ex> abendt die
+                Vesper sing<ex>en</ex> hören, in S<ex>anct</ex> Maria
+                nonciata. kloster, in welchem eine Nonne, so schön gesung<ex>en</ex>
+                    d<ex>a</ex>z fast vngläublich vnd nicht gnůegsam Kan gesagt
+                werd<ex>en</ex> im <w>Colleriren</w><note type="annotation">Im Gesang wird die Verzierung der Gesangsstimme als Koloratur bezeichnet</note>, wie dan auch im mordieren.</p></div>
+            <div xml:id="E1598-11-20"><head><date when="1598-11-20">Den 20 Novemb<ex>ris</ex>
+                <c>☽</c> </date></head> <p>ist die <rs ref="register.xml#Isabella_Clara_Eugenia_von_Spanien" type="person">Königliche Brautt</rs> des
+                <rs ref="register.xml#Isabella_Clara_Eugenia_von_Spanien" type="person">Königß aus Hispanien</rs>, sampt dem <rs ref="register.xml#Pietro_Aldobrandini" type="person">Cardinall Aldobradino</rs>, d<ex>er</ex>
+                ihr an d<ex>er</ex> seÿte<ex>n</ex> vnterm
+                
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00026.jpg" n="11v"/>
+                
+                himmell geritten, ihre <rs ref="register.xml#Maria_von_OEsterreich" type="person">Fraw Mutter</rs>, auch <rs ref="register.xml#Albrecht_VII." type="person">Ertzhertzog Albrecht</rs>, gantz stadtlich vnd
+                mitt grossem Pomp eingezogen, den gantze<ex>n</ex> abendt 6 stunde in
+                die nacht hatt man hauffen lichter in allen gassen gebrennett, da die Königliche
+                diener zuthuen gehabtt haben.</p></div>
+            <div xml:id="E1598-11-22"><head><date when="1598-11-22">Den 22 Novembr<ex>is</ex>
+                <c>☿</c> </date></head> <p>d<ex>er</ex>
+                <rs ref="register.xml#Pietro_Aldobrandini" type="person">Cardinall</rs> wegkgezogen.</p></div>
+            <div xml:id="E1598-11-23"><head><date when="1598-11-23">Den 2 <del rend="overstrike">3</del><add>4</add> Novemb<ex>ris</ex>
+                <c>♀</c> </date></head> <p>beseh<ex>en</ex>
+                in d<ex>er</ex> Capittelstube<ex>n</ex> so nicht weitt
+                von d<ex>er</ex> Thumbkirch<ex>en</ex> zwo statuas Adami
+                vnd Evor, so gar kunstlich gehawen, d<ex>a</ex>z man auch die aderen
+                daranne siehett, vnten an d<ex>en</ex> statuen sitze<ex>n</ex> ein Kneblin, vnd ein Megdelein, so auch gar Künstlich formieret
+                sein.</p></div>
+            <div xml:id="E1598-11-25"><head><date when="1598-11-25">Den 25 Novembr<ex>is</ex> <c>♄</c> </date></head> <p>ist in des Connestabelß pallazo gegen
+                    morg<ex>en</ex> eine grosse brunst entstand<ex>en</ex>, nicht weÿt vo<ex>n</ex> d<ex>er</ex>
+                Königinnen gemach. Beseh<ex>en</ex> die Franciscaner Kirche. Item S<ex>anct</ex> Anbrosius Kirch<ex>en</ex>, alda gewiesen
+                wirdt d<ex>er</ex> Orth, da S<ex>anct</ex> Ambrosius den
+                    Augustinu<ex>m</ex> bekehrett hatt. Jtem wirdt da gezeiget die
+                ehrne Schlange, so in d<ex>er</ex> wüsten aufgerichtet word<ex>en</ex>. Den abendt hatt man 3 auß dem losamenth darinne<ex>n</ex> ich geleg<ex>en</ex>, gefang<ex>en</ex> genommen. </p></div>
+            <div xml:id="E1598-11-28"><head><date when="1598-11-28">Den 28 Nove<ex>m</ex>b<ex>ris</ex>
+                <c>♂</c> </date></head> <p>biß <rs ref="register.xml#Fornace" type="place">All fornace</rs> dorf zu S<ex>anct</ex> Marc<ex>us</ex>. <hi rend="superscript">(</hi>3 meÿll.</p></div>
+            <div xml:id="E1598-11-29"><head><date when="1598-11-29">Den 29 Nove<ex>m</ex>b<ex>ris</ex>
+                <c>☿</c></date></head> <p> biß <rs type="place">Vafra</rs> alda ma<ex>n</ex> über d<ex>en</ex> fluß Addua fehrett,
+                (venediger gebiethe) (banditen orth) <rs type="place">Budin</rs> dorf, <rs ref="register.xml#Bergamo" type="place">Bergamo</rs> stadt <hi rend="superscript">(</hi>3 meÿll <foreign xml:lang="it">alla posta</foreign><note type="translation">Zur Post</note>, beseh<ex>en</ex> die
+                Capell della misericordia, alda ein schöner Taufstein, in die runde mitt schönen
+                seÿlen gebawett. Jm Chor seindt schöne Taflen mitt holtzwerck eingelegt, alß wanß
+                gemahlett were, vnter and<ex>er</ex>n seindt 4 einer ziemlich<ex>en</ex> grösse (1. Eductio Israëlitax ex AEgypto p<ex>er</ex>mare rubrum; 2 Diluviu<ex>m</ex>. 3.
+                Juditha &amp; Holofernes. 4. David &amp; Goliath) Hernacher die Thumbkirch od<ex>er</ex> il domo in welcher ein Kleine altartafell so 6000 Kronen
+                Kosten soll. Item pallazzo des podesta &amp; dell Capitano: welche woll zuseh<ex>en</ex>, darnach die gewaltige, veste vnd starcke Vestung. Die
+                stadt liegt gar hoch, hatt einen herrlichen prospect, alß man weÿt vnd breitt Kaumpt
+                    find<ex>en</ex> soll: oben Kan man auch d<ex>er</ex>
+                    Meÿlend<ex>er</ex> Thurn dell domo, so doch 6 meill davo<ex>n</ex>, lieggen sehen, da herumb hatts auch ein
+                Eysenbergwerck.</p></div>
+            <div xml:id="E1598-11-30"><head><date when="1598-11-30">Den 30 Nove<ex>m</ex>b<ex>ris</ex> <del rend="overstrike"><c>♂</c></del><add><c>♃</c></add></date></head> <p> biß Palazuola zur kronen,
+                <hi rend="superscript">(</hi>3 meÿll, biß <rs ref="register.xml#Salo_Brescia" type="place">Brescia</rs> stadt zum Ritter S<ex>anct</ex> Georgio, od<ex>er</ex> <foreign xml:lang="it">alla post</foreign><note type="translation">Zur Post</note> 3 meil
+                    <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            <div xml:id="E1598-12-01"><head><date when="1598-12-01">Den 1 Dece<ex>m</ex>b<ex>ris</ex>
+                <c>♀</c> </date></head> <p>besehen die Vestůng, so
+                ziemlich woll verseh<ex>en</ex>, aber sie Kan überhöhet werd<ex>en</ex> von einem berge, so nahe daranne liegtt, oben auf d<ex>er</ex> Festung, findett man noch an einer Thür ihrer Keyserlichen
+                Majestatt wapfen, nemlich den doppelten Reichs:
+                
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00027.jpg" n="12r"/>
+                
+                    Adler, angehawen. Jn mangell deß wasserß, brawchett man daroben d<ex>a</ex>z regenwasser, welcheß vo<ex>n</ex> allen Örten, durch
+                Canalln in ettliche Cisterne<ex>n</ex> wirdt geleitett: Palazzo dell
+                Capitano, <unclear>d</unclear>, del podesta´. Templu<ex>m</ex> S<ex>anct</ex> Mariae, alda grosse wůnd<ex>er</ex>zeichen geschen sein
+                sollen vo<ex>n</ex> einem Marienbildt, vnd haben die leuthe auß
+                blindtheitt, viell dazu geschenckett vnd gegeben. Jn obgemeldter kirchen liegtt ein
+                Östereischer Herr vo<ex>n</ex> Zintze<ex>n</ex>dorf
+                begraben welcher in diesem Jahr, vor wenig wochen gestorben. </p></div>
+                    <div xml:id="E1598-12-02"><head><date when="1598-12-02">Den 2 Dec<ex>embris</ex> <c>♄</c> </date></head> <p>vo<ex>n</ex> d<ex>er</ex> landtstrasse<ex>n</ex> nach <rs ref="register.xml#Verona" type="place">Verona</rs>, aůf die
+                l<ex>inke</ex> s<ex>eite</ex> nach <rs ref="register.xml#Garda" type="place">Guarda</rs>, dorf,
+                <rs ref="register.xml#Salo_Brescia" type="place">Salo´</rs> stadt (dabeÿ d<ex>er</ex> Lago di garde, vorzeiten Benac<ex>us</ex> genandt, liegt, welcher 6 meÿlen lang, 3 breÿt ist) 4
+                meÿll zun 3 Kronen; An diesem gemeldten See lieg<ex>en</ex> ettliche
+                Vestu<ex>n</ex>gen vnd stette, alß <rs type="place">Pisctiera</rs>, vnd <rs ref="register.xml#Sirmione" type="place">Sermione</rs>, da
+                        <rs type="person" resp="#Catullus_Gaius_Valerius">Catull<ex>us</ex></rs> seine villa<ex>m</ex>
+                    gehabtt, lautt seines Epigrammati; seindt 2 gewaltige Vestung<ex>en</ex> <rs ref="register.xml#Rivoltella" type="place">Rivoltela</rs>, <rs type="place">Rive</rs>, <rs ref="register.xml#Desenzano_del_Garda" type="place">Dessenzano</rs>, <rs ref="register.xml#Toscolano_Maderno_Benacum" type="place">Maderno, Tusculano</rs>, daselbstn vorzeiten
+                    gestand<ex>en</ex> die stadt <rs ref="register.xml#Toscolano_Maderno_Benacum" type="place">Benacu<ex>m</ex></rs>,
+                    davo<ex>n</ex> d<ex>er</ex> See genandt worden vmb
+                diesen See wachsen vielle pomi narranzi, Lemonien, Citronen; Jn demselbe<ex>n</ex> w<ex>er</ex>d<ex>en</ex>
+                    gefang<ex>en</ex> die Carpioni eine arth von fischen, d<ex>er</ex>gleichen in and<ex>er</ex>n Örten nicht
+                    zůfind<ex>en</ex>, seine Speÿse seindt die mineralia, so am bod<ex>en</ex> desselben Sees solle<ex>n</ex> gefůnd<ex>en</ex> w<ex>er</ex>d<ex>en</ex>. Jtem
+                wachsen da die grosse, wollschmeckende Pfirschen.</p></div>
+            <div xml:id="E1598-12-03"><head><date when="1598-12-03">Den 3 Decemb<ex>ris</ex> <c>☉</c></date></head> <p> biß <rs ref="register.xml#Desenzano" type="place">Dissenzano</rs> stadt, zur Krone<ex>n</ex>
+                <hi rend="superscript">(</hi>2 meÿll, biß <rs ref="register.xml#Rivoltella" type="place">Rivoltella</rs>, <rs ref="register.xml#Peschiera_del_Garda" type="place">Pisctiera</rs> Vestung,
+                    <rs type="place">Cavallcasello</rs> dorf zum Pferdt, 2 meÿll <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note>: 4.</p></div>
+            <div xml:id="E1598-12-04"><head><date when="1598-12-04">Den 4 Dec<ex>embris</ex>
+                <c>☽</c>.</date></head> <p> biß <rs ref="register.xml#Villanova" type="place">Villanova</rs> dorf,
+                <rs type="place">Lattecavra</rs> dorf, <rs ref="register.xml#Verona" type="place">Verona</rs> stadt, 3 meÿll. Zum weissen rößle, alda gesehen d<ex>a</ex>z altte Castell in d<ex>er</ex> stadt an d<ex>er</ex> Etzsch, darinne vorzeiten die Schaligeri (welche Hertzoge
+                vnd Fürsten zu Verona gewesen) hofgehalten, welcher stammen, vo<ex>n</ex> den Venedigern gantz vnd gar <ex>ver</ex>tilget vnd
+                außgerottett. (2, die schöne brucke vber die Etzsche, mitt außbündigen grossen
+                    Schwiebog<ex>en</ex>, welche hartt beÿ obgemeldtem Schloß gebawett
+                (3 d<ex>a</ex>z monumentu<ex>m</ex> od<ex>er</ex> begrebnůß d<ex>er</ex> Schaligerorum, Mastini (2
+                    Hertzoge<ex>n</ex> zu Verona, vnd seines Sohnes Consignerÿ,
+                welches zu find<ex>en</ex> beÿ d<ex>er</ex> Kirchen S<ex>anct</ex> Maria Anticha; Jm gitter so herumb gezogen, seindt
+                vielle Kleine leiteren zuseh<ex>en</ex>, welche d<ex>er</ex> Schaligero<ex>rum</ex> wapfen anzeig<ex>en</ex>. (4. Arcu<ex>m</ex> Triumphalem, alias <add place="above">La</add> porta di Borsari,
+                da dieses angeschrieb<ex>en</ex>: Colonia Augusta Verona, nova
+                Gallieniana, Valeriano 2 &amp; Lucilio Coss: muri Veronensium fabricati ex die 3.
+                Non. Apr. dedicat<ex>us</ex> pr. non: Dec<ex>embris</ex>
+                jubente sanctissimo Gallienio Augustt. insistente Aur: Marcellino V.P. Duc: curante
+                Juc: Marcell: (2 einen andere<ex>n</ex> <w>arcu<ex>m</ex></w><note type="annotation">Arco dei Gavi</note>,
+                    vo<ex>n</ex> <rs type="person" resp="#Lucius_Vitruvius_Cordo">Vitruvio</rs> dem gewaltigen Bawmeister aufgerichtett,
+                daranne also ge:
+                
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00028.jpg" n="12v"/>
+                    
+            schrieben. L. Vitruvius L.L. Cerdo, Architectus. (6 die Kirche zu Sanct Anastasio,
+                    darinne<ex>n</ex> eine schöne Capella zu notieren, in welcher vita
+               <w>Xri</w><note type="annotation">Jesus Christus</note> gantz artig in stein gehawen. (7 Il domo die Hauptkirche, in welcher ein Chor
+                in die runde gebawett wie ein Circkell vo<ex>n</ex> lauter
+                    <w>marmollsteine<ex>n</ex></w><note type="annotation">Marmor</note>; (8 Amphitheatru<ex>m</ex>;
+                so ein gewaltig groß gebew, vo<ex>n</ex> lauter marmoll aufgeführett,
+                    begreiffett in d<ex>er</ex> <w>Circumferentz</w><note type="annotation">Umfang</note> vngefehr 475. schritt, hatt
+                42 stiegen od<ex>er</ex> <foreign xml:lang="lat">subsellia</foreign><note type="translation">Bänke</note> vo<ex>n</ex> vnten
+                biß oben, welche einer ziemlichen höhe sein, forma e<ex>st</ex> ovalis einwendig. Vmb dieses gebew, war vorzeiten noch ein and<ex>er</ex>ß d<ex>a</ex>z man <foreign xml:lang="lat">alam</foreign><note type="translation">Flügel</note> nennete. Jn diesem Schawplatz
+                haben mehr dan 90000 Persone<ex>n</ex> bequemblich sitzen können: Deß
+                    Amphytheate<ex>r</ex> ist mitt eigenen Kosten gebawet
+                    word<ex>en</ex>, vom <rs ref="register.xml#Titus_Quinctius_Flamininus" type="person">Luc. Quinct<ex>us</ex> Flaminio</rs>:
+                    Römische<ex>n</ex> Burgemeister, so bezeugett eine altte newlich
+                    in Sanct Videran Kirche<ex>n</ex> gefůndene <w>marmollntafell</w><note type="annotation">Marmor</note>, daranne
+                    also geschrieb<ex>en</ex>: <rs ref="register.xml#Titus_Quinctius_Flamininus" type="person">L. Quinct<ex>us</ex>
+                        Flamini<ex>us</ex></rs>, <foreign xml:lang="lat">Romanus Consul ac <unclear>universae</unclear> Gretiae dominator,
+                        Amphytheatrum Veronae p<ex>ro</ex>prÿs sumpti<ex>us</ex> erexit ab <unclear>U. C. D.
+                            III.</unclear></foreign><note type="translation">Titus Quinctius Flamininus, Konsul und Herrscher von ganz Gretiae, hat das Amphitheater auf eigene Kosten aufgerichtet von U. C. D. III</note> dieses gebew, so von weg<ex>en</ex> d<ex>er</ex>
+                langen gerawme<ex>n</ex> zeitt an vielen Orten zerfallen, theÿlß vo<ex>n</ex> ihren Vorfahren selbst zu erbawung ihrer häuser
+                    abgerisse<ex>n</ex> word<ex>en</ex>, wirdt vo<ex>n</ex> de<ex>m</ex> Veronesich<ex>en</ex> Adell, mitt grossen Vnkosten wied<ex>er</ex> ernewert vnd
+                gebessertt.</p></div>
+            <div xml:id="E1598-12-06"><head><date when="1598-12-06">Den 6 Decemb<ex>ris</ex>
+                <c>☿</c> </date></head> <p>beseh<ex>en</ex>
+                    d<ex>a</ex>z <seg>pallatiu<ex>m</ex> Augustini Justi</seg><note type="annotation">Palazzo Giusti</note>,
+                    darinne<ex>n</ex> ein schöner Saall geziehrett mitt bildnůß aller
+                fürtreflichen kriegßleuthe zu wasser vnd zu lande, auß allerleÿ nationen: Beÿ diesem
+                pallatio ist ein schöner garte zuseh<ex>en</ex>. Darnach d<ex>a</ex>z Castel S<ex>anct</ex> Felice, welches
+                dienett mehr die stadt zubezwing<ex>en</ex> alß zuverthedig<ex>en</ex>, auf demselbe<ex>n</ex> findet ma<ex>n</ex> h. K. M. wapfen halb außgeleschett vnd auß gerieb<ex>en</ex>. Auf dem Castell S<ex>anct</ex> Pietro,
+                heltt man Keine guardia <del rend="overstrike">werr</del> mehr. Jtem d<ex>e</ex>n Platz della
+                Signoria genandt, vnd daselbst d<ex>a</ex>z pallaciu<ex>m</ex>, auf welch<ex>em</ex> imago AEmilÿ Mac: Ethnici
+                    Poetae, <rs ref="register.xml#Catullus_Gaius_Valerius" type="person">Catulli</rs>, <rs ref="register.xml#Cornelius_Nepos" type="person">Cornelÿ Nepotis</rs>, <rs ref="register.xml#Gaius_Plinius" type="person">C. Plinÿ 2dus</rs>; <rs ref="register.xml#Vitruvius" type="person">Vitruvÿ</rs>, <rs ref="register.xml#Girolamo_Fracastoro" type="person">Fracastorÿ</rs>: gesetzett
+                    word<ex>en</ex>. Jtem die 4 steinern bruck<ex>en</ex> über die Etzsche.</p></div>
+            <div xml:id="E1598-12-07"><head><date when="1598-12-07">Den 7 Decemb<ex>ris</ex>
+                <c>♃</c> </date></head> <p>besehe<ex>n</ex>
+                ein stück vo<ex>n</ex> ein<ex>em</ex> alten <seg>arcu
+                    triumphati</seg><note type="annotation">Triumphbogen</note>, daranne geschrieb<ex>en</ex>; <rs type="person">Tit<ex>us</ex> Flavi<ex>us</ex></rs>, P. F. Noricus <seg>VIII Vir I<ex>ure</ex> D<ex>icundo</ex>.g</seg><note type="annotation">Quartumvir, Magistrat/Bürgermeister mit Rechtsprechungskompetenz</note> Item den brunnen auf d<ex>em</ex> marckt, welcher vom <rs ref="register.xml#Pipino" type="person">Pipino Jtalienischen König</rs>, vnd Caroli Magni
+                Sohn dahin gesetzett word<ex>en</ex>: d<ex>a</ex>z bildt
+                so mitten im brunne<ex>n</ex> stehett, hatt einen zettell daranne geschrieben; <foreign xml:lang="lat">Est justi
+                    Latrix urbs haec &amp; Laudis amatrix</foreign><note type="translation">Diese Stadt ist Träger der Gerechtigkeit und Liebhaber des Lobes</note>: Jtem den grossen Platz in d<ex>er</ex> stadt Campo Marzo genandt, darauf man heutiges tageß můstertt. Jtem an
+                einer vo<ex>n</ex> d<ex>en</ex> 4 brück<ex>en</ex> über die Etzsche findett man noch J. M. wapfen angemahlett. Auf d<ex>en</ex> abendt gehörett die ordinari Music inß Grafen
+                    <seg>Bevelacqua pallazo</seg><note type="annotation">Palazzo Bevilacqua</note>, daselbst
+                
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00029.jpg" n="13r"/>
+                
+                alle vornehme<ex>n</ex> Meÿster in allerleÿ Jnstrumenthen, vnd auch Componisten, auf diesen
+                tag. alle woch<ex>en</ex> Pfleg<ex>en</ex> zusamme<ex>n</ex> kommen, vnd aufs aller beste Instrumetatem vnd Vocalem
+                    Musica<ex>m</ex> zuhalten, aůf vnkosten obgemeldten Grafenß, dem
+                    Jährlich ettwa ein 500 Kr<ex>euzer</ex> darauf geh<ex>en</ex>. Jm gemach seindt <w>abcontrafehtett</w><note type="annotation">abgebildet</note>, vielle
+                    vornehme berumbte Musici, &amp; Musicae. </p></div>
+            <div xml:id="E1598-12-08"><head><date when="1598-12-08">Den 8 Dec<ex>embris</ex>
+                <c>♀</c> </date></head> <p>biß <rs ref="register.xml#Villanova" type="place">Villanova</rs> dorf, <rs type="place">La torre</rs>
+                dorf, <rs ref="register.xml#Montebello_Vicentino" type="place">Montebello</rs> dorf, 4 meÿll. <rs ref="register.xml#Vicenza" type="place">Vicentz</rs> zum huett. 2. meill <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            <div xml:id="E1598-12-09"><head><date when="1598-12-09">Den 9 Dece<ex>m</ex>b<ex>ris</ex> <c>♄</c></date></head> <p> beseh<ex>en</ex> d<ex>a</ex>z Theatru<ex>m</ex>
+                so gar schön, darnach d<ex>a</ex>z pallacium, so auf arth des
+                Paduanischen gebawett, aber nicht so gros; biß <rs ref="register.xml#Covelo" type="place">Covalo</rs> <hi rend="superscript">(</hi>1 meÿll (alda die grosse grübe<unclear>n</unclear>, vnter d<ex>er</ex> erde, so
+                ettliche welsche meÿlen groß, darinnen Fled<ex>er</ex>meůß, wasser, in
+                    welch<ex>em</ex> lauter Krabben, Schießlöcher Backofen, Erde, da
+                man Salpeter aůßmachett, biß <rs ref="register.xml#Vicenza" type="place">Vicentz</rs> gehett sie (2
+                meill vnter d<ex>er</ex> erden, aber sie ist gewaltig irrig, dan sie
+                vielle abwege, hin vnd wied<ex>er</ex> hatt, <hi rend="superscript">x
+                </hi><rs ref="register.xml#Montegaldella" type="place">Montegallo</rs> dorf, (2 meill. <seg>x vid<ex>e</ex> i<ex>nfra</ex> p<ex>agina</ex> 21 l. 25</seg><note type="annotation">Nachträgliche Ergänzung von August: Siehe unten Seite 21, Zeile 25. An der angegebenen Stellen befindet sich ein ebensolcher Verweis auf die Stelle hier.</note>
+                </p></div>
+            <div xml:id="E1598-12-10"><head><date when="1598-12-10">Den 10 Decembr<ex>is</ex> <c>☉</c> </date></head> <p>biß <rs ref="register.xml#San_Martino_Buon_Albergo" type="place">S<ex>anct</ex> Martino</rs>
+                    dorf, <rs ref="register.xml#Padova" type="place">Padua</rs> stadt zum Stern, 2 meÿll.</p></div>
+            <div xml:id="E1598-12-12"><head><date when="1598-12-12">Den 12 Dec<ex>embris</ex>
+                <c>♂</c> </date></head> <p>mitt d<ex>er</ex> barcke auf d<ex>er</ex> brendt gefahre<ex>n</ex> biß <rs type="place">Lucefusin</rs> dorf, 4 meill, alda ma<ex>n</ex> mitt d<ex>er</ex> gůndell noch 1 meÿll auf dem meer fahrett biß nach <rs ref="register.xml#Venedig" type="place">Venedig</rs>
+                    <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5. <foreign xml:lang="it">alla spada</foreign><note type="translation">Zum Schwert</note>.</p></div>
+            <div xml:id="E1598-12-14"><head><date when="1598-12-14">Den 14 Dec<ex>embris</ex>
+                <c>♃</c> </date></head> <p>beseh<ex>en</ex>
+                    d<ex>a</ex>z pallazziu<ex>m</ex> Principis, so groß
+                vnd sehr Schöne ist mitt treflichen Künstlichen gemeldten gezierett, vnd grossen
+                S<subst><del>ee</del><add>ä</add></subst>len, vnter welchen in eine<ex>m</ex> alle Hertzoge von Venedig abgemahlett, vnd einer, welcher des
+                regiementß sich erblichen hatt anmassen wöllen, aůch deßweg<ex>en</ex>
+                geköpfet word<ex>en</ex> außgeleschett ist. S<ex>anct</ex> Marc<ex>us</ex> Platz ist 400 Schue lang, 130 breitt.
+                Die grosse schöne Kirche zu S<ex>anct</ex> Marc<ex>us</ex> welche allenthalben obe<ex>n</ex> vnd vnten, mitt schöner
+                    <seg>Mosaischer erbeitt</seg><note type="annotation">Mosaik</note> gezierett, welche gemachett wirdt vo<ex>n</ex>
+                    Kleinen <w>porfersteine<ex>n</ex></w><note type="annotation">Porphyr</note>, <w>serpentinen</w><note type="annotation">Serpentin</note>, <w>marmolln</w><note type="annotation">Marmor</note> vnd and<ex>er</ex>n Köstlichen Steinen. Hind<ex>er</ex> dem
+                alttar, vor dem Sacramentheußlein stehe<ex>n</ex> 2 Seůlen, welche
+                    vo<ex>n</ex> so schönem hellen marmor gemachett, d<ex>a</ex>z sie, so ein liecht daranne gehalten wirdt, durchscheinendt
+                sein, wie wasser od<ex>er</ex> glaß. Vmb die Kirche seindt gezehlett
+                114 Seůlen vo<ex>n</ex> obgemeldter materÿ; zu öberst an d<ex>er</ex> kirchen ausserhalb vnterm Tach, seindt 4 auß metall
+                gegoßne vnd <ex>ver</ex>gůldte Pf<ex>erde</ex>, doch
+                ohne Zawm vnd Sattell, gestellett, welche von <rs ref="register.xml#Istanbul" type="place">Constantinopell</rs> dahin gebracht, vnd
+                    d<ex>er</ex> Venediger freÿheitt bedeůten vnd anzeig<ex>en</ex> sollen. Vor d<ex>er</ex> kirchen gegen dem
+                    pallazzo werts, stehen 2 marmorn Seůlen, welches d<ex>er</ex> galge<ex>n</ex>
+                ist, da ma<ex>n</ex> d<ex>en</ex> Hertzog würde
+                    anhenck<ex>en</ex>, so er sich ihren gesetzen nicht gemeß <ex>ver</ex>hielte. Auf d<ex>er</ex> and<ex>er</ex>n seÿten nach dem Platz zu, zeigett man den stein, od<ex>er</ex> orth, da der <rs ref="register.xml#Alexander_III" type="person">Bapst Alexander</rs> dem <rs ref="register.xml#Friedrich_I" type="person">Friderico Barbarossae</rs>,
+                auf die achsell ge
+                
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00030.jpg" n="13v"/>
+                    
+                    tretten, vnd gesagett: <seg xml:lang="lat">Super Capidem &amp; basiliscu<ex>m</ex>
+                        ambulabis</seg><note type="annotation">(Auf Löwen und Ottern wirst du gehen; Psalm 91, Vers 13)</note>: darauf d<ex>er</ex> <rs ref="register.xml#Friedrich_I" type="person">Keyser</rs> geandtwortett: <foreign xml:lang="lat">Non tibi sed
+                            Petro</foreign><note type="translation">Nicht von dir aber von Petrus</note>: d<ex>er</ex> <rs ref="register.xml#Alexander_III" type="person">Bapst</rs> aber <foreign xml:lang="lat">Et mihi &amp; Petro</foreign><note type="translation">Von mir und von Petrus</note>. Aůf d<ex>en</ex> abendt hatt man eine stadtliche meß vnd můsic gehalten wegen ihres weÿgenacht abends; Jtem die
+                gewaltige grosse brucke vber den Rivo alto, <foreign xml:lang="lat">corrupte<ex>m</ex></foreign><note type="translation">verkehrt</note> genandt
+                    Rialto, so nůhr mitt einem <seg>grossen Schwieboge<ex>n</ex> über den
+                grossen Canall mitt vielem kosten, gebawett word<ex>en</ex>; oben auf
+                        stehen 24 Krämerläd<ex>en</ex>, welche mitt bleÿ gedeckett</seg><note type="annotation">Rialtobrücke</note>.</p></div>
+            <div xml:id="E1598-12-15"><head><date when="1598-12-15">Den 15 Dece<ex>m</ex>b<ex>ris</ex>
+                <c>♀</c></date></head> <p> beseh<ex>en</ex>
+                    d<ex>a</ex>z Kloster S<ex>anct</ex> Georgio
+                Maggiore, so kegen S<ex>anct</ex> Marc<ex>us</ex> Platz
+                überliegt, daselbst S<ex>anct</ex> Stefan<ex>us</ex>
+                    <w>prothomartyr</w><note type="annotation">Protomärtyrer oder Erzmärtyrer</note> in einem altar soll begrabe<ex>n</ex> sein.</p></div>
+            <div xml:id="E1598-12-16"><head><date when="1598-12-16">Den 16 Dece<ex>m</ex>b<ex>ris</ex> <c>♄</c>,</date></head> <p> d<ex>er</ex> Hertzog die Senatores zu gaste gehabtt; nach altem gebrauch. <del rend="overstrike">vnd
+                eine Comaedia gehalten</del>.</p></div>
+            <div xml:id="E1598-12-17"><head><date when="1598-12-17">Den 17. Decemb<ex>ris</ex> <c>☉</c> </date></head> <p>beseh<ex>en</ex> d<ex>a</ex>z <w>pallatiu<ex>m</ex></w><note type="annotation">Ca’ Corner della Regina</note> <w>Cornari</w><note type="annotation">Cornaro ist der Name einer venezianischen Patrizierfamilie. Die Cornaro/Cornèr stellten u.a. vier Dogen der Republik Venedig. <ref target="https://de.wikipedia.org/wiki/Cornaro#Dogen_von_Venedig"/></note>, so des
+                Jetzig<ex>en</ex> Hertzogen <rs ref="register.xml#Marino_Grimani" type="person">Grimani Marini</rs> <w>Tochterman</w><note type="annotation">Veraltet für: Schwiegersohn</note>,
+                welches auß d<ex>er</ex>masse<ex>n</ex> schön, vnd vor
+                einen edellma<ex>n</ex> mehr dan zuviell: darnach in S<ex>anct</ex> Johanniß schüle die p<ex>ro</ex>cessiones gesehen. <w>dx</w><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1598-12-18"><head><date when="1598-12-18">Den 18 Decemb<ex>ris</ex>
+                <c>☽</c>.</date></head> <p> gezoge<ex>n</ex> gehn <rs ref="register.xml#Malamocco" type="place">Malamocco</rs>, alda d<ex>er</ex> hafen, da die grosse
+                Schiffe stehen.</p></div>
+            <div xml:id="E1598-12-19"><head><date when="1598-12-19">Den 19 Dece<ex>m</ex>b<ex>ris</ex>
+                <c>♂</c> </date></head> <p>beseh<ex>en</ex>
+                    die <w>Müntze</w><note type="annotation">Als Zecca wurde einerseits die Münzprägestätte Venedigs im Allgemeinen bezeichnet, andererseits das in der Nähe des Dogenpalasts stehende Gebäude. <ref target="https://de.wikipedia.org/wiki/Zecca_(Venedig)">Wikipedia</ref></note>, alda in dem obristen gemach grosse eyserne Kasten, voller Seckin vnd
+                    anderer müntze stehe<ex>n</ex>. Jn der <seg>p<ex>ro</ex>curatoria D. Marci</seg><note type="annotation">In Venedig waren die Prokuratoren Vermögensverwalter der Serenissima, genauer: Sie waren die Verwalter des Schatzes des Heiligen Markus. Sie hatten ihren Amtssitz in den Prokuratien. <ref target="https://de.wikipedia.org/wiki/Prokurator#Republik_Venedig">Wikipedia</ref></note>, ist ein studiol in welchem viell altte statuae
+                marmoreae zubeseh<ex>en</ex> wirdig, vnterandern ein abgott,
+                    darauß vorzeiten d<ex>er</ex>
+                teufell soll geandtwortet haben.</p></div>
+            <div xml:id="E1598-12-20"><head><date when="1598-12-20">Den 20 Dece<ex>m</ex>b<ex>ris</ex>
+                <c>☿</c></date></head> <p> nach <rs ref="register.xml#Murano_Isola_di" type="place">Mura<ex>m</ex> </rs> gezoge<ex>n</ex>, alda ma<ex>n</ex> die
+                    gläser machett, am wege stähet eine Capelle, so eine <w>Cortigiana</w><note type="annotation">Kurtisane</note> soll hab<ex>en</ex> bawen lassen, vo<ex>n</ex> dem gelde, so sie
+                mitt ihrem leibe verdienett. Auf S<ex>anct</ex> Marc<ex>us</ex> Thurn, so aufm Platz stehett, vnd da hinauf man reÿten Kan, gestiegen,
+                vo<ex>n</ex> dem man die gantze stadt <rs ref="register.xml#Venedig" type="place">Venedig</rs> übersehen Kan. Item
+                zu <rs ref="register.xml#La_Giudecca" type="place">Giudeca</rs> einen straůssen gesehen.</p></div>
+            <div xml:id="E1598-12-21"><head><date when="1598-12-21">Den 21 Decemb<ex>ris</ex>
+                <c>♃</c> </date></head> <p>besehe<ex>n</ex>
+                    d<ex>a</ex>z Arsenal od<ex>er</ex> zeughaůß, welches
+                sehr groß, vnd mitt allen sache<ex>n</ex> woll <ex>ver</ex>seh<ex>en</ex>, sond<ex>er</ex>lich waß zur
+                wasser schlacht gehörig: eß erbeiten täglich 1550 leuthe darinne<ex>n</ex> vnter and<ex>er</ex>n geschützen, deren eine grosse anzahl
+                    ist, findett ma<ex>n</ex> auch einen <w>Petardt</w><note type="annotation">Eine Petarde ist eine militärische Explosivwaffe zum gewaltsamen Aufbrechen von Türen oder Toren an Befestigungsanlagen. <ref target="https://de.wikipedia.org/wiki/Petarde">Wikipedia</ref></note>, welches sie haben machen
+                    lassen, nach deme, so in wiedereroberůng d<ex>er</ex> <rs ref="register.xml#Gyoer" type="place">vestung Raab in
+                        Vngern</rs><note type="annotation">Raab wurde 1592 von den Osmanen erobert, konnte 1598 jedoch durch Adolf von Schwarzenberg zurückerobert werden</note> gebrauch worden: Item 2 geschütze wie Seůlen gegoßen: Jtem eines mit 6
+                Schüssen, vnd eines mitt dreÿen. Jtem ein überaůß grosses <w>stücke</w><note type="annotation">Geschütz, Kanone, Waffe</note>, so zur zeitt d<ex>er</ex> belägerůng od<ex>er</ex> anlauffs mitt
+                kleinen steinen geladen vnd mitt ketten; grosse<ex>n</ex> schäden Kan
+                    außrichten. Darnach stehen vnter Galeren vnd <w>Galeoten</w><note type="annotation">Kleine Galeere</note>, darinne<ex>n</ex>; Ite<ex>m</ex> d<ex>er</ex> <w>Bucentaur<ex>us</ex></w><note type="annotation">Bucintoro, Bucentaur oder Goldene Barke, Staatsschiff der Dogen von Venedig. <ref target="https://de.wikipedia.org/wiki/Bucintoro">Wikipedia</ref></note>, od<ex>er</ex> d<ex>a</ex>z
+                grosse schiff des Hertzogen, in welchem er hinausfeh:
+                
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00031.jpg" n="14r"/>
+                
+                rett, wan er sich d<ex>a</ex>z meer auf Auffartßtag <ex>ver</ex>mehlett x<note type="annotation">Schluss- oder Betonungszeichen</note> Jtem viell Kriegß vnd Hauptfahnen so die Venediger d<ex>er</ex> Türckischen Armada abgewonnen <w>rc.</w><note type="annotation">etc.</note>.</p></div>
+            <div xml:id="E1598-12-23"><head><date when="1598-12-23">Den 23 Decemb<ex>ris</ex> <c>♄</c>,</date></head> <p> wied<ex>er</ex> nach <rs ref="register.xml#Padova" type="place">Padua</rs>
+                verruckett.</p></div>            
+        </body>
+    </text>
+</TEI>

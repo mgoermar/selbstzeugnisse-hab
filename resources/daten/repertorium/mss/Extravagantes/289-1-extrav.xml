@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.289-1-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>289.1 Extrav., 1 – Reisetagebuch Leonhard Baudis</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>289.1 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>289.1 Extrav., 1</idno></msIdentifier>
+            <msContents>
+              <summary>In Wir-Form verfasstes Diarium einer Reise von <rs type="person" ref="../../register.xml#Leonhard_Baudis">Leonhard Baudis</rs> als Begleiter von <rs type="person" ref="../../register.xml#Hans_Dieskau">Hans Adolf Dieskau</rs> durch <rs type="place" ref="../../register.xml#Europa">Europa</rs>; <rs type="place" ref="../../register.xml#Leipzig">Leipzig</rs>, <rs type="place" ref="../../register.xml#Strassburg">Straßburg</rs>, <rs type="place" ref="../../register.xml#Genf">Genf</rs>, <rs type="place" ref="../../register.xml#Koeln">Köln</rs>, 
+                  <rs type="place" ref="../../register.xml#Lyon">Lyon</rs>, <rs type="place" ref="../../register.xml#Bordeaux">Bordeaux</rs>, <rs type="place" ref="../../register.xml#Paris">Paris</rs>. 
+                Weitere Reisegefährten werden auf 1r genannt: 
+                "Reise von <rs type="place" ref="../../register.xml#Leipzig">Leipzig</rs> nach <rs type="place" ref="../../register.xml#Strassburg">Straßburg</rs> mit <rs type="person">Messieur de Quizau</rs>", "<rs type="person">Cunone Harttwig von Quitzow</rs>, <rs type="person">Mons. von Rex</rs> und <rs type="person">Mons. von Helmersen</rs>". 
+                Auf Seite 1r außerdem die Notiz: "A Jove Principium, Cum Jove Finis erit!". Unter dem Titel ist verzeichnet: 
+                "<rs type="person" ref="../../register.xml#Leonhard_Baudis">Leonhardi Baudini</rs> coeptuum mense Majo, Anno 1680" (<rs type="person" ref="../../register.xml#Leonhard_Baudis">Leonhard Baudis</rs> Anfang des Monats Mai, des Jahres 1680). 
+                266r-270v leer, auf 271r-274v Nachträge zum Diarium von 1681, teilweise auf dem Kopf stehend verzeichnet. 
+                Auf 275r-349r "Specificaion aller Einnahmen und Außgaben..."; Aufstellung der Reisekosten und Einnahmen während der Reise, beide Rechnungen sind vom 03.06.1681. Auf dem Spiegel hinten die Notiz: "In <rs type="place" ref="../../register.xml#Paris">Paris</rs>".</summary>
+              <textLang mainLang="deu" otherLangs="fr"/>
+              <msItem class="../../register.xml#Reisetagebuch">
+                <locus from="1" to="349"/>
+                <author ref="../../register.xml#Leonhard_Baudis">Leonhard Baudis</author>
+                <title type="uniform">Reisetagebuch Leonhard Baudis</title>
+                <date type="coverage" from="1680-05-22" to="1681-04"/>
+                <rubric>Diarium.</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier.</material>
+                  </support>
+                  <extent>
+                    <measure>1 Bl. + 350 S.</measure>
+                    <dimensions>
+                      <height quantity="15.5" unit="cm"/>
+                      <width quantity="9.5" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben recht, original mit Tinte 1-265, Bleistiftfoliierung modern 266-349.</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Unterstrichene Ortsnamen gliedern den Text, S. 266-270 leer.</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <decoDesc>
+                <decoNote>Schematische Zeichnung Rathaussaal und "fürstl. Collegii" (66-67); "Städte-Collegium" (68); Tafeln im Rathaus Genf (255).</decoNote>
+              </decoDesc>
+              <bindingDesc>
+                <p>Beschriebenes Pergament, intakte Lederbuchschließe.</p>
+              </bindingDesc>
+              
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1680-05-22" to="1681-04"/>
+                
+              </origin>
+              
+              
+            </history>
+            <additional>
+              <listBibl>
+                <bibl>Vgl. 253.6 Extravagantes</bibl>
+              </listBibl>
+            </additional>
+          </msPart>
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>

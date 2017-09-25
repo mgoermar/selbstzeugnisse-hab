@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.258-12-extrav.xml" type="repertorium">
+  <teiHeader>
+    <fileDesc><titleStmt><title>258.12 Extrav., 1r – Autobiographie Christoph Woltereck</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+        <msDesc>
+          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+            <collection>Extravagantes</collection>
+            <idno>258.12 Extrav.</idno>
+          </msIdentifier>
+          <msPart><msIdentifier><idno>258.12 Extrav., 1r</idno></msIdentifier>
+            <msContents>
+              <summary>In Ich-Form verfasste Autobiographie von <rs type="person" ref="../../register.xml#Christoph_Woltereck">Christoph Woltereck</rs>. Der Lebensverlauf wird von der Geburt an beschrieben sowie durch genealogische Ausführungen ergänzt. Aber nicht nur Daten und Personen werden genannt, sondern auch besondere Ereignisse und Gedanken, wie z.B. Reisen oder ein Unfall in seiner Jugend, bei dem er fast ertrunken wäre.</summary>
+              <textLang mainLang="deu"/>
+              <msItem class="../../register.xml#Autobiographie">
+                <locus from="1r" to="21v"/>
+                <author ref="../../register.xml#Christoph_Woltereck">Christoph Woltereck</author>
+                <title type="uniform">Autobiographie Christoph Woltereck</title>
+                <date type="coverage" from="1686-07-01" to="1714-04-30"/>
+                <rubric>Lebens-Beschreibung Christophs Wolterecks S. den 8. Febr: 1729. Von demselben selbst angefangen zuverfertigen und biß pag. [...] continieret.</rubric>
+                
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material>Papier</material>
+                  </support>
+                  <extent>
+                    <measure>204 Bll.</measure>
+                    <dimensions>
+                      <height quantity="20.5" unit="cm"/>
+                      <width quantity="17" unit="cm"/>
+                    </dimensions>
+                  </extent>
+                  <foliation>
+                    <p>Zahl oben rechts, nachträglich mit Tinte 1-21 und zweitens nachträchlich mit Tinte auf jeder Seite 1-40</p>
+                  </foliation>
+                </supportDesc>
+                <layoutDesc>
+                  <layout>
+                    <p>Die Seiten sind in zwei Spalten aufgeteilt, der Text ist jeweils innen auf der Seite notiert.</p>
+                  </layout>
+                </layoutDesc>
+              </objectDesc>
+              
+              <bindingDesc>
+                <p>Pergament</p>
+              </bindingDesc>
+              <accMat>
+                <p>In der Handschrift sind noch weitere genealogische Materialien wie Stammbäume, Wappen und Briefe enthalten (34r-204r).</p>
+              </accMat>
+            </physDesc>
+            <history>
+              <origin>
+                <origDate from="1729-02-08" to="1730-05-30"/>
+                
+              </origin>
+              
+              
+            </history>
+            
+          </msPart>          
+        </msDesc>
+        
+        
+      </sourceDesc></fileDesc>
+    <encodingDesc>
+      
+    </encodingDesc>
+  </teiHeader>
+</TEI>
