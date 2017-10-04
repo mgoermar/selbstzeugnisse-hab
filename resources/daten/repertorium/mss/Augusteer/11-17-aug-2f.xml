@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.11-17-aug-2f.xml" type="repertorium">
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.11-17-aug-2f.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,8 +39,7 @@
               <idno>11.17 Aug. 2°, 410r</idno>
             </msIdentifier>
             <msContents>
-              <summary>In Sie-Form und in Tageseinträgen verfasster Bericht der Reise von <rs
-                  type="person" ref="../../register.xml#Waldemar_Schleswig">Waldemar Christian zu
+              <summary>In Sie-Form und in Tageseinträgen verfasster Bericht der Reise von <rs type="person" ref="../../register.xml#Waldemar_Schleswig">Waldemar Christian zu
                   Schleswig und Holstein</rs> nach Moskau.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
@@ -100,8 +98,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl>Drucke der Handschrift: <ref
-                    target="http://diglib.hab.de/drucke/gu-kapsel-2-23s/start.htm">M: Gu Kapsel 2
+                <bibl>Drucke der Handschrift: <ref target="http://diglib.hab.de/drucke/gu-kapsel-2-23s/start.htm">M: Gu Kapsel 2
                     (23)</ref> und <ref target="http://diglib.hab.de/drucke/gm-4368/start.htm">M: Gm
                     4368</ref></bibl>
               </listBibl>
@@ -112,6 +109,6 @@
 
       </sourceDesc>
     </fileDesc>
-    <encodingDesc> </encodingDesc>
+    
   </teiHeader>
 </TEI>
