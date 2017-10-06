@@ -30,5 +30,9 @@ deploy:
 sitemap:
 	calabash.cmd -i resources/mets.xml -o public/sitemap.xml resources/xproc/sitemap.xpl
 
+.PHONY: repository
+repository:
+	calabash.cmd -o public/repertorium.xml resources/xproc/repertorium/oais.xpl
+
 .PHONY: publish
 publish: mets linkmap sitemap solr deploy
