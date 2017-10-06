@@ -11,7 +11,7 @@
             <msContents>
               <summary>Reisebericht in Briefform, <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, 
                 Teil 2, 90.1 Extrav.-220 Extrav., Frankfurt a. M. 1987) vermutet, dass <rs type="person" ref="../../register.xml#Ernst_Theodor_Langer">Ernst Theodor Langer</rs> der Verfasser ist. Dieser war Bibliothekar in Wolfenbüttel und bis zum Jahr 1771 in der Schweiz. Die Briefe sind an "A. M. T." adressiert. Die Reise führt durch die Schweiz. Der Text besteht aus elf Briefen. Jeder beginnt mit der Brief-Nummer, einer kurzen inhaltlichen Überschrift und der Anrede des Empfängers. Von der gleichen Hand ist ein Zettel eingelegt, der ein Itinerar einer Reise mit anderem Datum enthält. Im Text wird das Jahr 1700 erwähnt, dieser wird also um dieses Jahr entstanden sein. Eine genaue Datierung fehlt jedoch.</summary>
-              <textLang mainLang="fr"/>
+              <textLang mainLang="fra"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="1" to="76"/>
                 <author ref="../../register.xml#Ernst_Theodor_Langer">Ernst Theodor Lange</author>

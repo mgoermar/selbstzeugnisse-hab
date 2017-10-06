@@ -10,7 +10,7 @@
           <msPart><msIdentifier><idno>31 Blank., 130r</idno></msIdentifier>
             <msContents>
               <summary>Knappes Diensttagebuch von <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs> und in Ich-Form verfasst. Er beschreibt die Ereignisse während seiner Ausführung des militärischen Dienstes für Kaiser Leopold I. in den Jahren 1689 und 1690. Er berichtet von der Truppenstärke, den Lagerplätzen, von vorhandenem Material und Tieren sowie über Personen, Städte und Landschaften. Das Diensttagebuch ist in zwei Teile gegliedert: Zeitraum 17. August 1689 bis 4. Oktober 1689 (Titel: siehe Originaltitel, 130r-134v); Zeitraum ab 31. Mai 1690 und ohne explizites Ende. Es bricht mittendrin ab (Originaltitel: "Journal waß sich täglich begeben, bey der Holländischen Armee, in den Jahre 1690. vom 31 May an", 137r-138r).</summary>
-              <textLang mainLang="deu" otherLangs="fr"/>
+              <textLang mainLang="deu" otherLangs="fra"/>
               <msItem class="../../register.xml#Tagebuch">
                 <locus from="130r" to="143r"/>
                 <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>

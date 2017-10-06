@@ -10,7 +10,7 @@
           <msPart><msIdentifier><idno>286 Blank., 1</idno></msIdentifier>
             <msContents>
               <summary>Tagebuchartige Notizen oder Lektüretagebuch in Ich-Form verfasst. <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs> verzeichnet hauptsächlich tagweise (mit Datum) seine absolvierte Lektüre. Erwähnung finden auch wenige Reisen (S. 62-76) sowie Ausflüge der Jahre 1712 bis 1724. Insgesamt 103 beschriebene Seiten.</summary>
-              <textLang mainLang="deu" otherLangs="fr"/>
+              <textLang mainLang="deu" otherLangs="fra"/>
               <msItem class="../../register.xml#Tagebuch">
                 <locus from="1" to="203"/>
                 <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>

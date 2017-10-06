@@ -10,7 +10,7 @@
           <msPart><msIdentifier><idno>27.10 Aug. 2°, 151</idno></msIdentifier>
             <msContents>
               <summary>Reisebericht von <rs type="person">Pieter Willemsz Verhoeff</rs> aus dem Jahre 1608 an <rs type="person">Jacob Huyghen van der Dussen</rs>. Pieter Willemsz Verhoeff war Kapitän und Admiral im Dienst der Niederländischen Ostindien-Kompanie und berichtet von der Reise nach Indien (genauer Kozhikode und Malabar).</summary>
-              <textLang mainLang="nl"/>
+              <textLang mainLang="nld"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="151" to="156"/>
                 <author>Pieter Willemsz Verhoeff</author>

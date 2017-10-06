@@ -11,7 +11,7 @@
             <msContents>
               <summary>Schreibkaleneder des Jahres 1571. <rs type="person" ref="../../register.xml#Johannes_Caselius">Johannes Caselius</rs> verzeichnet hier 
                 täglich seine Korrespondenz mit Briefein- und -ausgängen. Es handelt sich hauptsächlich um nummerierte Personen- und Ortslisten. Die Nummerierung besteht aus dem Datum des jeweiligen Tages, also 1) für den ersten Tag im Monat usw.</summary>
-              <textLang mainLang="la" otherLangs="grc"/>
+              <textLang mainLang="lat" otherLangs="grc"/>
               <msItem class="../../register.xml#Schreibkalender">
                 <locus from="1" to="30"/>
                 <author ref="../../register.xml#Johannes_Caselius">Johannes Caselius</author>

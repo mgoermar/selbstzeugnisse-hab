@@ -15,7 +15,7 @@
                 appointed Capt. of y NewCastle fregat" zahlreiche Briefe und Antwortschreiben von <rs type="person" ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August</rs> z.B. an <rs type="person" ref="../../register.xml#Samuel_Pepys">Samuel Pepys</rs>. 
                 Auch ge- und verkaufte Sklaven werden aufgelistet, z.B. 46v "Names of Turkes e Moors wch were set on shore at Tanguir wch were sold on board y NewCastle y 29th 7ber.". Auf 50r ist eine Liste "Passangers on board y NewCastle for England". 
                 Auf 61v-72v viele und umfangreiche Tabellen sowie Listen zu: Maßen, Gewichten, Preisen, welche alle Kriegsschiffe und deren Bedarf betreffen.</summary>
-              <textLang mainLang="en"/>
+              <textLang mainLang="eng"/>
               <msItem class="../../register.xml#Schiffstagebuch">
                 <locus from="1r" to="75r"/>
                 <author ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August von Schleswig-Holstein-Norburg</author>

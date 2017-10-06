@@ -10,7 +10,7 @@
           <msPart><msIdentifier><idno>38.19 Aug. 2°, 1</idno></msIdentifier>
             <msContents>
               <summary>Reisetagebuch einer Schiffsreise nach Brasilien. Das Tagebuch oder Logbuch berichtet davon, wie <rs type="person" ref="../../register.xml#Piet_Heyn">Heyn</rs> als Vize-Admiral der Niederländischen Westindien-Kompanie eine Flotte nach Brasilien und Afrika leitete. Es enthält viele Einträge zu Wind, Wetter, Landschaften sowie Längen- und Breitengraden. In Ich-From verfasst, hier vermutlich als Abschrift vorliegend.</summary>
-              <textLang mainLang="nl"/>
+              <textLang mainLang="nld"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1" to="39"/>
                 <author ref="../../register.xml#Piet_Heyn">Piet Pieterszoon Heyn</author>

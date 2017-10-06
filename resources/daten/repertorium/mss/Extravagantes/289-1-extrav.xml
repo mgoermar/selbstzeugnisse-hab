@@ -17,7 +17,7 @@
                 "<rs type="person" ref="../../register.xml#Leonhard_Baudis">Leonhardi Baudini</rs> coeptuum mense Majo, Anno 1680" (<rs type="person" ref="../../register.xml#Leonhard_Baudis">Leonhard Baudis</rs> Anfang des Monats Mai, des Jahres 1680). 
                 266r-270v leer, auf 271r-274v Nachträge zum Diarium von 1681, teilweise auf dem Kopf stehend verzeichnet. 
                 Auf 275r-349r "Specificaion aller Einnahmen und Außgaben..."; Aufstellung der Reisekosten und Einnahmen während der Reise, beide Rechnungen sind vom 03.06.1681. Auf dem Spiegel hinten die Notiz: "In <rs type="place" ref="../../register.xml#Paris">Paris</rs>".</summary>
-              <textLang mainLang="deu" otherLangs="fr"/>
+              <textLang mainLang="deu" otherLangs="fra"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1" to="349"/>
                 <author ref="../../register.xml#Leonhard_Baudis">Leonhard Baudis</author>

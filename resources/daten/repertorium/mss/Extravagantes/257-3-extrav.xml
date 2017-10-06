@@ -15,7 +15,7 @@
                 genealogischen Angaben im Text hervor. Der Text ist in deutscher, Teile auch in französischer, englischer, italienischer und spanischer Sprache verfasst. 
                 Duktus und Tinte variieren, <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, 
                 Teil 3, 220.1 Extrav.-317 Extrav., Frankfurt a. M. 1993) vermutet, dass das vorliegende Reisetagebuch eine Abschrift aus unterwegs geführten Journalen sowie eine Reinschrift von Teilen aus <ref target="221-extrav.xml">221 Extravagantes</ref> ist. Auf VI-XIV befindet sich ein Ortsregister in alphabetischer Reihenfolge.</summary>
-              <textLang mainLang="deu" otherLangs="fr"/>
+              <textLang mainLang="deu" otherLangs="fra"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1r" to="406v"/>
                 <author ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August von Schleswig-Holstein-Norburg</author>

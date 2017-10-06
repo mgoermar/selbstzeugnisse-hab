@@ -10,7 +10,7 @@
           <msPart><msIdentifier><idno>90.2 Extrav., 1</idno></msIdentifier>
             <msContents>
               <summary>Bericht über mehrere Schifffahrten nach <rs type="place">Florida</rs>/<rs type="place">Amerika</rs> und zu anderen Reisezielen. In tschechischer Sprache verfasst, hier liegt vermutlich eine Abschrift oder Übersetzung vor.</summary>
-              <textLang mainLang="cs"/>
+              <textLang mainLang="ces"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="1" to="107"/>
                 <author ref="../../register.xml#Theodor_de_Bry">Theodor de Bry</author>
