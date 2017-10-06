@@ -6,6 +6,7 @@
   <xsl:import href="../default.xsl"/>
 
   <xsl:variable name="opacUrl">https://opac.lbs-braunschweig.gbv.de/DB=2/CMD?ACT=SRCHA&amp;IKT=1016&amp;SRT=YOP&amp;TRM=</xsl:variable>
+  <xsl:variable name="mssUrl">http://diglib.hab.de?db=mss&amp;list=ms&amp;id=</xsl:variable>
   <xsl:variable name="author" select="//tei:author"/>
   <xsl:variable name="authorUri">
     <xsl:if test="//tei:author/@ref">
@@ -318,6 +319,11 @@
       </table>
 
       <xsl:variable name="shelfmark" select=".//tei:msDesc/tei:msIdentifier/tei:idno"/>
+      <xsl:variable name="ident">
+        <xsl:call-template name="normalize-shelfmark">
+          <xsl:with-param name="shelfmark" select="$shelfmark"/>
+        </xsl:call-template>
+      </xsl:variable>
       <table>
         <tbody>
           <tr>
@@ -325,10 +331,10 @@
             <td>
               <ul>
                 <li>
-                  Literatur zur
-                  <a href="{concat($opacUrl, 'lde %22cod. guelf. ', $shelfmark, '%22')}" target="_blank">Handschrift</a>
-                  <xsl:text> </xsl:text>
-                  <xsl:value-of select="$shelfmark"/> im OPAC
+                  Suche nach Literatur im <a href="{concat($opacUrl, 'lde %22cod. guelf. ', $shelfmark, '%22')}" target="_blank">OPAC</a>
+                </li>
+                <li>
+                  Suche nach Informationen in der <a href="{concat($mssUrl, $ident)}" target="_blank">Handschriftendatenbank</a>
                 </li>
               </ul>
             </td>
@@ -405,5 +411,11 @@
   </xsl:template>
 
   <xsl:template match="tei:listBibl"/>
+
+  <xsl:template name="normalize-shelfmark">
+    <xsl:param name="shelfmark"/>
+    <xsl:variable name="ident" select="translate(normalize-space(translate($shelfmark, '.°', ' f')), ' ', '-')"/>
+    <xsl:value-of select="translate($ident, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz')"/>
+  </xsl:template>
 
 </xsl:transform>
