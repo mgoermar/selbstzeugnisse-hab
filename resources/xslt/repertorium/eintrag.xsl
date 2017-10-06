@@ -142,7 +142,10 @@
           <tr>
             <th>Signatur</th>
             <td>
-              <xsl:value-of select="//tei:idno[ancestor::tei:msPart]"/>
+              <xsl:text>Cod. Guelf. </xsl:text>
+              <xsl:value-of select="//tei:msDesc/tei:msIdentifier/tei:idno"/>
+              <xsl:text>, beginnt auf </xsl:text>
+              <xsl:value-of select="//tei:msItem/tei:locus/@from"/>
             </td>
           </tr>
         </tbody>
