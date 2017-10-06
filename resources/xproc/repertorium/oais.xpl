@@ -1,7 +1,10 @@
 <p:declare-step version="1.0"
+                exclude-inline-prefixes="#all"
                 xmlns:c="http://www.w3.org/ns/xproc-step"
                 xmlns:s="http://selbstzeugnisse.hab.de/ns"
                 xmlns:p="http://www.w3.org/ns/xproc">
+
+  <p:serialization method="xml" port="result"/>
 
   <p:import href="library.xpl"/>
 
@@ -20,7 +23,7 @@
     </p:load>
     <p:xslt>
       <p:input port="stylesheet">
-        <p:document href="oais-resolve.xsl"/>
+        <p:document href="oais-tei.xsl"/>
       </p:input>
       <p:input port="parameters">
         <p:empty/>
