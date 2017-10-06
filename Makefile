@@ -34,5 +34,9 @@ sitemap:
 repository:
 	calabash.cmd -o public/repertorium.xml resources/xproc/repertorium/oais.xpl
 
+.PHONY: beacon
+beacon: linkmap
+	transform.cmd -o:public/beacon.txt -xsl:resources/xproc/edition/beacon.xsl resources/daten/edition/diarium/linkmap.xml
+
 .PHONY: publish
 publish: mets linkmap sitemap solr deploy
