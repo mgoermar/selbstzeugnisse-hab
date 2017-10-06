@@ -144,8 +144,10 @@
             <td>
               <xsl:text>Cod. Guelf. </xsl:text>
               <xsl:value-of select="//tei:msDesc/tei:msIdentifier/tei:idno"/>
-              <xsl:text>, beginnt auf </xsl:text>
-              <xsl:value-of select="//tei:msItem/tei:locus/@from"/>
+              <xsl:if test="//tei:msItem/tei:locus/@from">
+                <xsl:text>, beginnt auf </xsl:text>
+                <xsl:value-of select="//tei:msItem/tei:locus/@from"/>
+              </xsl:if>
             </td>
           </tr>
         </tbody>
