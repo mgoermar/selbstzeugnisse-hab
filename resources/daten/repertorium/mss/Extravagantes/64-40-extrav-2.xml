@@ -18,7 +18,7 @@
                 <author>unbekannt</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
-                  <name><rs type="person" ref="../../register.xml#Jakob_Burckhard">Jakob Burckhard</rs></name>
+                  <name ref="../../register.xml#Jakob_Burckhard">Jakob Burckhard</name>
                 </respStmt>
                 <title type="uniform">Lebenslauf Urban Dietrich von Lüdecke</title>
                 <date type="coverage" from="1672" to="1729"/>

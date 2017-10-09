@@ -18,7 +18,7 @@
                 <author ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin Andreae</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
-                  <name ref="ref="../../register.xml#Gottlieb_Andreae">Gottlieb Andreae</name>
+                  <name ref="../../register.xml#Gottlieb_Andreae">Gottlieb Andreae</name>
                 </respStmt>
                 <title type="uniform">Lebenslauf Johann Valentin Andreae</title>
                 <date type="coverage" from="1586-08-17" to="1654-06-27"/>

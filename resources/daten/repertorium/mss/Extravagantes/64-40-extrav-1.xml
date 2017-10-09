@@ -17,7 +17,7 @@
                 <author ref="../../register.xml#Johann_Jacob_Luedecke">Johann Jakob Lüdecke</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
-                  <name><rs type="person" ref="../../register.xml#Jakob_Burckhard">Jakob Burckhard</rs></name>
+                  <name ref="../../register.xml#Jakob_Burckhard">Jakob Burckhard</name>
                 </respStmt>
                 <title type="uniform">Lebenslauf Johann Jakob Lüdecke</title>
                 <date type="coverage"/>
