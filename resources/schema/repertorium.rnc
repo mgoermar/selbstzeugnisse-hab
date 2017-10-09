@@ -2,7 +2,7 @@
 # Schema Selbstzeugnisse Repertorium
 #
 # Autor:      David Maus <maus@hab.de>
-# Time-stamp: <2017-10-09 10:10:02 maus>
+# Time-stamp: <2017-10-09 10:14:08 maus>
 #
 # ChangeLog
 #
@@ -336,7 +336,7 @@ E23 =
 
 # Datentypen
 Freitext =
-   ( text | Ortsverweis | Personenverweis | Hyperlink | Zeilengruppe )+
+   ( text | e.ref | Ortsverweis | Personenverweis | Zeilengruppe )+
 
 Absätze =
    element p { Freitext }*
@@ -352,12 +352,6 @@ Personenverweis =
    element rs {
       attribute type { "person" },
       attribute ref { xsd:anyURI }?,
-      text
-   }
-
-Hyperlink =
-   element ref {
-      attribute target { xsd:anyURI },
       text
    }
 
