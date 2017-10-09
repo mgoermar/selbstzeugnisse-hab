@@ -97,6 +97,10 @@ strong {
     padding-top: 2em;
 }
 
+.symbol {
+    font-family: "Symbola";
+}
+
 h1 {
     font-size: xx-large;
 }

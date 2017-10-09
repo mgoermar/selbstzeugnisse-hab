@@ -159,7 +159,7 @@
   </xsl:template>
 
   <xsl:template match="tei:c[. = document('')//tei:term/@key]">
-    <span title="{document('')//tei:term[@key = current()]}">
+    <span title="{document('')//tei:term[@key = current()]}" class="symbol">
       <xsl:apply-templates/>
     </span>
   </xsl:template>
