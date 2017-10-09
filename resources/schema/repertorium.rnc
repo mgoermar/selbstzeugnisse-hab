@@ -2,7 +2,7 @@
 # Schema Selbstzeugnisse Repertorium
 #
 # Autor:      David Maus <maus@hab.de>
-# Time-stamp: <2017-10-09 10:31:59 maus>
+# Time-stamp: <2017-10-09 10:34:33 maus>
 #
 # ChangeLog
 #
@@ -12,6 +12,7 @@
 #   * <origDate> optional
 #   * <bindingDesc> optional
 #   * <origPlace>/@ref optional
+#   * <name>/@ref zulassen
 #
 # 2017-08-10  David Maus  <maus@hab.de>
 #   * <textLang>/@otherLangs optional
