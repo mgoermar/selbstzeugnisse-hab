@@ -2,7 +2,7 @@
 # Schema Selbstzeugnisse Repertorium
 #
 # Autor:      David Maus <maus@hab.de>
-# Time-stamp: <2017-10-09 10:34:33 maus>
+# Time-stamp: <2017-10-09 10:54:22 maus>
 #
 # ChangeLog
 #
@@ -13,6 +13,7 @@
 #   * <bindingDesc> optional
 #   * <origPlace>/@ref optional
 #   * <name>/@ref zulassen
+#   * Orts- und Personenregisterverweis in eine Pattern zusammengefasst
 #
 # 2017-08-10  David Maus  <maus@hab.de>
 #   * <textLang>/@otherLangs optional
@@ -78,16 +79,9 @@ include "tei/tei.rnc" {
 }
 include "tei/core.rnc"
 include "tei/header.rnc"
-include "tei/namesdates.rnc"
 
 tei.att.datable.w3c.attributes = att.datable.w3c.attributes
 tei.data.text = data.text
-tei.taxonomy = taxonomy
-tei.birth = birth
-tei.death = death
-tei.persName = persName
-tei.placeName = placeName
-tei.idno = idno
 tei.titleStmt = titleStmt
 tei.publicationStmt = publicationStmt
 
@@ -342,21 +336,14 @@ E23 =
 
 # Datentypen
 Freitext =
-   ( text | e.ref | Ortsverweis | Personenverweis | Zeilengruppe | Unsicher )+
+   ( text | e.ref | Registerverweis | Zeilengruppe | Unsicher )+
 
 Absätze =
    element p { Freitext }*
 
-Ortsverweis =
+Registerverweis =
    element rs {
-      attribute type { "place" },
-      attribute ref { xsd:anyURI }?,
-      text
-   }
-
-Personenverweis =
-   element rs {
-      attribute type { "person" },
+      attribute type { "place" | "person" },
       attribute ref { xsd:anyURI }?,
       text
    }
