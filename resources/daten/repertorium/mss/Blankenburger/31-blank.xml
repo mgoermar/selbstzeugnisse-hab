@@ -50,7 +50,7 @@
                 <p>Beige-braune Pappe</p>
               </bindingDesc>
               <accMat>
-                <p>Auf 139v-143r befindet sich außerdem der "Catalogus Librorum die in meiner Handbibliothecke zufinden welche ich im 1692 Jahre bis auf diese Zahl gebracht.", welcher 63 Titel im Besitz <rs tape="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolfs von Braunschweig-Wolfenbüttel</rs> verzeichnet. In der Handschrift sind des Weiteren ein Mathematikübungsbuch sowie eine Abhandlung mit vielen farbigen Zeichnungen über den Festungs- bzw. Städtebau enthalten</p>
+                <p>Auf 139v-143r befindet sich außerdem der "Catalogus Librorum die in meiner Handbibliothecke zufinden welche ich im 1692 Jahre bis auf diese Zahl gebracht.", welcher 63 Titel im Besitz <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolfs von Braunschweig-Wolfenbüttel</rs> verzeichnet. In der Handschrift sind des Weiteren ein Mathematikübungsbuch sowie eine Abhandlung mit vielen farbigen Zeichnungen über den Festungs- bzw. Städtebau enthalten</p>
               </accMat>
             </physDesc>
             <history>
