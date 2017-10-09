@@ -2,3 +2,4 @@
 /resources/auxdata
 /public/repertorium.xml
 /public/beacon.txt
+/resources/schema/*.xsd
