@@ -2,7 +2,7 @@
 # Schema Selbstzeugnisse Repertorium
 #
 # Autor:      David Maus <maus@hab.de>
-# Time-stamp: <2017-10-09 10:54:22 maus>
+# Time-stamp: <2017-10-09 11:13:07 maus>
 #
 # ChangeLog
 #
@@ -14,6 +14,7 @@
 #   * <origPlace>/@ref optional
 #   * <name>/@ref zulassen
 #   * Orts- und Personenregisterverweis in eine Pattern zusammengefasst
+#   * Abhängigkeit von TEI-Schema gelöst
 #
 # 2017-08-10  David Maus  <maus@hab.de>
 #   * <textLang>/@otherLangs optional
@@ -65,26 +66,6 @@
 
 default namespace = "http://www.tei-c.org/ns/1.0"
 
-include "tei/tei.rnc" {
-   data.temporal.w3c =
-      xsd:date
-    | xsd:gYear
-    | xsd:gMonth
-    | xsd:gDay
-    | xsd:gYearMonth
-    | xsd:gMonthDay
-    | xsd:time
-    | xsd:dateTime
-    | empty
-}
-include "tei/core.rnc"
-include "tei/header.rnc"
-
-tei.att.datable.w3c.attributes = att.datable.w3c.attributes
-tei.data.text = data.text
-tei.titleStmt = titleStmt
-tei.publicationStmt = publicationStmt
-
 start = Repertoriumseintrag
 
 Repertoriumseintrag =
@@ -93,12 +74,11 @@ Repertoriumseintrag =
       attribute xml:id { xsd:ID },
       element teiHeader {
          element fileDesc {
-            tei.titleStmt,
-            tei.publicationStmt,
+            TitleStmt,
+            PublicationStmt,
             e.sourceDesc
          }
-      },
-      \text?
+      }
    }
 
 
@@ -117,8 +97,8 @@ e.ref =
       (
          attribute target { xsd:anyURI } |
          (
-            attribute cRef { tei.data.text },
-            attribute type { tei.data.text }
+            attribute cRef { text },
+            attribute type { text }
          )
       ),
       text?
@@ -231,7 +211,7 @@ E08 =
 # E09: Entstehungszeit
 E09 =
    element origDate {
-      tei.att.datable.w3c.attributes,
+      Datierbar,
       text
    }
 
@@ -239,7 +219,7 @@ E09 =
 E10 =
    element date {
       attribute type { "coverage" },
-      tei.att.datable.w3c.attributes,
+      Datierbar,
       text
    }
 
@@ -355,3 +335,43 @@ Zeilengruppe =
 
 Unsicher =
    element unclear { text }
+
+TitleStmt =
+   element titleStmt {
+      element title { text },
+      element principal { attribute ref { xsd:anyURI }, text },
+      element funder { attribute ref { xsd:anyURI }, text },
+      element respStmt {
+         element name { attribute ref { xsd:anyURI }?, text },
+         element resp { text }
+      }*
+   }
+
+PublicationStmt =
+   element publicationStmt {
+      element publisher { element name { attribute ref { xsd:anyURI }, text } },
+      element pubPlace { text },
+      element date { attribute when { xsd:gYear }, text },
+      element availability {
+         element licence { attribute target { xsd:anyURI }, text }
+      }
+   }
+
+Datierbar =
+   attribute when { DatierbarTyp }?,
+   attribute notBefore { DatierbarTyp }?,
+   attribute notAfter { DatierbarTyp }?,
+   attribute before { DatierbarTyp }?,
+   attribute after { DatierbarTyp }?,
+   attribute from { DatierbarTyp }?,
+   attribute to { DatierbarTyp }?
+
+DatierbarTyp =
+   xsd:date
+ | xsd:gYear
+ | xsd:gMonth
+ | xsd:gDay
+ | xsd:gYearMonth
+ | xsd:gMonthDay
+ | xsd:time
+ | xsd:dateTime
