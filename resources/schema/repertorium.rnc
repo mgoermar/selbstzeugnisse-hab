@@ -2,7 +2,7 @@
 # Schema Selbstzeugnisse Repertorium
 #
 # Autor:      David Maus <maus@hab.de>
-# Time-stamp: <2017-10-09 10:15:30 maus>
+# Time-stamp: <2017-10-09 10:17:40 maus>
 #
 # ChangeLog
 #
@@ -10,6 +10,8 @@
 #   * <foliation> optional
 #   * überflüssige Pattern Hyperlink entfernt
 #   * <origDate> optional
+#   * <bindingDesc> optional
+#   * <origPlace>/@ref optional
 #
 # 2017-08-10  David Maus  <maus@hab.de>
 #   * <textLang>/@otherLangs optional
@@ -49,7 +51,7 @@
 #     (dann macht <oXygen> auch brav eine Kandidatenliste)
 #
 # 2015-08-04  David Maus  <maus@hab.de>
-#   * Wiederholung von bibl in listBibl zulassen 
+#   * Wiederholung von bibl in listBibl zulassen
 #
 # 2015-07-20  David Maus  <maus@hab.de>
 #   * rs/@ref als optional definiert
@@ -159,7 +161,7 @@ e.msDesc =
                E16?
             },
             E17?,
-            E11,
+            E11?,
             E20?
          },
          element history {
@@ -320,7 +322,7 @@ E21 =
 # E22: Entstehungsort
 E22 =
    element origPlace {
-      attribute ref { xsd:anyURI },
+      attribute ref { xsd:anyURI }?,
       text
    }
 
