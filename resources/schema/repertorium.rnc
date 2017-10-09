@@ -2,7 +2,7 @@
 # Schema Selbstzeugnisse Repertorium
 #
 # Autor:      David Maus <maus@hab.de>
-# Time-stamp: <2017-10-09 10:25:16 maus>
+# Time-stamp: <2017-10-09 10:31:59 maus>
 #
 # ChangeLog
 #
@@ -334,6 +334,7 @@ E23 =
          text
       },
       element name {
+         attribute ref { xsd:anyURI }?,
          text
       }
    }

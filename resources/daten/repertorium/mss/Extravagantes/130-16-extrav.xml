@@ -74,7 +74,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl><rs type="person" ref="../../register.xml#Pierre_Jean_Grosley">Pierre-Jean Grosley</rs>: <rs type="place" ref="../../register.xml#London">Londres</rs>, <rs type="place" ref="../../register.xml#Lausanne">Lausanne</rs>, 1770.<ptr type="GVK" cRef="211901547"/></bibl>
+                <bibl>Pierre-Jean Grosley: Londres, Lausanne, 1770.<ref type="GVK" cRef="211901547"/></bibl>
                 <bibl><ref target="http://search.ugent.be/meercat/x/bkt01?q=900000013533">Druck als Digitalisat</ref></bibl>
               </listBibl>
             </additional>
