@@ -204,7 +204,7 @@
         </div>
         <div ID="edition.diarium" LABEL="Diarium August II.">
           <fptr FILEID="edition.diarium.xml"/>
-          <div ID="edition.diarium.titelseite">
+          <div ID="edition.diarium.front">
             <fptr FILEID="edition.diarium.front.xml"/>
           </div>
           <div ID="edition.diarium.1594">
