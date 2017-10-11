@@ -12,7 +12,7 @@
 
   <xsl:template match="TEI">
     <xsl:copy>
-      <xsl:attribute name="xsi:schemaLocation">http://www.tei-c.org/ns/1.0 http://selbstzeugnisse.hab.de/repertorium.xsd</xsl:attribute>
+      <xsl:attribute name="xsi:schemaLocation">http://www.tei-c.org/ns/1.0 http://selbstzeugnisse.hab.de/repertorium/repository.xsd</xsl:attribute>
       <xsl:apply-templates select="@* except @xsi:*"/>
       <xsl:apply-templates select="node()"/>
     </xsl:copy>

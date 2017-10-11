@@ -27,7 +27,7 @@
         </oai:metadataFormat>
         <oai:metadataFormat>
           <oai:metadataPrefix>tei</oai:metadataPrefix>
-          <oai:schema>http://selbstzeugnisse.hab.de/repertorium.xsd</oai:schema>
+          <oai:schema>http://selbstzeugnisse.hab.de/repertorium/repository.xsd</oai:schema>
           <oai:metadataNamespace>http://www.tei-c.org/ns/1.0</oai:metadataNamespace>
         </oai:metadataFormat>
       </ListMetadataFormats>
