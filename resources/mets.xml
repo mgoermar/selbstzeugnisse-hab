@@ -3,7 +3,7 @@
   <fileSec>
     <fileGrp>
       <file ID="edition.diarium.xml" MIMETYPE="application/tei+xml">
-        <FLocat xlink:href="daten/edition/diarium.xml" LOCTYPE="URL"/>
+        <FLocat xlink:href="daten/edition/diarium/diarium.xml" LOCTYPE="URL"/>
       </file>
       <file ID="edition.diarium.front.xml" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/edition/diarium/front.xml" LOCTYPE="URL"/>
