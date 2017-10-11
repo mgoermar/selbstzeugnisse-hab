@@ -190,7 +190,7 @@
           <fptr FILEID="repertorium.liste.xml.twig"/>
           <xi:include href="daten/repertorium/mets.xml" xpointer="divs"/>
         </div>
-        <div ID="repertorium.orte">
+        <div ID="repertorium.vokabular">
           <fptr FILEID="repertorium.register.xml"/>
         </div>
       </div>
@@ -377,6 +377,10 @@
     <behavior STRUCTID="repertorium.eintrag">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/repertorium/eintrag.xsl"/>
+    </behavior>
+    <behavior STRUCTID="repertorium.vokabular">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/repertorium/vokabular.xsl"/>
     </behavior>
     <behavior STRUCTID="edition">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>

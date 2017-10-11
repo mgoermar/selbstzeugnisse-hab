@@ -41,8 +41,9 @@ $app->get('/repertorium/eintrag/{metsId}', 'controller.dynamicpage:handle')
 $app->get('/repertorium/liste', 'controller.repertorium.list:handle')
     ->bind('repertorium.liste');
 
-$app->get('/repertorium/orte', 'controller.staticpage:handle')
-    ->bind('repertorium.orte');
+
+$app->get('/repertorium/vokabular', 'controller.staticpage:handle')
+    ->bind('repertorium.vokabular');
 
 $app->get('/bibliographie', 'controller.staticpage:handle')
     ->bind('bibliographie');
