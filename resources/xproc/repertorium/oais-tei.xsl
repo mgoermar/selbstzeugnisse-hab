@@ -28,4 +28,8 @@
     <xsl:value-of select="."/>
   </xsl:template>
 
+  <xsl:template match="@class[parent::msItem]">
+    <xsl:attribute name="class" select="concat('http://selbstzeugnisse.hab.de/repertorium/vokabular#', substring-after(., '#'))"/>
+  </xsl:template>
+
 </xsl:transform>
