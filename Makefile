@@ -32,7 +32,7 @@ sitemap:
 
 .PHONY: repository
 repository:
-	calabash.cmd -o public/repertorium.xml resources/xproc/repertorium/oais.xpl
+	calabash.cmd -o public/repertorium/repository.xml resources/xproc/repertorium/oais.xpl
 
 .PHONY: beacon
 beacon: linkmap
