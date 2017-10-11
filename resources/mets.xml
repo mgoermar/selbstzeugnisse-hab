@@ -205,6 +205,9 @@
         <div ID="edition.richtlinien" LABEL="Richtlinien">
           <fptr FILEID="edition.richtlinien.xml"/>
         </div>
+        <div ID="edition.diarium.download">
+          <fptr FILEID="edition.diarium.xml"/>
+        </div>
         <div ID="edition.diarium" LABEL="Diarium August II.">
           <fptr FILEID="edition.diarium.xml"/>
           <div ID="edition.diarium.front">
@@ -387,6 +390,10 @@
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
     </behavior>
+    <behavior STRUCTID="edition.diarium.download">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/download.xsl"/>
+    </behavior>
     <behavior STRUCTID="edition.diarium">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
@@ -448,17 +455,6 @@
     <behavior STRUCTID="repertorium.orte">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/register/orte-kml.xsl"/>
-    </behavior>
-  </behaviorSec>
-
-  <behaviorSec ID="tei">
-    <behavior STRUCTID="repertorium.eintrag">
-      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
-      <mechanism LOCTYPE="URL" xlink:href="xslt/identity.xsl"/>
-    </behavior>
-    <behavior STRUCTID="edition.diarium">
-      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
-      <mechanism LOCTYPE="URL" xlink:href="xslt/identity.xsl"/>
     </behavior>
   </behaviorSec>
 

@@ -15,6 +15,9 @@ $app->get('/edition/richtlinien',  'controller.staticpage:handle')
 $app->get('/edition/diarium/register.xml', 'controller.staticpage:handle')
     ->bind('edition.diarium.register');
 
+$app->get('/edition/diarium/download', 'controller.staticpage:handle')
+    ->bind('edition.diarium.download');
+
 $app->get('/edition/diarium/{metsId}', 'controller.dynamicpage:handle')
     ->bind('edition.diarium.jahr')
     ->convert('metsId', function ($metsId) { return "edition.diarium.{$metsId}"; });
