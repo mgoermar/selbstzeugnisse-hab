@@ -22,12 +22,12 @@
     <text>
         <body>
             <div>
-                <head>Digitale Edition</head>
+                <head>Diarium von Herzog August dem Jüngeren</head>
                 <p> Die <ref target="http://selbstzeugnisse.hab.de/edition/diarium/front">Edition</ref> präsentiert das Tagebuch mit dem Originaltitel „Ephemerides. Sive Diarium", welches von August dem Jüngeren (1579-1666), Herzog zu Braunschweig und Lüneburg, dem Namensgeber der Herzog August Bibliothek Wolfenbüttel (HAB), verfasst wurde. Es liegt im Handschriftenbestand der HAB als Autograph vor und wurde bisher weder vollständig transkribiert noch ediert. Das in
                     der Forschungsliteratur oft als Reisetagebuch bezeichnete Diarium wird unter Beibehaltung des diaristischen Charakters und mit Blick auf innovative
                     Darstellungs- und Editionsformen digital ediert. Durch die Einbindung des digitalen
                     Faksimiles können je nach Fragestellung visuelle, autographe und typographische Merkmale des Textes untersucht werden. Im
-                    Kommentar werden u. a. die zahlreichen erwähnten <ref target="http://selbstzeugnisse.hab.de/edition/personen">Personen</ref> und <ref target="http://selbstzeugnisse.hab.de/edition/orte">Orte</ref> identifiziert sowie politische und private Ereignisse erläutert. 
+                    Kommentar werden u. a. die zahlreichen erwähnten <ref target="http://selbstzeugnisse.hab.de/edition/personen">Personen</ref> und <ref target="http://selbstzeugnisse.hab.de/edition/orte">Orte</ref> identifiziert sowie politische und private Ereignisse erläutert.
                     Fremdsprachige Passagen werden mit Übersetzung präsentiert. Die weiteren editorischen Entscheidungen zur Textbearbeitung und -darstellung werden in den <ref target="http://selbstzeugnisse.hab.de/edition/richtlinien">Editions- und Kodierungsrichtlinien</ref> erklärt.</p>
                     <div>
                         <head>Die Quellen</head>
@@ -61,8 +61,16 @@
                                 Aufenthalt zu Tübingen und Straßburg verwandten Gelder“ Niedersächsisches Landesarchiv - Staatsarchiv Wolfenbüttel: 1 Alt 22, Nr. 114</bibl>
                             <bibl>Kalender aus dem Jahr 1617 mit Notizen von Herzog August d. J. von Braunschweig-Wolfenbüttel, inhaltlich beziehen die Notizen sich auf einen Zeitraum von mindestens 1571-1663. Herzog August Bibliothek, Signatur: <ref target="293-2-extrav.xml">Extravagantes 293.2</ref></bibl>
                             <bibl>Zum Vergleich und zur Ergänzung der Jahre 1596-1598 kann das umfangreiche Tagebuch von Martin Crusius, der zusammen mit August Student in Tübingen war, herangezogen werden: <ref target="http://opac.lbs-braunschweig.gbv.de/DB=2/SET=1/TTL=1/SHW?FRST=2">Diarium Martini Crusii, hrsg. von Wilhelm Göz und Ernst Conrad, Tübingen 1927-1961.</ref></bibl>
-                        </listBibl>      
+                        </listBibl>
                     </div>
+                <div>
+                    <head>Zitierempfehlung</head>
+                    <bibl >Inga Hanna Ralle (Hg.): Digitale Edition des Diariums von Herzog August dem Jüngeren. Hrsg. von der Herzog August Bibliothek. Digitale
+                        Edition. Wolfenbüttel 2017. (=Wolfenbütteler Digitale Editionen ; 1)</bibl>
+                </div>
+                <div>
+                    <head>Download der Editionsdateien</head>
+                </div>
             </div>
         </body>
     </text>
