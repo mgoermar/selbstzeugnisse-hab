@@ -133,6 +133,9 @@
       <file ID="index.xml" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/index.xml" LOCTYPE="URL"/>
       </file>
+      <file ID="dienste.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/dienste.xml" LOCTYPE="URL"/>
+      </file>
       <file ID="repertorium.einleitung.xml" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/repertorium/einleitung.xml" LOCTYPE="URL"/>
       </file>
@@ -342,9 +345,7 @@
         <fptr FILEID="bibliographie.xml"/>
       </div>
       <div ID="dienste" LABEL="Datendienste" TYPE="hidden">
-        <div ID="dienste.repertorium.orte" LABEL="Ortsegister Repertorium als KML" TYPE="hidden">
-          <fptr FILEID="dienste.repertorium.orte.xml"/>
-        </div>
+        <fptr FILEID="dienste.xml"/>
       </div>
       <div ID="extern" LABEL="Themenspezifische Websites und Fachportale">
         <fptr FILEID="extern.xml"/>
@@ -415,6 +416,10 @@
       <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
     </behavior>
     <behavior STRUCTID="impressum">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="dienste">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
     </behavior>

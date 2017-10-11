@@ -57,8 +57,8 @@ $app->get('/extern', 'controller.staticpage:handle')
 $app->get('/impressum', 'controller.staticpage:handle')
     ->bind('impressum');
 
-$app->get('/dienste/repertorium/orte', 'controller.staticpage:handle')
-    ->bind('dienste.repertorium.orte');
+$app->get('/dienste', 'controller.staticpage:handle')
+    ->bind('dienste');
 
 $app->get('/suche', 'controller.search:handle')
     ->bind('suche');

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="statisch">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek – Digitale
+                    Dienste</title>
+                <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna
+                    Ralle</principal>
+                <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für
+                    Wissenschaft und Kultur</funder>
+                <respStmt>
+                    <name>Jacqueline Krone</name>
+                    <resp>Metadaten, Recherche und Korrektur</resp>
+                </respStmt>
+                <respStmt>
+                    <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+                    <resp>Technische Konzeption und Begleitung</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+                        Wolfenbüttel</name>
+                </publisher>
+                <pubPlace>Wolfenbüttel</pubPlace>
+                <date when="2017">2017</date>
+                <availability>
+                    <licence target="https://creativecommons.org/publicdomain/zero/1.0/"
+                        >CC0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Digitale Dienste</head>
+                <p>Alle im Portal angebotenen Inhalte werden unter einer freien Lizenz angeboten und
+                    zur Nachnutzung zur Verfügung gestellt. Wenn nicht anders angegeben unterliegen
+                    die Daten der Lizenz <ref
+                        target="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC-BY-SA
+                        4.0</ref> ( Namensnennung - Weitergabe unter gleichen Bedingungen 4.0
+                    International).</p>
+                <div>
+                    <head>Repertorium</head>
+                    <p>Die Metadaten der im Repertorium erschlossenen Selbstzeugnisse sind als <ref
+                            target="http://selbstzeugnisse.hab.de/repertorium/repository.xml"
+                            >statisches OAI-Repository</ref> abrufbar und unterliegend der <ref
+                            target="https://creativecommons.org/publicdomain/zero/1.0/"
+                        >CC0</ref>-Lizenz (Public Domain Dedication). Sie können ohne Auflagen für
+                        beliebige Zwecke benutzt werden. Die Einträge des statischen Repository
+                        können dem zugehörigen <ref target="http://selbstzeugnisse.hab.de/repertorium/repository.xsd"
+                            >XML Schema</ref> geprüft werden.</p>
+                </div>
+                <div>
+                    <head>Edition</head>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
