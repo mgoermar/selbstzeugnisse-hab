@@ -82,7 +82,7 @@
     </h1>
   </xsl:template>
 
-  <xsl:template match="tei:head[tei:date]">
+  <xsl:template match="tei:head[tei:date] | tei:label[tei:date]">
     <h2><xsl:apply-templates/></h2>
   </xsl:template>
 
