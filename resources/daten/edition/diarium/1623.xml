@@ -51,13 +51,13 @@
             
             <div xml:id="E1623-01-28"><head><date when="1623-01-28">d<ex>e</ex>n 28. Jan<ex>uari</ex>
                 <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger.</rs></p></div>
-            
-            <div><note place="margin-right"><head><date when="1623-04-16">den 16 April<ex>is</ex>
-                <c>☿</c>.</date></head><p> biß <rs ref="register.xml#Lueneburg" type="place">Lüneburgk</rs> mit meinen
+            <!-- TEI-P5 3.2.0 erlaubt kein <head> in einer <note>; <note> ist aber der Weg, Marginalien zu kodieren. Deshalb an dieser Stelle <label>. -->
+            <div><note place="margin-right"><label><date when="1623-04-16">den 16 April<ex>is</ex>
+                <c>☿</c>.</date></label><p> biß <rs ref="register.xml#Lueneburg" type="place">Lüneburgk</rs> mit meinen
                     <foreign xml:lang="lat">neptibus ex sorore</foreign><note type="translation">Nichten von meiner Schwester</note>, gezogen: die von danne<ex>n</ex> nach <rs ref="register.xml#Delmenhorst" type="place">Delmenh<ex>orst</ex></rs> gebracht.</p></note></div> 
                     
-          <div><note place="margin-right"><head><date when="1623-04-17">den 17. Apr<ex>ilis</ex>
-                        <c>♃</c>.</date></head> <p>biß. <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></note></div>
+          <div><note place="margin-right"><label><date when="1623-04-17">den 17. Apr<ex>ilis</ex>
+                        <c>♃</c>.</date></label> <p>biß. <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></note></div>
             
             <div xml:id="E1623-06-04"><head><date when="1623-06-04">den 4. Junÿ <c>☿</c>,</date></head><p> biß <rs ref="register.xml#Uelzen" type="place">Ültzen</rs>.</p></div>
             
