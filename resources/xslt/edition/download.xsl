@@ -10,6 +10,8 @@
     </xsl:copy>
   </xsl:template>
 
+  <xsl:template match="@type[parent::tei:TEI]"/>
+
   <xsl:template match="@xml:base"/>
 
   <xsl:template match="@ref[starts-with(., 'register.xml')]">
@@ -21,7 +23,7 @@
       </xsl:when>
       <xsl:otherwise>
         <xsl:attribute name="ref">
-          <xsl:value-of select="concat('tag:selbstzeugnisse.hab.de,2017:edition/diarium/register#', substring-after(., '#'))"/>
+          <xsl:value-of select="concat('tag:selbstzeugnisse.hab.de,2017:edition/', substring-after(., '#'))"/>
         </xsl:attribute>
       </xsl:otherwise>
     </xsl:choose>
