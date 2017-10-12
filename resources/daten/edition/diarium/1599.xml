@@ -167,7 +167,7 @@
                 beschlag<ex>en</ex>, liege<ex>n</ex> die <rs type="libri">Pandectae
                     Fiorentin<ex>ae</ex></rs><note type="annotation">Littera Florentina, auch Codex Florentinus, die bei weitem wichtigste handschriftliche Überlieferung der Digesten</note>, in 2 theill eingebund<ex>en</ex>, d<ex>er</ex> and<ex>er</ex> theyll fangett an vo<ex>m</ex> Titulo de
                 Legatis &amp; fidei commissis. Jm ersten theill hinten stehett nachfolgendes
-                geschrieben: welchß Griechisch verß, vnd auf Latein so heissen: <lg xml:lang="lat">Librum <rs ref="register.xml#Justinian_I." type="person">Justinianus</rs>,
+                geschrieben: welchß Griechisch verß, vnd auf Latein so heissen: <foreign xml:lang="lat">Librum <rs ref="register.xml#Justinian_I." type="person">Justinianus</rs>,
                     arbitrat<ex>us</ex> est, 2 Hunc que<ex>m</ex> leviter <rs ref="register.xml#Gaius_Tribonianus" type="person">Tribunian<ex>us</ex></rs> magno fecit Imperatori, 3 Sicuti aliq<ex>ua</ex>s Herculi valde
                     varium, clypaeum ordinavit, 4 Quo perritent pulchritudines <add place="above">vel fastigia</add>
                     o<ex>mn</ex>es; 5 Justiciae ho<ex>m</ex>i<ex>n</ex>es, q<ex>uae</ex> Asiae Lanciae acq<ex>ui</ex>sitae, &amp; librae Europae <unclear>q</unclear>
@@ -176,7 +176,7 @@
                     Secretari<ex>us</ex>, <foreign xml:lang="lat">manu p<ex>ro</ex>pria</foreign><note type="translation" resp="as">eigenhändig</note> , die 9 Apr<ex>ilis</ex> 1486. Ego <rs type="person" resp="#Marsilius_Ficinus">Marsili<ex>us</ex> Ficin<ex>us</ex></rs> interfui, dum hoc rep<ex>er</ex>rete, id<ex>um</ex> manum p<ex>ro</ex>pria siripsi. Petro
                     Berrad, de Berrardis sedente vexilli fero Justiciae; <unclear>quapp</unclear> perspicu<ex>m</ex> Judicam<ex>us</ex> hoc volumen, p<ex>ro</ex>prie
                     fuisse ab ipso Justiniano compositu<ex>m</ex>, nec solum
-                    transscriptum:</lg> darnach gezeigett word<ex>en</ex>, d<ex>a</ex>z zeůg, so die <rs ref="register.xml#Grossherzogin_Christine_von_Toskana" type="person">Großhertzoginne</rs> auf ihrem
+                    transscriptum:</foreign> darnach gezeigett word<ex>en</ex>, d<ex>a</ex>z zeůg, so die <rs ref="register.xml#Grossherzogin_Christine_von_Toskana" type="person">Großhertzoginne</rs> auf ihrem
                 mawlthier hehabtt, wie sie ist eingezogen, welches vo<ex>n</ex> lauter
                 silbertratt gemachett: die Satteldeck ist
                 

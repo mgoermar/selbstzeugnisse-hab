@@ -24,7 +24,7 @@
             
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00102.jpg" n="49v"/>
             
-            <div><head><foreign xml:lang="lat"><p>Eodem Anno.</p></foreign><note type="translation">Im selben Jahr</note></head></div>
+            <div><head><foreign xml:lang="lat">Eodem Anno.</foreign><note type="translation">Im selben Jahr</note></head></div>
             
             <div xml:id="E1622-07-10"><head><date when="1622-07-10">den 10. Julÿ. <c>☿</c>.</date></head><p> biß <rs ref="register.xml#Neustadt_Glewe" type="place">Vergün:
                 Newstadt</rs>, 5. m<ex>eill</ex>.</p></div>
@@ -56,7 +56,7 @@
             
             <div xml:id="E1622-10-19"><head><date when="1622-10-19">d<ex>e</ex>n 19. 8bris <c>♄</c>.</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
             
-            <div><head><p><foreign xml:lang="lat">Eodem Anno.</foreign><note type="translation">Im selben Jahr</note></p></head></div>
+            <div><head><foreign xml:lang="lat">Eodem Anno.</foreign><note type="translation">Im selben Jahr</note></head></div>
             
             <div xml:id="E1622-12-16"><head><date when="1622-12-16">d<ex>e</ex>n 16 Xbris <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>.</p></div>
             

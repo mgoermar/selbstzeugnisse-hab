@@ -20,7 +20,7 @@
             
             <div xml:id="E1628-05-14"><head><date when="1628-05-14">den 14 Maii, </date></head><p> biß <rs ref="register.xml#Delmenhorst" type="place">delmenhorst</rs>. <c>☿</c></p></div>
             
-            <div><add place="above"><head><date when="1628-05-25">(den 25 Maii,</date></head><p> <foreign xml:lang="lat">incendiu<ex>m</ex></foreign><note type="translation" resp="as">Brand</note> von <rs ref="register.xml#Hitzacker" type="place">Hitzgerae</rs>.</p></add></div>
+            <div><head><date when="1628-05-25">(den 25 Maii,</date></head><p> <foreign xml:lang="lat">incendiu<ex>m</ex></foreign><note type="translation" resp="as">Brand</note> von <rs ref="register.xml#Hitzacker" type="place">Hitzgerae</rs>.</p></div>
             
             <div xml:id="E1628-06-06"><head><date when="1628-06-06">den 6. Junii. <c>♀</c></date></head><p> biß <rs ref="register.xml#Bremen" type="place">Bremen</rs>.</p></div>
             
@@ -43,7 +43,7 @@
             
             <div xml:id="E1628-06-17"><head><date when="1628-06-17">den 17 Junii. <c>♂</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
             
-            <div><head><p><foreign xml:lang="lat">Eodem Anno.</foreign><note type="translation">Im selben Jahr</note></p></head></div>
+            <div><head><foreign xml:lang="lat">Eodem Anno.</foreign><note type="translation">Im selben Jahr</note></head></div>
             
             <div xml:id="E1628-07-16"><head><date when="1628-07-16">den 16.<del>7bris</del> Julii, <c>☿</c></date></head><p> zu <rs ref="register.xml#Lueneburg" type="place">Luneburgk</rs> gewesen, wie die
                 unfreundliche vorschläge vom stadthalter zu <rs ref="register.xml#Celle" type="place">Zelle</rs>, <rs ref="register.xml#Julius_von_Buelow" type="person">Julio v<ex>on</ex>
@@ -51,7 +51,7 @@
             
             <div xml:id="E1628-07-17"><head><date when="1628-07-17">d<ex>en</ex> 17. Julii. <c>♃</c></date></head><p> wied<ex>er</ex> nach <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.<c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
                               
-            <div><head><p>Eode<ex>m</ex> Anno.</p></head></div>
+            <div><head>Eode<ex>m</ex> Anno.</head></div>
             
             <div xml:id="E1628-09-19"><note place="margin-right">Die Reyse nach <rs ref="register.xml#Vienna" type="place">Wien</rs>. 4.m<ex>eill</ex></note><head><date when="1628-09-19">den 19. 7bris, <c>♀</c></date></head><p> biß <rs ref="register.xml#Loitsche" type="place">Lonitz</rs>
                 dorff. 4.m<ex>eill</ex><hi rend="superscript">n</hi>
@@ -147,51 +147,51 @@
                 <foreign xml:lang="lat">valediction</foreign><note type="translation" resp="as">Abschied</note> gehabt; bey d<ex>er</ex> <rs ref="register.xml#Ferdinand_II._HRR" type="person">Röm<ex>isch</ex> kays<ex>erlichen</ex> M<ex>ajes</ex>t<ex>ät</ex></rs>; <foreign xml:lang="lat">Versperi</foreign><note type="translation">Abends</note> ist d<ex>er</ex> Pater <rs ref="register.xml#Pirckheimer_Familie" type="org">Arnoldus pirckhaymer</rs>, bey uns zu gaste gewesen, und
                 mit uns <w>discurriret</w><note type="annotation">verhandeln, unterhalten</note>.</p></div>
             
-            <div xml:id="E1628-11-15"><note place="margin-left"><foreign xml:lang="lat">Redit<ex>us</ex> in pa<ex>tr</ex>iam</foreign><note type="translation">Rückkehr in die Heimat</note> 2.m<ex>eill</ex></note><head><date when="1628-11-15">den 15. 9bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Korneuburg" type="place">Chorneuburg</rs>,
+            <div xml:id="E1628-11-15a"><note place="margin-left"><foreign xml:lang="lat">Redit<ex>us</ex> in pa<ex>tr</ex>iam</foreign><note type="translation">Rückkehr in die Heimat</note> 2.m<ex>eill</ex></note><head><date when="1628-11-15">den 15. 9bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Korneuburg" type="place">Chorneuburg</rs>,
                 2.m<ex>eill</ex></p></div>
             
             <div xml:id="E1628-11-16"><note place="margin-left">9.m<ex>eill</ex></note><head><date when="1628-11-16">d<ex>en</ex> 16. 9bris <c>♃</c>.</date></head><p> Durch <rs ref="register.xml#Hollabrunn" type="place">Hollenbrun</rs> <hi rend="superscript">biß </hi><rs ref="register.xml#Schoengrabern" type="place">schöngraben</rs>, 4 ½m<ex>eill</ex>
                 biß <rs ref="register.xml#Kalladorf" type="place">kalldorf</rs> 2 ½m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7.</p></div>
             
-            <div xml:id="E1628-11-17"><note place="margin-left">15 1/2.m<ex>eill</ex></note><head><date when="1628-11-17">d<ex>en</ex> 17. 9bris, <c>♀</c></date></head><p> durch <rs ref="register.xml#Znaim_Znojom" type="place">znaimb</rs>, 1.m<ex>eill</ex> biß <rs ref="register.xml#Maehrisch_Budwitz_Moravske_Budejovice" type="place">Budowetz</rs>, 3.m<ex>eill</ex> biß <rs ref="register.xml#Herrlitz" type="place">Hersltitz dorff</rs>, 2 ½m<ex>eill</ex>
+            <div xml:id="E1628-11-17a"><note place="margin-left">15 1/2.m<ex>eill</ex></note><head><date when="1628-11-17">d<ex>en</ex> 17. 9bris, <c>♀</c></date></head><p> durch <rs ref="register.xml#Znaim_Znojom" type="place">znaimb</rs>, 1.m<ex>eill</ex> biß <rs ref="register.xml#Maehrisch_Budwitz_Moravske_Budejovice" type="place">Budowetz</rs>, 3.m<ex>eill</ex> biß <rs ref="register.xml#Herrlitz" type="place">Hersltitz dorff</rs>, 2 ½m<ex>eill</ex>
                 <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 6 ½m<ex>eill</ex></p></div>
             
-            <div xml:id="E1628-11-18"><note place="margin-left">18.m<ex>eill</ex></note><head><date when="1628-11-18">d<ex>en</ex> 18. 9bris <c>♄</c>,</date></head><p> durch <rs ref="register.xml#Pirnitz" type="place">Pirnitz</rs>. 1.m<ex>eill</ex> biß <rs ref="register.xml#Trebitsch_Trebic" type="place">Trigla</rs>, 1 ½m<ex>eill</ex>
+            <div xml:id="E1628-11-18a"><note place="margin-left">18.m<ex>eill</ex></note><head><date when="1628-11-18">d<ex>en</ex> 18. 9bris <c>♄</c>,</date></head><p> durch <rs ref="register.xml#Pirnitz" type="place">Pirnitz</rs>. 1.m<ex>eill</ex> biß <rs ref="register.xml#Trebitsch_Trebic" type="place">Trigla</rs>, 1 ½m<ex>eill</ex>
                 <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 2 ½m<ex>eill</ex></p></div>
             
-            <div xml:id="E1628-11-19"><note place="margin-left">23.m<ex>eill</ex></note><head><date when="1628-11-19">den 19. 9bris, <c>☉</c></date></head><p> biß <rs ref="register.xml#Deutschbrod_Havlickuv_Brod" type="place">Teutschen Broda</rs>, 3.m<ex>eill</ex> biß <rs ref="register.xml#Habern" type="place">Haberen</rs>, 2.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 5.</p></div>
+            <div xml:id="E1628-11-19a"><note place="margin-left">23.m<ex>eill</ex></note><head><date when="1628-11-19">den 19. 9bris, <c>☉</c></date></head><p> biß <rs ref="register.xml#Deutschbrod_Havlickuv_Brod" type="place">Teutschen Broda</rs>, 3.m<ex>eill</ex> biß <rs ref="register.xml#Habern" type="place">Haberen</rs>, 2.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 5.</p></div>
             
-            <div xml:id="E1628-11-20"><note place="margin-left">28.m<ex>eill</ex></note><head><date when="1628-11-20">den 20. 9bris. <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Tschaslau_Caslav" type="place">Tzaslaff</rs> 3.
+            <div xml:id="E1628-11-20a"><note place="margin-left">28.m<ex>eill</ex></note><head><date when="1628-11-20">den 20. 9bris. <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Tschaslau_Caslav" type="place">Tzaslaff</rs> 3.
                m<ex>eill</ex> <seg>wasserkrätzem dorff</seg><note type="annotation">Vermutlich keine Ortsangabe, sondern ein Hinweis darauf, dass hier die so genannte "Wasserkrätze" als Krankheit unter bestimmten Berufsgruppen, wie z.b. den Glasschleifern, grassierte. Vgl. <ref target="http://www.zobodat.at/pdf/Lotos_71_0075-0110.pdf">Die Lage der Glasarbeiter im Gablonzer Bezirk. Von Dr. F. Breinl.</ref></note>, biß <rs ref="register.xml#Kolin" type="place">Cöllin</rs> 2.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 5.</p></div>
             
-            <div xml:id="E1628-11-21"><note place="margin-left">32.m<ex>eill</ex></note><head><date when="1628-11-21">d<ex>en</ex> 21. 9bris <c>♂</c>,</date></head><p> durch <rs ref="register.xml#Planeis" type="place">Pleimtz</rs>, 1 ½m<ex>eill</ex> <rs ref="register.xml#Boehmisch_Brod_Cesky_Brod" type="place">Behrnischebroda</rs>, 1 ½m<ex>eill</ex> biß <rs ref="register.xml#Uvaly" type="place">Ohmwald</rs> 1.m<ex>eill</ex>
+            <div xml:id="E1628-11-21a"><note place="margin-left">32.m<ex>eill</ex></note><head><date when="1628-11-21">d<ex>en</ex> 21. 9bris <c>♂</c>,</date></head><p> durch <rs ref="register.xml#Planeis" type="place">Pleimtz</rs>, 1 ½m<ex>eill</ex> <rs ref="register.xml#Boehmisch_Brod_Cesky_Brod" type="place">Behrnischebroda</rs>, 1 ½m<ex>eill</ex> biß <rs ref="register.xml#Uvaly" type="place">Ohmwald</rs> 1.m<ex>eill</ex>
                 <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 4.</p></div>
             
-            <div xml:id="E1628-11-22"><note place="margin-left">35 .m.</note><head><date when="1628-11-22">d<ex>en</ex> 12/22. 9bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Prag" type="place">Praag</rs>, 3.m<ex>eill</ex></p></div>
+            <div xml:id="E1628-11-22a"><note place="margin-left">35 .m.</note><head><date when="1628-11-22">d<ex>en</ex> 12/22. 9bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Prag" type="place">Praag</rs>, 3.m<ex>eill</ex></p></div>
             
-            <div xml:id="E1628-11-15"><note place="margin-left">40.m<ex>eill</ex></note><head><date when="1628-11-15">den 15. 9bris biß <foreign xml:lang="lat">st<ex>ili</ex> vet<ex>eri</ex></foreign><note type="translation">alten Stils</note> <c>♄</c>.</date></head><p> biß <rs ref="register.xml#Velvary" type="place">Welbern</rs>, 3.m<ex>eill</ex> biß <rs ref="register.xml#Rakonitz_Rakovnik" type="place">Rautenitz</rs> 2.m<ex>eill</ex> <foreign xml:lang="lat">facit</foreign><note type="translation">ergibt</note> 5 dem
+            <div xml:id="E1628-11-15b"><note place="margin-left">40.m<ex>eill</ex></note><head><date when="1628-11-15">den 15. 9bris biß <foreign xml:lang="lat">st<ex>ili</ex> vet<ex>eri</ex></foreign><note type="translation">alten Stils</note> <c>♄</c>.</date></head><p> biß <rs ref="register.xml#Velvary" type="place">Welbern</rs>, 3.m<ex>eill</ex> biß <rs ref="register.xml#Rakonitz_Rakovnik" type="place">Rautenitz</rs> 2.m<ex>eill</ex> <foreign xml:lang="lat">facit</foreign><note type="translation">ergibt</note> 5 dem
                 <rs ref="register.xml#Wenzel_Eusebius_von_Lobkowitz" type="person">wentzel Poppel von Lockovitz</rs> gehörig.</p><note type="annotation">August notiert ab hier die Daten des Julianischen Kalenders. Er hatte am 4. November zum neuen Stil gewechselt.</note></div>
             
-            <div xml:id="E1628-11-17"><note place="margin-left">43.m<ex>eill</ex></note><head><date when="1628-11-17">den 17. 9bris <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Doxan" type="place">Tocksan</rs>
+            <div xml:id="E1628-11-17b"><note place="margin-left">43.m<ex>eill</ex></note><head><date when="1628-11-17">den 17. 9bris <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Doxan" type="place">Tocksan</rs>
                 Junferkloster, <rs ref="register.xml#Brosan" type="place">Brosan</rs>, Schlos, über die Eger, biß <rs type="place">Labas</rs> städtlein, 2.m<ex>eill</ex> <rs ref="register.xml#Salesel" type="place">Sallesell</rs>.
                 dorff, 1.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 3.</p></div>
             
-            <div xml:id="E1628-11-18"><note place="margin-left">46.m<ex>eill</ex></note><head><date when="1628-11-18">den 18. 9bris, <c>♂</c></date></head><p> biß <rs ref="register.xml#Aussig" type="place">Aussig</rs>, 1.
+            <div xml:id="E1628-11-18b"><note place="margin-left">46.m<ex>eill</ex></note><head><date when="1628-11-18">den 18. 9bris, <c>♂</c></date></head><p> biß <rs ref="register.xml#Aussig" type="place">Aussig</rs>, 1.
                m<ex>eill</ex> biß <rs ref="register.xml#Elexnitz" type="place">Etznintz</rs> dorff; <rs ref="register.xml#Peterswald_Petrovice_u_Chabrovice" type="place">Peterswalde</rs>, 2m<ex>eill</ex></p></div>
             
-            <div xml:id="E1628-11-19"><note place="margin-left">51.m<ex>eill</ex></note><head><date when="1628-11-19">d<ex>en</ex> 19. 9bris <c>☿</c></date></head><p> biß. <rs ref="register.xml#Bad_Gottleuba_Berggiesshuebel" type="place">Geshübel</rs>, <rs ref="register.xml#Pirna" type="place">Pirn</rs>, 3.m<ex>eill</ex> biß <rs ref="register.xml#Leuben" type="place">Leibe dorff</rs>, 1.m<ex>eill</ex> <rs ref="register.xml#Dresden" type="place">Dreßden</rs> 1.m<ex>eill</ex>
+            <div xml:id="E1628-11-19b"><note place="margin-left">51.m<ex>eill</ex></note><head><date when="1628-11-19">d<ex>en</ex> 19. 9bris <c>☿</c></date></head><p> biß. <rs ref="register.xml#Bad_Gottleuba_Berggiesshuebel" type="place">Geshübel</rs>, <rs ref="register.xml#Pirna" type="place">Pirn</rs>, 3.m<ex>eill</ex> biß <rs ref="register.xml#Leuben" type="place">Leibe dorff</rs>, 1.m<ex>eill</ex> <rs ref="register.xml#Dresden" type="place">Dreßden</rs> 1.m<ex>eill</ex>
                 <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 5.</p></div>
             
-            <div xml:id="E1628-11-20"><note place="margin-left">55.m<ex>eill</ex></note><head><date when="1628-11-20">den 20. 9bris, <c>♃</c></date></head><p> biß <rs ref="register.xml#Grossenhain" type="place">grossen
+            <div xml:id="E1628-11-20b"><note place="margin-left">55.m<ex>eill</ex></note><head><date when="1628-11-20">den 20. 9bris, <c>♃</c></date></head><p> biß <rs ref="register.xml#Grossenhain" type="place">grossen
                 Haan</rs>, 4.m<ex>eill</ex></p></div>
             
-            <div xml:id="E1628-11-21"><note place="margin-left">62.m<ex>eill</ex></note><head><date when="1628-11-21">den 21. 9bris, <c>♀</c></date></head><p> biß <rs ref="register.xml#Kossdorf" type="place">Coßdorf</rs> 4.
+            <div xml:id="E1628-11-21b"><note place="margin-left">62.m<ex>eill</ex></note><head><date when="1628-11-21">den 21. 9bris, <c>♀</c></date></head><p> biß <rs ref="register.xml#Kossdorf" type="place">Coßdorf</rs> 4.
                m<ex>eill</ex> <rs ref="register.xml#Muehlberg_Elbe" type="place">Mülberg</rs> auf d<ex>er</ex> r<ex>echten</ex> h<ex>and</ex> liegg<ex>en</ex> lassen. biß <rs ref="register.xml#Annaburg" type="place">Annenburg</rs>, 3.
                m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7.</p></div>
             
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00111.jpg" n="54r"/>
             
-            <div xml:id="E1628-11-22"><note place="margin-right">66.m<ex>eill</ex></note><head><date when="1628-11-22">den 22. 9bris <c>♄</c>,</date></head><p> durch <rs ref="register.xml#Jessen" type="place">Jessen</rs>, 1.m<ex>eill</ex> biß <rs ref="register.xml#Wittenberg" type="place">Wittenberg</rs>, 3.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 4.</p></div>
+            <div xml:id="E1628-11-22b"><note place="margin-right">66.m<ex>eill</ex></note><head><date when="1628-11-22">den 22. 9bris <c>♄</c>,</date></head><p> durch <rs ref="register.xml#Jessen" type="place">Jessen</rs>, 1.m<ex>eill</ex> biß <rs ref="register.xml#Wittenberg" type="place">Wittenberg</rs>, 3.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 4.</p></div>
             
             <div xml:id="E1628-11-24"><note place="margin-right">72.m<ex>eill</ex></note><head><date when="1628-11-24">den 24. 9bris, <c>☽</c>.</date></head><p> durch <rs ref="register.xml#Coswig_Anhalt" type="place">Coßwig</rs>,
                 2.m<ex>eill</ex> biß <rs ref="register.xml#Zerbst_Anhalt" type="place">Zerbst</rs>, 4.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 6.</p></div>

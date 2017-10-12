@@ -42,7 +42,7 @@
             <div xml:id="E1619-02-23"><head><date when="1619-02-23">den 23. Februar<ex>ÿ</ex>
                 <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
                                
-            <div><head><p><foreign xml:lang="lat">Eodem anni</foreign><note type="translation">Im selben Jahr</note></p></head></div>
+            <div><head><foreign xml:lang="lat">Eodem anni</foreign><note type="translation">Im selben Jahr</note></head></div>
             
             <div xml:id="E1619-10-28"><head><date when="1619-10-28">d<ex>e</ex>n 28. 8bris, <c>♃</c></date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs> 5 m<ex>eill</ex>.</p></div>
             
@@ -66,7 +66,7 @@
             
             <div xml:id="E1619-11-13"><head><date when="1619-11-13">den 13. 9bris <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>. 5 m<ex>eill</ex>.</p></div>
             
-            <div><head><foreign xml:lang="lat"><p>Eodem anno</p></foreign><note type="translation">Im selben Jahr</note></head></div>
+            <div><head><foreign xml:lang="lat">Eodem anno</foreign><note type="translation">Im selben Jahr</note></head></div>
             
             <div xml:id="E1619-12-28"><head><date when="1619-12-28">den 28 1Xbris <c>☉</c></date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>, 5 m<ex>eill</ex>.</p></div>
             

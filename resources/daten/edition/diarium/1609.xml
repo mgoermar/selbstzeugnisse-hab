@@ -150,7 +150,7 @@
                 <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> <subst><del>6</del><add>5</add></subst> m<ex>eill</ex> <unclear/> </p></div>
             
             <div xml:id="E1609-12-13"><head type="margin-left"><foreign xml:lang="lat">N<ex>ota</ex>B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note> <date when="1609-12-13">den 13, 10bris,
-                <c>☿</c> </date></head><p><foreign xml:lang="lat">nata 6 filia</foreign><note type="translation">wurde die sechste Tochter geboren von</note>, <w><rs type="person">Dorothea</rs></w><note type="annotation">Augusts Nichte und sechste Tochter von Sibylle Elisabeth von Braunschweig-Dannenberg und Anton II.</note>,
+                <c>☿</c> </date></head><p><foreign xml:lang="lat">nata 6 filia</foreign><note type="translation">wurde die sechste Tochter geboren von</note>, <rs> type="person"><w>Dorothea</w></rs><note type="annotation">Augusts Nichte und sechste Tochter von Sibylle Elisabeth von Braunschweig-Dannenberg und Anton II.</note>,
                 <rs ref="register.xml#Anton_II." type="person">Anthonio C. Oldenburgio</rs>, <foreign xml:lang="lat">horam 10.30. m. a<ex>nte</ex> mer<ex>idiem</ex></foreign><note type="translation">Um 10.30 Uhr</note></p></div>
         </body>
     </text>

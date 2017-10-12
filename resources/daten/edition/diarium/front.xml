@@ -15,7 +15,7 @@
                 </div>
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00004.jpg" n="Iv"/>
             <div>
-                <listPerson>
+                <list>
                 <item><rs type="person">Sophia Ursula</rs></item>
                 <item><rs type="person">Catharina Elisabeta</rs></item>
                 <item><rs type="person">Antonius Heinrich</rs></item>
@@ -27,7 +27,7 @@
                 <item><rs ref="register.xml#Christian_von_Oldenburg_Delmenhorst" type="person">Christianus</rs></item>                                                
                 <item><rs ref="register.xml#Emilie_von_Schwarzburg_Rudolstadt" type="person">Aemilia</rs></item>
                 <item><rs ref="register.xml#Juliana_von_Wuerttemberg_Weiltingen" type="person">Juliana</rs></item>               
-                </listPerson><note type="annotation">Von August notierte Liste der Nachkommen seiner Schwester Sibylle Elisabeth von Braunschweig-Dannenberg (1576-1630) und Graf Anton II. von Oldenburg-Delmenhorst (1550-1619)</note>
+                </list><note type="annotation">Von August notierte Liste der Nachkommen seiner Schwester Sibylle Elisabeth von Braunschweig-Dannenberg (1576-1630) und Graf Anton II. von Oldenburg-Delmenhorst (1550-1619)</note>
             </div>
             
         </body>

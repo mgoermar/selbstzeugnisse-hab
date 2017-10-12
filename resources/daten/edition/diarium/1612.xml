@@ -19,7 +19,7 @@
             <div xml:id="E1612-04-30"><note place="margin-left">5.</note><head><date when="1612-04-30">den 30 Apr<ex>ilis</ex>
                 <c>♃</c></date></head><p> biß <rs ref="register.xml#Uelzen" type="place">Vltzen</rs>, 5. m<ex>eill</ex>.</p></div>
             
-            <div xml:id="E1612-05-01"><note place="margin-left">12.</note><del rend="overstrike">biß</del> <head><date when="1612-05-01">den 1. Maÿ. <c>♀</c></date></head><p> 
+            <div xml:id="E1612-05-01"><note place="margin-left">12.</note><head><del rend="overstrike">biß</del> <date when="1612-05-01">den 1. Maÿ. <c>♀</c></date></head><p> 
                 biß <rs ref="register.xml#Hankensbuettel" type="place">Hanningßbüttell</rs> 4. m<ex>eill</ex> <rs ref="register.xml#Gamsen" type="place">Gamessen</rs> 3 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p></div>
             
             <div xml:id="E1612-05-02"><note place="margin-left">16.</note><head><date when="1612-05-02">den 2 Maÿ. <c>♄</c></date></head><p> biß <rs ref="register.xml#Braunschweig" type="place">Brunschwieg</rs> 4 m<ex>eill</ex>. zum
@@ -166,7 +166,7 @@
             <div xml:id="E1612-11-23"><note place="margin-left">18.</note><head><date when="1612-11-23">den 23. 9bris <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Dreilingen" type="place">Dreyling</rs> 4 m<ex>eill</ex>. 
                 biß <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs> 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
             
-            <div xml:id="E1612-11-22"><note place="margin-left">23.</note><head><date when="1612-11-22">den 24 9bris <c>♂</c>,</date></head><p>
+            <div xml:id="E1612-11-24"><note place="margin-left">23.</note><head><date when="1612-11-24">den 24 9bris <c>♂</c>,</date></head><p>
                 biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>. 5. m<ex>eill</ex>.</p></div>
         </body>
     </text>

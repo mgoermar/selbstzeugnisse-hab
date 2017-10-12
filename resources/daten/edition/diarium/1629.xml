@@ -18,7 +18,7 @@
             
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00112.jpg" n="54v"/>
             
-            <div><head><p>1629.</p></head></div>
+            <div><head>1629.</head></div>
             
             <div xml:id="E1629-01-21"><head><date when="1629-01-21">den 21. Jan<ex>uaris</ex></date></head><p> biß <rs ref="register.xml#Salzwedel" type="place">Saltzwedel</rs>. <c>☿</c>.</p></div>
             
@@ -54,7 +54,8 @@
             
             <div xml:id="E1629-02-28"><head><date when="1629-02-28">den 28. Febr<ex>uari</ex> <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Bergen_an_der_Dumme" type="place">Bergen</rs></p></div>
             
-            <div xml:id="E1629-02-29"><head><date when="1629-02-29">d<ex>en</ex> 29. Febr<ex>uari</ex>
+            <!-- 29. Feb 1629 wird nicht als zulässiges Datum betrachtet. dmaus 10/2017 -->
+            <div xml:id="E1629-02-29"><head><date>d<ex>en</ex> 29. Febr<ex>uari</ex>
                 <add place="above"><c>☉</c></add> </date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">hitzger</rs></p></div>
             
             <div xml:id="E1629-03-25"><head><date when="1629-03-25">d<ex>en</ex> 25 Martii. <c>☿</c>.</date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharneberck</rs>.</p></div>
@@ -125,7 +126,7 @@
             <div xml:id="E1629-06-01"><note place="margin-right">81.m<ex>eill</ex></note><head><date when="1629-06-01">den 1. Junii <c>☽</c>.</date></head><p> biß durch <rs ref="register.xml#Habern" type="place">habern</rs>,
                 <rs ref="register.xml#Deutschbrod_Havlickuv_Brod" type="place">Teutschenbroda</rs>, 5.m<ex>eill</ex></p></div>
             
-            <div xml:id="E1629-06-02"><note place="margin-right">87.m<ex>eill</ex></note><head><date when="1629-06-02">d<ex>en</ex> 2. Junii <c>♂</c>,</date></head><p> biß <rs type="place" ref="">Polnaw</rs>, 2.m<ex>eill</ex> <rs ref="register.xml#Kamenitz_Kamenice" type="place">Cammitz</rs>, 2.m<ex>eill</ex> <rs ref="register.xml#Trebitsch_Trebic" type="place">Trebitz</rs>, 2.m<ex>eill</ex></p></div>
+            <div xml:id="E1629-06-02"><note place="margin-right">87.m<ex>eill</ex></note><head><date when="1629-06-02">d<ex>en</ex> 2. Junii <c>♂</c>,</date></head><p> biß <rs type="place">Polnaw</rs>, 2.m<ex>eill</ex> <rs ref="register.xml#Kamenitz_Kamenice" type="place">Cammitz</rs>, 2.m<ex>eill</ex> <rs ref="register.xml#Trebitsch_Trebic" type="place">Trebitz</rs>, 2.m<ex>eill</ex></p></div>
             
             <div xml:id="E1629-06-03"><note place="margin-right">92.m<ex>eill</ex></note><head><date when="1629-06-03">den 3. Jun<ex>ii</ex>
                 <c>☿</c></date></head><p> biß <rs ref="register.xml#Znaim_Znojom" type="place">Znaimb</rs>, 5.m<ex>eill</ex></p></div>
@@ -151,7 +152,7 @@
             
             <div xml:id="E1629-06-22"><head><date when="1629-06-22">den 22 Jůni <c>☽</c></date></head><p> bey d<ex>er</ex> Turggischen botschafft zu gaste gewesen.</p></div>
             
-            <div xml:id="E1629-06-22"><head><date when="1629-06-22">den 26 Junii <c>♀</c></date></head><p> <seg>in die drey hacken
+            <div xml:id="E1629-06-26"><head><date when="1629-06-26">den 26 Junii <c>♀</c></date></head><p> <seg>in die drey hacken
                 od<ex>er</ex> beyle</seg><note type="annotation">Gasthof "Zu den drei Hacken" (1667-1814) in der Renngasse, Wien, siehe <ref target="https://www.wien.gv.at/wiki/index.php/Zu_den_drei_Hacken_(Renngasse)">Wien Geschichte Wiki</ref></note>, bey den Schotten<note type="annotation">"Bei den Schotten" ist das Schottenstift oder die Benediktinerabtei zu den Schotten in Wien. <ref target="http://www.schotten.wien/">Homepage der Abtei</ref></note> gezogen.</p></div>
             
             <div xml:id="E1629-06-29"><head><date when="1629-06-29">den 29 Junii <c>☽</c></date></head><p> zu <rs ref="register.xml#Laxenburg" type="place">Laxenburg</rs>, eine
