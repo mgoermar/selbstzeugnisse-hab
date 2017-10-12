@@ -2,9 +2,12 @@
 # Schema Selbstzeugnisse Repertorium
 #
 # Autor:      David Maus <maus@hab.de>
-# Time-stamp: <2017-10-09 11:13:07 maus>
+# Time-stamp: <2017-10-12 15:19:58 maus>
 #
 # ChangeLog
+#
+# 2017-10-12  David Maus  <maus@hab.de>
+#   * <rs type="shelfmark"> erlauben
 #
 # 2017-10-08  David Maus  <maus@hab.de>
 #   * <foliation> optional
@@ -323,7 +326,7 @@ Absätze =
 
 Registerverweis =
    element rs {
-      attribute type { "place" | "person" },
+      attribute type { "place" | "person" | "shelfmark" },
       attribute ref { xsd:anyURI }?,
       text
    }
