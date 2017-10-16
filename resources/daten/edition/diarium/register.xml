@@ -1863,7 +1863,7 @@
                         <geo>9.533333 48.716667</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1038884</idno></place><place xml:id="Eberstadt"><placeName>Eberstadt</placeName><location>
                         <geo>9.3675 49.478056</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/7198444</idno></place><place xml:id="Eberstadt"><placeName>Eberstadt</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/7198444</idno></place><place xml:id="Eberstadt_a"><placeName>Eberstadt</placeName><location>
                         <geo>8.6425 49.815278</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7198443</idno></place><place xml:id="Ebersteinburg"><placeName>Ebersteinburg</placeName><location>
                         <geo>8.266667 48.783333</geo>
@@ -2181,7 +2181,7 @@
                         <geo>9.983333 53.466667</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7005955</idno></place><place xml:id="Hardenberg"><placeName>Hardenberg/Niederlande</placeName><location>
                         <geo>6.616667 52.566667</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/1047817</idno></place><place xml:id="Hardenberg"><placeName>Hardenberg</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/1047817</idno></place><place xml:id="Hardenberg_a"><placeName>Hardenberg</placeName><location>
                         <geo>7.083333 51.316667</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7177074</idno></place><place xml:id="Harkerode"><placeName>Harkerode</placeName><location>
                         <geo>11.4 51.683333</geo>
@@ -2459,7 +2459,7 @@
                         <geo>8.672778 49.993333</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7012957</idno></place><place xml:id="Langendorf"><placeName>Langendorf</placeName><location>
                         <geo>13.016667 54.283333</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/7139953</idno></place><place xml:id="Langendorf"><placeName>Langendorf</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/7139953</idno></place><place xml:id="Langendorf_a"><placeName>Langendorf</placeName><location>
                         <geo>11.966667 51.183333</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1037161</idno></place><place xml:id="Langwedel"><placeName>Langwedel</placeName><location>
                         <geo>9.216667 52.966667</geo>
@@ -2471,7 +2471,7 @@
                         <geo>11.2775 49.510278</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7012565</idno></place><place xml:id="Laun_Louny"><placeName>Louny</placeName><location>
                         <geo>13.7833 50.3667</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/7011697</idno></place><place xml:id="Laun_Louny"><placeName>Louny</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/7011697</idno></place><place xml:id="Laun_Louny_a"><placeName>Louny</placeName><location>
                         <geo>13.7833 50.3667</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7011697</idno></place><place xml:id="Lauterbourg"><placeName>Lauterbourg</placeName><location>
                         <geo>8.180405 48.973713</geo>
@@ -2525,7 +2525,7 @@
                         <geo>14.056667 50.513056</geo>
                     </location></place><place xml:id="Loecknitz"><placeName>Löcknitz</placeName><location>
                         <geo>12.933333 52.333333</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/7143493</idno></place><place xml:id="Loecknitz"><placeName>Löcknitz</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/7143493</idno></place><place xml:id="Loecknitz_a"><placeName>Löcknitz</placeName><location>
                         <geo>14.216667 53.45</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1037135</idno></place><place xml:id="Loeningen"><placeName>Löningen</placeName><location>
                         <geo>7.766667 52.733333</geo>
@@ -2691,7 +2691,7 @@
                         <geo>10.916667 44.666667</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7009565</idno></place><place xml:id="Moelln"><placeName>Mölln</placeName><location>
                         <geo>10.683333 53.633333</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/1040184</idno></place><place xml:id="Moelln"><placeName>Mölln</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/1040184</idno></place><place xml:id="Moelln_a"><placeName>Mölln</placeName><location>
                         <geo>13.283333 54.383333</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7135553</idno></place><place xml:id="Monheim"><placeName>Monheim</placeName><location>
                         <geo>10.833333 48.833333</geo>
@@ -2789,7 +2789,7 @@
                         <geo>10.933333 53.283333</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1136853</idno></place><place xml:id="Neuhausen"><placeName>Neuhausen</placeName><location>
                         <geo>10.283333 47.75</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/7012617</idno></place><place xml:id="Neuhausen"><placeName>Neuhausen</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/7012617</idno></place><place xml:id="Neuhausen_a"><placeName>Neuhausen</placeName><location>
                         <geo>13.466667 50.666667</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1037361</idno></place><place xml:id="Neuhof"><placeName>Neuhof</placeName><location>
                         <geo>9.616667 50.433333</geo>
@@ -3277,7 +3277,7 @@
                         <geo>13.7 53.55</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7094271</idno></place><place xml:id="Schoeningen"><placeName>Schoningen</placeName><location>
                         <geo>9.666667 51.633333</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/7094229</idno></place><place xml:id="Schoeningen"><idno type="URI"/></place><place xml:id="Schoeppenstedt"><placeName>Schöppenstedt</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/7094229</idno></place><place xml:id="Schoeningen_a"><idno type="URI"/></place><place xml:id="Schoeppenstedt"><placeName>Schöppenstedt</placeName><location>
                         <geo>10.783333 52.133333</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1041067</idno></place><place xml:id="Schoerzingen"><placeName>Schörzingen</placeName><location>
                         <geo>8.75 48.183333</geo>
@@ -3371,7 +3371,7 @@
                         <geo>9.466667 50.316667</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1041309</idno></place><place xml:id="Steinheim"><placeName>Schlichter</placeName><location>
                         <geo>8.55 49.983333</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/7105697</idno></place><place xml:id="Steinheim"><placeName>Steinheim</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/7105697</idno></place><place xml:id="Steinheim_a"><placeName>Steinheim</placeName><location>
                         <geo>9.1 51.85</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1136976</idno></place><place xml:id="Stendal"><placeName>Stendal</placeName><location>
                         <geo>11.85 52.6</geo>
@@ -3379,7 +3379,7 @@
                         <geo>9.466667 54.633333</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7065586</idno></place><place xml:id="Stepenitz_Stepnica"><placeName>Stepnica</placeName><location>
                         <geo>14.6167 53.65</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/1049489</idno></place><place xml:id="Stepenitz_Stepnica"><placeName>Stepnica</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/1049489</idno></place><place xml:id="Stepenitz_Stepnica_a"><placeName>Stepnica</placeName><location>
                         <geo>14.6167 53.65</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1049489</idno></place><place xml:id="Stettin"><placeName>Szczecin</placeName><location>
                         <geo>14.5333 53.4167</geo>
@@ -3511,7 +3511,7 @@
                         <geo>10.016667 47.85</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7009108</idno></place><place xml:id="Velvary"><placeName>Velvary</placeName><location>
                         <geo>14.25 50.2833</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/1027632</idno></place><place xml:id="Velvary"><placeName>Velvary</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/1027632</idno></place><place xml:id="Velvary_a"><placeName>Velvary</placeName><location>
                         <geo>14.25 50.2833</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/1027632</idno></place><place xml:id="Venedig"><placeName>Venice</placeName><location>
                         <geo>12.326667 45.438611</geo>
