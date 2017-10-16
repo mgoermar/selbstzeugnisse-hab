@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.17-5-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.17-5-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,11 +31,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>17.5 Extrav.</idno>
+            <idno>Cod. Guelf. 17.5 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>17.5 Extrav., 1</idno>
+              <idno>Cod. Guelf. 17.5 Extrav., 1</idno>
             </msIdentifier>
             <msContents>
               <summary>Tagebuch von <rs type="person" ref="../../register.xml#John_Castle">John
@@ -53,9 +51,7 @@
                 Vergütung seiner sehr gefährlichen Reise beschwert und andererseits mehrfach betont,
                 dass das Tagebuch eine "unverfälschte Beschreibung" und "naturellement" sei.
                 Außerdem beschreibt der Verfasser, dass dieses Exemplar eine Kopie des Originales
-                sei, welches in der Kanzlei zu <rs type="place" ref="../../register.xml#Orenburg"
-                  >Orenburg</rs> aufbewahrt würde, heute vermutlich im Staatsarchiv <rs type="place"
-                  ref="../../register.xml#Wolfenbuettel">Wolfenbüttel</rs> unter der Signatur 1 Alt
+                sei, welches in der Kanzlei zu <rs type="place" ref="../../register.xml#Orenburg">Orenburg</rs> aufbewahrt würde, heute vermutlich im Staatsarchiv <rs type="place" ref="../../register.xml#Wolfenbuettel">Wolfenbüttel</rs> unter der Signatur 1 Alt
                 6 Nr. 213. Die Tuschzeichnungen seien daher frei von Hand gemalt, ohne besondere
                 Pinsel. Der Verfasser beschreibt weiter, dass er die Kopie sehr genau abgefasst habe
                 und inhaltlich noch drei Aspekte hinzugefügt hat. Diese drei "Abteilungen"
@@ -71,9 +67,7 @@
                 <author ref="../../register.xml#John_Castle">John Castle</author>
                 <title type="uniform">Reisetagebuch John Castle</title>
                 <date type="coverage" from="1736-06" to="1737-08-13"/>
-                <rubric>Journal von der Anno 1736 aus <rs type="place"
-                    ref="../../register.xml#Orenburg">Orenburg</rs> zu dem <rs type="person"
-                    ref="../../register.xml#Ablai_Khan">Abul Geier Chan</rs> Der
+                <rubric>Journal von der Anno 1736 aus <rs type="place" ref="../../register.xml#Orenburg">Orenburg</rs> zu dem <rs type="person" ref="../../register.xml#Ablai_Khan">Abul Geier Chan</rs> Der
                   Kirgis=Caysak=Tartarischen Horda [...] vollbrachten = Reisse</rubric>
 
               </msItem>
@@ -106,20 +100,15 @@
 
               <decoDesc>
                 <decoNote>Der Text enthält 13 Tuschzeichnungen mit den folgenden Überschriften: 1.
-                  pag. 4: Portrait des in <rs type="place" ref="../../register.xml#Orenburg"
-                    >Orenburg</rs> gewesenen <rs type="person">Eraly Sultans</rs>, 2. pag. 14: Die
+                  pag. 4: Portrait des in <rs type="place" ref="../../register.xml#Orenburg">Orenburg</rs> gewesenen <rs type="person">Eraly Sultans</rs>, 2. pag. 14: Die
                   nächtliche Zauberey wegen des Autoris seiner Ankuft, 3. pag. 21: Des Autoris
-                  gehabte allererste Audience und Tractament, bey dem <rs type="person"
-                    ref="../../register.xml#Ablai_Khan">Abul Geier Chan</rs>, 4. pag. 28: Des
+                  gehabte allererste Audience und Tractament, bey dem <rs type="person" ref="../../register.xml#Ablai_Khan">Abul Geier Chan</rs>, 4. pag. 28: Des
                   Autoris Audience bey der Sultanin und wie er die Praesente übergeben, 5. pag. 60:
                   Zauberey, sich des Rechten Weges zu erkündigen, 6. pag. 62: Die Überfarth des
-                  Autor: über eine See, 7. pag. 90: Die Stadt <rs type="place"
-                    ref="../../register.xml#Orenburg">Orenburg</rs>, 8. pag. 111: Die Stad <rs
-                    type="place" ref="../../register.xml#Samara">Samara</rs> an der Wolga, 9. pag.
+                  Autor: über eine See, 7. pag. 90: Die Stadt <rs type="place" ref="../../register.xml#Orenburg">Orenburg</rs>, 8. pag. 111: Die Stad <rs type="place" ref="../../register.xml#Samara">Samara</rs> an der Wolga, 9. pag.
                   134: Die Bezoar Ziege, 10. pag. 149: Kirgisische Complimenten, 11. pag. 151: Eine
                   Gemahlin des Chans in ihrer Tracht, 12. pag. 153: Der Zug einer Kirgi:
-                  Caysack=Tartar: Familie, 13. pag. 168: <rs type="person"
-                    ref="../../register.xml#Ablai_Khan">Abul Geier</rs>. Chan der
+                  Caysack=Tartar: Familie, 13. pag. 168: <rs type="person" ref="../../register.xml#Ablai_Khan">Abul Geier</rs>. Chan der
                   Kirgis=Kaysak=Tartarische Horda</decoNote>
               </decoDesc>
               <bindingDesc>
@@ -128,12 +117,9 @@
               <accMat>
                 <p>Vergleiche: Herzog August Bibliothek M: Gu 112:2 und Staatsarchiv Wolfenbüttel 1
                   Alt 6 Nr. 213 (Original). Der Verfasser erläutert im Widmungsschreiben, dass er in
-                  die Kopie (<rs type="shelfmark">17.5 Extrav.</rs>) für <rs type="person"
-                    ref="../../register.xml#Iwan_VI">Iwan VI.</rs> zusätzlich fünf Portraits
-                  eingebunden hat, die im Original nicht vorhanden sind. Diese zeigen: 1. <rs
-                    type="person" ref="../../register.xml#Ablai_Khan">Abul Geier</rs>, 2. Abul
-                  Geiers Sohn <rs type="person">Eraly Sultan</rs>, 3. den Heerführer <rs
-                    type="person">Aldaz/ Aidaz</rs>, 4. <rs type="person">Aldaz/ Aidaz Tochter</rs>
+                  die Kopie (<rs type="shelfmark">17.5 Extrav.</rs>) für <rs type="person" ref="../../register.xml#Iwan_VI">Iwan VI.</rs> zusätzlich fünf Portraits
+                  eingebunden hat, die im Original nicht vorhanden sind. Diese zeigen: 1. <rs type="person" ref="../../register.xml#Ablai_Khan">Abul Geier</rs>, 2. Abul
+                  Geiers Sohn <rs type="person">Eraly Sultan</rs>, 3. den Heerführer <rs type="person">Aldaz/ Aidaz</rs>, 4. <rs type="person">Aldaz/ Aidaz Tochter</rs>
                   und 5. einen tartarischen Hursa (Edelmann)</p>
               </accMat>
             </physDesc>

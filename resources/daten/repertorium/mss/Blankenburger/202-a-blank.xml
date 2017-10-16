@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.202-a-blank.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.202-a-blank.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,38 +31,33 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Blankenburger</collection>
-            <idno>202.a Blank.</idno>
+            <idno>Cod. Guelf. 202.a Blank.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>202.a Blank., 1r</idno>
+              <idno>Cod. Guelf. 202.a Blank., 1r</idno>
             </msIdentifier>
             <msContents>
               <summary>Reisezeichnungen 1720. Auf Blatt 2 eine Vorrede: "Nebst dieser meiner
                 Reisebeschreibung womitt ich daß 1721te Jahr beschloßen wolle derallerhöchste
                 beyderseitz Durchl: Durchl: Noch viele Neue jahre Erleben laßen, und bey beständiger
                 Gesundheit Erhalten, daß Sie Ihre Jahre Einbringen in steten hohen woll Ergeben,
-                solches nun wird gewünschet und Erbeten, Von einem unterthänigen getreuen Servo <rs
-                  type="person">Johanne Andrea Thomasio</rs> Bestalten Pictore Aulico."; Auf jeder
+                solches nun wird gewünschet und Erbeten, Von einem unterthänigen getreuen Servo <rs type="person">Johanne Andrea Thomasio</rs> Bestalten Pictore Aulico."; Auf jeder
                 Rectoseite eine seitengroße Federzeichnung mit Unterschrift, teilweise in Ich-Form
                 verfasst: 1. "<rs type="place" ref="../../register.xml#Erfurt">Erfurt</rs> mit Dom,
-                Jesuiter Kirche, St. Petri Kirche, K. Mar. Magdalen., Kirche St. Stefani Herr <rs
-                  type="person" ref="../../register.xml#Christoph_Konrad_von_Boyneburg">Graff v.
+                Jesuiter Kirche, St. Petri Kirche, K. Mar. Magdalen., Kirche St. Stefani Herr <rs type="person" ref="../../register.xml#Christoph_Konrad_von_Boyneburg">Graff v.
                   Böneburg</rs>. Wie ich zu Erfurt im Posthause steh und ebe[n] der Stadthalter Herr
                   <rs type="person" ref="../../register.xml#Christoph_Konrad_von_Boyneburg">Graff
                   von Böneburg</rs> mit seinem Gefolge und der Bereiter voran übers Marckt
                 passiren."; 2. "Wie man zu Weissen See den Postmeister bey den The Thobak rauchen
                 siehet unden rauch zum küchen fenster hinnauß bläst und die frau unß allerley
-                historien er zehlt."; 3. "Wie ich mitt meinen Gefehrten zu <rs type="place"
-                  ref="../../register.xml#Bamberg">Bamberg</rs> ankam, welches ist eines von den
+                historien er zehlt."; 3. "Wie ich mitt meinen Gefehrten zu <rs type="place" ref="../../register.xml#Bamberg">Bamberg</rs> ankam, welches ist eines von den
                 vier ReichsDörfern, weil wir nun sobald keine Pferde haetten, wolte ich gerne dem
                 Dom besehen bin auch darin gewisfart und von zween Jesuiten herrumb geführet worden.
                 Benedictiner Kloster, St. gangolof, St. Jacob, St. Stephan, neue Kirche, Der Dom St.
                 Petri, Die Burg zu <rs type="place" ref="../../register.xml#Bamberg">Bamberg</rs>.";
-                4. "Wie zwey meilen vom <rs type="place" ref="../../register.xml#Bamberg"
-                  >Bamberg</rs> im Posthauße ein armer Mensch sich aufand, so 30 Jahr auf vieren
-                nemlich auff Händen und Füßen gehen müßen."; 5. "Wie zu <rs type="place"
-                  ref="../../register.xml#Nuernberg">Nürnberg</rs> in der Lieben frauen Kirche am
+                4. "Wie zwey meilen vom <rs type="place" ref="../../register.xml#Bamberg">Bamberg</rs> im Posthauße ein armer Mensch sich aufand, so 30 Jahr auf vieren
+                nemlich auff Händen und Füßen gehen müßen."; 5. "Wie zu <rs type="place" ref="../../register.xml#Nuernberg">Nürnberg</rs> in der Lieben frauen Kirche am
                 ersten Heil: Pfingst tage eine Valet Predigt gehalten wurde von einem Prediger so
                 über 20 Jahr blind gewesen."; 6. "Wie zu Waßermumme[...] man ein wenig stille hält
                 und Mund portionieren und der wirth mich fur einen Doctor hält, und fleißig auf
@@ -131,8 +124,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl><ref
-                  type="opac" cRef="037045989">Reisen und Reisende in Bayerisch-Schwaben und seinen Randgebieten in
+                <bibl><ref type="opac" cRef="037045989">Reisen und Reisende in Bayerisch-Schwaben und seinen Randgebieten in
                   Oberbayern, Franken, Württemberg, Vorarlberg und Tirol. Reiseberichte aus sechs
                   Jahrhunderten, hrsg. von Hildebrand Dussler, Weißenhorn 1974</ref>, S. 190ff.</bibl>
               </listBibl>

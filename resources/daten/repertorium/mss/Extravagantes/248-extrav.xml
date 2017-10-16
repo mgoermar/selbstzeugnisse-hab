@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.248-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.248-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,16 +32,15 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>248 Extrav.</idno>
+            <idno>Cod. Guelf. 248 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>248 Extrav., 1</idno>
+              <idno>Cod. Guelf. 248 Extrav., 1</idno>
             </msIdentifier>
             <msContents>
               <summary>In Ich-Form verfasste geistliche Betrachtungen und persönliche Notizen von
-                  <rs type="person"
-                  ref="../../register.xml#Sybille_Ursula_Schleswig-Holstein-Sonderburg">Sibylle
+                  <rs type="person" ref="../../register.xml#Sybille_Ursula_Schleswig-Holstein-Sonderburg">Sibylle
                   Ursula von Braunschweig-Wolfenbüttel</rs>. Die Betrachtungen und einzelnen
                 Textabschnitte sind mit Überschirften versehen und so thematisch gegliedert, z.B.:
                 "In großem donner wetter", "Dancksagung da Gott ein gros unglück abgewand". Auf S.
@@ -52,8 +49,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Geistliches_Tagebuch">
                 <locus from="1" to="269"/>
-                <author ref="../../register.xml#Sybille_Ursula_Schleswig-Holstein-Sonderburg"
-                  >Herzogin Sibylle Ursula von Braunschweig-Wolfenbüttel</author>
+                <author ref="../../register.xml#Sybille_Ursula_Schleswig-Holstein-Sonderburg">Herzogin Sibylle Ursula von Braunschweig-Wolfenbüttel</author>
                 <title type="uniform">Geistliches Tagebuch von Herzogin Sibylle Ursula von
                   Braunschweig-Wolfenbüttel</title>
                 <date type="coverage" from="1653-04-06" to="1668-04-19"/>

@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.52-weiss.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.52-weiss.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,11 +31,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Weißenburger</collection>
-            <idno>52 Weiss.</idno>
+            <idno>Cod. Guelf. 52 Weiss.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>52 Weiss., 1</idno>
+              <idno>Cod. Guelf. 52 Weiss., 1</idno>
             </msIdentifier>
             <msContents>
               <summary>In Ich-Form verfasster Pilgerbericht von Wilhelm Textor, hier in einer
@@ -93,7 +91,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate>2. Hälfte 15. Jhd.</origDate>
+                <origDate notBefore="1450" notAfter="1500">2. Hälfte 15. Jhd.</origDate>
               </origin>
               <provenance>
                 <p>Auf 13r: Iste lyber perdinet Johannis mynen wyllyghen deynst und weß ych gotz

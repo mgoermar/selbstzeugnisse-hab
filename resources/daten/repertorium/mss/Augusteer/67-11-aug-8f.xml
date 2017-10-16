@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.67-11-aug-8f.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.67-11-aug-8f.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,11 +31,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Augusteer Oktav</collection>
-            <idno>67.11 Aug. 8°</idno>
+            <idno>Cod. Guelf. 67.11 Aug. 8°</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>67.11 Aug. 8°, 1r</idno>
+              <idno>Cod. Guelf. 67.11 Aug. 8°, 1r</idno>
             </msIdentifier>
             <msContents>
               <summary>Autobiographie von Johann Valentin Andreae verfasst im Jahr 1642. Ein kurzer

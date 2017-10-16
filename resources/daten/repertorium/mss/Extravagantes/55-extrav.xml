@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.55-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.55-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,18 +31,15 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>55 Extrav.</idno>
+            <idno>Cod. Guelf. 55 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>55 Extrav., 305r</idno>
+              <idno>Cod. Guelf. 55 Extrav., 305r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Abschrift der Autobiographie <rs type="person"
-                  ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin Andreaes</rs>
-                durch seinen Bruder <rs type="person" ref="../../register.xml#Gottlieb_Andreae"
-                  >Gottlieb Andreae</rs>. Enthält neben den Lebensdaten <rs type="person"
-                  ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin Andreaes</rs>
+              <summary>Abschrift der Autobiographie <rs type="person" ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin Andreaes</rs>
+                durch seinen Bruder <rs type="person" ref="../../register.xml#Gottlieb_Andreae">Gottlieb Andreae</rs>. Enthält neben den Lebensdaten <rs type="person" ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin Andreaes</rs>
                 auch Namen von Bekannten und Korrespondenzpartnern.</summary>
               <textLang mainLang="lat"/>
               <msItem class="../../register.xml#Autobiographie">
@@ -93,7 +88,7 @@
             </physDesc>
 <history>
   <origin>
-    <origDate>Mitte 17. Jhd.</origDate>
+    <origDate notBefore="1625" notAfter="1675">Mitte 17. Jhd.</origDate>
   </origin>
 </history>
             

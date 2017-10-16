@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.221-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.221-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,17 +32,15 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>221 Extrav.</idno>
+            <idno>Cod. Guelf. 221 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>221 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 221 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
               <summary>Reisetagebuch (1r-106v) und kleine Chronik zu Braunschweig (107r-117r) mit
-                Geburten und Todesfällen. Die beschriebenen Reisen führten den Verfasser <rs
-                  type="person" ref="../../register.xml#Christian_August_von_Schleswig-Holstein"
-                  >Christian August von Schleswig-Holstein-Norburg</rs> z.B. nach Nord- u.
+                Geburten und Todesfällen. Die beschriebenen Reisen führten den Verfasser <rs type="person" ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August von Schleswig-Holstein-Norburg</rs> z.B. nach Nord- u.
                 Westeuropa (Fürstlicher Hof und Kaiser in Wien) und in die Türkei. Er beschreibt und
                 vergleicht das Essen und das Beten sowie die Bibel und den Koran. Außerdem erläutert
                 er den Islam und den Sabbat. Er zeichnet und beschreibt Kleidung (37r, 71r, 80v),
@@ -93,8 +89,7 @@
                   bezeichnet); 65r Drachenkopf, 69r "Camaelion"; 71r Mitra und Krummstab; 73r Kirche
                   des heiligen Grabes; 77r Grotten; 80v Mütze und Kopf eines Türken; 89r Kopf mit
                   Turban; 101r. Im vorderen Spiegel befindet sich die Zeichnung eines Profils,
-                  außerdem gibt es Notizen, Rechnungen sowie Orts- und Personennamen (<rs
-                    type="person" ref="../../register.xml#Till_Eulenspiegel">Till Eulenspiegel</rs>
+                  außerdem gibt es Notizen, Rechnungen sowie Orts- und Personennamen (<rs type="person" ref="../../register.xml#Till_Eulenspiegel">Till Eulenspiegel</rs>
                   in <rs type="place" ref="../../register.xml#Moelln">Mölln</rs>)</decoNote>
               </decoDesc>
               <bindingDesc>

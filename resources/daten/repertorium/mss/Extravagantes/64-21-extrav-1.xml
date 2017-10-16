@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.64-21-extrav-1.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.64-21-extrav-1.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,11 +31,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>64.21 Extrav.</idno>
+            <idno>Cod. Guelf. 64.21 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>64.21 Extrav., 80r</idno>
+              <idno>Cod. Guelf. 64.21 Extrav., 80r</idno>
             </msIdentifier>
             <msContents>
               <summary>In Ich-Form verfasstes Testament. Es wird die Regelung und Verteilung von

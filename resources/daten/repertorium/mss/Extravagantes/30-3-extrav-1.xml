@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.30-3-extrav-1.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.30-3-extrav-1.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,26 +31,23 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>30.3 Extrav.</idno>
+            <idno>Cod. Guelf. 30.3 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>30.3 Extrav., 24r</idno>
+              <idno>Cod. Guelf. 30.3 Extrav., 24r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Lebenslauf von <rs type="person"
-                  ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich Alexandri</rs>.
+              <summary>Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich Alexandri</rs>.
                 Der Lebenslauf beginnt mit dem Geburtstag am 01.05.1675 und enthält die Beschreibung
                 des Studiums in <rs type="place" ref="../../register.xml#Leipzig">Leipzig</rs> und
-                der Anstellung als Sekretär am Brandenburgischen Hof in <rs type="place"
-                  ref="../../register.xml#Berlin">Berlin</rs>.</summary>
+                der Anstellung als Sekretär am Brandenburgischen Hof in <rs type="place" ref="../../register.xml#Berlin">Berlin</rs>.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="24r" to="36r"/>
                 <author ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich
                   Alexandri</author>
-                <title type="uniform">Lebenslauf <rs type="person"
-                    ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich
+                <title type="uniform">Lebenslauf <rs type="person" ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich
                     Alexandri</rs></title>
                 <date type="coverage" from="1675-05-01"/>
 
@@ -89,16 +84,14 @@
                 <p>Pappe, Buchecken und Buchrücken sind mit braunem Leder bezogen.</p>
               </bindingDesc>
               <accMat>
-                <p>Von fremder Hand ergänzter Titel auf 24r: Herr <rs type="person"
-                    ref="../../register.xml#Johann_Heinrich_Alexandri">Geheimte Rath Alexandri</rs>
+                <p>Von fremder Hand ergänzter Titel auf 24r: Herr <rs type="person" ref="../../register.xml#Johann_Heinrich_Alexandri">Geheimte Rath Alexandri</rs>
                   Lebenslauf</p>
               </accMat>
             </physDesc>
             <history>
 
               <provenance>
-                <p>Auf dem Vorsatzblatt ist vermerkt: Ex Donatione <rs type="person"
-                    ref="../../register.xml#Jacob_Burckhardt">Jacobo Burckhardi</rs></p>
+                <p>Auf dem Vorsatzblatt ist vermerkt: Ex Donatione <rs type="person" ref="../../register.xml#Jacob_Burckhardt">Jacobo Burckhardi</rs></p>
               </provenance>
 
             </history>

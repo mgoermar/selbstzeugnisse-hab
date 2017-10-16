@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.135-6-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.135-6-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,23 +31,17 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>135.6 Extrav</idno>
+            <idno>Cod. Guelf. 135.6 Extrav</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>135.6 Extrav, 1</idno>
+              <idno>Cod. Guelf. 135.6 Extrav, 1</idno>
             </msIdentifier>
             <msContents>
               <summary>In Uns-Form und teilweise Ich-Form verfasstes Reisetagebuch. Zusammen mit
-                Herzog <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_Braunschweig"
-                  >Ferdinand Albrecht</rs> reiste der Hofmeister <rs type="person">"von Walter"</rs>
-                und der Kammerjunker <rs type="person">"Mr. de Geist"</rs>. <rs type="person"
-                  ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Ferdinand Albrecht</rs>
-                trifft während der Reise nach Frankreich <rs type="person"
-                  ref="../../register.xml#Elisabeth_Sophie_Marie_von_Braunschweig-Lueneburg"
-                  >Mutter</rs> und <rs type="person"
-                  ref="../../register.xml#Marie_Elisabeth_von_Braunschweig-Wolfenbuettel"
-                  >Schwester</rs>.</summary>
+                Herzog <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Ferdinand Albrecht</rs> reiste der Hofmeister <rs type="person">"von Walter"</rs>
+                und der Kammerjunker <rs type="person">"Mr. de Geist"</rs>. <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Ferdinand Albrecht</rs>
+                trifft während der Reise nach Frankreich <rs type="person" ref="../../register.xml#Elisabeth_Sophie_Marie_von_Braunschweig-Lueneburg">Mutter</rs> und <rs type="person" ref="../../register.xml#Marie_Elisabeth_von_Braunschweig-Wolfenbuettel">Schwester</rs>.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1" to="303"/>
@@ -104,7 +96,7 @@
               </accMat>
             </physDesc>
             <history>
-              <origin><origDate>Mitte 18. Jhd.</origDate></origin>
+              <origin><origDate notBefore="1725" notAfter="1775">Mitte 18. Jhd.</origDate></origin>
 
               <provenance>
                 <p>Im Spiegel: "Ex Bibliotheka Ferdinand Abberti et Antoniae Amaliae Ducum Brunsv.

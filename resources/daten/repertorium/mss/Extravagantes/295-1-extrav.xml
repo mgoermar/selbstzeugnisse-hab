@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.295-1-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.295-1-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>295.1 Extrav.</idno>
+            <idno>Cod. Guelf. 295.1 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>295.1 Extrav., 1</idno>
+              <idno>Cod. Guelf. 295.1 Extrav., 1</idno>
             </msIdentifier>
             <msContents>
-              <summary>Schreibkaleneder des Jahres 1571. <rs type="person"
-                  ref="../../register.xml#Johannes_Caselius">Johannes Caselius</rs> verzeichnet hier
+              <summary>Schreibkaleneder des Jahres 1571. <rs type="person" ref="../../register.xml#Johannes_Caselius">Johannes Caselius</rs> verzeichnet hier
                 täglich seine Korrespondenz mit Briefein- und -ausgängen. Es handelt sich
                 hauptsächlich um nummerierte Personen- und Ortslisten. Die Nummerierung besteht aus
                 dem Datum des jeweiligen Tages, also 1) für den ersten Tag im Monat usw.</summary>
@@ -82,23 +79,17 @@
 
               <decoDesc>
                 <decoNote>Auf dem gedruckten Titelblatt befinden sich das große und kleine
-                  Stadtwappen <rs type="place" ref="../../register.xml#Nuernberg"
-                  >Nürnbergs</rs>.</decoNote>
+                  Stadtwappen <rs type="place" ref="../../register.xml#Nuernberg">Nürnbergs</rs>.</decoNote>
               </decoDesc>
               <bindingDesc>
                 <p>Pergament</p>
               </bindingDesc>
               <accMat>
-                <p>Der Kalender wurde gedruckt in <rs type="place"
-                    ref="../../register.xml#Nuernberg">Nürnberg</rs> von <rs type="person">Nicolaum
-                    Knorrn</rs> und "Berechnet durch <rs type="person"
-                    ref="../../register.xml#Christian_Heyden">Christianum Heiden</rs>/ <rs
-                    type="place" ref="../../register.xml#Nuernberg">Nürnberg</rs>". Im Deckel
-                  befindet sich eine Notiz von unbekannter Hand: "Mit <rs type="person"
-                    ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Hz. Julius</rs>
+                <p>Der Kalender wurde gedruckt in <rs type="place" ref="../../register.xml#Nuernberg">Nürnberg</rs> von <rs type="person">Nicolaum
+                    Knorrn</rs> und "Berechnet durch <rs type="person" ref="../../register.xml#Christian_Heyden">Christianum Heiden</rs>/ <rs type="place" ref="../../register.xml#Nuernberg">Nürnberg</rs>". Im Deckel
+                  befindet sich eine Notiz von unbekannter Hand: "Mit <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Hz. Julius</rs>
                   handschriftl. Anmerkungen.". Diese Notiz wurde mit Bleistift von einer weiteren
-                  Hand geändert zu: "Mit <rs type="person"
-                    ref="../../register.xml#Johannes_Caselius">Jo Caselius</rs> handschriftl.
+                  Hand geändert zu: "Mit <rs type="person" ref="../../register.xml#Johannes_Caselius">Jo Caselius</rs> handschriftl.
                   Amerkungen."</p>
                 <p>Vergleiche weitere Listen von Briefein- und ausgängen sowie Entwürfen in <rs type="shelfmark">Cod. Guelf. 1096 Helmst.</rs>.</p>
               </accMat>

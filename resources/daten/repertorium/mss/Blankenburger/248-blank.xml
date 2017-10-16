@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.248-blank.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.248-blank.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Blankenburger</collection>
-            <idno>248 Blank.</idno>
+            <idno>Cod. Guelf. 248 Blank.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>248 Blank., 1</idno>
+              <idno>Cod. Guelf. 248 Blank., 1</idno>
             </msIdentifier>
             <msContents>
-              <summary>Im Anschluss an die Chronik des Stifts <rs type="place"
-                  ref="../../register.xml#Quedlinburg">Quedlinburg</rs> der Jahre 972-1585 (Ir-65r)
+              <summary>Im Anschluss an die Chronik des Stifts <rs type="place" ref="../../register.xml#Quedlinburg">Quedlinburg</rs> der Jahre 972-1585 (Ir-65r)
                 befinden sich auf 65v-75v annalistische und persönliche Aufzeichnungen teilweise in
                 Ich-Form verfasst. Außerdem ist auf Iv ein kurzer Text mit dem folgenden Beginn
                 enthalten: "Bericht wegen <rs type="person">Hansen Holdthuchen</rs>, welcher ist
@@ -53,13 +50,11 @@
                 abatissarum Quedelburgensium". Auf 68v Notiz über den Tod am 12.05.1601 von Gräfin
                   <rs type="person" ref="../../register.xml#Anna_zu_Stolberg">Anna zu Stolberg</rs>,
                 auch <rs type="person" ref="../../register.xml#Anna_zu_Stolberg">Anna III.</rs>
-                Äbtissin des Stifts <rs type="place" ref="../../register.xml#Quedlinburg"
-                  >Quedlinburg</rs>; Beginn der persönlicheren tagebuchartigen Aufzeichnungen auf
+                Äbtissin des Stifts <rs type="place" ref="../../register.xml#Quedlinburg">Quedlinburg</rs>; Beginn der persönlicheren tagebuchartigen Aufzeichnungen auf
                 68v mit "Anno 1601 habe ich zum ersten mein haushaltunge angefangen"; auf 74r "Anno
                 1617 Jst so ein warmer und schoner Winter gewesen Das auf festnacht habe ich violen
                 gebrochen auf der heiligen 3 Konige tagk habe ich die stiebe vnnd fenster sperre
-                weidt aufgemacht. Vnnd auf dem <unclear>gilschafft</unclear> oder Radthause im <rs
-                  type="place" ref="../../register.xml#Westendorf">westendorff</rs> habe ich
+                weidt aufgemacht. Vnnd auf dem <unclear>gilschafft</unclear> oder Radthause im <rs type="place" ref="../../register.xml#Westendorf">westendorff</rs> habe ich
                 daselbst eine butter vogel [Zitronenfalter] im fenster erhaschet und
                 gezeiget".</summary>
               <textLang mainLang="deu"/>
@@ -108,7 +103,7 @@
 
             </physDesc>
             <history>
-              <origin><origDate>16. Jhd.</origDate></origin>
+              <origin><origDate notBefore="1500" notAfter="1600">16. Jhd.</origDate></origin>
               <provenance>
                 <p>Im Deckel Exlibris Ludwig Rudolfs: "Ex bibliotheca Ducis Brunsvicensis et
                   Luneburgensis".</p>

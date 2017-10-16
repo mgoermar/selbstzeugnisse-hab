@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.30-7-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.30-7-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,33 +32,23 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>30.7 Extrav.</idno>
+            <idno>Cod. Guelf. 30.7 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>30.7 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 30.7 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Bericht einer Reise im Jahr 1730 von Herzog <rs type="person"
-                  ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Ferdinand Albrecht II.
-                  von Braunschweig</rs> und seinem Sohn <rs type="person"
-                  ref="../../register.xml#Karl">Karl von Blankenburg</rs> über <rs type="place"
-                  ref="../../register.xml#Magdeburg">Magdeburg</rs> nach <rs type="place"
-                  ref="../../register.xml#Berlin">Berlin</rs>. Von verschiedenen Schreibern der
-                königl. Preuß. Maj., verfasst in der Sie-Form. In <rs type="place"
-                  ref="../../register.xml#Berlin">Berlin</rs> wurde die Verlobung <rs type="person"
-                  ref="../../register.xml#Karl">Karls</rs> mit <rs type="person"
-                  ref="../../register.xml#Philippine_Charlotte">Philippine Charlotte von
-                  Preussen</rs> gefeiert. Ebenfalls wurde an der Heerschau <rs type="person"
-                  ref="../../register.xml#August">Kfst. Friedrich Augusts I. von Sachsen</rs> bei
+              <summary>Bericht einer Reise im Jahr 1730 von Herzog <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Ferdinand Albrecht II.
+                  von Braunschweig</rs> und seinem Sohn <rs type="person" ref="../../register.xml#Karl">Karl von Blankenburg</rs> über <rs type="place" ref="../../register.xml#Magdeburg">Magdeburg</rs> nach <rs type="place" ref="../../register.xml#Berlin">Berlin</rs>. Von verschiedenen Schreibern der
+                königl. Preuß. Maj., verfasst in der Sie-Form. In <rs type="place" ref="../../register.xml#Berlin">Berlin</rs> wurde die Verlobung <rs type="person" ref="../../register.xml#Karl">Karls</rs> mit <rs type="person" ref="../../register.xml#Philippine_Charlotte">Philippine Charlotte von
+                  Preussen</rs> gefeiert. Ebenfalls wurde an der Heerschau <rs type="person" ref="../../register.xml#August">Kfst. Friedrich Augusts I. von Sachsen</rs> bei
                   <rs type="place" ref="../../register.xml#Zeithain">Zeithain</rs> teilgenommen,
-                welches heute unter dem Begriff <ref
-                  target="http://de.wikipedia.org/wiki/Zeithainer_Lustlager">"Zeithainer
+                welches heute unter dem Begriff <ref target="http://de.wikipedia.org/wiki/Zeithainer_Lustlager">"Zeithainer
                   Lustlager"</ref> bekannt ist. Dem Text sind Beilagen angefügt, die Auskunft über
                 die Aufmärsche und Gefechtsübungen der sächsischen Truppen vom 01.06.-23.06.1730
                 geben. Auf 20r befindet sich die Liste "Derer in dem königlich Polnisch und
-                Churfürstl. Sächsischen Campement bey <rs type="place"
-                  ref="../../register.xml#Radewitz">Radewitz</rs> befindlichen Trouppen." Ebenso die
+                Churfürstl. Sächsischen Campement bey <rs type="place" ref="../../register.xml#Radewitz">Radewitz</rs> befindlichen Trouppen." Ebenso die
                 Liste der "Cavallerie" und "Infanterie".</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
@@ -70,8 +58,7 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisebericht Herzog <rs type="person"
-                    ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Ferdinand Albrecht II.
+                <title type="uniform">Reisebericht Herzog <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">Ferdinand Albrecht II.
                     von Braunschweig und Bevern</rs>
                 </title>
                 <date type="coverage" from="1730-05-12" to="1730-06-26"/>
@@ -106,8 +93,7 @@
 
               <decoDesc>
                 <decoNote>Eine gezeichnete Aufstellung der Armee im Feldlager Radewitz unter der
-                  Direktion des <rs type="person" ref="../../register.xml#Christoph_Wackerbarth"
-                    >Grafen von Wackerbart</rs>. vom 03.06.1730 (30r).</decoNote>
+                  Direktion des <rs type="person" ref="../../register.xml#Christoph_Wackerbarth">Grafen von Wackerbart</rs>. vom 03.06.1730 (30r).</decoNote>
               </decoDesc>
               <bindingDesc>
                 <p>Braune Pappe</p>
@@ -116,7 +102,7 @@
             </physDesc>
 <history>
   <origin>
-    <origDate>18. Jhd.</origDate>
+    <origDate notBefore="1700" notAfter="1800">18. Jhd.</origDate>
   </origin>
 </history>
             

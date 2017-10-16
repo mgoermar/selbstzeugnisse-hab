@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.44-11-aug-2f-3.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.44-11-aug-2f-3.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Augusteer in Folio</collection>
-            <idno>44.11 Aug. 2°</idno>
+            <idno>Cod. Guelf. 44.11 Aug. 2°</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>44.11 Aug. 2°, 322v</idno>
+              <idno>Cod. Guelf. 44.11 Aug. 2°, 322v</idno>
             </msIdentifier>
             <msContents>
-              <summary>Abschrift des Pilgerberichtes und eines knappen Lebenslaufes von <rs
-                  type="person" ref="../../register.xml#Daniel_Ecklin">Daniel Ecklin</rs> aus Aarau.
+              <summary>Abschrift des Pilgerberichtes und eines knappen Lebenslaufes von <rs type="person" ref="../../register.xml#Daniel_Ecklin">Daniel Ecklin</rs> aus Aarau.
                 Verfasst in Ich-Form.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Pilgerbericht">
@@ -91,21 +88,17 @@
               <accMat>
                 <p>In der Handschrift <rs type="shelfmark">Cod. Guelf. 44.11 Aug 2°</rs> befinden sich von der selben Hand weitere
                   Abschriften von Reisebeschreibungen: <ref target="44-11-aug-2f-1.xml">Cod. Guelf. 44.11 Aug 2°
-                    - 1</ref>, <ref target="44-11-aug-2f-2.xml">Cod. Guelf. 44.11 Aug 2° - 2</ref>, <ref
-                      target="44-11-aug-2f-4.xml">Cod. Guelf. 44.11 Aug 2° - 4</ref> und <ref
-                        target="44-11-aug-2f-5.xml">Cod. Guelf. 44.11 Aug 2° - 5</ref>.</p>
+                    - 1</ref>, <ref target="44-11-aug-2f-2.xml">Cod. Guelf. 44.11 Aug 2° - 2</ref>, <ref target="44-11-aug-2f-4.xml">Cod. Guelf. 44.11 Aug 2° - 4</ref> und <ref target="44-11-aug-2f-5.xml">Cod. Guelf. 44.11 Aug 2° - 5</ref>.</p>
               </accMat>
             </physDesc>
             <history>
               <origin>
-                <origDate>17. Jhd. </origDate>
+                <origDate notBefore="1600" notAfter="1700">17. Jhd.</origDate>
               </origin>
             </history>
             <additional>
               <listBibl>
-                <bibl><ref
-                  target="http://resolver.staatsbibliothek-berlin.de/SBB0001A8F500000000"
-                    >Druck als Digitalisat</ref></bibl>
+                <bibl><ref target="http://resolver.staatsbibliothek-berlin.de/SBB0001A8F500000000">Druck als Digitalisat</ref></bibl>
               </listBibl>
             </additional>
           </msPart>

@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.253-6-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.253-6-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,11 +31,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>253.6 Extrav.</idno>
+            <idno>Cod. Guelf. 253.6 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>253.6 Extrav., 1</idno>
+              <idno>Cod. Guelf. 253.6 Extrav., 1</idno>
             </msIdentifier>
             <msContents>
               <summary>Tagebuch der Jahre 1701-1703. Es werden hauptsächlich Ereignisse der Orte

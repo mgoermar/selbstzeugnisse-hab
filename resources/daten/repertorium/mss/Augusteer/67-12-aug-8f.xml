@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.67-12-aug-8f.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.67-12-aug-8f.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Augusteer in Oktav</collection>
-            <idno>67.12 Aug. 8°</idno>
+            <idno>Cod. Guelf. 67.12 Aug. 8°</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>67.12 Aug. 8°, 1r</idno>
+              <idno>Cod. Guelf. 67.12 Aug. 8°, 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Auszug aus <rs type="shelfmark">Cod. Guelf. 67.11 Aug. 8°</rs>, nicht von <rs
-                  type="person" ref="../../register.xml#Johann_Valentin_Andreae"> J. V.
+              <summary>Auszug aus <rs type="shelfmark">Cod. Guelf. 67.11 Aug. 8°</rs>, nicht von <rs type="person" ref="../../register.xml#Johann_Valentin_Andreae"> J. V.
                   Andreaes</rs> Hand, denn es geht zeitlich über seinen Tod und über die Handschrift
                   <rs type="shelfmark">Cod. Guelf. 67.11 Aug. 8°</rs> hinaus.</summary>
               <textLang mainLang="lat"/>
@@ -91,7 +88,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate>17. Jhd.</origDate>
+                <origDate notBefore="1600" notAfter="1700">17. Jhd.</origDate>
               </origin>
             </history>
 

@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.41-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.41-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,31 +31,22 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>41 Extrav.</idno>
+            <idno>Cod. Guelf. 41 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>41 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 41 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Bericht der Reise <rs type="person"
-                  ref="../../register.xml#Hans_Georg_Peyerle">Hans Georg Peyerles</rs>, in Wir-Form
-                verfasst, liegt hier vermutlich als Abschrift vor. Die Reise führte von <rs
-                  type="place" ref="../../register.xml#Krakau">Krakau</rs> nach <rs type="place"
-                  ref="../../register.xml#Moskau">Moskau</rs> und zurück und zwar im Zeitraum 19.
-                März 1606-15. Dezember 1608. Zusammen mit <rs type="person"
-                  ref="../../register.xml#Hans_Georg_Peyerle">Peyerle</rs> reisten <rs type="person"
-                  >Andreasen Nathan</rs>, <rs type="person">Matheo Bernhardt</rs>, <rs type="person"
-                  >Manlichen der Jüngere</rs>, <rs type="person">Sebastian Löffel</rs> (Übersetzer)
+              <summary>Bericht der Reise <rs type="person" ref="../../register.xml#Hans_Georg_Peyerle">Hans Georg Peyerles</rs>, in Wir-Form
+                verfasst, liegt hier vermutlich als Abschrift vor. Die Reise führte von <rs type="place" ref="../../register.xml#Krakau">Krakau</rs> nach <rs type="place" ref="../../register.xml#Moskau">Moskau</rs> und zurück und zwar im Zeitraum 19.
+                März 1606-15. Dezember 1608. Zusammen mit <rs type="person" ref="../../register.xml#Hans_Georg_Peyerle">Peyerle</rs> reisten <rs type="person">Andreasen Nathan</rs>, <rs type="person">Matheo Bernhardt</rs>, <rs type="person">Manlichen der Jüngere</rs>, <rs type="person">Sebastian Löffel</rs> (Übersetzer)
                 und <rs type="person">Jacob de Wien</rs> (Diener). Peyerle beschreibt die Vorgänge
-                zur Beanspruchung des russischen Throns durch <rs type="person"
-                  ref="../../register.xml#Pseudodimitri_I.">Pseudodimitri I.</rs> und polnischer
+                zur Beanspruchung des russischen Throns durch <rs type="person" ref="../../register.xml#Pseudodimitri_I.">Pseudodimitri I.</rs> und polnischer
                 Truppen in <rs type="place" ref="../../register.xml#Moskau">Moskau</rs>, während er
                 dort gefangen gehalten wurde. Auf 157r "Volget erstlich eine kurze Relation, wie vnd
                 warumb der <rs type="person" ref="../../register.xml#Pseudodimitri_I.">Demetrius
-                  Juanovitz</rs>, daß ist des <rs type="person" ref="../../register.xml#Iwan_IV."
-                  >Juans</rs> Sohn, auß dem Landt <rs type="place" ref="../../register.xml#Moskau"
-                  >Moßcaw</rs> gewichen, vnd wie er widerumb auf den Stuel seiner vorfahren komen,
+                  Juanovitz</rs>, daß ist des <rs type="person" ref="../../register.xml#Iwan_IV.">Juans</rs> Sohn, auß dem Landt <rs type="place" ref="../../register.xml#Moskau">Moßcaw</rs> gewichen, vnd wie er widerumb auf den Stuel seiner vorfahren komen,
                 vnd sein vätterlich Reich erlangt, vnnd besessen habe."</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
@@ -69,12 +58,8 @@
                 </respStmt>
                 <title type="uniform">Reisebericht Hans Georg Peyerle</title>
                 <date type="coverage" from="1606-03-19" to="1608-12-15"/>
-                <rubric>Beschreibung der woscouitterischen Rayse, welche Ich <rs type="person"
-                    ref="../../register.xml#Hans_Georg_Peyerle">Hanns Georg Peyerle</rs> von <rs
-                    type="person" ref="../../register.xml#Augsburg">Augspurg</rs>. mit herrn <rs
-                    type="person">Andreasen Nathan</rs>, vnd <rs type="person">Matheo Bernhardt</rs>
-                  <rs type="person">Manlichen dem Jüngern</rs>, Ady 19. Marty Ao 1606. von <rs
-                    type="place" ref="../../register.xml#Krakau">Crachaw</rs> aus, angefangen, vnd
+                <rubric>Beschreibung der woscouitterischen Rayse, welche Ich <rs type="person" ref="../../register.xml#Hans_Georg_Peyerle">Hanns Georg Peyerle</rs> von <rs type="person" ref="../../register.xml#Augsburg">Augspurg</rs>. mit herrn <rs type="person">Andreasen Nathan</rs>, vnd <rs type="person">Matheo Bernhardt</rs>
+                  <rs type="person">Manlichen dem Jüngern</rs>, Ady 19. Marty Ao 1606. von <rs type="place" ref="../../register.xml#Krakau">Crachaw</rs> aus, angefangen, vnd
                   was Wir wahrhafftiges gehört, gesehen Vnd erfahren, alles aufs khürzest
                   beschrieben bis zue vnserer Gott lob wider dahin ankunft den 15. Decembris Anno.
                   1608</rubric>
@@ -114,7 +99,7 @@
             </physDesc>
 <history>
   <origin>
-    <origDate>17. Jhd.</origDate>
+    <origDate notBefore="1600" notAfter="1700">17. Jhd.</origDate>
   </origin>
 </history>
             <additional>

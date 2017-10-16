@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.293-2-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.293-2-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>293.2 Extrav.</idno>
+            <idno>Cod. Guelf. 293.2 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>293.2 Extrav., 1</idno>
+              <idno>Cod. Guelf. 293.2 Extrav., 1</idno>
             </msIdentifier>
             <msContents>
-              <summary>Schreibkalender von <rs type="person"
-                  ref="../../register.xml#August_Juengere">August d. J.</rs> Die Einträge befinden
+              <summary>Schreibkalender von <rs type="person" ref="../../register.xml#August_Juengere">August d. J.</rs> Die Einträge befinden
                 sich in einem gedruckten Kalender des Jahres 1617. Die Notizen beziehen sich
                 mindestens auf einen Zeitraum der Jahre 1571-1663. Verzeichnet werden Geburten,
                 Todesfälle und Geschehnisse am Hof und in der Umgebung. Auf S. 429: "A.i.64. ward
@@ -97,7 +94,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate>17. Jhd.</origDate>
+                <origDate notBefore="1600" notAfter="1700">17. Jhd.</origDate>
                 <origPlace>Wolfenbüttel</origPlace>
               </origin>
 

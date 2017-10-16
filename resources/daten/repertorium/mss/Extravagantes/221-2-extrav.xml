@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.221-2-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.221-2-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>221.2 Extrav.</idno>
+            <idno>Cod. Guelf. 221.2 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>221.2 Extrav., 3r</idno>
+              <idno>Cod. Guelf. 221.2 Extrav., 3r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Tennhart"
-                  >Johann Tennhart</rs> 1709-1710. Im Lebenslauf sind viele Traumbeschreibungen
+              <summary>Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> 1709-1710. Im Lebenslauf sind viele Traumbeschreibungen
                 enthalten. Für <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann
                   Tennhart</rs> sind diese Träume das an ihn gerichtete Wort Gottes, an welchem er
                 sein Leben ausrichtet.</summary>
@@ -49,8 +46,7 @@
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="3r" to="262v"/>
                 <author ref="../../register.xml#Johann_Tennhart">Johann Tennhart</author>
-                <title type="uniform">Lebenslauf <rs type="person"
-                  ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs>  (1709-1710)</title>
+                <title type="uniform">Lebenslauf <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs>  (1709-1710)</title>
                 <date type="coverage" from="1709-02-05" to="1710-02-25">05.02.1709 bis
                   25.02.1710</date>
                 <rubric>Anno 1709. 1. Gehört zum Original. B. ist die Erste Abschrift.</rubric>
@@ -79,8 +75,7 @@
 
 
               <bindingDesc>
-                <p>Braunes Leder. Titel auf dem Buchrücken: <rs type="person"
-                    ref="../../register.xml#Johann_Tennhart">Joh. Tennhart</rs> Lebenslauf Vol.
+                <p>Braunes Leder. Titel auf dem Buchrücken: <rs type="person" ref="../../register.xml#Johann_Tennhart">Joh. Tennhart</rs> Lebenslauf Vol.
                   II.</p>
               </bindingDesc>
               <accMat>

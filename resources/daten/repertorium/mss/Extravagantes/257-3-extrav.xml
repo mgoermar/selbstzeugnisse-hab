@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.257-3-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.257-3-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,26 +32,20 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>257.3 Extrav.</idno>
+            <idno>Cod. Guelf. 257.3 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>257.3 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 257.3 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
               <summary>Reisetagebücher über einen Zeitraum von 30 Jahren. Die Reisen führten den
-                Verfasser unter anderem nach <rs type="place" ref="../../register.xml#England"
-                  >England</rs>, <rs type="place" ref="../../register.xml#Italy">Italien</rs>, <rs
-                  type="place" ref="../../register.xml#Oesterreich">Österreich</rs>, in den Orient,
-                nach <rs type="place" ref="../../register.xml#Frankreich">Frankreich</rs> und <rs
-                  type="place" ref="../../register.xml#Polen">Polen</rs>. <rs type="person"
-                  ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Die Identität des
+                Verfasser unter anderem nach <rs type="place" ref="../../register.xml#England">England</rs>, <rs type="place" ref="../../register.xml#Italy">Italien</rs>, <rs type="place" ref="../../register.xml#Oesterreich">Österreich</rs>, in den Orient,
+                nach <rs type="place" ref="../../register.xml#Frankreich">Frankreich</rs> und <rs type="place" ref="../../register.xml#Polen">Polen</rs>. <rs type="person" ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Die Identität des
                   Verfassers</rs> geht aus den genealogischen Angaben im Text hervor. Der Text ist
                 in deutscher, Teile auch in französischer, englischer, italienischer und spanischer
-                Sprache verfasst. Duktus und Tinte variieren, <rs type="person"
-                  ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren
-                Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person"
-                  ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, Teil 3, 220.1
+                Sprache verfasst. Duktus und Tinte variieren, <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren
+                Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, Teil 3, 220.1
                 Extrav.-317 Extrav., Frankfurt a. M. 1993) vermutet, dass das vorliegende
                 Reisetagebuch eine Abschrift aus unterwegs geführten Journalen sowie eine
                 Reinschrift von Teilen aus <rs type="shelfmark">Cod. Guelf. 221 Extrav.</rs> ist.

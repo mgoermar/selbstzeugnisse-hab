@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.132-6-a-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.132-6-a-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,19 +31,16 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>132.6.a Extrav.</idno>
+            <idno>Cod. Guelf. 132.6.a Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>132.6.a Extrav., 1</idno>
+              <idno>Cod. Guelf. 132.6.a Extrav., 1</idno>
             </msIdentifier>
             <msContents>
-              <summary>Das Reisetagebuch behandelt die im königlichen Auftrag von <rs type="person"
-                  ref="../../register.xml#Pierre_Louis_Moreau_de_Maupertuis">Pierre Louis Moreau de
-                  Maupertuis</rs> durchgeführte Expedition nach <rs type="place"
-                  ref="../../register.xml#Lappland">Lappland</rs> in den Jahren 1736/37. Ob es sich
-                um das von <rs type="person"
-                  ref="../../register.xml#Pierre_Louis_Moreau_de_Maupertuis">Pierre Louis Moreau de
+              <summary>Das Reisetagebuch behandelt die im königlichen Auftrag von <rs type="person" ref="../../register.xml#Pierre_Louis_Moreau_de_Maupertuis">Pierre Louis Moreau de
+                  Maupertuis</rs> durchgeführte Expedition nach <rs type="place" ref="../../register.xml#Lappland">Lappland</rs> in den Jahren 1736/37. Ob es sich
+                um das von <rs type="person" ref="../../register.xml#Pierre_Louis_Moreau_de_Maupertuis">Pierre Louis Moreau de
                   Maupertuis</rs> autograph verfasste Exemplar handelt, kann nicht abschließend
                 festgestellt werden. Das Schriftbild ist sehr klar, da es keine Entstehungsvarianten
                 gibt, vermutlich handelt es sich daher um eine Reinschrift oder Abschrift, Seiten
@@ -104,7 +99,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate>18. Jhd.</origDate>
+                <origDate notBefore="1700" notAfter="1800">18. Jhd.</origDate>
               </origin>
             </history>
             <additional>

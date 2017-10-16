@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.130-16-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.130-16-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,25 +31,15 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>130.16 Extrav.</idno>
+            <idno>Cod. Guelf. 130.16 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>130.16 Extrav., 1</idno>
+              <idno>Cod. Guelf. 130.16 Extrav., 1</idno>
             </msIdentifier>
             <msContents>
-              <summary>Tagebuch einer Reise von <rs type="place" ref="../../register.xml#Lausanne"
-                  >Lausanne</rs> nach <rs type="place" ref="../../register.xml#London">London</rs>
-                im Jahr 1770, unter anderem durch <rs type="place"
-                  ref="../../register.xml#Deutschland">Deutschland</rs> (<rs type="place"
-                  ref="../../register.xml#Darmstadt">Darmstadt</rs>, <rs type="place"
-                  ref="../../register.xml#Frankfurt_am_Main">Frankfurt a. M.</rs>, <rs type="place"
-                  ref="../../register.xml#Kassel">Kassel</rs>, <rs type="place"
-                  ref="../../register.xml#Giessen">Gießen</rs>, <rs type="place"
-                  ref="../../register.xml#Marburg">Marburg</rs>, <rs type="place"
-                  ref="../../register.xml#Liebenau">Libenau</rs>, <rs type="place"
-                  ref="../../register.xml#Hamburg">Hamburg</rs>) sowie nach <rs type="place"
-                  ref="../../register.xml#Rotterdam">Rotterdam</rs>. Im Text befinden sich
+              <summary>Tagebuch einer Reise von <rs type="place" ref="../../register.xml#Lausanne">Lausanne</rs> nach <rs type="place" ref="../../register.xml#London">London</rs>
+                im Jahr 1770, unter anderem durch <rs type="place" ref="../../register.xml#Deutschland">Deutschland</rs> (<rs type="place" ref="../../register.xml#Darmstadt">Darmstadt</rs>, <rs type="place" ref="../../register.xml#Frankfurt_am_Main">Frankfurt a. M.</rs>, <rs type="place" ref="../../register.xml#Kassel">Kassel</rs>, <rs type="place" ref="../../register.xml#Giessen">Gießen</rs>, <rs type="place" ref="../../register.xml#Marburg">Marburg</rs>, <rs type="place" ref="../../register.xml#Liebenau">Libenau</rs>, <rs type="place" ref="../../register.xml#Hamburg">Hamburg</rs>) sowie nach <rs type="place" ref="../../register.xml#Rotterdam">Rotterdam</rs>. Im Text befinden sich
                 Abschnitte mit lyrischem Charakter sowie Beschreibungen von Musikstücken und Opern.
                 Nach dem Titelblatt folgt eine "Preface" über drei Seiten und der Abschnitt
                 "Avertissement du Libraire". Am Text befinden sich Fußnoten, diese und die Vorrede
@@ -72,8 +60,7 @@
                 </respStmt>
                 <title type="uniform">Reisetagebuch Pierre Jean Grosley</title>
                 <date type="coverage" from="1770-10-01" to="1770-12-05">01.10.1770-05.12.1770</date>
-                <rubric>Journal d´un voyage de <rs type="place" ref="../../register.xml#Lausanne"
-                    >Lausanne</rs> a <rs type="place" ref="../../register.xml#London">Londres</rs>
+                <rubric>Journal d´un voyage de <rs type="place" ref="../../register.xml#Lausanne">Lausanne</rs> a <rs type="place" ref="../../register.xml#London">Londres</rs>
                   avec des remazit = queu erutiqueu</rubric>
 
               </msItem>

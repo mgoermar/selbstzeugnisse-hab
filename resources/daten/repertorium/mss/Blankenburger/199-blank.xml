@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.199-blank.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.199-blank.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,25 +31,20 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Blankenburger</collection>
-            <idno>199 Blank.</idno>
+            <idno>Cod. Guelf. 199 Blank.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>199 Blank., 1</idno>
+              <idno>Cod. Guelf. 199 Blank., 1</idno>
             </msIdentifier>
             <msContents>
-              <summary>Kriegstagebuch des <rs type="person"
-                  ref="../../register.xml#Joachim_Dietrich_Zehe">Fähnrich Zehe</rs>, verfasst
-                während der Feldzüge hannoverscher Truppen in <rs type="place"
-                  ref="../../register.xml#Griechenland">Griechenland</rs> (1685-1688). Die
+              <summary>Kriegstagebuch des <rs type="person" ref="../../register.xml#Joachim_Dietrich_Zehe">Fähnrich Zehe</rs>, verfasst
+                während der Feldzüge hannoverscher Truppen in <rs type="place" ref="../../register.xml#Griechenland">Griechenland</rs> (1685-1688). Die
                 Handschrift liefert keinen direkten Hinweis auf den Verfasser, jedoch identifiziert
                   <rs type="person" ref="../../register.xml#Otto_Hahne">Otto Hahne</rs> aus dem
-                Bericht heraus diesen als <rs type="person"
-                  ref="../../register.xml#Joachim_Dietrich_Zehe">Fähnrich Zehe</rs>. Grundsätzlich
-                in Wir-Form sowie in geringem Umfang in Ich-Form verfasst. Laut <rs type="person"
-                  ref="../../register.xml#Herbert_Roehrig">Herbert Röhrig</rs> handelt es sich um
-                eine zeitgenössische Abschrift des Originals, welches im Krieg im Staatsarchiv <rs
-                  type="place" ref="../../register.xml#Hannover">Hannover</rs> zerstört wurde. Für
+                Bericht heraus diesen als <rs type="person" ref="../../register.xml#Joachim_Dietrich_Zehe">Fähnrich Zehe</rs>. Grundsätzlich
+                in Wir-Form sowie in geringem Umfang in Ich-Form verfasst. Laut <rs type="person" ref="../../register.xml#Herbert_Roehrig">Herbert Röhrig</rs> handelt es sich um
+                eine zeitgenössische Abschrift des Originals, welches im Krieg im Staatsarchiv <rs type="place" ref="../../register.xml#Hannover">Hannover</rs> zerstört wurde. Für
                 eine Abschrift spricht auch das saubere Schriftbild und das im Perfekt verfasste
                 Vorwort. Das Kriegstagebuch enthält hauptsächlich die Beschreibung der
                 Truppenbewegungen und des Kriegsgeschehens. Auch das Wetter und die Landschaft
@@ -59,8 +52,7 @@
                 Kompanie still lag und der Verfasser Zeit für Privates nutzte. Diese Einträge
                 beschreiben vor allem die fremden Städte und Sehenswürdigkeiten. Am Anfang des
                 Textes wird als Grund für den Krieg gegen die Türken die Religion genannt. Auf
-                40r-52v befindet sich eine ausführlichere Beschreibung der Insel <rs type="place"
-                  ref="../../register.xml#Zakynthos">Zakynthos</rs> "Von der Stadt und Insul Zante".
+                40r-52v befindet sich eine ausführlichere Beschreibung der Insel <rs type="place" ref="../../register.xml#Zakynthos">Zakynthos</rs> "Von der Stadt und Insul Zante".
                 Auf 204r-206v befindet sich eine Liste aller während der drei Kampagnen verstorbenen
                 Offiziere.</summary>
               <textLang mainLang="deu"/>
@@ -116,7 +108,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate>Ende 17. Jhd.</origDate>
+                <origDate notBefore="1675" notAfter="1700">Ende 17. Jhd.</origDate>
               </origin>
 
               <provenance>
@@ -130,11 +122,9 @@
                 <bibl>Edition: <ref type="opac" cRef="039629961">Hannoversche Rotröcke in Griechenland. Das Tagebuch des Fähnrichs
                   Zehe in den Türkenkriegen 1685-1688, hrsg. von Herbert Röhrig, Hildesheim
                     1975</ref>.</bibl>
-                <bibl><ref
-                  type="opac" cRef="396548245">Hahne, Otto: Die Beschießung der Akropolis im Jahre 1687, in: Montagsblatt.
+                <bibl><ref type="opac" cRef="396548245">Hahne, Otto: Die Beschießung der Akropolis im Jahre 1687, in: Montagsblatt.
                   Wiss. Beil. der Magdeburgischen Zeitung, Nr. 15, Magdeburg 1913</ref>, S. 116-118.</bibl>
-                <bibl><ref
-                  type="opac" cRef="130099759">Neues vaterländisches Archiv oder Beiträge zur allseitigen Kenntniß d.
+                <bibl><ref type="opac" cRef="130099759">Neues vaterländisches Archiv oder Beiträge zur allseitigen Kenntniß d.
                   Königreichs Hannover u. d. Herzogthums Braunschweig, Bd. 1 1822, S. 9-43.</ref></bibl>
               </listBibl>
             </additional>

@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.221-3-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.221-3-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,29 +31,25 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>221.3 Extrav.</idno>
+            <idno>Cod. Guelf. 221.3 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>221.3 Extrav., 2r</idno>
+              <idno>Cod. Guelf. 221.3 Extrav., 2r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Tennhart"
-                  >Johann Tennhart</rs> bis zum 02.02.1708. Der Lebenslauf ist unregelmäßig im Codex
+              <summary>Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> bis zum 02.02.1708. Der Lebenslauf ist unregelmäßig im Codex
                 verteilt und teilweise unterbrochen. Er ist autograph, außer in den Teilen:
                 179r-222v, 273r-492v, 568r-573v (laut: Die neueren Handschriften der Gruppe
-                Extravagantes, beschrieben von <rs type="person"
-                  ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, Teil 3, 220.1
+                Extravagantes, beschrieben von <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, Teil 3, 220.1
                 Extrav.-317 Extrav., Frankfurt a. M. 1993). Auf 2r befindet sich die Vorrede an den
-                Leser. Im Lebenslauf sind viele Traumbeschreibungen enthalten. Für <rs type="person"
-                  ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> sind diese Träume
+                Leser. Im Lebenslauf sind viele Traumbeschreibungen enthalten. Für <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> sind diese Träume
                 das an ihn gerichtete Wort Gottes, nach welchem er sein Leben ausrichtet. </summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="2r" to="575v"/>
                 <author ref="../../register.xml#Johann_Tennhart">Johann Tennhart</author>
-                <title type="uniform">Lebenslauf <rs type="person"
-                    ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs></title>
+                <title type="uniform">Lebenslauf <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs></title>
                 <date type="coverage" to="1708-02-02">Bis 02.02.1708</date>
                 <rubric>Lebenslauff. Gott allein soll die Ehre sein</rubric>
 
@@ -87,20 +81,18 @@
                   Schriften".</p>
               </bindingDesc>
               <accMat>
-                <p>Weitere Teile des Lebenslaufs befinden sich in <ref target="221-1-extrav.xml"
-                    >221.1</ref> und <ref target="221-2-extrav.xml">221.2 Extravagantes</ref></p>
+                <p>Weitere Teile des Lebenslaufs befinden sich in <ref target="221-1-extrav.xml">221.1</ref> und <ref target="221-2-extrav.xml">221.2 Extravagantes</ref></p>
               </accMat>
             </physDesc>
             <history>
               <origin>
-                <origDate to="1708-02-02"/>
+                <origDate notAfter="1708-02-02"/>
 
               </origin>
 
               <acquisition>
                 <p>Laut <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter
-                  Otte</rs> (Wolf-Dieter Otte: Die neueren Handschriften der Gruppe Extravagantes, Teil 3, Frankfurt am Main 1993) durch <rs
-                    type="person" ref="../../register.xml#Tobias_Eisler">Tobias Eisler</rs> in die
+                  Otte</rs> (Wolf-Dieter Otte: Die neueren Handschriften der Gruppe Extravagantes, Teil 3, Frankfurt am Main 1993) durch <rs type="person" ref="../../register.xml#Tobias_Eisler">Tobias Eisler</rs> in die
                   Herzog August Bibliothek gelangt.</p>
               </acquisition>
             </history>

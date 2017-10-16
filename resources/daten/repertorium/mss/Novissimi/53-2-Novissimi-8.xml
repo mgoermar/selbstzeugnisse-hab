@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.53-2-Noviss.-8.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.53-2-Noviss.-8.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,25 +32,22 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Noviss.</collection>
-            <idno>53.2 Noviss. 8°</idno>
+            <idno>Cod. Guelf. 53.2 Noviss. 8°</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>53.2 Noviss. 8°, 1r</idno>
+              <idno>Cod. Guelf. 53.2 Noviss. 8°, 1r</idno>
             </msIdentifier>
             <msContents>
               <summary>In Ich-Form verfasste Gedanken zu moralischen, religiösen, die Seele, den
-                Geist und Tugenden betreffende Themen. Die <rs type="person"
-                  ref="../../register.xml#Sophie_Elisabeth_Br_L">Verfasserin</rs> verarbeitet in
+                Geist und Tugenden betreffende Themen. Die <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Verfasserin</rs> verarbeitet in
                 Versform (meist 4 bis 10 Zeilen) Psalmen und andere Bibelstellen. Sie nimmt Bezug
-                auf Tugenden, Predigten oder Theaterstücke. Außerdem rekurriert die <rs
-                  type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Verfasserin</rs> auf
+                auf Tugenden, Predigten oder Theaterstücke. Außerdem rekurriert die <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Verfasserin</rs> auf
                 antike Autoren und Kirchenväter. Die Einträge beginnen häufig mit der Formulierung:
                 "Christliche gedancken über". Es gibt fast tägliche Eintragungen, außerdem notiert
                 sie die Orte passend zum Datum, wenn ein Ortswechsel stattgefunden hat. Dieser Text
                 gehört zu einer Reihe von geistlichen Tagebüchern (<rs type="shelfmark">Cod. Guelf. 10 Noviss. 2°</rs>, <rs type="shelfmark">Cod. Guelf. 10.1 Noviss. 2°</rs>,
-                  <rs type="shelfmark">Cod. Guelf. 10.2 Noviss. 2°</rs>, <rs type="shelfmark">Cod. Guelf. 53. Noviss. 8°</rs> und <rs type="shelfmark">Cod. Guelf. 53.1 Noviss. 8°</rs>), die <rs type="person"
-                  ref="../../register.xml#Sophie_Elisabeth_Br_L">Sophia Elisabeth von
+                  <rs type="shelfmark">Cod. Guelf. 10.2 Noviss. 2°</rs>, <rs type="shelfmark">Cod. Guelf. 53. Noviss. 8°</rs> und <rs type="shelfmark">Cod. Guelf. 53.1 Noviss. 8°</rs>), die <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Sophia Elisabeth von
                   Braunschweig-Lüneburg</rs> verfasst hat. Persönliche, selbstreferentielle Notizen
                 befinden sich vor allem im Band mit der Signatur <rs type="shelfmark">Cod. Guelf. 53.1 Noviss. 8°</rs>.</summary>
               <textLang mainLang="deu"/>

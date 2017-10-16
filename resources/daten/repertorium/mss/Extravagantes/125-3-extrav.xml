@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.125-3-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.125-3-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +31,15 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>125.3 Extrav.</idno>
+            <idno>Cod. Guelf. 125.3 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>125.3 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 125.3 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
               <summary>Schiffstagebuch oder Journal. Geführt auf der britischen Fregatte Newcastle
-                durch <rs type="person"
-                  ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August
+                durch <rs type="person" ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August
                   von Schleswig-Holstein-Norburg</rs> während seiner Dienstzeit und in der Funktion
                 des Kapitäns. Der Beschreibung sind Zeichnungen beigefügt. Wie bei einem Logbuch
                 üblich werden alle die Fregatte betreffenden Ereignisse festgehalten. Dazu zählt das
@@ -50,8 +47,7 @@
                 Personen und Waren. Auf 31r-66r finden sich unter der Überschrift "Severall copies
                 of Commission, orders &amp; letters with my answers during my staying in His Majts
                 service as appointed Capt. of y NewCastle fregat" zahlreiche Briefe und
-                Antwortschreiben von <rs type="person"
-                  ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian
+                Antwortschreiben von <rs type="person" ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian
                   August</rs> z.B. an <rs type="person" ref="../../register.xml#Samuel_Pepys">Samuel
                   Pepys</rs>. Auch ge- und verkaufte Sklaven werden aufgelistet, z.B. 46v "Names of
                 Turkes e Moors wch were set on shore at Tanguir wch were sold on board y NewCastle y
@@ -118,9 +114,7 @@
 
               </origin>
               <provenance>
-                <p>Exlibris der Herzogin <rs type="person"
-                    ref="../../register.xml#Elisabeth_Sophie_Marie_von_Braunschweig-Lueneburg"
-                    >Elisabeth Sophie Marie von Braunschweig</rs></p>
+                <p>Exlibris der Herzogin <rs type="person" ref="../../register.xml#Elisabeth_Sophie_Marie_von_Braunschweig-Lueneburg">Elisabeth Sophie Marie von Braunschweig</rs></p>
               </provenance>
 
             </history>

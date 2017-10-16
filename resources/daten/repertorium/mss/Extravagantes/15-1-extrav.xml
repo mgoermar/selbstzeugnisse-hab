@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.15-1-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.15-1-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,11 +31,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>15.1 Extrav.</idno>
+            <idno>Cod. Guelf. 15.1 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>15.1 Extrav., 188r</idno>
+              <idno>Cod. Guelf. 15.1 Extrav., 188r</idno>
             </msIdentifier>
             <msContents>
               <summary>In Ich-Form verfasstes Testament, welches u.a. Glaubensfragen,
@@ -80,7 +78,7 @@
             </physDesc>
 <history>
   <origin>
-    <origDate>18. Jhd.</origDate>
+    <origDate notBefore="1700" notAfter="1800">18. Jhd.</origDate>
   </origin>
 </history>
             

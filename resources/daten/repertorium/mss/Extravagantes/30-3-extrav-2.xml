@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.30-3-extrav-2.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.30-3-extrav-2.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,20 +31,17 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>30.3 Extrav.</idno>
+            <idno>Cod. Guelf. 30.3 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>30.3 Extrav., 53v</idno>
+              <idno>Cod. Guelf. 30.3 Extrav., 53v</idno>
             </msIdentifier>
             <msContents>
-              <summary>Abschiedsbrief aus der Mitte des 18. Jhds. <rs type="person"
-                  ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren
-                Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person"
-                  ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, Teil 1, A
+              <summary>Abschiedsbrief aus der Mitte des 18. Jhds. <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren
+                Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, Teil 1, A
                 Extrav.-90 Extrav., Frankfurt am Main 1986) vermerkt, dass der Brief von einem
-                Hauptmann <rs type="person" ref="../../register.xml#Sievers">Sievers</rs> aus <rs
-                  type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs> verfasst
+                Hauptmann <rs type="person" ref="../../register.xml#Sievers">Sievers</rs> aus <rs type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs> verfasst
                 wurde. Hierfür findet sich allerdings kein Nachweis. Transkription des Textes: "Daß
                 Menschliche Leben ist an sich voller Mühsee-lichkeit, wenn dan daßelbe noch darzu
                 beständig mit Verdruß vergeseelschafftet wird, und darum gar keine Änderung zu
@@ -97,11 +92,10 @@
             </physDesc>
             <history>
 <origin>
-  <origDate>Mitte 18. Jhd.</origDate>
+  <origDate notBefore="1725" notAfter="1775">Mitte 18. Jhd.</origDate>
 </origin>
               <provenance>
-                <p>Auf dem Vorsatzblatt ist vermerkt: Ex Donatione <rs type="person"
-                    ref="../../register.xml#Jacob_Burckhardt">Jacobo Burckhardi</rs></p>
+                <p>Auf dem Vorsatzblatt ist vermerkt: Ex Donatione <rs type="person" ref="../../register.xml#Jacob_Burckhardt">Jacobo Burckhardi</rs></p>
               </provenance>
 
             </history>

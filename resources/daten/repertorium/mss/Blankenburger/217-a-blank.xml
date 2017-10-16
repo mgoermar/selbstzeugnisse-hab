@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.217-a-blank.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.217-a-blank.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,20 +31,18 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Blankenburger</collection>
-            <idno>217a Blank.</idno>
+            <idno>Cod. Guelf. 217a Blank.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>217a Blank., 1</idno>
+              <idno>Cod. Guelf. 217a Blank., 1</idno>
             </msIdentifier>
             <msContents>
-              <summary>Autobiographie von <rs type="person"
-                  ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von
+              <summary>Autobiographie von <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von
                   Braunschweig-Wolfenbüttel</rs> von seiner Geburt bis mindestens 1697. Auf dem
                 Spiegel: "Cum Deo. Omnia. Dieses Buch welches in sich hält meine Lebensbeschreibung
                 habe ich angefangen den 17. April. in dem Jahre 1690. Gott laße es mir so lange
-                fortsetzen, alß wie es ihm belieben wird. <rs type="person"
-                  ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludewig Rudolff Hzg. Braunschweig
+                fortsetzen, alß wie es ihm belieben wird. <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludewig Rudolff Hzg. Braunschweig
                   Lüneburg</rs>". Unter anderem wird auch seine Kavaliersreise beschrieben, die
                 Einträge hierzu enthalten Informationen zu Zeit, Ort, Dauer und beteiligten
                 Personen. Tinte und Duktus der Einträge sind unterschiedlich, einige Passagen sind

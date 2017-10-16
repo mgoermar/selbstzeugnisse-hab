@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.256-1-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.256-1-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,20 +32,17 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>256.1 Extrav.</idno>
+            <idno>Cod. Guelf. 256.1 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>256.1 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 256.1 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Reisetagebuch der Brüder <rs type="person"
-                  ref="../../register.xml#Heinrich_Ferdinand">Heinrich Ferdinand</rs> und <rs
-                  type="person" ref="../../register.xml#Ernst_Ferdinand">Ernst Ferdinand von
+              <summary>Reisetagebuch der Brüder <rs type="person" ref="../../register.xml#Heinrich_Ferdinand">Heinrich Ferdinand</rs> und <rs type="person" ref="../../register.xml#Ernst_Ferdinand">Ernst Ferdinand von
                   Braunschweig und Lüneburg</rs>, von einem unbekannten Schreiber. In Ich- und
                 Wir-Form verfasst. Teilweise lateinische Abschriften von z.B. Gebäuden. Das Original
-                zu dieser Abschrift, verfasst von <rs type="person"
-                  ref="../../register.xml#Heinrich_Ferdinand">Heinrich Ferdinand von Braunschweig
+                zu dieser Abschrift, verfasst von <rs type="person" ref="../../register.xml#Heinrich_Ferdinand">Heinrich Ferdinand von Braunschweig
                   und Lüneburg</rs>: <rs type="shelfmark">Cod. Guelf. 149.14 Extrav.</rs>. Auf
                 195r-200v befindet sich ein Register der besuchten Städte und Dörfer in
                 alphabetischer Reihenfolge.</summary>
@@ -64,8 +59,7 @@
                   Ferdinand von Braunschweig und Lüneburg</title>
                 <date type="coverage" from="1701-03-21" to="1702-09-01"/>
                 <rubric>Herrn <rs type="person" ref="../../register.xml#Heinrich_Ferdinand">Heinrich
-                    Ferdinand</rs>, und Herrn <rs type="person"
-                    ref="../../register.xml#Ernst_Ferdinand">Ernst [Ferdinand]</rs> gebrüder
+                    Ferdinand</rs>, und Herrn <rs type="person" ref="../../register.xml#Ernst_Ferdinand">Ernst [Ferdinand]</rs> gebrüder
                   Hertzoge zu Braunschweig Luneb-Bevern Reiße Beschreibung.</rubric>
 
               </msItem>

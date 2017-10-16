@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.221-1-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.221-1-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,20 +31,18 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>221.1 Extrav.</idno>
+            <idno>Cod. Guelf. 221.1 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>221.1 Extrav., 3r</idno>
+              <idno>Cod. Guelf. 221.1 Extrav., 3r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Tennhart"
-                  >Johann Tennhart</rs> 1708-1710. Auf 2r befindet sich die Notiz: "Original Anno
+              <summary>Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> 1708-1710. Auf 2r befindet sich die Notiz: "Original Anno
                 1708. Nota: Diese meine Original Schrifften solten billich hier in die Bieblioteck
                 gelegt werden. Zum Ewigen gedächtniß. Johannes Tennhardt. Nota. Die andern als
                 ersten Original Schrifften liegen im Ehr. Vormund amt, solten billig zusammen gelegt
-                werden.". Im Lebenslauf sind viele Traumbeschreibungen enthalten. Für <rs
-                  type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> sind
+                werden.". Im Lebenslauf sind viele Traumbeschreibungen enthalten. Für <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs> sind
                 diese Träume das an ihn gerichtete Wort Gottes, an welchem er sein Leben ausrichtet.
                 Ab 301v Weiterführung des Lebenslaufes, darin enthalten eine Erläuterung über die
                 von <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs>
@@ -55,8 +51,7 @@
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="3r" to="292v"/>
                 <author ref="../../register.xml#Johann_Tennhart">Johann Tennhart</author>
-                <title type="uniform">Lebenslauf <rs type="person"
-                    ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs>
+                <title type="uniform">Lebenslauf <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs>
                   (1708-1710)</title>
                 <date type="coverage" from="1708-02-18" to="1710-02-25"/>
                 <rubric>Continuation deß Lebens=Lauff. Original.</rubric>
@@ -103,8 +98,7 @@
               <acquisition>
                 <p>Laut <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter
                     Otte</rs> (Wolf-Dieter Otte: Die neueren Handschriften der Extravagantes, Teil
-                  3, Frankfurt am Main) durch <rs type="person"
-                    ref="../../register.xml#Tobias_Eisler">Tobias Eisler</rs> in die Wolfenbütteler
+                  3, Frankfurt am Main) durch <rs type="person" ref="../../register.xml#Tobias_Eisler">Tobias Eisler</rs> in die Wolfenbütteler
                   Bibliothek gekommen.</p>
               </acquisition>
             </history>

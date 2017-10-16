@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.149-19-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.149-19-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,17 +31,15 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>149.19 Extrav.</idno>
+            <idno>Cod. Guelf. 149.19 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>149.19 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 149.19 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Berichtet wird von der Reise des Herzogs <rs type="person"
-                  ref="../../register.xml#Albrecht_VII.">Albrecht von Österreich</rs> von Brüssel
-                nach Valencia zur Hochzeit mit <rs type="person"
-                  ref="../../register.xml#Isabella_Clara_Eugenia_von_Spanien">Isabella Klara Eugenia
+              <summary>Berichtet wird von der Reise des Herzogs <rs type="person" ref="../../register.xml#Albrecht_VII.">Albrecht von Österreich</rs> von Brüssel
+                nach Valencia zur Hochzeit mit <rs type="person" ref="../../register.xml#Isabella_Clara_Eugenia_von_Spanien">Isabella Klara Eugenia
                   von Spanien</rs>. Der Reisebericht ist tagebuchartig verfasst. Die Einträge sind
                 mit Datum, Orten und Meilenangaben versehen.</summary>
               <textLang mainLang="fra"/>
@@ -91,7 +87,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate>1. Hälfte 17. Jhd.</origDate>
+                <origDate notBefore="1600" notAfter="1650">1. Hälfte 17. Jhd.</origDate>
               </origin>
               <provenance>
                 <p>Es sind zwei Besitzeinträge auf IIIv notiert: "Aemanuell eorait" und "[A.?] Van
@@ -101,8 +97,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl><ref
-                  type="gbv" cRef="218764871">Faing, Gilles du: Voyage de l'archiduc Albert en Espagne en 1598, 1882</ref>.
+                <bibl><ref type="gbv" cRef="218764871">Faing, Gilles du: Voyage de l'archiduc Albert en Espagne en 1598, 1882</ref>.
                 </bibl>
                 <bibl>Faing, Gilles du: Mémoire et brief recueil des journées et choses qui se sont
                   passées au voyage qu'a faict le sérénissime archiducq Albert, à l'allée, séjour et

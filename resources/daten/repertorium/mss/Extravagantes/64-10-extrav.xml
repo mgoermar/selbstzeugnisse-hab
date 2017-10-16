@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.64-10-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.64-10-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>64.10 Extrav.</idno>
+            <idno>Cod. Guelf. 64.10 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>64.10 Extrav., 215r</idno>
+              <idno>Cod. Guelf. 64.10 Extrav., 215r</idno>
             </msIdentifier>
             <msContents>
-              <summary>In Ich-Form verfasster Gefangenschaftsbericht von <rs type="person"
-                  ref="../../register.xml#Martin_Wolff">Martin Wolff</rs>, der wegen einer Predigt
+              <summary>In Ich-Form verfasster Gefangenschaftsbericht von <rs type="person" ref="../../register.xml#Martin_Wolff">Martin Wolff</rs>, der wegen einer Predigt
                 gefangen gesetzt wurde. Er erläutert die Predigt und die Zeit der Gefangenschaft und
                 betont, dass er damit die Wahrheit bezeugen möchte. Angehängt sind einige
                 Briefe/Schreiben bzgl. des Vorfalls. Es handelt sich vermutlich um eine
@@ -95,7 +92,7 @@
             </physDesc>
 <history>
   <origin>
-    <origDate>Mitte 16. Jhd.</origDate>
+    <origDate notBefore="1525" notAfter="1575">Mitte 16. Jhd.</origDate>
   </origin>
 </history>
             

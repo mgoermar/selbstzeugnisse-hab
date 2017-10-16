@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.60-9-aug-2f.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.60-9-aug-2f.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,11 +31,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Augusteer in Folio</collection>
-            <idno>60.9 Aug. 2°</idno>
+            <idno>Cod. Guelf. 60.9 Aug. 2°</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>60.9 Aug. 2°, 388</idno>
+              <idno>Cod. Guelf. 60.9 Aug. 2°, 388</idno>
             </msIdentifier>
             <msContents>
               <summary>In Er-Form verfasster Lebenslauf, vermutlich autograph. Der Lebenslauf
@@ -82,18 +80,18 @@
               </bindingDesc>
 
             </physDesc>
-
+<history>
+  <origin>
+    <origDate>17. Jhd.</origDate>
+  </origin>
+</history>
             <additional>
               <listBibl>
-                <bibl>Vgl. weitere Reisebeschreibungen und ein Briefverzeichnis Hainhofers: <rs
-                    type="shelfmark">Cod. Guelf. 6.6 Aug 2°</rs> (Schreiberhand), 11.22, 17.24
+                <bibl>Vgl. weitere Reisebeschreibungen und ein Briefverzeichnis Hainhofers: <rs type="shelfmark">Cod. Guelf. 6.6 Aug 2°</rs> (Schreiberhand), 11.22, 17.24
                   (evtl. autograph), <rs type="shelfmark">Cod. Guelf. 23.2 Aug 2°</rs> (evtl.
-                  autograph), <rs type="shelfmark">Cod. Guelf. 23.3 Aug 2°</rs>, <rs
-                    type="shelfmark">Cod. Guelf. 37.32 Aug 2°</rs>, <rs type="shelfmark">Cod. Guelf.
-                    38.2 Aug 2°</rs>, <rs type="shelfmark">Cod. Guelf. 68.3 Aug 2°</rs>; <rs
-                    type="shelfmark">Cod. Guelf. 60.22 Aug 4°</rs>; <rs type="shelfmark">Cod. Guelf.
-                    77 Extrav</rs>., <rs type="shelfmark">Cod. Guelf. 83 Extrav.</rs>, <rs
-                    type="shelfmark">Cod. Guelf. 100 Extrav.</rs>, <rs type="shelfmark">Cod. Guelf.
+                  autograph), <rs type="shelfmark">Cod. Guelf. 23.3 Aug 2°</rs>, <rs type="shelfmark">Cod. Guelf. 37.32 Aug 2°</rs>, <rs type="shelfmark">Cod. Guelf.
+                    38.2 Aug 2°</rs>, <rs type="shelfmark">Cod. Guelf. 68.3 Aug 2°</rs>; <rs type="shelfmark">Cod. Guelf. 60.22 Aug 4°</rs>; <rs type="shelfmark">Cod. Guelf.
+                    77 Extrav</rs>., <rs type="shelfmark">Cod. Guelf. 83 Extrav.</rs>, <rs type="shelfmark">Cod. Guelf. 100 Extrav.</rs>, <rs type="shelfmark">Cod. Guelf.
                     106 Extrav.</rs> (alles Abschriften/ Schreiberhände)</bibl>
               </listBibl>
             </additional>

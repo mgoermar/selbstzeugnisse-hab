@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.217-blank.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.217-blank.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,17 +31,15 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Blankenburger</collection>
-            <idno>217 Blank.</idno>
+            <idno>Cod. Guelf. 217 Blank.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>217 Blank., 1</idno>
+              <idno>Cod. Guelf. 217 Blank., 1</idno>
             </msIdentifier>
             <msContents>
               <summary>Von einer unbekannten Person in Ich-Form verfasste autobiographische Notizen,
-                vor allem mit Bezug zur Stadt <rs type="place" ref="../../register.xml#Braunschweig"
-                  >Braunschweig</rs>, in einem gedruckten Schreibkalender. Dieser wurde von <rs
-                  type="person" ref="../../register.xml#Christoph_Fried_Zilliger">Christoph
+                vor allem mit Bezug zur Stadt <rs type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs>, in einem gedruckten Schreibkalender. Dieser wurde von <rs type="person" ref="../../register.xml#Christoph_Fried_Zilliger">Christoph
                   Friedrich Zilliger</rs> verlegt und gedruckt.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Schreibkalender">
@@ -90,11 +86,10 @@
             </physDesc>
             <history>
               <origin>
-                <origDate>2. Hälfte 17. Jhd.</origDate>
+                <origDate notBefore="1650" notAfter="1700">2. Hälfte 17. Jhd.</origDate>
               </origin>
               <provenance>
-                <p>Im Spiegel: Ex libris <rs type="person"
-                    ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von
+                <p>Im Spiegel: Ex libris <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von
                     Braunschweig-Wolfenbüttel</rs>.</p>
               </provenance>
 

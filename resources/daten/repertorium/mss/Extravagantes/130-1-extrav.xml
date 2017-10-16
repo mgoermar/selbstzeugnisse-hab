@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.130-1-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.130-1-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,16 +31,15 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>130.1 Extrav.</idno>
+            <idno>Cod. Guelf. 130.1 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>130.1 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 130.1 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
               <summary>Im vorderen Spiegel und auf 1r befinden sich persönliche Notizen in deutscher
-                Sprache und Ich-Form, die jedoch kaum lesbar sind. <rs type="person"
-                  ref="../../register.xml#Wolf-Dieter_Otte">Wolf Dieter Otte</rs> (Wolf Dieter Otte:
+                Sprache und Ich-Form, die jedoch kaum lesbar sind. <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf Dieter Otte</rs> (Wolf Dieter Otte:
                 Die neueren Handschriften der Gruppe Extravagantes, Teil 2, Frankfurt am Main 1987)
                 liest auf 1r den Besitzeintrag: Item Palme Boeckeman hoert dyth doek tho. Anno lxvj
                 hebbe jck dat gekoefft vor j daler.</summary>
@@ -83,7 +80,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate>16. Jhd.</origDate>
+                <origDate notBefore="1500" notAfter="1600">16. Jhd.</origDate>
               </origin>
             </history>
 

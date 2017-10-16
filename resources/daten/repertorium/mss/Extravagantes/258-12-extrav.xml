@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.258-12-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.258-12-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>258.12 Extrav.</idno>
+            <idno>Cod. Guelf. 258.12 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>258.12 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 258.12 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>In Ich-Form verfasste Autobiographie von <rs type="person"
-                  ref="../../register.xml#Christoph_Woltereck">Christoph Woltereck</rs>. Der
+              <summary>In Ich-Form verfasste Autobiographie von <rs type="person" ref="../../register.xml#Christoph_Woltereck">Christoph Woltereck</rs>. Der
                 Lebensverlauf wird von der Geburt an beschrieben sowie durch genealogische
                 Ausführungen ergänzt. Aber nicht nur Daten und Personen werden genannt, sondern auch
                 besondere Ereignisse und Gedanken, wie z.B. Reisen oder ein Unfall in seiner Jugend,

@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.177-helmst.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.177-helmst.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Helmstedter</collection>
-            <idno>177 Helmst.</idno>
+            <idno>Cod. Guelf. 177 Helmst.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>177 Helmst., 207r</idno>
+              <idno>Cod. Guelf. 177 Helmst., 207r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Abschrift des in Ich-Form verfassten Pilgerberichts von <rs type="person"
-                  ref="../../register.xml#Arnold_von_Harff">Arnold von Harff</rs>. Die Pilgerfahrt
+              <summary>Abschrift des in Ich-Form verfassten Pilgerberichts von <rs type="person" ref="../../register.xml#Arnold_von_Harff">Arnold von Harff</rs>. Die Pilgerfahrt
                 führte von Köln über Rom, Kreta, Kairo, Jerusalem, Konstantinopel, Mailand, Santiago
                 und Paris wieder nach Köln. Auf 207r befindet sich eine Dank- und Widmungsschrift an
                   <rs type="person">Wilhelm</rs> und <rs type="person">Sibylla von

@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.19-22-aug-4f.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.19-22-aug-4f.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,26 +31,23 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Augusteer in Quart</collection>
-            <idno>19.22 Aug. 4°</idno>
+            <idno>Cod. Guelf. 19.22 Aug. 4°</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>19.22 Aug. 4°, 1r</idno>
+              <idno>Cod. Guelf. 19.22 Aug. 4°, 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Im Auftrag von <rs type="person"
-                  ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Julius von
+              <summary>Im Auftrag von <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Julius von
                   Braunschweig-Wolfenbuettel</rs> verfasste Biographie, daher als Autobiographie in
                 das Repertorium aufgenommen. In der Vorrede "fürstliche Narrata" genannt und näher
                 erläutert in "An den günstigen Leser" auf 3r: "wie dann auch S.F.G. den Gebrauch
                 hielten, daß ein jeder der bey und um Sie war, alles waß S.F.Gn. redeten
                 protocolliren und verzeichnen muste, welches ich mit meinen protocollen und Diariis
                 zu bescheinigen habe, dasmahl zu notiren, und bey mir zu behalten." Auf 4v beginnt
-                die Lebensbeschreibung des <rs type="person"
-                  ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Herzogs</rs> ab seiner
+                die Lebensbeschreibung des <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Herzogs</rs> ab seiner
                 Geburt (29. Juni 1528) bis zu seinem Todestag (3. Mai 1589). Einen großen Teil nimmt
-                die Beschreibung der Krankheiten des <rs type="person"
-                  ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Herzogs</rs> ein. Aber
+                die Beschreibung der Krankheiten des <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Herzogs</rs> ein. Aber
                 auch Reisen und die Lebensbedingungen, wie Ernährung und Gewohnheiten, werden
                 beschrieben 78r: "Den Diet in Eßen und Trincken belan=gend sachen die Medici vor gut
                 an, weil S.F.G eine schwehrfällige Persohn und voller phleg=ma waren" und "nur den
@@ -67,8 +62,7 @@
                 <title type="uniform">Biographie Herzog Julius von Braunschweig-Lüneburg</title>
                 <date type="coverage" from="1528-06-29" to="1598"/>
                 <rubric>Leben-Wandel und Tödtlicher Abgang weyland Des Durchlauchstigsten
-                  Hochgebohrnen Fürsten und Herrn Herrn <rs type="person"
-                    ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Julii Herzogen zu
+                  Hochgebohrnen Fürsten und Herrn Herrn <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Julii Herzogen zu
                     Braunschweig und Lüneburg</rs></rubric>
 
               </msItem>

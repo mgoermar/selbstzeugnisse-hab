@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.211-1-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.211-1-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,18 +31,17 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>211.1 Extrav.</idno>
+            <idno>Cod. Guelf. 211.1 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>211.1 Extrav., I</idno>
+              <idno>Cod. Guelf. 211.1 Extrav., I</idno>
             </msIdentifier>
             <msContents>
               <summary>In Ich- und Wir-From verfasstes Reisetagebuch. Im Text sind Reisen, Besuche,
                 Gegenbesuche, Mahlzeiten mit der Familie, Visiten, Krankheiten und tägliche
                 Verrichtungen verzeichnet. Es besteht aus täglichen Einträgen. Der Text bricht ohne
-                explizites Ende mitten im Satz ab. Er weist verschiedene Schreiber auf, <rs
-                  type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>
+                explizites Ende mitten im Satz ab. Er weist verschiedene Schreiber auf, <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>
                 (Wolf-Dieter Otte: Die neueren Handschriften der Gruppe Extravagantes, Teil 2,
                 Frankfurt a. M. 1987) vermutet, dass das Tagebuch ab 8r (9r) autograph ist, hier
                 findet ein Handschriftenwechsel statt.</summary>

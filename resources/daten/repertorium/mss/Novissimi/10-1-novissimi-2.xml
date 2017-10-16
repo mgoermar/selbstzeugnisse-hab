@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.10-1-novissimi-2.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.10-1-novissimi-2.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,23 +31,21 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Novissimi</collection>
-            <idno>10.1 Noviss. 2°</idno>
+            <idno>Cod. Guelf. 10.1 Noviss. 2°</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>10.1 Noviss. 2°, 1r</idno>
+              <idno>Cod. Guelf. 10.1 Noviss. 2°, 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Geistliche Betrachtungen von <rs type="person"
-                  ref="../../register.xml#Sophie_Elisabeth_Br_L">Sophie Elisabeth zu Braunschweig
+              <summary>Geistliche Betrachtungen von <rs type="person" ref="../../register.xml#Sophie_Elisabeth_Br_L">Sophie Elisabeth zu Braunschweig
                   und Lüneburg</rs>, täglich und mit Datum und Ort versehen. Es sind viele Psalmen
                 enthalten sowie Abschriften aus der Bibel und anderen Schriften, außerdem wurden
                 gehörte Predigten notiert. Es gibt aber auch persönliche Ereignisse, die Eingang in
                 die Einträge finden: 61v: "Über daz gäntzliche hinwegreisen meineß bruderß undt
                 deßen suite 25. Aug. 1672", 67r: "über celebrirung meineß nahmenßtagß.", "Ein
                 danckgebethlein über Vollendete Sauerbrunnen cur". Dieser Text gehört zu einer Reihe
-                von geistlichen Tagebüchern (<rs type="shelfmark">10 Noviss. 2°</rs>, <rs
-                  type="shelfmark">Cod. Guelf. 10.2 Noviss. 2°</rs>, <rs type="shelfmark">Cod.
+                von geistlichen Tagebüchern (<rs type="shelfmark">10 Noviss. 2°</rs>, <rs type="shelfmark">Cod. Guelf. 10.2 Noviss. 2°</rs>, <rs type="shelfmark">Cod.
                   Guelf. 53. Noviss. 8°</rs>, <rs type="shelfmark">Cod. Guelf. 53.1 Noviss. 8°</rs>
                 und <rs type="shelfmark">Cod. Guelf. 53.2 Noviss. 8°</rs>), die Sophie Elisabeth von
                 Braunschweig und Lüneburg verfasst hat.</summary>

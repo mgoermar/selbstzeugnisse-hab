@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.67-6-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.67-6-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,40 +31,23 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>67.6 Extrav.</idno>
+            <idno>Cod. Guelf. 67.6 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>67.6 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 67.6 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Beschrieben werden die Reisen vom 02.09.1587 bis 08.07.1589 mit <rs
-                  type="person" ref="../../register.xml#Melchior_von_Steinberg">Melchior von
+              <summary>Beschrieben werden die Reisen vom 02.09.1587 bis 08.07.1589 mit <rs type="person" ref="../../register.xml#Melchior_von_Steinberg">Melchior von
                   Steinberg</rs> nach <rs type="place" ref="../../register.xml#Italy">Italien</rs>
-                (1-679) und vom 26.08.1589 bis 09.10.1589 mit Graf <rs type="person"
-                  ref="../../register.xml#Wolf_Ernst_zu_Stolberg">Wolf Ernst von
-                  Stohlberg-Wernigerode</rs> von <rs type="place"
-                  ref="../../register.xml#Wernigerode">Wernigerode</rs> nach <rs type="place"
-                  ref="../../register.xml#Daenemark">Dänemark</rs> (zwei angeklebte Blätter).
+                (1-679) und vom 26.08.1589 bis 09.10.1589 mit Graf <rs type="person" ref="../../register.xml#Wolf_Ernst_zu_Stolberg">Wolf Ernst von
+                  Stohlberg-Wernigerode</rs> von <rs type="place" ref="../../register.xml#Wernigerode">Wernigerode</rs> nach <rs type="place" ref="../../register.xml#Daenemark">Dänemark</rs> (zwei angeklebte Blätter).
                 Verfasst meist in der Wir-Form, selten in Ich-Form. Auf dem Titelblatt wurde
                 notiert: "den II Januarii 1615", was als Datum der Niederschrift gefasst werden
                 kann. <rs type="person" ref="../../register.xml#Barthold_von_Gadenstedt">Barthold
-                  von Gadenstedt</rs> wird zu Anfang bis nach <rs type="place"
-                  ref="../../register.xml#Wispenstein">Wispenstein</rs> von seinem Bruder "<rs
-                  type="person" ref="../../register.xml#Burkhard_von_Gadenstedt">Burchhardt</rs>"
+                  von Gadenstedt</rs> wird zu Anfang bis nach <rs type="place" ref="../../register.xml#Wispenstein">Wispenstein</rs> von seinem Bruder "<rs type="person" ref="../../register.xml#Burkhard_von_Gadenstedt">Burchhardt</rs>"
                 sowie "<rs type="person">Hans von Rathenaw</rs>" und "<rs type="person">Christoff
-                  Bolten</rs>" begleitet. Weitere Ziele im Verlauf der Reise sind z.B. <rs
-                  type="place" ref="../../register.xml#Kassel">Kassel</rs>, <rs type="place"
-                  ref="../../register.xml#Frankfurt_am_Main">Frankfurt a. M.</rs>, <rs type="place"
-                  ref="../../register.xml#Speyer">Speyer</rs>, <rs type="place"
-                  ref="../../register.xml#Ulm">Ulm</rs>, <rs type="place"
-                  ref="../../register.xml#Innsbruck">Innsbruck</rs>, <rs type="place"
-                  ref="../../register.xml#Trient">Trient</rs>, <rs type="place"
-                  ref="../../register.xml#Venice">Venedig</rs>, <rs type="place"
-                  ref="../../register.xml#Rom">Rom</rs>, <rs type="place"
-                  ref="../../register.xml#Malta">Malta</rs>, <rs type="place"
-                  ref="../../register.xml#Bologna">Bologna</rs> und <rs type="place"
-                  ref="../../register.xml#Padua">Padua</rs>. Der Bericht ist nicht hauptsächlich mit
+                  Bolten</rs>" begleitet. Weitere Ziele im Verlauf der Reise sind z.B. <rs type="place" ref="../../register.xml#Kassel">Kassel</rs>, <rs type="place" ref="../../register.xml#Frankfurt_am_Main">Frankfurt a. M.</rs>, <rs type="place" ref="../../register.xml#Speyer">Speyer</rs>, <rs type="place" ref="../../register.xml#Ulm">Ulm</rs>, <rs type="place" ref="../../register.xml#Innsbruck">Innsbruck</rs>, <rs type="place" ref="../../register.xml#Trient">Trient</rs>, <rs type="place" ref="../../register.xml#Venice">Venedig</rs>, <rs type="place" ref="../../register.xml#Rom">Rom</rs>, <rs type="place" ref="../../register.xml#Malta">Malta</rs>, <rs type="place" ref="../../register.xml#Bologna">Bologna</rs> und <rs type="place" ref="../../register.xml#Padua">Padua</rs>. Der Bericht ist nicht hauptsächlich mit
                 Datum in Tageseinträge eingeteilt, sondern Orte bilden als Marginalien am Rand die
                 Zwischenüberschriften. Es gibt ausführliche Beschreibungen von Sehenswürdigkeiten
                 und auch Angaben zu Herbergen und zu zurückgelegten Wegstrecken. Ein Ortsregister

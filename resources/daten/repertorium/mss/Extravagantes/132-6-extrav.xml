@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.132-6-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.132-6-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,86 +32,22 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>132.6 Extrav.</idno>
+            <idno>Cod. Guelf. 132.6 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>132.6 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 132.6 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Reisebericht des <rs type="person"
-                  ref="../../register.xml#Friedrich_Franz_Braunschweig">Herzogs Friedrich Franz von
-                  Braunschweig</rs>, die Reise führte von <rs type="place"
-                  ref="../../register.xml#Berlin">Berlin</rs> über <rs type="place"
-                  ref="../../register.xml#Braunschweig">Braunschweig</rs> nach <rs type="place"
-                  ref="../../register.xml#Kopenhagen">Kopenhagen</rs> in der Zeit vom 21. September
+              <summary>Reisebericht des <rs type="person" ref="../../register.xml#Friedrich_Franz_Braunschweig">Herzogs Friedrich Franz von
+                  Braunschweig</rs>, die Reise führte von <rs type="place" ref="../../register.xml#Berlin">Berlin</rs> über <rs type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs> nach <rs type="place" ref="../../register.xml#Kopenhagen">Kopenhagen</rs> in der Zeit vom 21. September
                 bis 24. Dezember 1753. Die Beschreibungen von Übungen und der Organisation des
                 Militärs bilden einen Berichtsschwerpunkt. Ein Verfasser wird nicht explizit
                 genannt, <rs type="person" ref="../../register.xml#Joachim_Rees">Joachim Rees</rs>
-                vermutet aufgrund textinterner Hinweise, dass es der Mitreisende Adjutant <rs
-                  type="person" ref="../../register.xml#von_Baerenfels">von Bärenfels</rs> sei.
+                vermutet aufgrund textinterner Hinweise, dass es der Mitreisende Adjutant <rs type="person" ref="../../register.xml#von_Baerenfels">von Bärenfels</rs> sei.
                 Berichtet wird in der Er-Form. Der Text ist durch Überschriften mit Zeit- und
-                Ortsangaben unterteilt. Rückreise vom 04.12.1753 aus <rs type="place"
-                  ref="../../register.xml#Kopenhagen">Kopenhagen</rs> bis Ankunft in <rs
-                  type="place" ref="../../register.xml#Potsdam">Potsdam</rs> am 24.12.1753.
-                Itinerar: <rs type="place" ref="../../register.xml#Berlin">Berlin</rs>, <rs
-                  type="place" ref="../../register.xml#Wustermark">Wustermark</rs>, <rs type="place"
-                  ref="../../register.xml#Brandenburg">Brandenburg</rs>, <rs type="place"
-                  ref="../../register.xml#Ziesar">Ziesar</rs>, <rs type="place"
-                  ref="../../register.xml#Hohenziatz">Hohenziatz</rs>, <rs type="place"
-                  ref="../../register.xml#Magdeburg">Magdeburg</rs>, <rs type="place"
-                  ref="../../register.xml#Helmstedt">Helmstedt</rs>, <rs type="place"
-                  ref="../../register.xml#Braunschweig">Braunschweig</rs>, <rs type="place"
-                  ref="../../register.xml#GrossOesingen">Groß Oesingen</rs>, <rs type="place"
-                  ref="../../register.xml#Suderburg">Suderburg</rs>, <rs type="place"
-                  ref="../../register.xml#Ebstorf">Ebstorf</rs>, <rs type="place"
-                  ref="../../register.xml#Lueneburg">Lüneburg</rs>, <rs type="place"
-                  ref="../../register.xml#Hamburg">Hamburg</rs>, <rs type="place"
-                  ref="../../register.xml#Elmshorn">Elmshorn</rs>, <rs type="place"
-                  ref="../../register.xml#Itzehoe">Itzehoe</rs>, <rs type="place"
-                  ref="../../register.xml#Remmels">Remmels</rs>, <rs type="place"
-                  ref="../../register.xml#Rendsburg">Rendsburg</rs>, <rs type="place"
-                  ref="../../register.xml#Schleswig">Schleswig</rs>, <rs type="place"
-                  ref="../../register.xml#Flensburg">Flensburg</rs>, <rs type="place"
-                  ref="../../register.xml#Arosund">Arosund</rs>, <rs type="place"
-                  ref="../../register.xml#Assens">Assens</rs>, <rs type="place"
-                  ref="../../register.xml#Odense">Odense</rs>, <rs type="place"
-                  ref="../../register.xml#Nyborg">Nyborg</rs>, Großer Belt, <rs type="place"
-                  ref="../../register.xml#Korsor">Korsor</rs>, <rs type="place"
-                  ref="../../register.xml#Slagelse">Slagelse</rs>, <rs type="place"
-                  ref="../../register.xml#Ringsted">Ringsted</rs>, <rs type="place"
-                  ref="../../register.xml#Roskilde">Roskilde</rs>, <rs type="place"
-                  ref="../../register.xml#Kopenhagen">Kopenhagen</rs>, <rs type="place"
-                  ref="../../register.xml#Roskilde">Roskilde</rs>, <rs type="place"
-                  ref="../../register.xml#Ringsted">Ringsted</rs>, <rs type="place"
-                  ref="../../register.xml#Soro">Soro</rs>, <rs type="place"
-                  ref="../../register.xml#Slagelse">Slagelse</rs>, Großer Belt, <rs type="place"
-                  ref="../../register.xml#Nyborg">Nyborg</rs>, <rs type="place"
-                  ref="../../register.xml#Odense">Odense</rs>, <rs type="place"
-                  ref="../../register.xml#Middelfart">Middelfart</rs>, <rs type="place"
-                  ref="../../register.xml#Kolding">Kolding</rs>, <rs type="place"
-                  ref="../../register.xml#Haderslev">Haderslev</rs>, <rs type="place"
-                  ref="../../register.xml#Flensburg">Flensburg</rs>, <rs type="place"
-                  ref="../../register.xml#Schleswig">Schleswig</rs>, <rs type="place"
-                  ref="../../register.xml#Gottorf">Gottorf</rs>, <rs type="place"
-                  ref="../../register.xml#Rendsburg">Rendsburg</rs>, <rs type="place"
-                  ref="../../register.xml#Remmels">Remmels</rs>, <rs type="place"
-                  ref="../../register.xml#Hamburg">Hamburg</rs>, <rs type="place"
-                  ref="../../register.xml#Hoopte">Hoopte</rs>, <rs type="place"
-                  ref="../../register.xml#Lueneburg">Lüneburg</rs>, <rs type="place"
-                  ref="../../register.xml#Ebstorf">Ebstorf</rs>, <rs type="place"
-                  ref="../../register.xml#Suderburg">Suderburg</rs>,<rs type="place"
-                  ref="../../register.xml#GrossOesingen"> Groß Oesingen</rs>, <rs type="place"
-                  ref="../../register.xml#Gamsen">Gamsen</rs>, <rs type="place"
-                  ref="../../register.xml#Roetgesbuettel">Rötgesbüttel</rs>, <rs type="place"
-                  ref="../../register.xml#Braunschweig">Braunschweig</rs>, <rs type="place"
-                  ref="../../register.xml#Koenigslutter">Königslutter</rs>, <rs type="place"
-                  ref="../../register.xml#Helmstedt">Helmstedt</rs>, <rs type="place"
-                  ref="../../register.xml#Magdeburg">Magdeburg</rs>, <rs type="place"
-                  ref="../../register.xml#Hohenziatz">Hohenziatz</rs>, <rs type="place"
-                  ref="../../register.xml#Ziesar">Ziesar</rs>, <rs type="place"
-                  ref="../../register.xml#Brandenburg">Brandenburg</rs>, <rs type="place"
-                  ref="../../register.xml#Potsdam">Potsdam</rs>.</summary>
+                Ortsangaben unterteilt. Rückreise vom 04.12.1753 aus <rs type="place" ref="../../register.xml#Kopenhagen">Kopenhagen</rs> bis Ankunft in <rs type="place" ref="../../register.xml#Potsdam">Potsdam</rs> am 24.12.1753.
+                Itinerar: <rs type="place" ref="../../register.xml#Berlin">Berlin</rs>, <rs type="place" ref="../../register.xml#Wustermark">Wustermark</rs>, <rs type="place" ref="../../register.xml#Brandenburg">Brandenburg</rs>, <rs type="place" ref="../../register.xml#Ziesar">Ziesar</rs>, <rs type="place" ref="../../register.xml#Hohenziatz">Hohenziatz</rs>, <rs type="place" ref="../../register.xml#Magdeburg">Magdeburg</rs>, <rs type="place" ref="../../register.xml#Helmstedt">Helmstedt</rs>, <rs type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs>, <rs type="place" ref="../../register.xml#GrossOesingen">Groß Oesingen</rs>, <rs type="place" ref="../../register.xml#Suderburg">Suderburg</rs>, <rs type="place" ref="../../register.xml#Ebstorf">Ebstorf</rs>, <rs type="place" ref="../../register.xml#Lueneburg">Lüneburg</rs>, <rs type="place" ref="../../register.xml#Hamburg">Hamburg</rs>, <rs type="place" ref="../../register.xml#Elmshorn">Elmshorn</rs>, <rs type="place" ref="../../register.xml#Itzehoe">Itzehoe</rs>, <rs type="place" ref="../../register.xml#Remmels">Remmels</rs>, <rs type="place" ref="../../register.xml#Rendsburg">Rendsburg</rs>, <rs type="place" ref="../../register.xml#Schleswig">Schleswig</rs>, <rs type="place" ref="../../register.xml#Flensburg">Flensburg</rs>, <rs type="place" ref="../../register.xml#Arosund">Arosund</rs>, <rs type="place" ref="../../register.xml#Assens">Assens</rs>, <rs type="place" ref="../../register.xml#Odense">Odense</rs>, <rs type="place" ref="../../register.xml#Nyborg">Nyborg</rs>, Großer Belt, <rs type="place" ref="../../register.xml#Korsor">Korsor</rs>, <rs type="place" ref="../../register.xml#Slagelse">Slagelse</rs>, <rs type="place" ref="../../register.xml#Ringsted">Ringsted</rs>, <rs type="place" ref="../../register.xml#Roskilde">Roskilde</rs>, <rs type="place" ref="../../register.xml#Kopenhagen">Kopenhagen</rs>, <rs type="place" ref="../../register.xml#Roskilde">Roskilde</rs>, <rs type="place" ref="../../register.xml#Ringsted">Ringsted</rs>, <rs type="place" ref="../../register.xml#Soro">Soro</rs>, <rs type="place" ref="../../register.xml#Slagelse">Slagelse</rs>, Großer Belt, <rs type="place" ref="../../register.xml#Nyborg">Nyborg</rs>, <rs type="place" ref="../../register.xml#Odense">Odense</rs>, <rs type="place" ref="../../register.xml#Middelfart">Middelfart</rs>, <rs type="place" ref="../../register.xml#Kolding">Kolding</rs>, <rs type="place" ref="../../register.xml#Haderslev">Haderslev</rs>, <rs type="place" ref="../../register.xml#Flensburg">Flensburg</rs>, <rs type="place" ref="../../register.xml#Schleswig">Schleswig</rs>, <rs type="place" ref="../../register.xml#Gottorf">Gottorf</rs>, <rs type="place" ref="../../register.xml#Rendsburg">Rendsburg</rs>, <rs type="place" ref="../../register.xml#Remmels">Remmels</rs>, <rs type="place" ref="../../register.xml#Hamburg">Hamburg</rs>, <rs type="place" ref="../../register.xml#Hoopte">Hoopte</rs>, <rs type="place" ref="../../register.xml#Lueneburg">Lüneburg</rs>, <rs type="place" ref="../../register.xml#Ebstorf">Ebstorf</rs>, <rs type="place" ref="../../register.xml#Suderburg">Suderburg</rs>,<rs type="place" ref="../../register.xml#GrossOesingen"> Groß Oesingen</rs>, <rs type="place" ref="../../register.xml#Gamsen">Gamsen</rs>, <rs type="place" ref="../../register.xml#Roetgesbuettel">Rötgesbüttel</rs>, <rs type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs>, <rs type="place" ref="../../register.xml#Koenigslutter">Königslutter</rs>, <rs type="place" ref="../../register.xml#Helmstedt">Helmstedt</rs>, <rs type="place" ref="../../register.xml#Magdeburg">Magdeburg</rs>, <rs type="place" ref="../../register.xml#Hohenziatz">Hohenziatz</rs>, <rs type="place" ref="../../register.xml#Ziesar">Ziesar</rs>, <rs type="place" ref="../../register.xml#Brandenburg">Brandenburg</rs>, <rs type="place" ref="../../register.xml#Potsdam">Potsdam</rs>.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="1r" to="46v"/>
@@ -122,12 +56,10 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisebericht <rs type="person"
-                    ref="../../register.xml#Friedrich_Franz_Braunschweig">Herzog Friedrich Franz von
+                <title type="uniform">Reisebericht <rs type="person" ref="../../register.xml#Friedrich_Franz_Braunschweig">Herzog Friedrich Franz von
                     Braunschweig</rs>-Lüneburg</title>
                 <date type="coverage" from="1753-09-21" to="1757-12-24"/>
-                <rubric>Reyss Journal, <rs type="person"
-                    ref="../../register.xml#Friedrich_Franz_Braunschweig">Prinz Friedrich
+                <rubric>Reyss Journal, <rs type="person" ref="../../register.xml#Friedrich_Franz_Braunschweig">Prinz Friedrich
                     franzens</rs> H. Zu B. u. Lun. (n. 8. Jun. 1732: den 14. Oct. 1758) Von Berlin
                   über braunschweig nach Coppenhagen u. wieder zurück.</rubric>
 
@@ -168,7 +100,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate>2. Hälfte 18. Jhd.</origDate>
+                <origDate notBefore="1750" notAfter="1800">2. Hälfte 18. Jhd.</origDate>
               </origin>
             </history>
             

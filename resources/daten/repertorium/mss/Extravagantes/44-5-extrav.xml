@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.44-5-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.44-5-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,11 +32,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>44.5 Extrav.</idno>
+            <idno>Cod. Guelf. 44.5 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>44.5 Extrav., 334r</idno>
+              <idno>Cod. Guelf. 44.5 Extrav., 334r</idno>
             </msIdentifier>
             <msContents>
               <summary>Autographer Lebenslauf Ferdinand Albrechts I. von
@@ -50,9 +48,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="334r" to="341v"/>
-                <author
-                  ref="../../register.xml#Ferdinand_Albrecht_I._von_Braunschweig_Wolfenbuettel_Bevern"
-                  >Herzog Ferdinand Albrecht I. von Braunschweig-Wolfenbüttel-Bevern</author>
+                <author ref="../../register.xml#Ferdinand_Albrecht_I._von_Braunschweig_Wolfenbuettel_Bevern">Herzog Ferdinand Albrecht I. von Braunschweig-Wolfenbüttel-Bevern</author>
                 <title type="uniform">Lebenslauf Herzog Ferdinand Albrechts I. von
                   Braunschweig-Wolfenbüttel-Bevern</title>
                 <date type="coverage" from="1636-05-22" to="1671-01-07"/>
@@ -95,7 +91,7 @@
             </physDesc>
 <history>
   <origin>
-    <origDate>17. Jhd.</origDate>
+    <origDate notBefore="1600" notAfter="1700">17. Jhd.</origDate>
   </origin>
 </history>
             

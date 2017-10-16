@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.149-14-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.149-14-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,28 +32,19 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>149.14 Extrav.</idno>
+            <idno>Cod. Guelf. 149.14 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>149.14 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 149.14 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Reisetagebuch der Brüder <rs type="person"
-                  ref="../../register.xml#Heinrich_Ferdinand">Heinrich Ferdinand</rs> und <rs
-                  type="person" ref="../../register.xml#Ernst_Ferdinand">Ernst Ferdinand</rs> von
-                  <rs type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs> und <rs
-                  type="place" ref="../../register.xml#Lueneburg">Lüneburg</rs>. Die Reise führt
-                durch die <rs type="place" ref="../../register.xml#Switzerland">Schweiz</rs>, <rs
-                  type="place" ref="../../register.xml#Italy">Italien</rs>, <rs type="place"
-                  ref="../../register.xml#Spain">Spanien</rs>, <rs type="place"
-                  ref="../../register.xml#France">Frankreich</rs> und die <rs type="place"
-                  ref="../../register.xml#Netherlands">Niederlande</rs>. Der Vermerk "Henrich
-                ferdinand [...]. Anno 1701." auf 1r deutet auf <rs type="person"
-                  ref="../../register.xml#Heinrich_Ferdinand">Heinrich Ferdiand</rs> als Autor/
+              <summary>Reisetagebuch der Brüder <rs type="person" ref="../../register.xml#Heinrich_Ferdinand">Heinrich Ferdinand</rs> und <rs type="person" ref="../../register.xml#Ernst_Ferdinand">Ernst Ferdinand</rs> von
+                  <rs type="place" ref="../../register.xml#Braunschweig">Braunschweig</rs> und <rs type="place" ref="../../register.xml#Lueneburg">Lüneburg</rs>. Die Reise führt
+                durch die <rs type="place" ref="../../register.xml#Switzerland">Schweiz</rs>, <rs type="place" ref="../../register.xml#Italy">Italien</rs>, <rs type="place" ref="../../register.xml#Spain">Spanien</rs>, <rs type="place" ref="../../register.xml#France">Frankreich</rs> und die <rs type="place" ref="../../register.xml#Netherlands">Niederlande</rs>. Der Vermerk "Henrich
+                ferdinand [...]. Anno 1701." auf 1r deutet auf <rs type="person" ref="../../register.xml#Heinrich_Ferdinand">Heinrich Ferdiand</rs> als Autor/
                 Verfasser des Textes hin. Dieser vermerkt, dass die Reise inkognito erfolgte. Das
-                erste Ziel der Reise war <rs type="place" ref="../../register.xml#Kassel"
-                  >Kassel</rs> mit Wasserkunst und Lusthaus. Das Reisetagebuch endet mit dem Satz:
+                erste Ziel der Reise war <rs type="place" ref="../../register.xml#Kassel">Kassel</rs> mit Wasserkunst und Lusthaus. Das Reisetagebuch endet mit dem Satz:
                 "Soli deo sit gloria". Es ist ein Register (Itinerar) auf den Seiten 165-169
                 angefügt, welches in alphabetischer Reihenfolge die bereisten Städte und Dörfer
                 enthält. Teilweise ist der Text mit Meilenangaben oder der Dauer der Aufenthalte
@@ -69,8 +58,7 @@
                 <title type="uniform">Reisetagebuch Herzog Heinrich Ferdinand und Herzog Ernst Ferdinand von Braunschweig und Lüneburg</title>
                 <date type="coverage" from="1701-03-21" to="1702-09-01"/>
                 <rubric><rs type="person" ref="../../register.xml#Heinrich_Ferdinand">Heinrich
-                    Ferdinando</rs> u. <rs type="person" ref="../../register.xml#Ernst_Ferdinand"
-                    >Ernste</rs> Herz. zu Braunschw. u. Lüneb. Reise-Journal in Italien u.
+                    Ferdinando</rs> u. <rs type="person" ref="../../register.xml#Ernst_Ferdinand">Ernste</rs> Herz. zu Braunschw. u. Lüneb. Reise-Journal in Italien u.
                   Frankreich.</rubric>
 
               </msItem>
@@ -102,9 +90,7 @@
 
               <decoDesc>
                 <decoNote>Zeichnungen: S. 8: dreigesichtiger Kopf mit vier Augen; S. 31: Epitaph; S.
-                  34: Stadtwappen von <rs type="place" ref="../../register.xml#Bern">Bern</rs>, <rs
-                    type="place" ref="../../register.xml#Zurich">Zürich</rs> und <rs type="place"
-                    ref="../../register.xml#Geneva">Genf</rs>; S. 155: Gebäudeteil zwei Meilen vor
+                  34: Stadtwappen von <rs type="place" ref="../../register.xml#Bern">Bern</rs>, <rs type="place" ref="../../register.xml#Zurich">Zürich</rs> und <rs type="place" ref="../../register.xml#Geneva">Genf</rs>; S. 155: Gebäudeteil zwei Meilen vor
                     <rs type="place" ref="../../register.xml#Paris">Paris</rs></decoNote>
               </decoDesc>
               <bindingDesc>
@@ -120,18 +106,14 @@
                 <origPlace ref="../../register.xml#Braunschweig"/>
               </origin>
               <provenance>
-                <p>Im vorderen Deckel ist vermerkt: Ex bibliotheca <rs type="person"
-                    ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">D. Ferdin. </rs> et <rs
-                    type="person" ref="../../register.xml#Antoinette_Amalie">D. Antoniae Amaliae
+                <p>Im vorderen Deckel ist vermerkt: Ex bibliotheca <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_Braunschweig">D. Ferdin. </rs> et <rs type="person" ref="../../register.xml#Antoinette_Amalie">D. Antoniae Amaliae
                   </rs> Ducem Brusv. ac Luneb.</p>
               </provenance>
 
             </history>
             <additional>
               <listBibl>
-                <bibl>NLA Wolfenbüttel, <ref
-                    target="http://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5602860"
-                    >NLA WO, 95 Alt 44</ref></bibl>
+                <bibl>NLA Wolfenbüttel, <ref target="http://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v5602860">NLA WO, 95 Alt 44</ref></bibl>
               </listBibl>
             </additional>
           </msPart>

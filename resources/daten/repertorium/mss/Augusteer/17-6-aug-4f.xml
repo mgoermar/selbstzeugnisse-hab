@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="repertorium" xml:id="repertorium.eintrag.17-6-aug-4f.xml">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="repertorium" xml:id="repertorium.eintrag.17-6-aug-4f.xml">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,9 +30,9 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Augusteer in Quart</collection>
-            <idno>17.6 Aug. 4°</idno>
+            <idno>Cod. Guelf. 17.6 Aug. 4°</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>17.6 Aug. 4°</idno></msIdentifier>
+          <msPart><msIdentifier><idno>Cod. Guelf. 17.6 Aug. 4°</idno></msIdentifier>
             <msContents>
               <summary>
                 Tagebuchartige Aufzeichnungen über politische, meteorologische und persönliche Ereignisse im Reich und auf lokaler Ebene, insbesondere in <rs type="place" ref="../../register.xml#Nuremberg">Nürnberg</rs>.
@@ -74,7 +73,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate notAfter="1550" notBefore="1500">1. Hälfte 16. Jhdt.</origDate>
+                <origDate notBefore="1500" notAfter="1550">1. Hälfte 16. Jhd.</origDate>
               </origin>
               <acquisition>
                 <p>1652/53 von Herzog August erworben</p>

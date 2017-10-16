@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.253-10-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.253-10-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,15 +31,14 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>253.10 Extrav.</idno>
+            <idno>Cod. Guelf. 253.10 Extrav.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>253.10 Extrav., 1r</idno>
+              <idno>Cod. Guelf. 253.10 Extrav., 1r</idno>
             </msIdentifier>
             <msContents>
-              <summary>Im Auftrag von <rs type="person"
-                  ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Julius von
+              <summary>Im Auftrag von <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Julius von
                   Braunschweig-Wolfenbuettel</rs> verfasste Biographie, daher als Autobiographie in
                 das Repertorium aufgenommen. Einen großen Teil nimmt die Beschreibung der
                 Krankheiten des Herzogs ein. Aber auch Reisen und die Lebensbedingungen, wie
@@ -53,8 +50,7 @@
                 <title type="uniform">Biographie Herzog Julius von Braunschweig-Lüneburg</title>
                 <date type="coverage" from="1529" to="1602-10-21"/>
                 <rubric>Leben-Wandell und Tödtlicher Abgang weyland Des Durchlauchstigsten Fürsten
-                  und Herrn Herrn <rs type="person"
-                    ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Julio Herzogen zu
+                  und Herrn Herrn <rs type="person" ref="../../register.xml#Julius_Braunschweig_Wolfenbuettel">Julio Herzogen zu
                     Braunschweig und Lüneburg</rs></rubric>
 
               </msItem>

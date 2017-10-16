@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.42-19-aug-2f.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.42-19-aug-2f.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,11 +32,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Augusteer in Folio</collection>
-            <idno>42.19 Aug. 2°</idno>
+            <idno>Cod. Guelf. 42.19 Aug. 2°</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>42.19 Aug. 2°, 1r</idno>
+              <idno>Cod. Guelf. 42.19 Aug. 2°, 1r</idno>
             </msIdentifier>
             <msContents>
               <summary>Tagebuch von <rs type="person" ref="../../register.xml#Herzog_August">Herzog

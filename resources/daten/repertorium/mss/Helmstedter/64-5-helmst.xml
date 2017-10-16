@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xml:id="repertorium.eintrag.64-5-helmst.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.64-5-helmst.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,11 +31,11 @@
             <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
               Wolfenbüttel</institution>
             <collection>Helmstedter</collection>
-            <idno>64.5 Helmst.</idno>
+            <idno>Cod. Guelf. 64.5 Helmst.</idno>
           </msIdentifier>
           <msPart>
             <msIdentifier>
-              <idno>64.5 Helmst., 33r</idno>
+              <idno>Cod. Guelf. 64.5 Helmst., 33r</idno>
             </msIdentifier>
             <msContents>
               <summary>In Ich-Form verfasstes Geständnis des Buchdruckers Ernst Vögelin aus

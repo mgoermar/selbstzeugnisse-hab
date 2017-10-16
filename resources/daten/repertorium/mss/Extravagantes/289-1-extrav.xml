@@ -1,13 +1,12 @@
-<?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.289-1-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.289-1-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc><titleStmt><title>289.1 Extrav., 1 – Reisetagebuch Leonhard Baudis</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
         <msDesc>
           <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
-            <idno>289.1 Extrav.</idno>
+            <idno>Cod. Guelf. 289.1 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>289.1 Extrav., 1</idno></msIdentifier>
+          <msPart><msIdentifier><idno>Cod. Guelf. 289.1 Extrav., 1</idno></msIdentifier>
             <msContents>
               <summary>In Wir-Form verfasstes Diarium einer Reise von <rs type="person" ref="../../register.xml#Leonhard_Baudis">Leonhard Baudis</rs> als Begleiter von <rs type="person" ref="../../register.xml#Hans_Dieskau">Hans Adolf Dieskau</rs> durch <rs type="place" ref="../../register.xml#Europa">Europa</rs>; <rs type="place" ref="../../register.xml#Leipzig">Leipzig</rs>, <rs type="place" ref="../../register.xml#Strassburg">Straßburg</rs>, <rs type="place" ref="../../register.xml#Genf">Genf</rs>, <rs type="place" ref="../../register.xml#Koeln">Köln</rs>, 
                   <rs type="place" ref="../../register.xml#Lyon">Lyon</rs>, <rs type="place" ref="../../register.xml#Bordeaux">Bordeaux</rs>, <rs type="place" ref="../../register.xml#Paris">Paris</rs>. 
