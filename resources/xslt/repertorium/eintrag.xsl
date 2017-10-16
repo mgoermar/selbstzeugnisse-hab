@@ -411,6 +411,32 @@
           <xsl:with-param name="datum" select="$element/@when"/>
         </xsl:call-template>
       </xsl:when>
+      <xsl:when test="$element/@after">
+        <xsl:text>nach </xsl:text>
+        <xsl:call-template name="datum">
+          <xsl:with-param name="datum" select="$element/@after"/>
+        </xsl:call-template>
+      </xsl:when>
+      <xsl:when test="$element/@notBefore">
+        <xsl:text>nach </xsl:text>
+        <xsl:call-template name="datum">
+          <xsl:with-param name="datum" select="$element/@notBefore"/>
+        </xsl:call-template>
+      </xsl:when>
+
+      <xsl:when test="$element/@before">
+        <xsl:text>vor </xsl:text>
+        <xsl:call-template name="datum">
+          <xsl:with-param name="datum" select="$element/@before"/>
+        </xsl:call-template>
+      </xsl:when>
+      <xsl:when test="$element/@notAfter">
+        <xsl:text>vor </xsl:text>
+        <xsl:call-template name="datum">
+          <xsl:with-param name="datum" select="$element/@notAfter"/>
+        </xsl:call-template>
+      </xsl:when>
+
     </xsl:choose>
   </xsl:template>
 
