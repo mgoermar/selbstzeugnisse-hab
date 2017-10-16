@@ -31,7 +31,7 @@
             <th>Verfasser</th>
             <td>
               <xsl:choose>
-                <xsl:when test="//tei:author">
+                <xsl:when test="//tei:author[normalize-space()]">
                   <xsl:value-of select="//tei:author"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
@@ -142,7 +142,6 @@
           <tr>
             <th>Signatur</th>
             <td>
-              <xsl:text>Cod. Guelf. </xsl:text>
               <xsl:value-of select="//tei:msDesc/tei:msIdentifier/tei:idno"/>
               <xsl:if test="//tei:msItem/tei:locus/@from">
                 <xsl:text>, beginnt auf </xsl:text>
@@ -323,7 +322,7 @@
         </tbody>
       </table>
 
-      <xsl:variable name="shelfmark" select=".//tei:msDesc/tei:msIdentifier/tei:idno"/>
+      <xsl:variable name="shelfmark" select="substring-after(.//tei:msDesc/tei:msIdentifier/tei:idno, 'Cod. Guelf. ')"/>
       <xsl:variable name="ident">
         <xsl:call-template name="normalize-shelfmark">
           <xsl:with-param name="shelfmark" select="$shelfmark"/>
