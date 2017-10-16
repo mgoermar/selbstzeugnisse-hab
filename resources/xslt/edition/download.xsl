@@ -27,6 +27,7 @@
     <xsl:element name="front" namespace="http://www.tei-c.org/ns/1.0">
       <xsl:apply-templates select="document('../einleitung.xml', /)/tei:TEI/tei:text/tei:body/*"/>
       <xsl:apply-templates select="document('../richtlinien.xml', /)/tei:TEI/tei:text/tei:body/*"/>
+      <xsl:apply-templates select="document('../beschreibung.xml', /)/tei:TEI/tei:text/tei:body/*"/>
     </xsl:element>
     <xsl:copy>
       <xsl:apply-templates select="node() | @*"/>
@@ -44,6 +45,18 @@
 
   <xsl:template match="@place[parent::tei:head]">
     <xsl:attribute name="rend"><xsl:value-of select="concat('place(', ., ')')"/></xsl:attribute>
+  </xsl:template>
+
+  <xsl:template match="tei:ref[@type = 'opac']">
+    <xsl:copy>
+      <xsl:attribute name="type">opac</xsl:attribute>
+      <xsl:attribute name="target"><xsl:value-of select="concat('http://opac.lbs-braunschweig.gbv.de/DB=2/PPN?PPN=', @cRef)"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </xsl:copy>
+  </xsl:template>
+
+  <xsl:template match="body">
+    <xsl:apply-templates/>
   </xsl:template>
 
   <xsl:template match="@facs[starts-with(., 'http://selbstzeugnisse.hab.de/edition/images/')]">
