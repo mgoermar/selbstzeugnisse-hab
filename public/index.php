@@ -13,6 +13,6 @@ $app = new Silex\Application();
 @include __DIR__ . '/../config/controllers.php';
 @include __DIR__ . '/../config/routes.php';
 
-$app['debug'] = true;
+$app['debug'] = false;
 
 return $app->run();
