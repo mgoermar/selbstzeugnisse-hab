@@ -37,7 +37,7 @@
     </teiHeader>
     <text>
         <group>
-            <head>Diarium August II.</head>
+            <head>Ephemerides. Sive Diarium (1594-1635)</head>
             <xi:include href="1594.xml" xpointer="element(/1/2)"/>
             <xi:include href="1595.xml" xpointer="element(/1/2)"/>
             <xi:include href="1596.xml" xpointer="element(/1/2)"/>
