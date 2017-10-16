@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>221.3 Extrav., 2r – Lebenslauf Johann Tennhart bis 02.02.1708</title>
+        <title>Lebenslauf Johann Tennhart (Cod. Guelf. 221.3 Extrav., 2r)</title>
         <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
         <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
           und Kultur</funder>
@@ -86,7 +86,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate notAfter="1708-02-02"/>
+                <origDate before="1708-02-02"/>
 
               </origin>
 

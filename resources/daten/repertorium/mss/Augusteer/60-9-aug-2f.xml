@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>60.9 Aug. 2°, 388 – Lebenslauf Philipp Hainhofer</title>
+        <title>Lebenslauf Philipp Hainhofer (Cod. Guelf. 60.9 Aug. 2°, 388)</title>
         <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
         <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
           und Kultur</funder>
@@ -82,7 +82,7 @@
             </physDesc>
 <history>
   <origin>
-    <origDate>17. Jhd.</origDate>
+    <origDate notBefore="1600" notAfter="1700">17. Jhd.</origDate>
   </origin>
 </history>
             <additional>

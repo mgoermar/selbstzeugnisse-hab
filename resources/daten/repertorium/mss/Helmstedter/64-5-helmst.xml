@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>64.5 Helmst., 33r – Geständnis</title>
+        <title>Geständnis Ernst Vögelin (Cod. Guelf. 64.5 Helmst., 33r)</title>
         <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
         <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
           und Kultur</funder>
@@ -80,7 +80,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate from="1574-03-17"/>
+                <origDate after="1574-03-17"/>
 
               </origin>
 

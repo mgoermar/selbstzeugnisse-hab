@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>130.1 Extrav., 1r – Persönliche Notizen</title>
+        <title>Persönliche Notizen Boeckeman (Cod. Guelf. 130.1 Extrav., 1r)</title>
         <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
         <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
           und Kultur</funder>
@@ -39,7 +39,7 @@
             </msIdentifier>
             <msContents>
               <summary>Im vorderen Spiegel und auf 1r befinden sich persönliche Notizen in deutscher
-                Sprache und Ich-Form, die jedoch kaum lesbar sind. <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf Dieter Otte</rs> (Wolf Dieter Otte:
+                Sprache und Ich-Form, die jedoch kaum lesbar sind. <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Wolf-Dieter Otte:
                 Die neueren Handschriften der Gruppe Extravagantes, Teil 2, Frankfurt am Main 1987)
                 liest auf 1r den Besitzeintrag: Item Palme Boeckeman hoert dyth doek tho. Anno lxvj
                 hebbe jck dat gekoefft vor j daler.</summary>
