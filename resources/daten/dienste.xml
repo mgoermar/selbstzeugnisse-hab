@@ -52,11 +52,20 @@
                             target="https://creativecommons.org/publicdomain/zero/1.0/"
                         >CC0</ref>-Lizenz (Public Domain Dedication). Sie können ohne Auflagen für
                         beliebige Zwecke benutzt werden. Die Einträge des statischen Repository
-                        können dem zugehörigen <ref target="http://selbstzeugnisse.hab.de/repertorium/repository.xsd"
-                            >XML Schema</ref> geprüft werden.</p>
+                        können gegen das zugehörige <ref
+                            target="http://selbstzeugnisse.hab.de/repertorium/repository.xsd">XML
+                            Schema</ref> geprüft werden.</p>
                 </div>
                 <div>
                     <head>Edition</head>
+                    <p>Die Edition des Diariums von Herzog August dem Jüngeren ist in TEI-P5 kodiert
+                        und steht zusammen mit der Einleitung, den Kodierungsrichtlinien und dem
+                        Register zum <ref
+                            target="http://selbstzeugnisse.hab.de/edition/diarium/download"
+                            >Download</ref> zur Verfügung. Eine <ref
+                            target="http://selbstzeugnisse.hab.de/beacon.txt">Beacon-Datei</ref>
+                        verlinkt alle in der Edition getaggten Personen mit GND-Eintrag (Stand:
+                        Sommer 2017). </p>
                 </div>
             </div>
         </body>

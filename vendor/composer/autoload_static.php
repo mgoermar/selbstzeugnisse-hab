@@ -35,10 +35,6 @@ class ComposerStaticInitc8703132b487e10223bc213e8736dd8b
             'Psr\\Http\\Message\\' => 17,
             'Psr\\Container\\' => 14,
         ),
-        'N' => 
-        array (
-            'Negotiation\\' => 12,
-        ),
         'H' => 
         array (
             'HAB\\Paginator\\' => 14,
@@ -99,10 +95,6 @@ class ComposerStaticInitc8703132b487e10223bc213e8736dd8b
         'Psr\\Container\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
-        ),
-        'Negotiation\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/willdurand/negotiation/src/Negotiation',
         ),
         'HAB\\Paginator\\' => 
         array (

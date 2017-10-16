@@ -9,8 +9,7 @@
         "hab/solr": "dev-master",
         "hab/paginator": "dev-master",
         "twig/twig": "~1.0",
-        "symfony/twig-bridge": "^3.2",
-        "willdurand/negotiation": "^2.3"
+        "symfony/twig-bridge": "^3.2"
     },
     "repositories": [
         {

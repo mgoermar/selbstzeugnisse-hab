@@ -22,47 +22,70 @@
         <body>
             <div>
                 <head>Diarium von Herzog August dem Jüngeren</head>
-                <p> Die <ref target="http://selbstzeugnisse.hab.de/edition/diarium/front">Edition</ref> präsentiert das Tagebuch mit dem Originaltitel „Ephemerides. Sive Diarium", welches von August dem Jüngeren (1579-1666), Herzog zu Braunschweig und Lüneburg, dem Namensgeber der Herzog August Bibliothek Wolfenbüttel (HAB), verfasst wurde. Es liegt im Handschriftenbestand der HAB als Autograph vor und wurde bisher weder vollständig transkribiert noch ediert. Das in
-                    der Forschungsliteratur oft als Reisetagebuch bezeichnete Diarium wird unter Beibehaltung des diaristischen Charakters und mit Blick auf innovative
-                    Darstellungs- und Editionsformen digital ediert. Durch die Einbindung des digitalen
-                    Faksimiles können je nach Fragestellung visuelle, autographe und typographische Merkmale des Textes untersucht werden. Im
-                    Kommentar werden u. a. die zahlreichen erwähnten <ref target="http://selbstzeugnisse.hab.de/edition/personen">Personen</ref> und <ref target="http://selbstzeugnisse.hab.de/edition/orte">Orte</ref> identifiziert sowie politische und private Ereignisse erläutert.
-                    Fremdsprachige Passagen werden mit Übersetzung präsentiert. Die weiteren editorischen Entscheidungen zur Textbearbeitung und -darstellung werden in den <ref target="http://selbstzeugnisse.hab.de/edition/richtlinien">Editions- und Kodierungsrichtlinien</ref> erklärt.</p>
-                    <div>
-                        <head>Die Quellen</head>
-                        <listBibl>
-                            <head>Das Tagebuch</head>
-                            <bibl>Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666):
-                                Ephemerides. Sive Diarium (1594-1635). Herzog August Bibliothek, Signatur:
-                                Cod. Guelf. 42.19 Aug. 2°, <ref
-                                    target="http://diglib.hab.de/mss/42-19-aug-2f/start.htm "
-                                    >Digitalisat</ref></bibl>
-                        </listBibl>
-                        <listBibl>
-                            <head>Weitere herangezogene Quellen zur inhaltlichen Erschließung des
-                                Tagebuches</head>
-                            <bibl>Drei dem Reisetagebuch beiliegende Briefe, davon zwei eigenhändig von Hz.
-                                August an Bernhard Rülow (Rostock 13.04.1594 und 24.11.1594) und ein
-                                Gegenbrief (22.10.1665), <ref
-                                    target="http://diglib.hab.de/mss/42-19-aug-2f-a/start.htm"
-                                    >Digitalisat</ref>
-                            </bibl>
-                            <bibl> „Des Herzogs August Verschickung auf Akademien und in die Fremde; die
-                                Wahl der Präzeptoren und Hofmeister und sein Aufenthalt zu Rostock und
-                                Tübingen, auch der von seinen älteren Brüdern Julius Ernst und Franz nach
-                                Absterben ihres Vaters unterhandelte brüderliche Vergleich und
-                                Regierungseinrichtung“ Niedersächsisches Landesarchiv - Staatsarchiv Wolfenbüttel: 1 Alt
-                                22, Nr. 113 </bibl>
-                            <bibl> „Des Herzog August eigenhändig geführte Rechnung über die von seinen
-                                Handgeldern bestrittenen Ausgaben. Angefangen zu Dannenberg“
-                                Niedersächsisches Landesarchiv - Staatsarchiv Wolfenbüttel: 1 Alt 22, Nr. 117 </bibl>
-                            <bibl> „Volrad v. Watzdorfs Rechnung über die zu Hzg. August d. J. Reisen und
-                                Aufenthalt zu Tübingen und Straßburg verwandten Gelder“ Niedersächsisches Landesarchiv - Staatsarchiv Wolfenbüttel: 1 Alt 22, Nr. 114</bibl>
-                            <bibl>Kalender aus dem Jahr 1617 mit Notizen von Herzog August d. J. von Braunschweig-Wolfenbüttel, inhaltlich beziehen die Notizen sich auf einen Zeitraum von mindestens 1571-1663. Herzog August Bibliothek, Signatur: <ref target="293-2-extrav.xml">Extravagantes 293.2</ref></bibl>
-                            <bibl>Zum Vergleich und zur Ergänzung der Jahre 1596-1598 kann das umfangreiche Tagebuch von Martin Crusius, der zusammen mit August Student in Tübingen war, herangezogen werden: <ref target="http://opac.lbs-braunschweig.gbv.de/DB=2/SET=1/TTL=1/SHW?FRST=2">Diarium Martini Crusii, hrsg. von Wilhelm Göz und Ernst Conrad, Tübingen 1927-1961.</ref></bibl>
-                        </listBibl>
-                    </div>
-<!--                <div>
+                <p> Die <ref target="http://selbstzeugnisse.hab.de/edition/diarium/front"
+                        >Edition</ref> präsentiert das Tagebuch mit dem Originaltitel „Ephemerides.
+                    Sive Diarium", welches von August dem Jüngeren (1579-1666), Herzog zu
+                    Braunschweig und Lüneburg, dem Namensgeber der Herzog August Bibliothek
+                    Wolfenbüttel (HAB), verfasst wurde. Es liegt im Handschriftenbestand der HAB als
+                    Autograph vor und wurde bisher weder vollständig transkribiert noch ediert. Das
+                    in der Forschungsliteratur oft als Reisetagebuch bezeichnete Diarium wird unter
+                    Beibehaltung des diaristischen Charakters und mit Blick auf innovative
+                    Darstellungs- und Editionsformen digital ediert. Durch die Einbindung des
+                    digitalen Faksimiles können je nach Fragestellung visuelle, autographe und
+                    typographische Merkmale des Textes untersucht werden. Im Kommentar werden u. a.
+                    die zahlreichen erwähnten <ref
+                        target="http://selbstzeugnisse.hab.de/edition/personen">Personen</ref> und
+                        <ref target="http://selbstzeugnisse.hab.de/edition/orte">Orte</ref>
+                    identifiziert sowie politische und private Ereignisse erläutert. Fremdsprachige
+                    Passagen werden mit Übersetzung präsentiert. Die weiteren editorischen
+                    Entscheidungen zur Textbearbeitung und -darstellung werden in den <ref
+                        target="http://selbstzeugnisse.hab.de/edition/richtlinien">Editions- und
+                        Kodierungsrichtlinien</ref> erklärt.</p>
+                <div>
+                    <head>Die Quellen</head>
+                    <listBibl>
+                        <head>Das Tagebuch</head>
+                        <bibl>Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666):
+                            Ephemerides. Sive Diarium (1594-1635). Herzog August Bibliothek,
+                            Signatur: Cod. Guelf. 42.19 Aug. 2°, <ref
+                                target="http://diglib.hab.de/mss/42-19-aug-2f/start.htm "
+                                >Digitalisat</ref></bibl>
+                    </listBibl>
+                    <listBibl>
+                        <head>Weitere herangezogene Quellen zur inhaltlichen Erschließung des
+                            Tagebuches</head>
+                        <bibl>Drei dem Reisetagebuch beiliegende Briefe, davon zwei eigenhändig von
+                            Hz. August an Bernhard Rülow (Rostock 13.04.1594 und 24.11.1594) und ein
+                            Gegenbrief (22.10.1665), <ref
+                                target="http://diglib.hab.de/mss/42-19-aug-2f-a/start.htm"
+                                >Digitalisat</ref>
+                        </bibl>
+                        <bibl> „Des Herzogs August Verschickung auf Akademien und in die Fremde; die
+                            Wahl der Präzeptoren und Hofmeister und sein Aufenthalt zu Rostock und
+                            Tübingen, auch der von seinen älteren Brüdern Julius Ernst und Franz
+                            nach Absterben ihres Vaters unterhandelte brüderliche Vergleich und
+                            Regierungseinrichtung“ Niedersächsisches Landesarchiv - Staatsarchiv
+                            Wolfenbüttel: 1 Alt 22, Nr. 113 </bibl>
+                        <bibl> „Des Herzog August eigenhändig geführte Rechnung über die von seinen
+                            Handgeldern bestrittenen Ausgaben. Angefangen zu Dannenberg“
+                            Niedersächsisches Landesarchiv - Staatsarchiv Wolfenbüttel: 1 Alt 22,
+                            Nr. 117 </bibl>
+                        <bibl> „Volrad v. Watzdorfs Rechnung über die zu Hzg. August d. J. Reisen
+                            und Aufenthalt zu Tübingen und Straßburg verwandten Gelder“
+                            Niedersächsisches Landesarchiv - Staatsarchiv Wolfenbüttel: 1 Alt 22,
+                            Nr. 114</bibl>
+                        <bibl>Kalender aus dem Jahr 1617 mit Notizen von Herzog August d. J. von
+                            Braunschweig-Wolfenbüttel, inhaltlich beziehen die Notizen sich auf
+                            einen Zeitraum von mindestens 1571-1663. Herzog August Bibliothek,
+                            Signatur: <ref target="http://diglib.hab.de?db=mss&amp;id=293-2-extrav&amp;list=ms">Cod. Guelf. 293.2 Extrav.</ref></bibl>
+                        <bibl>Zum Vergleich und zur Ergänzung der Jahre 1596-1598 kann das
+                            umfangreiche Tagebuch von Martin Crusius, der zusammen mit August
+                            Student in Tübingen war, herangezogen werden: <ref type="opac" cRef="138009732">
+                                Diarium Martini Crusii, hrsg. von Wilhelm Göz und Ernst Conrad,
+                                Tübingen 1927-1961.</ref></bibl>
+                    </listBibl>
+                </div>
+                <!--                <div>
                     <head>Zitierempfehlung</head>
                     <bibl >Inga Hanna Ralle (Hg.): Digitale Edition des Diariums von Herzog August dem Jüngeren. Hrsg. von der Herzog August Bibliothek. Digitale
                         Edition. Wolfenbüttel 2017. (=Wolfenbütteler Digitale Editionen ; 1)</bibl>

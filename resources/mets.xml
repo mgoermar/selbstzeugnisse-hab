@@ -347,7 +347,7 @@
       <div ID="bibliographie" LABEL="Bibliographie">
         <fptr FILEID="bibliographie.xml"/>
       </div>
-      <div ID="dienste" LABEL="Datendienste" TYPE="hidden">
+      <div ID="dienste" LABEL="Datendienste">
         <fptr FILEID="dienste.xml"/>
       </div>
       <div ID="extern" LABEL="Themenspezifische Websites und Fachportale">
