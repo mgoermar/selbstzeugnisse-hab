@@ -36,7 +36,7 @@
             <xsl:copy-of select="fun:field('language', 1.0, fun:language(//tei:textLang/@mainLang))"/>
 
             <xsl:copy-of select="fun:field('origdate_pivot', 1.0, fun:century((//tei:origDate/@when, //tei:origDate/@from, //tei:origDate/@notBefore, //tei:origDate/@after, //tei:origDate/@notAfter, //tei:origDate/@before)[1]))"/>
-            <xsl:copy-of select="fun:field('coverage_pivot', 1.0, fun:century((//tei:date[@type = 'coverage']/@when, //tei:date[@type = 'coverage']/@from)[1]))"/>
+            <xsl:copy-of select="fun:field('coverage_pivot', 1.0, fun:century((//tei:date[@type = 'coverage']/@when, //tei:date[@type = 'coverage']/@from, //tei:date[@type = 'coverage']/@notBefore, //tei:date[@type = 'coverage']/@after, //tei:date[@type = 'coverage']/@notAfter, //tei:date[@type = 'coverage']/@before)[1]))"/>
 
             <xsl:copy-of select="fun:field('collection_pivot', 1.0, //tei:collection)"/>
 
