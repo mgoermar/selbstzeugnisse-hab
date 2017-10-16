@@ -52,14 +52,18 @@
                 <p>Gelbes Leder mit geprägten Ornamenten</p>
               </bindingDesc>
               <accMat>
-                <p>Vgl. <ref target="27-7-aug-2f.xml">27.7 Aug. 2</ref></p>
+                <p>Vgl. <rs type="shelfmark">Cod. Guelf. 27.7 Aug. 2°</rs></p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>16. Jhd.</origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>
-                <bibl>Vgl. <ref target="27-7-aug-2f.xml">27.7 Aug 2°</ref></bibl>
-                <bibl>Vgl. Sigmund Feyerabend: Reyssbuch des heyligen Lands, Frankfurt 1584.</bibl>
+                <bibl>Vgl. <rs type="shelfmark">Cod. Guelf. 27.7 Aug 2°</rs></bibl>
+                <bibl>Vgl. <ref type="gbv" cRef="135189438">Sigmund Feyerabend: Reyssbuch des heyligen Lands, Frankfurt 1584.</ref></bibl>
               </listBibl>
             </additional>
           </msPart>

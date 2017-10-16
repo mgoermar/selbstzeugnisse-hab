@@ -1,25 +1,62 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.30-3-extrav-1.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.30-3-extrav-1.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>30.3 Extrav., 24r – Lebenslauf Johann Heinrich Alexandri</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>30.3 Extrav., 24r – Lebenslauf Johann Heinrich Alexandri</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>30.3 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>30.3 Extrav., 24r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>30.3 Extrav., 24r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich Alexandri</rs>. 
-                Der Lebenslauf beginnt mit dem Geburtstag am 01.05.1675 und enthält die Beschreibung des Studiums in <rs type="place" ref="../../register.xml#Leipzig">Leipzig</rs> und der Anstellung als Sekretär am 
-                Brandenburgischen Hof in <rs type="place" ref="../../register.xml#Berlin">Berlin</rs>.</summary>
+              <summary>Lebenslauf von <rs type="person"
+                  ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich Alexandri</rs>.
+                Der Lebenslauf beginnt mit dem Geburtstag am 01.05.1675 und enthält die Beschreibung
+                des Studiums in <rs type="place" ref="../../register.xml#Leipzig">Leipzig</rs> und
+                der Anstellung als Sekretär am Brandenburgischen Hof in <rs type="place"
+                  ref="../../register.xml#Berlin">Berlin</rs>.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="24r" to="36r"/>
-                <author ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich Alexandri</author>
-                <title type="uniform">Lebenslauf <rs type="person" ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich Alexandri</rs></title>
+                <author ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich
+                  Alexandri</author>
+                <title type="uniform">Lebenslauf <rs type="person"
+                    ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich
+                    Alexandri</rs></title>
                 <date type="coverage" from="1675-05-01"/>
-                
-                
+
+
               </msItem>
             </msContents>
             <physDesc>
@@ -41,32 +78,37 @@
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Seite ist in zwei gleich große Spalten geteilt, wobei jeweils die rechte Spalte beschrieben und die linke Spalte leer ist</p>
+                    <p>Seite ist in zwei gleich große Spalten geteilt, wobei jeweils die rechte
+                      Spalte beschrieben und die linke Spalte leer ist</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
-              
+
+
               <bindingDesc>
                 <p>Pappe, Buchecken und Buchrücken sind mit braunem Leder bezogen.</p>
               </bindingDesc>
               <accMat>
-                <p>Von fremder Hand ergänzter Titel auf 24r: Herr <rs type="person" ref="../../register.xml#Johann_Heinrich_Alexandri">Geheimte Rath Alexandri</rs> Lebenslauf</p>
+                <p>Von fremder Hand ergänzter Titel auf 24r: Herr <rs type="person"
+                    ref="../../register.xml#Johann_Heinrich_Alexandri">Geheimte Rath Alexandri</rs>
+                  Lebenslauf</p>
               </accMat>
             </physDesc>
             <history>
-              
+
               <provenance>
-                <p>Auf dem Vorsatzblatt ist vermerkt: Ex Donatione <rs type="person" ref="../../register.xml#Jacob_Burckhardt">Jacobo Burckhardi</rs></p>
+                <p>Auf dem Vorsatzblatt ist vermerkt: Ex Donatione <rs type="person"
+                    ref="../../register.xml#Jacob_Burckhardt">Jacobo Burckhardi</rs></p>
               </provenance>
-              
+
             </history>
-            
+
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

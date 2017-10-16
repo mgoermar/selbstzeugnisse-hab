@@ -1,40 +1,81 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.17-5-extrav.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.17-5-extrav.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>17.5 Extrav., 1 – Reisetagebuch John Castle</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>17.5 Extrav., 1 – Reisetagebuch John Castle</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>17.5 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>17.5 Extrav., 1</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>17.5 Extrav., 1</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Tagebuch von <rs type="person" ref="../../register.xml#John_Castle">John Castle</rs>, in Ich-Form verfasst. Es berichtet über eine orenburgische
-                Expedition zu den Kirgisen in den Jahren 1736-1737. Ob diese Kopie des originalen Reisetagebuches durch <rs type="person" ref="../../register.xml#John_Castle">John Castle</rs> oder einen unbekannten Schreiber erfolgte, kann nicht sicher entschieden werden. <rs type="person" ref="../../register.xml#John_Castle">John Castle</rs> war ein englischer
-                Maler. Dem Haupttext geht eine Widmungsschrift des Jahres 1741 (aus <rs type="place" ref="../../register.xml#Saint_Petersburg">St. Petersburg</rs>) an <rs type="person" ref="../../register.xml#Iwan_VI">Iwan VI.</rs> voran, in dem
-                der Verfasser sich einerseits über die nicht erfolgte Vergütung seiner sehr gefährlichen
-                Reise beschwert und andererseits mehrfach betont, dass das Tagebuch eine
-                "unverfälschte Beschreibung" und "naturellement" sei. Außerdem beschreibt der Verfasser,
-                dass dieses Exemplar eine Kopie des Originales sei, welches in der Kanzlei zu
-                <rs type="place" ref="../../register.xml#Orenburg">Orenburg</rs> aufbewahrt würde, heute vermutlich im Staatsarchiv <rs type="place" ref="../../register.xml#Wolfenbuettel">Wolfenbüttel</rs> unter der
-                Signatur 1 Alt 6 Nr. 213. Die Tuschzeichnungen seien daher frei von Hand gemalt,
-                ohne besondere Pinsel. Der Verfasser beschreibt weiter, dass er die Kopie sehr genau
-                abgefasst habe und inhaltlich noch drei Aspekte hinzugefügt hat. Diese drei
-                "Abteilungen" beschreiben das Land (80r-87v), die Einwohner (88r-102v) und die
-                Regierung (103r-106v). Das Tagebuch enthält ein sehr ausführliches Register
-                ("Register Derer vornehmsten Materien dieses Buches", 107-121), in dem Stichpunkte
-                nach dem folgenden Schema erläutert werden z.B.: "Wissenschaften, haben die Kirgisen
-                gar keine. pag: 163 und sind darinnen ebenso tumm, wie ihr Vieh. pag: 164" und
-                "Gehör, haben die Kirgisen weit besser als wir Europaer. pag: 145.".</summary>
+              <summary>Tagebuch von <rs type="person" ref="../../register.xml#John_Castle">John
+                  Castle</rs>, in Ich-Form verfasst. Es berichtet über eine orenburgische Expedition
+                zu den Kirgisen in den Jahren 1736-1737. Ob diese Kopie des originalen
+                Reisetagebuches durch <rs type="person" ref="../../register.xml#John_Castle">John
+                  Castle</rs> oder einen unbekannten Schreiber erfolgte, kann nicht sicher
+                entschieden werden. <rs type="person" ref="../../register.xml#John_Castle">John
+                  Castle</rs> war ein englischer Maler. Dem Haupttext geht eine Widmungsschrift des
+                Jahres 1741 (aus <rs type="place" ref="../../register.xml#Saint_Petersburg">St.
+                  Petersburg</rs>) an <rs type="person" ref="../../register.xml#Iwan_VI">Iwan
+                  VI.</rs> voran, in dem der Verfasser sich einerseits über die nicht erfolgte
+                Vergütung seiner sehr gefährlichen Reise beschwert und andererseits mehrfach betont,
+                dass das Tagebuch eine "unverfälschte Beschreibung" und "naturellement" sei.
+                Außerdem beschreibt der Verfasser, dass dieses Exemplar eine Kopie des Originales
+                sei, welches in der Kanzlei zu <rs type="place" ref="../../register.xml#Orenburg"
+                  >Orenburg</rs> aufbewahrt würde, heute vermutlich im Staatsarchiv <rs type="place"
+                  ref="../../register.xml#Wolfenbuettel">Wolfenbüttel</rs> unter der Signatur 1 Alt
+                6 Nr. 213. Die Tuschzeichnungen seien daher frei von Hand gemalt, ohne besondere
+                Pinsel. Der Verfasser beschreibt weiter, dass er die Kopie sehr genau abgefasst habe
+                und inhaltlich noch drei Aspekte hinzugefügt hat. Diese drei "Abteilungen"
+                beschreiben das Land (80r-87v), die Einwohner (88r-102v) und die Regierung
+                (103r-106v). Das Tagebuch enthält ein sehr ausführliches Register ("Register Derer
+                vornehmsten Materien dieses Buches", 107-121), in dem Stichpunkte nach dem folgenden
+                Schema erläutert werden z.B.: "Wissenschaften, haben die Kirgisen gar keine. pag:
+                163 und sind darinnen ebenso tumm, wie ihr Vieh. pag: 164" und "Gehör, haben die
+                Kirgisen weit besser als wir Europaer. pag: 145.".</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1" to="123"/>
                 <author ref="../../register.xml#John_Castle">John Castle</author>
                 <title type="uniform">Reisetagebuch John Castle</title>
                 <date type="coverage" from="1736-06" to="1737-08-13"/>
-                <rubric>Journal von der Anno 1736 aus <rs type="place" ref="../../register.xml#Orenburg">Orenburg</rs> zu dem <rs type="person" ref="../../register.xml#Ablai_Khan">Abul Geier Chan</rs> Der
+                <rubric>Journal von der Anno 1736 aus <rs type="place"
+                    ref="../../register.xml#Orenburg">Orenburg</rs> zu dem <rs type="person"
+                    ref="../../register.xml#Ablai_Khan">Abul Geier Chan</rs> Der
                   Kirgis=Caysak=Tartarischen Horda [...] vollbrachten = Reisse</rubric>
-                
+
               </msItem>
             </msContents>
             <physDesc>
@@ -56,58 +97,70 @@
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Jede Seite ist ganzseitig beschrieben. Es sind Reste von vorgezeichneten Rastern und
-                      Linien zu erkennen. Die Jahre werden durch Überschriften im Text, die Monate und Tage als Marginalien verzeichnet.</p>
+                    <p>Jede Seite ist ganzseitig beschrieben. Es sind Reste von vorgezeichneten
+                      Rastern und Linien zu erkennen. Die Jahre werden durch Überschriften im Text,
+                      die Monate und Tage als Marginalien verzeichnet.</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
+
               <decoDesc>
-                <decoNote>Der Text enthält 13 Tuschzeichnungen mit den folgenden Überschriften:
-                  1. pag. 4: Portrait des in <rs type="place" ref="../../register.xml#Orenburg">Orenburg</rs> gewesenen <rs type="person">Eraly Sultans</rs>, 2. pag. 14: Die nächtliche Zauberey wegen des
-                  Autoris seiner Ankuft, 3. pag. 21: Des Autoris gehabte allererste Audience und
-                  Tractament, bey dem <rs type="person" ref="../../register.xml#Ablai_Khan">Abul Geier Chan</rs>, 4. pag. 28: Des
+                <decoNote>Der Text enthält 13 Tuschzeichnungen mit den folgenden Überschriften: 1.
+                  pag. 4: Portrait des in <rs type="place" ref="../../register.xml#Orenburg"
+                    >Orenburg</rs> gewesenen <rs type="person">Eraly Sultans</rs>, 2. pag. 14: Die
+                  nächtliche Zauberey wegen des Autoris seiner Ankuft, 3. pag. 21: Des Autoris
+                  gehabte allererste Audience und Tractament, bey dem <rs type="person"
+                    ref="../../register.xml#Ablai_Khan">Abul Geier Chan</rs>, 4. pag. 28: Des
                   Autoris Audience bey der Sultanin und wie er die Praesente übergeben, 5. pag. 60:
                   Zauberey, sich des Rechten Weges zu erkündigen, 6. pag. 62: Die Überfarth des
-                  Autor: über eine See, 7. pag. 90: Die Stadt <rs type="place" ref="../../register.xml#Orenburg">Orenburg</rs>, 8.
-                  pag. 111: Die Stad <rs type="place" ref="../../register.xml#Samara">Samara</rs> an der Wolga, 9. pag. 134: Die
-                  Bezoar Ziege, 10. pag. 149: Kirgisische Complimenten, 11. pag. 151: Eine Gemahlin
-                  des Chans in ihrer Tracht, 12. pag. 153: Der Zug einer Kirgi: Caysack=Tartar:
-                  Familie, 13. pag. 168: <rs type="person" ref="../../register.xml#Ablai_Khan">Abul Geier</rs>. Chan der
+                  Autor: über eine See, 7. pag. 90: Die Stadt <rs type="place"
+                    ref="../../register.xml#Orenburg">Orenburg</rs>, 8. pag. 111: Die Stad <rs
+                    type="place" ref="../../register.xml#Samara">Samara</rs> an der Wolga, 9. pag.
+                  134: Die Bezoar Ziege, 10. pag. 149: Kirgisische Complimenten, 11. pag. 151: Eine
+                  Gemahlin des Chans in ihrer Tracht, 12. pag. 153: Der Zug einer Kirgi:
+                  Caysack=Tartar: Familie, 13. pag. 168: <rs type="person"
+                    ref="../../register.xml#Ablai_Khan">Abul Geier</rs>. Chan der
                   Kirgis=Kaysak=Tartarische Horda</decoNote>
               </decoDesc>
               <bindingDesc>
                 <p>Pappeinband mit zusammengenähten Lederstücken überzogen.</p>
               </bindingDesc>
               <accMat>
-                <p>Vergleiche: Herzog August Bibliothek M: Gu 112:2 und Staatsarchiv
-                  Wolfenbüttel 1 Alt 6 Nr. 213 (Original). 
-                  Der Verfasser erläutert im Widmungsschreiben, dass er in die Kopie (Extravagantes 17.5) für <rs type="person" ref="../../register.xml#Iwan_VI">Iwan VI.</rs> zusätzlich fünf Portraits eingebunden hat, die im Original nicht vorhanden sind.
-                  Diese zeigen: 1. <rs type="person" ref="../../register.xml#Ablai_Khan">Abul Geier</rs>, 2. Abul Geiers Sohn <rs type="person">Eraly Sultan</rs>, 3. den Heerführer
-                  <rs type="person">Aldaz/ Aidaz</rs>, 4. <rs type="person">Aldaz/ Aidaz Tochter</rs> und 5. einen tartarischen Hursa
-                  (Edelmann)</p>
+                <p>Vergleiche: Herzog August Bibliothek M: Gu 112:2 und Staatsarchiv Wolfenbüttel 1
+                  Alt 6 Nr. 213 (Original). Der Verfasser erläutert im Widmungsschreiben, dass er in
+                  die Kopie (<rs type="shelfmark">17.5 Extrav.</rs>) für <rs type="person"
+                    ref="../../register.xml#Iwan_VI">Iwan VI.</rs> zusätzlich fünf Portraits
+                  eingebunden hat, die im Original nicht vorhanden sind. Diese zeigen: 1. <rs
+                    type="person" ref="../../register.xml#Ablai_Khan">Abul Geier</rs>, 2. Abul
+                  Geiers Sohn <rs type="person">Eraly Sultan</rs>, 3. den Heerführer <rs
+                    type="person">Aldaz/ Aidaz</rs>, 4. <rs type="person">Aldaz/ Aidaz Tochter</rs>
+                  und 5. einen tartarischen Hursa (Edelmann)</p>
               </accMat>
             </physDesc>
             <history>
               <origin>
                 <origDate from="1737" to="1741"/>
-                
+
               </origin>
               <provenance>
-                <p><rs type="person" ref="../../register.xml#John_Castle">John Castle</rs> widmete das Tagebuch <rs type="person" ref="../../register.xml#Iwan_VI">Iwan VI.</rs> und überreichte diese Kopie sowie das Original am Kaiserhof.</p>
+                <p><rs type="person" ref="../../register.xml#John_Castle">John Castle</rs> widmete
+                  das Tagebuch <rs type="person" ref="../../register.xml#Iwan_VI">Iwan VI.</rs> und
+                  überreichte diese Kopie sowie das Original am Kaiserhof.</p>
               </provenance>
-              
+
             </history>
             <additional>
               <listBibl>
-                <bibl>Schmidt-Phiseldek: Materialien zu der Russischen Geschichte seit dem Tode Kaisers Peter des Großen. 2. Teil. 1784.<ref type="opac" cRef="0155863614"/></bibl>
+                <bibl><ref type="opac" cRef="0155863614">Schmidt-Phiseldek: Materialien zu der Russischen Geschichte seit dem Tode
+                  Kaisers Peter des Großen. 2. Teil. 1784</ref>.</bibl>
               </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

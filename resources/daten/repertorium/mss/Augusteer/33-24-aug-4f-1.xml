@@ -49,11 +49,15 @@
               </bindingDesc>
               
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>16. Jhd.</origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>                
-                <bibl>Varthema, Lodovico de: The travels of Ludovico di Varthema in Egypt, Syria, Arabia deserta and Arabia felix, in Persia, India, and Ethiopia, A.D. 1503 to 1508: [translated from the Original Italian edition of 1510], ed. by John Winter Jones and George Percy Badger, Farnham 2010 = 1863.</bibl>
-                <bibl>Varthema, Lodovico, de: Reisen im Orient, Eingel., übers. und erl. von Folker Reichert, Sigmaringen 1996.</bibl>
+                <bibl><ref type="opac" cRef="785219412">Varthema, Lodovico, de: The travels of Ludovico di Varthema in Egypt, Syria, Arabia deserta and Arabia felix, in Persia, India, and Ethiopia, A.D. 1503 to 1508: [translated from the Original Italian edition of 1510], ed. by John Winter Jones and George Percy Badger, Farnham 2010 = 1863.</ref></bibl>
+                <bibl><ref type="opac" cRef="197982697">Varthema, Lodovico, de: Reisen im Orient, Eingel., übers. und erl. von Folker Reichert, Sigmaringen 1996.</ref></bibl>
               </listBibl>
             </additional>
           </msPart>

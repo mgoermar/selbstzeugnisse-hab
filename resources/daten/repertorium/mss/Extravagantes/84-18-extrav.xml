@@ -14,7 +14,7 @@
               <textLang mainLang="lat"/>
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="79r" to="80v"/>
-                <author ref="../../register.xml#Leonhard_Krentzheim">Leonhard Krentzheim</author>
+                <author ref="../../register.xml#Leonhard_Krentzheim">Leonhard Krenzheim</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>Leonhard Baudis d. Ä.</name>

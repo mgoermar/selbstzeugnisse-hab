@@ -1,22 +1,63 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.41-extrav.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.41-extrav.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>41 Extrav., 1r – Reisebericht Hans Georg Peyerle Moskau</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>41 Extrav., 1r – Reisebericht Hans Georg Peyerle Moskau</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>41 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>41 Extrav., 1r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>41 Extrav., 1r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Bericht der Reise <rs type="person" ref="../../register.xml#Hans_Georg_Peyerle">Hans Georg Peyerles</rs>, 
-                in Wir-Form verfasst, liegt hier vermutlich als Abschrift vor. Die Reise führte von <rs type="place" ref="../../register.xml#Krakau">Krakau</rs> nach <rs type="place" ref="../../register.xml#Moskau">Moskau</rs> und zurück 
-                und zwar im Zeitraum 19. März 1606-15. Dezember 1608. Zusammen mit <rs type="person" ref="../../register.xml#Hans_Georg_Peyerle">Peyerle</rs> reisten 
-                <rs type="person">Andreasen Nathan</rs>, <rs type="person">Matheo Bernhardt</rs>, <rs type="person">Manlichen der Jüngere</rs>, <rs type="person">Sebastian Löffel</rs> (Übersetzer) und <rs type="person">Jacob de Wien</rs> (Diener). Peyerle beschreibt die Vorgänge zur 
-                Beanspruchung des russischen Throns durch <rs type="person" ref="../../register.xml#Pseudodimitri_I.">Pseudodimitri I.</rs> und polnischer Truppen 
-                in <rs type="place" ref="../../register.xml#Moskau">Moskau</rs>, während er dort gefangen gehalten wurde. Auf 157r "Volget erstlich eine
-                kurze Relation, wie vnd warumb der <rs type="person" ref="../../register.xml#Pseudodimitri_I.">Demetrius Juanovitz</rs>, daß ist des <rs type="person" ref="../../register.xml#Iwan_IV.">Juans</rs> Sohn, auß 
-                dem Landt <rs type="place" ref="../../register.xml#Moskau">Moßcaw</rs> gewichen, vnd wie er widerumb auf den Stuel seiner vorfahren komen, 
+              <summary>Bericht der Reise <rs type="person"
+                  ref="../../register.xml#Hans_Georg_Peyerle">Hans Georg Peyerles</rs>, in Wir-Form
+                verfasst, liegt hier vermutlich als Abschrift vor. Die Reise führte von <rs
+                  type="place" ref="../../register.xml#Krakau">Krakau</rs> nach <rs type="place"
+                  ref="../../register.xml#Moskau">Moskau</rs> und zurück und zwar im Zeitraum 19.
+                März 1606-15. Dezember 1608. Zusammen mit <rs type="person"
+                  ref="../../register.xml#Hans_Georg_Peyerle">Peyerle</rs> reisten <rs type="person"
+                  >Andreasen Nathan</rs>, <rs type="person">Matheo Bernhardt</rs>, <rs type="person"
+                  >Manlichen der Jüngere</rs>, <rs type="person">Sebastian Löffel</rs> (Übersetzer)
+                und <rs type="person">Jacob de Wien</rs> (Diener). Peyerle beschreibt die Vorgänge
+                zur Beanspruchung des russischen Throns durch <rs type="person"
+                  ref="../../register.xml#Pseudodimitri_I.">Pseudodimitri I.</rs> und polnischer
+                Truppen in <rs type="place" ref="../../register.xml#Moskau">Moskau</rs>, während er
+                dort gefangen gehalten wurde. Auf 157r "Volget erstlich eine kurze Relation, wie vnd
+                warumb der <rs type="person" ref="../../register.xml#Pseudodimitri_I.">Demetrius
+                  Juanovitz</rs>, daß ist des <rs type="person" ref="../../register.xml#Iwan_IV."
+                  >Juans</rs> Sohn, auß dem Landt <rs type="place" ref="../../register.xml#Moskau"
+                  >Moßcaw</rs> gewichen, vnd wie er widerumb auf den Stuel seiner vorfahren komen,
                 vnd sein vätterlich Reich erlangt, vnnd besessen habe."</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
@@ -26,14 +67,18 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisebericht Hans Georg Peyerle Moskau</title>
+                <title type="uniform">Reisebericht Hans Georg Peyerle</title>
                 <date type="coverage" from="1606-03-19" to="1608-12-15"/>
-                <rubric>Beschreibung der woscouitterischen Rayse, welche Ich <rs type="person" ref="../../register.xml#Hans_Georg_Peyerle">Hanns Georg Peyerle</rs> von <rs type="person" ref="../../register.xml#Augsburg">Augspurg</rs>. 
-                  mit herrn <rs type="person">Andreasen Nathan</rs>, vnd <rs type="person">Matheo Bernhardt</rs> <rs type="person">Manlichen dem Jüngern</rs>, 
-                  Ady 19. Marty Ao 1606. von <rs type="place" ref="../../register.xml#Krakau">Crachaw</rs> aus, angefangen, vnd was Wir wahrhafftiges 
-                  gehört, gesehen Vnd erfahren, alles aufs khürzest beschrieben bis zue vnserer 
-                  Gott lob wider dahin ankunft den 15. Decembris Anno. 1608</rubric>
-                
+                <rubric>Beschreibung der woscouitterischen Rayse, welche Ich <rs type="person"
+                    ref="../../register.xml#Hans_Georg_Peyerle">Hanns Georg Peyerle</rs> von <rs
+                    type="person" ref="../../register.xml#Augsburg">Augspurg</rs>. mit herrn <rs
+                    type="person">Andreasen Nathan</rs>, vnd <rs type="person">Matheo Bernhardt</rs>
+                  <rs type="person">Manlichen dem Jüngern</rs>, Ady 19. Marty Ao 1606. von <rs
+                    type="place" ref="../../register.xml#Krakau">Crachaw</rs> aus, angefangen, vnd
+                  was Wir wahrhafftiges gehört, gesehen Vnd erfahren, alles aufs khürzest
+                  beschrieben bis zue vnserer Gott lob wider dahin ankunft den 15. Decembris Anno.
+                  1608</rubric>
+
               </msItem>
             </msContents>
             <physDesc>
@@ -50,36 +95,53 @@
                     </dimensions>
                   </extent>
                   <foliation>
-                    <p>Zahl oben rechts, original auf jeder Seite 1-108, Bleistiftfoliierung modern 150-266.</p>
+                    <p>Zahl oben rechts, original auf jeder Seite 1-108, Bleistiftfoliierung modern
+                      150-266.</p>
                   </foliation>
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Stege enthalten Marginalien, welche als Überschriften fungieren und den Text in Abschnitte gliedern. Auf 244v "Anno. 1607." und auf 265v "A. 1608."</p>
+                    <p>Stege enthalten Marginalien, welche als Überschriften fungieren und den Text
+                      in Abschnitte gliedern. Auf 244v "Anno. 1607." und auf 265v "A. 1608."</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
+
               <bindingDesc>
                 <p>Braunes Leder</p>
               </bindingDesc>
-              
+
             </physDesc>
-            
+<history>
+  <origin>
+    <origDate>17. Jhd.</origDate>
+  </origin>
+</history>
             <additional>
               <listBibl>
-                <bibl>Vgl. 32.5 Aug. 2°</bibl>
-                <bibl>Journey to Moscow = Beschreibung der moßcouitterischen Rayß, Welche ich Hanns Georg Peyerle von Augspurg mit herrn Andreasen Nathan und Matheo Bernhardt Manlichen dem Jüngern, Ady 19 Marty Ao 1606 von Crachaw aus, angefangen, und was wir wahrhafftiges gehört, gesehen, und erfahren, alles aufs khürzest beschriben, bis zue unserer Gott lob wider dahin ankunft den 15 Decembris Anno 1608, Hans Georg Peyerle, ed., transl. and annot. by G. Edward Orchard, Hamburg 1997<ref type="opac" cRef="233677968"/>.</bibl>
-                <bibl>Dorpater Jahrbücher für Litteratur, Statistik und Kunst, besonders Rußlands, Bd. 2, Leipzig 1834, S. 311<ref type="opac" cRef="130198013"/>.</bibl>
-                <bibl> Adelung, Friedrich von: Kritisch-literärische Übersicht der Reisenden in Russland bis 1700, deren Berichte bekannt sind, Band II, St. Petersburg u. a. 1846, S. 184-198<ref type="opac" cRef="150294344"/>.</bibl>
-                <bibl>Mylʹnikov, Aleksandr S.: Handschriftliche Slavica der Herzog August Bibliothek, in: Wolfenbütteler Beiträge: aus den Schätzen der Herzog-August-Bibliothek, Bd. 7., Wiesbaden, 1987, S. 79-114<ref type="opac" cRef="600000583"/>.</bibl>
+                <bibl>Vgl. <rs type="shelfmark">Cod. Guelf. 32.5 Aug. 2°</rs></bibl>
+                <bibl><ref type="opac" cRef="233677968">Journey to Moscow = Beschreibung der moßcouitterischen Rayß, Welche ich Hanns
+                  Georg Peyerle von Augspurg mit herrn Andreasen Nathan und Matheo Bernhardt
+                  Manlichen dem Jüngern, Ady 19 Marty Ao 1606 von Crachaw aus, angefangen, und was
+                  wir wahrhafftiges gehört, gesehen, und erfahren, alles aufs khürzest beschriben,
+                  bis zue unserer Gott lob wider dahin ankunft den 15 Decembris Anno 1608, Hans
+                  Georg Peyerle, ed., transl. and annot. by G. Edward Orchard, Hamburg 1997</ref>.</bibl>
+                <bibl><ref type="opac" cRef="130198013">Dorpater Jahrbücher für Litteratur, Statistik und Kunst, besonders Rußlands,
+                  Bd. 2, Leipzig 1834</ref>, S. 311.</bibl>
+                <bibl><ref type="opac" cRef="150294344">Adelung, Friedrich von: Kritisch-literärische Übersicht der Reisenden in
+                  Russland bis 1700, deren Berichte bekannt sind, Band II, St. Petersburg u. a.
+                  1846</ref>, S. 184-198.</bibl>
+                <bibl><ref type="opac" cRef="600000583">Mylʹnikov, Aleksandr S.: Handschriftliche Slavica der Herzog August
+                  Bibliothek, in: Wolfenbütteler Beiträge: aus den Schätzen der
+                  Herzog-August-Bibliothek, Bd. 7., Wiesbaden, 1987</ref>, S. 79-114.</bibl>
               </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

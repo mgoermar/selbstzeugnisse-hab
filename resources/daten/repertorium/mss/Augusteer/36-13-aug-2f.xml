@@ -14,8 +14,8 @@
               <msItem class="../../register.xml#Testament">
                 <locus from="141r" to="156v"/>
                 <author>Erik Larsson Sparre</author>
-                <title type="uniform">Testament Erik Larsson Sparre</title>
-                <date type="coverage"/>
+                <title type="uniform">Testament Erik Larsson Sparre (Juli 1599)</title>
+                <date type="coverage">16. Jhd.</date>
                 <rubric>Klage vnd letzter Will.</rubric>
                 
               </msItem>
@@ -48,7 +48,7 @@
                 <p>Pergament</p>
               </bindingDesc>
               <accMat>
-                <p>Siehe auch 38.16 Aug. 2°, 148r-157r</p>
+                <p>Siehe auch <rs type="shelfmark">Cod. Guelf. 38.16 Aug. 2°</rs>, 148r-157r</p>
               </accMat>
             </physDesc>
             <history>

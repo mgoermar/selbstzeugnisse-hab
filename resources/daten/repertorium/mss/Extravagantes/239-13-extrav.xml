@@ -51,7 +51,11 @@
                 <p>In 296.1 Extravagantes befinden sich weitere Reisekostenabrechnungen und Notizen Hertels aus den Jahren 1704, 1705 und 1713</p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>Ende 17. Jhd.</origDate>
+              </origin>
+            </history>
             
           </msPart>
         </msDesc>

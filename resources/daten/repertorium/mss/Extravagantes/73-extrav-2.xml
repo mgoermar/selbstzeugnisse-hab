@@ -18,7 +18,7 @@
               <msItem class="../../register.xml#Familienchronik">
                 <locus from="37r" to="60v"/>
                 <author ref="../../register.xml#Hieronymus_Pathe_J">Hieronymus Pathe d. J.</author>
-                <title type="uniform">Familienchronik von <rs type="person" ref="../../register.xml#Hieronymus_Pathe_J">Hieronymus Pathe d. J.</rs></title>
+                <title type="uniform">Familienchronik Hieronymus Pathe d. J.</title>
                 <date type="coverage" from="1564" to="1611">1564 bis 1611</date>
                 <rubric>Vorzeichnus waß Vnser Lieber Vatter seliger mit seiner eigenen Handt In der Hauß Postil zu [?] 
                   Vfgezeichnet, Vnsere gebuhrt Vnd Pattenn. (37r-45v); Verzeichnüs Vnd Bericht, meiner Gebührt, Lebenss, 

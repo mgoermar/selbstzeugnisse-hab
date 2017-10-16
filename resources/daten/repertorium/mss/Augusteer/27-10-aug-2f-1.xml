@@ -14,7 +14,7 @@
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="39r" to="51v"/>
                 
-                <title type="uniform">Reisebericht Ostindien</title>
+                <title type="uniform">Reisebericht eines unbekannten Verfassers</title>
                 <date type="coverage" from="1604" to="1606-07-09"/>
                 
                 
@@ -46,7 +46,11 @@
               </bindingDesc>
               
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>17. Jhd.</origDate>
+              </origin>
+            </history>
             
           </msPart>
         </msDesc>

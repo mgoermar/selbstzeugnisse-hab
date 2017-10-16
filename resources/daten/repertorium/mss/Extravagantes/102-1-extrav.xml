@@ -23,7 +23,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1r" to="20"/>
-                <author>unbekannt</author>
+                <author/>
                 <title type="uniform">Reisetagebuch <rs type="person" ref="../../register.xml#Friedrich_Franz_Braunschweig">Herzog Friedrich Franz von Braunschweig</rs>-Lüneburg</title>
                 <date type="coverage" from="1753-06-02" to="1753-06-24"/>
                 <rubric>Reise Journal <rs type="person" ref="../../register.xml#Friedrich_Franz_Braunschweig">Printz friederich franzens</rs> H. zu B. u. L. (n. 8. Jun. 1732. den 14. Oct. 1758) Vom 2. Jun. biß 24. Jun. a. Von Berlin nach Coppenhagen</rubric>
@@ -70,7 +70,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl>Eine spätere Reise des Herzogs nach Dänemark (21.09.1753-24.12.1753) beschreibt 132.6 Extravagantes. Eine weitere Quelle der späteren Reise befindet sich im Stadtarchiv Braunschweig: H VI. 2:32</bibl>
+                <bibl>Eine spätere Reise des Herzogs nach Dänemark (21.09.1753-24.12.1753) beschreibt <rs type="shelfmark">Cod. Guelf. 132.6 Extrav.</rs>; eine weitere Quelle der späteren Reise befindet sich im Stadtarchiv Braunschweig: H VI. 2:32</bibl>
               </listBibl>
             </additional>
           </msPart>

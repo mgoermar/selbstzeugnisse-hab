@@ -19,7 +19,7 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Pilgerbericht</title>
+                <title type="uniform">Pilgerbericht Melchior von Seydlitz, Wolff von Opffersdorff, Nicolaus von Reidburg und Moritz von Altmannshausen</title>
                 <date type="coverage" from="1556-05-03" to="1559-07"/>
                 <rubric>Folgt ein Reise Jn das Heilige Land, Jerusalem. Anno 1556. Vierer vom Adel, mitt Namen, Melchior von Seidlitz Wolff von Opffersdorff Nicolaus von Reidburg vnd Moritz von Altmarshausen. Wie Sie vom Türcken gefangen vnd Jn schwehre gefengniß gelegt, vnd wider ledig worden, auch wider Jn Jr VatterLande kommen.</rubric>
                 
@@ -58,7 +58,11 @@
                 <p>In der Handschrift 44.11 Aug 2° befinden sich von der selben Hand weitere Abschriften von Reisebeschreibungen: <ref target="44-11-aug-2f-1.xml">44.11 Aug 2° - 1</ref>, <ref target="44-11-aug-2f-1.xml">44.11 Aug 2° - 1</ref>, <ref target="44-11-aug-2f-2.xml">44.11 Aug 2° - 2</ref> und <ref target="44-11-aug-2f-3.xml">44.11 Aug 2° - 3</ref>.</p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>17. Jhd. </origDate>
+              </origin>
+            </history>           
             
           </msPart>
         </msDesc>

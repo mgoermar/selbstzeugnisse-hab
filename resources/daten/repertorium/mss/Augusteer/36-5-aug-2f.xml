@@ -18,7 +18,7 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>Reinhard Trygophorus</name>
                 </respStmt>
-                <title type="uniform">Reisetagebuch</title>
+                <title type="uniform">Reisetagebuch Wolrad II. von Waldeck</title>
                 <date type="coverage" from="1548" to="1553"/>
                 <rubric>Itinerarium Wolradi Comitis a Waldeck in profectione Augustana: anno domini 1548.</rubric>
                 
@@ -65,7 +65,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl>Tagebuch während des Reichstages zu Augsburg 1548, Wolrad von Waldeck, hrsg. von C. L. P. Tross, Stuttgart u. Tübingen 1861.</bibl>
+                <bibl><ref type="urn" cRef="urn:nbn:de:bvb:12-bsb10737711-9">Tagebuch während des Reichstages zu Augsburg 1548, Wolrad von Waldeck, hrsg. von C. L. P. Tross, Stuttgart u. Tübingen 1861.</ref></bibl>
                 <bibl><ref target="http://reader.digitale-sammlungen.de/de/fs3/object/display/bsb10737711_00093.html">Digitalisat der Edition von Tross</ref></bibl>
               </listBibl>
             </additional>

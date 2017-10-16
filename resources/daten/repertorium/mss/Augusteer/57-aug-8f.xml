@@ -14,8 +14,8 @@
               <msItem class="../../register.xml#Notizen">
                 <locus from="1r" to="1v"/>
                 <author ref="../../register.xml#Anna_Neuper">Anna Neuper</author>
-                <title type="uniform">Persönliche Notizen in einem Anleitungsbuch für Stickerei</title>
-                <date type="coverage"/>
+                <title type="uniform">Persönliche Notizen Anna Neuper</title>
+                <date type="coverage">16. Jhd.</date>
                 
                 
               </msItem>
@@ -61,7 +61,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl>Anna Neuper's Modelbuch: early sixteenth-century patterns for weaving brocaded bands, transcribed and edited by Nancy Spies with Ute Bargmann, Jarrettsville 2003.</bibl>
+                <bibl><ref type="opac" cRef="374375712">Anna Neuper's Modelbuch: early sixteenth-century patterns for weaving brocaded bands, transcribed and edited by Nancy Spies with Ute Bargmann, Jarrettsville 2003</ref>.</bibl>
               </listBibl>
             </additional>
           </msPart>

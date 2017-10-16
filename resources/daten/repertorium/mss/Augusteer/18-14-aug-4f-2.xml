@@ -55,7 +55,11 @@
                 <p>Auf 1r-203r befindet sich der Pilgerbericht von Felix Fabri</p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>15.-16. Jhd.</origDate>
+              </origin>
+            </history>
             
           </msPart>
         </msDesc>

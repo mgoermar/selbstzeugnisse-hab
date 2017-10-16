@@ -52,14 +52,18 @@
                 <p>Pergament, zwei defekte Buchschließen</p>
               </bindingDesc>
               <accMat>
-                <p>Vgl. <ref target="30-aug-4f.xml">30. Aug. 4</ref></p>
+                <p>Vgl. <rs type="shelfmark">Cod. Guelf. 30. Aug. 4</rs></p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>16. Jhd.</origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>
-                <bibl>Vgl. 30. Aug 4°</bibl>
-                <bibl>Vgl. Sigmund Feyerabend: Reyssbuch des heyligen Lands, Frankfurt 1584</bibl>
+                <bibl>Vgl. <rs type="shelfmark">Cod. Guelf. 30. Aug 4°</rs></bibl>
+                <bibl>Vgl. <ref type="gbv" cRef="135189438">Sigmund Feyerabend: Reyssbuch des heyligen Lands, Frankfurt 1584</ref></bibl>
               </listBibl>
             </additional>
           </msPart>

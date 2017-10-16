@@ -1,21 +1,60 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.274-1-extrav.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.274-1-extrav.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>274.1 Extrav., 11v – Lebenslauf Johann Valentin Andreae</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>274.1 Extrav., 11v – Lebenslauf Johann Valentin Andreae</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>274.1 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>274.1 Extrav., 11v</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>274.1 Extrav., 11v</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Ein aus Schreibkalendern von <rs type="person" ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin Andreae</rs> zusammengestellte Biographie durch seinen Sohn <rs type="person" ref="../../register.xml#Gottlieb_Andreae">Gottlieb Andreae</rs>. 
-                Der Berichtszeitraum umfasst den Lebenslauf von <rs type="person" ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin</rs> von seiner Geburt bis zu seinem Tod am 27.06.1654. 
-                Neben der Einteilung in Jahre und Tage gibt es eine Rubrik "obierunt", in der die Personen aufgelistet sind, die<rs type="person" ref="../../register.xml#Johann_Valentin_Andreae"> Johann Valentin</rs> in dem Zeitraum getroffen hat.</summary>
+              <summary>Ein aus Schreibkalendern von <rs type="person"
+                  ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin Andreae</rs>
+                zusammengestellte Biographie durch seinen Sohn <rs type="person"
+                  ref="../../register.xml#Gottlieb_Andreae">Gottlieb Andreae</rs>. Der
+                Berichtszeitraum umfasst den Lebenslauf von <rs type="person"
+                  ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin</rs> von seiner
+                Geburt bis zu seinem Tod am 27.06.1654. Neben der Einteilung in Jahre und Tage gibt
+                es eine Rubrik "obierunt", in der die Personen aufgelistet sind, die<rs
+                  type="person" ref="../../register.xml#Johann_Valentin_Andreae"> Johann
+                  Valentin</rs> in dem Zeitraum getroffen hat.</summary>
               <textLang mainLang="lat"/>
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="11v" to="18v"/>
-                <author ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin Andreae</author>
+                <author ref="../../register.xml#Johann_Valentin_Andreae">Johann Valentin
+                  Andreae</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name ref="../../register.xml#Gottlieb_Andreae">Gottlieb Andreae</name>
@@ -23,7 +62,7 @@
                 <title type="uniform">Lebenslauf Johann Valentin Andreae</title>
                 <date type="coverage" from="1586-08-17" to="1654-06-27"/>
                 <rubric>Brevarium Vitae Johannis Valentini Andreae.</rubric>
-                
+
               </msItem>
             </msContents>
             <physDesc>
@@ -45,24 +84,33 @@
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Die Seiten sind durch rote Linien in Spalten und Zeilen eingeteilt. Links in einer kleinen Spalte ist die Jahreszahl verzeichnet, rechts daneben ist eine weitere Spalte der selben Größe, in der Tag und Datum eingetragen wurden. Die Jahre werden durch waagerechte Linien in einzelne Zeilen eingeteilt. In den Jahresabschnitten werden wiederum pro Tag Einträge verfasst. </p>
+                    <p>Die Seiten sind durch rote Linien in Spalten und Zeilen eingeteilt. Links in
+                      einer kleinen Spalte ist die Jahreszahl verzeichnet, rechts daneben ist eine
+                      weitere Spalte der selben Größe, in der Tag und Datum eingetragen wurden. Die
+                      Jahre werden durch waagerechte Linien in einzelne Zeilen eingeteilt. In den
+                      Jahresabschnitten werden wiederum pro Tag Einträge verfasst. </p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
-              
+
+
               <bindingDesc>
                 <p>Deckel aus grauer Pappe, Rücken aus braunem Leder.</p>
               </bindingDesc>
-              
+
             </physDesc>
-            
+<history>
+  <origin>
+    <origDate>Mitte 17. Jhd.</origDate>
+  </origin>
+</history>
             
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

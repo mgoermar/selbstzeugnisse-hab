@@ -13,9 +13,9 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Testament">
                 <locus from="1r" to="19v"/>
-                <author ref="../../register.xml#Johann_Georg_I._Sachsen">Johann Georg I. von Sachsen</author>
-                <title type="uniform">Testament Johann Georg I. von Sachsen</title>
-                <date type="coverage"/>
+                <author ref="../../register.xml#Johann_Georg_I._Sachsen">Kurfürst Johann Georg I. von Sachsen</author>
+                <title type="uniform">Testament Kurfürst Johann Georg I. von Sachsen</title>
+                <date type="coverage">17. Jhd.</date>
                 <rubric>Ihrer Churfürstl. frtl. deß hoch vnd wolgebohrnen Herren, Herren Johann Georgen Churfürst zu Sachßen, Herzog zu Jülich, Clewe und Berg. wohlverordnetes Testament, so den 20. Tag July Alß man zält nach Christi unßers lieben Herrn und Seeligmachers geburt A. 1658 aufgesetzet worden.</rubric>
                 
               </msItem>
@@ -44,7 +44,7 @@
                 <p>Braunes Leder</p>
               </bindingDesc>
               <accMat>
-                <p>Vgl. <ref target="262-11-extrav.xml">262.11 Extrav.</ref></p>
+                <p>Vgl. <rs type="shelfmark">Cod. Guelf. 262.11 Extrav.</rs></p>
               </accMat>
             </physDesc>
             <history>

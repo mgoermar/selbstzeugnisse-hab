@@ -21,7 +21,7 @@
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1" to="349"/>
                 <author ref="../../register.xml#Leonhard_Baudis">Leonhard Baudis</author>
-                <title type="uniform">Reisetagebuch Leonhard Baudis</title>
+                <title type="uniform">Reisetagebuch Leonhard Baudis d. J.</title>
                 <date type="coverage" from="1680-05-22" to="1681-04"/>
                 <rubric>Diarium.</rubric>
                 
@@ -69,7 +69,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl>Vgl. 253.6 Extravagantes</bibl>
+                <bibl>Vgl. <rs type="shelfmark">Cod. Guelf. 253.6 Extrav.</rs></bibl>
               </listBibl>
             </additional>
           </msPart>

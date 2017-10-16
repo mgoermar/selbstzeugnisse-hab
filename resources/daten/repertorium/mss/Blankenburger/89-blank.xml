@@ -23,8 +23,8 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="90r" to="104v"/>
-                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
-                <title type="uniform">Reisetagebuch Ludwig Rudolf von Braunschweig-Wolfenbüttel 1689</title>
+                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
+                <title type="uniform">Reisetagebuch Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel</title>
                 <date type="coverage" from="1689-01-09" to="1689-10-12"/>
                 <rubric>Dänische und Schwedische reyse so von mir getahn worden in dem Jahre 1689 angefangen den 9. Jan. meineß alters in 18 Jahre.</rubric>
                 
@@ -62,7 +62,7 @@
               </bindingDesc>
               <accMat>
                 <p>Schematische Zeichnung eines Rittersaals auf 97r.</p>
-                <p>Vergleiche: <ref target="28-blank.xml">28 Blankenburger</ref>, <ref target="217-a-blank.xml">217a Blankenburger</ref> und <ref target="286-a-blank.xml">286a Blankenburger</ref>.</p>
+                <p>Vergleiche: <rs type="shelfmark">Cod. Guelf. 28 Blank.</rs>, <rs type="shelfmark">Cod. Guelf. 217a Blank.</rs> und <rs type="shelfmark">Cod. Guelf. 286a Blank.</rs>.</p>
               </accMat>
             </physDesc>
             <history>

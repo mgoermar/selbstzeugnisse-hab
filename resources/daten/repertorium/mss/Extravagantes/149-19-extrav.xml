@@ -1,28 +1,63 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.149-19-extrav.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.149-19-extrav.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>149.19 Extrav., 1r – Reisebericht Albrecht von Österreich</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>149.19 Extrav., 1r – Reisebericht Albrecht von Österreich</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>149.19 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>149.19 Extrav., 1r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>149.19 Extrav., 1r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Berichtet wird von der Reise des Herzogs <rs type="person" ref="../../register.xml#Albrecht_VII.">Albrecht von Österreich</rs> von Brüssel nach Valencia zur Hochzeit mit <rs type="person" ref="../../register.xml#Isabella_Clara_Eugenia_von_Spanien">Isabella Klara Eugenia von Spanien</rs>. 
-                Der Reisebericht ist tagebuchartig verfasst. Die Einträge sind mit Datum, Orten und Meilenangaben versehen.</summary>
+              <summary>Berichtet wird von der Reise des Herzogs <rs type="person"
+                  ref="../../register.xml#Albrecht_VII.">Albrecht von Österreich</rs> von Brüssel
+                nach Valencia zur Hochzeit mit <rs type="person"
+                  ref="../../register.xml#Isabella_Clara_Eugenia_von_Spanien">Isabella Klara Eugenia
+                  von Spanien</rs>. Der Reisebericht ist tagebuchartig verfasst. Die Einträge sind
+                mit Datum, Orten und Meilenangaben versehen.</summary>
               <textLang mainLang="fra"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="1r" to="100r"/>
-                <author>unbekannt</author>
+                <author/>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisebericht Albrecht von Österreich</title>
+                <title type="uniform">Reisebericht Erzherzog Albrecht von Österreich</title>
                 <date type="coverage" from="1598"/>
                 <rubric>Memoire Et brief Recueil</rubric>
-                
+
               </msItem>
             </msContents>
             <physDesc>
@@ -48,31 +83,38 @@
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
+
               <bindingDesc>
                 <p>Pergament.</p>
               </bindingDesc>
-              
+
             </physDesc>
             <history>
-              
+              <origin>
+                <origDate>1. Hälfte 17. Jhd.</origDate>
+              </origin>
               <provenance>
-                <p>Es sind zwei Besitzeinträge auf IIIv notiert: "Aemanuell eorait" und "[A.?] Van Valcknenisse 1664"</p>
+                <p>Es sind zwei Besitzeinträge auf IIIv notiert: "Aemanuell eorait" und "[A.?] Van
+                  Valcknenisse 1664"</p>
               </provenance>
-              
+
             </history>
             <additional>
               <listBibl>
-                <bibl>Faing, Gilles du: Voyage de l'archiduc Albert en Espagne en 1598, 1882.<ref type="gbv" cRef="218764871"/>
+                <bibl><ref
+                  type="gbv" cRef="218764871">Faing, Gilles du: Voyage de l'archiduc Albert en Espagne en 1598, 1882</ref>.
                 </bibl>
-                <bibl>Faing, Gilles du: Mémoire et brief recueil des journées et choses qui se sont passées au voyage qu'a faict le sérénissime archiducq Albert, à l'allée, séjour et retour d'Espaigne</bibl>
+                <bibl>Faing, Gilles du: Mémoire et brief recueil des journées et choses qui se sont
+                  passées au voyage qu'a faict le sérénissime archiducq Albert, à l'allée, séjour et
+                  retour d'Espaigne</bibl>
               </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

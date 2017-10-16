@@ -18,7 +18,7 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisetagebuch</title>
+                <title type="uniform">Reisetagebuch Hans Dernschwam</title>
                 <date type="coverage" from="1553-06-22" to="1555-08-11"/>
                 
                 
@@ -54,13 +54,17 @@
                 <p>Pergament</p>
               </bindingDesc>
               <accMat>
-                <p>Weitere Abschrift, mit dieser fast identisch: <ref target=" http://diglib.hab.de/mss/40-1-aug-2f/start.htm ">40.1 Aug. 2°</ref></p>
+                <p>Weitere Abschrift, mit dieser fast identisch: <rs type="shelfmark">Cod. Guelf. 40.1 Aug. 2°</rs></p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>16. Jhd.</origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>
-                <bibl>Hattenhauer, Hans: Ein Fugger-Kaufmann im Osmanischen Reich: Bericht von einer Reise nach Konstantinopel und Kleinasien 1553 - 1555, von Hans Dernschwam. Mit einem epigraphischen Anh. von Patrick Breternitz und Werner Eck. Ins heutige Dt. übertr. und neu hrsg. von Hans Hattenhauer und Uwe Bake, Frankfurt am Main 2012.</bibl>
+                <bibl><ref type="opac" cRef="688666744">Hattenhauer, Hans: Ein Fugger-Kaufmann im Osmanischen Reich: Bericht von einer Reise nach Konstantinopel und Kleinasien 1553 - 1555, von Hans Dernschwam. Mit einem epigraphischen Anh. von Patrick Breternitz und Werner Eck. Ins heutige Dt. übertr. und neu hrsg. von Hans Hattenhauer und Uwe Bake, Frankfurt am Main 2012</ref>.</bibl>
               </listBibl>
             </additional>
           </msPart>

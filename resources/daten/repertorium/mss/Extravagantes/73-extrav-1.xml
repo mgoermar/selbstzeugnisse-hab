@@ -18,8 +18,8 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Familienchronik">
                 <locus from="3r" to="36v"/>
-                <author ref="../../register.xml#Hieronymus_Pathe_A">Hieronymus Pathe d. Ä.</author>
-                <title type="uniform">Familienchronik von <rs type="person" ref="../../register.xml#Hieronymus_Pathe_A">Hieronymus Pathe d. Ä.</rs></title>
+                <author ref="../../register.xml#Hieronymus_Pathe_A">Hieronymus Pathe der Ältere</author>
+                <title type="uniform">Familienchronik Hieronymus Pathe d. Ä.</title>
                   <date type="coverage" from="1551" to="1564">1551-1564</date>
                   <rubric>Bericht und verzeichnus Erstens und im ersten buch, meines ankunfft in diese löbliche graffschafft <rs type="place" ref="../../register.xml#Regenstein">Reinstein</rs>. 
                     Im andern buch, wie es mit meinen güttern vnd schulden stehett. Anno 1578 gefertigett.</rubric>

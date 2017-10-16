@@ -29,8 +29,8 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Notizen">
                 <locus from="1" to="363"/>
-                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig und Wolfenbüttel</author>
-                <title type="uniform">Persönliche Notizen <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs></title>
+                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Herzog Ludwig Rudolf von Braunschweig und Wolfenbüttel</author>
+                <title type="uniform">Persönliche Notizen <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs></title>
                 <date type="coverage" from="1707" to="1707"/>
                 <rubric>L´An. 1707 In allen meinen tahten, laß ich dem höchsten rahten. Wolffenb. den. 1. Jan. 1707 <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludewig Rudolff</rs>.</rubric>
                 
@@ -65,7 +65,7 @@
                 <p>Braunes Leder, darauf sind mit Gold verzierte Linien geprägt</p>
               </bindingDesc>
               <accMat>
-                <p>Vergleiche: <ref target="28-blank.xml">28 Blankenburger</ref>, <ref target="89-blank.xml">89 Blankenburger</ref> und <ref target="217-a-blank.xml">217a Blankenburger</ref></p>
+                <p>Vergleiche: <rs type="shelfmark">Cod. Guelf. 28 Blank.</rs>, <rs type="shelfmark">Cod. Guelf. 89 Blank.</rs> und <rs type="shelfmark">Cod. Guelf. 217a Blank.</rs>.</p>
               </accMat>
             </physDesc>
             <history>

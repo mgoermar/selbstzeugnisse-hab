@@ -1,28 +1,74 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.125-3-extrav.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.125-3-extrav.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>125.3 Extrav., 1r – Schiffstagebuch 1677-1679</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>125.3 Extrav., 1r – Schiffstagebuch 1677-1679</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>125.3 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>125.3 Extrav., 1r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>125.3 Extrav., 1r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Schiffstagebuch oder Journal. Geführt auf der britischen Fregatte Newcastle durch <rs type="person" ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August von Schleswig-Holstein-Norburg</rs> während 
-                seiner Dienstzeit und in der Funktion des Kapitäns. Der Beschreibung sind Zeichnungen beigefügt. Wie bei einem Logbuch üblich werden alle die Fregatte betreffenden Ereignisse festgehalten. Dazu zählt das Wetter, Kurs, Längen- und Breitengrade, 
-                die Ausrüstung und die an Bord befindlichen Personen und Waren. Auf 31r-66r finden sich unter der Überschrift "Severall copies of Commission, orders &amp; letters with my answers during my staying in His Majts service as 
-                appointed Capt. of y NewCastle fregat" zahlreiche Briefe und Antwortschreiben von <rs type="person" ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August</rs> z.B. an <rs type="person" ref="../../register.xml#Samuel_Pepys">Samuel Pepys</rs>. 
-                Auch ge- und verkaufte Sklaven werden aufgelistet, z.B. 46v "Names of Turkes e Moors wch were set on shore at Tanguir wch were sold on board y NewCastle y 29th 7ber.". Auf 50r ist eine Liste "Passangers on board y NewCastle for England". 
-                Auf 61v-72v viele und umfangreiche Tabellen sowie Listen zu: Maßen, Gewichten, Preisen, welche alle Kriegsschiffe und deren Bedarf betreffen.</summary>
+              <summary>Schiffstagebuch oder Journal. Geführt auf der britischen Fregatte Newcastle
+                durch <rs type="person"
+                  ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August
+                  von Schleswig-Holstein-Norburg</rs> während seiner Dienstzeit und in der Funktion
+                des Kapitäns. Der Beschreibung sind Zeichnungen beigefügt. Wie bei einem Logbuch
+                üblich werden alle die Fregatte betreffenden Ereignisse festgehalten. Dazu zählt das
+                Wetter, Kurs, Längen- und Breitengrade, die Ausrüstung und die an Bord befindlichen
+                Personen und Waren. Auf 31r-66r finden sich unter der Überschrift "Severall copies
+                of Commission, orders &amp; letters with my answers during my staying in His Majts
+                service as appointed Capt. of y NewCastle fregat" zahlreiche Briefe und
+                Antwortschreiben von <rs type="person"
+                  ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian
+                  August</rs> z.B. an <rs type="person" ref="../../register.xml#Samuel_Pepys">Samuel
+                  Pepys</rs>. Auch ge- und verkaufte Sklaven werden aufgelistet, z.B. 46v "Names of
+                Turkes e Moors wch were set on shore at Tanguir wch were sold on board y NewCastle y
+                29th 7ber.". Auf 50r ist eine Liste "Passangers on board y NewCastle for England".
+                Auf 61v-72v viele und umfangreiche Tabellen sowie Listen zu: Maßen, Gewichten,
+                Preisen, welche alle Kriegsschiffe und deren Bedarf betreffen.</summary>
               <textLang mainLang="eng"/>
               <msItem class="../../register.xml#Schiffstagebuch">
                 <locus from="1r" to="75r"/>
-                <author ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August von Schleswig-Holstein-Norburg</author>
-                <title type="uniform">Schiffstagebuch 1677-1679</title>
+                <author ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Herzog
+                  Christian August von Schleswig-Holstein-Norburg</author>
+                <title type="uniform">Schiffstagebuch Herzog Christian August von
+                  Schleswig-Holstein-Norburg</title>
                 <date type="coverage" from="1677-04-06" to="1679-06-06"/>
-                <rubric>A Journal kept in y Newcastle fregat whereof I was appointed Comander by His Maj: Commission dated (y 4th of April, vid. Nr. 1, p. 31) y year 1677.</rubric>
-                
+                <rubric>A Journal kept in y Newcastle fregat whereof I was appointed Comander by His
+                  Maj: Commission dated (y 4th of April, vid. Nr. 1, p. 31) y year 1677.</rubric>
+
               </msItem>
             </msContents>
             <physDesc>
@@ -39,46 +85,57 @@
                     </dimensions>
                   </extent>
                   <foliation>
-                    <p>Zahl oben rechts, original mit Tinte 1r-75r, Bleistiftfoliierung modern 76r-97r.</p>
+                    <p>Zahl oben rechts, original mit Tinte 1r-75r, Bleistiftfoliierung modern
+                      76r-97r.</p>
                   </foliation>
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Zweispaltig, kleine Spalte immer an der linken Seite, welche das Datum, den Ort, Planetensymbole, Zeichnungen und Anmerkungen enthält. Die rechte größere Spalte umfasst den Text. Der Text ist in Abschnitte nach Jahren und Tagen aufgeteilt.</p>
+                    <p>Zweispaltig, kleine Spalte immer an der linken Seite, welche das Datum, den
+                      Ort, Planetensymbole, Zeichnungen und Anmerkungen enthält. Die rechte größere
+                      Spalte umfasst den Text. Der Text ist in Abschnitte nach Jahren und Tagen
+                      aufgeteilt.</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
+
               <decoDesc>
-                <decoNote>Verschiedene Zeichnungen von Landschaften und Gebäuden, z.B. Sierra Nevada (7v), Burlings (6v), Tangvir/ Tanguir Castle (9r); 10r-v, 11r, 15r-v u.v.m.</decoNote>
+                <decoNote>Verschiedene Zeichnungen von Landschaften und Gebäuden, z.B. Sierra Nevada
+                  (7v), Burlings (6v), Tangvir/ Tanguir Castle (9r); 10r-v, 11r, 15r-v
+                  u.v.m.</decoNote>
               </decoDesc>
               <bindingDesc>
                 <p>Pergament</p>
               </bindingDesc>
               <accMat>
-                <p>Ergänzende Texte zur Seefahrt und Navigation vom selben Verfasser in <ref target="125-17-extrav.xml">125.17 Extravagantes</ref> sowie weitere Tagebücher in <ref target="257-3-extrav.xml">257.3 Extravagantes</ref> und <ref target="221-extrav.xml">221 Extravagantes</ref>.</p>
+                <p>Ergänzende Texte zur Seefahrt und Navigation vom selben Verfasser in <rs type="shelfmark">Cod. Guelf. 125.17 Extrav.</rs> sowie weitere Tagebücher
+                  in <rs type="shelfmark">Cod. Guelf. 257.3 Extrav.</rs> und <rs type="shelfmark">Cod. Guelf. 221 Extrav.</rs>.</p>
               </accMat>
             </physDesc>
             <history>
               <origin>
                 <origDate from="1677" to="1679"/>
-                
+
               </origin>
               <provenance>
-                <p>Exlibris der Herzogin <rs type="person" ref="../../register.xml#Elisabeth_Sophie_Marie_von_Braunschweig-Lueneburg">Elisabeth Sophie Marie von Braunschweig</rs></p>
+                <p>Exlibris der Herzogin <rs type="person"
+                    ref="../../register.xml#Elisabeth_Sophie_Marie_von_Braunschweig-Lueneburg"
+                    >Elisabeth Sophie Marie von Braunschweig</rs></p>
               </provenance>
-              
+
             </history>
             <additional>
               <listBibl>
-                <bibl>Langer, E. Th.: Einige Merkwürdigkeiten von Herzog Christian August von Holstein-Sonderburg, Neues Göttingisches Magazin, Bd. 2, 1793, S. 524 - 543. <ref type="opac" cRef="130152358">Opac HAB</ref></bibl>
+                <bibl><ref type="opac" cRef="130152358">Langer, E. Th.: Einige Merkwürdigkeiten von Herzog Christian August von
+                  Holstein-Sonderburg, Neues Göttingisches Magazin, Bd. 2, 1793</ref>, S. 524 - 543.</bibl>
               </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

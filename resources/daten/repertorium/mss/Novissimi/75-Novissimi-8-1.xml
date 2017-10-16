@@ -16,8 +16,8 @@
               <textLang mainLang="fra" otherLangs="deu"/>
               <msItem class="../../register.xml#Notizen">
                 <locus from="1r" to="76v"/>
-                <author ref="../../register.xml#Heinrich_Ferdinand">Heinrich Ferdinand Herzog Braunschweig-Lüneburg</author>
-                <title type="uniform">Persönliche Notizen Heinrich Ferdinand Herzog Braunschweig-Lüneburg</title>
+                <author ref="../../register.xml#Heinrich_Ferdinand">Herzog Heinrich Ferdinand Herzog Braunschweig-Lüneburg</author>
+                <title type="uniform">Persönliche Notizen Herzog Heinrich Ferdinand Herzog Braunschweig-Lüneburg</title>
                 <date type="coverage" from="1699-10-01" to="1707"/>
                 <rubric>Henri Ferdinand P. D. B. E. D. L. j´ay commence à ecrire [...] liore le i. d. Octobre 1699</rubric>
                 

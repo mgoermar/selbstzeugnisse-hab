@@ -13,8 +13,8 @@
               <textLang mainLang="deu" otherLangs="fra"/>
               <msItem class="../../register.xml#Tagebuch">
                 <locus from="130r" to="143r"/>
-                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
-                <title type="uniform">Tagebuch Ludwig Rudolf von Braunschweig-Wolfenbüttel</title>
+                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
+                <title type="uniform">Tagebuch Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel</title>
                 <date type="coverage" from="1689-08-17" to="1692"/>
                 <rubric>Journal waß sich täglich hat bey der Holländischen Armee zugetragen von 17. Aug. an. 1689. bis zu den 4. Octobl.</rubric>
                 

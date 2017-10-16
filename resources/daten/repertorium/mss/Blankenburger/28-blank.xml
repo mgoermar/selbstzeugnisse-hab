@@ -13,12 +13,12 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Tagebuch">
                 <locus from="1r" to="144r"/>
-                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
+                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Tagebuch Ludwig Rudolf von Braunschweig-Wolfenbüttel</title>
+                <title type="uniform">Tagebuch Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel</title>
                 <date type="coverage" from="1701" to="1701"/>
                 <rubric>Diarium Sni: Princip: ac Domii Dmi Ludovici Rudolphi Brunsvicensium ac Luneburg Ducis Vitam &amp; Actiones nec non pleraq in aula Guelphica ut et Christiano Orbi universo notatu digna complecteus.</rubric>
                 
@@ -56,7 +56,9 @@
               </accMat>
             </physDesc>
             <history>
-              
+              <origin>
+                <origDate>1. Hälfte 18. Jhd.</origDate>
+              </origin>
               <provenance>
                 <p>Im Spiegel: Ex libris <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs></p>
               </provenance>

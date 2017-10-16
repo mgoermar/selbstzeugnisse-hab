@@ -1,28 +1,73 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.257-3-extrav.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.257-3-extrav.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>257.3 Extrav., 1r – Reisetagebuch Christian August von Schleswig-Holstein-Norburg</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>257.3 Extrav., 1r – Reisetagebuch Christian August von
+          Schleswig-Holstein-Norburg</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>257.3 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>257.3 Extrav., 1r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>257.3 Extrav., 1r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Reisetagebücher über einen Zeitraum von 30 Jahren. Die Reisen führten den Verfasser unter anderem nach <rs type="place" ref="../../register.xml#England">England</rs>, 
-                <rs type="place" ref="../../register.xml#Italy">Italien</rs>, <rs type="place" ref="../../register.xml#Oesterreich">Österreich</rs>, in den Orient, nach <rs type="place" ref="../../register.xml#Frankreich">Frankreich</rs> 
-                und <rs type="place" ref="../../register.xml#Polen">Polen</rs>. <rs type="person" ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Die Identität des Verfassers</rs> geht aus den 
-                genealogischen Angaben im Text hervor. Der Text ist in deutscher, Teile auch in französischer, englischer, italienischer und spanischer Sprache verfasst. 
-                Duktus und Tinte variieren, <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, 
-                Teil 3, 220.1 Extrav.-317 Extrav., Frankfurt a. M. 1993) vermutet, dass das vorliegende Reisetagebuch eine Abschrift aus unterwegs geführten Journalen sowie eine Reinschrift von Teilen aus <ref target="221-extrav.xml">221 Extravagantes</ref> ist. Auf VI-XIV befindet sich ein Ortsregister in alphabetischer Reihenfolge.</summary>
+              <summary>Reisetagebücher über einen Zeitraum von 30 Jahren. Die Reisen führten den
+                Verfasser unter anderem nach <rs type="place" ref="../../register.xml#England"
+                  >England</rs>, <rs type="place" ref="../../register.xml#Italy">Italien</rs>, <rs
+                  type="place" ref="../../register.xml#Oesterreich">Österreich</rs>, in den Orient,
+                nach <rs type="place" ref="../../register.xml#Frankreich">Frankreich</rs> und <rs
+                  type="place" ref="../../register.xml#Polen">Polen</rs>. <rs type="person"
+                  ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Die Identität des
+                  Verfassers</rs> geht aus den genealogischen Angaben im Text hervor. Der Text ist
+                in deutscher, Teile auch in französischer, englischer, italienischer und spanischer
+                Sprache verfasst. Duktus und Tinte variieren, <rs type="person"
+                  ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs> (Die neueren
+                Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person"
+                  ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, Teil 3, 220.1
+                Extrav.-317 Extrav., Frankfurt a. M. 1993) vermutet, dass das vorliegende
+                Reisetagebuch eine Abschrift aus unterwegs geführten Journalen sowie eine
+                Reinschrift von Teilen aus <rs type="shelfmark">Cod. Guelf. 221 Extrav.</rs> ist.
+                Auf VI-XIV befindet sich ein Ortsregister in alphabetischer Reihenfolge.</summary>
               <textLang mainLang="deu" otherLangs="fra"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1r" to="406v"/>
-                <author ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian August von Schleswig-Holstein-Norburg</author>
-                <title type="uniform">Reisetagebuch Christian August von Schleswig-Holstein-Norburg</title>
+                <author ref="../../register.xml#Christian_August_von_Schleswig-Holstein">Christian
+                  August von Schleswig-Holstein-Norburg</author>
+                <title type="uniform">Reisetagebuch Christian August von
+                  Schleswig-Holstein-Norburg</title>
                 <date type="coverage" from="1655-10-02" to="1685-12-29"/>
-                
-                
+
+
               </msItem>
             </msContents>
             <physDesc>
@@ -39,7 +84,9 @@
                     </dimensions>
                   </extent>
                   <foliation>
-                    <p>Zahl oben rechts, original 19-477, ab 477 die 4 vor 478 usw. vergessen, also auf 477 folgt 78, 79 usw. bis 96; Bleistiftfoliierung modern I-XIV und 1r-412r.</p>
+                    <p>Zahl oben rechts, original 19-477, ab 477 die 4 vor 478 usw. vergessen, also
+                      auf 477 folgt 78, 79 usw. bis 96; Bleistiftfoliierung modern I-XIV und
+                      1r-412r.</p>
                   </foliation>
                 </supportDesc>
                 <layoutDesc>
@@ -48,31 +95,34 @@
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
+
               <decoDesc>
-                <decoNote>Viele kleine Zeichnungen von Landschaften, Monumenten, Köpfen, Tieren und Gebäuden.</decoNote>
+                <decoNote>Viele kleine Zeichnungen von Landschaften, Monumenten, Köpfen, Tieren und
+                  Gebäuden.</decoNote>
               </decoDesc>
               <bindingDesc>
                 <p>Braunes Leder, mit vergoldeten Verzierungen auf dem Buchrücken.</p>
               </bindingDesc>
               <accMat>
-                <p>Vom selben Verfasser 125.3 Extravagantes, 125.17 Extravagantes sowie weitere Tagebücher in 221 Extravagantes.</p>
+                <p>Vom selben Verfasser <rs type="shelfmark">Cod. Guelf. 125.3 Extrav.</rs>, <rs type="shelfmark">Cod. Guelf. 125.17 Extrav.</rs> sowie weitere
+                  Tagebücher in <rs type="shelfmark">Cod. Guelf. 221 Extrav.</rs>.</p>
               </accMat>
             </physDesc>
             <history>
               <origin>
                 <origDate from="1655-10-02" to="1685-12-29"/>
-                
+
               </origin>
-              
-              
+
+
             </history>
-            
+
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

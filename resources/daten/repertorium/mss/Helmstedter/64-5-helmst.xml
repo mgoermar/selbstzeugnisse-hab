@@ -1,23 +1,58 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.64-5-helmst.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.64-5-helmst.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>64.5 Helmst., 33r – Geständnis</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>64.5 Helmst., 33r – Geständnis</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Helmstedter</collection>
             <idno>64.5 Helmst.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>64.5 Helmst., 33r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>64.5 Helmst., 33r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>In Ich-Form verfasstes Geständnis des Buchdruckers Ernst Vögelin aus Konstanz. Er führt einen knappen Lebenslauf an und gesteht, dass er das Buch "Exegesis" von Joachim Cureus illegal gedruckt und damit unterrichtet hat. Tatsächlich musste Vögelin seinen Wohn- und Arbeitsort Leipzig aufgrund der Anklage, ein Calvinist zu sein, verlassen.</summary>
+              <summary>In Ich-Form verfasstes Geständnis des Buchdruckers Ernst Vögelin aus
+                Konstanz. Er führt einen knappen Lebenslauf an und gesteht, dass er das Buch
+                "Exegesis" von Joachim Cureus illegal gedruckt und damit unterrichtet hat.
+                Tatsächlich musste Vögelin seinen Wohn- und Arbeitsort Leipzig aufgrund der Anklage,
+                ein Calvinist zu sein, verlassen.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Gestaendnis">
                 <locus from="33r" to="36v"/>
                 <author ref="../../register.xml#Ernst_Voegelin">Ernst Vögelin</author>
-                <title type="uniform">Geständnis</title>
+                <title type="uniform">Geständnis Ernst Vögelin</title>
                 <date type="coverage"/>
-                
-                
+
+
               </msItem>
             </msContents>
             <physDesc>
@@ -37,32 +72,35 @@
                     <p>Zahl oben rechts, Bleistiftfoliierung modern 1-295</p>
                   </foliation>
                 </supportDesc>
-                
+
               </objectDesc>
-              
+
               <bindingDesc>
                 <p>Pappe</p>
               </bindingDesc>
-              
+
             </physDesc>
             <history>
               <origin>
                 <origDate from="1574-03-17"/>
-                
+
               </origin>
-              
-              
+
+
             </history>
             <additional>
               <listBibl>
-                <bibl>Hund, Johannes: Das Wort ward Fleisch: eine systematisch-theologische Untersuchung zur Debatte um die Wittenberger Christologie und Abendmahlslehre in den Jahren 1567 bis 1574, Göttingen 2006</bibl>
+                <bibl><ref type="opac" cRef="513266941">Hund, Johannes: Das Wort ward Fleisch: eine systematisch-theologische
+                  Untersuchung zur Debatte um die Wittenberger Christologie und Abendmahlslehre in
+                  den Jahren 1567 bis 1574, Göttingen 2006</ref></bibl>
               </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

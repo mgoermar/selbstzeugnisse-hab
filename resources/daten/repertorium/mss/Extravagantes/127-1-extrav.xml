@@ -19,8 +19,8 @@
               <textLang mainLang="fra"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1r" to="80r"/>
-                <author>unbekannt</author>                
-                <title type="uniform">Reisetagebuch Rom</title>
+                <author/>                
+                <title type="uniform">Reisetagebuch eines unbekannten Verfassers</title>
                 <date type="coverage" from="1679-06-29" to="1679"/>
                 <rubric>Relation des Antiquites Romaines en forme de Journal</rubric>
                 
@@ -56,7 +56,11 @@
               </bindingDesc>
               
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>Ende 17. Jhd.</origDate>
+              </origin>
+            </history>
             
           </msPart>
         </msDesc>

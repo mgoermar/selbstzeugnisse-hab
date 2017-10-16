@@ -13,8 +13,8 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Schreibkalender">
                 <locus from="65" to="157"/>
-                <author ref="../../register.xml#Heinrich_BS_LB">Heinrich d. J. zu Braunschweig und Lüneburg</author>
-                <title type="uniform">Haus- und Schreibkalender (1571) von <rs type="person" ref="../../register.xml#Heinrich_BS_LB">Heinrich d. J. zu Braunschweig und Lüneburg</rs></title>
+                <author ref="../../register.xml#Heinrich_BS_LB">Herzog Heinrich d. J. zu Braunschweig und Lüneburg</author>
+                <title type="uniform">Haus- und Schreibkalender Herzog Heinrich d. J. zu Braunschweig und Lüneburg (1571)</title>
                 <date type="coverage" from="1571-01-01" to="1571-12-31"/>
                 <rubric>1517. Gott verlest die seinen nicht. <rs type="person" ref="../../register.xml#Heinrich_BS_LB">Heinrich der Jünger zu Braunschweig und Lüneburgk</rs>.</rubric>
                 
@@ -62,7 +62,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl>Ein zweiter Kalender (1572) Heinrichs d. J. zu Braunschweig-Lüneburg: <ref target="87-8-aug-12.xml">87.8 Aug. 12°</ref>.</bibl>
+                <bibl>Ein zweiter Kalender (1572) Heinrichs d. J. zu Braunschweig-Lüneburg: <ref target="87-8-aug-12.xml">Cod. Guelf. 87.8 Aug. 12°</ref>.</bibl>
               </listBibl>
             </additional>
           </msPart>

@@ -18,7 +18,7 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisebericht</title>
+                <title type="uniform">Reisebericht Pieter Willemsz Verhoeff</title>
                 <date type="coverage" from="1608" to="1608"/>
                 
                 
@@ -50,7 +50,11 @@
               </bindingDesc>
               
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>17. Jhd.</origDate>
+              </origin>
+            </history>
             
           </msPart>
         </msDesc>

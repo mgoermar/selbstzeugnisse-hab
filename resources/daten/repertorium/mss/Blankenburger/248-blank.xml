@@ -1,40 +1,80 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.248-blank.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.248-blank.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>248 Blank., 1 – Persönliche Notizen</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>248 Blank., 1 – Persönliche Notizen</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Blankenburger</collection>
             <idno>248 Blank.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>248 Blank., 1</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>248 Blank., 1</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Im Anschluss an die Chronik des Stifts <rs type="place" ref="../../register.xml#Quedlinburg">Quedlinburg</rs> der Jahre 972-1585 (Ir-65r) befinden sich auf 65v-75v annalistische und persönliche Aufzeichnungen teilweise in Ich-Form verfasst. 
-                Außerdem ist auf Iv ein kurzer Text mit dem folgenden Beginn enthalten: "Bericht wegen <rs type="person">Hansen Holdthuchen</rs>, 
-                welcher ist geschlagen worden hinden in den Kopf...". Auf 1r folgende Zwischenüberschrift: "Merck wohl dießen Reim. 
-                Was der eygen Nütz bringen dein.", auf 2r die "Vorede zum Leser", die mit den Worten beginnt 
-                "Diesen kurtezn Cathalogum oder erzehlung habe ich [...] auff Bitten <rs type="person">M. Cyriaci Spangenbergs</rs> Predigers zu Manßfeltt 
-                [...] aus mannichen Historien zusamen gesucht". Auf 3r "Catalogus abatissarum Quedelburgensium". 
-                Auf 68v Notiz über den Tod am 12.05.1601 von Gräfin <rs type="person" ref="../../register.xml#Anna_zu_Stolberg">Anna zu Stolberg</rs>, 
-                auch <rs type="person" ref="../../register.xml#Anna_zu_Stolberg">Anna III.</rs> 
-                Äbtissin des Stifts <rs type="place" ref="../../register.xml#Quedlinburg">Quedlinburg</rs>; Beginn der persönlicheren tagebuchartigen Aufzeichnungen 
-                auf 68v mit "Anno 1601 habe ich zum ersten mein haushaltunge angefangen"; auf 74r "Anno 1617 Jst so ein warmer und schoner Winter gewesen 
-                Das auf festnacht habe ich violen gebrochen auf der heiligen 3 Konige tagk habe ich 
-                die stiebe vnnd fenster sperre weidt aufgemacht. Vnnd auf dem <unclear>gilschafft</unclear> oder Radthause 
-                im <rs type="place" ref="../../register.xml#Westendorf">westendorff</rs> habe ich daselbst eine butter vogel [Zitronenfalter] im fenster erhaschet 
-                und gezeiget".</summary>
+              <summary>Im Anschluss an die Chronik des Stifts <rs type="place"
+                  ref="../../register.xml#Quedlinburg">Quedlinburg</rs> der Jahre 972-1585 (Ir-65r)
+                befinden sich auf 65v-75v annalistische und persönliche Aufzeichnungen teilweise in
+                Ich-Form verfasst. Außerdem ist auf Iv ein kurzer Text mit dem folgenden Beginn
+                enthalten: "Bericht wegen <rs type="person">Hansen Holdthuchen</rs>, welcher ist
+                geschlagen worden hinden in den Kopf...". Auf 1r folgende Zwischenüberschrift:
+                "Merck wohl dießen Reim. Was der eygen Nütz bringen dein.", auf 2r die "Vorede zum
+                Leser", die mit den Worten beginnt "Diesen kurtezn Cathalogum oder erzehlung habe
+                ich [...] auff Bitten <rs type="person">M. Cyriaci Spangenbergs</rs> Predigers zu
+                Manßfeltt [...] aus mannichen Historien zusamen gesucht". Auf 3r "Catalogus
+                abatissarum Quedelburgensium". Auf 68v Notiz über den Tod am 12.05.1601 von Gräfin
+                  <rs type="person" ref="../../register.xml#Anna_zu_Stolberg">Anna zu Stolberg</rs>,
+                auch <rs type="person" ref="../../register.xml#Anna_zu_Stolberg">Anna III.</rs>
+                Äbtissin des Stifts <rs type="place" ref="../../register.xml#Quedlinburg"
+                  >Quedlinburg</rs>; Beginn der persönlicheren tagebuchartigen Aufzeichnungen auf
+                68v mit "Anno 1601 habe ich zum ersten mein haushaltunge angefangen"; auf 74r "Anno
+                1617 Jst so ein warmer und schoner Winter gewesen Das auf festnacht habe ich violen
+                gebrochen auf der heiligen 3 Konige tagk habe ich die stiebe vnnd fenster sperre
+                weidt aufgemacht. Vnnd auf dem <unclear>gilschafft</unclear> oder Radthause im <rs
+                  type="place" ref="../../register.xml#Westendorf">westendorff</rs> habe ich
+                daselbst eine butter vogel [Zitronenfalter] im fenster erhaschet und
+                gezeiget".</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Notizen">
                 <locus from="1" to="75v"/>
-                <author>unbekannt</author>
+                <author/>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Persönliche Notizen</title>
+                <title type="uniform">Persönliche Notizen eines unbekannten Verfassers</title>
                 <date type="coverage" from="0972" to="1622"/>
-                <rubric>Chronica Abbatissanum Quedlinburgensis von Anbegin des Alten Münsters des ixcxxxvi [1376] Jahres.</rubric>
-                
+                <rubric>Chronica Abbatissanum Quedlinburgensis von Anbegin des Alten Münsters des
+                  ixcxxxvi [1376] Jahres.</rubric>
+
               </msItem>
             </msContents>
             <physDesc>
@@ -56,29 +96,32 @@
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Links Marginalien mit Angaben zu Jahr, Datum, Zwischenüberschriften sowie Quellenangaben. Der Text befindet sich in der rechten Spalte.</p>
+                    <p>Links Marginalien mit Angaben zu Jahr, Datum, Zwischenüberschriften sowie
+                      Quellenangaben. Der Text befindet sich in der rechten Spalte.</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
+
               <bindingDesc>
                 <p>braun-schwarzes Sprenkelpapier.</p>
               </bindingDesc>
-              
+
             </physDesc>
             <history>
-              
+              <origin><origDate>16. Jhd.</origDate></origin>
               <provenance>
-                <p>Im Deckel Exlibris Ludwig Rudolfs: "Ex bibliotheca Ducis Brunsvicensis et Luneburgensis".</p>
+                <p>Im Deckel Exlibris Ludwig Rudolfs: "Ex bibliotheca Ducis Brunsvicensis et
+                  Luneburgensis".</p>
               </provenance>
-              
+
             </history>
-            
+
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

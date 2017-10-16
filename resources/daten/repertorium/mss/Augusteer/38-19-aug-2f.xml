@@ -63,8 +63,8 @@
             </history>
             <additional>
               <listBibl>
-                <bibl>Journaal van de reis van Piet Heyn naar Brazilië en West Afrika, 1624-1625, medegedeeld door Leonardus Maria Akveld, Groningen 1962.<ref type="opac" cRef="396407811"/></bibl>
-                <bibl>De westafrikaanse reis van Piet Heyn, 1624 - 1625, uitg. door K. Ratelband. Met portret, 1 kaart en 2 facs, 's-Gravenhage 1959.<ref type="gbv" cRef="362696985"/></bibl>
+                <bibl><ref type="opac" cRef="396407811">Journaal van de reis van Piet Heyn naar Brazilië en West Afrika, 1624-1625, medegedeeld door Leonardus Maria Akveld, Groningen 1962</ref>.</bibl>
+                <bibl><ref type="gbv" cRef="362696985">De westafrikaanse reis van Piet Heyn, 1624 - 1625, uitg. door K. Ratelband. Met portret, 1 kaart en 2 facs, 's-Gravenhage 1959</ref>.</bibl>
               </listBibl>
             </additional>
           </msPart>

@@ -18,7 +18,7 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisebericht Hans Georg Peyerle Moskau</title>
+                <title type="uniform">Reisebericht Hans Georg Peyerle</title>
                 <date type="coverage" from="1606-03-19" to="1608-12-15"/>
                 <rubric>Beschreibung der Moscouittischen Rayß. welche Ich Hannß Georg Peyrle. vonn Augspurg mitt herrn Andreasen Nathan, vnd Mathia Bernhardt Manlichen dem Jüngeren. Ady. 19. Marty Ao 1606. von Crachaw auß, angefangen, vnd was wir warhaftiges gehört, gesechen vnd erfahren, alles auffs khürzest beschriben. bis zue unserer Gott lob wider dahin kunft. den 15. Decembris Anno. 1608.</rubric>
                 
@@ -53,14 +53,18 @@
               </bindingDesc>
               
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>17. Jhd.</origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>
-                <bibl>Vgl. 41 Extravagantes</bibl>
-                <bibl>Journey to Moscow = Beschreibung der moßcouitterischen Rayß, Welche ich Hanns Georg Peyerle von Augspurg mit herrn Andreasen Nathan und Matheo Bernhardt Manlichen dem Jüngern, Ady 19 Marty Ao 1606 von Crachaw aus, angefangen, und was wir wahrhafftiges gehört, gesehen, und erfahren, alles aufs khürzest beschriben, bis zue unserer Gott lob wider dahin ankunft den 15 Decembris Anno 1608, Hans Georg Peyerle, ed., transl. and annot. by G. Edward Orchard, Hamburg 1997<ref type="opac" cRef="233677968"/>.</bibl>
-                <bibl>Dorpater Jahrbücher für Litteratur, Statistik und Kunst, besonders Rußlands, Bd. 2, Leipzig 1834, S. 311<ref type="opac" cRef="130198013"/>.</bibl>
-                <bibl> Adelung, Friedrich von: Kritisch-literärische Übersicht der Reisenden in Russland bis 1700, deren Berichte bekannt sind, Band II, St. Petersburg u. a. 1846, S. 184-198.<ref type="opac" cRef="150294344"/></bibl>
-                <bibl>Mylʹnikov, Aleksandr S.: Handschriftliche Slavica der Herzog August Bibliothek, in: Wolfenbütteler Beiträge: aus den Schätzen der Herzog-August-Bibliothek, Bd. 7., Wiesbaden, 1987, S. 79-114<ref type="opac" cRef="600000583"/>.</bibl>
+                <bibl>Vgl. <rs type="shelfmark">Cod. Guelf. 41 Extrav.</rs></bibl>
+                <bibl><ref type="opac" cRef="233677968">Journey to Moscow = Beschreibung der moßcouitterischen Rayß, Welche ich Hanns Georg Peyerle von Augspurg mit herrn Andreasen Nathan und Matheo Bernhardt Manlichen dem Jüngern, Ady 19 Marty Ao 1606 von Crachaw aus, angefangen, und was wir wahrhafftiges gehört, gesehen, und erfahren, alles aufs khürzest beschriben, bis zue unserer Gott lob wider dahin ankunft den 15 Decembris Anno 1608, Hans Georg Peyerle, ed., transl. and annot. by G. Edward Orchard, Hamburg 1997.</ref></bibl>
+                <bibl><ref type="opac" cRef="130198013">Dorpater Jahrbücher für Litteratur, Statistik und Kunst, besonders Rußlands, Bd. 2, Leipzig 1834</ref>, S. 311.</bibl>
+                <bibl><ref type="opac" cRef="150294344">Adelung, Friedrich von: Kritisch-literärische Übersicht der Reisenden in Russland bis 1700, deren Berichte bekannt sind, Band II, St. Petersburg u. a. 1846</ref>, S. 184-198.</bibl>
+                <bibl><ref type="opac" cRef="600000583">Mylʹnikov, Aleksandr S.: Handschriftliche Slavica der Herzog August Bibliothek, in: Wolfenbütteler Beiträge: aus den Schätzen der Herzog-August-Bibliothek, Bd. 7., Wiesbaden, 1987</ref>, S. 79-114.</bibl>
               </listBibl>
             </additional>
           </msPart>

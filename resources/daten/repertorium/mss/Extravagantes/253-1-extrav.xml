@@ -18,7 +18,7 @@
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="57r" to="119v"/>
                 <author ref="../../register.xml#Christian_Knorr">Christian Knorr von Rosenroth</author>
-                <title type="uniform">Reisebericht <rs type="place" ref="../../register.xml#Netherlands">Niederlande</rs></title>
+                <title type="uniform">Reisebericht Christin Knorr von Rosenroth</title>
                 <date type="coverage" from="1663-04-13"/>
                 
                 
@@ -66,7 +66,7 @@
             </history>
             <additional>
               <listBibl>
-                <bibl>Fuchs, Arnold: Aus dem Itinerarium des Christian Knorr von Rosenroth, [S.l.], [1915].<ref type="opac" cRef="317707515"/></bibl>
+                <bibl><ref type="opac" cRef="317707515">Fuchs, Arnold: Aus dem Itinerarium des Christian Knorr von Rosenroth, [S.l.], [1915]</ref>.</bibl>
               </listBibl>
             </additional>
           </msPart>

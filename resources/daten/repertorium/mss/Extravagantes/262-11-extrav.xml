@@ -13,13 +13,13 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Testament">
                 <locus from="12r" to="24v"/>
-                <author ref="../../register.xml#Johann_Georg_I._Sachsen">Johann Georg I. von Sachsen</author>
+                <author ref="../../register.xml#Johann_Georg_I._Sachsen">Kurfürst Johann Georg I. von Sachsen</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Testament Johann Georg I. von Sachsen</title>
-                <date type="coverage"/>
+                <title type="uniform">Testament Kurfürst Johann Georg I. von Sachsen</title>
+                <date type="coverage">17. Jhd.</date>
                 <rubric>Dispositio Electoralis</rubric>
                 
               </msItem>
@@ -48,7 +48,7 @@
                 <p>Pergament</p>
               </bindingDesc>
               <accMat>
-                <p>Vgl. <ref target="207-5-extrav.xml">207.5 Extrav.</ref></p>
+                <p>Vgl. <rs type="shelfmark">Cod. Guelf. 207.5 Extrav.</rs></p>
               </accMat>
             </physDesc>
             <history>

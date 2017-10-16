@@ -13,8 +13,8 @@
               <textLang mainLang="deu" otherLangs="lat"/>
               <msItem class="../../register.xml#Familienchronik">
                 <locus from="2r" to="36r"/>
-                <author>unbekannt</author>
-                <title type="uniform">Familienchronik Grabner, 1305–1468</title>
+                <author/>
+                <title type="uniform">Familienchronik Grabner</title>
                 <date type="coverage" from="1305" to="1468"/>
                 <rubric>Liber Genealogie familie antique Grabners</rubric>
                 

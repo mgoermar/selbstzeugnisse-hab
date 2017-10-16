@@ -45,7 +45,11 @@
               
               
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate when="1583"></origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>
                 <bibl><ref target="http://diglib.hab.de/edoc/ed000145/start.htm">Norbert Ankenbauer (Hrsg.): Paesi novamente retrovati - Newe unbekanthe landte. Eine digitale Edition früher Entdeckerberichte. Wolfenbüttel 2016.</ref></bibl>

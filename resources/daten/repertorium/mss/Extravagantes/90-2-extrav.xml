@@ -18,7 +18,7 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisebericht</title>                
+                <title type="uniform">Reisebericht Theodor de Bry</title>                
                 <date type="coverage"/>
                 <rubric>Americanische Historie 1564</rubric>
                 
@@ -54,7 +54,9 @@
               
             </physDesc>
             <history>
-              
+              <origin>
+                <origDate>1. Hälfte 17. Jhd.</origDate>
+              </origin>
               <provenance>
                 <p>Lektürevermerk: Pertholt Bohubad 20.06.1608</p>
               </provenance>

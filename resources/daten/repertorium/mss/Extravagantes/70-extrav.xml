@@ -14,7 +14,7 @@
               <msItem class="../../register.xml#Biographie">
                 <locus from="1r" to="264r"/>
                 <author ref="../../register.xml#Georg_Arnold">Georg Arnold</author>
-                <title type="uniform">Lebensbeschreibung zu Moritz von Sachsen</title> 	
+                <title type="uniform">Lebensbeschreibung zu Herzog Moritz von Sachsen</title> 	
                 <date type="coverage" from="1521" to="1553"/>
                 <rubric>Des Durchlauchtigsten Fürsten und Herrn/ Herrn Morizens Hertzogen zu Sachsen/ des Heil: Röm: Reichs Ertzmaschaln und Churfürsten/ LebensBeschreibung/ mit sonderbarem Fleiss zusammen getragen von George Arnolden/ bey der Rechten Doctorn und weyl: cantzlern des Stifts Naumburg.</rubric>
                 
@@ -39,7 +39,7 @@
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Linker Steg auf jeder Seite breiter als die anderen, enthält Marginalien als Zwischenüberschirften</p>
+                    <p>Linker Steg auf jeder Seite breiter als die anderen, enthält Marginalien als Zwischenüberschriften</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
@@ -49,7 +49,11 @@
               </bindingDesc>
               
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>17. Jhd.</origDate>
+              </origin>
+            </history>
             
           </msPart>
         </msDesc>

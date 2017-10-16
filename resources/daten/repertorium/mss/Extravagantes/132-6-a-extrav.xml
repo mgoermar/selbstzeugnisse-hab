@@ -1,31 +1,71 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.132-6-a-extrav.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.132-6-a-extrav.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>132.6.a Extrav., 1 – Reisetagebuch</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>132.6.a Extrav., 1 – Reisetagebuch</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>132.6.a Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>132.6.a Extrav., 1</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>132.6.a Extrav., 1</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Das Reisetagebuch behandelt die im königlichen Auftrag von <rs type="person" ref="../../register.xml#Pierre_Louis_Moreau_de_Maupertuis">Pierre Louis Moreau de Maupertuis</rs> durchgeführte Expedition nach
-                <rs type="place" ref="../../register.xml#Lappland">Lappland</rs> in den Jahren 1736/37. Ob es sich um das von <rs type="person" ref="../../register.xml#Pierre_Louis_Moreau_de_Maupertuis">Pierre Louis Moreau de Maupertuis</rs> 
-                autograph verfasste Exemplar handelt, kann nicht abschließend festgestellt werden. Das Schriftbild ist sehr klar, da es keine Entstehungsvarianten gibt, vermutlich handelt es sich daher um eine Reinschrift oder Abschrift, Seiten 181-185 sind leer. 
-                Es sind verschiedene Vorlagen hierfür denkbar: Maupertuis, Pierre Louis Moreau de: The figure of the earth, determined from observations made by order of the French King, at the polar circle, London 1738; 
-                Outhier, Par M.: Journal D'Un Voyage Au Nord. En 1736/37, Enrichi de figures en taille-douce, Amsterdam 1746.</summary>
+              <summary>Das Reisetagebuch behandelt die im königlichen Auftrag von <rs type="person"
+                  ref="../../register.xml#Pierre_Louis_Moreau_de_Maupertuis">Pierre Louis Moreau de
+                  Maupertuis</rs> durchgeführte Expedition nach <rs type="place"
+                  ref="../../register.xml#Lappland">Lappland</rs> in den Jahren 1736/37. Ob es sich
+                um das von <rs type="person"
+                  ref="../../register.xml#Pierre_Louis_Moreau_de_Maupertuis">Pierre Louis Moreau de
+                  Maupertuis</rs> autograph verfasste Exemplar handelt, kann nicht abschließend
+                festgestellt werden. Das Schriftbild ist sehr klar, da es keine Entstehungsvarianten
+                gibt, vermutlich handelt es sich daher um eine Reinschrift oder Abschrift, Seiten
+                181-185 sind leer. Es sind verschiedene Vorlagen hierfür denkbar: Maupertuis, Pierre
+                Louis Moreau de: The figure of the earth, determined from observations made by order
+                of the French King, at the polar circle, London 1738; Outhier, Par M.: Journal D'Un
+                Voyage Au Nord. En 1736/37, Enrichi de figures en taille-douce, Amsterdam
+                1746.</summary>
               <textLang mainLang="fra"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1" to="180"/>
-                <author>unbekannt</author>
+                <author>Pierre Louis Moreau de Maupertuis (?)</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisetagebuch</title>
+                <title type="uniform">Reisetagebuch Pierre Louis Moreau de Maupertuis (?)</title>
                 <date type="coverage" from="1736-07-06" to="1737-06-12"/>
-                
-                
+
+
               </msItem>
             </msContents>
             <physDesc>
@@ -42,7 +82,8 @@
                     </dimensions>
                   </extent>
                   <foliation>
-                    <p>Zahl oben rechts auf jeder Seite, original mit Tinte 1-180, Bleistiftfoliierung modern 181-185.</p>
+                    <p>Zahl oben rechts auf jeder Seite, original mit Tinte 1-180,
+                      Bleistiftfoliierung modern 181-185.</p>
                   </foliation>
                 </supportDesc>
                 <layoutDesc>
@@ -51,28 +92,39 @@
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
-              
+
+
               <bindingDesc>
                 <p>Farbiges Papier mit Blumenmuster.</p>
               </bindingDesc>
               <accMat>
-                <p>Titel auf dem Deckel: "Journal, von der Reise nach Laplandt, des Herrn von Mopertui [...].", von einer weiteren Hand ergäntzt: "Maupertuis"</p>
+                <p>Titel auf dem Deckel: "Journal, von der Reise nach Laplandt, des Herrn von
+                  Mopertui [...].", von einer weiteren Hand ergäntzt: "Maupertuis"</p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>18. Jhd.</origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>
-                <bibl>Maupertuis, Pierre Louis Moreau de: The figure of the earth, determined from observations made by order of the French King, at the polar circle, London 1738<ref type="gbv" cRef="18748354X"/></bibl>
-                <bibl>Outhier, Par M.: Journal D'Un Voyage Au Nord. En 1736/ 1737, Enrichi de figures en taille-douce, Amsterdam 1746<ref type="gbv" cRef="278777813"/></bibl>
-                <bibl>Wagner, Florian: Die Entdeckung Lapplands. Die Forschungsreisen Carl von Linnés und Pierre Louis Moreau de Maupertuis' in den 1730er Jahren, Norderstedt 2004 <ref type="gbv" cRef="386629862"/></bibl>
+                <bibl><ref type="gbv" cRef="18748354X">Maupertuis, Pierre Louis Moreau de: The figure of the earth, determined from
+                  observations made by order of the French King, at the polar circle, London
+                  1738</ref></bibl>
+                <bibl><ref type="gbv" cRef="278777813">Outhier, Par M.: Journal D'Un Voyage Au Nord. En 1736/ 1737, Enrichi de
+                  figures en taille-douce, Amsterdam 1746</ref></bibl>
+                <bibl><ref type="gbv" cRef="386629862">Wagner, Florian: Die Entdeckung Lapplands. Die Forschungsreisen Carl von
+                  Linnés und Pierre Louis Moreau de Maupertuis' in den 1730er Jahren, Norderstedt
+                  2004</ref></bibl>
               </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

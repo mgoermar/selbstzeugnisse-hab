@@ -55,10 +55,14 @@
                 <p>Auf 203r-250v befindet sich ebenfalls ein Pilgerbericht von Hans Tucher.</p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>15.-16. Jhd.</origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>
-                <bibl>Vgl. 44.11 Aug 2°</bibl>
+                <bibl>Vgl. <rs type="shelfmark">Cod. Guelf. 44.11 Aug 2°</rs></bibl>
               </listBibl>
             </additional>
           </msPart>

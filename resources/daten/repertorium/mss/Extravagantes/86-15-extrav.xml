@@ -16,7 +16,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1r" to="62r"/>
-                <author>unbekannt</author>
+                <author/>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
@@ -59,7 +59,9 @@
               
             </physDesc>
             <history>
-              
+              <origin>
+                <origDate>1. Hälfte 18. Jhd.</origDate>
+              </origin>
               <provenance>
                 <p>Im Spiegel befindet sich das Wappen von Gottfried Leonhard Baudis.</p>
               </provenance>

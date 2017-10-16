@@ -18,7 +18,7 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Reisetagebuch</title>
+                <title type="uniform">Reisetagebuch Hans Dernschwam</title>
                 <date type="coverage" from="1553-06-22" to="1555-08-11"/>
                 <rubric>Peregrinatio Dorensuuam.</rubric>
                 
@@ -54,10 +54,14 @@
                 <p>Pergament, zwei Buchbandschließen</p>
               </bindingDesc>
               <accMat>
-                <p>Weitere Abschrift, mit dieser fast identisch 77.1 Aug. 2°</p>
+                <p>Weitere Abschrift, mit dieser fast identisch <rs type="shelfmark">Cod. Guelf. 77.1 Aug. 2°</rs></p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>17. Jhd.</origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>
                 <bibl>Hattenhauer, Hans: Ein Fugger-Kaufmann im Osmanischen Reich: Bericht von einer Reise nach Konstantinopel und Kleinasien 1553 - 1555, von Hans Dernschwam. Mit einem epigraphischen Anh. von Patrick Breternitz und Werner Eck. Ins heutige Dt. übertr. und neu hrsg. von Hans Hattenhauer und Uwe Bake, Frankfurt am Main 2012.</bibl>

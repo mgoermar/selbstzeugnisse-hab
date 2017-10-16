@@ -15,7 +15,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="75r" to="76r"/>
-                <author>unbekannt</author>
+                <author/>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>

@@ -1,23 +1,56 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.253-6-extrav.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.253-6-extrav.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>253.6 Extrav., 1 – Tagebuch Leonhard Baudis der Ältere</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>253.6 Extrav., 1 – Tagebuch Leonhard Baudis der Ältere</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>253.6 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>253.6 Extrav., 1</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>253.6 Extrav., 1</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Tagebuch der Jahre 1701-1703. Es werden hauptsächlich Ereignisse der Orte Halle und Breslau beschrieben.</summary>
+              <summary>Tagebuch der Jahre 1701-1703. Es werden hauptsächlich Ereignisse der Orte
+                Halle und Breslau beschrieben.</summary>
               <textLang mainLang="deu" otherLangs="lat"/>
               <msItem class="../../register.xml#Tagebuch">
                 <locus from="1" to="119"/>
-                <author ref="../../register.xml#Gottfried_Leonhard_Baudis">Leonhard Baudis der Ältere</author>
-                <title type="uniform">Tagebuch Leonhard Baudis der Ältere</title>
+                <author ref="../../register.xml#Gottfried_Leonhard_Baudis">Leonhard Baudis der
+                  Ältere</author>
+                <title type="uniform">Tagebuch Leonhard Baudis d. Ä.</title>
                 <date type="coverage" from="1701" to="1703"/>
                 <rubric>Diarium. Sovotredi Leonhardi Baudirii Cignicensis Silefii.</rubric>
-                
+
               </msItem>
             </msContents>
             <physDesc>
@@ -34,40 +67,45 @@
                     </dimensions>
                   </extent>
                   <foliation>
-                    <p>Zahl oben rechts, original auf jeder Seite 1-119, Bleistiftfoliierung modern 507r-572</p>
+                    <p>Zahl oben rechts, original auf jeder Seite 1-119, Bleistiftfoliierung modern
+                      507r-572</p>
                   </foliation>
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Linker Steg und Fußsteg auf jeder Seite breiter als die anderen. Der Text ist gegenläufig zu anderen Texten (laut Wolf-Dieter Otte (Die neueren Handschriften der Gruppe Extravagantes, beschrieben von <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>, 
-                      Teil 3, 220.1 Extrav.-317 Extrav., Frankfurt am Main 1993) Auszüge aus einem Reisetagebuch von Gottlieb Stolle) vom Ende des Buches aus notiert worden</p>
+                    <p>Linker Steg und Fußsteg auf jeder Seite breiter als die anderen. Der Text ist
+                      gegenläufig zu anderen Texten (laut Wolf-Dieter Otte (Wolf Dieter Otte: Die
+                      neueren Handschriften der Gruppe Extravagantes, Teil 3, Frankfurt am Main
+                      1993) Auszüge aus einem Reisetagebuch von Gottlieb Stolle) vom Ende des Buches
+                      aus notiert worden</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
+
               <bindingDesc>
                 <p>Leder</p>
               </bindingDesc>
-              
+
             </physDesc>
             <history>
               <origin>
                 <origDate from="1701" to="1703"/>
                 <origPlace>Halle</origPlace>
               </origin>
-              
-              
+
+
             </history>
             <additional>
               <listBibl>
-                <bibl>Vgl. <ref target="289-1-extrav.xml">289.1 Extravagantes</ref></bibl>
+                <bibl>Vgl. <rs type="shelfmark">Cod. Guelf. 289.1 Extrav.</rs></bibl>
               </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

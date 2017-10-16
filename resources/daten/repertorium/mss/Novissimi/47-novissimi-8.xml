@@ -1,24 +1,58 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.47-novissimi-8.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.47-novissimi-8.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>47 Noviss. 8°, 1r – Schreibkalender 1650</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>47 Noviss. 8°, 1r – Schreibkalender 1650</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Novissimi</collection>
             <idno>47 Noviss. 8°</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>47 Noviss. 8°, 1r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>47 Noviss. 8°, 1r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Gedruckter Kalender des Jahres 1650 mit handschriftlichen Eintragungen zu Orten. In der rechten, größeren Spalte sind in alphabetischer Reihenfolge Orte 
+              <summary>Gedruckter Kalender des Jahres 1650 mit handschriftlichen Eintragungen zu
+                Orten. In der rechten, größeren Spalte sind in alphabetischer Reihenfolge Orte
                 aufgelistet. Insgesamt wiederholt sich das Alphabet dreimal.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Schreibkalender">
                 <locus from="1r" to="27v"/>
-                <author ref="../../register.xml#August_Juengere">August der Jüngere zu Braunschweig-Lüneburg-Wolfenbüttel</author>
-                <title type="uniform">Schreibkalender 1650</title>
+                <author ref="../../register.xml#August_Juengere">Herzog August der Jüngere zu
+                  Braunschweig und Lüneburg</author>
+                <title type="uniform">Schreibkalender Herzog August der Jüngere zu Braunschweig und
+                  Lüneburg</title>
                 <date type="coverage" from="1650-01-01" to="1650-12-31"/>
-                
-                
+
+
               </msItem>
             </msContents>
             <physDesc>
@@ -35,38 +69,46 @@
                     </dimensions>
                   </extent>
                   <foliation>
-                    <p>Zahl zentriert am Außensteg, original 1-43. Zahl oben rechts, Bleistiftfoliierung modern 1-43, .</p>
+                    <p>Zahl zentriert am Außensteg, original 1-43. Zahl oben rechts,
+                      Bleistiftfoliierung modern 1-43, .</p>
                   </foliation>
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Die Seiten sind in Zeilen und zwei Spalten eingeteilt. Die oberste Zeile geht über die ganze Seite und enthält den Monatsnamen. Die linke kleinere Spalte enthält den Tag, das Datum sowie Namenstage und Geburts- und Todesdaten bekannter Personen.</p>
+                    <p>Die Seiten sind in Zeilen und zwei Spalten eingeteilt. Die oberste Zeile geht
+                      über die ganze Seite und enthält den Monatsnamen. Die linke kleinere Spalte
+                      enthält den Tag, das Datum sowie Namenstage und Geburts- und Todesdaten
+                      bekannter Personen.</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
-              
+
+
               <bindingDesc>
                 <p>Mappe aus Pappe, Originaleinband fehlt.</p>
               </bindingDesc>
               <accMat>
-                <p>Auf 28-39 im Anschluss an den Kalender folgt ein "Groß Prognosticon" auf das Jahr 1650. Druck durch "Rudolphi Buchbachen Medic. Doctorandi und Astronomi, Leipzig". Auf 40-43 ist ein "Verzeichnis etlicher Kram= Viehe= Pferde= und Flachs= Märckte" vermerkt</p>
+                <p>Auf 28-39 im Anschluss an den Kalender folgt ein "Groß Prognosticon" auf das Jahr
+                  1650. Druck durch "Rudolphi Buchbachen Medic. Doctorandi und Astronomi, Leipzig".
+                  Auf 40-43 ist ein "Verzeichnis etlicher Kram= Viehe= Pferde= und Flachs= Märckte"
+                  vermerkt</p>
               </accMat>
             </physDesc>
             <history>
               <origin>
                 <origDate from="1650" to="1650"/>
-                
+
               </origin>
-              
-              
+
+
             </history>
-            
+
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

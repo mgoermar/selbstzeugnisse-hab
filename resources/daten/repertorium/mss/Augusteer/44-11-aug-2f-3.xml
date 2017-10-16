@@ -1,15 +1,48 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.44-11-aug-2f-3.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.44-11-aug-2f-3.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>44.11 Aug. 2°, 322v – Pilgerbericht Daniel Ecklin</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>44.11 Aug. 2°, 322v – Pilgerbericht Daniel Ecklin</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Augusteer in Folio</collection>
             <idno>44.11 Aug. 2°</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>44.11 Aug. 2°, 322v</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>44.11 Aug. 2°, 322v</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Abschrift des Pilgerberichtes und eines knappen Lebenslaufes von <rs type="person" ref="../../register.xml#Daniel_Ecklin">Daniel Ecklin</rs> aus Aarau. Verfasst in Ich-Form.</summary>
+              <summary>Abschrift des Pilgerberichtes und eines knappen Lebenslaufes von <rs
+                  type="person" ref="../../register.xml#Daniel_Ecklin">Daniel Ecklin</rs> aus Aarau.
+                Verfasst in Ich-Form.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Pilgerbericht">
                 <locus from="322v" to="353"/>
@@ -20,8 +53,11 @@
                 </respStmt>
                 <title type="uniform">Pilgerbericht Daniel Ecklin</title>
                 <date type="coverage" from="1532" to="1563"/>
-                <rubric>Folget die dritte Rayse eines Schweyzers Daniel Ecklins von Arow. Vom Jme selber beschrieben aber nach seinem Todt durch sein schwager Hans Huldrich Ragor in Truck verfertigen vnd herrn Samuel Mayern, schulthaussen zu arow dedicier Anno 1574.</rubric>
-                
+                <rubric>Folget die dritte Rayse eines Schweyzers Daniel Ecklins von Arow. Vom Jme
+                  selber beschrieben aber nach seinem Todt durch sein schwager Hans Huldrich Ragor
+                  in Truck verfertigen vnd herrn Samuel Mayern, schulthaussen zu arow dedicier Anno
+                  1574.</rubric>
+
               </msItem>
             </msContents>
             <physDesc>
@@ -38,7 +74,8 @@
                     </dimensions>
                   </extent>
                   <foliation>
-                    <p>Zahl oben rechts original mit Tinte. Zahl unten rechts, Bleistiftfoliierung modern, nicht durchgehend gezählt.</p>
+                    <p>Zahl oben rechts original mit Tinte. Zahl unten rechts, Bleistiftfoliierung
+                      modern, nicht durchgehend gezählt.</p>
                   </foliation>
                 </supportDesc>
                 <layoutDesc>
@@ -47,25 +84,36 @@
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
+
               <bindingDesc>
                 <p>Pergamentdoppelblatt</p>
               </bindingDesc>
               <accMat>
-                <p>In der Handschrift 44.11 Aug 2° befinden sich von der selben Hand weitere Abschriften von Reisebeschreibungen: <ref target="44-11-aug-2f-1.xml">44.11 Aug 2° - 1</ref>, <ref target="44-11-aug-2f-2.xml">44.11 Aug 2° - 2</ref>, <ref target="44-11-aug-2f-4.xml">44.11 Aug 2° - 4</ref> und <ref target="44-11-aug-2f-5.xml">44.11 Aug 2° - 5</ref>.</p>
+                <p>In der Handschrift <rs type="shelfmark">Cod. Guelf. 44.11 Aug 2°</rs> befinden sich von der selben Hand weitere
+                  Abschriften von Reisebeschreibungen: <ref target="44-11-aug-2f-1.xml">Cod. Guelf. 44.11 Aug 2°
+                    - 1</ref>, <ref target="44-11-aug-2f-2.xml">Cod. Guelf. 44.11 Aug 2° - 2</ref>, <ref
+                      target="44-11-aug-2f-4.xml">Cod. Guelf. 44.11 Aug 2° - 4</ref> und <ref
+                        target="44-11-aug-2f-5.xml">Cod. Guelf. 44.11 Aug 2° - 5</ref>.</p>
               </accMat>
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>17. Jhd. </origDate>
+              </origin>
+            </history>
             <additional>
               <listBibl>
-                <bibl><ref target="http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN832065536">Druck als Digitalisat</ref></bibl>
+                <bibl><ref
+                  target="http://resolver.staatsbibliothek-berlin.de/SBB0001A8F500000000"
+                    >Druck als Digitalisat</ref></bibl>
               </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

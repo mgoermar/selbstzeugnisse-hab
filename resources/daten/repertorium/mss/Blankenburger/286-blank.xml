@@ -13,8 +13,8 @@
               <textLang mainLang="deu" otherLangs="fra"/>
               <msItem class="../../register.xml#Tagebuch">
                 <locus from="1" to="203"/>
-                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
-                <title type="uniform">Tagebuch <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs> 1712-1724</title>
+                <author ref="../../register.xml#Ludwig_Rudolf_BS_WF">Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel</author>
+                <title type="uniform">Tagebuch <rs type="person" ref="../../register.xml#Ludwig_Rudolf_BS_WF">Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel</rs> 1712-1724</title>
                 <date type="coverage" from="1712-01-19" to="1724-06-26"/>
                 <rubric>Allerhand Sachen so ich mir aufzeichnen wollen und angefangen in Münnichsrode so ein Oetingisches dorf d. 19. Jan. 1712. Ludewig Rudolff HZBUL</rubric>
                 

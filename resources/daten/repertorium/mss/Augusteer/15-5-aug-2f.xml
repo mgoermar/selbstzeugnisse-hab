@@ -14,7 +14,7 @@
               <msItem class="../../register.xml#Testament">
                 <locus from="412r" to="414v"/>
                 <author>unbekannt</author>
-                <title type="uniform">Testament</title>
+                <title type="uniform">Testament eines unbekannten Verfassers</title>
                 <date type="coverage"/>
                 
                 
@@ -49,7 +49,11 @@
               </bindingDesc>
               
             </physDesc>
-            
+            <history>
+              <origin>
+                <origDate>Ende 16./ Anfang 17. Jhd.</origDate>
+              </origin>
+            </history>
             
           </msPart>
         </msDesc>

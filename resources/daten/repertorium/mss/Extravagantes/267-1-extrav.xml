@@ -1,40 +1,102 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.267-1-extrav.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.267-1-extrav.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>267.1 Extrav., 1r – Reisetagebuch 1652-1659</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>267.1 Extrav., 1r – Reisetagebuch 1652-1659</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>267.1 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>267.1 Extrav., 1r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>267.1 Extrav., 1r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>In Ich-From verfasstes Reisetagebuch eines Apothekers <rs type="person" ref="../../register.xml#Wagener">Wagener</rs>. Er reist in den Jahren 1652-1659, unter anderem ab dem 29.07.1658 mit 
-                Herzog <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_I.">Ferdinand Albrecht I. zu Braunschweig und Lüneburg</rs>, durch <rs type="place" ref="../../register.xml#Deutschland">Deutschland</rs> und 
-                <rs type="place" ref="../../register.xml#Europa">Europa</rs>. Auf dem Titelblatt gibt ein kurzes Inhaltsverzeichnis Auskunft über die Route: 
-                "Von <rs type="place" ref="../../register.xml#Wolfenbuettel">Wolfenbüttel</rs> biß <rs type="place" ref="../../register.xml#Frankfurt_am_Main">Frankfurt</rs> 36, von <rs type="place" ref="../../register.xml#Frankfurt_am_Main">Frankfurt</rs> 
-                biß <rs type="place" ref="../../register.xml#Strassburg">Straßburg</rs> 28, von <rs type="place" ref="../../register.xml#Strassburg">Straßburg</rs> biß <rs type="place" ref="../../register.xml#Basel">Basel</rs> 15, 
-                von <rs type="place" ref="../../register.xml#Basel">Basel</rs> biß <rs type="place" ref="../../register.xml#Lyon">Lyon</rs> 36, von <rs type="place" ref="../../register.xml#Lyon">Lyon</rs> biß 
-                <rs type="place" ref="../../register.xml#Roanne">Roon</rs> 12, 
-                von <rs type="place" ref="../../register.xml#Roanne">Roon</rs> biß <rs type="place" ref="../../register.xml#Orleans">Orleans</rs> 71". Wagner beginnt seine Reise in Begleitung des Barbiergesellen <rs type="person">Johann Bollen</rs>
-                und startet mit einem Besuch in seiner Heimat <rs type="place" ref="../../register.xml#Itzehoe">Itzehoe</rs>, um sich dort "von den lieben Meinige" zu verabschieden. 
-                Er begleitet den Herzog ab <rs type="place" ref="../../register.xml#England">Frankfurt</rs> aus, dieser beauftragt ihn, Abschriften von Gebäudeinschriften vorzunehmen (27v). 
-                Reiseziele sind unter anderem auch <rs type="place" ref="../../register.xml#England">Bern</rs>, <rs type="place" ref="../../register.xml#England">Lyon</rs>, <rs type="place" ref="../../register.xml#England">Danzig</rs>, <rs type="place" ref="../../register.xml#England">Königsberg</rs>. 
-                Er besichtigt die allgemeinen Sehenswürdigkeiten und auch Bibliotheken und Bücher wecken sein Interesse, so in der Bibliothek des Schloss vor <rs type="place" ref="../../register.xml#England">Husum</rs> (Residenz des herzoglichen Hauses Schleswig-Holstein-Gottorf): "NB. Unter denen vornehmen Büchern war auch eine alte Bibell, die vor 300 Jahren gedruckt
-                und eine von den ersten so in deutscher niedersächsischer Sprache versetzt" (eingehefteter Zettel zwischen 11v und 12r). Auch die Herzog August Bilbiothek wird 
-                beschrieben: 17r: "Alhier residiret der älteste und gelahrteste Fürst <rs type="person" ref="../../register.xml#August_Juengere">Augustus, Hertzog zu Braunschweig und Lüneburg</rs>, welcher alda eine so schöne Bibliotheca hat, 
-                dergleichen man nicht schöner, und größere Quantität von büchern in einer Bibliotheca in gantz Teutschland finden wird, maßen in allen Faculteten Bücher drinnen vorhanden 
-                auch dieses Jahr er noch vor 25000 Rthl. geschriebene auß Franckreich bekommen welche alle in Gülden Leder gebunden waren.". Das Tagebuch endet mitten auf der Seite. 
-                Eine ausfürhlichere inhaltliche Ausführung bei: Otto von Hahne: Erlebnisse des Apothekers Wagener auf seinen Wanderjahren und in Begleitung des 
-                Herzogs <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_I.">Ferdinand Albrechts I. zu Braunschweig und Lüneburg</rs> (1652-1659), in: Braunschweigisches Magazin 33 (1927), Sp. 81-94.</summary>
+              <summary>In Ich-From verfasstes Reisetagebuch eines Apothekers <rs type="person"
+                  ref="../../register.xml#Wagener">Wagener</rs>. Er reist in den Jahren 1652-1659,
+                unter anderem ab dem 29.07.1658 mit Herzog <rs type="person"
+                  ref="../../register.xml#Ferdinand_Albrecht_I.">Ferdinand Albrecht I. zu
+                  Braunschweig und Lüneburg</rs>, durch <rs type="place"
+                  ref="../../register.xml#Deutschland">Deutschland</rs> und <rs type="place"
+                  ref="../../register.xml#Europa">Europa</rs>. Auf dem Titelblatt gibt ein kurzes
+                Inhaltsverzeichnis Auskunft über die Route: "Von <rs type="place"
+                  ref="../../register.xml#Wolfenbuettel">Wolfenbüttel</rs> biß <rs type="place"
+                  ref="../../register.xml#Frankfurt_am_Main">Frankfurt</rs> 36, von <rs type="place"
+                  ref="../../register.xml#Frankfurt_am_Main">Frankfurt</rs> biß <rs type="place"
+                  ref="../../register.xml#Strassburg">Straßburg</rs> 28, von <rs type="place"
+                  ref="../../register.xml#Strassburg">Straßburg</rs> biß <rs type="place"
+                  ref="../../register.xml#Basel">Basel</rs> 15, von <rs type="place"
+                  ref="../../register.xml#Basel">Basel</rs> biß <rs type="place"
+                  ref="../../register.xml#Lyon">Lyon</rs> 36, von <rs type="place"
+                  ref="../../register.xml#Lyon">Lyon</rs> biß <rs type="place"
+                  ref="../../register.xml#Roanne">Roon</rs> 12, von <rs type="place"
+                  ref="../../register.xml#Roanne">Roon</rs> biß <rs type="place"
+                  ref="../../register.xml#Orleans">Orleans</rs> 71". Wagner beginnt seine Reise in
+                Begleitung des Barbiergesellen <rs type="person">Johann Bollen</rs> und startet mit
+                einem Besuch in seiner Heimat <rs type="place" ref="../../register.xml#Itzehoe"
+                  >Itzehoe</rs>, um sich dort "von den lieben Meinige" zu verabschieden. Er
+                begleitet den Herzog ab <rs type="place" ref="../../register.xml#England"
+                  >Frankfurt</rs> aus, dieser beauftragt ihn, Abschriften von Gebäudeinschriften
+                vorzunehmen (27v). Reiseziele sind unter anderem auch <rs type="place"
+                  ref="../../register.xml#England">Bern</rs>, <rs type="place"
+                  ref="../../register.xml#England">Lyon</rs>, <rs type="place"
+                  ref="../../register.xml#England">Danzig</rs>, <rs type="place"
+                  ref="../../register.xml#England">Königsberg</rs>. Er besichtigt die allgemeinen
+                Sehenswürdigkeiten und auch Bibliotheken und Bücher wecken sein Interesse, so in der
+                Bibliothek des Schloss vor <rs type="place" ref="../../register.xml#England"
+                  >Husum</rs> (Residenz des herzoglichen Hauses Schleswig-Holstein-Gottorf): "NB.
+                Unter denen vornehmen Büchern war auch eine alte Bibell, die vor 300 Jahren gedruckt
+                und eine von den ersten so in deutscher niedersächsischer Sprache versetzt"
+                (eingehefteter Zettel zwischen 11v und 12r). Auch die Herzog August Bilbiothek wird
+                beschrieben: 17r: "Alhier residiret der älteste und gelahrteste Fürst <rs
+                  type="person" ref="../../register.xml#August_Juengere">Augustus, Hertzog zu
+                  Braunschweig und Lüneburg</rs>, welcher alda eine so schöne Bibliotheca hat,
+                dergleichen man nicht schöner, und größere Quantität von büchern in einer
+                Bibliotheca in gantz Teutschland finden wird, maßen in allen Faculteten Bücher
+                drinnen vorhanden auch dieses Jahr er noch vor 25000 Rthl. geschriebene auß
+                Franckreich bekommen welche alle in Gülden Leder gebunden waren.". Das Tagebuch
+                endet mitten auf der Seite. Eine ausfürhlichere inhaltliche Ausführung bei: Otto von
+                Hahne: Erlebnisse des Apothekers Wagener auf seinen Wanderjahren und in Begleitung
+                des Herzogs <rs type="person" ref="../../register.xml#Ferdinand_Albrecht_I."
+                  >Ferdinand Albrechts I. zu Braunschweig und Lüneburg</rs> (1652-1659), in:
+                Braunschweigisches Magazin 33 (1927), Sp. 81-94.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1r" to="58v"/>
                 <author ref="../../register.xml#Wagener">Wagener</author>
-                <title type="uniform">Reisetagebuch 1652-1659</title>
+                <title type="uniform">Reisetagebuch Wagener</title>
                 <date type="coverage" from="1652-03-24" to="1659-01-13"/>
-                <rubric>Tout avec Dieu. Kurtze verzeichung meiner geringen Reise angefangen Anno 1652.</rubric>
-                
+                <rubric>Tout avec Dieu. Kurtze verzeichung meiner geringen Reise angefangen Anno
+                  1652.</rubric>
+
               </msItem>
             </msContents>
             <physDesc>
@@ -56,35 +118,46 @@
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Jede Seite ist ganzflächig beschrieben. Hinten wurden einige Seiten herausgeschnitten.</p>
+                    <p>Jede Seite ist ganzflächig beschrieben. Hinten wurden einige Seiten
+                      herausgeschnitten.</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
-              
+
+
               <bindingDesc>
                 <p>Rosa marmorierter Pappeinband.</p>
               </bindingDesc>
-              
+
             </physDesc>
             <history>
               <origin>
                 <origDate from="1652-03-24" to="1659-01-13"/>
-                
+
               </origin>
-              
-              
+
+
             </history>
             <additional>
               <listBibl>
-                <bibl>Schwarz, Gunnar-Werner: Zur Entwicklung des Apothekerberufs und der Ausbildung des Apothekers vom Mittelalter bis zur Gegenwart: eine Studie zur Geschichte des Apothekerberufs von den Anfängen im Islam bis zur allgemeinen Verbreitung in Europa im 15.Jh. und zur fachlichen Ausbildung unter besonderer Berücksichtigung des deutschsprachigen Raums, Frankfurt a.M., 1976; Hahne, Otto von: Erlebnisse des Apothekers Wagener auf seinen Wanderjahren und in Begleitung des Herzogs Ferdinand Albrechts I. zu Braunschweig und Lüneburg (1652-1659), in: Braunschweigisches Magazin 33 (1927), Sp. 81-94; Hahne, Otto von: Die Reisen des Apothekers Wagener aus Itzehoe 1652-1659, in: Pharmazeutische Zeitung 72 (1927), S. 951-952. <ref type="opac" cRef="311763979"/></bibl>
+                <bibl><ref type="gbv" cRef="425506320">Schwarz, Gunnar-Werner: Zur Entwicklung des Apothekerberufs und der Ausbildung
+                  des Apothekers vom Mittelalter bis zur Gegenwart: eine Studie zur Geschichte des
+                  Apothekerberufs von den Anfängen im Islam bis zur allgemeinen Verbreitung in
+                  Europa im 15.Jh. und zur fachlichen Ausbildung unter besonderer Berücksichtigung
+                  des deutschsprachigen Raums, Frankfurt a.M., 1976</ref></bibl>
+                <bibl><ref type="opac" cRef="361156561">Hahne, Otto von: Erlebnisse des Apothekers Wagener auf seinen Wanderjahren und in Begleitung des Herzogs Ferdinand
+                  Albrechts I. zu Braunschweig und Lüneburg (1652-1659), in: Braunschweigisches
+                  Magazin 33 (1927), Sp. 81-94</ref></bibl>
+                <bibl><ref type="opac" cRef="311763979">Hahne, Otto von: Die Reisen des Apothekers Wagener
+                  aus Itzehoe 1652-1659, in: Pharmazeutische Zeitung 72 (1927), S. 951-952.</ref> </bibl>
               </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

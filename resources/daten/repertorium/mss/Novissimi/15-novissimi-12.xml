@@ -17,8 +17,8 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Schreibkalender">
                 <locus from="1r" to="185"/>
-                <author>unbekannt</author>
-                <title type="uniform">Schreibkalender 1672</title>
+                <author/>
+                <title type="uniform">Schreibkalender 1672 eines unbekannten Verfassers</title>
                 <date type="coverage" from="1452" to="1718"/>
                 <rubric>Schreibkalender Auff das Schalt-Jahr nach Christi Geburt 1672.</rubric>
                 

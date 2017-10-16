@@ -1,23 +1,57 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.64-24-extrav-1.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.64-24-extrav-1.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>64.24 Extrav., 172r – Testament</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>64.24 Extrav., 172r – Testament</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Extravagantes</collection>
             <idno>64.24 Extrav.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>64.24 Extrav., 172r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>64.24 Extrav., 172r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>In Wir-Form verfasstes Testament bzw. letzter Wille von <rs type="person" ref="../../register.xml#Ursula_v_SL">Ursula von Sachsen-Lauenburg</rs>, unterzeichnet mit "ursula meine hand und letzter wille.". Enthält die Aufzählung des Besitzes und dessen Verteilung.</summary>
+              <summary>In Wir-Form verfasstes Testament bzw. letzter Wille von <rs type="person"
+                  ref="../../register.xml#Ursula_v_SL">Ursula von Sachsen-Lauenburg</rs>,
+                unterzeichnet mit "ursula meine hand und letzter wille.". Enthält die Aufzählung des
+                Besitzes und dessen Verteilung.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Testament">
                 <locus from="172r" to="173r"/>
-                <author ref="../../register.xml#Ursula_v_SL">Ursula von Sachsen-Lauenburg</author>
-                <title type="uniform">Testament</title>
+                <author ref="../../register.xml#Ursula_v_SL">Herzogin Ursula von Sachsen-Lauenburg </author>
+                <title type="uniform">Testament Herzogin Ursula von Sachsen-Lauenburg</title>
                 <date type="coverage"/>
-                
-                
+
+
               </msItem>
             </msContents>
             <physDesc>
@@ -43,26 +77,27 @@
                   </layout>
                 </layoutDesc>
               </objectDesc>
-              
+
               <bindingDesc>
                 <p>Braunes Leder</p>
               </bindingDesc>
-              
+
             </physDesc>
             <history>
               <origin>
                 <origDate from="1577" to="1577"/>
-                
+
               </origin>
-              
-              
+
+
             </history>
-            
+
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>

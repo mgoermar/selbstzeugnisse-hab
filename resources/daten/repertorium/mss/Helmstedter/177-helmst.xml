@@ -1,23 +1,61 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.177-helmst.xml" type="repertorium">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.177-helmst.xml" type="repertorium">
   <teiHeader>
-    <fileDesc><titleStmt><title>177 Helmst., 207r – Pilgerbericht Arnold von Harff</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence></availability></publicationStmt><sourceDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>177 Helmst., 207r – Pilgerbericht Arnold von Harff</title>
+        <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
+        <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
+          und Kultur</funder>
+        <respStmt>
+          <name>Jacqueline Krone</name>
+          <resp>Metadaten, Recherche und Korrektur</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name>
+          <resp>Technische Konzeption und Begleitung</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name>
+        </publisher>
+        <pubPlace>Wolfenbüttel</pubPlace>
+        <date when="2017">2017</date>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
         <msDesc>
-          <msIdentifier><institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</institution>
+          <msIdentifier>
+            <institution ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+              Wolfenbüttel</institution>
             <collection>Helmstedter</collection>
             <idno>177 Helmst.</idno>
           </msIdentifier>
-          <msPart><msIdentifier><idno>177 Helmst., 207r</idno></msIdentifier>
+          <msPart>
+            <msIdentifier>
+              <idno>177 Helmst., 207r</idno>
+            </msIdentifier>
             <msContents>
-              <summary>Abschrift des in Ich-Form verfassten Pilgerberichts von <rs type="person" ref="../../register.xml#Arnold_von_Harff">Arnold von Harff</rs>. Die Pilgerfahrt führte von Köln über Rom, Kreta, Kairo, Jerusalem, Konstantinopel, Mailand, Santiago und Paris wieder nach Köln. Auf 207r befindet sich eine Dank- und Widmungsschrift an <rs type="person">Wilhelm</rs> und <rs type="person">Sibylla von Jülich</rs>.</summary>
+              <summary>Abschrift des in Ich-Form verfassten Pilgerberichts von <rs type="person"
+                  ref="../../register.xml#Arnold_von_Harff">Arnold von Harff</rs>. Die Pilgerfahrt
+                führte von Köln über Rom, Kreta, Kairo, Jerusalem, Konstantinopel, Mailand, Santiago
+                und Paris wieder nach Köln. Auf 207r befindet sich eine Dank- und Widmungsschrift an
+                  <rs type="person">Wilhelm</rs> und <rs type="person">Sibylla von
+                Jülich</rs>.</summary>
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Pilgerbericht">
                 <locus from="207r" to="258v"/>
                 <author ref="../../register.xml#Arnold_von_Harff">Arnold von Harff</author>
                 <title type="uniform">Pilgerbericht Arnold von Harff</title>
                 <date type="coverage" from="1496-11-07" to="1499-10-11"/>
-                <rubric>Wunderliche vnd gedenckwürdige Peregrination eins Edelmans auß dem Land von Gulich burttich Arnold von Karffe genand, welche er, innerhalb 3 iahrn, Anno Dni. 1499 vullbragt hatt.</rubric>
-                
+                <rubric>Wunderliche vnd gedenckwürdige Peregrination eins Edelmans auß dem Land von
+                  Gulich burttich Arnold von Karffe genand, welche er, innerhalb 3 iahrn, Anno Dni.
+                  1499 vullbragt hatt.</rubric>
+
               </msItem>
             </msContents>
             <physDesc>
@@ -34,41 +72,54 @@
                     </dimensions>
                   </extent>
                   <foliation>
-                    <p>Zahl auf jeder Seite von 1-104 original, danach Seitenzahl rechts von 207-258 nachträglich.</p>
+                    <p>Zahl auf jeder Seite von 1-104 original, danach Seitenzahl rechts von 207-258
+                      nachträglich.</p>
                   </foliation>
                 </supportDesc>
                 <layoutDesc>
                   <layout>
-                    <p>Außensteg breiter als die anderen, enthält Marginalien zu Ortsangaben und Inhaltsüberschriften</p>
+                    <p>Außensteg breiter als die anderen, enthält Marginalien zu Ortsangaben und
+                      Inhaltsüberschriften</p>
                   </layout>
                 </layoutDesc>
               </objectDesc>
               <decoDesc>
-                <decoNote>Neben dem Titel befindet sich die Zeichnung des Wappens der Familie Harff.</decoNote>
+                <decoNote>Neben dem Titel befindet sich die Zeichnung des Wappens der Familie
+                  Harff.</decoNote>
               </decoDesc>
               <bindingDesc>
                 <p>Braunes Leder.</p>
               </bindingDesc>
-              
+
             </physDesc>
             <history>
-              
+
               <provenance>
-                <p>Ex libris im Spiegel: Ex bibliotheca coenobii S. Ludgeri iuxta Helmstadium a Serenissimo Duce Carolo Guilielmo Ferdinando Academiae Iuliae Carolinae donata anno MDCCCIII</p>
+                <p>Ex libris im Spiegel: Ex bibliotheca coenobii S. Ludgeri iuxta Helmstadium a
+                  Serenissimo Duce Carolo Guilielmo Ferdinando Academiae Iuliae Carolinae donata
+                  anno MDCCCIII</p>
               </provenance>
-              
+
             </history>
             <additional>
               <listBibl>
-                <bibl>Eberhard von Groote: Die Pilgerfahrt des Ritters Arnold von Harff von Cöln durch Italien, Syrien, Aegypten, Arabien, Aethiopien, Nubien, Palästina, die Türkei, Frankreich und Spanien, wie er sie in den Jahren 1496 bis 1499 vollendet, beschrieben und durch Zeichnungen erläutert hat. Nach den ältesten Handschriften und mit deren 47 Bildern in Holzschnitt herausgegeben, Köln 1860.</bibl>
-                <bibl>Helmut Brall-Tuchel und Folker Reichert: Rom - Jerusalem - Santiago. Das Pilgertagebuch des Ritters Arnold von Harff (1496-1498). Nach dem Text der Ausgabe von Eberhard von Groote übersetzt, kommentiert und eingeleitet von Helmut Brall-Tuchel und Folker Reichert, Köln u.a. 2008.</bibl>
-            </listBibl>
+                <bibl><ref type="opac" cRef="135189217">Eberhard von Groote: Die Pilgerfahrt des Ritters Arnold von Harff von Cöln
+                  durch Italien, Syrien, Aegypten, Arabien, Aethiopien, Nubien, Palästina, die
+                  Türkei, Frankreich und Spanien, wie er sie in den Jahren 1496 bis 1499 vollendet,
+                  beschrieben und durch Zeichnungen erläutert hat. Nach den ältesten Handschriften
+                  und mit deren 47 Bildern in Holzschnitt herausgegeben, Köln 1860</ref>.</bibl>
+                <bibl><ref type="opac" cRef="566741679">Helmut Brall-Tuchel und Folker Reichert: Rom - Jerusalem - Santiago. Das
+                  Pilgertagebuch des Ritters Arnold von Harff (1496-1498). Nach dem Text der Ausgabe
+                  von Eberhard von Groote übersetzt, kommentiert und eingeleitet von Helmut
+                  Brall-Tuchel und Folker Reichert, Köln u.a. 2008</ref>.</bibl>
+              </listBibl>
             </additional>
           </msPart>
         </msDesc>
-        
-        
-      </sourceDesc></fileDesc>
-    
+
+
+      </sourceDesc>
+    </fileDesc>
+
   </teiHeader>
 </TEI>
