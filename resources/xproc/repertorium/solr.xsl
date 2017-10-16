@@ -15,8 +15,8 @@
             <xsl:copy-of select="fun:field('title', 1.0, //tei:title[ancestor::tei:msDesc])"/>
             <xsl:copy-of select="fun:field('title', 1.0, //tei:rubric)"/>
             <xsl:copy-of select="fun:field('identifier', 1.0, //tei:idno[ancestor::tei:msDesc])"/>
-            <xsl:copy-of select="fun:field('date_min', 1.0, substring((//tei:origDate/@from, //tei:origDate/@not-before)[1], 1, 4))"/>
-            <xsl:copy-of select="fun:field('date_max', 1.0, substring((//tei:origDate/@to, //tei:origDate/@not-after)[1], 1, 4))"/>
+            <xsl:copy-of select="fun:field('date_min', 1.0, substring((//tei:origDate/@from, //tei:origDate/@notBefore)[1], 1, 4))"/>
+            <xsl:copy-of select="fun:field('date_max', 1.0, substring((//tei:origDate/@to, //tei:origDate/@notAfter)[1], 1, 4))"/>
             <xsl:if test="//tei:origDate/@when">
               <xsl:copy-of select="fun:field('date_min', 1.0, substring(//tei:origDate/@when, 1, 4))"/>
               <xsl:copy-of select="fun:field('date_max', 1.0, substring(//tei:origDate/@when, 1, 4))"/>
@@ -35,7 +35,7 @@
             <xsl:copy-of select="fun:field('genre', 1.0, document(//tei:msItem/@class)/tei:catDesc/tei:term)"/>
             <xsl:copy-of select="fun:field('language', 1.0, fun:language(//tei:textLang/@mainLang))"/>
 
-            <xsl:copy-of select="fun:field('origdate_pivot', 1.0, fun:century((//tei:origDate/@when, //tei:origDate/@from, //tei:origDate/@not-before, //tei:origDate/@not-after)[1]))"/>
+            <xsl:copy-of select="fun:field('origdate_pivot', 1.0, fun:century((//tei:origDate/@when, //tei:origDate/@from, //tei:origDate/@notBefore, //tei:origDate/@after, //tei:origDate/@notAfter, //tei:origDate/@before)[1]))"/>
             <xsl:copy-of select="fun:field('coverage_pivot', 1.0, fun:century((//tei:date[@type = 'coverage']/@when, //tei:date[@type = 'coverage']/@from)[1]))"/>
 
             <xsl:copy-of select="fun:field('collection_pivot', 1.0, //tei:collection)"/>
