@@ -28,6 +28,24 @@
     <xsl:value-of select="."/>
   </xsl:template>
 
+  <xsl:template match="ref[@type = 'opac']">
+    <xsl:copy>
+      <xsl:attribute name="target" select="concat('https://opac.lbs-braunschweig.gbv.de/DB=2/PPN?PPN=', @cRef)"/>
+      <xsl:apply-templates/>
+    </xsl:copy>
+  </xsl:template>
+
+  <xsl:template match="ref[@type = 'gbv']">
+    <xsl:copy>
+      <xsl:attribute name="target" select="concat('https://gso.gbv.de/DB=2.1/PPNSET?PPN=', @cRef)"/>
+      <xsl:apply-templates/>
+    </xsl:copy>
+  </xsl:template>
+
+  <xsl:template match="rs[@type = 'shelfmark']">
+    <xsl:apply-templates/>
+  </xsl:template>
+
   <xsl:template match="@class[parent::msItem]">
     <xsl:attribute name="class" select="concat('http://selbstzeugnisse.hab.de/repertorium/vokabular#', substring-after(., '#'))"/>
   </xsl:template>
