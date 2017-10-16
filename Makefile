@@ -20,7 +20,7 @@ normdaten:
 
 .PHONY: linkmap
 linkmap:
-	calabash.cmd -i resources/daten/edition/diarium.xml -o resources/daten/edition/diarium/linkmap.xml resources/xproc/edition/linkmap.xpl
+	calabash.cmd -i resources/daten/edition/diarium/diarium.xml -o resources/daten/edition/diarium/linkmap.xml resources/xproc/edition/linkmap.xpl
 
 .PHONY: deploy
 deploy:
@@ -39,4 +39,4 @@ beacon: linkmap
 	transform.cmd -o:public/beacon.txt -xsl:resources/xproc/edition/beacon.xsl resources/daten/edition/diarium/linkmap.xml
 
 .PHONY: publish
-publish: mets linkmap sitemap solr deploy
+publish: mets linkmap sitemap repository beacon solr deploy
