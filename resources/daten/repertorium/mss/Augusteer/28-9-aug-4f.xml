@@ -18,7 +18,7 @@
                   <name>unbekannt</name>
                 </respStmt>
                 <title type="uniform">Reisebericht Emanuel Ortel</title>
-                <date type="coverage" from="1561-05-03"/>
+                <date type="coverage" notBefore="1561-05-03"/>
                 <rubric>Kurze Einfeltige Beschreibung der Raiß. So Emanuel Ortel von Augsburg. von Venedig auß in Egypten gethan hatte von seinem eigenen Exemplar nachgeschrieben im Jahr MDLXVI.</rubric>
                 
               </msItem>

@@ -49,7 +49,7 @@
                   <name>unbekannt</name>
                 </respStmt>
                 <title type="uniform">Pilgerbericht Johann von Ehrenberg</title>
-                <date type="coverage" from="1556-06-06"/>
+                <date type="coverage" notBefore="1556-06-06"/>
                 <rubric>Folgt eine andere Raise zu dem heyligen Grab. Des Edlen vnd vesten Johann
                   von Ehrenberg, mitt ettlichen vom adel vnnd Nider Ländern. Anno Domini 1556. Der
                   Hierosolymitanischen Rittern zaichen, von den Teudtschen zum ersten zu führen

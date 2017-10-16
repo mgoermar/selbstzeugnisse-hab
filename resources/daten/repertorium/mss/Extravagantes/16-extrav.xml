@@ -17,7 +17,7 @@
                 <locus from="40r" to="49r"/>
                 <author ref="../../register.xml#Hans_Schwenter">Hans Schwenter</author>
                 <title type="uniform">Reisebericht Hans Schwenter</title>
-                <date type="coverage">16. Jhd.</date>
+                <date type="coverage" notBefore="1500" notAfter="1600">16. Jhd.</date>
                 <rubric>Laus deo 1560 [den] 6 augusti Mein Raiße wil ich euch zaigen</rubric>
 
               </msItem>

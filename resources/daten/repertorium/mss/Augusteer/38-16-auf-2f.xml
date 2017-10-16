@@ -14,7 +14,7 @@
                 <locus from="148r" to="157r"/>
                 <author>Erik Larsson Sparre</author>
                 <title type="uniform">Testament Erik Larsson Sparre (April 1599)</title>
-                <date type="coverage">16. Jhd.</date>
+                <date type="coverage" notBefore="1500" notAfter="1600">16. Jhd.</date>
                 <rubric>Klag und letzter Will.</rubric>
                 
               </msItem>

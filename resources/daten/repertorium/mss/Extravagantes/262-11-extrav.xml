@@ -18,7 +18,7 @@
                   <name>unbekannt</name>
                 </respStmt>
                 <title type="uniform">Testament Kurfürst Johann Georg I. von Sachsen</title>
-                <date type="coverage">17. Jhd.</date>
+                <date type="coverage" notBefore="1600" notAfter="1700">17. Jhd.</date>
                 <rubric>Dispositio Electoralis</rubric>
                 
               </msItem>

@@ -18,7 +18,7 @@
                 <locus from="57r" to="119v"/>
                 <author ref="../../register.xml#Christian_Knorr">Christian Knorr von Rosenroth</author>
                 <title type="uniform">Reisebericht Christin Knorr von Rosenroth</title>
-                <date type="coverage" from="1663-04-13"/>
+                <date type="coverage" notBefore="1663-04-13"/>
                 
                 
               </msItem>

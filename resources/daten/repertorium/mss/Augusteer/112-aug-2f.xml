@@ -18,7 +18,7 @@
                   <name>Unbekannt</name>
                 </respStmt>
                 <title type="uniform">Autobiographische Notizen Matthäus Schwarz</title>
-                <date type="coverage">16. Jhd.</date>
+                <date type="coverage" notBefore="1500" notAfter="1600">16. Jhd.</date>
                 <rubric>Der Stam Christi</rubric>
 
               </msItem>

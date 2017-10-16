@@ -14,7 +14,7 @@
                 <locus from="1r" to="1v"/>
                 <author ref="../../register.xml#Anna_Neuper">Anna Neuper</author>
                 <title type="uniform">Persönliche Notizen Anna Neuper</title>
-                <date type="coverage">16. Jhd.</date>
+                <date type="coverage" notBefore="1500" notAfter="1600">16. Jhd.</date>
                 
                 
               </msItem>

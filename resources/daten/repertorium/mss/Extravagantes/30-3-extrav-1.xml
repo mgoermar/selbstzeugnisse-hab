@@ -50,7 +50,7 @@
                   Alexandri</author>
                 <title type="uniform">Lebenslauf <rs type="person" ref="../../register.xml#Johann_Heinrich_Alexandri">Johann Heinrich
                     Alexandri</rs></title>
-                <date type="coverage" from="1675-05-01"/>
+                <date type="coverage" notBefore="1675-05-01"/>
 
 
               </msItem>

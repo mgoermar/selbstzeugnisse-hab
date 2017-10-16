@@ -51,7 +51,7 @@
                   <name>unbekannt</name>
                 </respStmt>
                 <title type="uniform">Reisebericht Erzherzog Albrecht von Österreich</title>
-                <date type="coverage" from="1598"/>
+                <date type="coverage" notBefore="1598"/>
                 <rubric>Memoire Et brief Recueil</rubric>
 
               </msItem>

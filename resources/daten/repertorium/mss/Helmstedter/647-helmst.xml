@@ -18,7 +18,7 @@
                   <name>unbekannt</name>
                 </respStmt>
                 <title type="uniform">Glaubensbekenntnis Loven</title>
-                <date type="coverage">16. Jhd.</date>
+                <date type="coverage" notBefore="1500" notAfter="1600">16. Jhd.</date>
                 <rubric>Bekendtnis des Glaubens von dem Doctorn Loven gestellt, welchem in des Konigs zu hispanien Niederlanden die unterthanen mit Eides pflicht bestetigen müssen. Aus Niederländischer Sprach Inn verstendig Deutsch getreulich vorsetzett. Anno 1568.</rubric>
                 
               </msItem>

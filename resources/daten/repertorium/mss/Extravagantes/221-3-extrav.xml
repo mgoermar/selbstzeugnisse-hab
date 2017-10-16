@@ -50,7 +50,7 @@
                 <locus from="2r" to="575v"/>
                 <author ref="../../register.xml#Johann_Tennhart">Johann Tennhart</author>
                 <title type="uniform">Lebenslauf <rs type="person" ref="../../register.xml#Johann_Tennhart">Johann Tennhart</rs></title>
-                <date type="coverage" to="1708-02-02">Bis 02.02.1708</date>
+                <date type="coverage" notAfter="1708-02-02">Bis 02.02.1708</date>
                 <rubric>Lebenslauff. Gott allein soll die Ehre sein</rubric>
 
               </msItem>
@@ -86,7 +86,7 @@
             </physDesc>
             <history>
               <origin>
-                <origDate before="1708-02-02"/>
+                <origDate notAfter="1708-02-02"/>
 
               </origin>
 
