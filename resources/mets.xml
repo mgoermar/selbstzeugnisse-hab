@@ -406,10 +406,6 @@
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/register/orte.xsl"/>
     </behavior>
-    <behavior STRUCTID="edition.diarium.register">
-      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
-      <mechanism LOCTYPE="URL" xlink:href="xslt/identity.xsl"/>
-    </behavior>
     <behavior STRUCTID="projekt">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
