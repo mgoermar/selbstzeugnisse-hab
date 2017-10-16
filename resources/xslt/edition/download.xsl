@@ -23,19 +23,27 @@
 
   <xsl:template match="@xml:base"/>
 
+  <xsl:template match="tei:group">
+    <xsl:element name="front" namespace="http://www.tei-c.org/ns/1.0">
+      <xsl:apply-templates select="document('../einleitung.xml', /)/tei:TEI/tei:text/tei:body/*"/>
+      <xsl:apply-templates select="document('../richtlinien.xml', /)/tei:TEI/tei:text/tei:body/*"/>
+    </xsl:element>
+    <xsl:copy>
+      <xsl:apply-templates select="node() | @*"/>
+    </xsl:copy>
+    <xsl:element name="back" namespace="http://www.tei-c.org/ns/1.0">
+      <xsl:apply-templates select="document('register.xml', /)/tei:TEI/tei:text/tei:body/*"/>
+    </xsl:element>
+  </xsl:template>
+
   <xsl:template match="@ref[starts-with(., 'register.xml')]">
-    <xsl:choose>
-      <xsl:when test="document(.)/tei:idno[@type = 'URI']">
-        <xsl:attribute name="ref">
-          <xsl:value-of select="document(.)/tei:idno[@type = 'URI']"/>
-        </xsl:attribute>
-      </xsl:when>
-      <xsl:otherwise>
-        <xsl:attribute name="ref">
-          <xsl:value-of select="concat('tag:selbstzeugnisse.hab.de,2017:edition/', substring-after(., '#'))"/>
-        </xsl:attribute>
-      </xsl:otherwise>
-    </xsl:choose>
+    <xsl:attribute name="ref">
+      <xsl:value-of select="substring-after(., 'register.xml')"/>
+    </xsl:attribute>
+  </xsl:template>
+
+  <xsl:template match="@place[parent::tei:head]">
+    <xsl:attribute name="rend"><xsl:value-of select="concat('place(', ., ')')"/></xsl:attribute>
   </xsl:template>
 
   <xsl:template match="@facs[starts-with(., 'http://selbstzeugnisse.hab.de/edition/images/')]">
