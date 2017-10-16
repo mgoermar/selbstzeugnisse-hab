@@ -2,9 +2,12 @@
 # Schema Selbstzeugnisse Repertorium
 #
 # Autor:      David Maus <maus@hab.de>
-# Time-stamp: <2017-10-12 15:19:58 maus>
+# Time-stamp: <2017-10-13 08:44:22 maus>
 #
 # ChangeLog
+#
+# 2017-10-13  David Maus  <maus@hab.de>
+#   * <origDate> wieder verpflichtend
 #
 # 2017-10-12  David Maus  <maus@hab.de>
 #   * <rs type="shelfmark"> erlauben
@@ -144,7 +147,7 @@ e.msDesc =
          },
          element history {
             element origin {
-               E09?,
+               E09,
                E22*
             }?,
             E07
@@ -293,7 +296,7 @@ E21 =
    element listBibl {
       element bibl {
          attribute type { xsd:token }?,
-         ( text | e.ref? )*
+         ( text | e.ref? | Registerverweis )*
       }*
    }
 
