@@ -19,7 +19,7 @@
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>
                 </respStmt>
-                <title type="uniform">Lebenslauf Christian v. Ron</title>
+                <title type="uniform">Lebenslauf Christian von Ron</title>
                 <date type="coverage"/>
                 <rubric>Lebenslauf Christianq v. Ron</rubric>
                 
@@ -54,7 +54,9 @@
               </bindingDesc>
               
             </physDesc>
-            
+      <history><origin>
+        <origDate notBefore="1700" notAfter="1750">1. Hälfte 18. Jhd. [vmtl.]</origDate>
+      </origin></history>      
             
           </msPart>
         </msDesc>

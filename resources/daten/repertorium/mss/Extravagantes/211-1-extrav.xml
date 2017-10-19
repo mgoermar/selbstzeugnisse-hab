@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="repertorium.eintrag.211-1-extrav.xml" type="repertorium">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xml:id="repertorium.eintrag.211-1-extrav.xml" type="repertorium">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Reisetagebuch Herzogin Christine Luise zu
-                  Braunschweig-Lüneburg (Cod. Guelf. 211.1 Extrav., I)</title>
+        <title>Reisetagebuch Herzogin Christine Luise zu Braunschweig-Lüneburg (Cod. Guelf. 211.1
+          Extrav., I)</title>
         <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal>
         <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft
           und Kultur</funder>
@@ -42,7 +44,8 @@
               <summary>In Ich- und Wir-From verfasstes Reisetagebuch. Im Text sind Reisen, Besuche,
                 Gegenbesuche, Mahlzeiten mit der Familie, Visiten, Krankheiten und tägliche
                 Verrichtungen verzeichnet. Es besteht aus täglichen Einträgen. Der Text bricht ohne
-                explizites Ende mitten im Satz ab. Er weist verschiedene Schreiber auf, <rs type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>
+                explizites Ende mitten im Satz ab. Er weist verschiedene Schreiber auf, <rs
+                  type="person" ref="../../register.xml#Wolf-Dieter_Otte">Wolf-Dieter Otte</rs>
                 (Wolf-Dieter Otte: Die neueren Handschriften der Gruppe Extravagantes, Teil 2,
                 Frankfurt a. M. 1987) vermutet, dass das Tagebuch ab 8r (9r) autograph ist, hier
                 findet ein Handschriftenwechsel statt.</summary>
@@ -59,7 +62,7 @@
                   Braunschweig-Lüneburg</title>
                 <date type="coverage" from="1698-03-09" to="1699-07-19"/>
                 <rubric>Journal [...] Christinen Louise, geb. Fürstin v. Oettingen Ludwig Rudolfs
-                  Georges zu Braunschweig Lüneb. Gemahlin n. 20. Mart. 1671. den. 12. Nov. 1727. Vom
+                  Georges zu Braunschweig Lüneb. Gemahlin n. 20. Mart. 1671. den. 12. Nov. 1747. Vom
                   9. Mart. 1698. biß 19. Jul. 1699.</rubric>
 
               </msItem>

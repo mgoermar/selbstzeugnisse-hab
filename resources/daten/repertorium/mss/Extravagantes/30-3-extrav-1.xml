@@ -90,7 +90,9 @@
               </accMat>
             </physDesc>
             <history>
-
+<origin>
+  <origDate notBefore="1700" notAfter="1800">18. Jhd. [vmtl.]</origDate>
+</origin>
               <provenance>
                 <p>Auf dem Vorsatzblatt ist vermerkt: Ex Donatione <rs type="person" ref="../../register.xml#Jacob_Burckhardt">Jacobo Burckhardi</rs></p>
               </provenance>
