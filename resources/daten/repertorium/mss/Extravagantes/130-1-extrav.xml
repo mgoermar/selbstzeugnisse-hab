@@ -46,7 +46,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Notizen">
                 <locus from="1r" to="1r"/>
-                <author>Boeckeman</author>
+                <author ref="../../register.xml#Boeckeman">Boeckeman</author>
                 <title type="uniform">Persönliche Notizen Boeckeman</title>
                 <date type="coverage"/>
 

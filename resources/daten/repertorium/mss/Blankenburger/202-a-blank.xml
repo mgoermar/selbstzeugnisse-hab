@@ -71,7 +71,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="1r" to="31r"/>
-                <author>Johannes Andreas Thomas</author>
+                <author ref="../../register.xml#Johannes_Andreas_Thomas">Johannes Andreas Thomas</author>
                 <title type="uniform">Reisebericht und -zeichnungen Johannes Andreas Thomas</title>
                 <date type="coverage" from="1720" to="1720"/>
                 <rubric>Der Schwäbische Reise Beschreibung 2ter Theil. Anventirt und auf gezeichnet

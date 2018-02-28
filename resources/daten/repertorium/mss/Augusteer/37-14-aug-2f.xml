@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="458r" to="484r"/>
-                <author>Christoff von Lanningen</author>
+                <author ref="../../register.xml#Christoff_von_Lanningen">Christoff von Lanningen</author>
                 <title type="uniform">Reisebericht Christoff von Lanningen</title>
                 <date type="coverage" from="1609-03-16" to="1609-06-10"/>
                 <rubric>Underthänige Relation meiner Christoff von Lanningen über mir gnädig anbefohlene reyse nacher Italia de dato 10. Junio 1609. zu 2. Theil abgethailt.</rubric>

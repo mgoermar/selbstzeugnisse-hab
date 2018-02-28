@@ -15,7 +15,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1r" to="24v"/>
-                <author>Ernst Leopold Bachmann</author>
+                <author ref="../../register.xml#Ernst_Leopold_Bachmann">Ernst Leopold Bachmann</author>
                 <title type="uniform">Reisetagebuch Herzog Anton Ulrichs II.</title>
                 <date type="coverage" from="1732-12-27" to="1733-02-14"/>
                 <rubric>Specificatio Derer Städte, Flecken, Aemter und Dörffer, welche des Printzen Anthon Ulrichs Durchl. vom Hamburg biß Petersburg passiret, auch was remarquables dabey vorgefallen</rubric>

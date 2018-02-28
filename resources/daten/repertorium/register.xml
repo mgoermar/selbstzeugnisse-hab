@@ -337,6 +337,54 @@
     <text>
         <body>
             <listPerson>
+                <person xml:id="Ernst_Leopold_Bachmann">
+                    <persName type="display">Bachmann, Ernst Leopold</persName>
+                </person>
+                <person xml:id="Boeckeman">
+                    <persName type="display">Boeckeman</persName>
+                </person>
+                <person xml:id="Johann_Rudolf_Schmid_von_Schwarzenhorn">
+                    <persName type="display">Schwarzenhorn, Johann Rudolf Schmid von</persName>
+                </person>
+                <person xml:id="Johannes_Andreas_Thomas">
+                    <persName type="display">Thomas, Johannes Andreas</persName>
+                </person>
+                <person xml:id="Tomas_Bayr_von_Kunigshoffenn">
+                    <persName type="display">Kunigshoffenn, Tomas Bayr von</persName>
+                </person>
+                <person xml:id="Basilius_Unger">
+                    <persName type="display">Unger, Basilius</persName>
+                </person>
+                <person xml:id="Kerck_Kirchner">
+                    <persName type="display">Kerck/Kirchner</persName>
+                </person>
+                <person xml:id="Burcardum">
+                    <persName type="display">Burcardum</persName>
+                </person>
+                <person xml:id="Georg_Lorenzen">
+                    <persName type="display">Lorenzen, Georg</persName>
+                </person>
+                <person xml:id="Erhart_Lesser">
+                    <persName type="display">Lesser, Erhart</persName>
+                </person>
+                <person xml:id="Susanna_Neuthart">
+                    <persName type="display">Neuthart, Susanna</persName>
+                </person>
+                <person xml:id="Pieter_Willemsz_Verhoeff">
+                    <persName type="display">Verhoeff, Pieter Willemsz</persName>
+                </person>
+                <person xml:id="Erik_Larsson_Sparre">
+                    <persName type="display">Sparre, Erik Larsson</persName>
+                </person>
+                <person xml:id="Kasper_Wabrer">
+                    <persName type="display">Wabrer, Kasper</persName>
+                </person>
+                <person xml:id="Conrad_Seibold">
+                    <persName type="display">Seibold, Conrad</persName>
+                </person>
+                <person xml:id="Christoff_von_Lanningen">
+                    <persName type="display">Lanningen, Christoff von</persName>
+                </person>
                 <person xml:id="Johann_Heinrich_Alexandri">
                     <idno type="URI">http://d-nb.info/gnd/124609198</idno>
                     <persName type="display">Alexandri, Johann Heinrich</persName>
@@ -602,25 +650,7 @@
                     <persName type="display">Florian Paulicy</persName>
                 </person>
                 <person xml:id="von_Baerenfels">
-                    <persName key="">
-                        <roleName/>
-                        <forename type="first"/>
-                        <surname>von Bärenfels</surname>
-                    </persName>
-                    <birth when="">
-                        <placeName>
-                            <settlement type="city"/>
-                            <country/>
-                        </placeName>
-                    </birth>
-                    <death when="">
-                        <placeName>
-                            <settlement type="city"/>
-                            <country/>
-                        </placeName>
-                    </death>
-                    <note>Adjutant</note>
-                    <persName type="display">Adjutant von Bärenfels</persName>
+                    <persName type="display">Bärenfels, von, Adjutant</persName>
                 </person>
                 <person xml:id="Heinrich_Ferdinand">
                     <idno type="URI">http://d-nb.info/gnd/123384621</idno>
@@ -756,6 +786,14 @@
                 <person xml:id="Samuel_Pepys">
                     <idno type="URI">http://d-nb.info/gnd/118592653</idno>
                     <persName type="display">Pepys, Samuel</persName>
+                </person>
+                
+                <person xml:id="Samuel_Bieger">
+                    <persName type="display">Bieger, Samuel</persName>
+                </person>
+                
+                <person xml:id="Evenharde_Bieger">
+                    <persName type="display">Bieger, Evenharde</persName>
                 </person>
 
                 <person xml:id="Nicolaus_de_Tolentino">
@@ -940,7 +978,15 @@
                 </person>
 
                 <person xml:id="Hans_Georg_Peyerle">
-                    <idno type="URI"/>
+                    <persName type="display">Peyerle, Hans Georg</persName>
+                </person>
+                
+                <person xml:id="Robert_Forbes">
+                    <persName type="display">Forbes, Robert</persName>
+                </person>
+                
+                <person xml:id="Loven">
+                    <persName type="display">Loven</persName>
                 </person>
 
                 <person xml:id="Pseudodimitri_I.">

@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Notizen">
                 <locus from="118r" to="118v"/>
-                <author>Erhart Lesser</author>
+                <author ref="../../register.xml#Erhart_Lesser">Erhart Lesser</author>
                 <title type="uniform">Haushaltsliste Erhart Lesser</title>
                 <date type="coverage" from="1576" to="1576"/>
                 <rubric>Was mir Erhartus lesser, Jerlich Jm Heußlichen wesen Aufgehett ahn allen überflus [...]</rubric>

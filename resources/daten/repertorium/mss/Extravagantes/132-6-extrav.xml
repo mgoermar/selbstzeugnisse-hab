@@ -51,7 +51,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="1r" to="46v"/>
-                <author>von Bärenfels (?)</author>
+                <author ref="../../register.xml#von_Baerenfels" cert="unknown">von Bärenfels</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>

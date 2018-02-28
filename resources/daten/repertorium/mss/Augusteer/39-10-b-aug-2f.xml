@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Gefangenschaftsbericht">
                 <locus from="1r" to="28r"/>
-                <author>Conrad Seibold</author>
+                <author ref="../../register.xml#Conrad_Seibold">Conrad Seibold</author>
                 <title type="uniform">Gefangenschaftsbericht Conrad Seibold</title>
                 <date type="coverage" from="1615-05-01" to="1615"/>
                 <rubric>Volge Waß sich mit Conradt Seibolde seines handwercks ein weber seines Alters bey 27 Jahren unnd von landsperg bürtig, ledigs stands zur Augspurg, München, und landtsperg unnd inn unnd auß halb des gefencknuß wegen der Evangelischen Religion begeben unnd zue getragen 1615</rubric>

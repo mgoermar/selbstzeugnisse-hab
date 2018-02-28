@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Gestaendnis">
                 <locus from="238r" to="238r"/>
-                <author>Kerck/Kirchner</author>
+                <author ref="../../register.xml#Kerck_Kirchner">Kerck/Kirchner</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>Unbekannt</name>

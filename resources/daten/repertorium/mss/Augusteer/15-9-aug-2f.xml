@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Testament">
                 <locus from="425r" to="440v"/>
-                <author>Susanna Neuthart</author>
+                <author ref="../../register.xml#Susanna_Neuthart">Susanna Neuthart</author>
                 <title type="uniform">Testament Susanna Neuthart</title>
                 <date type="coverage"/>
                 

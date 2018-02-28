@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Notizen">
                 <locus from="104r" to="104r"/>
-                <author>Kasper Wabrer</author>                
+                <author ref="../../register.xml#Kasper_Wabrer">Kasper Wabrer</author>                
                 <title type="uniform">Autobiographische Notizen Kasper Wabrer</title>
                 <date type="coverage" from="1460" to="1486"/>
                 <rubric>Dis hat geschriben Kasper [...]</rubric>

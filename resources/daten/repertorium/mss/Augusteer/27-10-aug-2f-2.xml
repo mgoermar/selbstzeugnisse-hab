@@ -12,7 +12,7 @@
               <textLang mainLang="nld"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="151" to="156"/>
-                <author>Pieter Willemsz Verhoeff</author>
+                <author ref="../../register.xml#Pieter_Willemsz_Verhoeff">Pieter Willemsz Verhoeff</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>

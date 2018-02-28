@@ -48,7 +48,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Lebenslauf">
                 <locus from="1v" to="1v"/>
-                <author>Georg Lorenzen</author>
+                <author ref="../../register.xml#Georg_Lorenzen">Georg Lorenzen</author>
                 <title type="uniform">Lebenslauf Georg Lorenzen</title>
                 <date type="coverage" from="1560" to="1625"/>
                 <rubric>Zu Jesu Christy Namen amen</rubric>

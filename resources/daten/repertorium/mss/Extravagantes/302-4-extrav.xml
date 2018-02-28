@@ -50,7 +50,8 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Familienchronik">
                 <locus from="35r" to="45r"/>
-                <author>"Evenharde" Bieger, Samuel Bieger</author>
+                <author ref="../../register.xml#Evenharde_Bieger">"Evenharde" Bieger</author>
+                <author ref="../../register.xml#Samuel_Bieger">Samuel Bieger</author>
                 <title type="uniform">Familienchronik Bieger</title>
                 <date type="coverage" from="1518-09-21" to="1587-07-19"/>
 

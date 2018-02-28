@@ -52,7 +52,7 @@
               <textLang mainLang="fra"/>
               <msItem class="../../register.xml#Reisetagebuch">
                 <locus from="1" to="180"/>
-                <author>Pierre Louis Moreau de Maupertuis (?)</author>
+                <author ref="../../register.xml#Pierre_Louis_Moreau_de_Maupertuis" cert="unknown">Pierre Louis Moreau de Maupertuis</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>

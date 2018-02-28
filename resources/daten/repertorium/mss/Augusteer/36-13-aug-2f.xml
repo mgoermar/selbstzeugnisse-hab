@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Testament">
                 <locus from="141r" to="156v"/>
-                <author>Erik Larsson Sparre</author>
+                <author ref="../../register.xml#Erik_Larsson_Sparre">Erik Larsson Sparre</author>
                 <title type="uniform">Testament Erik Larsson Sparre (Juli 1599)</title>
                 <date type="coverage" notBefore="1500" notAfter="1600">16. Jhd.</date>
                 <rubric>Klage vnd letzter Will.</rubric>

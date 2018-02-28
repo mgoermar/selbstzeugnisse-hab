@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Kriegstagebuch">
                 <locus from="1r" to="40v"/>
-                <author>Thomas Bayr von Kunigshoffenn</author>
+                <author ref="../../register.xml#Thomas_Bayr_von_Kunigshoffenn">Thomas Bayr von Kunigshoffenn</author>
                 <title type="uniform">Kriegstagebuch Thomas Bayr von Kunigshoffenn</title>
                 <date type="coverage" from="1572-12-04" to="1573-10-21"/>
                 <rubric>Beschreibung dero Geschichten, welche sich haben begeben vnd zugetragen zwischen Königl. May. von Hispania vnnd dem Prinzen von Orannia In vnnd ausserhalb der Statt Harlem In Holland Im Jar 1572 den 4. Tag Decemb bis auff das Jar 1573 den 21 tag des mon: Octobris</rubric>

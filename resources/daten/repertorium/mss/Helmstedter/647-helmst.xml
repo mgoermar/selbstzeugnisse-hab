@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Glaubensbekenntnis">
                 <locus from="150r" to="153r"/>
-                <author>Loven</author>
+                <author ref="../../register.xml#Loven">Loven</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>

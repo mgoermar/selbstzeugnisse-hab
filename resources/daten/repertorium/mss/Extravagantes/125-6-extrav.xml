@@ -45,7 +45,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Gesandtschaftsbericht">
                 <locus from="1r" to="61r"/>
-                <author>Johann Rudolf Schmid von Schwarzenhorn</author>
+                <author ref="../../register.xml#Johann_Rudolf_Schmid_von_Schwarzenhorn">Johann Rudolf Schmid von Schwarzenhorn</author>
                 <title type="uniform">Gesandtschaftsbericht Johann Rudolf Schmid von
                   Schwarzenhorn</title>
                 <date type="coverage" from="1650-03" to="1651-05"/>

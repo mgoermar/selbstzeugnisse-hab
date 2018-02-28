@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Notizen">
                 <locus from="314r" to="315r"/>
-                <author>Robert Forbes</author>
+                <author ref="../../register.xml#Robert_Forbes">Robert Forbes</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>

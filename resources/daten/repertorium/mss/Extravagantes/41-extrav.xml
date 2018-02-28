@@ -51,7 +51,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="1r" to="108r"/>
-                <author>Hans Georg Peyerle</author>
+                <author ref="../../register.xml#Hans_Georg_Peyerle">Hans Georg Peyerle</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>unbekannt</name>

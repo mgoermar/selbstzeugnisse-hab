@@ -12,7 +12,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Reisebericht">
                 <locus from="266r" to="350v"/>
-                <author>Burcardum</author>
+                <author ref="../../register.xml#Burcardum">Burcardum</author>
                 <respStmt>
                   <resp ref="http://id.loc.gov/vocabulary/relators/red">Schreiber/Redaktor</resp>
                   <name>Unbekannt</name>

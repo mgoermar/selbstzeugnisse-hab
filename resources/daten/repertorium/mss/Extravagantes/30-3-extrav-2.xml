@@ -51,7 +51,7 @@
               <textLang mainLang="deu"/>
               <msItem class="../../register.xml#Abschiedsbrief">
                 <locus from="53v" to="53v"/>
-                <author ref="../../register.xml#Sievers">Sievers (?)</author>
+                <author ref="../../register.xml#Sievers" cert="unknown">Sievers</author>
                 <title type="uniform">Abschiedsbrief Sievers (?)</title>
                 <date type="coverage"/>
 
