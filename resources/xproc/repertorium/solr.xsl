@@ -24,10 +24,6 @@
             <xsl:if test="//tei:origDate">
               <xsl:copy-of select="fun:field('date_display', 1.0, fun:date(//tei:origDate))"/>
             </xsl:if>
-            <xsl:if test="id(substring(//tei:author/@ref, 2))/tei:persName/@key">
-              <xsl:variable name="gndId" select="id(substring(//tei:author/@ref, 2))/tei:persName/@key"/>
-              <xsl:copy-of select="fun:field('creator', 1.0, concat('gnd', $gndId))"/>
-            </xsl:if>
             <xsl:copy-of select="fun:field('creator', 1.0, //tei:author)"/>
             <xsl:copy-of select="fun:field('creator_display', 1.0, //tei:author)"/>
             <xsl:copy-of select="fun:field('contributor', 1.0, //tei:respStmt/tei:name)"/>

@@ -92,7 +92,9 @@
                                   </dd>
                                   {% if record.creator_display %}
                                       <dt>Verfasser</dt>
-                                      <dd>{{ record.creator_display.0 }}</dd>
+                                      {% for name in record.creator_display %}
+                                          <dd>{{ name }}</dd>
+                                      {% endfor %}
                                   {% endif %}
                                   {% if record.abstract %}
                                       <dt>Zusammenfassung</dt>
