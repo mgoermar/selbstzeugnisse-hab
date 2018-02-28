@@ -32,7 +32,12 @@
             <td>
               <xsl:choose>
                 <xsl:when test="//tei:author[normalize-space()]">
-                  <xsl:value-of select="//tei:author"/>
+                  <xsl:for-each select="//tei:author[normalize-space()]">
+                    <xsl:value-of select="."/>
+                    <xsl:if test="@cert">
+                      <xsl:text> (?)</xsl:text>
+                    </xsl:if>
+                  </xsl:for-each>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
