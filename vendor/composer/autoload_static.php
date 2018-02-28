@@ -4,9 +4,11 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitc8703132b487e10223bc213e8736dd8b
+class ComposerStaticInit8a9318ad96e1e6602a968c996fe31931
 {
     public static $files = array (
+        '5255c38a0faeba867671b61dfda6d864' => __DIR__ . '/..' . '/paragonie/random_compat/lib/random.php',
+        '023d27dca8066ef29e6739335ea73bad' => __DIR__ . '/..' . '/symfony/polyfill-php70/bootstrap.php',
         '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
         'c964ee0ededf28c96ebd9db5099ef910' => __DIR__ . '/..' . '/guzzlehttp/promises/src/functions_include.php',
         'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
@@ -20,6 +22,7 @@ class ComposerStaticInitc8703132b487e10223bc213e8736dd8b
         ),
         'S' => 
         array (
+            'Symfony\\Polyfill\\Php70\\' => 23,
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Component\\Routing\\' => 26,
             'Symfony\\Component\\HttpKernel\\' => 29,
@@ -51,6 +54,10 @@ class ComposerStaticInitc8703132b487e10223bc213e8736dd8b
         'Twig\\' => 
         array (
             0 => __DIR__ . '/..' . '/twig/twig/src',
+        ),
+        'Symfony\\Polyfill\\Php70\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/polyfill-php70',
         ),
         'Symfony\\Polyfill\\Mbstring\\' => 
         array (
@@ -133,7 +140,7 @@ class ComposerStaticInitc8703132b487e10223bc213e8736dd8b
         array (
             'HAB\\' => 
             array (
-                0 => 'Z:\\/src',
+                0 => __DIR__ . '/../..' . '/src',
             ),
             'HAB' => 
             array (
@@ -142,12 +149,23 @@ class ComposerStaticInitc8703132b487e10223bc213e8736dd8b
         ),
     );
 
+    public static $classMap = array (
+        'ArithmeticError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/ArithmeticError.php',
+        'AssertionError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/AssertionError.php',
+        'DivisionByZeroError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/DivisionByZeroError.php',
+        'Error' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/Error.php',
+        'ParseError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/ParseError.php',
+        'SessionUpdateTimestampHandlerInterface' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/SessionUpdateTimestampHandlerInterface.php',
+        'TypeError' => __DIR__ . '/..' . '/symfony/polyfill-php70/Resources/stubs/TypeError.php',
+    );
+
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitc8703132b487e10223bc213e8736dd8b::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitc8703132b487e10223bc213e8736dd8b::$prefixDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInitc8703132b487e10223bc213e8736dd8b::$prefixesPsr0;
+            $loader->prefixLengthsPsr4 = ComposerStaticInit8a9318ad96e1e6602a968c996fe31931::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInit8a9318ad96e1e6602a968c996fe31931::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInit8a9318ad96e1e6602a968c996fe31931::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit8a9318ad96e1e6602a968c996fe31931::$classMap;
 
         }, null, ClassLoader::class);
     }
