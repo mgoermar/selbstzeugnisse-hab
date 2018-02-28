@@ -18,11 +18,13 @@
     </xsl:copy>
   </xsl:template>
 
-  <xsl:template match="@ref[parent::author]">
+  <xsl:template match="@ref[starts-with(., '../../register.xml')]">
     <xsl:if test="document(.)/idno[@type = 'URI']">
       <xsl:attribute name="ref" select="document(.)/idno[@type = 'URI']"/>
     </xsl:if>
-    <xsl:attribute name="n" select="document(.)/persName[@type = 'display']"/>
+    <xsl:if test="parent::author">
+      <xsl:attribute name="n" select="document(.)/persName[@type = 'display']"/>
+    </xsl:if>
   </xsl:template>
 
   <xsl:template match="ref[ends-with(@target, '.xml')]">
