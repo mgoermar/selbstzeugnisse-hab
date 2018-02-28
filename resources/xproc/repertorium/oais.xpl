@@ -6,14 +6,14 @@
 
   <p:serialization method="xml" port="result"/>
 
+  <p:output port="result" primary="true"/>
+
   <p:import href="library.xpl"/>
 
   <p:documentation xmlns="http://www.w3.org/1999/xhtml">
     Repertoriumseinträge in <a href="http://www.openarchives.org/OAI/2.0/guidelines-static-repository.htm"
     target="_blank">OAI Static Repository</a> zusammenfasen.
   </p:documentation>
-
-  <p:output port="result" primary="true"/>
 
   <s:repertorium-einträge/>
 
