@@ -2,12 +2,13 @@
 # Schema Selbstzeugnisse Repertorium
 #
 # Autor:      David Maus <maus@hab.de>
-# Time-stamp: <2018-02-28 09:43:58 maus>
+# Time-stamp: <2018-02-28 10:16:00 maus>
 #
 # ChangeLog
 #
 # 2018-02-28  David Maus  <maus@hab.de>
 #   * erlaube @n in <author>
+#   * erlaube @cert in <author>
 #
 # 2017-10-13  David Maus  <maus@hab.de>
 #   * <origDate> wieder verpflichtend
@@ -189,6 +190,7 @@ E03 =
    element author {
       attribute ref { xsd:anyURI }?,
       attribute n { text }?,
+      attribute cert { "unknown" }?,
       text
    }
 
