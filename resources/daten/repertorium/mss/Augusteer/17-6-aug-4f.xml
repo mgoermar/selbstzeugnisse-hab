@@ -40,7 +40,7 @@
               <textLang mainLang="lat"/>
               <msItem class="../../register.xml#Tagebuch">
                 <locus from="?" to="?"/>
-                <author ref="">Johannes Werner</author>
+                <author ref="../../register.xml#Johannes_Werner">Johannes Werner</author>
                 <title type="uniform">Tagebuch Johannes Werner</title>
                 <date type="coverage" from="1506" to="1521"/>
                 <rubric>
