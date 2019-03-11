@@ -1666,7 +1666,9 @@
                         <geo>15.183333 37.716667</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7044029</idno></place><place xml:id="Capranica"><placeName>Capranica</placeName><location>
                         <geo>12.183333 42.25</geo>
-                    </location><idno type="URI">http://vocab.getty.edu/tgn/7006770</idno></place><place xml:id="Capua"><placeName>Capua</placeName><location>
+                    </location><idno type="URI">http://vocab.getty.edu/tgn/7006770</idno></place>
+         <place xml:id="Caprarola"><placeName>Caprarola </placeName><location><geo>12.2333 42.3167</geo></location><idno type="URI">http://vocab.getty.edu/tgn/7008285</idno></place>
+         <place xml:id="Capua"><placeName>Capua</placeName><location>
                         <geo>14.2 41.1</geo>
                     </location><idno type="URI">http://vocab.getty.edu/tgn/7004529</idno></place><place xml:id="Carpenedo"><placeName>Carpenedo</placeName><location>
                         <geo>12.263333 45.512778</geo>
