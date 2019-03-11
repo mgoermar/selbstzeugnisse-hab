@@ -23,9 +23,9 @@
     <xsl:template match="schema:Place[geo:lat and geo:long]">
       <location>
         <geo>
-          <xsl:value-of select="geo:long"/>
-          <xsl:text> </xsl:text>
           <xsl:value-of select="geo:lat"/>
+          <xsl:text> </xsl:text>
+          <xsl:value-of select="geo:long"/>
         </geo>
       </location>
     </xsl:template>
