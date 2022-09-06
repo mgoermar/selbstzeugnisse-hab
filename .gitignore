@@ -1,7 +1,0 @@
-/tmp
-/resources/auxdata
-/public/repertorium/repository.*
-/public/repertorium/xml.xsd
-/public/beacon.txt
-/public/sitemap.xml
-/resources/schema/*.xsd
