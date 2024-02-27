@@ -365,12 +365,12 @@
                     </xsl:if>
                     
                 </xsl:for-each>
-                <xsl:choose>
+                <xsl:choose>                    
+                    <xsl:when test="starts-with(ancestor::tei:TEI/@xml:id,'grand_tour.')">
+                        <!--<br/><a href="../personen#{substring-after(@ref, '#')}">Registereintrag</a> mit weiteren Fundstellen.-->
+                    </xsl:when>
                     <xsl:when test="not(starts-with(ancestor::tei:TEI/@xml:id,'sz2.'))">
                         <br/><a href="../personen#{substring-after(@ref, '#')}">Registereintrag</a> mit weiteren Fundstellen.
-                    </xsl:when>
-                    <xsl:when test="not(starts-with(ancestor::tei:TEI/@xml:id,'grand_tour.'))">
-                        <!--<br/><a href="../personen#{substring-after(@ref, '#')}">Registereintrag</a> mit weiteren Fundstellen.-->
                     </xsl:when>
                     <xsl:otherwise>
                         <br/><a href="personen#{substring-after(@ref, '#')}">Registereintrag</a> mit weiteren Fundstellen.
@@ -424,12 +424,12 @@
                         <br/>Weitere Informationen bei <a href="{@ref}" target="_blank">geonames.org</a>.                        
                     </xsl:if>                    
                 </xsl:for-each>
-                <xsl:choose>
+                <xsl:choose>                    
+                    <xsl:when test="starts-with(ancestor::tei:TEI/@xml:id,'grand_tour.')">
+                        <!--<br/><a href="../personen#{substring-after(@ref, '#')}">Registereintrag</a> mit weiteren Fundstellen.-->
+                    </xsl:when>
                     <xsl:when test="not(starts-with(ancestor::tei:TEI/@xml:id,'sz2.'))">
                         <br/><a href="../orte#{substring-after(@ref, '#')}">Registereintrag</a> mit weiteren Fundstellen.
-                    </xsl:when>
-                    <xsl:when test="not(starts-with(ancestor::tei:TEI/@xml:id,'grand_tour.'))">
-                        <!--<br/><a href="../personen#{substring-after(@ref, '#')}">Registereintrag</a> mit weiteren Fundstellen.-->
                     </xsl:when>
                     <xsl:otherwise>
                         <br/><a href="orte#{substring-after(@ref, '#')}">Registereintrag</a> mit weiteren Fundstellen.
@@ -463,7 +463,7 @@
                 </xsl:if>                    
             </xsl:for-each>
             <xsl:choose>
-                <xsl:when test="not(starts-with(ancestor::tei:TEI/@xml:id,'grand_tour.'))">
+                <xsl:when test="starts-with(ancestor::tei:TEI/@xml:id,'grand_tour.')">
                     <!--<br/><a href="../personen#{substring-after(@ref, '#')}">Registereintrag</a> mit weiteren Fundstellen.-->
                 </xsl:when>
                 <xsl:otherwise>
