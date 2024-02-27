@@ -9,17 +9,17 @@
     </teiHeader>
     <text>
         <body>
-            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00097.jpg" n="47r"><del>1615</del></head></div>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00097.jpg" n="47r"><del>1615</del> <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></head></div>
             
             <div xml:id="E1615-09-19a"><head><date when="1615-09-19"><del>den 19 7bris <c>♂</c></del></date></head><p> <del>biß <rs ref="register.xml#Vahr" type="place">Varle</rs> 5.
                 m<ex>eill</ex>. </del></p></div>
             
             <div xml:id="E1615-10-03a"><head><date when="1615-10-03"><del>d<ex>e</ex>n 3 8bris,</del></date></head><p><del> biß <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs></del></p></div>
             
-            <div><p>161<subst><del>6</del><add>5</add></subst></p></div>
+            <div><head>161<subst><del>6</del><add place="inline">5</add></subst><note type="annotation" resp="mg">"6" durch Überschreibung zu "5" verbessert.</note></head></div>
            
-            <div><note place="margin-right">den <label><date when="1615-07-02">2 Julÿ <c>☉</c></date></label><p> <foreign xml:lang="lat">horam 9. 30. post meridiem Nata est nona et ultima
-                filia</foreign><note type="translation">Um 21:30 Uhr wurde geboren</note>, <seg><rs ref="register.xml#Juliana_von_Wuerttemberg_Weiltingen" type="person">Juliana, Delmenhorstica</rs></seg><note type="annotation">Juliana war die Tochter von Gräfin Sibylle Elisabeth von Oldenburg und Graf Anton von Oldenburg</note></p></note></div>
+            <div><add place="margin-right">den <label><date when="1615-07-02">2 Julÿ <c>☉</c></date></label><p> <foreign xml:lang="lat">hor<ex>a</ex> 9.30. p<ex>ost</ex> m<ex>eridiem</ex> Nata est nona et ultima
+                filia, <rs ref="register.xml#Juliana_von_Wuerttemberg_Weiltingen" type="person">Juliana, Delmenhorstica</rs> p<ex>erge</ex></foreign><note type="translation">9:30 Uhr nachmittags wurde die neunte und letzte Tochter von Delmenhorst, Juliana, geboren usw.</note></p></add></div>
             
             <div xml:id="E1615-08-09"><head><date when="1615-08-09">den 9 Augusti <c>☿</c></date></head><p> biß <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs> 5
                 m<ex>eill</ex>.</p></div>
@@ -40,9 +40,9 @@
             
             <div xml:id="E1615-10-11"><head><date when="1615-10-11">d<ex>e</ex>n 11. 8bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Dueshorn" type="place">Düßhorn</rs>, <rs ref="register.xml#Bergen" type="place">Bergen</rs>:</p></div>
             
-            <div xml:id="E1615-10-12"><head><date when="1615-10-12">d<ex>e</ex>n 12 8bris</date></head><p> biß <rs ref="register.xml#Walsrode" type="place">Walßrade</rs>. biß <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs>: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1615-10-12"><head><date when="1615-10-12">d<ex>e</ex>n 12 8bris</date></head><p> biß <rs ref="register.xml#Walsrode" type="place">Walßrade</rs>. biß <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs>: <foreign xml:lang="">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
-            <div xml:id="E1615-10-13"><head><date when="1615-10-13">d<ex>e</ex>n 13 8bris,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1615-10-13"><head><date when="1615-10-13">d<ex>e</ex>n 13 8bris,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>: <foreign xml:lang="">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
         
         </body>
     </text>

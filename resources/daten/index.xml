@@ -15,19 +15,37 @@
             </publicationStmt>
             <sourceDesc>
                 <p>born digital</p>
-            </sourceDesc>
+            </sourceDesc>            
         </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>
+                    <date when="2020-10-22">22. Oktober 2020</date>: Angepasst und erweitert zur Publikation von Selbstzeugnisse II (MG)
+                </item>
+                <item>
+                    <date when="2023-06-09">09. Juni 2023</date>: Angepasst und erweitert zur Publikation von Grand Tour digital (MG)
+                </item>
+            </list>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div>
                 <head>Selbstzeugnis-Forschungsportal</head>
-                <p> Im Rahmen des vom Niedersächsischen Ministerium für Wissenschaft und Kultur (PRO*Niedersachsen) geförderten Projektes „Selbstzeugnisse der
-                    Frühen Neuzeit in der Herzog August Bibliothek. Digitale Edition des Diariums
-                    von Herzog August dem Jüngeren, Selbstzeugnis-Repertorium und Forschungsportal“
-                    wurden die handschriftlichen Selbstzeugnisse der Herzog August Bibliothek (<ref target="http://www.hab.de/">HAB</ref>) unter Zuhilfenahme der gedruckt vorliegenden 
-                    Handschriftenkataloge identifiziert, autoptisch untersucht und in einem <ref target="http://selbstzeugnisse.hab.de/repertorium/">digitalen Repertorium</ref> systematisch verzeichnet. Parallel wurde exemplarisch die <ref target="http://selbstzeugnisse.hab.de/edition/">digitale Edition</ref> des
-                    Tagebuches von August dem Jüngeren, Herzog zu Braunschweig und Lüneburg (1579-1666), erstellt. Weitere Projektergebnisse sind für die Selbstzeugnisforschung relevante Recherche- und Arbeitsmittel, z.B. eine <ref target="http://selbstzeugnisse.hab.de/bibliographie">Bibliographie</ref> und Verweise auf themenspezifische <ref target="http://selbstzeugnisse.hab.de/extern">Websites und Fachportale</ref>.</p></div>
+                <p> 
+                    Im Rahmen des vom Niedersächsischen Ministerium für Wissenschaft und Kultur (PRO*Niedersachsen) von 2014 bis 2017 geförderten Projektes „Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek. Digitale Edition des Diariums von Herzog August dem Jüngeren, Selbstzeugnis-Repertorium und Forschungsportal“ wurden die handschriftlichen Selbstzeugnisse der Herzog August Bibliothek (<ref target="http://www.hab.de/">HAB</ref>) unter Zuhilfenahme der gedruckt vorliegenden 
+                    Handschriftenkataloge identifiziert, autoptisch untersucht und in einem <ref target="http://selbstzeugnisse.hab.de/repertorium/">digitalen Repertorium</ref> systematisch verzeichnet. Parallel wurde exemplarisch eine <ref target="http://selbstzeugnisse.hab.de/edition/">digitale Edition</ref> des den Zeitraum von 1594 bis 1635 umfassenden Tagebuches von August dem Jüngeren, Herzog zu Braunschweig-Lüneburg (1579-1666), erstellt.<!-- Weitere Projektergebnisse sind für die Selbstzeugnisforschung relevante Recherche- und Arbeitsmittel, z.B. eine <ref target="http://selbstzeugnisse.hab.de/bibliographie">Bibliographie</ref> und Verweise auf themenspezifische <ref target="http://selbstzeugnisse.hab.de/extern">Websites und Fachportale</ref>.-->
+                </p>
+                <p>
+                    Im Anschluss an das Repertorium und die Edition des Tagebuchs von August dem Jüngeren führte die HAB von 2019 bis 2022 das ebenfalls im Programm PRO*Niedersachsen vom Niedersächsischen Ministerium für Wissenschaft und Kultur geförderte Projekt "Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek II: Digitale Edition der Tagebücher von Herzog Ludwig Rudolph und Herzogin Christine Luise von Braunschweig-Wolfenbüttel"  durch. Die in diesem Rahmen erarbeitete historisch-kritisch <ref target="http://selbstzeugnisse.hab.de/sz2/projektbeschreibung">kommentierte Edition</ref> von vier Tagebüchern des herzoglichen Paares aus der Zeit zwischen 1698 und 1724 wird im Rahmen des bestehenden Portals sukzessive digital veröffentlicht. Sie wird vervollständigt durch weiterführende und begleitende Texte zu den Quellen, zu den beiden Tagebuchschreibenden und ihrem kulturgeschichtlichen Hintergrund. Zudem bietet das Portal in einer Gesamtbibliographie diesbezügliche (und großteils digitalisierte) Quellen aus den Beständen der HAB sowie einschlägige Literatur zum Herzogspaar, zum Territorium, zum Hof und seiner Kultur sowie zur Selbstzeugnisforschung.
+                </p>
+                <p>
+                    Nach dem erfolgreichen Abschluss der Projekte Selbstzeugnisse I und II wird diese Editions- und Forschungslinie seit August 2022 mit dem Projekt "Grand Tour digital. Digitalisierung, Erschließung und Visualisierung frühneuzeitlicher Selbstzeugnisse von Bildungsreisen unter Anwendung teilautomatisierter Editionsverfahren" fortgesetzt. Ziel des Projekts ist die Edition von insgesamt fünf Reiseberichten des 16. bis 18. Jahrhunderts sowie die Digitalisierung und Erschließung über Meta- und Strukturdaten von 15 weiteren Texten dieser Art. Für die Erstellung der Edition wird ein teilautomatisierter Workflow entwickelt, der auf der maschinellen Handschriftenerkennung (HTR) und Named Entity Recognition (NER) basiert. Der Entwicklungsprozess dieses Workflows wird in einem projektbegleitenden <ref target="https://grandtourdig.hypotheses.org/">Blog</ref> dokumentiert. Ferner soll auf der Präsentationsebene ein Fokus auf der synoptischen Verschränkung von Text und Reiseroute mittels einer interaktiven Kartenvisualisierung liegen.
+                </p>
+                <!--<p>
+                    Vorbehaltlich künftiger Förderung ist beabsichtigt, diese Editions- und Forschungslinie der Bibliothek auch nach Abschluss der Selbstzeugnisse II mit einem weiteren Folgevorhaben fortzuführen.
+                </p>--> 
+            </div>
         </body>
     </text>
 </TEI>

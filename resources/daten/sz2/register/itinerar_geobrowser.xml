@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.register.geobrowser">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Kartographisches Itinerar</title>
+                <respStmt>
+                    <resp>erstellt von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>                        
+                    </persName>                   
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Kartographisches Itinerar</head>
+                <p>
+                    Das mit dem <ref target="https://de.dariah.eu/geobrowser">DARIAH-DE Geo-Browser</ref> visualisierte kartographische Itinerar enthält die in den Quellen besuchten Orte, zu denen ein Identifier bei <ref target="http://www.geonames.org/">GeoNames</ref> zu finden war. Für ein vollständiges Ortsregister, das sowohl besuchte als auch erwähnte Orte berücksichtigt, siehe die <ref target="http://selbstzeugnisse.hab.de/sz2/orte">tabellarische Übersicht</ref>. Eine eigenständige Visualisierung über den Geo-Browser ist <ref target="https://geobrowser.de.dariah.eu/index.html?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-60B1-195E-0614-0">hier</ref> zu finden, gesonderte Visusalisierungen für die einzelnen Quellen hier: Tagebücher Ludwig Rudolphs: <ref target="https://geobrowser.de.dariah.eu/index.html?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-C308-CBCF-8C56-0">Cod. Guelf. 28 Blank.</ref> (1701), <ref target="https://geobrowser.de.dariah.eu/index.html?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-C396-D651-1ACD-0">Cod. Guelf. 286 Blank.</ref> (1706-1724), <ref target="https://geobrowser.de.dariah.eu/index.html?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-C9E8-87D2-095C-0">Cod. Guelf. 286a Blank.</ref> (1707); Tagebuch Christine Luises: <ref target="https://geobrowser.de.dariah.eu/?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-2D6B-A11D-78A1-0">Cod. Guelf. 211.1 Extrav.</ref> (1698/99).
+                </p>
+                <figure rend="iframe">
+                    <graphic url="https://geobrowser.de.dariah.eu/embed/?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-60B1-195E-0614-0"/>
+                    <figDesc>Kartographische Darstellung des Ortsregisters.</figDesc>
+                </figure>                
+            </div>  
+        </body>
+    </text>
+</TEI>

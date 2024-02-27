@@ -16,29 +16,36 @@
     <div class="navigation">
       <xsl:call-template name="navigation"/>
     </div>
-    <div class="mainpage register">
-      <xsl:apply-templates select="tei:listPerson"/>
-    </div>
-    <div class="infopanel">
-      <div class="screen-only controls">
-        <ul>
-          <li><a class="fa fa-print" href="javascript:print()"> Drucken</a></li>
-        </ul>
+    <div class="content">
+      <div class="contentWrap">
+        <div class="register">
+          <xsl:apply-templates select="tei:listPerson"/>
+        </div>
       </div>
-      <div class="facet">
-        <h1>Schnellauswahl</h1>
-        <ul>
-          <xsl:for-each select="./tei:listPerson/tei:person[generate-id() = generate-id(key('persons', substring(tei:persName, 1, 1))[1])]">
-            <xsl:sort select="substring(tei:persName, 1, 1)"/>
-            <li>
-              <a href="#{substring(tei:persName, 1, 1)}">
-                <xsl:value-of select="substring(tei:persName, 1, 1)"/>
-              </a>
-            </li>
-          </xsl:for-each>
-        </ul>
+      <div id="infopanel">
+        <input class="trigInp" type="checkbox" role="button"/>
+        <a id="trigBtn" role="button">
+          <span></span>
+          <span></span>
+        </a>
+        <div class="facet large">
+          <div class="formWrap">
+            <h1>Schnellauswahl</h1>
+            <ul>
+              <xsl:for-each select="./tei:listPerson/tei:person[generate-id() = generate-id(key('persons', substring(tei:persName, 1, 1))[1])]">
+                <xsl:sort select="substring(tei:persName, 1, 1)"/>
+                <li>
+                  <a href="#{substring(tei:persName, 1, 1)}">
+                    <xsl:value-of select="substring(tei:persName, 1, 1)"/>
+                  </a>
+                </li>
+              </xsl:for-each>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
+    
   </xsl:template>
 
   <xsl:template match="tei:listPerson">

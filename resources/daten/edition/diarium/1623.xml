@@ -11,60 +11,59 @@
         <body>
             <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00103.jpg" n="50r">Anno 1623.</head></div>         
             
-            <div xml:id="E1623-01-02"><head><date when="1623-01-02">den 2. Januar<ex>i</ex>
+            <div xml:id="E1623-01-02"><head><date when="1623-01-02">den 2. Januar<ex>ii</ex>
                 <c>♃</c></date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>.</p></div>
             
-            <div xml:id="E1623-01-03"><head><date when="1623-01-03">den 3. Januar<ex>i</ex>
+            <div xml:id="E1623-01-03"><head><date when="1623-01-03">den 3. Januar<ex>ii</ex>
                 <c>♀</c></date></head><p> biß <rs ref="register.xml#Plau" type="place">Plawe</rs></p></div>
             
-            <div xml:id="E1623-01-04"><head><date when="1623-01-04">d<ex>e</ex>n 4. Jan<ex>uari</ex> <c>♄</c></date></head><p> biß <rs ref="register.xml#Mirow" type="place">Mirow</rs>.</p></div>
+            <div xml:id="E1623-01-04"><head><date when="1623-01-04">d<ex>e</ex>n 4. Jan<ex>uarii</ex> <c>♄</c></date></head><p> biß <rs ref="register.xml#Mirow" type="place">Mirow</rs>.</p></div>
             
-            <div xml:id="E1623-01-05"><head><date when="1623-01-05">d<ex>e</ex>n 5. Jan<ex>uari</ex> <c>☉</c></date></head><p> biß <rs ref="register.xml#Neubrandenburg" type="place">N<ex>eu</ex>
+            <div xml:id="E1623-01-05"><head><date when="1623-01-05">d<ex>e</ex>n 5. Jan<ex>uarii</ex> <c>☉</c></date></head><p> biß <rs ref="register.xml#Neubrandenburg" type="place">N<ex>eu</ex>
                 Brandenburgk</rs>.</p></div>
             
-            <div xml:id="E1623-01-06"><head><date when="1623-01-06">d<ex>e</ex>n 6. Jan<ex>uari</ex>
+            <div xml:id="E1623-01-06"><head><date when="1623-01-06">d<ex>e</ex>n 6. Jan<ex>uarii</ex>
                 <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Torgelow" type="place">Torgerlaw</rs>.</p></div>
             
-            <div xml:id="E1623-01-07"><head><date when="1623-01-07">d<ex>e</ex>n 7. Jan<ex>uari</ex>
+            <div xml:id="E1623-01-07"><head><date when="1623-01-07">d<ex>e</ex>n 7. Jan<ex>uarii</ex>
                 <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Stettin" type="place">Alten Stetin</rs>.</p></div>
             
-            <div xml:id="E1623-01-08"><head><date when="1623-01-08">den 8. Jan<ex>uari</ex>
+            <div xml:id="E1623-01-08"><head><date when="1623-01-08">den 8. Jan<ex>uarii</ex>
                 <c>☿</c></date></head><p> ist H<ex>err</ex> <rs ref="register.xml#Ulrich_Pommern" type="person">Ulrich zu Stetin Pommern</rs>, begrab<ex>e</ex>n word<ex>e</ex>n.</p></div>
             
-            <div xml:id="E1623-01-20"><head><date when="1623-01-20">den 20. Januar<ex>i</ex>
+            <div xml:id="E1623-01-20"><head><date when="1623-01-20">den 20. Januar<ex>ii</ex>
                 <c>☽</c></date></head><p> biß <rs ref="register.xml#Torgelow" type="place">Torgerlaw</rs>.</p></div>
             
-            <div xml:id="E1623-01-21"><head><date when="1623-01-21">den 21. Jan<ex>uari</ex>
+            <div xml:id="E1623-01-21"><head><date when="1623-01-21">den 21. Jan<ex>uarii</ex>
                 <c>♂</c></date></head><p> biß <rs ref="register.xml#Neubrandenburg" type="place">N<ex>eu</ex> Brandenburg</rs>.</p></div>
             
-            <div xml:id="E1623-01-22"><head><date when="1623-01-22">den 22. Jan<ex>uari</ex>
+            <div xml:id="E1623-01-22"><head><date when="1623-01-22">den 22. Jan<ex>uarii</ex>
                 <c>☿</c></date></head><p> biß <rs ref="register.xml#Mirow" type="place">Mirow</rs>.</p></div>
             
-            <div xml:id="E1623-01-23"><head><date when="1623-01-23">den 23. Jan<ex>uari</ex>
+            <div xml:id="E1623-01-23"><head><date when="1623-01-23">den 23. Jan<ex>uarii</ex>
                 <c>♃</c>.</date></head><p> biß <rs ref="register.xml#Plau" type="place">Plawe</rs>.</p></div>
             
-            <div xml:id="E1623-01-24"><head><date when="1623-01-24">d<ex>e</ex>n 24. Jan<ex>uari</ex>
+            <div xml:id="E1623-01-24"><head><date when="1623-01-24">d<ex>e</ex>n 24. Jan<ex>uarii</ex>
                 <c>♀</c></date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>.</p></div>
             
-            <div xml:id="E1623-01-27"><head><date when="1623-01-27">den 27. Jan<ex>uari</ex>
+            <div xml:id="E1623-01-27"><head><date when="1623-01-27">den 27. Jan<ex>uarii</ex>
                 <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Bankewitz" type="place">Bancke</rs>.</p></div>
             
-            <div xml:id="E1623-01-28"><head><date when="1623-01-28">d<ex>e</ex>n 28. Jan<ex>uari</ex>
+            <div xml:id="E1623-01-28"><head><date when="1623-01-28">d<ex>e</ex>n 28. Jan<ex>uarii</ex>
                 <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger.</rs></p></div>
-            <!-- TEI-P5 3.2.0 erlaubt kein <head> in einer <note>; <note> ist aber der Weg, Marginalien zu kodieren. Deshalb an dieser Stelle <label>. -->
-            <div><note place="margin-right"><label><date when="1623-04-16">den 16 April<ex>is</ex>
-                <c>☿</c>.</date></label><p> biß <rs ref="register.xml#Lueneburg" type="place">Lüneburgk</rs> mit meinen
-                    <foreign xml:lang="lat">neptibus ex sorore</foreign><note type="translation">Nichten von meiner Schwester</note>, gezogen: die von danne<ex>n</ex> nach <rs ref="register.xml#Delmenhorst" type="place">Delmenh<ex>orst</ex></rs> gebracht.</p></note></div> 
+            <div><add place="margin-right"><head><date when="1623-04-16">den 16 April<ex>is</ex>
+                <c>☿</c>.</date></head><p> biß <rs ref="register.xml#Lueneburg" type="place">Lüneburgk</rs> mit meinen
+                    <foreign xml:lang="lat">neptibus<note type="footnote" resp="mg">August hat die Namen seiner Nichten selbst auf der <ref target="http://selbstzeugnisse.hab.de/edition/diarium/front">Titelseite</ref> notiert. Es handelt sich um: <rs type="person" ref="register.xml#Sophia_Ursula_Barby">Sophia Ursula</rs>, <rs type="person" ref="#oldenburg-delmenhorst_katharina_elisabeth">Katharina Elisabeth</rs>, <rs type="person" ref="#schleswig-holstein-sonderburg_anna">Anna</rs>, <rs type="person" ref="#schleswig-holstein-sonderburg-beck_clara">Clara</rs>, <rs type="person" ref="#oldenburg-delmenhorst_sibylla_maria">Sibylla Maria</rs>, <rs type="person" ref="#oldenburg-delmenhorst_dorothea">Dorothea</rs>, <rs type="person" ref="register.xml#Sidonia_von_Oldenburg_Delmenhorst">Sidonia</rs>, <rs type="person" ref="#Emilie_von_Schwarzburg_Rudolstadt">Emilie</rs> und <rs type="person" ref="#Juliana_von_Wuerttemberg_Weiltingen">Juliana</rs> (alle geb. Gräfinnen von Oldenburg-Delmenhorst).</note> ex <rs type="person" ref="register.xml#Sibylle_El_Ol">sorore</rs></foreign><note type="translation">Nichten von meiner Schwester</note>, gezogen: die von danne<ex>n</ex> nach <rs ref="register.xml#Delmenhorst" type="place">Delmenh<ex>orst</ex></rs> gebracht.</p></add></div> 
                     
-          <div><note place="margin-right"><label><date when="1623-04-17">den 17. Apr<ex>ilis</ex>
-                        <c>♃</c>.</date></label> <p>biß. <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></note></div>
+          <div><add place="margin-right"><head><date when="1623-04-17">den 17. Apr<ex>ilis</ex>
+                        <c>♃</c>.</date></head> <p>biß. <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></add></div>
             
             <div xml:id="E1623-06-04"><head><date when="1623-06-04">den 4. Junÿ <c>☿</c>,</date></head><p> biß <rs ref="register.xml#Uelzen" type="place">Ültzen</rs>.</p></div>
             
             <div xml:id="E1623-06-05"><head><date when="1623-06-05">d<ex>e</ex>n 5. Jun<ex>ÿ</ex>
                 <c>♃</c>.</date></head><p> biß <rs ref="register.xml#Celle" type="place">Zelle.</rs></p></div>
             
-            <div xml:id="E1623-06-07"><head><date when="1623-06-07">d<ex>e</ex>n 7. Jun<ex>ÿ</ex> <c>♄</c>,</date></head><p> <unclear>Ribromae Emuitinir</unclear>. biß
+            <div xml:id="E1623-06-07"><head><date when="1623-06-07">d<ex>e</ex>n 7. Jun<ex>ÿ</ex> <c>♄</c>,</date></head><p> Ribromae Emuitinir.<note type="footnote" resp="mg">Bedeutung unklar.</note> biß
                 <rs ref="register.xml#Walsrode" type="place">Walßrade</rs>, 5. m<ex>eill</ex>.</p></div>
             
             <div xml:id="E1623-06-08"><head><date when="1623-06-08">d<ex>e</ex>n 8. Jun<ex>ÿ</ex> <c>☉</c></date></head><p> biß <rs ref="register.xml#Achim" type="place">Achimb</rs>: <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>
@@ -94,7 +93,7 @@
             
             <div xml:id="E1623-07-17"><head><date when="1623-07-17">d<ex>e</ex>n 17. Julÿ <c>♃</c>.</date></head><p> biß <rs ref="register.xml#Schoeningen" type="place">Schöning</rs>. 4. m<ex>eill</ex>.</p></div>
             
-            <div xml:id="E1623-07-18"><head><date when="1623-07-18">d<ex>e</ex>n 18. Julÿ, <c>♀</c>.</date></head><p><foreign xml:lang="lat">Sponsalia, cum</foreign><note type="translation">Verlobung mit</note> <rs ref="register.xml#Dorothea_von_Anhalt_Zerbst" type="place">Anhaldina</rs> celebriret.</p></div>
+            <div xml:id="E1623-07-18"><head><date when="1623-07-18">d<ex>e</ex>n 18. Julÿ, <c>♀</c>.</date></head><p><foreign xml:lang="lat">Sponsalia, cum <rs ref="register.xml#Dorothea_von_Anhalt_Zerbst" type="person">Anhaldina</rs></foreign><note type="translation">Verlobung mit der Anhaltinerin</note> celebriret.</p></div>
             
             <div xml:id="E1623-07-19"><head><date when="1623-07-19">d<ex>e</ex>n 19. Julÿ. <c>♄</c>.</date></head><p> biß <rs ref="register.xml#Wolfenbuettel" type="place">Wolfenbüttel</rs>.</p></div>
             
@@ -129,18 +128,17 @@
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00105.jpg" n="51r"/>
             
             <div xml:id="E1623-10-26"><head><date when="1623-10-26">den 26 Octobr<ex>is</ex> <c>☉</c></date></head><p> <subst><del rend="overstrike">ist</del> <add place="above">Habe ich</add></subst> mein ander
-                Beylager, mit Frewlein <rs ref="register.xml#Dorothea_von_Anhalt_Zerbst" type="place">Dorotheen zu Anhalt</rs>, gehalten. <del rend="overstrike">word<ex>e</ex>n</del> d<ex>er</ex> Allmechtige verleihe darzu ferner seine<ex>n</ex> Seegen.</p></div>
+                Beylager, mit Frewlein <rs ref="register.xml#Dorothea_von_Anhalt_Zerbst" type="person">Dorotheen zu Anhalt</rs>, gehalten. <del rend="overstrike">word<ex>e</ex>n</del> d<ex>er</ex> Allmechtige verleihe darzu ferner seine<ex>n</ex> Seegen.</p></div>
             
             <div xml:id="E1623-11-05"><head><date when="1623-11-05">den 5. 9bris <c>☿</c>.</date></head><p> biß
                 <rs ref="register.xml#Magdeburg" type="place">Magdeburgk</rs>.</p></div>
             
             <div xml:id="E1623-11-06"><head><date when="1623-11-06">d<ex>e</ex>n 6. 9bris <c>♃</c>,</date></head><p> 
-                dem <seg><rs ref="register.xml#Moritz_der_Gelehrte_von_Hessen-Kassel" type="person">Landtgr<ex>afen</ex> Moritz<ex>en</ex></rs> zugesprochen</seg><note type="annotation">Moritz Ständepolitik hatte ihn dazu gewzungen, Hessen-Kassel für zwei Jahre zu verlassen. Im Zuge des gleichen Konfliktes zwangen ihn seine eigenen Landstände 1627 zum Rücktritt von der Regierung. Moritz hatte sich vorher von verschiedenen Fürstentümern Hilfe gesucht, so auch von Braunschweig-Wolfenbüttel bzw. Herzog August d.J., der an dieser Stelle im Diarium seine gebotene Unterstützung für Moritz notiert. Vgl. auch Eintrag zu Moritz von Hessen-Kassel: <ref target="http://www.die-fruchtbringende-gesellschaft.de/index.php?category_id=4&amp;article_id=16">in der Mitgliederdatenbank der Fruchtbringenden Gesellschaft</ref></note> biß <rs ref="register.xml#Colbitz" type="place">Colbitz</rs>. biß <rs ref="register.xml#Gardelegen" type="place">Gardeleben</rs>.</p></div>
+                dem <rs ref="register.xml#Moritz_der_Gelehrte_von_Hessen-Kassel" type="person">Landtgr<ex>afen</ex> Moritz<ex>en</ex></rs> zugesprochen:<note type="footnote">Moritz' Ständepolitik hatte ihn dazu gewzungen, Hessen-Kassel für zwei Jahre zu verlassen. Im Zuge des gleichen Konfliktes zwangen ihn seine eigenen Landstände 1627 zum Rücktritt von der Regierung. Moritz hatte sich vorher von verschiedenen Fürstentümern Hilfe gesucht, so auch von Braunschweig-Wolfenbüttel bzw. Herzog August d.J., der an dieser Stelle im Diarium seine Begegnung mit Moritz notiert. Vgl. den Eintrag zu Moritz von Hessen-Kassel in der <ref target="http://www.die-fruchtbringende-gesellschaft.de/index.php?category_id=4&amp;article_id=16">Mitgliederdatenbank der Fruchtbringenden Gesellschaft</ref>.</note> biß <rs ref="register.xml#Colbitz" type="place">Colbitz</rs>. biß <rs ref="register.xml#Gardelegen" type="place">Gardeleben</rs>.</p></div>
             
             <div xml:id="E1623-11-07"><head><date when="1623-11-07">d<ex>e</ex>n 7. 9bris <c>♀</c>.</date></head><p> biß <rs ref="register.xml#Salzwedel" type="place">Saltzwedel</rs>.</p></div>
             
-            <div xml:id="E1623-11-08"><head><date when="1623-11-08">d<ex>e</ex>n 8. 9bris, <c>♄</c>,</date></head><p> biß <add place="above">Berg.</add> <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>: </p></div>
-                <div><p>d<ex>e</ex>n</p><note type="annotation">In anderer Tinte und vermutlich zu einem späteren Zeitpunkt notierter Satzanfang</note></div>
+            <div xml:id="E1623-11-08"><head><date when="1623-11-08">d<ex>e</ex>n 8. 9bris, <c>♄</c>,</date></head><p> biß <add place="above">Berg.</add> <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>: d<ex>e</ex>n<note type="annotation">In anderer Tinte und vermutlich zu einem späteren Zeitpunkt notierter Satzanfang.</note></p></div>          
                     
         </body>
     </text>

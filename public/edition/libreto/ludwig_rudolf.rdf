@@ -1,0 +1,3043 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:libreto="http://bibliotheksrekonstruktion.hab.de/ontology.php#"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/spec/#term_"
+         xmlns:dbo="http://dbpedia.org/ontology/"
+         xmlns:ns0="d"
+         xmlns:gn="http://www.geonames.org/ontology#"
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+
+  <libreto:Collection rdf:about="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf">
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1701, 1707</dc:date>
+    <dc:title>Lektürenotizen</dc:title>
+    <dc:description xml:lang="de">Es handelt sich um Lesenotizen des Herzogs Ludwig Rudoph von Braunschweig-Wolfenbüttel in seinen Tage- und Notizbüchern.</dc:description>
+    <libreto:collector rdf:resource="http://d-nb.info/gnd/124700470"/>
+  </libreto:Collection>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/124700470">
+    <foaf:name>Ludwig Rudolph von Braunschweig-Wolfenbüttel</foaf:name>
+    <foaf:name>Ludwig Rudolf Braunschweig-Lüneburg, Herzog</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">124700470</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Catalogue rdf:about="br:ludwig_rudolf/catalogues/Herzog+August+Bibliothek+Wolfenb%C3%BCttel_Cod.+Guelf.+28+Blank.%2C+Cod.+Guelf.+286a+Blank.">
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1701, 1707</dc:date>
+    <libreto:shelfmark>Cod. Guelf. 28 Blank., Cod. Guelf. 286a Blank.</libreto:shelfmark>
+    <libreto:owner>Herzog August Bibliothek Wolfenbüttel</libreto:owner>
+    <dc:title>Tagebuch 1701 (Cod. Guelf. 28 Blank.), Tage- und Notizbuch 1707 (Cod. Guelf. 286a Blank.)</dc:title>
+  </libreto:Catalogue>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf0">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Les Caractères De Theophraste, Traduits du Grec. Avec Les Caracteres Ou Les Moeurs De Ce Siecle, Par M. De La Bruyere de l'Academie Françoise. Avec La Clef En Marge, divisé en trois Volumes</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1720</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Wetstein</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118621793">
+        <foaf:name>Theophrastus</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118621793</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118725785">
+        <foaf:name>La Bruyère, Jean</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118725785</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/11900478X">
+        <foaf:name>Coste, Pierre</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">11900478X</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237048752">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>237048752</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/Amsterdam">
+    <gn:name>Amsterdam</gn:name>
+  </libreto:Place>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf1">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:title>Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Niederlag, Bey Hochlöbl. Reichs-Convent, in deß auch Heil. Reichs Stadt Regenspurg von Anno 1710. 1711. und 1712. ventiliret worden</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>2</libreto:bibliographicalFormat>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Streitschrift:jur.</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14376083">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>14376083</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/%5BS.l.%5D">
+    <gn:name>[S.l.]</gn:name>
+  </libreto:Place>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf2">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Alix de France. nouvelle historique</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Roger</dc:publisher>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Montfort%2C+Louis">
+        <foaf:name>Montfort, Louis</foaf:name>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=595406939">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>595406939</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf3">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Les Mille &amp; Un Jour Tome Troisiéme</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Coup</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:contributor rdf:resource="http://d-nb.info/gnd/117702269"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250753391">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>250753391</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/117702269">
+    <foaf:name>Pétis de la Croix, François</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">117702269</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf4">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Les Mille &amp; Un Jour Tome Second</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Coup</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:contributor rdf:resource="http://d-nb.info/gnd/117702269"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250752980">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>250752980</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf5">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>La Vie De Cesar Borgia, appellé du depuis Le Duc De Valentinois. Enrichi de belles figures en Taille douce</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Haak</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Leide">
+        <gn:name>Leide</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/121889556">
+        <foaf:name>Tomasi, Tomaso</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">121889556</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor rdf:resource="http://d-nb.info/gnd/128597771"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=23610506X">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>23610506X</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/128597771">
+    <foaf:name>Freschot, Casimir</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">128597771</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf6">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Résolution de leurs Hautes Puissances. Memoire &amp; Documents Servant a montrer, que c'est a tort que les Estats Generaux des Provinces Unies sont chargez, par les Resolutions ou Votes de la Chambre des Communes du Parlement de la Grande-Bretagne, &amp; par l'Addresse de la même Cahmbre [!], presentée sur ce sujet à sa Majesté Britannique d'avoir manqué à divers égards, pendant le cours de la presente guerre, a fournir ce qu'ils doivent pour leur Quote part, ou Portion, suivant leurs engagements</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Scheltus</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/%5Bs%27Gravenhage%5D">
+        <gn:name>[s'Gravenhage]</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150965478">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150965478</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf7">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Alethophili Sendschreiben an Herrn M. R. O. Von unterschiedlichen Etliche Jahre her vorgegebenen Neuen Propheten und Prophezeyungen. Worinnen Absonderlich auch von der Welt-beruffenen Männer Theophrasti Paracelsi, Isaac Bickerstafs, Emanuel Philippi Paris, Georgii Reichardi und Nicolai Drabicii Vaticiniis wegen der jetzigen Schwedischen und anderer Conjuncturen/ ausführlicher Bericht geschiehet</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/C%C3%B6lln">
+        <gn:name>Cölln</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/1055513329">
+        <foaf:name>Kaiser, Johann</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">1055513329</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10221069-004">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>10221069-004</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf8">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Tratté de l'amour de Dieu</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Roger</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/1055323457">
+        <foaf:name>Saurin, Élie</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">1055323457</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150381794">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150381794</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf9">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Memoires Anecdotes De La Cour Et Du Clergé De France. Avec L'Histoire du Différend du Cardinal de Noailles ; avec les Evêques de Luc̜on &amp; de la Rochelle, &amp; les Jesuites</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Londres">
+        <gn:name>Londres</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/1055469648">
+        <foaf:name>Denis, Jean Baptiste</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">1055469648</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14765842X">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>14765842X</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf10">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät .. Regierung vorgefallenen Reichs-Historie. Alles mit behörigen Documenten bekräfftiget, auch mit andern curieusen u. nützlichen Reichs-Materien erläutert, Als I. Von der Wahl-Crönungs-Ceremonien eines Römischen Käysers; II. Gründliche Nachricht von der Güldenen Bulle ..; III. Von denen Reichs-Vicariis ..</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1712</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Gleditsch</dc:publisher>
+    <dc:publisher>Weidmann</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Leipzig"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/117014931">
+        <foaf:name>Zschackwitz, Johann Ehrenfried</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">117014931</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+11405236-001">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>11405236-001</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/Leipzig">
+    <gn:name>Leipzig</gn:name>
+  </libreto:Place>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf11">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>La Communion Sainte, Ou Traité sur la nécessité &amp; les moyens de communier dignement</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Acher</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Rotterdam"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/120538253"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=829182470">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>829182470</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/Rotterdam">
+    <gn:name>Rotterdam</gn:name>
+  </libreto:Place>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/120538253">
+    <foaf:name>Basnage de Beauval, Jacques</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">120538253</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf12">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'Espion Dans Les Cours Des Princes Chrétiens, Ou Lettres Et Memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe.̤ T. 2</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Kinkius</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Cologne"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/119080370"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=360588395">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>360588395</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/Cologne">
+    <gn:name>Cologne</gn:name>
+  </libreto:Place>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/119080370">
+    <foaf:name>Marana, Giovanni Paolo</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">119080370</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf13">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Les Campagnes de Charles XII. Roi de Suède T. 4</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>De Voys</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/LaHaye">
+        <gn:name>LaHaye</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/100144489">
+        <foaf:name>Grimarest, Jean-Léonor le Gallois</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">100144489</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=243633238">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>243633238</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf14">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 6</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8&quot;</libreto:bibliographicalFormat>
+    <dc:publisher>Kenkus</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Cologne"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/119080370"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236485989">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>236485989</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf15">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 1</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8&quot;</libreto:bibliographicalFormat>
+    <dc:publisher>Kenkus</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Cologne"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/119080370"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236483579">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>236483579</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf16">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Send-Schreiben an einen S. Theologum, Jn welchem die 50. Motiven/ dadurch eine Erlauchte Person zum Abtritte von der Evangelisch-Lutherischen zu der Römisch-Catholischen Kirche soll seyn verleitet worden, Kürtzlich nach und aus Gottes Worte geprüfet. Sich anfangs zu eigner Erbauung aufgesetzt; Hernach aber .. zu anderer Stärchung überlassen von Einem Liebhaber der Warheit ; Zum Beschlusse sind hinzu gefüget 50. wichtige Motiven/ welche einen jeden rechtschaffenen Christen abhalten können/ daß er sich zu der Römischen Kirche nicht begebe</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Braun</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Streitschrift:theol.</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Leipzig"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/117653713">
+        <foaf:name>Schwedler, Johann Christoph</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">117653713</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/116912731">
+        <foaf:name>Günther, Johann</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">116912731</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10453261">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>10453261</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf17">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Le grand Scanderberg. Nouvelle</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Swart</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/La+Haye"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/119462222">
+        <foaf:name>La Roche-Guilhem, Anne</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">119462222</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=215076435">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>215076435</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/La+Haye">
+    <gn:name>La Haye</gn:name>
+  </libreto:Place>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf18">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 5</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Kinkius</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Cologne"/>
+    <dc:contributor rdf:resource="http://d-nb.info/gnd/119080370"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712855">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>186712855</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf19">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 4</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Kinkius</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Cologne"/>
+    <dc:contributor rdf:resource="http://d-nb.info/gnd/119080370"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712839">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>186712839</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf20">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 3</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Kinkius</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Cologne"/>
+    <dc:contributor rdf:resource="http://d-nb.info/gnd/119080370"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712804">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>186712804</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf21">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Les Oeuvres</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Johnson</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/La+Haye"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118677284">
+        <foaf:name>Crébillon, Prosper Jolyot</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118677284</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151704813">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151704813</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf22">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Le nouveau Gentilhomme bourgeois ou les fées à la mode</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Roger</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/118808788"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151681449">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151681449</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/118808788">
+    <foaf:name>Aulnoy, Marie Catherine Le Jumel de Barneville</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118808788</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf23">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Heilsahme Seelen-Artzeney. Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzogen zu Braunschweig und Lüneburg</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr.</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Erbauungsliteratur</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="http://d-nb.info/gnd/4008065-1">
+        <gn:name>Braunschweig</gn:name>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">52.26594</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10.52673</geo:long>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator rdf:resource="http://d-nb.info/gnd/12131412X"/>
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/138517894">
+        <foaf:name>Zilliger, Johann Georg</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">138517894</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor rdf:resource="http://d-nb.info/gnd/124700470"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12838306">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>12838306</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/12131412X">
+    <foaf:name>Finen, Eberhard</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">12131412X</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf24">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>[Satirae]</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>^[Drucker:] Stamperia del Seminario</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <ns0:c_language rdf:datatype="iso6392">ita</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Padova">
+        <gn:name>Padova</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118556126">
+        <foaf:name>Iuvenalis, Decimus Iunius</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118556126</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/1012625001">
+        <foaf:name>Silvestri, Camillo</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">1012625001</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150881991">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150881991</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf25">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'Histoire [et la religion] des Juifs, réclamée et retablie par son véritable auteur Basnage, contre l'édition anonyme et tronquée, qui s'en est faite à Paris chez Roulland, 1710. Avec plusieurs additions, pour servir de 6. tome à cette Histoire</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>458 S., 3 Bl. ; 8°</libreto:bibliographicalFormat>
+    <dc:publisher>Fritsch &amp; Böhm</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Rotterdam"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/120538253"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150600720">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150600720</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf26">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'Amant Oisif. Contenant Cinquante Nouvelles Espagnoles. Divisé En Trois Parties</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Backer</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Brusselles"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/100140858">
+        <foaf:name>Riflé de Garouville, Savinien</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">100140858</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150346719">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150346719</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/Brusselles">
+    <gn:name>Brusselles</gn:name>
+  </libreto:Place>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf27">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>État Ancien Et Moderne Des Duchés De Florence, Modene, Mantoue, &amp; Parme. Avec l'Histoire Anecdote des Intrigues des Cours de leurs derniers Princes ; On y a ajouté une semblable Relation de la Ville &amp; Légation de Bologne</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1711</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Broedelet</dc:publisher>
+    <dc:publisher>Poolsum</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Utrecht">
+        <gn:name>Utrecht</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator rdf:resource="http://d-nb.info/gnd/128597771"/>
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Vitriarius%2C+Jean+Jacques">
+        <foaf:name>Vitriarius, Jean Jacques</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150342829">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150342829</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf28">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Curioser Staats-Discurs Nebst Einiger politischen Erleuterung über von Ihrer Königl. Majestät Von Groß-Britannien, [et]c. [et]c. An das Hochlöbliche Röm. Reichs-Convent zu Regenspurg Abgeschickten Ermahnungs-Brieff, Von nachdrücklichen Inhalt wegen Fortsetzung des Krieges wider die Cron Franckreich als allgemeinen Reichs-Feindt</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1710</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Gelegenheitsschrift</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12955116">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>12955116</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf29">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Les Pensées ingénieuses ou les Épigrammes d'Owen</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1710</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Ribou</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Paris"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118787446">
+        <foaf:name>Owen, John</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118787446</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/172224861">
+        <foaf:name>LeBrun, Antoine Louis</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">172224861</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151586829">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151586829</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/Paris">
+    <gn:name>Paris</gn:name>
+  </libreto:Place>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf30">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Eberhard Finens Erbauliche Reden über die Paßions-Geschicht/ und andere Sprüche Heiliger Schrifft Wie auch Einige Stücke des Catechismi. Zur Vorbereitung In denen Auf Hochstl. gnädigste Verordnung theils bey den ehemahligen Krancken-Bette/ theils bey den Gebrauch der warmen Bäder zu Wißbaden und Aachen/ auch nachgehends zu Braunschweig und Saltzdahlen angestellten Hauß-Betstunden/ gehalten .. ; nebst den Andern Theil ..</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1710</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Zilliger</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Braunschweig">
+        <gn:name>Braunschweig</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator rdf:resource="http://d-nb.info/gnd/12131412X"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12838292">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>12838292</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf31">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Histoire politique et amoureuse du Cardinal Louis ^[Louis ^Manuel] Portocarrero Archevêque de Toledo</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1710</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>LeSincere</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/o.O.">
+        <gn:name>o.O.</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150789556">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150789556</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf32">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Unvorgreiffliche Gedancken eines schwedischen Unterthanen über das jüngst heraus gegebene Dänische Manifest, so hiebey mit angedruckt</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1710</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/116021675">
+        <foaf:name>Palthen, Johann Philipp</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">116021675</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10222405-009">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>10222405-009</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf33">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Considération sur l'éternité</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1710</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>de Backer</dc:publisher>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Brusselles"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/12232319X">
+        <foaf:name>Abelly, Louis</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">12232319X</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=146978870">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>146978870</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf34">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Sendschreiben an Mylord [et]c. [et]c.Betreffende die Nothwendigkeit Gerechtsame/ der völligen Restitution der Spanischen Monarchie. Aus dem Englischen übersetzet. Barbaris pro Legibus semper Dominorum Imperia fuere</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1710</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dc:publisher>Lorber</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Erlangen">
+        <gn:name>Erlangen</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14631520-004">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>14631520-004</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf35">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Oeuvres Diverses De Monsieur Jean Locke.</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1710</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Fritsch &amp; Böhm</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Rotterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118573748">
+        <foaf:name>Locke, John</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118573748</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134055551">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>134055551</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf36">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Petrone Latin Et François. Traduction Entiere, Suivant Le Manuscrit Trouvé A Belgrade en 1688. ; Avec plusieurs Remarques &amp; Additions, qui manquent dans la premiere Edition</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1709</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118593293">
+        <foaf:name>Petronius Arbiter</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118593293</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118831917">
+        <foaf:name>Nodot, François</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118831917</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+11261765-001">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>11261765-001</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf37">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Sonnets chrétiens sur divers sujets</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1709</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Desbordes</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/130060836">
+        <foaf:name>Drelincourt, Laurent</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">130060836</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151090645">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151090645</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf38">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Rechte Anwendung der jetzigen kurtzen Lebens-Zeit/ und Christliche Vorbereitung zu der künfftigen Seeligen Ewigkeit. Nach Anleitung derer auserlesensten Sprüche Heil. Schrifft/ allen Christen zur Erlernung der allernöthigsten/ allerfürtrefflichsten und Seeligen Sterbe-Kunst mitgetheilet</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1708</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>bey Gottfried Liebernickel</dc:publisher>
+    <dc:subject>Ars moriendi</dc:subject>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Hamburg">
+        <gn:name>Hamburg</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/133492966">
+        <foaf:name>Toppe, Philipp Julius</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">133492966</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/116996501">
+        <foaf:name>Liebernickel, Gottfried</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">116996501</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/1037506340">
+        <foaf:name>Liebernickel, Gottfried</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">1037506340</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+13349112">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>13349112</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf39">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'Homme De Trompé Ou Le Criticon T. 3</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1708</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Ellinckhuysen</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/La+Haye"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/118696874"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=330455036">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>330455036</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/118696874">
+    <foaf:name>Gracián y Morales, Baltasar</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118696874</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf40">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'Homme De Trompé Ou Le Criticon T. 2</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1708</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Ellinckhuysen</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/La+Haye"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/118696874"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=33045501X">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>33045501X</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf41">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Histoire D'Hypolite, Comte de Duglas</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1708</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>De Backer</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Brusselle">
+        <gn:name>Brusselle</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator rdf:resource="http://d-nb.info/gnd/118808788"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237690055">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>237690055</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf42">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'Homme De Trompé Ou Le Criticon T. 1</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1708</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Ellinckhuysen</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/La+Haye"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/118696874"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=235847062">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>235847062</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf43">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Nouveau Traité De La Civilité Qui Se Pratique En France Parmi Les Honnestes Gens</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1708</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Schelte</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Handbuch</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/120374307">
+        <foaf:name>Courtin, Antoine</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">120374307</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Chevreuse%2C+...">
+        <foaf:name>Chevreuse, ...</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150292511">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150292511</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf44">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Qui comprend depuis Auguste jusqu'à Galba. Histoire des empereurs et des autres princes, qui ont régné durant les six premiers siècles de l'Église .. T. 1, Pt. 1</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1707</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Fricx</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Bruxelles"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/128681667">
+        <foaf:name>Le Nain de Tillemont, Sébastien</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">128681667</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=25375111X">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>25375111X</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/Bruxelles">
+    <gn:name>Bruxelles</gn:name>
+  </libreto:Place>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf45">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Joh. Wolffgang Triers kurtze Fragen von den menschlichen Neigungen. darinnen von deren Ursprung und Würckungen auf eine besondere Art gehandelt und zugleich angewiesen wird, wie man dieselben so wohl an sich als an andern erkennen könne, auch sich sonsten im gemeinen Leben dißfalls zu verhalten habe</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1707</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Gleditsch</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Leipzig"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/104043806">
+        <foaf:name>Trier, Johann Wolfgang</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">104043806</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12388920-004">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>12388920-004</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf46">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Das grosse Dessein des Louis von Baaden. Welches Er An seinem Sterbe-Tage den 4. Januarii dieses 1707. Jahres glücklich hinaus geführt. in einer Patentation gezeiget von einem am Rheinstrom wohnenden Teutschen</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1707</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Rastatt">
+        <gn:name>Rastatt</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10239014-003">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>10239014-003</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf47">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'Usage Du Monde Ou Le Parfait Modele D'Un Honneste Homme</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1707</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Brunet &amp; Rigaut</dc:publisher>
+    <dc:publisher>Leonard</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Paris"/>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Bruxelles"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/120006294">
+        <foaf:name>Goussault, Jacques</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">120006294</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151605971">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151605971</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf48">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Warhafftige Abbildung Aller itzo im Krieg begriffenen Hohen Potentaten und dero Generals. Durch Beibringung verschiedener aus Betrachtung dero Actionen gezogenen Remarques .. Mit einem Entwurff von der .. Kunst, die Gemüther der Menschen zu erkennen, worin gezeiget und untersuchet wird: I. ob eine solche Kunst zu finden, II. wie sie zu erlernen, III. wozu sie nütze und IV. ob sie untrüglich sey?</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1707</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dc:publisher>Marteau</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/C%C3%B6ln">
+        <gn:name>Cöln</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14373211-005">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>14373211-005</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf49">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Histoire du Vieux et du Nouveau Testament. enrichie de Figures .. etc.</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1706</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Pierre Mortier</dc:publisher>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:contributor rdf:resource="http://d-nb.info/gnd/120538253"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14680340X">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>14680340X</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf50">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1705</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Flugschrift</dbo:genre>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Satire</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <libreto:hasManifestation rdf:resource="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10885366-ddd"/>
+  </libreto:Item>
+
+  <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10885366-ddd">
+    <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+    <dc:identifier>10885366-ddd</dc:identifier>
+  </libreto:Manifestation>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf51">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Réflexions Ou Sentences Et Maximes Morales. De Monsieur De La Rochefoucault ..</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1705</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Mortier</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118569775">
+        <foaf:name>La Rochefoucauld, François</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118569775</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151033234">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151033234</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf52">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1705</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Satire</dbo:genre>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Flugschrift</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <libreto:hasManifestation rdf:resource="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10885366-ddd"/>
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf53">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Instructions Secretes Des Jesuites. Suivant l'original</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1704</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8o</libreto:bibliographicalFormat>
+    <dc:publisher>Sincere</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Ordensliteratur:Jesuiten</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="http://d-nb.info/gnd/4031483-2">
+        <gn:name>Köln</gn:name>
+        <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">50.933333</geo:lat>
+        <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.95</geo:long>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+11525770">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>11525770</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf54">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Suite Des Mazarinischen Reverence</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1704</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Flugschrift</dbo:genre>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Satire</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14580349">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>14580349</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf55">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1704</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Flugschrift</dbo:genre>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Satire</dbo:genre>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Brief</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10093591">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>10093591</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf56">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Mazarini Abschieds-Compliment</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1704</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Flugschrift</dbo:genre>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Satire</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+11086432">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>11086432</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf57">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Traité du mérite</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1704</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Voys</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/La+Haye"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/1055126783">
+        <foaf:name>Vassetz abbé</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">1055126783</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134957520">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>134957520</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf58">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1701</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Rohrlach</dc:publisher>
+    <dc:publisher>Ehrich</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Frankfurt%2C+Main"/>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Leipzig"/>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Jena"/>
+    <dc:creator rdf:resource="http://d-nb.info/gnd/12348796X"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12836362">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>12836362</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/Frankfurt%2C+Main">
+    <gn:name>Frankfurt, Main</gn:name>
+  </libreto:Place>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/Jena">
+    <gn:name>Jena</gn:name>
+  </libreto:Place>
+
+  <libreto:Person rdf:about="http://d-nb.info/gnd/12348796X">
+    <foaf:name>Schweinitz, David</foaf:name>
+    <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">12348796X</dc:identifier>
+  </libreto:Person>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf59">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Bouclier D'Estat Et De Justice, Contre le dessein de la France ..</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1701</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/11878014X">
+        <foaf:name>Lisola, François Paul</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">11878014X</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14611392-003">
+        <libreto:database>Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</libreto:database>
+        <dc:identifier>14611392-003</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf60">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Instructions de l'empereur Charles V. à Philippe II. Roi d'Espagne et de Philippe II. au prince Philippe son fils. Mises en François par Antoine Teissier. 2. édition. A laquelle on a joint la Méthode qu'on a tenuë pour l'éducation des enfans de France</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1700</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Dole</dc:publisher>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/A+la+Haye">
+        <gn:name>A la Haye</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118560093">
+        <foaf:name>Karl Heiliges Römisches Reich, Kaiser</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118560093</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/129426024">
+        <foaf:name>Teissier, Antoine</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">129426024</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=136951821">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>136951821</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf61">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D'Albe</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1699</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Guignard</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Biographie</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Paris"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/137527616">
+        <foaf:name>Osorio, Antonio</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">137527616</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=135733421">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>135733421</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf62">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Le triomphe de la deesse monas ou l'histoire du portrait de madame la princesse de Conti fille du roi</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1698</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>duVal</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236361856">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>236361856</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf63">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Practicarum Observationum, tam ad processum iudiciarium, praesertim Imperialis Camerae, quam causarum decisionis pertinentium, libri 2. De Pace publica, et proscriptis, sive bannitis imperij, libri 2. De Pignorationibus liber 1. De manuum Injectionibus, sive arrestis imperii tractatus. Huic noviss. ed. acc. app. 2</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1698</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Metternich</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Coloniae+Agrippina">
+        <gn:name>Coloniae Agrippina</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/11884296X">
+        <foaf:name>Gail, Andreas</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">11884296X</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/124408389">
+        <foaf:name>Gymnich, Walter</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">124408389</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=184827981">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>184827981</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf64">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Histoire Des Controverses Et Des Matieres Ecclesiastiques ..</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1697</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Pralard</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Paris"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/100115993">
+        <foaf:name>Du Pin, Louis Ellies</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">100115993</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=620058943">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>620058943</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf65">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Traité de la dévotion.</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1697</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Troyel</dc:publisher>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/La+Haye"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118558900">
+        <foaf:name>Jurieu, Pierre</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118558900</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=149903561">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>149903561</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf66">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Suscitabulum Poenitentiae Catecheticum, Das ist: Catechetischer Buß-Wecker/ Oder Eine richtige Anweisung zu den wesentlichen Stücken der wahren Buß/ wie selbige nach den zweyen ersten Hauptstücken der Christlichen Lehre nützlich zu üben/ Außführlich und nachdrücklich vorgebildet wird. Allen rechtschaffenen Christen zur nöthigen und seeligen Erweisung ungeheuchelter Busse angestellet Von David von Schweinitz/ auff Seyffersdorff</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1696</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Schrey</dc:publisher>
+    <dc:publisher>Meyer</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Frankfurt%2C+Oder">
+        <gn:name>Frankfurt, Oder</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator rdf:resource="http://d-nb.info/gnd/12348796X"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%273:614050Y%27">
+        <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+        <dc:identifier>3:614050Y</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf67">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Conduite pour se taire et pour parles principalement en matière de religion. suivant la copie imprimée à Paris</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1696</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Broncart</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Liege">
+        <gn:name>Liege</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/101503660">
+        <foaf:name>Morvan de Bellegarde, Jean-Baptiste</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">101503660</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223556645">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>223556645</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf68">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:title>Danielis Georgi[i] Morhofi[i] Polyhistor. Sive De Notitia Auctorum Et Rerum Commentarii [1]</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1695</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dc:publisher>Böckmannus</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/L%C3%BCbeck"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118784919">
+        <foaf:name>Morhof, Daniel Georg</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118784919</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Alefeld%2C+Joachimus">
+        <foaf:name>Alefeld, Joachimus</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=719560519">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>719560519</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Place rdf:about="br:ludwig_rudolf/places/L%C3%BCbeck">
+    <gn:name>Lübeck</gn:name>
+  </libreto:Place>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf69">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Penta-decas fidium cordialium .. Das Ist: Geistlicher Hertzens-Harffen von fünffmahl-zehen Seiten .. Theil</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1694</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Fellgiebel</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Bre%C3%9Flau">
+        <gn:name>Breßlau</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator rdf:resource="http://d-nb.info/gnd/12348796X"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=15086812X">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>15086812X</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf70">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Le Monde Enchanté Ou Examen des communs sentimens touchant les Esprits, leur nature, leur pouvoir, leur administration, &amp; leurs opérations .. Divisé en quatre Parties ; Traduit de l'Hollandois</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1694</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Rotterdam</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/119016915">
+        <foaf:name>Bekker, Balthasar</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">119016915</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147204798">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>147204798</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf71">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Novellen Aus Der gelehrten und curiösen Welt 1692</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1692</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Boetius</dc:publisher>
+    <dc:publisher>Groschuff</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <dc:hasFormat>http://resolver.sub.uni-goettingen.de/purl?PPN824414195</dc:hasFormat>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Frankfurt">
+        <gn:name>Frankfurt</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Gotha">
+        <gn:name>Gotha</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Leipzig"/>
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/104217650">
+        <foaf:name>Zenner, Gottfried</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">104217650</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%277:694881V%27">
+        <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+        <dc:identifier>7:694881V</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf72">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L' Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1692</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Slaart</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Traktat</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Rotterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/100002307">
+        <foaf:name>Abbadie, Jacques</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">100002307</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150211236">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150211236</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf73">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Vocabolario degli Accademici della Crusca. In questa 3. impressione Nuovamente corr. e copiosamente accresciuto</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1691</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Stamp. d. Accademia della Crusca</dc:publisher>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Firenze">
+        <gn:name>Firenze</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=486368920">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>486368920</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf74">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Francisci Sanctii Minerva, Sive De Causis Latinæ linguæ Commentarius</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1687</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Strickius</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Franequera">
+        <gn:name>Franequera</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118751123">
+        <foaf:name>Sánchez de las Brozas, Francisco</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118751123</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/119298600">
+        <foaf:name>Schoppe, Caspar</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">119298600</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/119019914">
+        <foaf:name>Perizonius, Jacobus</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">119019914</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=251813266">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>251813266</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf75">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L' Unico Mezzo, Che ci fà trovar la felicità in questo Mondo .. con brevità e Chiarezza si dimostra nel presente libretto, in todesco, francese, &amp; italiano</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1685</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Gollner</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ita</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <dc:hasFormat>http://nbn-resolving.de/urn:nbn:de:gbv:3:1-608827</dc:hasFormat>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Jena"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/116400684">
+        <foaf:name>Caffa, Karl</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">116400684</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%273:604602L%27">
+        <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+        <dc:identifier>3:604602L</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf76">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>De Legibus Naturae Disquisitio Philosophica. In qua Earum Forma, Summa Capita, Ordo, Promulgatio, &amp; Obligatio e rerum Natura investigantur ; Quin Etiam Elementa Philosophiae Hobbianae, Cum Moralis tum Civilis, considerantur &amp; refutantur</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1683</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Otto</dc:publisher>
+    <dc:publisher>Wiedemeyerus</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <dc:hasFormat>http://nbn-resolving.de/urn:nbn:de:gbv:3:1-466938</dc:hasFormat>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/L%C3%BCbeck"/>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Frankfurt%2C+Main"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/121534006">
+        <foaf:name>Cumberland, Richard</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">121534006</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Bridgeman%2C+Orlandus">
+        <foaf:name>Bridgeman, Orlandus</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Parker%2C+Sam.">
+        <foaf:name>Parker, Sam.</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%271:008798Z%27">
+        <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+        <dc:identifier>1:008798Z</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf77">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Geographia ordine litterarum disposita</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1681</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Michalet</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Parisiis">
+        <gn:name>Parisiis</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/124639089">
+        <foaf:name>Baudrand, Michel-Antoine</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">124639089</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150019556">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150019556</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf78">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Examen ratiociniorum Danicorum super naufragio militum Suecicorum ad Bornholmiam, eorundemque detentione</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1680</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151714266">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151714266</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf79">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1675</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Betkius</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Gebetbuch</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <dc:hasFormat>http://resolver.sub.uni-goettingen.de/purl?PPN757232523</dc:hasFormat>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Frankfurt%2C+Main"/>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Amsterdam"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/128616385">
+        <foaf:name>Sperber, Julius</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">128616385</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%271:072956R%27">
+        <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+        <dc:identifier>1:072956R</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf80">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Henrici Glareani In Cornelii Taciti de situ .. Germaniae libellum commentariolus</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1673</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Giessae">
+        <gn:name>Giessae</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/11905339X">
+        <foaf:name>Glareanus, Henricus Loriti</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">11905339X</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/117106178">
+        <foaf:name>Schardius, Simon</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">117106178</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=369886046">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>369886046</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf81">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:title>The voyage of Italy, or, A compleat journey through Italy. in two parts : with the characters of the people, and the description of the chief towns, churches, monasteries, tombs, libraries, pallaces, villas, gardens, pictures, statues, and antiquities : as also of the interest, government, riches, force, &amp;c. of all the princes : with instructions concerning travel</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1670</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>[s.n.], and are to be sold in London, by John Starkey</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">eng</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Newly+printed+at+Paris">
+        <gn:name>Newly printed at Paris</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Lassels%2C+Richard">
+        <foaf:name>Lassels, Richard</foaf:name>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Simon+Wilson">
+        <foaf:name>Simon Wilson</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=553173561">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>553173561</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf82">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Jetztlebendes Europa, Oder Neue Historische und Politische Erzehlung aller seiner Stände, wie solche gegen dem Ende deß Jahrs 1666. ihr Wesen gehabt. In unterschiedlichen Tafeln repræsentirt, Darinnen . von den Universitäten und berühmten Bibliothecen .. und von allen berühmten Leuten in jeder Profession; Benebens einer Zusammensamlung Der denckwürdigsten Sachen die sich nach dem allgemeinen Friedenschluß in Europa zugetragen ..</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1670</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Schiele</dc:publisher>
+    <dc:subject rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Geographie</dc:subject>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Franckfurt+am+Mayn">
+        <gn:name>Franckfurt am Mayn</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/124861075">
+        <foaf:name>Chappuzeau, Samuel</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">124861075</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151871949">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151871949</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf83">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>L'imitation de Jesus Christ</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1665</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Ballard</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">fre</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Paris"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118642766">
+        <foaf:name>Thomas von Kempen</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118642766</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118522175">
+        <foaf:name>Corneille, Pierre</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118522175</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=246014911">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>246014911</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf84">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Character Virtutum variis, aliorum etiam, qua veterum, qua recentium Autorum coloribus adumbratus</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1664</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/%5BS.l.%5D"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/121895610">
+        <foaf:name>Pastorius, Joachim</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">121895610</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Guldensternius%2C+Sigismundus">
+        <foaf:name>Guldensternius, Sigismundus</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%2723:269676U%27">
+        <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+        <dc:identifier>23:269676U</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf85">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Scrutinium Ingeniorum pro iis, qui excellere cupiunt</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1663</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Neuenhahn</dc:publisher>
+    <dc:publisher>Krebs</dc:publisher>
+    <dc:subject rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Pädagogik</dc:subject>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <dc:hasFormat>http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10401193-7</dc:hasFormat>
+    <libreto:hasPlace rdf:resource="br:ludwig_rudolf/places/Jena"/>
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/119456222">
+        <foaf:name>Huarte de San Juan, Juan</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">119456222</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/122503279">
+        <foaf:name>Caesar, Joachim</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">122503279</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Albrecht+Sachsen-J%C3%BClich-Cleve-Berg%2C+Herzog">
+        <foaf:name>Albrecht Sachsen-Jülich-Cleve-Berg, Herzog</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Ludwig+Anhalt-K%C3%B6then%2C+F%C3%BCrst">
+        <foaf:name>Ludwig Anhalt-Köthen, Fürst</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%271:065794A%27">
+        <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+        <dc:identifier>1:065794A</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf86">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Venetia città nobilissima et singolare</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1663</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>4°</libreto:bibliographicalFormat>
+    <dc:publisher>Curti</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ita</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Venedig">
+        <gn:name>Venedig</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/119255901">
+        <foaf:name>Sansovino, Francesco</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">119255901</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/1055727280">
+        <foaf:name>Martinioni, Giustiniano</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">1055727280</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/1024756335">
+        <foaf:name>Curti, Stefano</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">1024756335</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=140235191">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>140235191</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf87">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David. Gerichtet Auf unterschiedener Personen/ und Stände Anliegen</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1662</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Fellgiebel</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Gebetbuch</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Breslau">
+        <gn:name>Breslau</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator rdf:resource="http://d-nb.info/gnd/12348796X"/>
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%2739:156875D%27">
+        <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+        <dc:identifier>39:156875D</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf88">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Genealogia. Derer von Schweinitz/ Vor der Zeit Vom Swentze Genennet</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1661</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+    <dc:publisher>Schneider</dc:publisher>
+    <dc:subject rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Genealogie</dc:subject>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <dc:hasFormat>http://resolver.sub.uni-goettingen.de/purl?PPN778438074</dc:hasFormat>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Liegnitz">
+        <gn:name>Liegnitz</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator rdf:resource="http://d-nb.info/gnd/12348796X"/>
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Christian+Hertzog+in+Schlesien%2C+zur+Liegnitz%2C+Brieg+und+Wohlau">
+        <foaf:name>Christian Hertzog in Schlesien, zur Liegnitz, Brieg und Wohlau</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Ludwig+Hertzog+in+Schlesien%2C+zur+Liegnitz%2C+Brieg+und+Goldberg">
+        <foaf:name>Ludwig Hertzog in Schlesien, zur Liegnitz, Brieg und Goldberg</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Georg+Hertzog+in+Schlesien+zur+Liegnitz+und+Brieg">
+        <foaf:name>Georg Hertzog in Schlesien zur Liegnitz und Brieg</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%2723:232961A%27">
+        <libreto:database>Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</libreto:database>
+        <dc:identifier>23:232961A</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf89">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Tractatus politico-historico-juridicus de Juribus et Privilegiis Civitatum Imperialium, tam generalibus, quam specialibus et de earundem Magistratuum Officio. In sex libros divisus</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1657</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Kühne</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Ulmae+Suevorum">
+        <gn:name>Ulmae Suevorum</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/124429254">
+        <foaf:name>Knipschildt, Philipp</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">124429254</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=141633042">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>141633042</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf90">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Specvlvm Natvrae Hvmanæ, Siue Mores Et Temperamenta Hominvm Vsqve Ad Intimos Animorum sensus cognoscendi. Omnibus maxime vtile, &amp; lectu iucundum</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1649</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Kalcovius</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Coloniae+Agrippinae">
+        <gn:name>Coloniae Agrippinae</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/122674391">
+        <foaf:name>Follin, Hermann</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">122674391</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/122674332">
+        <foaf:name>Follin, Johann</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">122674332</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147802350">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>147802350</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf91">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Theatrum ingenii humani Liber 1-2</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1648</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>Jansonius</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Amstelodami">
+        <gn:name>Amstelodami</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/128500751">
+        <foaf:name>Neuhusius, Edo</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">128500751</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/132103885">
+        <foaf:name>Neuhusius, Reinerus</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">132103885</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150731884">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>150731884</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf92">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Arcadia der Gräffin von Pembrock</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1643</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Humm</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Roman</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Franckfurt">
+        <gn:name>Franckfurt</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/11861391X">
+        <foaf:name>Sidney, Philip</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">11861391X</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/117080632">
+        <foaf:name>Mögling, Daniel</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">117080632</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118590111">
+        <foaf:name>Opitz, Martin</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118590111</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118581090">
+        <foaf:name>Merian, Matthaeus</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118581090</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Sophia+Leonora+Hessen%2C+Landgr%C3%A4fin">
+        <foaf:name>Sophia Leonora Hessen, Landgräfin</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151490759">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151490759</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf93">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Nikēphoru Kallistu Tu Xanthopulu Ekklēsiastikēs Historias Biblia 18 Tomvs Prior</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1630</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+    <dc:publisher>Cramoisy</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Ordensliteratur:Jesuiten</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">grc</ns0:c_language>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Lutetiae+Parisiorum">
+        <gn:name>Lutetiae Parisiorum</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/10095443X">
+        <foaf:name>Nicephorus Callistus Xanthopulus</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">10095443X</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/124677320">
+        <foaf:name>Du Duc, Fronton</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">124677320</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/136285422">
+        <foaf:name>Lange, Johann</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">136285422</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Richelieu%2C+Armandus+Joannes">
+        <foaf:name>Richelieu, Armandus Joannes</foaf:name>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=190912367">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>190912367</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf94">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>La Secchia Rapita. Poema Eroicomico, e'l Canto Dell'Oceano</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1625</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>12°</libreto:bibliographicalFormat>
+    <dc:publisher>Sarzina</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Verserzählung</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">ita</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Venetia">
+        <gn:name>Venetia</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118753959">
+        <foaf:name>Tassoni, Alessandro</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118753959</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/122970470">
+        <foaf:name>Barberini, Antonio</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">122970470</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=513708979">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>513708979</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf95">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>La Biblia. Que es, Los sacros libros del Vieio y Nuevo Testamento. : Trasladada en español.</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1622</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Aubrius &amp; Schleich</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">spa</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/%5BBasel%5D">
+        <gn:name>[Basel]</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151756309">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>151756309</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf96">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Andreæ Althameri Commentaria: In P. Cornelii Taciti equitis Romani libellum De Situ, Moribus Et Populis Germaniæ</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1609</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8°</libreto:bibliographicalFormat>
+    <dc:publisher>Forster</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Ambergae">
+        <gn:name>Ambergae</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118620452">
+        <foaf:name>Tacitus, Cornelius</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118620452</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <dc:contributor>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/100010423">
+        <foaf:name>Althamer, Andreas</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">100010423</dc:identifier>
+      </libreto:Person>
+    </dc:contributor>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=394766091">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>394766091</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf97">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Matthaei Dresseri  ORATIO  DE ORDINE, VERITATE ET VSV  in historiarum lectione  spectando. Habita in Academia Lipsi-ca, XVII Januarij,anno 82.</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1582</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>8</libreto:bibliographicalFormat>
+    <dc:publisher>Gronenberg, Simon</dc:publisher>
+    <dbo:genre rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Rede</dbo:genre>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <dc:hasFormat>http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10208212-5</dc:hasFormat>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Wittenberg">
+        <gn:name>Wittenberg</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/116218363">
+        <foaf:name>Dresser, Matthaeus</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">116218363</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=567283895">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>567283895</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf98">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:type>Druck</dc:type>
+    <dc:title>Cosmographiae Vniversalis Lib. VI. In Qvibvs Ivxta Certioris Fidei Scriptores .. describuntur, Omnium habitabilis Orbis partium situs propriæq́[ue] dotes. Regionum Topographicæ picturæ .. Cunctarum Gentium mores, leges, religio, res gestæ, &amp; mutationes usq[ue] ad annum Christi M. D. L. LXXII.</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1572</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <libreto:bibliographicalFormat>2°</libreto:bibliographicalFormat>
+    <dc:publisher>Henricpetri</dc:publisher>
+    <dc:subject rdf:datatype="http://uri.gbv.de/terminology/aadgenres/">Geographie</dc:subject>
+    <ns0:c_language rdf:datatype="iso6392">lat</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/Basileae">
+        <gn:name>Basileae</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="http://d-nb.info/gnd/118585517">
+        <foaf:name>Münster, Sebastian</foaf:name>
+        <dc:identifier rdf:datatype="http://d-nb.info/standards/elementset/gnd#gndIdentifier">118585517</dc:identifier>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223457167">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>223457167</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+  <libreto:Item rdf:about="br:ludwig_rudolf/item_ludwig_rudolf99">
+    <libreto:belongsTo rdf:resource="http://bibliotheksrekonstruktion.hab.de/ludwig_rudolf"/>
+    <dc:title>Teutsch Passional vnsers [unsers] Herren Jesu Christi. Mit schönen tröstlichen Gebetlein</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1547</dc:date>
+    <dbo:numberOfVolumes rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</dbo:numberOfVolumes>
+    <dc:publisher>[s.n.]</dc:publisher>
+    <ns0:c_language rdf:datatype="iso6392">ger</ns0:c_language>
+    <libreto:physicalForm xml:lang="de">gebunden</libreto:physicalForm>
+    <libreto:hasPlace>
+      <libreto:Place rdf:about="br:ludwig_rudolf/places/N%C3%BCrnberg">
+        <gn:name>Nürnberg</gn:name>
+      </libreto:Place>
+    </libreto:hasPlace>
+
+    <dc:creator>
+      <libreto:Person rdf:about="br:ludwig_rudolf/persons/Schwenckfeld%2C+Caspar">
+        <foaf:name>Schwenckfeld, Caspar</foaf:name>
+      </libreto:Person>
+    </dc:creator>
+
+    <libreto:hasManifestation>
+      <libreto:Manifestation rdf:about="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=389070084">
+        <libreto:database>K10plus</libreto:database>
+        <dc:identifier>389070084</dc:identifier>
+      </libreto:Manifestation>
+    </libreto:hasManifestation>
+
+  </libreto:Item>
+
+</rdf:RDF>

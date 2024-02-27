@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edition.register_personen">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+            Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+            – Register</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><p></p></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson xml:id="person">
+                <head>Personen</head>
+                <person xml:id="baden-durlach_georg_friedrich">
+                    <idno type="URI">https://d-nb.info/gnd/11871693X</idno>
+                    <persName type="display">Baden-Durlach, Georg Friedrich, Markgraf von</persName>
+                </person>
+                <person xml:id="barby_sophia_ursula">                    
+                    <idno type="URI">https://d-nb.info/gnd/104369477</idno>
+                    <persName type="display">Barby, Sophia Ursula, Gräfin von, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                    <persName>Oldenburg-Delmenhorst, Sophia Ursula, Gräfin von</persName>
+                </person>
+                <person xml:id="bayern_ernst">
+                    <idno type="URI">http://d-nb.info/gnd/10211790X</idno>
+                    <persName type="display">Köln, Ernst, Erzbischof und Kurfürst von</persName>
+                    <persName>Bayern, Ernst, Herzog von</persName>
+                    <persName>Freising, Ernst, Bischof von</persName>
+                    <persName>Hildesheim, Ernst, Bischof von</persName>
+                    <persName>Lüttich, Ernst, Bischof von</persName>
+                    <persName>Münster, Ernst, Bischof von</persName>
+                </person>
+                <person xml:id="bocer_heinrich">
+                    <idno type="URI">https://d-nb.info/gnd/117608750</idno>
+                    <persName type="display">Bocer, Heinrich</persName>
+                </person>
+                <person xml:id="bothmer_eberhard">
+                    <idno type="URI">https://d-nb.info/gnd/1045456179</idno>
+                    <persName type="display">Bothmer, Eberhard von</persName>
+                </person>
+                <person xml:id="brandenburg_johann_georg">
+                    <idno type="URI">http://d-nb.info/gnd/101093713</idno>
+                    <persName type="display">Brandenburg, Johann Georg, Markgraf von</persName>
+                    <persName>Straßburg, Johann Georg, Bischof von</persName>
+                </person>
+                <person xml:id="braunschweig-lueneburg_ernst_ii">
+                    <idno type="URI">https://d-nb.info/gnd/118018051</idno>
+                    <persName type="display">Braunschweig-Lüneburg, Ernst II., Herzog von</persName>
+                </person>
+                <person xml:id="braunschweig-dannenberg_franz">
+                    <idno type="URI">https://d-nb.info/gnd/122575083</idno>
+                    <persName type="display">Braunschweig-Dannenberg, Franz, Herzog von</persName>                
+                </person>
+                <person xml:id="braunschweig-dannenberg_heinrich">
+                    <idno type="URI">https://d-nb.info/gnd/134198093</idno>
+                    <persName type="display">Braunschweig-Dannenberg, Heinrich, Herzog von</persName>                  
+                </person>
+                <person xml:id="braunschweig-dannenberg_julius_ernst">
+                    <idno type="URI">https://d-nb.info/gnd/121123553</idno>
+                    <persName type="display">Braunschweig-Dannenberg, Julius Ernst, Herzog von</persName>                  
+                </person>
+                <person xml:id="braunschweig-dannenberg_ursula">
+                    <idno type="URI">https://d-nb.info/gnd/13687679X</idno>
+                    <persName type="display">Braunschweig-Dannenberg, Ursula, Herzogin von</persName>
+                    <persName>Sachsen-Lauenburg, Ursula, Herzogin von</persName>               
+                </person>
+                <person xml:id="chemnitz_martin">
+                    <idno type="URI">https://d-nb.info/gnd/118829157</idno>
+                    <persName type="display">Chemnitz, Martin</persName>
+                </person>
+                <person xml:id="cupido">
+                    <persName type="display">Amor (römischer Gott)</persName>
+                    <persName>Cupido (römischer Gott)</persName>
+                    <idno type="URI">https://d-nb.info/gnd/11850262X</idno>
+                </person>
+                <person xml:id="daenemark_christian_iv">
+                    <idno type="URI">https://d-nb.info/gnd/118676059</idno>
+                    <persName type="display">Christian IV., König von Dänemark und Norwegen</persName>
+                    <persName>Schleswig-Holstein, Christian IV., Herzog von</persName>
+                </person>
+                <person xml:id="diez_moritz">
+                    <idno type="URI">http://www.wikidata.org/entity/Q75713973</idno>
+                    <persName type="display">Diez, Moritz, Graf zu</persName>
+                </person>
+                <person xml:id="doegker_anon_1">
+                    <persName type="display">Dögker, N. N.</persName>
+                    <note>Vermutlich Angehöriger des Tübinger Bürgergeschlechts, das 1568 einen Wappenbrief erhielt. Vgl. <ref target="http://gdz.sub.uni-goettingen.de/dms/load/img/?PPN=PPN830247726&amp;physid=PHYS_0049">Siebmacher: Wappenbuch, Bd. 5/8, S. 41.</ref></note>
+                </person>
+                <person xml:id="ehingen_georg">
+                    <idno type="URI">http://d-nb.info/gnd/1077200781</idno>
+                    <persName type="display">Ehingen, Georg von</persName>
+                </person>
+                <person xml:id="fircks_anon_1">
+                    <persName type="display">Fircks, N. N. (von)</persName>
+                    <note>Vermutlich angehöriger des kurländischen Adelsgeschlechts; stellte beim Ringrennen 1596 in Stuttgart den Gott Janus dar.</note>
+                </person>
+                <person xml:id="herman_nicolaus">
+                    <persName type="display">Herman, Nicolaus</persName>
+                    <note>1596-1610 Fechtmeister in Tübingen. Vgl. Silke Schöttle: Männer von Welt. Exerzitien- und Sprachmeister am Collegium Illustre und ander Universität Tübingen 1594-1819, Stuttgart 2016, S. 474.</note>
+                </person>
+                <person xml:id="hermann_anon_1">
+                    <persName type="display">Hermann, N. N.</persName>
+                    <note>Zog im März 1597 von Tübingen fort; stand möglicherweise in Herzog Augusts Diensten.</note>
+                </person>
+                <person xml:id="hochmann_johann">
+                    <idno type="URI">https://d-nb.info/gnd/104111801</idno>
+                    <persName type="display">Hochmann, Johann</persName>
+                </person>
+                <person xml:id="janus">
+                    <idno type="URI">https://d-nb.info/gnd/118775979</idno>
+                    <persName type="display">Janus (römischer Gott)</persName>
+                </person>
+                <person xml:id="kurland_wilhelm">   
+                    <idno type="URI">http://d-nb.info/gnd/130001961</idno>
+                    <persName type="display">Kurland, Wilhelm, Herzog von</persName>
+                    <persName>Kettler, Wilhelm</persName>
+                </person>
+                <person xml:id="mansfeld-hinterort_ernst">
+                    <idno type="URI">https://d-nb.info/gnd/120979535</idno>
+                    <persName type="display">Mansfeld-Hinterort, Ernst, Graf von</persName>
+                </person>
+                <person xml:id="melanchthon_philipp">
+                    <idno type="URI">http://d-nb.info/gnd/118580485</idno>
+                    <persName type="display">Melanchthon, Philipp</persName>
+                </person>
+                <person xml:id="mors_antonius">
+                    <persName type="display">Mors, Antonius</persName>
+                    <birth>um 1555</birth>
+                    <death>1619</death>
+                    <note>Gebürtig aus Schwerin, stammte aus einer Antwerpener Orgelbauer- und Organistenfamilie; 1573-1613 Organist der Jakobikirche in Rostock und bis 1603 der Herzöge von Mecklenburg-Güstrow; Komponist geistlicher und weltlicher Lieder. Vgl. Bugenhagen, Beate: Die Musikgeschichte Stralsunds im 16. und 17. Jahrhundert, Köln/Weimar/Wien 2015, S. 209f.</note>
+                </person>
+                <person xml:id="musaeus_samuel">
+                    <persName type="display">Musaeus, Samuel</persName>
+                    <birth>vermutlich 1563</birth>
+                    <note>Möglicherweise in Schwerin geborener Sohn des lutherischen Geistlichen und Theologen Simon Musaeus (1521-1576); sonst ist nichts über ihn bekannt.</note>
+                </person>
+                <person xml:id="oesterreich_andreas">
+                    <idno type="URI">https://d-nb.info/gnd/119263580</idno>
+                    <persName type="display">Österreich, Andreas, Erzherzog von</persName>
+                    <persName>Konstanz, Andreas, Bischof von</persName>
+                    <persName>Brixen, Andreas, Bischof von</persName>
+                </person>
+                <person xml:id="oettingen_gottfried">
+                    <idno type="URI">https://d-nb.info/gnd/1240616619</idno>
+                    <persName type="display">Oettingen, Gottfried, Graf von</persName>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_anton_ii">
+                    <idno type="URI">http://d-nb.info/gnd/124908004</idno>
+                    <persName type="display">Oldenburg-Delmenhorst, Anton II., Graf von</persName>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_anton-heinrich">
+                    <persName type="display">Oldenburg-Delmenhorst, Anton Heinrich, Graf von</persName>
+                    <idno type="URI">https://d-nb.info/gnd/120100177</idno>                    
+                </person>
+                <person xml:id="oldenburg-delmenhorst_christian">
+                    <idno type="URI">http://d-nb.info/gnd/120815958</idno>
+                    <persName type="display">Oldenburg-Delmenhorst, Christian, Graf von</persName>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_dorothea">
+                    <persName type="display">Oldenburg-Delmenhorst, Dorothea, Gräfin von</persName>
+                    <idno type="URI">https://d-nb.info/gnd/115864490</idno>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_katharina_elisabeth">
+                    <persName type="display">Oldenburg-Delmenhorst, Katharina Elisabeth, Gräfin von</persName>
+                    <idno type="URI">https://d-nb.info/gnd/120825880</idno>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_sibylla_elisabeth">
+                    <idno type="URI">http://d-nb.info/gnd/12193084X</idno>
+                    <persName type="display">Oldenburg-Delmenhorst, Sibylla Elisabeth, Gräfin von</persName>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_sibylla_maria">
+                    <persName type="display">Oldenburg-Delmenhorst, Sibylla Maria, Gräfin von</persName>
+                    <idno type="URI">https://d-nb.info/gnd/121091163</idno>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_sidonia">
+                    <idno type="URI">http://d-nb.info/gnd/1015574343</idno>
+                    <persName type="display">Oldenburg-Delmenhorst, Sidonia, Gräfin von</persName>
+                </person>
+                <person xml:id="peter_1">
+                    <persName type="display">N. N., Peter</persName>
+                    <note>Um 1596 vermutlich Fechtmeister in Tübingen.</note><!--Nachprüfen in: http://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=858641445-->
+                </person>
+                <person xml:id="pfalz_friedrich_iv">
+                    <idno type="URI">http://d-nb.info/gnd/100659373</idno>
+                    <persName type="display">Pfalz, Friedrich IV., Kurfürst von der</persName>
+                </person>
+                <person xml:id="pfalz-zweibruecken_johann_i">
+                    <idno type="URI">https://d-nb.info/gnd/122848381</idno>
+                    <persName type="display">Pfalz-Zweibrücken, Johann I., Pfalzgraf von</persName>
+                </person>
+                <person xml:id="poland_michael_daniel">
+                    <idno type="URI">https://d-nb.info/gnd/1243948353</idno>
+                    <persName type="display">Poland, Michael Daniel (von)</persName>
+                    <note>Um 1608 Rat des Straßburger Domkapitels, außerdem kurpfälzischer Rat. Vgl. Volker Press: Calvinismus und Territorialstaat. Regierung und Zentralbehörden der Kurpfalz 1559-1619, Stuttgart 1970, S. 495.</note>
+                </person>
+                <person xml:id="pommern-stettin_philipp_ii">
+                    <idno type="URI">http://d-nb.info/gnd/102120137</idno>
+                    <persName type="display">Pommern-Stettin, Philipp II., Herzog von</persName>                   
+                </person>
+                <person xml:id="sachsen-lauenburg_moritz">
+                    <idno type="URI">http://d-nb.info/gnd/137568517</idno>
+                    <persName type="display">Sachsen-Lauenburg, Moritz, Herzog von</persName>
+                </person>
+                <person xml:id="sayn-wittgenstein_ludwig_i">
+                    <idno type="URI">http://d-nb.info/gnd/132988054</idno>
+                    <persName type="display">Sayn-Wittgenstein, Ludwig I., Graf von</persName>
+                </person>
+                <person xml:id="schatz_friedrich">
+                    <persName type="display">Schatz, Friedrich</persName>
+                    <note>Hammerschmied und um 1594 Besitzer einer wassergetriebenen Hammermühle in Parkentin. Vgl. <ref target="http://mvdok.lbmv.de/resolve/id/mvdok_document_00003488/fulltext#page165">Wilhelm Stieda: Mecklenburgische Papiermühlen, in: Jahrbücher des Vereins für Mecklenburgische Geschichte und Altertumskunde, Band 80 (1915), S. 115-184, hier S. 161</ref>.</note>                    
+                </person>
+                <person xml:id="schleswig-holstein-sonderburg_anna">
+                    <persName type="display">Schleswig-Holstein-Sonderburg, Anna, Herzogin von, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                    <persName>Oldenburg-Delmenhorst, Anna, Gräfin von </persName>
+                    <idno type="URI">https://d-nb.info/gnd/120063476</idno>
+                </person>
+                <person xml:id="schleswig-holstein-sonderburg-beck_clara">
+                    <persName type="display">Schleswig-Holstein-Sonderburg-Beck, Clara, Herzogin von, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                    <persName>Oldenburg-Delmenhorst, Clara, Gräfin von </persName>
+                    <idno type="URI">https://d-nb.info/gnd/105885111X</idno>
+                </person>
+                <person xml:id="schwarzburg-rudolstadt_emilie">
+                    <idno type="URI">http://d-nb.info/gnd/123314488</idno>
+                    <persName type="display">Schwarzburg-Rudolstadt, Emilie, Gräfin von, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                    <persName>Oldenburg-Delmenhorst, Emilie, Gräfin von</persName>
+                </person>
+                <person xml:id="senden_theodor">
+                    <idno type="URI">https://d-nb.info/gnd/119829975</idno>
+                    <persName type="display">Senden, Theodor (von)</persName>
+                    <note>1562/63 geboren in Lübeck; Studium (Jura) in Basel, Marburg (1582) und in Frankfurt/Oder (1590); 1593 als Präzeptor in Tübingen; ab 1694 Präzeptor Herzog Augusts; später herzoglich-mecklenburgischer Rat. Vgl. Maria von Katte: Zur Erziehung und Ausbildung Herzog Augusts d. J. zu Braunschweig und Lüneburg. Die Präzeptorwahl von 1594 und die Entstehung seiner Devise EXPENDE, in: Wolfenbütteler Beiträge, Bd. 5 (1982), S. 9-51, hier besonders S. 15-21 und  44f. Anm. 27.</note>                    
+                </person>
+                <person xml:id="venus">
+                    <idno type="URI">https://d-nb.info/gnd/11876800X</idno>
+                    <persName type="display">Venus (römische Göttin)</persName>
+                </person>
+                <person xml:id="wallmoden_theodul_burchard">
+                    <idno type="URI">http://d-nb.info/gnd/134008952</idno>
+                    <persName type="display">Walmoden, Theodul Burchard von</persName>
+                </person>
+                <person xml:id="walther_simon">
+                    <idno type="URI">http://d-nb.info/gnd/119863243</idno>
+                    <persName type="display">Walther (Walder), Simon</persName>                 
+                </person>
+                <person xml:id="watzdorf_volrat">
+                    <idno type="URI">http://d-nb.info/gnd/1082760331</idno>
+                    <persName type="display">Watzdorf, Volrat von</persName>
+                </person>
+                <person xml:id="willebrand_nicolaus">
+                    <idno type="URI">http://d-nb.info/gnd/102425108</idno>
+                    <persName type="display">Willebrand, Nicolaus</persName>
+                </person>
+                <person xml:id="wuerttemberg_friedrich_i">
+                    <idno type="URI">http://d-nb.info/gnd/118535862</idno>
+                    <persName type="display">Württemberg, Friedrich I., Herzog von</persName>
+                </person>
+                <person xml:id="wuerttemberg_johann_friedrich">
+                    <idno type="URI">https://d-nb.info/gnd/118712381</idno>
+                    <persName type="display">Württemberg, Johann Friedrich, Herzog von</persName>
+                </person>
+                <person xml:id="wuerttemberh-weiltingen_juliana">
+                    <idno type="URI">http://d-nb.info/gnd/122800915</idno>
+                    <persName type="display">Württemberg-Weiltingen, Juliana, Herzogin von, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                    <persName type="display">Oldenburg-Delmenhorst, Juliana, Gräfin von </persName>
+                </person>                
+            </listPerson>
+        </body>
+    </text>
+</TEI>

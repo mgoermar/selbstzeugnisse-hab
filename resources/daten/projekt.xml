@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="../xslt/default.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/default.xsl"?><!--angepasst 22.10.2020, MG-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="statisch" xml:id="projekt.xml">
     <teiHeader>
         <fileDesc>
@@ -22,7 +22,7 @@
     <text>
         <body>
             <div>
-                <head>Ziele und Inhalt</head>                
+                <!--<head>Ziele und Inhalt</head>                
                 <p> In der Forschungsliteratur wird das Problem der Auffindbarkeit von Selbstzeugnissen in Institutionen mit 
                     Handschriftenbeständen immer wieder herausgestrichen. Das Selbstzeugnis-Repertorium begegnet diesem Defizit, indem es sich                     
                     als Hilfsmittel zur Recherche versteht und darüber hinaus einen ersten inhaltlichen Überblick zu dem 
@@ -33,9 +33,10 @@
                 <p> Der zweite Teil des Projektes bietet die digitale <ref target="http://selbstzeugnisse.hab.de/edition/">Edition</ref> des Diariums von August dem Jüngeren, Herzog zu Braunschweig und Lüneburg (1579-1666), dem Namensgeber der Bibliothek, an. Diese Edition erschließt exemplarisch ein zentrales Selbstzeugnis des recherchierten Bestandes.
                     Das Diarium umfasst knapp vierzig Lebensjahre des Herzogs, den Zeitraum von seinem Eintritt in die Universität bis zum Einzug in die
                     Residenz Wolfenbüttel (1594-1635). Einblicke in die Interessen von August d. J. und vor allem auch Informationen zu seinem Beziehungs- und Wirkungskreis werden durch die Edition zugänglich gemacht. 
-                    </p>                
+                    </p> -->               
+                <head>Projektteam</head>
                 <list>
-                    <head>Projektteam</head>
+                    <head>Projekt "Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek" (September 2014 – August 2017)</head>
                     <item>
                         <label>Edition und Repertorium (Wissenschaftliche Mitarbeiterin)</label>
                         <desc>Inga Hanna Ralle, M.A.</desc>
@@ -52,13 +53,61 @@
                     <item>
                         <label>Projektbegleitung und Korrespondenzadresse</label>
                         <desc>
-                            <address>
+                            <ref target="http://www.hab.de/de/home/ueber-uns/kontakte-und-organisation/prof-dr-ulrike-gleixner.html">Prof. Dr. Ulrike Gleixner</ref>, Herzog August Bibliothek, Lessingplatz 1 38304 Wolfenbüttel
+                            
+                            <!--<address>
                                 <name><ref target="http://www.hab.de/de/home/ueber-uns/kontakte-und-organisation/prof-dr-ulrike-gleixner.html">Prof. Dr. Ulrike Gleixner</ref></name>
                                 <addrLine>Herzog August Bibliothek</addrLine>
                                 <addrLine>Lessingplatz 1</addrLine>
                                 <addrLine>38304 Wolfenbüttel</addrLine>
-                            </address>
+                            </address>-->
                         </desc>
+                    </item>
+                    <item>
+                        <label>Finanzierung</label>
+                        <desc>Das Projekt wurde durch das Niedersächsische Ministerium für Wissenschaft und Kultur im Förderprogramm „PRO*Niedersachsen“ finanziert.</desc>                    
+                    </item>
+                </list>
+                <list>
+                    <head>Projekt "Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek II" (Januar 2019 bis Juni 2022)</head>
+                    <item>
+                        <label>Projektzuständigkeit</label>
+                        <desc>Prof. Dr. Ulrike Gleixner, Dr. Hole Rößler</desc>
+                    </item>
+                    <item>
+                        <label>Bearbeiter</label>
+                        <desc>Miriam Mulzer (seit Januar 2021, davor Wissenschaftliche Hilfskraft), Jan-Hendrik Hütten (Dezember 2020 bis Dezember 2021, davor Wissenschaftliche Hilfskraft), Dr. Alexander Zirr (bis November 2020), Dr. Andreas Herz (bis November 2020)</desc>
+                    </item>
+                    <item>
+                        <label>Technische Umsetzung</label>
+                        <desc>Maximilian Görmar (auf der Grundlage von Vorarbeiten von David Maus)</desc>
+                    </item>
+                    <item>
+                        <label>Finanzierung</label>
+                        <desc>Das Projekt wurde durch das Niedersächsische Ministerium für Wissenschaft und Kultur im Förderprogramm „PRO*Niedersachsen“ finanziert.</desc>                    
+                    </item>
+                </list>
+                <list>
+                    <head>Projekt "Grand Tour digital. Digitalisierung, Erschließung und Visualisierung frühneuzeitlicher Selbstzeugnisse von Bildungsreisen unter Anwendung teilautomatisierter Editionsverfahren" (August 2022 bis voraussichtlich Juli 2025)</head>
+                    <item>
+                        <label>Projektzuständigkeit</label>
+                        <desc>Prof. Dr. Ulrike Gleixner, Dr. Hole Rößler</desc>
+                    </item>
+                    <item>
+                        <label>Bearbeiterin</label>
+                        <desc>Angela Göbel</desc>
+                    </item>
+                    <item>
+                        <label>Technische Umsetzung</label>
+                        <desc>Maximilian Görmar</desc>
+                    </item>
+                    <item>
+                        <label>Kooperationspartner</label>
+                        <desc>Prof. Dr. Thomas Mandel (Institut für Informationswissenschaft, Universität Hildesheim)</desc>
+                    </item>
+                    <item>
+                        <label>Finanzierung</label>
+                        <desc>Das Projekt wird durch die Deutsche Forschungsgemeinschaft (DFG) finanziert.</desc>                    
                     </item>
                 </list>
             </div>

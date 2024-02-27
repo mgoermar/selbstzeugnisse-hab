@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edition.register_personen">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – Register</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><p></p></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson xml:id="person">
+                <head>Personen</head>
+                <!--<person xml:id="Finck">
+                    <persName key="">
+
+                        <forename type="first"/>
+                        <surname>Finck</surname>
+                    </persName>
+                </person>-->
+                <person xml:id="Ursula_v_SL">
+                    <idno type="URI">http://d-nb.info/gnd/13687679X</idno>
+                    <persName type="display">Ursula, Braunschweig-Lüneburg-Dannenberg,
+                        Herzogin</persName>
+                </person>
+                <person xml:id="M_Chemnitz">
+                    <idno type="URI">http://d-nb.info/gnd/118829157</idno>
+                    <persName type="display">Chemnitz, Martin</persName>
+                </person>
+                <person xml:id="Christian_IV._v_Daenemark">                    
+                    <idno type="URI">http://d-nb.info/gnd/118676059</idno>
+                    <persName type="display">Christian IV., Dänemark, König</persName>
+                </person>
+                <person xml:id="Ludwig_von_Sayn-Wittgenstein">
+                    <idno type="URI">http://d-nb.info/gnd/132988054</idno>
+                    <persName type="display">Sayn-Wittgenstein, Ludwig zu, der Ältere</persName>
+                </person>
+                <person xml:id="Moritz_der_Gelehrte_von_Hessen-Kassel">
+                    <idno type="URI">http://d-nb.info/gnd/11858412X</idno>
+                    <persName type="display">Moritz, Hessen-Kassel, Landgraf, 1572-1632</persName>
+                </person>
+                <person xml:id="Philipp_Melanchthon">
+                    <idno type="URI">http://d-nb.info/gnd/118580485</idno>
+                    <persName type="display">Melanchthon, Philipp</persName>
+                </person>
+                <person xml:id="bocer_heinrich">
+                    <idno type="URI">http://d-nb.info/gnd/117608750</idno>
+                    <persName type="display">Bocer, Heinrich</persName>
+                </person>
+                <person xml:id="Joachim_Carl_von_Braunschweig_Lueneburg">
+                    <idno type="URI">http://d-nb.info/gnd/122910419</idno>
+                    <persName type="display">Joachim Carl, Braunschweig-Lüneburg, Herzog</persName>
+                </person>
+                <person xml:id="Anton_Fugger">
+                    <idno type="URI">http://d-nb.info/gnd/122852354</idno>
+                    <persName type="display">Fugger, Anton</persName>
+                </person>
+                <person xml:id="Ferdinand_von_Bayern">
+                    <idno type="URI">http://d-nb.info/gnd/100586376</idno>
+                    <persName type="display">Ferdinand, Bayern, Herzog</persName>
+                </person>
+                <person xml:id="Wilhelm_von_Bayern">
+                    <idno type="URI">http://d-nb.info/gnd/118771841</idno>
+                    <persName type="display">Wilhelm V., Bayern, Herzog</persName>
+                </person>
+                <person xml:id="Johann_Friedrich_von_Sachsen">
+                    <idno type="URI">http://d-nb.info/gnd/118712373</idno>
+                    <persName type="display">Johann Friedrich I., Sachsen, Kurfürst</persName>
+                </person>
+                <person xml:id="Ferdinand_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118532502</idno>
+                    <persName type="display">Ferdinand I., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+                <person xml:id="Familie_von_Nussdorf">
+                    <idno type="URI">http://d-nb.info/gnd/1075776953</idno>
+                </person>
+                <person xml:id="Maximilian_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118579371</idno>
+                    <persName type="display">Maximilian I., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+                <person xml:id="Chlodwig_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118675958</idno>
+                    <persName type="display">Chlodwig I., Fränkisches Reich, König</persName>
+                </person>
+                <person xml:id="Albrecht_IV.">
+                    <idno type="URI">http://d-nb.info/gnd/118644327</idno>
+                    <persName type="display">Albrecht IV., Bayern, Herzog</persName>
+                </person>
+                <person xml:id="Siegmund_von_OEsterreich">
+                    <idno type="URI">http://d-nb.info/gnd/118614215</idno>
+                    <persName type="display">Sigmund, Österreich, Erzherzog</persName>
+                </person>
+                <person xml:id="Karl_der_Kuehne">
+                    <idno type="URI">http://d-nb.info/gnd/118560026</idno>
+                    <persName type="display">Karl, Burgund, Herzog</persName>
+                </person>
+                <person xml:id="Maria_von_Burgund">
+                    <idno type="URI">http://d-nb.info/gnd/11857776X</idno>
+                    <persName type="display">Maria, Burgund, Herzogin</persName>
+                </person>
+                <person xml:id="Johanna_von_Kastilien">
+                    <idno type="URI">http://d-nb.info/gnd/118557793</idno>
+                    <persName type="display">Johanna, Kastilien, Königin</persName>
+                </person>
+                <person xml:id="Philipp_von_Kastilien">
+                    <idno type="URI">http://d-nb.info/gnd/11864162X</idno>
+                    <persName type="display">Philipp I., Kastilien, König</persName>
+                </person>
+                <person xml:id="Ferdinand_II.">
+                    <idno type="URI">http://d-nb.info/gnd/118686712</idno>
+                    <persName type="display">Ferdinand II., Aragonien, König</persName>
+                </person>
+                <person xml:id="Albrecht_II.">
+                    <idno type="URI">http://d-nb.info/gnd/11864162X</idno>
+                    <persName type="display">Philipp I., Kastilien, König</persName>
+                </person>
+                <person xml:id="Elisabeth_von_Luxemburg">
+                    <idno type="URI">http://d-nb.info/gnd/136846505</idno>
+                    <persName type="display">Elisabeth, Heiliges Römisches Reich, Königin</persName>
+                </person>
+                <person xml:id="Sigismund">
+                    <idno type="URI">http://d-nb.info/gnd/118614185</idno>
+                    <persName type="display">Sigismund, Heiliges Römisches Reich, Kaiser</persName>
+                </person>
+                <person xml:id="Laszlo_V.">
+                    <idno type="URI">http://d-nb.info/gnd/118725866</idno>
+                    <persName type="display">László V., Magyarország, Király</persName>
+                </person>
+                <person xml:id="Gottfried_von_Bouillon">
+                    <idno type="URI">http://d-nb.info/gnd/159062748</idno>
+                    <persName type="display">Bouillon, Gottfried von</persName>
+                </person>
+                <person xml:id="Albrecht_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118501607</idno>
+                    <persName type="display">Albrecht I., Heiliges Römisches Reich, König</persName>
+                </person>
+                <person xml:id="Karl_V.">
+                    <idno type="URI">http://d-nb.info/gnd/118560093</idno>
+                    <persName type="display">Karl V., Heiliges Römisches Reich, Kaiser</persName>
+                </person>
+                <person xml:id="Maximilian_II.">
+                    <idno type="URI">http://d-nb.info/gnd/11857938X</idno>
+                    <persName type="display">Maximilian II., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+                <person xml:id="Gregorius_IX.">
+                    <idno type="URI">http://d-nb.info/gnd/118541870</idno>
+                    <persName type="display">Gregorius IX., Papst</persName>
+                </person>
+                <person xml:id="Bartholomaeus">
+                    <idno type="URI">http://d-nb.info/gnd/118822195</idno>
+                    <persName type="display">Bartolomäus, Apostel</persName>
+                </person>
+                <person xml:id="Pietro_Aldobrandini">
+                    <idno type="URI">http://d-nb.info/gnd/124294707</idno>
+                    <persName type="display">Aldobrandini, Pietro</persName>
+                </person>
+                <person xml:id="Albrecht_VII.">
+                    <idno type="URI">http://d-nb.info/gnd/11864436X</idno>
+                    <persName type="display">Albrecht VII., Österreich, Erzherzog</persName>
+                </person>
+                <person xml:id="Maria_von_Oesterreich">
+                    <idno type="URI">http://d-nb.info/gnd/101103573</idno>
+                    <persName type="display">Maria, Heiliges Römisches Reich, Kaiserin</persName>
+                </person>
+
+                <person xml:id="Isabella_Clara_Eugenia_von_Spanien">
+                    <idno type="URI">http://d-nb.info/gnd/118555928</idno>
+                    <persName type="display">Isabella, Spanien, Infantin</persName>
+                </person>
+
+                <person xml:id="Philipp_II.">
+                    <idno type="URI">http://d-nb.info/gnd/118593862</idno>
+                    <persName type="display">Philipp II., Spanien, König</persName>
+                </person>
+
+                <person xml:id="Prospero_Colonna">
+                    <idno type="URI">http://d-nb.info/gnd/143726625</idno>
+                    <persName type="display">Colonna, Prospero</persName>
+                </person>
+
+                <person xml:id="Ludwig_Friedrich_von_Wuerttemberg">
+                    <idno type="URI">http://d-nb.info/gnd/10418356X</idno>
+                    <persName type="display">Ludwig Friedrich, Württemberg-Mömpelgard,
+                        Herzog</persName>
+                </person>
+
+                <person xml:id="August_d_Aeltere">
+                    <idno type="URI">http://d-nb.info/gnd/118651099</idno>
+                    <persName type="display">August, Braunschweig-Lüneburg, Herzog,
+                        1568-1636</persName>
+                </person>
+
+                <person xml:id="Johann_Friedrich_von_Wuerttemberg">
+                    <idno type="URI">http://d-nb.info/gnd/118712381</idno>
+                    <persName type="display">Johann Friedrich, Württemberg, Herzog,
+                        1582-1628</persName>
+                </person>
+
+                <person xml:id="Mariangelo_Accursio">
+                    <idno type="URI">http://d-nb.info/gnd/128807830</idno>
+                    <persName type="display">Accursio, Mariangelo</persName>
+                </person>
+
+                <person xml:id="Alexander_V.">
+                    <idno type="URI">http://d-nb.info/gnd/100936032</idno>
+                    <persName type="display">Alexander V., Papst</persName>
+                </person>
+
+                <person xml:id="Aldobrandius_de_Ferraria">
+                    <idno type="URI">http://d-nb.info/gnd/104040033</idno>
+                    <persName type="display">Aldobrandinus, de Ferraria</persName>
+                </person>
+
+                <person xml:id="Vergilius">
+                    <idno type="URI">http://d-nb.info/gnd/118626574</idno>
+                    <persName type="display">Vergilius Maro, Publius</persName>
+                </person>
+
+                <person xml:id="Johann_Konrad_Eichstaett">
+                    <idno type="URI">http://d-nb.info/gnd/121734862</idno>
+                    <persName type="display">Johann Konrad, Eichstätt, Bischof</persName>
+                </person>
+
+                <person xml:id="Guenther_XLII.">
+                    <idno type="URI">http://d-nb.info/gnd/120188619</idno>
+                    <persName type="display">Günther, Schwarzburg-Sondershausen, Graf</persName>
+                </person>
+
+                <person xml:id="Anton_II.">
+                    <idno type="URI">http://d-nb.info/gnd/124908004</idno>
+                    <persName type="display">Anton, Oldenburg, Graf</persName>
+                </person>
+
+                <person xml:id="Konrad_von_Bothmer">
+                    <idno type="URI">http://d-nb.info/gnd/121513424</idno>
+                    <persName type="display">Bothmer, Konrad von</persName>
+                </person>
+
+                <person xml:id="Johann_Adolf_Schleswig_Holstein">
+                    <idno type="URI">http://d-nb.info/gnd/102032491</idno>
+                    <persName type="display">Johann Adolf, Schleswig-Holstein-Gottorf,
+                        Herzog</persName>
+                </person>
+
+                <person xml:id="Wilhelm_Clericus">
+                    <idno type="URI">http://d-nb.info/gnd/12155810X</idno>
+                    <persName type="display">Clericus, Wilhelm</persName>
+                </person>
+
+                <person xml:id="Christian_Guenther_I.">
+                    <idno type="URI">http://d-nb.info/gnd/120188597</idno>
+                    <persName type="display">Christian Günther I., Schwarzburg-Sondershausen,
+                        Graf</persName>
+                </person>
+
+                <person xml:id="Erich_II.">
+                    <idno type="URI">http://d-nb.info/gnd/119098652</idno>
+                    <persName type="display">Erich II., Braunschweig-Calenberg, Herzog</persName>
+                </person>
+
+                <person xml:id="Ludwig_IV.">
+                    <idno type="URI">http://d-nb.info/gnd/119021854</idno>
+                    <persName type="display">Ludwig, Hessen-Marburg, Landgraf</persName>
+                </person>
+
+                <person xml:id="Ernst_Kurfuerst">
+                    <idno type="URI">http://d-nb.info/gnd/10211790X</idno>
+                    <persName type="display">Ernst, Köln, Erzbischof</persName>
+                </person>
+
+                <person xml:id="Ludwig_V.">
+                    <idno type="URI">http://d-nb.info/gnd/102119538</idno>
+                    <persName type="display">Ludwig V., Hessen-Darmstadt, Landgraf</persName>
+                </person>
+
+                <person xml:id="Bischof_von_Speyer">
+                    <idno type="URI">http://d-nb.info/gnd/102479569</idno>
+                    <persName type="display">Eberhard, Speyer, Bischof</persName>
+                </person>
+
+                <person xml:id="Franz_von_Braunschweig_Lueneburg">
+                    <idno type="URI">http://d-nb.info/gnd/1034728806</idno>
+                    <persName type="display">Franz, Braunschweig-Lüneburg-Dannenberg,
+                        Herzog</persName>
+                </person>
+
+                <person xml:id="Gebhardt_von_Truchsess">
+                    <idno type="URI">http://d-nb.info/gnd/118628615</idno>
+                    <persName type="display">Gebhard, Köln, Erzbischof</persName>
+                </person>
+
+                <person xml:id="Elisabeth_von_Lothringen">
+                    <idno type="URI">http://d-nb.info/gnd/12009150X</idno>
+                    <persName type="display">Elisabeth, Bayern, Kurfürstin</persName>
+                </person>
+
+                <person xml:id="Friedrich_IV.">
+                    <idno type="URI">http://d-nb.info/gnd/100659373</idno>
+                    <persName type="display">Friedrich IV., Pfalz, Kurfürst</persName>
+                </person>
+
+                <person xml:id="Joachim_Ernst">
+                    <idno type="URI">http://d-nb.info/gnd/118712179</idno>
+                    <persName type="display">Joachim Ernst, Brandenburg-Ansbach, Markgraf</persName>
+                </person>
+
+                <person xml:id="Sidonia_von_Braunschweig_Calenberg">
+                    <idno type="URI">http://d-nb.info/gnd/121349098</idno>
+                    <persName type="display">Sidonia, Braunschweig-Calenberg, Herzogin</persName>
+                </person>
+
+                <person xml:id="Katharina_von_Hoya">
+                    <idno type="URI">http://d-nb.info/gnd/123621828</idno>
+                    <persName type="display">Hoya, Katharina von</persName>
+                </person>
+
+                <person xml:id="Moritz_von_Nassau">
+                    <idno type="URI">http://d-nb.info/gnd/118736515</idno>
+                    <persName type="display">Oranje-Nassau, Maurits van</persName>
+                </person>
+
+                <person xml:id="Albrecht_VII._von_Habsburg">
+                    <idno type="URI">http://d-nb.info/gnd/11864436X</idno>
+                    <persName type="display">Albrecht VII., Österreich, Erzherzog</persName>
+                </person>
+
+                <person xml:id="Willem_van_Oranje_Nassau">
+                    <idno type="URI">http://d-nb.info/gnd/118738062</idno>
+                    <persName type="display">Oranje-Nassau, Willem van</persName>
+                </person>
+
+                <person xml:id="Erasmus_von_Rotterdam">
+                    <idno type="URI">http://d-nb.info/gnd/118530666</idno>
+                    <persName type="display">Erasmus, Desiderius</persName>
+                </person>
+
+                <person xml:id="Jakob_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118639889</idno>
+                    <persName type="display">Jakob I., England, König</persName>
+                </person>
+
+                <person xml:id="John_Whitgift">
+                    <idno type="URI">http://d-nb.info/gnd/119323060</idno>
+                    <persName type="display">Whitgift, John</persName>
+                </person>
+
+                <person xml:id="Anna_von_Daenemark">
+                    <idno type="URI">http://d-nb.info/gnd/120844648</idno>
+                    <persName type="display">Anna, England, Königin, 1574-1619</persName>
+                </person>
+
+                <person xml:id="Heinrich_IV.">
+                    <idno type="URI">http://d-nb.info/gnd/118548174</idno>
+                    <persName type="display">Henri IV., Frankreich, König</persName>
+                </person>
+
+                <person xml:id="Heinrich_XIII.">
+                    <idno type="URI">http://d-nb.info/gnd/11872942X</idno>
+                    <persName type="display">Ludwig XIII., Frankreich, König</persName>
+                </person>
+
+                <person xml:id="Elisabeth_von_Frankreich">
+                    <idno type="URI">http://d-nb.info/gnd/122381335</idno>
+                    <persName type="display">Isabel, España, Reina</persName>
+                </person>
+
+                <person xml:id="Eduard_Fortunat_von_Baden_Rodemachern">
+                    <idno type="URI">http://d-nb.info/gnd/1018341846</idno>
+                    <persName type="display">Hermann, Baden-Rodemachern, Markgraf</persName>
+                </person>
+
+                <person xml:id="Johann_II._Pfalz_Zweibruecken">
+                    <idno type="URI">http://d-nb.info/gnd/118639889</idno>
+                    <persName type="display">Jakob I., England, König</persName>
+                </person>
+
+                <person xml:id="Friedrich_IV._Kurfuerst_Pfalz">
+                    <idno type="URI">http://d-nb.info/gnd/100659373</idno>
+                    <persName type="display">Friedrich IV., Pfalz, Kurfürst</persName>
+                </person>
+
+                <person xml:id="Friedrich_I._von_Wuerttemberg">
+                    <idno type="URI">http://d-nb.info/gnd/118535862</idno>
+                    <persName type="display">Friedrich I., Württemberg, Herzog</persName>
+                </person>
+
+                <person xml:id="Gottfried_zu_Oettingen">
+                    <idno type="URI">http://d-nb.info/gnd/117108308</idno>
+                    <persName type="display">Oettingen, Gottfried zu</persName>
+                </person>
+
+                <person xml:id="Georg_von_Ehingen">
+                    <idno type="URI">http://d-nb.info/gnd/1077200781</idno>
+                    <persName type="display">Ehingen, Georg von</persName>
+                </person>
+
+                <person xml:id="Johann_Georg_von_Brandenburg">
+                    <idno type="URI">http://d-nb.info/gnd/101093713</idno>
+                    <persName type="display">Johann Georg, Brandenburg, Markgraf</persName>
+                </person>
+
+                <person xml:id="Ludovico_Ariosto">
+                    <idno type="URI">http://d-nb.info/gnd/118503952</idno>
+                    <persName type="display">Ariosto, Ludovico</persName>
+                </person>
+
+                <person xml:id="Alberto_Azzo_II.">
+                    <idno type="URI">http://d-nb.info/gnd/136184561</idno>
+                    <persName type="display">Azzo II., Este, Marchese</persName>
+                </person>
+
+                <person xml:id="Barbara_von_Oesterreich">
+                    <idno type="URI">http://d-nb.info/gnd/132831643</idno>
+                    <persName type="display">Barbara, Ferrara, Herzogin</persName>
+                </person>
+
+                <person xml:id="Heinrich_Julius_Braunschweig_Wolfenbuettel">
+                    <idno type="URI">http://d-nb.info/gnd/118709887</idno>
+                    <persName type="display">Heinrich Julius, Braunschweig-Wolfenbüttel,
+                        Herzog</persName>
+                </person>
+
+                <person xml:id="Papst_Clemens_VIII.">
+                    <idno type="URI">http://d-nb.info/gnd/119022524</idno>
+                    <persName type="display">Klemens VIII., Papst</persName>
+                </person>
+
+                <person xml:id="Mariano_Socini">
+                    <idno type="URI">http://d-nb.info/gnd/131750755</idno>
+                    <persName type="display">Socini, Mariano</persName>
+                </person>
+
+                <person xml:id="Alessandro_Tartagni">
+                    <idno type="URI">http://d-nb.info/gnd/100935958</idno>
+                    <persName type="display">Alexander, de Imola</persName>
+                </person>
+
+                <person xml:id="Alfonso_Ceccarelli">
+                    <idno type="URI">http://d-nb.info/gnd/14138137X</idno>
+                    <persName type="display">Ceccarelli, Alfonso</persName>
+                </person>
+
+
+                <person xml:id="Grossherzog_Ferdinand_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118876368</idno>
+                    <persName type="display">Ferdinand I., Toskana, Großherzog</persName>
+                </person>
+
+                <person xml:id="Leonhardt_Thurneysser_zum_Thurn">
+                    <idno type="URI">http://d-nb.info/gnd/118622447</idno>
+                    <persName type="display">Thurneysser zum Thurn, Leonhardt</persName>
+                </person>
+
+                <person xml:id="Christophorus_Landinus">
+                    <idno type="URI">http://d-nb.info/gnd/118569112</idno>
+                    <persName type="display">Landino, Cristoforo</persName>
+                </person>
+
+                <person xml:id="Grossherzogin_Christine_von_Toskana">
+                    <idno type="URI">http://d-nb.info/gnd/119429411</idno>
+                    <persName type="display">Christine, Toskana, Großherzogin</persName>
+                </person>
+
+                <person xml:id="Roberto_Valturio">
+                    <idno type="URI">http://d-nb.info/gnd/118886231</idno>
+                    <persName type="display">Valturio, Roberto</persName>
+                </person>
+
+                <person xml:id="Archimedes">
+                    <idno type="URI">http://d-nb.info/gnd/118503863</idno>
+                    <persName type="display">Archimedes</persName>
+                </person>
+
+                <person xml:id="Evangelist_Johannes">
+                    <idno type="URI">http://d-nb.info/gnd/118557815</idno>
+                    <persName type="display">Johannes, Evangelist</persName>
+                </person>
+
+                <person xml:id="Heinrich_II.">
+                    <idno type="URI">http://d-nb.info/gnd/118548255</idno>
+                    <persName type="display">Heinrich II., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+
+                <person xml:id="Buonarroti_Michelangelo">
+                    <idno type="URI">http://d-nb.info/gnd/118582143</idno>
+                    <persName type="display">Michelangelo, Buonarroti</persName>
+                </person>
+
+                <person xml:id="Papst_Sixtus_V.">
+                    <idno type="URI">http://d-nb.info/gnd/118765671</idno>
+                    <persName type="display">Sixtus V., Papst</persName>
+                </person>
+
+                <person xml:id="Juan_de_Austria">
+                    <idno type="URI">http://d-nb.info/gnd/118713299</idno>
+                    <persName type="display">Juan, de Austria, 1547-1578</persName>
+                </person>
+
+                <person xml:id="Jean_Parisot_de_la_Valette">
+                    <idno type="URI">http://d-nb.info/gnd/115791361</idno>
+                    <persName type="display">La Valette, Jean Parisot de</persName>
+                </person>
+
+                <person xml:id="Philipp_Ludwig_II.">
+                    <idno type="URI">http://d-nb.info/gnd/119050870</idno>
+                    <persName type="display">Philipp Ludwig II., Hanau-Münzenberg, Graf</persName>
+                </person>
+
+                <person xml:id="Philipp_Moritz_von_Hanau_Muenzberg">
+                    <idno type="URI">http://d-nb.info/gnd/1043461345</idno>
+                    <persName type="display">Hanau-Münzenberg, Philipp Moritz von</persName>
+                </person>
+
+                <person xml:id="Georg_Friedrich_von_Baden_Durlach">
+                    <idno type="URI">http://d-nb.info/gnd/11871693X</idno>
+                    <persName type="display">Georg Friedrich, Baden-Durlach, Markgraf</persName>
+                </person>
+
+                <person xml:id="Ernst_II._von_Braunschweig_Lueneburg_Celle">
+                    <idno type="URI">http://d-nb.info/gnd/118018051</idno>
+                    <persName type="display">Ernst II., Braunschweig-Lüneburg-Celle,
+                        Herzog</persName>
+                </person>
+
+                <person xml:id="Christian_Wilhelm_von_Brandeburg">
+                    <idno type="URI">http://d-nb.info/gnd/100081746</idno>
+                    <persName type="display">Christian Wilhelm, Brandenburg, Markgraf</persName>
+                </person>
+
+                <person xml:id="Christoph_von_Braunschweig_Lueneburg_Harburg">
+                    <idno type="URI">http://d-nb.info/gnd/129629561</idno>
+                    <persName type="display">Christoph, Braunschweig-Lüneburg-Harburg,
+                        Herzog</persName>
+                </person>
+                <person xml:id="Heinrich_von_Braunschweig_Lueneburg">
+                    <idno type="URI">http://d-nb.info/gnd/134198093</idno>
+                    <persName type="display">Heinrich, Braunschweig-Lüneburg, Herzog</persName>
+                </person>
+                <person xml:id="Ursula_von_Sachsen_Lauenburg">
+                    <idno type="URI">http://d-nb.info/gnd/13687679X</idno>
+                    <persName type="display">Ursula, Braunschweig-Lüneburg-Dannenberg,
+                        Herzogin</persName>
+                </person>
+                <person xml:id="Volrat_von_Watzdorf">
+                    <idno type="URI">http://d-nb.info/gnd/1082760331</idno>
+                    <persName type="display">Watzdorf, Volrat von</persName>
+                </person>
+                <person xml:id="Philipp_Julius_von_Pommern_Wolgast">
+                    <idno type="URI">http://d-nb.info/gnd/104327235</idno>
+                    <persName type="display">Philipp Julius, Pommern-Wolgast, Herzog</persName>
+                </person>
+                <person xml:id="Sophia_Hedwig_Pommern_Wolgast">
+                    <idno type="URI">http://d-nb.info/gnd/128412100</idno>
+                    <persName type="display">Sophia Hedwig, Pommern-Wolgast, Herzogin</persName>
+                </person>
+                <person xml:id="Clara_Maria_Stettin_Pommern">
+                    <idno type="URI">http://d-nb.info/gnd/122574230</idno>
+                    <persName type="display">Clara Maria, Braunschweig-Lüneburg, Herzogin</persName>
+                </person>
+                <person xml:id="Titus_Livius">
+                    <idno type="URI">http://d-nb.info/gnd/118573624</idno>
+                    <persName type="display">Livius, Titus</persName>
+                </person>
+
+                <person xml:id="Moritz_Sachsen_Lauenburg">
+                    <idno type="URI">http://d-nb.info/gnd/137568517</idno>
+                    <persName type="display">Moritz, Sachsen-Lauenburg, Herzog</persName>
+                </person>
+
+                <person xml:id="Elisabeth_von_Hohenlohe_Langenburg">
+                    <idno type="URI">http://d-nb.info/gnd/120652285</idno>
+                    <persName type="display">Elisabeth, Hohenlohe-Langenburg, Gräfin</persName>
+                </person>
+
+                <person xml:id="Magnus_von_Braunschweig_Lueneburg">
+                    <idno type="URI">http://d-nb.info/gnd/116696389</idno>
+                    <persName type="display">Magnus, Braunschweig-Lüneburg, Herzog</persName>
+                </person>
+
+                <person xml:id="Heinrich_Camerarius">
+                    <idno type="URI">http://d-nb.info/gnd/124571530</idno>
+                    <persName type="display">Camerarius, Heinrich</persName>
+                </person>
+
+                <person xml:id="Neuneck_Herren">
+                    <idno type="URI">http://d-nb.info/gnd/129574155</idno>
+                </person>
+                <person xml:id="T_B_Walmoden">
+                    <idno type="URI">http://d-nb.info/gnd/134008952</idno>
+                    <persName type="display">Walmoden, Theodul Burchard von</persName>
+                </person>
+                <person xml:id="August_von_Braunschweig_Luenburg">
+                    <idno type="URI">http://d-nb.info/gnd/118505076</idno>
+                    <persName type="display">August, Braunschweig-Lüneburg, Herzog,
+                        1579-1666</persName>
+                </person>
+
+                <person xml:id="Julius_Friedrich_von_Wuerttemberg_Weiltingen">
+                    <idno type="URI">http://d-nb.info/gnd/120064006</idno>
+                    <persName type="display">Julius Friedrich, Württemberg-Weiltingen,
+                        Herzog</persName>
+                </person>
+
+                <person xml:id="Christian_von_Braunschweig_Lueneburg">
+                    <idno type="URI">http://d-nb.info/gnd/128744405</idno>
+                    <persName type="display">Christian, Braunschweig-Lüneburg, Herzog</persName>
+                </person>
+
+                <person xml:id="Sidonia_von_Oldenburg_Delmenhorst">
+                    <idno type="URI">http://d-nb.info/gnd/1015574343</idno>
+                    <persName type="display">Sidonia, von Oldenburg</persName>
+                </person>
+
+                <person xml:id="Bernhard_Teges">
+                    <persName key="">
+
+                        <forename type="first">Bernhard</forename>
+                        <surname>Teges</surname>
+                    </persName>
+
+
+                    <note>Hofmeister, Präzeptor und Gubernator August d. Jüngeren</note>
+                </person>
+
+
+
+                <person xml:id="Otto_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118590758</idno>
+                    <persName type="display">Otto I., Heiliges Römisches Reich, Kaiser</persName>
+                </person>
+
+                <person xml:id="Johannes_Tetzel">
+                    <idno type="URI">http://d-nb.info/gnd/118801708</idno>
+                    <persName type="display">Tetzel, Johannes</persName>
+                </person>
+
+                <person xml:id="Muenchhausen_Adelsgeschlecht">
+                    <idno type="URI">http://d-nb.info/gnd/118585495</idno>
+                </person>
+
+                <person xml:id="Catullus_Gaius_Valerius">
+                    <idno type="URI">http://d-nb.info/gnd/118519719</idno>
+                    <persName type="display">Catullus, Gaius Valerius</persName>
+                </person>
+
+                <person xml:id="Marsilius_Ficinus">
+                    <idno type="URI">http://d-nb.info/gnd/118532855</idno>
+                    <persName type="display">Ficinus, Marsilius</persName>
+                </person>
+
+                <person xml:id="Lucius_Vitruvius_Cordo">
+                    <persName key="">
+                        <roleName>Kaiser</roleName>
+                        <forename type="first"/>
+
+                    </persName>
+
+
+
+                </person>
+
+                <person xml:id="Martin_Luther">
+                    <idno type="URI">http://d-nb.info/gnd/118575449</idno>
+                    <persName type="display">Luther, Martin</persName>
+                </person>
+
+                <person xml:id="Klaus_Narr">
+                    <idno type="URI">http://d-nb.info/gnd/124346006</idno>
+                    <persName type="display">Klaus, Narr</persName>
+                </person>
+
+                <person xml:id="Rudolf_II.">
+                    <idno type="URI">http://d-nb.info/gnd/118603701</idno>
+                    <persName type="display">Rudolf II., Heiliges Römisches Reich, Kaiser</persName>
+                </person>
+
+                <person xml:id="Georg_Ludwig_von_Leuchtenberg">
+                    <idno type="URI">http://d-nb.info/gnd/136708676</idno>
+                    <persName type="display">Georg Ludwig, Leuchtenberg, Landgraf</persName>
+                </person>
+
+                <person xml:id="Wilhelm_von_Lueneburg">
+                    <idno type="URI">http://d-nb.info/gnd/119137364</idno>
+                    <persName type="display">Wilhelm, Braunschweig-Lüneburg, Herzog,
+                        1564-1642</persName>
+                </person>
+
+                <person xml:id="Ludwig_I._von_Anhalt_Koethen">
+                    <idno type="URI">http://d-nb.info/gnd/118574868</idno>
+                    <persName type="display">Ludwig, Anhalt-Köthen, Fürst</persName>
+                </person>
+                <person xml:id="Jesus_Christus">
+                    <idno type="URI">http://d-nb.info/gnd/118557513</idno>
+                    <persName type="display">Jesus Christus</persName>
+                </person>
+                <person xml:id="Marcus_Fugger">
+                    <idno type="URI">http://d-nb.info/gnd/118639110</idno>
+                    <persName type="display">Fugger, Markus</persName>
+                </person>
+                <person xml:id="Vincenzo_Campi">
+                    <idno type="URI">http://d-nb.info/gnd/120091127</idno>
+                    <persName type="display">Campi, Vincenzo</persName>
+                </person>
+                <person xml:id="Neptun">
+                    <idno type="URI">http://d-nb.info/gnd/11952354X</idno>
+                    <persName type="display">Neptun</persName>
+                </person>
+                <person xml:id="Anna_Boehmen_Ungarn">
+                    <idno type="URI">http://d-nb.info/gnd/133664473</idno>
+                    <persName type="display">Anna, Heiliges Römisches Reich, Kaiserin</persName>
+                </person>
+                <person xml:id="Roberto_da_Sanseverino">
+                    <idno type="URI">http://d-nb.info/gnd/119460114</idno>
+                    <persName type="display">Sanseverino, Roberto da</persName>
+                </person>
+                <person xml:id="Sigmund_Erzherzog_Oesterreich">
+                    <idno type="URI">http://d-nb.info/gnd/118614215</idno>
+                    <persName type="display">Sigmund, Österreich, Erzherzog</persName>
+                </person>
+                <person xml:id="Matyas_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118579029</idno>
+                    <persName type="display">Mátyás I., Magyarország, Király</persName>
+                </person>
+                <person xml:id="Alexander_VI.">
+                    <idno type="URI">http://d-nb.info/gnd/118501844</idno>
+                    <persName type="display">Alexander VI., Papst</persName>
+                </person>
+                <person xml:id="Charles_VIII.">
+                    <idno type="URI">http://d-nb.info/gnd/118776762</idno>
+                    <persName type="display">Charles VIII., France, Roi</persName>
+                </person>
+
+                <person xml:id="Christian_von_Oldenburg_Delmenhorst">
+                    <idno type="URI">http://d-nb.info/gnd/120815958</idno>
+                    <persName type="display">Christian, Oldenburg, Graf von</persName>
+                </person>
+
+                <person xml:id="Adrian_von_Horn">
+                    <idno type="URI">http://d-nb.info/gnd/121350207</idno>
+                    <persName type="display">Horn, Adrian von</persName>
+                </person>
+
+                <person xml:id="Johann_Schweikhard_von_Kronberg">
+                    <idno type="URI">http://d-nb.info/gnd/118712497</idno>
+                    <persName type="display">Johann Schweikhard, Mainz, Erzbischof</persName>
+                </person>
+
+                <person xml:id="Johann_Georg_I._von_Sachsen">
+                    <idno type="URI">http://d-nb.info/gnd/100029752</idno>
+                    <persName type="display">Johann Georg I., Sachsen, Kurfürst</persName>
+                </person>
+
+                <person xml:id="Friedrich_V.">
+                    <idno type="URI">http://d-nb.info/gnd/118693522</idno>
+                    <persName type="display">Friedrich V., Pfalz, Kurfürst</persName>
+                </person>
+
+                <person xml:id="Lothar_von_Metternich">
+                    <idno type="URI">http://d-nb.info/gnd/104224266</idno>
+                    <persName type="display">Lothar, Trier, Erzbischof</persName>
+                </person>
+
+                <person xml:id="Matthias_HRR">
+                    <idno type="URI">http://d-nb.info/gnd/108945189X</idno>
+                    <persName type="display">Matthias I, Kaiser des Römisch-Deutschen
+                        Reiches</persName>
+                </person>
+
+                <person xml:id="Anna_von_Oesterreich-Tirol">
+                    <idno type="URI">http://d-nb.info/gnd/1089789491</idno>
+                    <persName type="display">Anna, Kaiserin des Römisch-deutschen Reichs</persName>
+                </person>
+                <person xml:id="Karl_Schwarzburg_Rudolstadt">
+                    <idno type="URI">http://d-nb.info/gnd/123890438</idno>
+                    <persName type="display">Karl Günther, Schwarzburg-Rudolstadt, Graf</persName>
+                </person>
+
+                <person xml:id="Lambert_II._von_Gleichen">
+                    <idno type="URI">http://d-nb.info/gnd/136098894</idno>
+                    <persName type="display">Lambert, von Gleichen</persName>
+                </person>
+
+                <person xml:id="Pontius_Pilatus">
+                    <idno type="URI">http://d-nb.info/gnd/118792172</idno>
+                    <persName type="display">Pilatus, Pontius</persName>
+                </person>
+
+                <person xml:id="Karl_der_Kahle">
+                    <idno type="URI">http://d-nb.info/gnd/118640119</idno>
+                    <persName type="display">Karl II., Heiliges Römisches Reich, Kaiser</persName>
+                </person>
+
+                <person xml:id="Arnolf_von_Kaernten">
+                    <idno type="URI">http://d-nb.info/gnd/118650440</idno>
+                    <persName type="display">Arnulf, Heiliges Römisches Reich, Kaiser</persName>
+                </person>
+
+                <person xml:id="Emilie_von_Schwarzburg_Rudolstadt">
+                    <idno type="URI">http://d-nb.info/gnd/123314488</idno>
+                    <persName type="display">Emilie, Schwarzburg-Rudolstadt, Gräfin</persName>
+                </person>
+
+                <person xml:id="Juliana_von_Württemberg_Weiltingen">
+                    <idno type="URI">http://d-nb.info/gnd/122800915</idno>
+                    <persName type="display">Juliana, Württemberg-Weiltingen, Herzogin</persName>
+                </person>
+
+                <person xml:id="Philipp_II._Pommern_Stettin">
+                    <idno type="URI">http://d-nb.info/gnd/102120137</idno>
+                    <persName type="display">Philipp II., Pommern-Stettin, Herzog</persName>
+                </person>
+
+                <person xml:id="Dorothea_von_Anhalt_Zerbst">
+                    <idno type="URI">http://d-nb.info/gnd/104376546</idno>
+                    <persName type="display">Dorothea, Braunschweig-Lüneburg, Herzogin,
+                        1607-1634</persName>
+                </person>
+
+                <person xml:id="Adolf_Friedrich_I._von_Mecklenburg">
+                    <idno type="URI">http://d-nb.info/gnd/100014704</idno>
+                    <persName type="display">Adolf Friedrich I., Mecklenburg, Herzog</persName>
+                </person>
+
+                <person xml:id="Wilhelm_Ketteler">
+                    <idno type="URI">https://d-nb.info/gnd/130001961</idno>
+                    <persName type="display">Ketteler, Wilhelm, Herzog von Kurland</persName>
+                </person>
+
+                <person xml:id="Anna_von_Croy">
+                    <idno type="URI">http://d-nb.info/gnd/10431351X</idno>
+                    <persName type="display">Croÿ, Anna, Herzogin von, geb. Herzogin von Pommern</persName>
+                </person>
+
+                <person xml:id="Heinrich_August_von_Braunschweig_Lueneburg">
+                    <idno type="URI">http://d-nb.info/gnd/121110915</idno>
+                    <persName type="display">Heinrich August, Braunschweig-Lüneburg,
+                        Herzog</persName>
+                </person>
+
+                <person xml:id="Julius_von_Buelow">
+                    <idno type="URI">http://d-nb.info/gnd/121975959</idno>
+                    <persName type="display">Bülow, Julius von</persName>
+                </person>
+
+                <person xml:id="Hieronymus_Krapp">
+                    <idno type="URI">http://d-nb.info/gnd/138764875</idno>
+                    <persName type="display">Krapp, Hieronymus</persName>
+                </person>
+
+                <person xml:id="Melchior_von_Roedern">
+                    <idno type="URI">http://d-nb.info/gnd/120476371</idno>
+                    <persName type="display">Rödern, Melchior von</persName>
+                </person>
+
+                <person xml:id="Ferdinand_II._HRR">
+                    <idno type="URI">http://d-nb.info/gnd/118532510</idno>
+                    <persName type="display">Ferdinand II., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+
+                <person xml:id="Paul_Jacob_von_Starhemberg">
+                    <idno type="URI">http://d-nb.info/gnd/1014418364</idno>
+                    <persName type="display">Starhemberg, Paul Jacob von</persName>
+                </person>
+
+                <person xml:id="Karl_I._von_Liechtenstein">
+                    <idno type="URI">http://d-nb.info/gnd/118720899</idno>
+                    <persName type="display">Karl I., Liechtenstein, Fürst</persName>
+                </person>
+
+                <person xml:id="Heinrich_Wilhelm_von_Starhemberg">
+                    <idno type="URI">http://d-nb.info/gnd/12279155X</idno>
+                    <persName type="display">Starenberg, Heinrich Wilhelm von</persName>
+                </person>
+
+                <person xml:id="Wenzel_Eusebius_von_Lobkowitz">
+                    <idno type="URI">http://d-nb.info/gnd/13290036X</idno>
+                    <persName type="display">Popel z Lobkovic, Zdeněk Vojtěch</persName>
+                </person>
+
+                <person xml:id="Pirckheimer_Familie">
+                    <idno type="URI">http://d-nb.info/gnd/122386698</idno>
+                </person>
+
+                <person xml:id="Philipp_Reinhard_Solms">
+                    <idno type="URI">http://d-nb.info/gnd/115497595</idno>
+                    <persName type="display">Solms, Philipp Reinhard von</persName>
+                </person>
+
+                <person xml:id="Eleonore_HRR">
+                    <idno type="URI">http://d-nb.info/gnd/104086491</idno>
+                    <persName type="display">Eleonore, Heiliges Römisches Reich, Kaiserin,
+                        1598-1655</persName>
+                </person>
+                <person xml:id="Ulrich_Pommern">
+                    <idno type="URI">http://d-nb.info/gnd/124612474</idno>
+                    <persName type="display">Ulrich, Pommern, Herzog</persName>
+                </person>
+                <person xml:id="Hedwig_Br_Wb">
+                    <persName key="">
+
+                        <forename type="first">Hedwig</forename>
+
+                    </persName>
+
+
+
+                </person>
+                <person xml:id="Sibylle_El_Ol">
+                    <idno type="URI">http://d-nb.info/gnd/12193084X</idno>
+                    <persName type="display">Sibylle Elisabeth, Oldenburg, Gräfin</persName>
+                </person>
+                <person xml:id="Juliana_von_Wuerttemberg_Weiltingen">
+                    <idno type="URI">http://d-nb.info/gnd/122800915</idno>
+                    <persName type="display">Juliana, Württemberg-Weiltingen, Herzogin von, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                </person>
+
+                <person xml:id="Familie_von_Pappenheim">
+                    <idno type="URI">http://d-nb.info/gnd/118739255</idno>
+                </person>
+                <person xml:id="Moritz_Sachsen">
+                    <idno type="URI">http://d-nb.info/gnd/118584138</idno>
+                    <persName type="display">Moritz, Sachsen, Kurfürst</persName>
+                </person>
+                <person xml:id="August_Sachsen">
+                    <idno type="URI">http://d-nb.info/gnd/119458446</idno>
+                    <persName type="display">August, Sachsen, Kurfürst</persName>
+                </person>
+                <person xml:id="Rudolf_An_Ze">
+                    <idno type="URI">http://d-nb.info/gnd/115710264</idno>
+                    <persName type="display">Rudolf, Anhalt-Zerbst, Fürst</persName>
+                </person>
+                <person xml:id="Theodor_Magd">
+                    <idno type="URI">http://d-nb.info/gnd/12156357X</idno>
+                    <persName type="display">Theodor, Magdeburg, Erzbischof</persName>
+                </person>
+
+                <person xml:id="Peter_Heinrich_von_Stralendorf">
+                    <idno type="URI">http://d-nb.info/gnd/11730638X</idno>
+                    <persName type="display">Stralendorf, Peter Heinrich von</persName>
+                </person>
+
+                <person xml:id="Sulaiman_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118619993</idno>
+                    <persName type="display">Sulaiman I., Osmanisches Reich, Sultan</persName>
+                </person>
+
+                <person xml:id="Leopold_Wilhelm_von_Oesterreich">
+                    <idno type="URI">http://d-nb.info/gnd/118727664</idno>
+                    <persName type="display">Leopold Wilhelm, Österreich, Erzherzog</persName>
+                </person>
+
+                <person xml:id="Wartislav_von_Fuerstenberg">
+                    <idno type="URI">http://d-nb.info/gnd/136123120</idno>
+                    <persName type="display">Fürstenberg, Wratislav von</persName>
+                </person>
+
+                <person xml:id="Wolfgang_Wilhelm_von_Pfalz_Neuburg">
+                    <idno type="URI">http://d-nb.info/gnd/118634895</idno>
+                    <persName type="display">Wolfgang Wilhelm, Pfalz-Neuburg, Pfalzgraf</persName>
+                </person>
+
+                <person xml:id="Maximilian_von_Waldstein">
+                    <idno type="URI">http://d-nb.info/gnd/136864457</idno>
+                    <persName type="display">Waldstein, Maximilian von</persName>
+                </person>
+
+                <person xml:id="Albrecht_Duerer">
+                    <idno type="URI">http://d-nb.info/gnd/11852786X</idno>
+                    <persName type="display">Dürer, Albrecht</persName>
+                </person>
+
+                <person xml:id="Lucas_Chranach">
+                    <idno type="URI">http://d-nb.info/gnd/118522582</idno>
+                    <persName type="display">Cranach, Lucas</persName>
+                </person>
+
+                <person xml:id="Melchior_Klesl">
+                    <idno type="URI">http://d-nb.info/gnd/119120712</idno>
+                    <persName type="display">Klesl, Melchior</persName>
+                </person>
+
+                <person xml:id="Adam_z_Valdstejna">
+                    <idno type="URI">http://d-nb.info/gnd/120959216</idno>
+                    <persName type="display">Valdštejna, Adam z</persName>
+                </person>
+
+                <person xml:id="Franz_Karl_von_Sachsen_Lauenburg">
+                    <idno type="URI">http://d-nb.info/gnd/136198368</idno>
+                    <persName type="display">Franz Karl, Sachsen-Lauenburg, Herzog</persName>
+                </person>
+
+                <person xml:id="Philipp_II_Po_St">
+                    <idno type="URI">http://d-nb.info/gnd/102120137</idno>
+                    <persName type="display">Philipp II., Pommern-Stettin, Herzog</persName>
+                </person>
+                <person xml:id="Sophia_Schl_Ho_So">
+                    <idno type="URI">http://d-nb.info/gnd/1053164165</idno>
+                    <persName type="display">Sophia, Pommern-Stettin, Herzogin</persName>
+                </person>
+                <person xml:id="Sigismund_August_Meckl">
+                    <idno type="URI">http://d-nb.info/gnd/128447362</idno>
+                    <persName type="display">Sigismund August, Mecklenburg, Herzog</persName>
+                </person>
+                <person xml:id="Michael_Praetorius">
+                    <idno type="URI">http://d-nb.info/gnd/118741713</idno>
+                    <persName type="display">Praetorius, Michael</persName>
+                </person>
+                <person xml:id="Julius_Ernst_Br-Db">
+                    <idno type="URI">http://d-nb.info/gnd/121123553</idno>
+                    <persName type="display">Julius Ernst, Braunschweig-Lüneburg, Herzog</persName>
+                </person>
+                <person xml:id="Moritz_Graf_zu_Diez"> </person>
+                <person xml:id="Wilhelm_Kurland">
+                    <idno type="URI">http://d-nb.info/gnd/130001961</idno>
+                    <persName type="display">Wilhelm, Kurland, Herzog</persName>
+                </person>
+                <person xml:id="Sophie_Elisabeth_Br_L">
+                    <idno type="URI">http://d-nb.info/gnd/119057379</idno>
+                    <persName type="display">Sophie Elisabeth, Braunschweig-Lüneburg,
+                        Herzogin</persName>
+                </person>
+                <person xml:id="Maria_Katharina_von_Mecklenburg_Schwerin">
+                    <idno type="URI">http://d-nb.info/gnd/12003994X</idno>
+                    <persName type="display">Marie Katharina, Mecklenburg-Schwerin,
+                        Herzogin</persName>
+                </person>
+                <person xml:id="Georg_Br_Lb">
+                    <idno type="URI">http://d-nb.info/gnd/119137356</idno>
+                    <persName type="display">Georg, Braunschweig-Lüneburg, Herzog</persName>
+                </person>
+                <person xml:id="Daniel_Moenchmeier">
+                    <idno type="URI">http://d-nb.info/gnd/120223910</idno>
+                    <persName type="display">Mönchmeier, Daniel</persName>
+                </person>
+                <person xml:id="Johann_Ulrich_Eggenberg">
+                    <idno type="URI">http://d-nb.info/gnd/118688065</idno>
+                    <persName type="display">Eggenberg, Johann Ulrich von</persName>
+                </person>
+                <person xml:id="Ferdinand_III">
+                    <idno type="URI">http://d-nb.info/gnd/118532529</idno>
+                    <persName type="display">Ferdinand III., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+                <person xml:id="Johann_Christoph_Meurer">
+                    <idno type="URI">http://d-nb.info/gnd/122559185</idno>
+                    <persName type="display">Meurer, Johann Christoph</persName>
+                </person>
+                <person xml:id="Barthold_Twestreng">
+                    <idno type="URI">http://d-nb.info/gnd/135930766</idno>
+                    <persName type="display">Twestreng, Barthold</persName>
+                </person>
+                <person xml:id="Martin_Gosky">
+                    <idno type="URI">http://d-nb.info/gnd/124681298</idno>
+                    <persName type="display">Gosky, Martin</persName>
+                </person>
+                <person xml:id="Paschasius_von_der_Luehe">
+                    <idno type="URI">http://d-nb.info/gnd/130687227</idno>
+                    <persName type="display">Lühe, Paschasius von der</persName>
+                </person>
+                <person xml:id="Johann_Friedrich_Schl_Holstein_G">
+                    <idno type="URI">http://d-nb.info/gnd/115823239</idno>
+                    <persName type="display">Johann Friedrich, Schleswig-Holstein-Gottorf,
+                        Herzog</persName>
+                </person>
+                <person xml:id="Albrecht_Friedland">
+                    <idno type="URI">http://d-nb.info/gnd/118628755</idno>
+                    <persName type="display">Albrecht, Friedland, Herzog</persName>
+                </person>
+                <person xml:id="Gottfried_Heinrich_Pappenheim">
+                    <idno type="URI">http://d-nb.info/gnd/119020572</idno>
+                    <persName type="display">Pappenheim, Gottfried Heinrich zu</persName>
+                </person>
+                <person xml:id="Hans_Heinrich_von_Hasselhorst">
+                    <idno type="URI">http://d-nb.info/gnd/1034746960</idno>
+                    <persName type="display">Hasselhorst, Hans Heinrich von</persName>
+                </person>
+                <person xml:id="Friedrich_Ulrich_von_Braunschweig_Wolfenbuettel">
+                    <idno type="URI">http://d-nb.info/gnd/102017433</idno>
+                    <persName type="display">Friedrich Ulrich, Braunschweig-Wolfenbüttel,
+                        Herzog</persName>
+                </person>
+                <person xml:id="Henning_von_Steinberg">
+                    <idno type="URI">http://d-nb.info/gnd/134234278</idno>
+                    <persName type="display">Steinberg, Henning von</persName>
+                </person>
+                <person xml:id="Albrecht_Friedrich_zu_Barby">
+                    <idno type="URI">http://d-nb.info/gnd/115388508</idno>
+                    <persName type="display">Barby, Albrecht Friedrich zu</persName>
+                </person>
+                <person xml:id="Axel_Oxenstierna">
+                    <idno type="URI">http://d-nb.info/gnd/176923683</idno>
+                    <persName type="display">Oxenstierna, Axel</persName>
+                </person>
+                <person xml:id="Maximilian_Liechtenstein">
+                    <idno type="URI">http://d-nb.info/gnd/1117140601</idno>
+                    <persName type="display">Liechtenstein, Maximilian von</persName>
+                </person>
+                <person xml:id="Vilem_Slavata">
+                    <idno type="URI">http://d-nb.info/gnd/1018376615</idno>
+                    <persName type="display">Slavata z Chlumu a Košumberka, Vilém</persName>
+                </person>
+                <person xml:id="Anna_Mecklenburg">
+                    <idno type="URI">http://d-nb.info/gnd/121930785</idno>
+                    <persName type="display">Anna, Mecklenburg, Herzogin</persName>
+                </person>
+                <person xml:id="Georg_Engelhard_Loehneysen">
+                    <idno type="URI">http://d-nb.info/gnd/120995867</idno>
+                    <persName type="display">Löhneysen, Georg Engelhard</persName>
+                </person>
+                <person xml:id="Elisabeth_Br_WB">
+                    <idno type="URI">http://d-nb.info/gnd/101042515</idno>
+                    <persName type="display">Elisabeth, Braunschweig-Wolfenbüttel,
+                        Herzogin</persName>
+                </person>
+                <person xml:id="Hans_Spilman">
+                    <idno type="URI">http://d-nb.info/gnd/143075357</idno>
+                    <persName type="display">Spilman, Hans</persName>
+                </person>
+                <person xml:id="Gabrielle_Estrees">
+                    <idno type="URI">http://d-nb.info/gnd/119150263</idno>
+                    <persName type="display">Estrées, Gabrielle d'</persName>
+                </person>
+                <person xml:id="Katharina_Hoya">
+                    <idno type="URI">http://d-nb.info/gnd/123621828</idno>
+                    <persName type="display">Hoya, Katharina von</persName>
+                </person>
+                <person xml:id="Anna_Schw-Son">
+                    <idno type="URI">http://d-nb.info/gnd/120187620</idno>
+                    <persName type="display">Anna, Schwarzburg-Sondershausen, Gräfin</persName>
+                </person>
+                <person xml:id="Wilhelm_Braunschweig_Lueneburg">
+                    <idno type="URI">http://d-nb.info/gnd/134198158</idno>
+                    <persName type="display">Wilhelm, Braunschweig-Lüneburg, Herzog</persName>
+                </person>
+                <person xml:id="Lucullus">
+                    <idno type="URI">http://d-nb.info/gnd/118780697</idno>
+                    <persName type="display">Lucullus, Lucius Licinius</persName>
+                </person>
+                <person xml:id="Nero">
+                    <idno type="URI">http://d-nb.info/gnd/1089105487</idno>
+                    <persName type="display">Nero, Kaiser, Römisches Reich</persName>
+                </person>
+                <person xml:id="Cicero">
+                    <idno type="URI">http://d-nb.info/gnd/100442854</idno>
+                    <persName type="display">Cicero, Quintus Tullius</persName>
+                </person>
+                <person xml:id="Caligula">
+                    <idno type="URI">http://d-nb.info/gnd/118518410</idno>
+                    <persName type="display">Caligula, Römisches Reich, Kaiser</persName>
+                </person>
+                <person xml:id="Caesar">
+                    <idno type="URI">http://d-nb.info/gnd/118869965</idno>
+                    <persName type="display">Caesar, Gaius Iulius, 20 v. Chr.-4</persName>
+                </person>
+                <person xml:id="Maximilian_III">
+                    <idno type="URI">http://d-nb.info/gnd/11880099X</idno>
+                    <persName type="display">Maximilian, Österreich, Erzherzog, 1558-1618</persName>
+                </person>
+                <person xml:id="Friedrich_III">
+                    <idno type="URI">http://d-nb.info/gnd/118535773</idno>
+                    <persName type="display">Friedrich III., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+
+                <person xml:id="Marino_Grimani">
+                    <idno type="URI">http://d-nb.info/gnd/116836121</idno>
+                    <persName type="display">Grimani, Marino</persName>
+                </person>
+                <person xml:id="Friedrich_I">
+                    <idno type="URI">http://d-nb.info/gnd/118535757</idno>
+                    <persName type="display">Friedrich I., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+                <person xml:id="Alexander_III">
+                    <idno type="URI">http://d-nb.info/gnd/118819712</idno>
+                    <persName type="display">Alexander III., Papst</persName>
+                </person>
+                <person xml:id="Pipino">
+                    <idno type="URI">http://d-nb.info/gnd/119385066</idno>
+                    <persName type="display">Pipino, Italien, König</persName>
+                </person>
+
+                <person xml:id="Karl_I.">
+                    <idno type="URI">http://d-nb.info/gnd/118560034</idno>
+                    <persName type="display">Karl I., Heiliges Römisches Reich, Kaiser</persName>
+                </person>
+                <person xml:id="Cornelius_Nepos">
+                    <idno type="URI">http://d-nb.info/gnd/118747681</idno>
+                    <persName type="display">Nepos, Cornelius</persName>
+                </person>
+                <person xml:id="Gaius_Plinius">
+                    <idno type="URI">http://d-nb.info/gnd/118595091</idno>
+                    <persName type="display">Plinius Caecilius Secundus, Gaius</persName>
+                </person>
+                <person xml:id="Vitruvius">
+                    <idno type="URI">http://d-nb.info/gnd/118627252</idno>
+                    <persName type="display">Vitruvius</persName>
+                </person>
+                <person xml:id="Girolamo_Fracastoro">
+                    <idno type="URI">http://d-nb.info/gnd/118810987</idno>
+                    <persName type="display">Fracastoro, Girolamo</persName>
+                </person>
+                <person xml:id="Titus_Quinctius_Flamininus">
+                    <idno type="URI">http://d-nb.info/gnd/118683837</idno>
+                    <persName type="display">Flamininus, Titus Quinctius</persName>
+                </person>
+                <person xml:id="Sixtus_V.">
+                    <idno type="URI">http://d-nb.info/gnd/118765671</idno>
+                    <persName type="display">Sixtus V., Papst</persName>
+                </person>
+                <person xml:id="Marcus_Claudius_Marcellus">
+                    <idno type="URI">http://d-nb.info/gnd/118781766</idno>
+                    <persName type="display">Marcellus, Marcus Claudius, Feldherr</persName>
+                </person>
+                <person xml:id="Francesco_Petrarca">
+                    <idno type="URI">http://d-nb.info/gnd/118593234</idno>
+                    <persName type="display">Petrarca, Francesco</persName>
+                </person>
+                <person xml:id="Obizzi_di_Ferrara">
+                    <idno type="URI">http://d-nb.info/gnd/130422681</idno>
+                </person>
+                <person xml:id="Ercole_I.">
+                    <idno type="URI">http://d-nb.info/gnd/119391856</idno>
+                    <persName type="display">Ercole I., Ferrara, Herzog</persName>
+                </person>
+                <person xml:id="Friedrich_II.">
+                    <idno type="URI">http://d-nb.info/gnd/118535765</idno>
+                    <persName type="display">Friedrich II., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+                <person xml:id="Enzio">
+                    <idno type="URI">http://d-nb.info/gnd/119443740</idno>
+                    <persName type="display">Enzio, Sardinien, König</persName>
+                </person>
+                <person xml:id="Aktaeon">
+                    <idno type="URI">http://d-nb.info/gnd/118647504</idno>
+                    <persName type="display">Aktäon</persName>
+                </person>
+                <person xml:id="Scipio_Africanus">
+                    <idno type="URI">http://d-nb.info/gnd/118612336</idno>
+                    <persName type="display">Scipio, Publius Cornelius, Africanus Maior</persName>
+                </person>
+                <person xml:id="Gaius_Iulius_Caesar">
+                    <idno type="URI">http://d-nb.info/gnd/118518275</idno>
+                    <persName type="display">Caesar, Gaius Iulius</persName>
+                </person>
+                <person xml:id="Justinian_I.">
+                    <idno type="URI">http://d-nb.info/gnd/11855896X</idno>
+                    <persName type="display">Justinian I., Byzantinisches Reich, Kaiser</persName>
+                </person>
+                <person xml:id="Gaius_Tribonianus">
+                    <idno type="URI">http://d-nb.info/gnd/118802739</idno>
+                    <persName type="display">Tribonianus, Gaius</persName>
+                </person>
+                <person xml:id="Giovanni_Bologni">
+                    <idno type="URI">http://d-nb.info/gnd/139493352</idno>
+                    <persName type="display">Bologni, Giovanni</persName>
+                </person>
+                <person xml:id="Heinrich_VII.">
+                    <idno type="URI">http://d-nb.info/gnd/118548301</idno>
+                    <persName type="display">Heinrich VII., Heiliges Römisches Reich,
+                        Kaiser</persName>
+                </person>
+                <person xml:id="Bartolus_de_Saxoferrato">
+                    <idno type="URI">http://d-nb.info/gnd/118652885</idno>
+                    <persName type="display">Bartolus, de Saxoferrato</persName>
+                </person>
+                <person xml:id="Jacopo_Sannazaro">
+                    <idno type="URI">http://d-nb.info/gnd/118794469</idno>
+                    <persName type="display">Sannazaro, Jacopo</persName>
+                </person>
+                <person xml:id="Agrippina">
+                    <idno type="URI">http://d-nb.info/gnd/11864405X</idno>
+                    <persName type="display">Agrippina, die Jüngere</persName>
+                </person>
+                <person xml:id="bruening_johann">
+                    <idno type="URI">https://d-nb.info/gnd/121819620</idno>
+                    <persName type="display">Brüning, Johann</persName>
+                </person>
+                <person xml:id="kardorff_anon_1">
+                    <persName type="display">Kardorf, N. N.</persName>
+                    <note>Angehöriger des mecklenburgischen Uradelsgeschlechts.</note>
+                </person>
+                <person xml:id="geist_berendt">
+                    <idno type="URI">https://d-nb.info/gnd/1046140124</idno>
+                    <persName type="display">Hagen (gen. Geist), Bernhard von</persName>
+                </person>
+                <person xml:id="hohenfeld_wolfgang">
+                    <idno type="URI">https://d-nb.info/gnd/1065821964</idno>
+                    <persName type="display">Hohenfeld, Wolfgang von</persName>
+                </person>
+                <person xml:id="langenbeck_heinrich">
+                    <persName type="display">Langenbeck, Heinrich</persName>
+                    <idno type="URI">https://d-nb.info/gnd/123976685</idno>
+                </person>
+                <person xml:id="Sophia_Ursula_Barby">
+                    <idno type="URI">https://d-nb.info/gnd/104369477</idno>
+                    <persName type="display">Barby, Sophia Ursula, Gräfin zu, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                </person>
+                <person xml:id="heinrich_1">
+                    <persName type="display">N. N., Heinrich</persName>
+                    <note>Reitschmied Augusts d. J.</note>
+                </person>
+                <person xml:id="alvensleben_anon_1">
+                    <persName type="display">Alvensleben, N. N. von</persName>
+                    <note>Angehöriger des altmärkischen Adelsgeschlechts.</note>
+                </person>
+                <person xml:id="kropf_friedrich">
+                    <persName type="display">Kropf, Friedrich</persName>
+                </person>
+                <person xml:id="mecklenburg_anna_maria">
+                    <persName type="display">Mecklenburg, Anna Maria, Herzogin von, geb. Gräfin von Ostfriesland</persName>
+                    <idno type="URI">https://d-nb.info/gnd/120826119</idno>
+                </person>
+                <person xml:id="mecklenburg_sophia">
+                    <persName type="display">Mecklenburg, Sophia, Herzogin von, geb. Herzogin von Schleswig-Holstein-Gottorf</persName>
+                    <idno type="URI">https://d-nb.info/gnd/121591867</idno>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_katharina_elisabeth">
+                    <persName type="display">Oldenburg-Delmenhorst, Katharina Elisabeth, Gräfin von</persName>
+                    <idno type="URI">https://d-nb.info/gnd/120825880</idno>
+                </person>
+                <person xml:id="schleswig-holstein-sonderburg_anna">
+                    <persName type="display">Schleswig-Holstein-Sonderburg, Anna, Herzogin von, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                    <idno type="URI">https://d-nb.info/gnd/120063476</idno>
+                </person>
+                <person xml:id="schleswig-holstein-sonderburg-beck_clara">
+                    <persName type="display">Schleswig-Holstein-Sonderburg-Beck, Clara, Herzogin von, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                    <idno type="URI">https://d-nb.info/gnd/105885111X</idno>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_sibylla_maria">
+                    <persName type="display">Oldenburg-Delmenhorst, Sibylla Maria, Gräfin von</persName>
+                    <idno type="URI">https://d-nb.info/gnd/121091163</idno>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_dorothea">
+                    <persName type="display">Oldenburg-Delmenhorst, Dorothea, Gräfin von</persName>
+                    <idno type="URI">https://d-nb.info/gnd/115864490</idno>
+                </person>
+                <person xml:id="oldenburg-delmenhorst_anton-heinrich">
+                    <persName type="display">Oldenburg-Delmenhorst, Anton Heinrich, Graf von</persName>
+                    <idno type="URI">https://d-nb.info/gnd/120100177</idno>
+                </person>
+                <person xml:id="willebrand_nicolaus">
+                    <idno type="URI">http://d-nb.info/gnd/102425108</idno>
+                    <persName type="display">Willebrand, Nicolaus</persName>
+                </person>
+            </listPerson>     
+        </body>
+    </text>
+</TEI>

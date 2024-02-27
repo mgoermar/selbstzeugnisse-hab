@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="statisch">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="statisch" xml:id="dienste.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -39,7 +39,9 @@
             <div>
                 <head>Digitale Dienste</head>
                 <p>Alle im Portal angebotenen Inhalte werden unter einer freien Lizenz angeboten und
-                    zur Nachnutzung zur Verfügung gestellt. Wenn nicht anders angegeben unterliegen
+                    zur Nachnutzung zur Verfügung gestellt. Der Quellcode des Selbstzeugnisportals mit allen erarbeiteten Daten und Skripten kann über das <ref
+                        target="https://git.hab.de/goermar/selbstzeugnisse-hab">GitLab</ref> der HAB heruntergeladen werden. 
+                    Wenn nicht anders angegeben unterliegen
                     die Daten der Lizenz <ref
                         target="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC-BY-SA
                         4.0</ref> ( Namensnennung - Weitergabe unter gleichen Bedingungen 4.0
@@ -57,7 +59,7 @@
                             Schema</ref> geprüft werden.</p>
                 </div>
                 <div>
-                    <head>Edition</head>
+                    <head>Edition - Reisetagebuch Augusts II.</head>
                     <p>Die Edition des Diariums von Herzog August dem Jüngeren ist in TEI-P5 kodiert
                         und steht zusammen mit der Einleitung, den Kodierungsrichtlinien und dem
                         Register zum <ref
@@ -66,6 +68,21 @@
                             target="http://selbstzeugnisse.hab.de/beacon.txt">Beacon-Datei</ref>
                         verlinkt alle in der Edition getaggten Personen mit GND-Eintrag (Stand:
                         Sommer 2017). </p>
+                </div>
+                <div>
+                    <head>Edition - Tagebücher Ludwig Rudolphs und Christine Luises</head>
+                    <p>Die Edition der Tagebücher Ludwig Rudolphs und Christine Luises ist in TEI-P5 kodiert
+                        und steht zusammen mit der Einleitung, den Editionssrichtlinien und den
+                        Registern in einem <ref
+                            target="http://selbstzeugnisse.hab.de/downloads/sz2.zip">Zip-Ordner</ref> sowie über das <ref
+                                target="https://git.hab.de/goermar/selbstzeugnisse-hab/-/tree/master/resources/daten/sz2">GitLab</ref> der HAB zum Download zur Verfügung. Eine <ref
+                                target="http://selbstzeugnisse.hab.de/downloads/sz2_beacon.txt">Beacon-Datei</ref>
+                        verlinkt alle in der Edition getaggten Personen mit GND-Eintrag. Daten zu <ref
+                            target="http://selbstzeugnisse.hab.de/downloads/sz2_rdf_persons.xml">Personen</ref> (mit GND-Eintrag) und <ref
+                                target="http://selbstzeugnisse.hab.de/downloads/sz2_rdf_places.xml">Orten</ref> werden zudem in RDF/XML als Linked Open Data angeboten. Die Struktur der Datensets folgt den Richtlinien, die sich bereits in den digitalen Editionen der <ref
+                                    target="https://eos.hypotheses.org/293">Reiseberichte und Sammlungsbeschreibungen Philipp Hainhofers</ref> sowie der <ref
+                                        target="http://diglib.hab.de/content.php?dir=edoc/ed000228&amp;distype=optional&amp;metsID=edoc_ed000228_fg_LOD_docu&amp;xml=materialien%2FRDF%2Fdocumentation_lod.xml&amp;xsl=introduction/introduction.xsl">Tagebücher Christians II. von Anhalt-Bernburg</ref> bewährt haben. (Stand:
+                        Sommer 2022).</p>
                 </div>
             </div>
         </body>

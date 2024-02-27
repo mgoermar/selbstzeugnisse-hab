@@ -1,0 +1,1195 @@
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title>Lektürenotizen</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/affix.css">
+        <link rel="stylesheet" href="assets/css/proprietary.css">
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/proprietary.js"></script>
+    </head>
+
+    <body onload="javascript:x = getNavBarHeight();scrollNav(x);">
+
+        <div class="container-fluid" style="background-color:#FFFFFF">
+          <h1>Lektürenotizen (1701, 1707)</h1>
+            <p>Es handelt sich um Lesenotizen des Herzogs Ludwig Rudoph von Braunschweig-Wolfenbüttel in seinen Tage- und Notizbüchern.</br>Rekonstruktion: Jan-Hendrik Hütten, Alexander Zirr, Andreas Herz, Miriam Mulzer, Maximilian Görmar, 2021</p>
+            <div style="float:left;margin-right:20px">
+            <p>Altkatalog: Herzog August Bibliothek Wolfenbüttel, Cod. Guelf. 28 Blank., Cod. Guelf. 286a Blank.<br />
+            <span id="switchLink"><a href="javascript:switchToOriginal()">Anzeige in Vorlageform</a></span></p>
+            </div>
+
+            <div class="dropdown" style="float:left">
+                <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Download<span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li class="dropdown-header">Datenexport</li> 
+                    <li><a href="ludwig_rudolf.csv">CSV</a></li>
+                    <li><a href="ludwig_rudolf.xml">XML</a></li>
+                    <li><a href="ludwig_rudolf-tei.xml">TEI</a></li>
+                    <li><a href="ludwig_rudolf.rdf">RDF/XML</a></li>
+                    <li><a href="ludwig_rudolf.ttl">Turtle</a></li>
+                    <li><a href="ludwig_rudolf-gephi.zip">Gephi (CSV)</a></li>
+                    <li><a href="ludwig_rudolf-SOLR.xml">Solr XML</a></li>
+                    <li class="dropdown-header">Geodaten</li>
+                    <li><a href="printingPlaces.csv">CSV</a></li>
+                    <li><a href="printingPlaces.kml">KML</a></li>
+                    <li class="dropdown-header">Komplette Website</li>
+                    <li><a href="ludwig_rudolf.zip">ZIP</a></li>
+                </ul>
+            </div> 
+        </div>
+        <nav class="navbar navbar-default" data-spy="affix" data-offset-top="197">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-persName.html">Personen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-persName.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#A">A (7)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#B">B (7)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#C">C (11)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#D">D (5)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#F">F (6)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#G">G (11)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#H">H (1)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#I">I (1)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#J">J (1)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#K">K (3)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#L">L (13)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#M">M (13)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#N">N (4)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#O">O (3)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#P">P (7)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#R">R (2)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#S">S (17)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#T">T (8)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#V">V (2)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#Z">Z (3)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-beacon.html">Personenprofil<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-beacon.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#ActaPacisWestfalicae">Acta Pacis Westfalicae (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#AlbertinaWien">Albertina Wien (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#AlchemischeBestaendederHAB">Alchemische Bestände der HAB (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#ArchivportalD">Archivportal D (20)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BachDigital">Bach Digital (8)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BiographischesLexikondesKaiserthumsOesterreich">Biographisches Lexikon des Kaiserthums Oesterreich (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BiographischesLexikonzurGeschichteSuedosteuropas">Biographisches Lexikon zur Geschichte Südosteuropas (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BriefeundTexteausdemintellektuellenBerlinum1800">Briefe und Texte aus dem intellektuellen Berlin um 1800 (8)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BriefwechselBenediktBahnsen">Briefwechsel Benedikt Bahnsen (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#CarlMariavonWeberGesamtausgabe(WeGA)">Carl Maria von Weber Gesamtausgabe (WeGA) (9)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#ControversiaetConfessio">Controversia et Confessio (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#correspSearch–VerzeichnissevonBriefeditionen">correspSearch – Verzeichnisse von Briefeditionen (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DeutscheBiographie">Deutsche Biographie (34)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DeutscheDigitaleBibliothek">Deutsche Digitale Bibliothek (102)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DeutschesTextarchiv">Deutsches Textarchiv (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DigitalerPortraitindex">Digitaler Portraitindex (64)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DizionarioBiograficodegliItaliani">Dizionario Biografico degli Italiani (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#e-codicesVirtuelleHandschriftenbibliothekderSchweiz">e-codices Virtuelle Handschriftenbibliothek der Schweiz (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#editionhumboldtdigital">edition humboldt digital (7)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Fabricius:Bibliothecalatina">Fabricius: Bibliotheca latina (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#FrankfurterPersonenlexikon">Frankfurter Personenlexikon (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#FruchtbringendeGesellschaft">Fruchtbringende Gesellschaft (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#GesamtkatalogdeutschsprachigerLeichenpredigten">Gesamtkatalog deutschsprachiger Leichenpredigten (14)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#GeschichtsquellendesdeutschenMittelalters">Geschichtsquellen des deutschen Mittelalters (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Graphikportal–Akteure">Graphikportal – Akteure (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Graphikportal–Dargestellte">Graphikportal – Dargestellte (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#HessischeBiografie">Hessische Biografie (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#HistorischesLexikonderSchweiz">Historisches Lexikon der Schweiz (10)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#InternationalMusicScoreLibraryProject">International Music Score Library Project (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#JahresberichtefuerdeutscheGeschichte">Jahresberichte für deutsche Geschichte (39)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#JewishEncyclopedia1906">Jewish Encyclopedia 1906 (4)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#KalliopeVerbundkatalog">Kalliope Verbundkatalog (64)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#KatalogdesMuenzkabinettsStaatlicheMuseenzuBerlin">Katalog des Münzkabinetts Staatliche Museen zu Berlin (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#MatrikelderUniversitaetRostock">Matrikel der Universität Rostock (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#MelchiorAdam:Vitae">Melchior Adam: Vitae (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#PersonendatenbankderHoeflingederoesterreichischenHabsburger">Personendatenbank der Höflinge der österreichischen Habsburger (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Rheinland-PfaelzischePersonendatenbank">Rheinland-Pfälzische Personendatenbank (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#RostockerProfessorenkatalog">Rostocker Professorenkatalog (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Sandrart.net">Sandrart.net (9)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#SaechsischeBiographie">Sächsische Biographie (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Trithemius:Descriptoribusecclesiasticis">Trithemius: De scriptoribus ecclesiasticis (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#VerzeichnisderDrucke16.Jahrhunderts(VD16)">Verzeichnis der Drucke 16. Jahrhunderts (VD 16) (17)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#VirtuellesKupferstichkabinett">Virtuelles Kupferstichkabinett (24)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Wikipedia">Wikipedia (65)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-year.html">Datierung<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-year.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1540–1550">1540–1550 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1570–1580">1570–1580 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1580–1590">1580–1590 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1600–1610">1600–1610 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1620–1630">1620–1630 (2)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1630–1640">1630–1640 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1640–1650">1640–1650 (3)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1650–1660">1650–1660 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1660–1670">1660–1670 (6)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1670–1680">1670–1680 (4)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1680–1690">1680–1690 (5)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1690–1700">1690–1700 (13)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1700–1710">1700–1710 (25)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1710–1720">1710–1720 (35)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1720–1730">1720–1730 (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-genres.html">Gattungen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-genres.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Biographie">Biographie (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Brief">Brief (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Erbauungsliteratur">Erbauungsliteratur (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Flugschrift">Flugschrift (5)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Gebetbuch">Gebetbuch (2)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Gelegenheitsschrift">Gelegenheitsschrift (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Handbuch">Handbuch (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Ordensliteratur:Jesuiten">Ordensliteratur:Jesuiten (2)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Rede">Rede (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Roman">Roman (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Satire">Satire (5)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Streitschrift:jur.">Streitschrift:jur. (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Streitschrift:theol.">Streitschrift:theol. (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Traktat">Traktat (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Verserzaehlung">Verserzählung (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-subjects.html">Inhalte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-subjects.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Arsmoriendi">Ars moriendi (1)</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Genealogie">Genealogie (1)</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Geographie">Geographie (2)</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Paedagogik">Pädagogik (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-languages.html">Sprachen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-languages.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Englisch">Englisch (1)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Franzoesisch">Französisch (44)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Deutsch">Deutsch (28)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Altgriechisch">Altgriechisch (1)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Italienisch">Italienisch (4)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Latein">Latein (22)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Spanisch">Spanisch (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown active">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-placeName.html">Orte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-placeName.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#AlaHaye">A la Haye (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Ambergae">Ambergae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Amstelodami">Amstelodami (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Amsterdam">Amsterdam (13)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Basel">Basel (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Basileae">Basileae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Braunschweig">Braunschweig (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Breslau">Breslau (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Bresslau">Breßlau (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Brusselle">Brusselle (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Brusselles">Brusselles (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Bruxelles">Bruxelles (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Cologne">Cologne (6)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#ColoniaeAgrippina">Coloniae Agrippina (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#ColoniaeAgrippinae">Coloniae Agrippinae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Coelln">Cölln (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Coeln">Cöln (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Erlangen">Erlangen (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Firenze">Firenze (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Franckfurt">Franckfurt (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#FranckfurtamMayn">Franckfurt am Mayn (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Franequera">Franequera (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Frankfurt">Frankfurt (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Frankfurt,Main">Frankfurt, Main (3)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Frankfurt,Oder">Frankfurt, Oder (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Giessae">Giessae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Gotha">Gotha (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Hamburg">Hamburg (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Jena">Jena (3)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Koeln">Köln (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#LaHaye">La Haye (7)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#LaHaye">LaHaye (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Leide">Leide (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Leipzig">Leipzig (6)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Liege">Liege (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Liegnitz">Liegnitz (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Londres">Londres (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#LutetiaeParisiorum">Lutetiae Parisiorum (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Luebeck">Lübeck (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#NewlyprintedatParis">Newly printed at Paris (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Nuernberg">Nürnberg (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Padova">Padova (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Paris">Paris (5)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Parisiis">Parisiis (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Rastatt">Rastatt (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Rotterdam">Rotterdam (4)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#s'Gravenhage">s'Gravenhage (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#UlmaeSuevorum">Ulmae Suevorum (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Utrecht">Utrecht (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Venedig">Venedig (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Venetia">Venetia (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Wittenberg">Wittenberg (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#s.l.">s. l. (13)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-publishers.html">Drucker/Verleger<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-publishers.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#^[Drucker:]StamperiadelSeminario">^[Drucker:] Stamperia del Seminario (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Acher">Acher (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#AubriusetSchleich">Aubrius & Schleich (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Backer">Backer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ballard">Ballard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Betkius">Betkius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#beyGottfriedLiebernickel">bey Gottfried Liebernickel (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Boetius">Boetius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Braun">Braun (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Broedelet">Broedelet (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Broncart">Broncart (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#BrunetetRigaut">Brunet & Rigaut (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Boeckmannus">Böckmannus (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Coup">Coup (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Cramoisy">Cramoisy (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Curti">Curti (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#DeBacker">De Backer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#deBacker">de Backer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#DeVoys">De Voys (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Desbordes">Desbordes (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Dole">Dole (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#duVal">duVal (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ehrich">Ehrich (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ellinckhuysen">Ellinckhuysen (3)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Fellgiebel">Fellgiebel (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Forster">Forster (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Fricx">Fricx (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#FritschetBoehm">Fritsch & Böhm (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#GedrucktundVerlegtbeyJ.GeorgZilligern,Hochf.privil.Hof-Buchdr.">Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr. (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Gleditsch">Gleditsch (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Gollner">Gollner (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Gronenberg,Simon">Gronenberg, Simon (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Groschuff">Groschuff (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Guignard">Guignard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Haak">Haak (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Henricpetri">Henricpetri (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Humm">Humm (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Jansonius">Jansonius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Johnson">Johnson (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kalcovius">Kalcovius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kenkus">Kenkus (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kinkius">Kinkius (4)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Krebs">Krebs (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kuehne">Kühne (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Leonard">Leonard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#LeSincere">LeSincere (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Lorber">Lorber (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Marteau">Marteau (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Metternich">Metternich (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Meyer">Meyer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Michalet">Michalet (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Mortier">Mortier (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Neuenhahn">Neuenhahn (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Otto">Otto (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#PierreMortier">Pierre Mortier (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Poolsum">Poolsum (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Pralard">Pralard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ribou">Ribou (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Roger">Roger (3)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Rohrlach">Rohrlach (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Rotterdam">Rotterdam (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#s.n.],andaretobesoldinLondon,byJohnStarkey">s.n.], and are to be sold in London, by John Starkey (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Sarzina">Sarzina (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schelte">Schelte (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Scheltus">Scheltus (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schiele">Schiele (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schneider">Schneider (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schrey">Schrey (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Sincere">Sincere (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Slaart">Slaart (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Stamp.d.AccademiadellaCrusca">Stamp. d. Accademia della Crusca (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Strickius">Strickius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Swart">Swart (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Troyel">Troyel (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Voys">Voys (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Weidmann">Weidmann (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Wetstein">Wetstein (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Wiedemeyerus">Wiedemeyerus (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Zilliger">Zilliger (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#s.n.">s. n. (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-format.html">Formate<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-format.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-format.html#2°">2° (4)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#4°">4° (13)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8°">8° (29)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#12°">12° (18)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#2">2 (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#458S.,3Bl.;8°">458 S., 3 Bl. ; 8° (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8">8 (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8"">8" (2)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8o">8o (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#ohneAngabe">ohne Angabe (30)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-systemManifestation.html">Nachweise<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-systemManifestation.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-systemManifestation.html#K10plus">K10plus (69)</a></li>
+                        <li><a href="ludwig_rudolf-systemManifestation.html#VD17">VD17 (9)</a></li>
+                        <li><a href="ludwig_rudolf-systemManifestation.html#VD18">VD18 (22)</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" style="padding-right:15px">
+                <li class="dropdown">
+	                <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-picture"></span> Visualisierung<span class="caret"></span></a>
+	                <ul class="dropdown-menu">
+		                <li><a href="ludwig_rudolf-wordCloud.html" title="Wortwolken">Word Clouds</a></li>
+		                <li><a href="ludwig_rudolf-doughnut.html" title="Kreisdiagramme">Kreisdiagramme</a></li>
+	                </ul>
+                </li>
+            </ul>
+        </nav>
+        <div class="container" style="min-height:600px;">
+            <h2 id="AlaHaye">A la Haye (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Karl Heiliges Römisches Reich, Kaiser</span>/<span class="authorName">Teissier, Antoine</span>: </span><span class="titleBib">Instructions de l'empereur Charles V. à Philippe II. Roi d'Espagne et de Philippe II. au prince Philippe son fils. Mises en François par Antoine Teissier. 2. édition. A laquelle on a joint la Méthode qu'on a tenuë pour l'éducation des enfans de France</span><span class="titleCat">[Recherchierter Titel:] Instructions de l'empereur Charles V. à Philippe II. Roi d'Espagne et de Philippe II. au prince Philippe son fils. Mises en François par Antoine Teissier. 2. édition. A laquelle on a joint la Méthode qu'on a tenuë pour l'éducation des enfans de France</span><span class="published">, A la Haye: Dole, 1700</span>                    <a id="linkcurrent_0" href="javascript:toggle('current_0')">Mehr</a>
+                </p>
+                <div id="current_0" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=136951821" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Ambergae">Ambergae (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Tacitus, Cornelius</span>/<span class="authorName">Althamer, Andreas</span>: </span><span class="titleBib">Andreæ Althameri Commentaria: In P. Cornelii Taciti equitis Romani libellum De Situ, Moribus Et Populis Germaniæ</span><span class="titleCat">[Recherchierter Titel:] Andreæ Althameri Commentaria: In P. Cornelii Taciti equitis Romani libellum De Situ, Moribus Et Populis Germaniæ</span><span class="published">, Ambergae: Forster, 1609</span>                    <a id="linkcurrent_1" href="javascript:toggle('current_1')">Mehr</a>
+                </p>
+                <div id="current_1" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=394766091" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Amstelodami">Amstelodami (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Neuhusius, Edo</span>/<span class="authorName">Neuhusius, Reinerus</span>: </span><span class="titleBib">Theatrum ingenii humani Liber 1-2</span><span class="titleCat">[Recherchierter Titel:] Theatrum ingenii humani Liber 1-2</span><span class="published">, Amstelodami: Jansonius, 1648</span>                    <a id="linkcurrent_2" href="javascript:toggle('current_2')">Mehr</a>
+                </p>
+                <div id="current_2" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150731884" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Amsterdam">Amsterdam (13)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Theophrastus</span>/<span class="authorName">La Bruyère, Jean</span>/<span class="authorName">Coste, Pierre</span>: </span><span class="titleBib">Les Caractères De Theophraste, Traduits du Grec. Avec Les Caracteres Ou Les Moeurs De Ce Siecle, Par M. De La Bruyere de l'Academie Françoise. Avec La Clef En Marge, divisé en trois Volumes</span><span class="titleCat">[Recherchierter Titel:] Les Caractères De Theophraste, Traduits du Grec. Avec Les Caracteres Ou Les Moeurs De Ce Siecle, Par M. De La Bruyere de l'Academie Françoise. Avec La Clef En Marge, divisé en trois Volumes</span><span class="published">, Amsterdam: Wetstein, 1720</span>                    <a id="linkcurrent_3" href="javascript:toggle('current_3')">Mehr</a>
+                </p>
+                <div id="current_3" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237048752" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                                            </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Montfort, Louis</span>: </span><span class="titleBib">Alix de France. nouvelle historique</span><span class="titleCat">[Recherchierter Titel:] Alix de France. nouvelle historique</span><span class="published">, Amsterdam: Roger, 1712</span>                    <a id="linkcurrent_4" href="javascript:toggle('current_4')">Mehr</a>
+                </p>
+                <div id="current_4" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=595406939" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Pétis de la Croix, François</span>: </span><span class="titleBib">Les Mille & Un Jour Tome Troisiéme</span><span class="titleCat">[Recherchierter Titel:] Les Mille & Un Jour Tome Troisiéme</span><span class="published">, Amsterdam: Coup, 1712</span>                    <a id="linkcurrent_5" href="javascript:toggle('current_5')">Mehr</a>
+                </p>
+                <div id="current_5" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250753391" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Pétis de la Croix, François</span>: </span><span class="titleBib">Les Mille & Un Jour Tome Second</span><span class="titleCat">[Recherchierter Titel:] Les Mille & Un Jour Tome Second</span><span class="published">, Amsterdam: Coup, 1712</span>                    <a id="linkcurrent_6" href="javascript:toggle('current_6')">Mehr</a>
+                </p>
+                <div id="current_6" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250752980" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Saurin, Élie</span>: </span><span class="titleBib">Tratté de l'amour de Dieu</span><span class="titleCat">[Recherchierter Titel:] Tratté de l'amour de Dieu</span><span class="published">, Amsterdam: Roger, 1712</span>                    <a id="linkcurrent_7" href="javascript:toggle('current_7')">Mehr</a>
+                </p>
+                <div id="current_7" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150381794" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Aulnoy, Marie Catherine Le Jumel de Barneville</span>: </span><span class="titleBib">Le nouveau Gentilhomme bourgeois ou les fées à la mode</span><span class="titleCat">[Recherchierter Titel:] Le nouveau Gentilhomme bourgeois ou les fées à la mode</span><span class="published">, Amsterdam: Roger, 1711</span>                    <a id="linkcurrent_8" href="javascript:toggle('current_8')">Mehr</a>
+                </p>
+                <div id="current_8" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151681449" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Drelincourt, Laurent</span>: </span><span class="titleBib">Sonnets chrétiens sur divers sujets</span><span class="titleCat">[Recherchierter Titel:] Sonnets chrétiens sur divers sujets</span><span class="published">, Amsterdam: Desbordes, 1709</span>                    <a id="linkcurrent_9" href="javascript:toggle('current_9')">Mehr</a>
+                </p>
+                <div id="current_9" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151090645" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Courtin, Antoine</span>/<span class="authorName">Chevreuse, ...</span>: </span><span class="titleBib">Nouveau Traité De La Civilité Qui Se Pratique En France Parmi Les Honnestes Gens</span><span class="titleCat">[Recherchierter Titel:] Nouveau Traité De La Civilité Qui Se Pratique En France Parmi Les Honnestes Gens</span><span class="published">, Amsterdam: Schelte, 1708</span>                    <a id="linkcurrent_10" href="javascript:toggle('current_10')">Mehr</a>
+                </p>
+                <div id="current_10" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150292511" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Basnage de Beauval, Jacques</span>: </span><span class="titleBib">Histoire du Vieux et du Nouveau Testament. enrichie de Figures .. etc.</span><span class="titleCat">[Recherchierter Titel:] Histoire du Vieux et du Nouveau Testament. enrichie de Figures .. etc.</span><span class="published">, Amsterdam: Pierre Mortier, 1706</span>                    <a id="linkcurrent_11" href="javascript:toggle('current_11')">Mehr</a>
+                </p>
+                <div id="current_11" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14680340X" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">La Rochefoucauld, François</span>: </span><span class="titleBib">Réflexions Ou Sentences Et Maximes Morales. De Monsieur De La Rochefoucault ..</span><span class="titleCat">[Recherchierter Titel:] Réflexions Ou Sentences Et Maximes Morales. De Monsieur De La Rochefoucault ..</span><span class="published">, Amsterdam: Mortier, 1705</span>                    <a id="linkcurrent_12" href="javascript:toggle('current_12')">Mehr</a>
+                </p>
+                <div id="current_12" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151033234" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Le triomphe de la deesse monas ou l'histoire du portrait de madame la princesse de Conti fille du roi</span><span class="titleCat">[Recherchierter Titel:] Le triomphe de la deesse monas ou l'histoire du portrait de madame la princesse de Conti fille du roi</span><span class="published">, Amsterdam: duVal, 1698</span>                    <a id="linkcurrent_13" href="javascript:toggle('current_13')">Mehr</a>
+                </p>
+                <div id="current_13" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236361856" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Bekker, Balthasar</span>: </span><span class="titleBib">Le Monde Enchanté Ou Examen des communs sentimens touchant les Esprits, leur nature, leur pouvoir, leur administration, & leurs opérations .. Divisé en quatre Parties ; Traduit de l'Hollandois</span><span class="titleCat">[Recherchierter Titel:] Le Monde Enchanté Ou Examen des communs sentimens touchant les Esprits, leur nature, leur pouvoir, leur administration, & leurs opérations .. Divisé en quatre Parties ; Traduit de l'Hollandois</span><span class="published">, Amsterdam: Rotterdam, 1694</span>                    <a id="linkcurrent_14" href="javascript:toggle('current_14')">Mehr</a>
+                </p>
+                <div id="current_14" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147204798" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Sperber, Julius</span>: </span><span class="titleBib">Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt</span><span class="titleCat">[Recherchierter Titel:] Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt</span><span class="published">, Frankfurt, Main/Amsterdam: Betkius, 1675</span>                    <a id="linkcurrent_15" href="javascript:toggle('current_15')">Mehr</a>
+                </p>
+                <div id="current_15" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:072956R%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                        <span class="heading_info">Digitalisat: </span><a href="http://resolver.sub.uni-goettingen.de/purl?PPN757232523" target="_blank">http://resolver.sub.uni-goettingen.de/purl?PPN757232523</a>                </div>
+            </div>
+            <h2 id="Basel">Basel (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">La Biblia. Que es, Los sacros libros del Vieio y Nuevo Testamento. : Trasladada en español.</span><span class="titleCat">[Recherchierter Titel:] La Biblia. Que es, Los sacros libros del Vieio y Nuevo Testamento. : Trasladada en español.</span><span class="published">, [Basel]: Aubrius & Schleich, 1622</span>                    <a id="linkcurrent_16" href="javascript:toggle('current_16')">Mehr</a>
+                </p>
+                <div id="current_16" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151756309" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                </div>
+            </div>
+            <h2 id="Basileae">Basileae (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Münster, Sebastian</span>: </span><span class="titleBib">Cosmographiae Vniversalis Lib. VI. In Qvibvs Ivxta Certioris Fidei Scriptores .. describuntur, Omnium habitabilis Orbis partium situs propriæq́[ue] dotes. Regionum Topographicæ picturæ .. Cunctarum Gentium mores, leges, religio, res gestæ, & mutationes usq[ue] ad annum Christi M. D. L. LXXII.</span><span class="titleCat">[Recherchierter Titel:] Cosmographiae Vniversalis Lib. VI. In Qvibvs Ivxta Certioris Fidei Scriptores .. describuntur, Omnium habitabilis Orbis partium situs propriæq́[ue] dotes. Regionum Topographicæ picturæ .. Cunctarum Gentium mores, leges, religio, res gestæ, & mutationes usq[ue] ad annum Christi M. D. L. LXXII.</span><span class="published">, Basileae: Henricpetri, 1572</span>                    <a id="linkcurrent_17" href="javascript:toggle('current_17')">Mehr</a>
+                </p>
+                <div id="current_17" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223457167" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Braunschweig">Braunschweig (2)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Finen, Eberhard</span>/<span class="authorName">Zilliger, Johann Georg</span>/<span class="authorName">Ludwig Rudolf Braunschweig-Lüneburg, Herzog</span>: </span><span class="titleBib">Heilsahme Seelen-Artzeney. Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzogen zu Braunschweig und Lüneburg</span><span class="titleCat">[Recherchierter Titel:] Heilsahme Seelen-Artzeney. Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzogen zu Braunschweig und Lüneburg</span><span class="published">, Braunschweig: Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr., 1711</span>                    <a id="linkcurrent_18" href="javascript:toggle('current_18')">Mehr</a>
+                </p>
+                <div id="current_18" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12838306" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                                                            </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Finen, Eberhard</span>: </span><span class="titleBib">Eberhard Finens Erbauliche Reden über die Paßions-Geschicht/ und andere Sprüche Heiliger Schrifft Wie auch Einige Stücke des Catechismi. Zur Vorbereitung In denen Auf Hochstl. gnädigste Verordnung theils bey den ehemahligen Krancken-Bette/ theils bey den Gebrauch der warmen Bäder zu Wißbaden und Aachen/ auch nachgehends zu Braunschweig und Saltzdahlen angestellten Hauß-Betstunden/ gehalten .. ; nebst den Andern Theil ..</span><span class="titleCat">[Recherchierter Titel:] Eberhard Finens Erbauliche Reden über die Paßions-Geschicht/ und andere Sprüche Heiliger Schrifft Wie auch Einige Stücke des Catechismi. Zur Vorbereitung In denen Auf Hochstl. gnädigste Verordnung theils bey den ehemahligen Krancken-Bette/ theils bey den Gebrauch der warmen Bäder zu Wißbaden und Aachen/ auch nachgehends zu Braunschweig und Saltzdahlen angestellten Hauß-Betstunden/ gehalten .. ; nebst den Andern Theil ..</span><span class="published">, Braunschweig: Zilliger, 1710</span>                    <a id="linkcurrent_19" href="javascript:toggle('current_19')">Mehr</a>
+                </p>
+                <div id="current_19" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12838292" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <h2 id="Breslau">Breslau (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schweinitz, David</span>: </span><span class="titleBib">Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David. Gerichtet Auf unterschiedener Personen/ und Stände Anliegen</span><span class="titleCat">[Recherchierter Titel:] Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David. Gerichtet Auf unterschiedener Personen/ und Stände Anliegen</span><span class="published">, Breslau: Fellgiebel, 1662</span>                    <a id="linkcurrent_20" href="javascript:toggle('current_20')">Mehr</a>
+                </p>
+                <div id="current_20" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2739:156875D%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                    </div>
+            </div>
+            <h2 id="Bresslau">Breßlau (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schweinitz, David</span>: </span><span class="titleBib">Penta-decas fidium cordialium .. Das Ist: Geistlicher Hertzens-Harffen von fünffmahl-zehen Seiten .. Theil</span><span class="titleCat">[Recherchierter Titel:] Penta-decas fidium cordialium .. Das Ist: Geistlicher Hertzens-Harffen von fünffmahl-zehen Seiten .. Theil</span><span class="published">, Breßlau: Fellgiebel, 1694</span>                    <a id="linkcurrent_21" href="javascript:toggle('current_21')">Mehr</a>
+                </p>
+                <div id="current_21" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=15086812X" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Brusselle">Brusselle (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Aulnoy, Marie Catherine Le Jumel de Barneville</span>: </span><span class="titleBib">Histoire D'Hypolite, Comte de Duglas</span><span class="titleCat">[Recherchierter Titel:] Histoire D'Hypolite, Comte de Duglas</span><span class="published">, Brusselle: De Backer, 1708</span>                    <a id="linkcurrent_22" href="javascript:toggle('current_22')">Mehr</a>
+                </p>
+                <div id="current_22" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237690055" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Brusselles">Brusselles (2)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Riflé de Garouville, Savinien</span>: </span><span class="titleBib">L'Amant Oisif. Contenant Cinquante Nouvelles Espagnoles. Divisé En Trois Parties</span><span class="titleCat">[Recherchierter Titel:] L'Amant Oisif. Contenant Cinquante Nouvelles Espagnoles. Divisé En Trois Parties</span><span class="published">, Brusselles: Backer, 1711</span>                    <a id="linkcurrent_23" href="javascript:toggle('current_23')">Mehr</a>
+                </p>
+                <div id="current_23" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150346719" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Abelly, Louis</span>: </span><span class="titleBib">Considération sur l'éternité</span><span class="titleCat">[Recherchierter Titel:] Considération sur l'éternité</span><span class="published">, Brusselles: de Backer, 1710</span>                    <a id="linkcurrent_24" href="javascript:toggle('current_24')">Mehr</a>
+                </p>
+                <div id="current_24" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=146978870" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Bruxelles">Bruxelles (2)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Le Nain de Tillemont, Sébastien</span>: </span><span class="titleBib">Qui comprend depuis Auguste jusqu'à Galba. Histoire des empereurs et des autres princes, qui ont régné durant les six premiers siècles de l'Église .. T. 1, Pt. 1</span><span class="titleCat">[Recherchierter Titel:] Qui comprend depuis Auguste jusqu'à Galba. Histoire des empereurs et des autres princes, qui ont régné durant les six premiers siècles de l'Église .. T. 1, Pt. 1</span><span class="published">, Bruxelles: Fricx, 1707</span>                    <a id="linkcurrent_25" href="javascript:toggle('current_25')">Mehr</a>
+                </p>
+                <div id="current_25" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=25375111X" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Goussault, Jacques</span>: </span><span class="titleBib">L'Usage Du Monde Ou Le Parfait Modele D'Un Honneste Homme</span><span class="titleCat">[Recherchierter Titel:] L'Usage Du Monde Ou Le Parfait Modele D'Un Honneste Homme</span><span class="published">, Paris/Bruxelles: Brunet & Rigaut/Leonard, 1707</span>                    <a id="linkcurrent_26" href="javascript:toggle('current_26')">Mehr</a>
+                </p>
+                <div id="current_26" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151605971" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Cologne">Cologne (6)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Marana, Giovanni Paolo</span>: </span><span class="titleBib">L'Espion Dans Les Cours Des Princes Chrétiens, Ou Lettres Et Memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe.̤ T. 2</span><span class="titleCat">[Recherchierter Titel:] L'Espion Dans Les Cours Des Princes Chrétiens, Ou Lettres Et Memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe.̤ T. 2</span><span class="published">, Cologne: Kinkius, 1711</span>                    <a id="linkcurrent_27" href="javascript:toggle('current_27')">Mehr</a>
+                </p>
+                <div id="current_27" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=360588395" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Marana, Giovanni Paolo</span>: </span><span class="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 6</span><span class="titleCat">[Recherchierter Titel:] L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 6</span><span class="published">, Cologne: Kenkus, 1711</span>                    <a id="linkcurrent_28" href="javascript:toggle('current_28')">Mehr</a>
+                </p>
+                <div id="current_28" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236485989" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Marana, Giovanni Paolo</span>: </span><span class="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 1</span><span class="titleCat">[Recherchierter Titel:] L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 1</span><span class="published">, Cologne: Kenkus, 1711</span>                    <a id="linkcurrent_29" href="javascript:toggle('current_29')">Mehr</a>
+                </p>
+                <div id="current_29" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236483579" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Marana, Giovanni Paolo</span>: </span><span class="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 5</span><span class="titleCat">[Recherchierter Titel:] L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 5</span><span class="published">, Cologne: Kinkius, 1711</span>                    <a id="linkcurrent_30" href="javascript:toggle('current_30')">Mehr</a>
+                </p>
+                <div id="current_30" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712855" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Marana, Giovanni Paolo</span>: </span><span class="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 4</span><span class="titleCat">[Recherchierter Titel:] L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 4</span><span class="published">, Cologne: Kinkius, 1711</span>                    <a id="linkcurrent_31" href="javascript:toggle('current_31')">Mehr</a>
+                </p>
+                <div id="current_31" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712839" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Marana, Giovanni Paolo</span>: </span><span class="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 3</span><span class="titleCat">[Recherchierter Titel:] L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 3</span><span class="published">, Cologne: Kinkius, 1711</span>                    <a id="linkcurrent_32" href="javascript:toggle('current_32')">Mehr</a>
+                </p>
+                <div id="current_32" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712804" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="ColoniaeAgrippina">Coloniae Agrippina (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Gail, Andreas</span>/<span class="authorName">Gymnich, Walter</span>: </span><span class="titleBib">Practicarum Observationum, tam ad processum iudiciarium, praesertim Imperialis Camerae, quam causarum decisionis pertinentium, libri 2. De Pace publica, et proscriptis, sive bannitis imperij, libri 2. De Pignorationibus liber 1. De manuum Injectionibus, sive arrestis imperii tractatus. Huic noviss. ed. acc. app. 2</span><span class="titleCat">[Recherchierter Titel:] Practicarum Observationum, tam ad processum iudiciarium, praesertim Imperialis Camerae, quam causarum decisionis pertinentium, libri 2. De Pace publica, et proscriptis, sive bannitis imperij, libri 2. De Pignorationibus liber 1. De manuum Injectionibus, sive arrestis imperii tractatus. Huic noviss. ed. acc. app. 2</span><span class="published">, Coloniae Agrippina: Metternich, 1698</span>                    <a id="linkcurrent_33" href="javascript:toggle('current_33')">Mehr</a>
+                </p>
+                <div id="current_33" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=184827981" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="ColoniaeAgrippinae">Coloniae Agrippinae (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Follin, Hermann</span>/<span class="authorName">Follin, Johann</span>: </span><span class="titleBib">Specvlvm Natvrae Hvmanæ, Siue Mores Et Temperamenta Hominvm Vsqve Ad Intimos Animorum sensus cognoscendi. Omnibus maxime vtile, & lectu iucundum</span><span class="titleCat">[Recherchierter Titel:] Specvlvm Natvrae Hvmanæ, Siue Mores Et Temperamenta Hominvm Vsqve Ad Intimos Animorum sensus cognoscendi. Omnibus maxime vtile, & lectu iucundum</span><span class="published">, Coloniae Agrippinae: Kalcovius, 1649</span>                    <a id="linkcurrent_34" href="javascript:toggle('current_34')">Mehr</a>
+                </p>
+                <div id="current_34" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147802350" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Coelln">Cölln (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Kaiser, Johann</span>: </span><span class="titleBib">Alethophili Sendschreiben an Herrn M. R. O. Von unterschiedlichen Etliche Jahre her vorgegebenen Neuen Propheten und Prophezeyungen. Worinnen Absonderlich auch von der Welt-beruffenen Männer Theophrasti Paracelsi, Isaac Bickerstafs, Emanuel Philippi Paris, Georgii Reichardi und Nicolai Drabicii Vaticiniis wegen der jetzigen Schwedischen und anderer Conjuncturen/ ausführlicher Bericht geschiehet</span><span class="titleCat">[Recherchierter Titel:] Alethophili Sendschreiben an Herrn M. R. O. Von unterschiedlichen Etliche Jahre her vorgegebenen Neuen Propheten und Prophezeyungen. Worinnen Absonderlich auch von der Welt-beruffenen Männer Theophrasti Paracelsi, Isaac Bickerstafs, Emanuel Philippi Paris, Georgii Reichardi und Nicolai Drabicii Vaticiniis wegen der jetzigen Schwedischen und anderer Conjuncturen/ ausführlicher Bericht geschiehet</span><span class="published">, Cölln 1712</span>                    <a id="linkcurrent_35" href="javascript:toggle('current_35')">Mehr</a>
+                </p>
+                <div id="current_35" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10221069-004" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <h2 id="Coeln">Cöln (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Warhafftige Abbildung Aller itzo im Krieg begriffenen Hohen Potentaten und dero Generals. Durch Beibringung verschiedener aus Betrachtung dero Actionen gezogenen Remarques .. Mit einem Entwurff von der .. Kunst, die Gemüther der Menschen zu erkennen, worin gezeiget und untersuchet wird: I. ob eine solche Kunst zu finden, II. wie sie zu erlernen, III. wozu sie nütze und IV. ob sie untrüglich sey?</span><span class="titleCat">[Recherchierter Titel:] Warhafftige Abbildung Aller itzo im Krieg begriffenen Hohen Potentaten und dero Generals. Durch Beibringung verschiedener aus Betrachtung dero Actionen gezogenen Remarques .. Mit einem Entwurff von der .. Kunst, die Gemüther der Menschen zu erkennen, worin gezeiget und untersuchet wird: I. ob eine solche Kunst zu finden, II. wie sie zu erlernen, III. wozu sie nütze und IV. ob sie untrüglich sey?</span><span class="published">, Cöln: Marteau, 1707</span>                    <a id="linkcurrent_36" href="javascript:toggle('current_36')">Mehr</a>
+                </p>
+                <div id="current_36" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14373211-005" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <h2 id="Erlangen">Erlangen (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Sendschreiben an Mylord [et]c. [et]c.Betreffende die Nothwendigkeit Gerechtsame/ der völligen Restitution der Spanischen Monarchie. Aus dem Englischen übersetzet. Barbaris pro Legibus semper Dominorum Imperia fuere</span><span class="titleCat">[Recherchierter Titel:] Sendschreiben an Mylord [et]c. [et]c.Betreffende die Nothwendigkeit Gerechtsame/ der völligen Restitution der Spanischen Monarchie. Aus dem Englischen übersetzet. Barbaris pro Legibus semper Dominorum Imperia fuere</span><span class="published">, Erlangen: Lorber, 1710</span>                    <a id="linkcurrent_37" href="javascript:toggle('current_37')">Mehr</a>
+                </p>
+                <div id="current_37" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14631520-004" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <h2 id="Firenze">Firenze (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Vocabolario degli Accademici della Crusca. In questa 3. impressione Nuovamente corr. e copiosamente accresciuto</span><span class="titleCat">[Recherchierter Titel:] Vocabolario degli Accademici della Crusca. In questa 3. impressione Nuovamente corr. e copiosamente accresciuto</span><span class="published">, Firenze: Stamp. d. Accademia della Crusca, 1691</span>                    <a id="linkcurrent_38" href="javascript:toggle('current_38')">Mehr</a>
+                </p>
+                <div id="current_38" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=486368920" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                </div>
+            </div>
+            <h2 id="Franckfurt">Franckfurt (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Sidney, Philip</span>/<span class="authorName">Mögling, Daniel</span>/<span class="authorName">Opitz, Martin</span>/<span class="authorName">Merian, Matthaeus</span>/<span class="authorName">Sophia Leonora Hessen, Landgräfin</span>: </span><span class="titleBib">Arcadia der Gräffin von Pembrock</span><span class="titleCat">[Recherchierter Titel:] Arcadia der Gräffin von Pembrock</span><span class="published">, Franckfurt: Humm, 1643</span>                    <a id="linkcurrent_39" href="javascript:toggle('current_39')">Mehr</a>
+                </p>
+                <div id="current_39" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151490759" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                                                                                    </div>
+            </div>
+            <h2 id="FranckfurtamMayn">Franckfurt am Mayn (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Chappuzeau, Samuel</span>: </span><span class="titleBib">Jetztlebendes Europa, Oder Neue Historische und Politische Erzehlung aller seiner Stände, wie solche gegen dem Ende deß Jahrs 1666. ihr Wesen gehabt. In unterschiedlichen Tafeln repræsentirt, Darinnen . von den Universitäten und berühmten Bibliothecen .. und von allen berühmten Leuten in jeder Profession; Benebens einer Zusammensamlung Der denckwürdigsten Sachen die sich nach dem allgemeinen Friedenschluß in Europa zugetragen ..</span><span class="titleCat">[Recherchierter Titel:] Jetztlebendes Europa, Oder Neue Historische und Politische Erzehlung aller seiner Stände, wie solche gegen dem Ende deß Jahrs 1666. ihr Wesen gehabt. In unterschiedlichen Tafeln repræsentirt, Darinnen . von den Universitäten und berühmten Bibliothecen .. und von allen berühmten Leuten in jeder Profession; Benebens einer Zusammensamlung Der denckwürdigsten Sachen die sich nach dem allgemeinen Friedenschluß in Europa zugetragen ..</span><span class="published">, Franckfurt am Mayn: Schiele, 1670</span>                    <a id="linkcurrent_40" href="javascript:toggle('current_40')">Mehr</a>
+                </p>
+                <div id="current_40" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151871949" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Franequera">Franequera (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Sánchez de las Brozas, Francisco</span>/<span class="authorName">Schoppe, Caspar</span>/<span class="authorName">Perizonius, Jacobus</span>: </span><span class="titleBib">Francisci Sanctii Minerva, Sive De Causis Latinæ linguæ Commentarius</span><span class="titleCat">[Recherchierter Titel:] Francisci Sanctii Minerva, Sive De Causis Latinæ linguæ Commentarius</span><span class="published">, Franequera: Strickius, 1687</span>                    <a id="linkcurrent_41" href="javascript:toggle('current_41')">Mehr</a>
+                </p>
+                <div id="current_41" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=251813266" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                                            </div>
+            </div>
+            <h2 id="Frankfurt">Frankfurt (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Zenner, Gottfried</span>: </span><span class="titleBib">Novellen Aus Der gelehrten und curiösen Welt 1692</span><span class="titleCat">[Recherchierter Titel:] Novellen Aus Der gelehrten und curiösen Welt 1692</span><span class="published">, Frankfurt/Gotha/Leipzig: Boetius/Groschuff, 1692</span>                    <a id="linkcurrent_42" href="javascript:toggle('current_42')">Mehr</a>
+                </p>
+                <div id="current_42" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%277:694881V%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                        <span class="heading_info">Digitalisat: </span><a href="http://resolver.sub.uni-goettingen.de/purl?PPN824414195" target="_blank">http://resolver.sub.uni-goettingen.de/purl?PPN824414195</a>                </div>
+            </div>
+            <h2 id="Frankfurt,Main">Frankfurt, Main (3)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schweinitz, David</span>: </span><span class="titleBib">Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet</span><span class="titleCat">[Recherchierter Titel:] Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet</span><span class="published">, Frankfurt, Main/Leipzig/Jena: Rohrlach/Ehrich, 1701</span>                    <a id="linkcurrent_43" href="javascript:toggle('current_43')">Mehr</a>
+                </p>
+                <div id="current_43" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12836362" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Cumberland, Richard</span>/<span class="authorName">Bridgeman, Orlandus</span>/<span class="authorName">Parker, Sam.</span>: </span><span class="titleBib">De Legibus Naturae Disquisitio Philosophica. In qua Earum Forma, Summa Capita, Ordo, Promulgatio, & Obligatio e rerum Natura investigantur ; Quin Etiam Elementa Philosophiae Hobbianae, Cum Moralis tum Civilis, considerantur & refutantur</span><span class="titleCat">[Recherchierter Titel:] De Legibus Naturae Disquisitio Philosophica. In qua Earum Forma, Summa Capita, Ordo, Promulgatio, & Obligatio e rerum Natura investigantur ; Quin Etiam Elementa Philosophiae Hobbianae, Cum Moralis tum Civilis, considerantur & refutantur</span><span class="published">, Lübeck/Frankfurt, Main: Otto/Wiedemeyerus, 1683</span>                    <a id="linkcurrent_44" href="javascript:toggle('current_44')">Mehr</a>
+                </p>
+                <div id="current_44" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:008798Z%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                                                                <span class="heading_info">Digitalisat: </span><a href="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-466938" target="_blank">urn:nbn:de:gbv:3:1-466938</a>                </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Sperber, Julius</span>: </span><span class="titleBib">Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt</span><span class="titleCat">[Recherchierter Titel:] Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt</span><span class="published">, Frankfurt, Main/Amsterdam: Betkius, 1675</span>                    <a id="linkcurrent_45" href="javascript:toggle('current_45')">Mehr</a>
+                </p>
+                <div id="current_45" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:072956R%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                        <span class="heading_info">Digitalisat: </span><a href="http://resolver.sub.uni-goettingen.de/purl?PPN757232523" target="_blank">http://resolver.sub.uni-goettingen.de/purl?PPN757232523</a>                </div>
+            </div>
+            <h2 id="Frankfurt,Oder">Frankfurt, Oder (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schweinitz, David</span>: </span><span class="titleBib">Suscitabulum Poenitentiae Catecheticum, Das ist: Catechetischer Buß-Wecker/ Oder Eine richtige Anweisung zu den wesentlichen Stücken der wahren Buß/ wie selbige nach den zweyen ersten Hauptstücken der Christlichen Lehre nützlich zu üben/ Außführlich und nachdrücklich vorgebildet wird. Allen rechtschaffenen Christen zur nöthigen und seeligen Erweisung ungeheuchelter Busse angestellet Von David von Schweinitz/ auff Seyffersdorff</span><span class="titleCat">[Recherchierter Titel:] Suscitabulum Poenitentiae Catecheticum, Das ist: Catechetischer Buß-Wecker/ Oder Eine richtige Anweisung zu den wesentlichen Stücken der wahren Buß/ wie selbige nach den zweyen ersten Hauptstücken der Christlichen Lehre nützlich zu üben/ Außführlich und nachdrücklich vorgebildet wird. Allen rechtschaffenen Christen zur nöthigen und seeligen Erweisung ungeheuchelter Busse angestellet Von David von Schweinitz/ auff Seyffersdorff</span><span class="published">, Frankfurt, Oder: Schrey/Meyer, 1696</span>                    <a id="linkcurrent_46" href="javascript:toggle('current_46')">Mehr</a>
+                </p>
+                <div id="current_46" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:614050Y%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                    </div>
+            </div>
+            <h2 id="Giessae">Giessae (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Glareanus, Henricus Loriti</span>/<span class="authorName">Schardius, Simon</span>: </span><span class="titleBib">Henrici Glareani In Cornelii Taciti de situ .. Germaniae libellum commentariolus</span><span class="titleCat">[Recherchierter Titel:] Henrici Glareani In Cornelii Taciti de situ .. Germaniae libellum commentariolus</span><span class="published">, Giessae 1673</span>                    <a id="linkcurrent_47" href="javascript:toggle('current_47')">Mehr</a>
+                </p>
+                <div id="current_47" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=369886046" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Gotha">Gotha (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Zenner, Gottfried</span>: </span><span class="titleBib">Novellen Aus Der gelehrten und curiösen Welt 1692</span><span class="titleCat">[Recherchierter Titel:] Novellen Aus Der gelehrten und curiösen Welt 1692</span><span class="published">, Frankfurt/Gotha/Leipzig: Boetius/Groschuff, 1692</span>                    <a id="linkcurrent_48" href="javascript:toggle('current_48')">Mehr</a>
+                </p>
+                <div id="current_48" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%277:694881V%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                        <span class="heading_info">Digitalisat: </span><a href="http://resolver.sub.uni-goettingen.de/purl?PPN824414195" target="_blank">http://resolver.sub.uni-goettingen.de/purl?PPN824414195</a>                </div>
+            </div>
+            <h2 id="Hamburg">Hamburg (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Toppe, Philipp Julius</span>/<span class="authorName">Liebernickel, Gottfried</span>/<span class="authorName">Liebernickel, Gottfried</span>: </span><span class="titleBib">Rechte Anwendung der jetzigen kurtzen Lebens-Zeit/ und Christliche Vorbereitung zu der künfftigen Seeligen Ewigkeit. Nach Anleitung derer auserlesensten Sprüche Heil. Schrifft/ allen Christen zur Erlernung der allernöthigsten/ allerfürtrefflichsten und Seeligen Sterbe-Kunst mitgetheilet</span><span class="titleCat">[Recherchierter Titel:] Rechte Anwendung der jetzigen kurtzen Lebens-Zeit/ und Christliche Vorbereitung zu der künfftigen Seeligen Ewigkeit. Nach Anleitung derer auserlesensten Sprüche Heil. Schrifft/ allen Christen zur Erlernung der allernöthigsten/ allerfürtrefflichsten und Seeligen Sterbe-Kunst mitgetheilet</span><span class="published">, Hamburg: bey Gottfried Liebernickel, 1708</span>                    <a id="linkcurrent_49" href="javascript:toggle('current_49')">Mehr</a>
+                </p>
+                <div id="current_49" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+13349112" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                                                            </div>
+            </div>
+            <h2 id="Jena">Jena (3)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schweinitz, David</span>: </span><span class="titleBib">Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet</span><span class="titleCat">[Recherchierter Titel:] Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet</span><span class="published">, Frankfurt, Main/Leipzig/Jena: Rohrlach/Ehrich, 1701</span>                    <a id="linkcurrent_50" href="javascript:toggle('current_50')">Mehr</a>
+                </p>
+                <div id="current_50" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12836362" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Caffa, Karl</span>: </span><span class="titleBib">L' Unico Mezzo, Che ci fà trovar la felicità in questo Mondo .. con brevità e Chiarezza si dimostra nel presente libretto, in todesco, francese, & italiano</span><span class="titleCat">[Recherchierter Titel:] L' Unico Mezzo, Che ci fà trovar la felicità in questo Mondo .. con brevità e Chiarezza si dimostra nel presente libretto, in todesco, francese, & italiano</span><span class="published">, Jena: Gollner, 1685</span>                    <a id="linkcurrent_51" href="javascript:toggle('current_51')">Mehr</a>
+                </p>
+                <div id="current_51" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:604602L%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                        <span class="heading_info">Digitalisat: </span><a href="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-608827" target="_blank">urn:nbn:de:gbv:3:1-608827</a>                </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Huarte de San Juan, Juan</span>/<span class="authorName">Caesar, Joachim</span>/<span class="authorName">Albrecht Sachsen-Jülich-Cleve-Berg, Herzog</span>/<span class="authorName">Ludwig Anhalt-Köthen, Fürst</span>: </span><span class="titleBib">Scrutinium Ingeniorum pro iis, qui excellere cupiunt</span><span class="titleCat">[Recherchierter Titel:] Scrutinium Ingeniorum pro iis, qui excellere cupiunt</span><span class="published">, Jena: Neuenhahn/Krebs, 1663</span>                    <a id="linkcurrent_52" href="javascript:toggle('current_52')">Mehr</a>
+                </p>
+                <div id="current_52" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:065794A%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                                                                                    <span class="heading_info">Digitalisat: </span><a href="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10401193-7" target="_blank">urn:nbn:de:bvb:12-bsb10401193-7</a>                </div>
+            </div>
+            <h2 id="Koeln">Köln (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Instructions Secretes Des Jesuites. Suivant l'original</span><span class="titleCat">[Recherchierter Titel:] Instructions Secretes Des Jesuites. Suivant l'original</span><span class="published">, Köln: Sincere, 1704</span>                    <a id="linkcurrent_53" href="javascript:toggle('current_53')">Mehr</a>
+                </p>
+                <div id="current_53" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11525770" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <h2 id="LaHaye">La Haye (7)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">La Roche-Guilhem, Anne</span>: </span><span class="titleBib">Le grand Scanderberg. Nouvelle</span><span class="titleCat">[Recherchierter Titel:] Le grand Scanderberg. Nouvelle</span><span class="published">, La Haye: Swart, 1711</span>                    <a id="linkcurrent_54" href="javascript:toggle('current_54')">Mehr</a>
+                </p>
+                <div id="current_54" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=215076435" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Crébillon, Prosper Jolyot</span>: </span><span class="titleBib">Les Oeuvres</span><span class="titleCat">[Recherchierter Titel:] Les Oeuvres</span><span class="published">, La Haye: Johnson, 1711</span>                    <a id="linkcurrent_55" href="javascript:toggle('current_55')">Mehr</a>
+                </p>
+                <div id="current_55" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151704813" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Gracián y Morales, Baltasar</span>: </span><span class="titleBib">L'Homme De Trompé Ou Le Criticon T. 3</span><span class="titleCat">[Recherchierter Titel:] L'Homme De Trompé Ou Le Criticon T. 3</span><span class="published">, La Haye: Ellinckhuysen, 1708</span>                    <a id="linkcurrent_56" href="javascript:toggle('current_56')">Mehr</a>
+                </p>
+                <div id="current_56" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=330455036" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Gracián y Morales, Baltasar</span>: </span><span class="titleBib">L'Homme De Trompé Ou Le Criticon T. 2</span><span class="titleCat">[Recherchierter Titel:] L'Homme De Trompé Ou Le Criticon T. 2</span><span class="published">, La Haye: Ellinckhuysen, 1708</span>                    <a id="linkcurrent_57" href="javascript:toggle('current_57')">Mehr</a>
+                </p>
+                <div id="current_57" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=33045501X" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Gracián y Morales, Baltasar</span>: </span><span class="titleBib">L'Homme De Trompé Ou Le Criticon T. 1</span><span class="titleCat">[Recherchierter Titel:] L'Homme De Trompé Ou Le Criticon T. 1</span><span class="published">, La Haye: Ellinckhuysen, 1708</span>                    <a id="linkcurrent_58" href="javascript:toggle('current_58')">Mehr</a>
+                </p>
+                <div id="current_58" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=235847062" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Vassetz abbé</span>: </span><span class="titleBib">Traité du mérite</span><span class="titleCat">[Recherchierter Titel:] Traité du mérite</span><span class="published">, La Haye: Voys, 1704</span>                    <a id="linkcurrent_59" href="javascript:toggle('current_59')">Mehr</a>
+                </p>
+                <div id="current_59" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134957520" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Jurieu, Pierre</span>: </span><span class="titleBib">Traité de la dévotion.</span><span class="titleCat">[Recherchierter Titel:] Traité de la dévotion.</span><span class="published">, La Haye: Troyel, 1697</span>                    <a id="linkcurrent_60" href="javascript:toggle('current_60')">Mehr</a>
+                </p>
+                <div id="current_60" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=149903561" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="LaHaye">LaHaye (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Grimarest, Jean-Léonor le Gallois</span>: </span><span class="titleBib">Les Campagnes de Charles XII. Roi de Suède T. 4</span><span class="titleCat">[Recherchierter Titel:] Les Campagnes de Charles XII. Roi de Suède T. 4</span><span class="published">, LaHaye: De Voys, 1711</span>                    <a id="linkcurrent_61" href="javascript:toggle('current_61')">Mehr</a>
+                </p>
+                <div id="current_61" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=243633238" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Leide">Leide (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Tomasi, Tomaso</span>/<span class="authorName">Freschot, Casimir</span>: </span><span class="titleBib">La Vie De Cesar Borgia, appellé du depuis Le Duc De Valentinois. Enrichi de belles figures en Taille douce</span><span class="titleCat">[Recherchierter Titel:] La Vie De Cesar Borgia, appellé du depuis Le Duc De Valentinois. Enrichi de belles figures en Taille douce</span><span class="published">, Leide: Haak, 1712</span>                    <a id="linkcurrent_62" href="javascript:toggle('current_62')">Mehr</a>
+                </p>
+                <div id="current_62" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=23610506X" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Leipzig">Leipzig (6)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Zschackwitz, Johann Ehrenfried</span>: </span><span class="titleBib">Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät .. Regierung vorgefallenen Reichs-Historie. Alles mit behörigen Documenten bekräfftiget, auch mit andern curieusen u. nützlichen Reichs-Materien erläutert, Als I. Von der Wahl-Crönungs-Ceremonien eines Römischen Käysers; II. Gründliche Nachricht von der Güldenen Bulle ..; III. Von denen Reichs-Vicariis ..</span><span class="titleCat">[Recherchierter Titel:] Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät .. Regierung vorgefallenen Reichs-Historie. Alles mit behörigen Documenten bekräfftiget, auch mit andern curieusen u. nützlichen Reichs-Materien erläutert, Als I. Von der Wahl-Crönungs-Ceremonien eines Römischen Käysers; II. Gründliche Nachricht von der Güldenen Bulle ..; III. Von denen Reichs-Vicariis ..</span><span class="published">, Leipzig/Leipzig: Gleditsch/Weidmann, 1712</span>                    <a id="linkcurrent_63" href="javascript:toggle('current_63')">Mehr</a>
+                </p>
+                <div id="current_63" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11405236-001" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Zschackwitz, Johann Ehrenfried</span>: </span><span class="titleBib">Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät .. Regierung vorgefallenen Reichs-Historie. Alles mit behörigen Documenten bekräfftiget, auch mit andern curieusen u. nützlichen Reichs-Materien erläutert, Als I. Von der Wahl-Crönungs-Ceremonien eines Römischen Käysers; II. Gründliche Nachricht von der Güldenen Bulle ..; III. Von denen Reichs-Vicariis ..</span><span class="titleCat">[Recherchierter Titel:] Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät .. Regierung vorgefallenen Reichs-Historie. Alles mit behörigen Documenten bekräfftiget, auch mit andern curieusen u. nützlichen Reichs-Materien erläutert, Als I. Von der Wahl-Crönungs-Ceremonien eines Römischen Käysers; II. Gründliche Nachricht von der Güldenen Bulle ..; III. Von denen Reichs-Vicariis ..</span><span class="published">, Leipzig/Leipzig: Gleditsch/Weidmann, 1712</span>                    <a id="linkcurrent_64" href="javascript:toggle('current_64')">Mehr</a>
+                </p>
+                <div id="current_64" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11405236-001" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schwedler, Johann Christoph</span>/<span class="authorName">Günther, Johann</span>: </span><span class="titleBib">Send-Schreiben an einen S. Theologum, Jn welchem die 50. Motiven/ dadurch eine Erlauchte Person zum Abtritte von der Evangelisch-Lutherischen zu der Römisch-Catholischen Kirche soll seyn verleitet worden, Kürtzlich nach und aus Gottes Worte geprüfet. Sich anfangs zu eigner Erbauung aufgesetzt; Hernach aber .. zu anderer Stärchung überlassen von Einem Liebhaber der Warheit ; Zum Beschlusse sind hinzu gefüget 50. wichtige Motiven/ welche einen jeden rechtschaffenen Christen abhalten können/ daß er sich zu der Römischen Kirche nicht begebe</span><span class="titleCat">[Recherchierter Titel:] Send-Schreiben an einen S. Theologum, Jn welchem die 50. Motiven/ dadurch eine Erlauchte Person zum Abtritte von der Evangelisch-Lutherischen zu der Römisch-Catholischen Kirche soll seyn verleitet worden, Kürtzlich nach und aus Gottes Worte geprüfet. Sich anfangs zu eigner Erbauung aufgesetzt; Hernach aber .. zu anderer Stärchung überlassen von Einem Liebhaber der Warheit ; Zum Beschlusse sind hinzu gefüget 50. wichtige Motiven/ welche einen jeden rechtschaffenen Christen abhalten können/ daß er sich zu der Römischen Kirche nicht begebe</span><span class="published">, Leipzig: Braun, 1711</span>                    <a id="linkcurrent_65" href="javascript:toggle('current_65')">Mehr</a>
+                </p>
+                <div id="current_65" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10453261" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                                        </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Trier, Johann Wolfgang</span>: </span><span class="titleBib">Joh. Wolffgang Triers kurtze Fragen von den menschlichen Neigungen. darinnen von deren Ursprung und Würckungen auf eine besondere Art gehandelt und zugleich angewiesen wird, wie man dieselben so wohl an sich als an andern erkennen könne, auch sich sonsten im gemeinen Leben dißfalls zu verhalten habe</span><span class="titleCat">[Recherchierter Titel:] Joh. Wolffgang Triers kurtze Fragen von den menschlichen Neigungen. darinnen von deren Ursprung und Würckungen auf eine besondere Art gehandelt und zugleich angewiesen wird, wie man dieselben so wohl an sich als an andern erkennen könne, auch sich sonsten im gemeinen Leben dißfalls zu verhalten habe</span><span class="published">, Leipzig: Gleditsch, 1707</span>                    <a id="linkcurrent_66" href="javascript:toggle('current_66')">Mehr</a>
+                </p>
+                <div id="current_66" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12388920-004" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schweinitz, David</span>: </span><span class="titleBib">Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet</span><span class="titleCat">[Recherchierter Titel:] Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet</span><span class="published">, Frankfurt, Main/Leipzig/Jena: Rohrlach/Ehrich, 1701</span>                    <a id="linkcurrent_67" href="javascript:toggle('current_67')">Mehr</a>
+                </p>
+                <div id="current_67" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12836362" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Zenner, Gottfried</span>: </span><span class="titleBib">Novellen Aus Der gelehrten und curiösen Welt 1692</span><span class="titleCat">[Recherchierter Titel:] Novellen Aus Der gelehrten und curiösen Welt 1692</span><span class="published">, Frankfurt/Gotha/Leipzig: Boetius/Groschuff, 1692</span>                    <a id="linkcurrent_68" href="javascript:toggle('current_68')">Mehr</a>
+                </p>
+                <div id="current_68" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%277:694881V%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                        <span class="heading_info">Digitalisat: </span><a href="http://resolver.sub.uni-goettingen.de/purl?PPN824414195" target="_blank">http://resolver.sub.uni-goettingen.de/purl?PPN824414195</a>                </div>
+            </div>
+            <h2 id="Liege">Liege (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Morvan de Bellegarde, Jean-Baptiste</span>: </span><span class="titleBib">Conduite pour se taire et pour parles principalement en matière de religion. suivant la copie imprimée à Paris</span><span class="titleCat">[Recherchierter Titel:] Conduite pour se taire et pour parles principalement en matière de religion. suivant la copie imprimée à Paris</span><span class="published">, Liege: Broncart, 1696</span>                    <a id="linkcurrent_69" href="javascript:toggle('current_69')">Mehr</a>
+                </p>
+                <div id="current_69" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223556645" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Liegnitz">Liegnitz (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schweinitz, David</span>/<span class="authorName">Christian Hertzog in Schlesien, zur Liegnitz, Brieg und Wohlau</span>/<span class="authorName">Ludwig Hertzog in Schlesien, zur Liegnitz, Brieg und Goldberg</span>/<span class="authorName">Georg Hertzog in Schlesien zur Liegnitz und Brieg</span>: </span><span class="titleBib">Genealogia. Derer von Schweinitz/ Vor der Zeit Vom Swentze Genennet</span><span class="titleCat">[Recherchierter Titel:] Genealogia. Derer von Schweinitz/ Vor der Zeit Vom Swentze Genennet</span><span class="published">, Liegnitz: Schneider, 1661</span>                    <a id="linkcurrent_70" href="javascript:toggle('current_70')">Mehr</a>
+                </p>
+                <div id="current_70" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2723:232961A%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                                                                                    <span class="heading_info">Digitalisat: </span><a href="http://resolver.sub.uni-goettingen.de/purl?PPN778438074" target="_blank">http://resolver.sub.uni-goettingen.de/purl?PPN778438074</a>                </div>
+            </div>
+            <h2 id="Londres">Londres (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Denis, Jean Baptiste</span>: </span><span class="titleBib">Memoires Anecdotes De La Cour Et Du Clergé De France. Avec L'Histoire du Différend du Cardinal de Noailles ; avec les Evêques de Luc̜on & de la Rochelle, & les Jesuites</span><span class="titleCat">[Recherchierter Titel:] Memoires Anecdotes De La Cour Et Du Clergé De France. Avec L'Histoire du Différend du Cardinal de Noailles ; avec les Evêques de Luc̜on & de la Rochelle, & les Jesuites</span><span class="published">, Londres 1712</span>                    <a id="linkcurrent_71" href="javascript:toggle('current_71')">Mehr</a>
+                </p>
+                <div id="current_71" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14765842X" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="LutetiaeParisiorum">Lutetiae Parisiorum (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Nicephorus Callistus Xanthopulus</span>/<span class="authorName">Du Duc, Fronton</span>/<span class="authorName">Lange, Johann</span>/<span class="authorName">Richelieu, Armandus Joannes</span>: </span><span class="titleBib">Nikēphoru Kallistu Tu Xanthopulu Ekklēsiastikēs Historias Biblia 18 Tomvs Prior</span><span class="titleCat">[Recherchierter Titel:] Nikēphoru Kallistu Tu Xanthopulu Ekklēsiastikēs Historias Biblia 18 Tomvs Prior</span><span class="published">, Lutetiae Parisiorum: Cramoisy, 1630</span>                    <a id="linkcurrent_72" href="javascript:toggle('current_72')">Mehr</a>
+                </p>
+                <div id="current_72" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=190912367" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                                                                </div>
+            </div>
+            <h2 id="Luebeck">Lübeck (2)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Morhof, Daniel Georg</span>/<span class="authorName">Alefeld, Joachimus</span>: </span><span class="titleBib">Danielis Georgi[i] Morhofi[i] Polyhistor. Sive De Notitia Auctorum Et Rerum Commentarii [1]</span><span class="titleCat">[Recherchierter Titel:] Danielis Georgi[i] Morhofi[i] Polyhistor. Sive De Notitia Auctorum Et Rerum Commentarii [1]</span><span class="published">, Lübeck: Böckmannus, 1695</span>                    <a id="linkcurrent_73" href="javascript:toggle('current_73')">Mehr</a>
+                </p>
+                <div id="current_73" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=719560519" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Cumberland, Richard</span>/<span class="authorName">Bridgeman, Orlandus</span>/<span class="authorName">Parker, Sam.</span>: </span><span class="titleBib">De Legibus Naturae Disquisitio Philosophica. In qua Earum Forma, Summa Capita, Ordo, Promulgatio, & Obligatio e rerum Natura investigantur ; Quin Etiam Elementa Philosophiae Hobbianae, Cum Moralis tum Civilis, considerantur & refutantur</span><span class="titleCat">[Recherchierter Titel:] De Legibus Naturae Disquisitio Philosophica. In qua Earum Forma, Summa Capita, Ordo, Promulgatio, & Obligatio e rerum Natura investigantur ; Quin Etiam Elementa Philosophiae Hobbianae, Cum Moralis tum Civilis, considerantur & refutantur</span><span class="published">, Lübeck/Frankfurt, Main: Otto/Wiedemeyerus, 1683</span>                    <a id="linkcurrent_74" href="javascript:toggle('current_74')">Mehr</a>
+                </p>
+                <div id="current_74" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:008798Z%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                                                                <span class="heading_info">Digitalisat: </span><a href="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-466938" target="_blank">urn:nbn:de:gbv:3:1-466938</a>                </div>
+            </div>
+            <h2 id="NewlyprintedatParis">Newly printed at Paris (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Lassels, Richard</span>/<span class="authorName">Simon Wilson</span>: </span><span class="titleBib">The voyage of Italy, or, A compleat journey through Italy. in two parts : with the characters of the people, and the description of the chief towns, churches, monasteries, tombs, libraries, pallaces, villas, gardens, pictures, statues, and antiquities : as also of the interest, government, riches, force, &c. of all the princes : with instructions concerning travel</span><span class="titleCat">[Recherchierter Titel:] The voyage of Italy, or, A compleat journey through Italy. in two parts : with the characters of the people, and the description of the chief towns, churches, monasteries, tombs, libraries, pallaces, villas, gardens, pictures, statues, and antiquities : as also of the interest, government, riches, force, &c. of all the princes : with instructions concerning travel</span><span class="published">, Newly printed at Paris: [s.n.], and are to be sold in London, by John Starkey, 1670</span>                    <a id="linkcurrent_75" href="javascript:toggle('current_75')">Mehr</a>
+                </p>
+                <div id="current_75" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=553173561" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Nuernberg">Nürnberg (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schwenckfeld, Caspar</span>: </span><span class="titleBib">Teutsch Passional vnsers [unsers] Herren Jesu Christi. Mit schönen tröstlichen Gebetlein</span><span class="titleCat">[Recherchierter Titel:] Teutsch Passional vnsers [unsers] Herren Jesu Christi. Mit schönen tröstlichen Gebetlein</span><span class="published">, Nürnberg: [s.n.], 1547</span>                    <a id="linkcurrent_76" href="javascript:toggle('current_76')">Mehr</a>
+                </p>
+                <div id="current_76" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=389070084" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Padova">Padova (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Iuvenalis, Decimus Iunius</span>/<span class="authorName">Silvestri, Camillo</span>: </span><span class="titleBib">[Satirae]</span><span class="titleCat">[Recherchierter Titel:] [Satirae]</span><span class="published">, Padova: ^[Drucker:] Stamperia del Seminario, 1711</span>                    <a id="linkcurrent_77" href="javascript:toggle('current_77')">Mehr</a>
+                </p>
+                <div id="current_77" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150881991" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Paris">Paris (5)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Owen, John</span>/<span class="authorName">LeBrun, Antoine Louis</span>: </span><span class="titleBib">Les Pensées ingénieuses ou les Épigrammes d'Owen</span><span class="titleCat">[Recherchierter Titel:] Les Pensées ingénieuses ou les Épigrammes d'Owen</span><span class="published">, Paris: Ribou, 1710</span>                    <a id="linkcurrent_78" href="javascript:toggle('current_78')">Mehr</a>
+                </p>
+                <div id="current_78" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151586829" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Goussault, Jacques</span>: </span><span class="titleBib">L'Usage Du Monde Ou Le Parfait Modele D'Un Honneste Homme</span><span class="titleCat">[Recherchierter Titel:] L'Usage Du Monde Ou Le Parfait Modele D'Un Honneste Homme</span><span class="published">, Paris/Bruxelles: Brunet & Rigaut/Leonard, 1707</span>                    <a id="linkcurrent_79" href="javascript:toggle('current_79')">Mehr</a>
+                </p>
+                <div id="current_79" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151605971" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Osorio, Antonio</span>: </span><span class="titleBib">Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D'Albe</span><span class="titleCat">[Recherchierter Titel:] Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D'Albe</span><span class="published">, Paris: Guignard, 1699</span>                    <a id="linkcurrent_80" href="javascript:toggle('current_80')">Mehr</a>
+                </p>
+                <div id="current_80" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=135733421" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Du Pin, Louis Ellies</span>: </span><span class="titleBib">Histoire Des Controverses Et Des Matieres Ecclesiastiques ..</span><span class="titleCat">[Recherchierter Titel:] Histoire Des Controverses Et Des Matieres Ecclesiastiques ..</span><span class="published">, Paris: Pralard, 1697</span>                    <a id="linkcurrent_81" href="javascript:toggle('current_81')">Mehr</a>
+                </p>
+                <div id="current_81" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=620058943" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Thomas von Kempen</span>/<span class="authorName">Corneille, Pierre</span>: </span><span class="titleBib">L'imitation de Jesus Christ</span><span class="titleCat">[Recherchierter Titel:] L'imitation de Jesus Christ</span><span class="published">, Paris: Ballard, 1665</span>                    <a id="linkcurrent_82" href="javascript:toggle('current_82')">Mehr</a>
+                </p>
+                <div id="current_82" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=246014911" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Parisiis">Parisiis (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Baudrand, Michel-Antoine</span>: </span><span class="titleBib">Geographia ordine litterarum disposita</span><span class="titleCat">[Recherchierter Titel:] Geographia ordine litterarum disposita</span><span class="published">, Parisiis: Michalet, 1681</span>                    <a id="linkcurrent_83" href="javascript:toggle('current_83')">Mehr</a>
+                </p>
+                <div id="current_83" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150019556" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Rastatt">Rastatt (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Das grosse Dessein des Louis von Baaden. Welches Er An seinem Sterbe-Tage den 4. Januarii dieses 1707. Jahres glücklich hinaus geführt. in einer Patentation gezeiget von einem am Rheinstrom wohnenden Teutschen</span><span class="titleCat">[Recherchierter Titel:] Das grosse Dessein des Louis von Baaden. Welches Er An seinem Sterbe-Tage den 4. Januarii dieses 1707. Jahres glücklich hinaus geführt. in einer Patentation gezeiget von einem am Rheinstrom wohnenden Teutschen</span><span class="published">, Rastatt 1707</span>                    <a id="linkcurrent_84" href="javascript:toggle('current_84')">Mehr</a>
+                </p>
+                <div id="current_84" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10239014-003" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <h2 id="Rotterdam">Rotterdam (4)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Basnage de Beauval, Jacques</span>: </span><span class="titleBib">La Communion Sainte, Ou Traité sur la nécessité & les moyens de communier dignement</span><span class="titleCat">[Recherchierter Titel:] La Communion Sainte, Ou Traité sur la nécessité & les moyens de communier dignement</span><span class="published">, Rotterdam: Acher, 1711</span>                    <a id="linkcurrent_85" href="javascript:toggle('current_85')">Mehr</a>
+                </p>
+                <div id="current_85" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=829182470" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Basnage de Beauval, Jacques</span>: </span><span class="titleBib">L'Histoire [et la religion] des Juifs, réclamée et retablie par son véritable auteur Basnage, contre l'édition anonyme et tronquée, qui s'en est faite à Paris chez Roulland, 1710. Avec plusieurs additions, pour servir de 6. tome à cette Histoire</span><span class="titleCat">[Recherchierter Titel:] L'Histoire [et la religion] des Juifs, réclamée et retablie par son véritable auteur Basnage, contre l'édition anonyme et tronquée, qui s'en est faite à Paris chez Roulland, 1710. Avec plusieurs additions, pour servir de 6. tome à cette Histoire</span><span class="published">, Rotterdam: Fritsch & Böhm, 1711</span>                    <a id="linkcurrent_86" href="javascript:toggle('current_86')">Mehr</a>
+                </p>
+                <div id="current_86" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150600720" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Locke, John</span>: </span><span class="titleBib">Oeuvres Diverses De Monsieur Jean Locke.</span><span class="titleCat">[Recherchierter Titel:] Oeuvres Diverses De Monsieur Jean Locke.</span><span class="published">, Rotterdam: Fritsch & Böhm, 1710</span>                    <a id="linkcurrent_87" href="javascript:toggle('current_87')">Mehr</a>
+                </p>
+                <div id="current_87" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134055551" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Abbadie, Jacques</span>: </span><span class="titleBib">L' Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale</span><span class="titleCat">[Recherchierter Titel:] L' Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale</span><span class="published">, Rotterdam: Slaart, 1692</span>                    <a id="linkcurrent_88" href="javascript:toggle('current_88')">Mehr</a>
+                </p>
+                <div id="current_88" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150211236" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="s'Gravenhage">s'Gravenhage (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Résolution de leurs Hautes Puissances. Memoire & Documents Servant a montrer, que c'est a tort que les Estats Generaux des Provinces Unies sont chargez, par les Resolutions ou Votes de la Chambre des Communes du Parlement de la Grande-Bretagne, & par l'Addresse de la même Cahmbre [!], presentée sur ce sujet à sa Majesté Britannique d'avoir manqué à divers égards, pendant le cours de la presente guerre, a fournir ce qu'ils doivent pour leur Quote part, ou Portion, suivant leurs engagements</span><span class="titleCat">[Recherchierter Titel:] Résolution de leurs Hautes Puissances. Memoire & Documents Servant a montrer, que c'est a tort que les Estats Generaux des Provinces Unies sont chargez, par les Resolutions ou Votes de la Chambre des Communes du Parlement de la Grande-Bretagne, & par l'Addresse de la même Cahmbre [!], presentée sur ce sujet à sa Majesté Britannique d'avoir manqué à divers égards, pendant le cours de la presente guerre, a fournir ce qu'ils doivent pour leur Quote part, ou Portion, suivant leurs engagements</span><span class="published">, [s'Gravenhage]: Scheltus, 1712</span>                    <a id="linkcurrent_89" href="javascript:toggle('current_89')">Mehr</a>
+                </p>
+                <div id="current_89" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150965478" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                </div>
+            </div>
+            <h2 id="UlmaeSuevorum">Ulmae Suevorum (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Knipschildt, Philipp</span>: </span><span class="titleBib">Tractatus politico-historico-juridicus de Juribus et Privilegiis Civitatum Imperialium, tam generalibus, quam specialibus et de earundem Magistratuum Officio. In sex libros divisus</span><span class="titleCat">[Recherchierter Titel:] Tractatus politico-historico-juridicus de Juribus et Privilegiis Civitatum Imperialium, tam generalibus, quam specialibus et de earundem Magistratuum Officio. In sex libros divisus</span><span class="published">, Ulmae Suevorum: Kühne, 1657</span>                    <a id="linkcurrent_90" href="javascript:toggle('current_90')">Mehr</a>
+                </p>
+                <div id="current_90" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=141633042" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Utrecht">Utrecht (2)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Freschot, Casimir</span>/<span class="authorName">Vitriarius, Jean Jacques</span>: </span><span class="titleBib">État Ancien Et Moderne Des Duchés De Florence, Modene, Mantoue, & Parme. Avec l'Histoire Anecdote des Intrigues des Cours de leurs derniers Princes ; On y a ajouté une semblable Relation de la Ville & Légation de Bologne</span><span class="titleCat">[Recherchierter Titel:] État Ancien Et Moderne Des Duchés De Florence, Modene, Mantoue, & Parme. Avec l'Histoire Anecdote des Intrigues des Cours de leurs derniers Princes ; On y a ajouté une semblable Relation de la Ville & Légation de Bologne</span><span class="published">, Utrecht/Utrecht: Broedelet/Poolsum, 1711</span>                    <a id="linkcurrent_91" href="javascript:toggle('current_91')">Mehr</a>
+                </p>
+                <div id="current_91" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150342829" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Freschot, Casimir</span>/<span class="authorName">Vitriarius, Jean Jacques</span>: </span><span class="titleBib">État Ancien Et Moderne Des Duchés De Florence, Modene, Mantoue, & Parme. Avec l'Histoire Anecdote des Intrigues des Cours de leurs derniers Princes ; On y a ajouté une semblable Relation de la Ville & Légation de Bologne</span><span class="titleCat">[Recherchierter Titel:] État Ancien Et Moderne Des Duchés De Florence, Modene, Mantoue, & Parme. Avec l'Histoire Anecdote des Intrigues des Cours de leurs derniers Princes ; On y a ajouté une semblable Relation de la Ville & Légation de Bologne</span><span class="published">, Utrecht/Utrecht: Broedelet/Poolsum, 1711</span>                    <a id="linkcurrent_92" href="javascript:toggle('current_92')">Mehr</a>
+                </p>
+                <div id="current_92" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150342829" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Venedig">Venedig (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Sansovino, Francesco</span>/<span class="authorName">Martinioni, Giustiniano</span>/<span class="authorName">Curti, Stefano</span>: </span><span class="titleBib">Venetia città nobilissima et singolare</span><span class="titleCat">[Recherchierter Titel:] Venetia città nobilissima et singolare</span><span class="published">, Venedig: Curti, 1663</span>                    <a id="linkcurrent_93" href="javascript:toggle('current_93')">Mehr</a>
+                </p>
+                <div id="current_93" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=140235191" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                                            </div>
+            </div>
+            <h2 id="Venetia">Venetia (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Tassoni, Alessandro</span>/<span class="authorName">Barberini, Antonio</span>: </span><span class="titleBib">La Secchia Rapita. Poema Eroicomico, e'l Canto Dell'Oceano</span><span class="titleCat">[Recherchierter Titel:] La Secchia Rapita. Poema Eroicomico, e'l Canto Dell'Oceano</span><span class="published">, Venetia: Sarzina, 1625</span>                    <a id="linkcurrent_94" href="javascript:toggle('current_94')">Mehr</a>
+                </p>
+                <div id="current_94" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=513708979" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Wittenberg">Wittenberg (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Dresser, Matthaeus</span>: </span><span class="titleBib">Matthaei Dresseri  ORATIO  DE ORDINE, VERITATE ET VSV  in historiarum lectione  spectando. Habita in Academia Lipsi-ca, XVII Januarij,anno 82.</span><span class="titleCat">[Recherchierter Titel:] Matthaei Dresseri  ORATIO  DE ORDINE, VERITATE ET VSV  in historiarum lectione  spectando. Habita in Academia Lipsi-ca, XVII Januarij,anno 82.</span><span class="published">, Wittenberg: Gronenberg, Simon, 1582</span>                    <a id="linkcurrent_95" href="javascript:toggle('current_95')">Mehr</a>
+                </p>
+                <div id="current_95" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=567283895" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                        <span class="heading_info">Digitalisat: </span><a href="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10208212-5" target="_blank">urn:nbn:de:bvb:12-bsb10208212-5</a>                </div>
+            </div>
+            <h2 id="s.l.">s. l. (13)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Niederlag, Bey Hochlöbl. Reichs-Convent, in deß auch Heil. Reichs Stadt Regenspurg von Anno 1710. 1711. und 1712. ventiliret worden</span><span class="titleCat">[Recherchierter Titel:] Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Niederlag, Bey Hochlöbl. Reichs-Convent, in deß auch Heil. Reichs Stadt Regenspurg von Anno 1710. 1711. und 1712. ventiliret worden</span><span class="published">, [S.l.] 1712</span>                    <a id="linkcurrent_96" href="javascript:toggle('current_96')">Mehr</a>
+                </p>
+                <div id="current_96" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14376083" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Curioser Staats-Discurs Nebst Einiger politischen Erleuterung über von Ihrer Königl. Majestät Von Groß-Britannien, [et]c. [et]c. An das Hochlöbliche Röm. Reichs-Convent zu Regenspurg Abgeschickten Ermahnungs-Brieff, Von nachdrücklichen Inhalt wegen Fortsetzung des Krieges wider die Cron Franckreich als allgemeinen Reichs-Feindt</span><span class="titleCat">[Recherchierter Titel:] Curioser Staats-Discurs Nebst Einiger politischen Erleuterung über von Ihrer Königl. Majestät Von Groß-Britannien, [et]c. [et]c. An das Hochlöbliche Röm. Reichs-Convent zu Regenspurg Abgeschickten Ermahnungs-Brieff, Von nachdrücklichen Inhalt wegen Fortsetzung des Krieges wider die Cron Franckreich als allgemeinen Reichs-Feindt</span><span class="published">, [S.l.] 1710</span>                    <a id="linkcurrent_97" href="javascript:toggle('current_97')">Mehr</a>
+                </p>
+                <div id="current_97" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12955116" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Histoire politique et amoureuse du Cardinal Louis ^[Louis ^Manuel] Portocarrero Archevêque de Toledo</span><span class="titleCat">[Recherchierter Titel:] Histoire politique et amoureuse du Cardinal Louis ^[Louis ^Manuel] Portocarrero Archevêque de Toledo</span><span class="published">, o.O.: LeSincere, 1710</span>                    <a id="linkcurrent_98" href="javascript:toggle('current_98')">Mehr</a>
+                </p>
+                <div id="current_98" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150789556" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Palthen, Johann Philipp</span>: </span><span class="titleBib">Unvorgreiffliche Gedancken eines schwedischen Unterthanen über das jüngst heraus gegebene Dänische Manifest, so hiebey mit angedruckt</span><span class="titleCat">[Recherchierter Titel:] Unvorgreiffliche Gedancken eines schwedischen Unterthanen über das jüngst heraus gegebene Dänische Manifest, so hiebey mit angedruckt</span><span class="published">, [S.l.] 1710</span>                    <a id="linkcurrent_99" href="javascript:toggle('current_99')">Mehr</a>
+                </p>
+                <div id="current_99" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10222405-009" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Petronius Arbiter</span>/<span class="authorName">Nodot, François</span>: </span><span class="titleBib">Petrone Latin Et François. Traduction Entiere, Suivant Le Manuscrit Trouvé A Belgrade en 1688. ; Avec plusieurs Remarques & Additions, qui manquent dans la premiere Edition</span><span class="titleCat">[Recherchierter Titel:] Petrone Latin Et François. Traduction Entiere, Suivant Le Manuscrit Trouvé A Belgrade en 1688. ; Avec plusieurs Remarques & Additions, qui manquent dans la premiere Edition</span><span class="published">, [S.l.] 1709</span>                    <a id="linkcurrent_100" href="javascript:toggle('current_100')">Mehr</a>
+                </p>
+                <div id="current_100" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11261765-001" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                                        </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich</span><span class="titleCat">[Recherchierter Titel:] Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich</span><span class="published">, [S.l.] 1705</span>                    <a id="linkcurrent_101" href="javascript:toggle('current_101')">Mehr</a>
+                </p>
+                <div id="current_101" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10885366-ddd" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich</span><span class="titleCat">[Recherchierter Titel:] Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich</span><span class="published">, [S.l.] 1705</span>                    <a id="linkcurrent_102" href="javascript:toggle('current_102')">Mehr</a>
+                </p>
+                <div id="current_102" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10885366-ddd" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Suite Des Mazarinischen Reverence</span><span class="titleCat">[Recherchierter Titel:] Suite Des Mazarinischen Reverence</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_103" href="javascript:toggle('current_103')">Mehr</a>
+                </p>
+                <div id="current_103" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14580349" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</span><span class="titleCat">[Recherchierter Titel:] Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_104" href="javascript:toggle('current_104')">Mehr</a>
+                </p>
+                <div id="current_104" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10093591" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Mazarini Abschieds-Compliment</span><span class="titleCat">[Recherchierter Titel:] Mazarini Abschieds-Compliment</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_105" href="javascript:toggle('current_105')">Mehr</a>
+                </p>
+                <div id="current_105" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11086432" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Lisola, François Paul</span>: </span><span class="titleBib">Bouclier D'Estat Et De Justice, Contre le dessein de la France ..</span><span class="titleCat">[Recherchierter Titel:] Bouclier D'Estat Et De Justice, Contre le dessein de la France ..</span><span class="published">, [S.l.] 1701</span>                    <a id="linkcurrent_106" href="javascript:toggle('current_106')">Mehr</a>
+                </p>
+                <div id="current_106" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14611392-003" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                    </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Examen ratiociniorum Danicorum super naufragio militum Suecicorum ad Bornholmiam, eorundemque detentione</span><span class="titleCat">[Recherchierter Titel:] Examen ratiociniorum Danicorum super naufragio militum Suecicorum ad Bornholmiam, eorundemque detentione</span><span class="published">, [S.l.] 1680</span>                    <a id="linkcurrent_107" href="javascript:toggle('current_107')">Mehr</a>
+                </p>
+                <div id="current_107" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151714266" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Pastorius, Joachim</span>/<span class="authorName">Guldensternius, Sigismundus</span>: </span><span class="titleBib">Character Virtutum variis, aliorum etiam, qua veterum, qua recentium Autorum coloribus adumbratus</span><span class="titleCat">[Recherchierter Titel:] Character Virtutum variis, aliorum etiam, qua veterum, qua recentium Autorum coloribus adumbratus</span><span class="published">, [S.l.] 1664</span>                    <a id="linkcurrent_108" href="javascript:toggle('current_108')">Mehr</a>
+                </p>
+                <div id="current_108" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2723:269676U%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                                        </div>
+            </div>
+        </div>
+
+        <footer class="container-fluid">
+            <p><a href="../index.php" style="color:white">Start</a>&nbsp;&nbsp;<a href="http://www.hab.de/de/home/impressum.html" style="color:white" target="_blank">Impressum</a></p>
+            <p style="color:white; text-align:right;">Stand: 09.09.2021</p>
+        </footer>
+
+    </body>
+
+</html>

@@ -15,7 +15,7 @@
                 gezogen.</p></div>
             
             <div xml:id="E1620-01-31"><head><date when="1620-01-31">d<ex>e</ex>n 31 Januar<ex>ÿ</ex>
-                <c>☽</c>,</date></head><p> hinwied<ex>er</ex> nach <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs> gezogen</p></div>
+                <c>☽</c>,</date></head><p> hinwied<ex>er</ex> nach <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs> gezogen 1 [Meile].</p></div>
             
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00100.jpg" n="48v"/>
             
@@ -30,14 +30,14 @@
             
             <div xml:id="E1620-03-29"><head><date when="1620-03-29">d<ex>e</ex>n 29 Martÿ <c>☿</c></date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>.</p></div>
             
-            <div xml:id="E1620-04-01"><head><date when="1620-04-01">d<ex>e</ex>n 1 Aprilis <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs></p></div>
+            <div xml:id="E1620-04-01"><head><date when="1620-04-01">d<ex>e</ex>n 1 Aprilis <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> 5 [Meilen]</p></div>
             
             <div xml:id="E1620-04-15"><head><date when="1620-04-15">d<ex>e</ex>n 15 Aprilis <c>♄</c></date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs></p></div>
             
             <div xml:id="E1620-04-24"><head><date when="1620-04-24">d<ex>e</ex>n 24 April<ex>is</ex>
-                <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+                <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
-            <div xml:id="E1620-07-08"><head><date when="1620-07-08">den 8 Julÿ <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> 5. m<ex>eill</ex>.</p></div>
+            <div xml:id="E1620-07-08"><head><date when="1620-07-08">den 8 Julÿ <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs> <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note> 5. m<ex>eill</ex>.</p></div>
             
             <div xml:id="E1620-07-09"><head><date when="1620-07-09">den 9 Jul<ex>ÿ</ex> <c>☉</c>.</date></head><p> biß <rs ref="register.xml#Salzhausen" type="place">Sultzhausen</rs>. 3. m<ex>eill</ex>.</p></div>
             
@@ -53,18 +53,18 @@
             
             <div xml:id="E1620-08-04"><head><date when="1620-08-04">den 4 Aug<ex>usti</ex>
                 <c>♀</c></date></head><p> biß <rs ref="register.xml#Luebberstedt" type="place">Libberstede</rs>, <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>:
-                    <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+                    <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
-            <div xml:id="E1620-08-07"><head><date when="1620-08-07">den 7 Augusti <c>☽</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs></p></div>
+            <div xml:id="E1620-08-07"><head><date when="1620-08-07">den 7 Augusti <c>☽</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> 5 [Meilen]</p></div>
             
             <div xml:id="E1620-10-12"><head><date when="1620-10-12">den 12 8bris, <c>♃</c></date></head><p> <foreign xml:lang="lat">obÿt <rs ref="register.xml#Ursula_v_SL" type="person">M<ex>ate</ex>r
-                suavissima</rs></foreign><note type="translation">Stirbt meine geliebte Mutter</note></p></div>
+                suavissima</rs>  p<ex>erge</ex></foreign><note type="translation">Meine herzliebste Mutter ist gestorben. Usw.</note></p></div>
             
             <div xml:id="E1620-12-21"><head><date when="1620-12-21">d<ex>e</ex>n 21 Xbris <c>♃</c></date></head><p> von d<ex>er</ex> theilung d<ex>er</ex>
                 <rs ref="register.xml#Ursula_v_SL" type="person">Mütterlich<ex>en</ex></rs> Erbschafft hinwied<ex>er</ex>
-                wegkgezogen <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+                wegkgezogen <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
-            <div xml:id="E1620-12-23"><head><date when="1620-12-23">d<ex>e</ex>n 2<subst><del>4</del><add>3</add></subst> Xbris <c>♄</c>,</date></head><p> nach <rs ref="register.xml#Grabow" type="place">Grabow</rs> gezogen i. m<ex>eill</ex></p></div>            
+            <div xml:id="E1620-12-23"><head><date when="1620-12-23">d<ex>e</ex>n 2<subst><del>4</del><add>3</add></subst> Xbris <c>♄</c>,</date></head><p> nach <rs ref="register.xml#Grabow" type="place">Grabow</rs> gezogen 1 m<ex>eill</ex></p></div>            
         </body>
     </text>
 </TEI>

@@ -1,0 +1,2759 @@
+@prefix br: <http://bibliotheksrekonstruktion.hab.de/> .
+@prefix libreto: <http://bibliotheksrekonstruktion.hab.de/ontology.php#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix gnd: <http://d-nb.info/gnd/> .
+@prefix foaf: <http://xmlns.com/foaf/spec/#term_> .
+@prefix gndo: <http://d-nb.info/standards/elementset/gnd#> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix ns0: <d> .
+@prefix ns1: <i> .
+@prefix gn: <http://www.geonames.org/ontology#> .
+@prefix geo: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+
+br:ludwig_rudolf
+  a libreto:Collection ;
+  dc:date "1701, 1707"^^xsd:gYear ;
+  dc:title "Lektürenotizen" ;
+  dc:description "Es handelt sich um Lesenotizen des Herzogs Ludwig Rudoph von Braunschweig-Wolfenbüttel in seinen Tage- und Notizbüchern."@de ;
+  libreto:collector gnd:124700470 .
+
+gnd:124700470
+  a libreto:Person ;
+  foaf:name "Ludwig Rudolph von Braunschweig-Wolfenbüttel", "Ludwig Rudolf Braunschweig-Lüneburg, Herzog" ;
+  dc:identifier "124700470"^^gndo:gndIdentifier .
+
+<br:ludwig_rudolf/catalogues/Herzog+August+Bibliothek+Wolfenb%C3%BCttel_Cod.+Guelf.+28+Blank.%2C+Cod.+Guelf.+286a+Blank.>
+  a libreto:Catalogue ;
+  dc:date "1701, 1707"^^xsd:gYear ;
+  libreto:shelfmark "Cod. Guelf. 28 Blank., Cod. Guelf. 286a Blank." ;
+  libreto:owner "Herzog August Bibliothek Wolfenbüttel" ;
+  dc:title "Tagebuch 1701 (Cod. Guelf. 28 Blank.), Tage- und Notizbuch 1707 (Cod. Guelf. 286a Blank.)" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf0>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Les Caractères De Theophraste, Traduits du Grec. Avec Les Caracteres Ou Les Moeurs De Ce Siecle, Par M. De La Bruyere de l'Academie Françoise. Avec La Clef En Marge, divisé en trois Volumes" ;
+  dc:date "1720"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Wetstein" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:creator gnd:118621793, gnd:118725785 ;
+  dc:contributor gnd:11900478X ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237048752> .
+
+<br:ludwig_rudolf/places/Amsterdam>
+  a libreto:Place ;
+  gn:name "Amsterdam" .
+
+gnd:118621793
+  a libreto:Person ;
+  foaf:name "Theophrastus" ;
+  dc:identifier "118621793"^^gndo:gndIdentifier .
+
+gnd:118725785
+  a libreto:Person ;
+  foaf:name "La Bruyère, Jean" ;
+  dc:identifier "118725785"^^gndo:gndIdentifier .
+
+gnd:11900478X
+  a libreto:Person ;
+  foaf:name "Coste, Pierre" ;
+  dc:identifier "11900478X"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237048752>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "237048752" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf1>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:title "Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Niederlag, Bey Hochlöbl. Reichs-Convent, in deß auch Heil. Reichs Stadt Regenspurg von Anno 1710. 1711. und 1712. ventiliret worden" ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "2" ;
+  dbo:genre "Streitschrift:jur."^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14376083> .
+
+<br:ludwig_rudolf/places/%5BS.l.%5D>
+  a libreto:Place ;
+  gn:name "[S.l.]" .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14376083>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "14376083" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf2>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Alix de France. nouvelle historique" ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Roger" ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:creator <br:ludwig_rudolf/persons/Montfort%2C+Louis> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=595406939> .
+
+<br:ludwig_rudolf/persons/Montfort%2C+Louis>
+  a libreto:Person ;
+  foaf:name "Montfort, Louis" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=595406939>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "595406939" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf3>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Les Mille & Un Jour Tome Troisiéme" ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Coup" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:contributor gnd:117702269 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250753391> .
+
+gnd:117702269
+  a libreto:Person ;
+  foaf:name "Pétis de la Croix, François" ;
+  dc:identifier "117702269"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250753391>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "250753391" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf4>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Les Mille & Un Jour Tome Second" ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Coup" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:contributor gnd:117702269 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250752980> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250752980>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "250752980" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf5>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "La Vie De Cesar Borgia, appellé du depuis Le Duc De Valentinois. Enrichi de belles figures en Taille douce" ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Haak" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Leide> ;
+  dc:creator gnd:121889556 ;
+  dc:contributor gnd:128597771 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=23610506X> .
+
+<br:ludwig_rudolf/places/Leide>
+  a libreto:Place ;
+  gn:name "Leide" .
+
+gnd:121889556
+  a libreto:Person ;
+  foaf:name "Tomasi, Tomaso" ;
+  dc:identifier "121889556"^^gndo:gndIdentifier .
+
+gnd:128597771
+  a libreto:Person ;
+  foaf:name "Freschot, Casimir" ;
+  dc:identifier "128597771"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=23610506X>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "23610506X" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf6>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Résolution de leurs Hautes Puissances. Memoire & Documents Servant a montrer, que c'est a tort que les Estats Generaux des Provinces Unies sont chargez, par les Resolutions ou Votes de la Chambre des Communes du Parlement de la Grande-Bretagne, & par l'Addresse de la même Cahmbre [!], presentée sur ce sujet à sa Majesté Britannique d'avoir manqué à divers égards, pendant le cours de la presente guerre, a fournir ce qu'ils doivent pour leur Quote part, ou Portion, suivant leurs engagements" ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Scheltus" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5Bs%27Gravenhage%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150965478> .
+
+<br:ludwig_rudolf/places/%5Bs%27Gravenhage%5D>
+  a libreto:Place ;
+  gn:name "[s'Gravenhage]" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150965478>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150965478" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf7>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Alethophili Sendschreiben an Herrn M. R. O. Von unterschiedlichen Etliche Jahre her vorgegebenen Neuen Propheten und Prophezeyungen. Worinnen Absonderlich auch von der Welt-beruffenen Männer Theophrasti Paracelsi, Isaac Bickerstafs, Emanuel Philippi Paris, Georgii Reichardi und Nicolai Drabicii Vaticiniis wegen der jetzigen Schwedischen und anderer Conjuncturen/ ausführlicher Bericht geschiehet" ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/C%C3%B6lln> ;
+  dc:creator gnd:1055513329 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10221069-004> .
+
+<br:ludwig_rudolf/places/C%C3%B6lln>
+  a libreto:Place ;
+  gn:name "Cölln" .
+
+gnd:1055513329
+  a libreto:Person ;
+  foaf:name "Kaiser, Johann" ;
+  dc:identifier "1055513329"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10221069-004>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10221069-004" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf8>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Tratté de l'amour de Dieu" ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Roger" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:creator gnd:1055323457 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150381794> .
+
+gnd:1055323457
+  a libreto:Person ;
+  foaf:name "Saurin, Élie" ;
+  dc:identifier "1055323457"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150381794>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150381794" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf9>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Memoires Anecdotes De La Cour Et Du Clergé De France. Avec L'Histoire du Différend du Cardinal de Noailles ; avec les Evêques de Luc̜on & de la Rochelle, & les Jesuites" ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Londres> ;
+  dc:creator gnd:1055469648 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14765842X> .
+
+<br:ludwig_rudolf/places/Londres>
+  a libreto:Place ;
+  gn:name "Londres" .
+
+gnd:1055469648
+  a libreto:Person ;
+  foaf:name "Denis, Jean Baptiste" ;
+  dc:identifier "1055469648"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14765842X>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "14765842X" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf10>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät .. Regierung vorgefallenen Reichs-Historie. Alles mit behörigen Documenten bekräfftiget, auch mit andern curieusen u. nützlichen Reichs-Materien erläutert, Als I. Von der Wahl-Crönungs-Ceremonien eines Römischen Käysers; II. Gründliche Nachricht von der Güldenen Bulle ..; III. Von denen Reichs-Vicariis .." ;
+  dc:date "1712"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Gleditsch", "Weidmann" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Leipzig> ;
+  dc:creator gnd:117014931 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11405236-001> .
+
+<br:ludwig_rudolf/places/Leipzig>
+  a libreto:Place ;
+  gn:name "Leipzig" .
+
+gnd:117014931
+  a libreto:Person ;
+  foaf:name "Zschackwitz, Johann Ehrenfried" ;
+  dc:identifier "117014931"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11405236-001>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "11405236-001" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf11>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "La Communion Sainte, Ou Traité sur la nécessité & les moyens de communier dignement" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Acher" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Rotterdam> ;
+  dc:creator gnd:120538253 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=829182470> .
+
+<br:ludwig_rudolf/places/Rotterdam>
+  a libreto:Place ;
+  gn:name "Rotterdam" .
+
+gnd:120538253
+  a libreto:Person ;
+  foaf:name "Basnage de Beauval, Jacques" ;
+  dc:identifier "120538253"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=829182470>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "829182470" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf12>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'Espion Dans Les Cours Des Princes Chrétiens, Ou Lettres Et Memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe.̤ T. 2" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Kinkius" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Cologne> ;
+  dc:creator gnd:119080370 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=360588395> .
+
+<br:ludwig_rudolf/places/Cologne>
+  a libreto:Place ;
+  gn:name "Cologne" .
+
+gnd:119080370
+  a libreto:Person ;
+  foaf:name "Marana, Giovanni Paolo" ;
+  dc:identifier "119080370"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=360588395>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "360588395" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf13>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Les Campagnes de Charles XII. Roi de Suède T. 4" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "De Voys" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/LaHaye> ;
+  dc:creator gnd:100144489 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=243633238> .
+
+<br:ludwig_rudolf/places/LaHaye>
+  a libreto:Place ;
+  gn:name "LaHaye" .
+
+gnd:100144489
+  a libreto:Person ;
+  foaf:name "Grimarest, Jean-Léonor le Gallois" ;
+  dc:identifier "100144489"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=243633238>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "243633238" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf14>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 6" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8\"" ;
+  dc:publisher "Kenkus" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Cologne> ;
+  dc:creator gnd:119080370 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236485989> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236485989>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "236485989" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf15>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 1" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8\"" ;
+  dc:publisher "Kenkus" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Cologne> ;
+  dc:creator gnd:119080370 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236483579> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236483579>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "236483579" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf16>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Send-Schreiben an einen S. Theologum, Jn welchem die 50. Motiven/ dadurch eine Erlauchte Person zum Abtritte von der Evangelisch-Lutherischen zu der Römisch-Catholischen Kirche soll seyn verleitet worden, Kürtzlich nach und aus Gottes Worte geprüfet. Sich anfangs zu eigner Erbauung aufgesetzt; Hernach aber .. zu anderer Stärchung überlassen von Einem Liebhaber der Warheit ; Zum Beschlusse sind hinzu gefüget 50. wichtige Motiven/ welche einen jeden rechtschaffenen Christen abhalten können/ daß er sich zu der Römischen Kirche nicht begebe" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Braun" ;
+  dbo:genre "Streitschrift:theol."^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Leipzig> ;
+  dc:creator gnd:117653713 ;
+  dc:contributor gnd:116912731 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10453261> .
+
+gnd:117653713
+  a libreto:Person ;
+  foaf:name "Schwedler, Johann Christoph" ;
+  dc:identifier "117653713"^^gndo:gndIdentifier .
+
+gnd:116912731
+  a libreto:Person ;
+  foaf:name "Günther, Johann" ;
+  dc:identifier "116912731"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10453261>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10453261" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf17>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Le grand Scanderberg. Nouvelle" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Swart" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/La+Haye> ;
+  dc:creator gnd:119462222 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=215076435> .
+
+<br:ludwig_rudolf/places/La+Haye>
+  a libreto:Place ;
+  gn:name "La Haye" .
+
+gnd:119462222
+  a libreto:Person ;
+  foaf:name "La Roche-Guilhem, Anne" ;
+  dc:identifier "119462222"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=215076435>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "215076435" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf18>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 5" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Kinkius" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Cologne> ;
+  dc:contributor gnd:119080370 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712855> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712855>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "186712855" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf19>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 4" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Kinkius" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Cologne> ;
+  dc:contributor gnd:119080370 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712839> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712839>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "186712839" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf20>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 3" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Kinkius" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Cologne> ;
+  dc:contributor gnd:119080370 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712804> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712804>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "186712804" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf21>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Les Oeuvres" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Johnson" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/La+Haye> ;
+  dc:creator gnd:118677284 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151704813> .
+
+gnd:118677284
+  a libreto:Person ;
+  foaf:name "Crébillon, Prosper Jolyot" ;
+  dc:identifier "118677284"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151704813>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151704813" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf22>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Le nouveau Gentilhomme bourgeois ou les fées à la mode" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Roger" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:creator gnd:118808788 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151681449> .
+
+gnd:118808788
+  a libreto:Person ;
+  foaf:name "Aulnoy, Marie Catherine Le Jumel de Barneville" ;
+  dc:identifier "118808788"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151681449>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151681449" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf23>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Heilsahme Seelen-Artzeney. Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzogen zu Braunschweig und Lüneburg" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr." ;
+  dbo:genre "Erbauungsliteratur"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace gnd:4008065-1 ;
+  dc:creator gnd:12131412X ;
+  dc:contributor gnd:138517894, gnd:124700470 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12838306> .
+
+gnd:4008065-1
+  a libreto:Place ;
+  gn:name "Braunschweig" ;
+  geo:lat 52.26594 ;
+  geo:long 10.52673 .
+
+gnd:12131412X
+  a libreto:Person ;
+  foaf:name "Finen, Eberhard" ;
+  dc:identifier "12131412X"^^gndo:gndIdentifier .
+
+gnd:138517894
+  a libreto:Person ;
+  foaf:name "Zilliger, Johann Georg" ;
+  dc:identifier "138517894"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12838306>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "12838306" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf24>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "[Satirae]" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "^[Drucker:] Stamperia del Seminario" ;
+  ns0:c_language "lat"^^ns1:so6392, "ita"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Padova> ;
+  dc:creator gnd:118556126 ;
+  dc:contributor gnd:1012625001 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150881991> .
+
+<br:ludwig_rudolf/places/Padova>
+  a libreto:Place ;
+  gn:name "Padova" .
+
+gnd:118556126
+  a libreto:Person ;
+  foaf:name "Iuvenalis, Decimus Iunius" ;
+  dc:identifier "118556126"^^gndo:gndIdentifier .
+
+gnd:1012625001
+  a libreto:Person ;
+  foaf:name "Silvestri, Camillo" ;
+  dc:identifier "1012625001"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150881991>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150881991" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf25>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'Histoire [et la religion] des Juifs, réclamée et retablie par son véritable auteur Basnage, contre l'édition anonyme et tronquée, qui s'en est faite à Paris chez Roulland, 1710. Avec plusieurs additions, pour servir de 6. tome à cette Histoire" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "458 S., 3 Bl. ; 8°" ;
+  dc:publisher "Fritsch & Böhm" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Rotterdam> ;
+  dc:creator gnd:120538253 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150600720> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150600720>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150600720" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf26>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'Amant Oisif. Contenant Cinquante Nouvelles Espagnoles. Divisé En Trois Parties" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Backer" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Brusselles> ;
+  dc:creator gnd:100140858 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150346719> .
+
+<br:ludwig_rudolf/places/Brusselles>
+  a libreto:Place ;
+  gn:name "Brusselles" .
+
+gnd:100140858
+  a libreto:Person ;
+  foaf:name "Riflé de Garouville, Savinien" ;
+  dc:identifier "100140858"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150346719>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150346719" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf27>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "État Ancien Et Moderne Des Duchés De Florence, Modene, Mantoue, & Parme. Avec l'Histoire Anecdote des Intrigues des Cours de leurs derniers Princes ; On y a ajouté une semblable Relation de la Ville & Légation de Bologne" ;
+  dc:date "1711"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Broedelet", "Poolsum" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Utrecht> ;
+  dc:creator gnd:128597771 ;
+  dc:contributor <br:ludwig_rudolf/persons/Vitriarius%2C+Jean+Jacques> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150342829> .
+
+<br:ludwig_rudolf/places/Utrecht>
+  a libreto:Place ;
+  gn:name "Utrecht" .
+
+<br:ludwig_rudolf/persons/Vitriarius%2C+Jean+Jacques>
+  a libreto:Person ;
+  foaf:name "Vitriarius, Jean Jacques" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150342829>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150342829" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf28>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Curioser Staats-Discurs Nebst Einiger politischen Erleuterung über von Ihrer Königl. Majestät Von Groß-Britannien, [et]c. [et]c. An das Hochlöbliche Röm. Reichs-Convent zu Regenspurg Abgeschickten Ermahnungs-Brieff, Von nachdrücklichen Inhalt wegen Fortsetzung des Krieges wider die Cron Franckreich als allgemeinen Reichs-Feindt" ;
+  dc:date "1710"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dbo:genre "Gelegenheitsschrift"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12955116> .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12955116>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "12955116" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf29>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Les Pensées ingénieuses ou les Épigrammes d'Owen" ;
+  dc:date "1710"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Ribou" ;
+  ns0:c_language "lat"^^ns1:so6392, "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Paris> ;
+  dc:creator gnd:118787446 ;
+  dc:contributor gnd:172224861 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151586829> .
+
+<br:ludwig_rudolf/places/Paris>
+  a libreto:Place ;
+  gn:name "Paris" .
+
+gnd:118787446
+  a libreto:Person ;
+  foaf:name "Owen, John" ;
+  dc:identifier "118787446"^^gndo:gndIdentifier .
+
+gnd:172224861
+  a libreto:Person ;
+  foaf:name "LeBrun, Antoine Louis" ;
+  dc:identifier "172224861"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151586829>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151586829" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf30>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Eberhard Finens Erbauliche Reden über die Paßions-Geschicht/ und andere Sprüche Heiliger Schrifft Wie auch Einige Stücke des Catechismi. Zur Vorbereitung In denen Auf Hochstl. gnädigste Verordnung theils bey den ehemahligen Krancken-Bette/ theils bey den Gebrauch der warmen Bäder zu Wißbaden und Aachen/ auch nachgehends zu Braunschweig und Saltzdahlen angestellten Hauß-Betstunden/ gehalten .. ; nebst den Andern Theil .." ;
+  dc:date "1710"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Zilliger" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Braunschweig> ;
+  dc:creator gnd:12131412X ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12838292> .
+
+<br:ludwig_rudolf/places/Braunschweig>
+  a libreto:Place ;
+  gn:name "Braunschweig" .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12838292>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "12838292" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf31>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Histoire politique et amoureuse du Cardinal Louis ^[Louis ^Manuel] Portocarrero Archevêque de Toledo" ;
+  dc:date "1710"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "LeSincere" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/o.O.> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150789556> .
+
+<br:ludwig_rudolf/places/o.O.>
+  a libreto:Place ;
+  gn:name "o.O." .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150789556>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150789556" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf32>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Unvorgreiffliche Gedancken eines schwedischen Unterthanen über das jüngst heraus gegebene Dänische Manifest, so hiebey mit angedruckt" ;
+  dc:date "1710"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  dc:creator gnd:116021675 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10222405-009> .
+
+gnd:116021675
+  a libreto:Person ;
+  foaf:name "Palthen, Johann Philipp" ;
+  dc:identifier "116021675"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10222405-009>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10222405-009" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf33>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Considération sur l'éternité" ;
+  dc:date "1710"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "de Backer" ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Brusselles> ;
+  dc:creator gnd:12232319X ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=146978870> .
+
+gnd:12232319X
+  a libreto:Person ;
+  foaf:name "Abelly, Louis" ;
+  dc:identifier "12232319X"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=146978870>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "146978870" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf34>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Sendschreiben an Mylord [et]c. [et]c.Betreffende die Nothwendigkeit Gerechtsame/ der völligen Restitution der Spanischen Monarchie. Aus dem Englischen übersetzet. Barbaris pro Legibus semper Dominorum Imperia fuere" ;
+  dc:date "1710"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dc:publisher "Lorber" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Erlangen> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14631520-004> .
+
+<br:ludwig_rudolf/places/Erlangen>
+  a libreto:Place ;
+  gn:name "Erlangen" .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14631520-004>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "14631520-004" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf35>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Oeuvres Diverses De Monsieur Jean Locke." ;
+  dc:date "1710"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Fritsch & Böhm" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Rotterdam> ;
+  dc:creator gnd:118573748 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134055551> .
+
+gnd:118573748
+  a libreto:Person ;
+  foaf:name "Locke, John" ;
+  dc:identifier "118573748"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134055551>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "134055551" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf36>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Petrone Latin Et François. Traduction Entiere, Suivant Le Manuscrit Trouvé A Belgrade en 1688. ; Avec plusieurs Remarques & Additions, qui manquent dans la premiere Edition" ;
+  dc:date "1709"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  ns0:c_language "fre"^^ns1:so6392, "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  dc:creator gnd:118593293 ;
+  dc:contributor gnd:118831917 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11261765-001> .
+
+gnd:118593293
+  a libreto:Person ;
+  foaf:name "Petronius Arbiter" ;
+  dc:identifier "118593293"^^gndo:gndIdentifier .
+
+gnd:118831917
+  a libreto:Person ;
+  foaf:name "Nodot, François" ;
+  dc:identifier "118831917"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11261765-001>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "11261765-001" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf37>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Sonnets chrétiens sur divers sujets" ;
+  dc:date "1709"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Desbordes" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:creator gnd:130060836 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151090645> .
+
+gnd:130060836
+  a libreto:Person ;
+  foaf:name "Drelincourt, Laurent" ;
+  dc:identifier "130060836"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151090645>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151090645" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf38>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Rechte Anwendung der jetzigen kurtzen Lebens-Zeit/ und Christliche Vorbereitung zu der künfftigen Seeligen Ewigkeit. Nach Anleitung derer auserlesensten Sprüche Heil. Schrifft/ allen Christen zur Erlernung der allernöthigsten/ allerfürtrefflichsten und Seeligen Sterbe-Kunst mitgetheilet" ;
+  dc:date "1708"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "bey Gottfried Liebernickel" ;
+  dc:subject "Ars moriendi" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Hamburg> ;
+  dc:creator gnd:133492966 ;
+  dc:contributor gnd:116996501, gnd:1037506340 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+13349112> .
+
+<br:ludwig_rudolf/places/Hamburg>
+  a libreto:Place ;
+  gn:name "Hamburg" .
+
+gnd:133492966
+  a libreto:Person ;
+  foaf:name "Toppe, Philipp Julius" ;
+  dc:identifier "133492966"^^gndo:gndIdentifier .
+
+gnd:116996501
+  a libreto:Person ;
+  foaf:name "Liebernickel, Gottfried" ;
+  dc:identifier "116996501"^^gndo:gndIdentifier .
+
+gnd:1037506340
+  a libreto:Person ;
+  foaf:name "Liebernickel, Gottfried" ;
+  dc:identifier "1037506340"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+13349112>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "13349112" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf39>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'Homme De Trompé Ou Le Criticon T. 3" ;
+  dc:date "1708"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Ellinckhuysen" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/La+Haye> ;
+  dc:creator gnd:118696874 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=330455036> .
+
+gnd:118696874
+  a libreto:Person ;
+  foaf:name "Gracián y Morales, Baltasar" ;
+  dc:identifier "118696874"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=330455036>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "330455036" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf40>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'Homme De Trompé Ou Le Criticon T. 2" ;
+  dc:date "1708"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Ellinckhuysen" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/La+Haye> ;
+  dc:creator gnd:118696874 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=33045501X> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=33045501X>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "33045501X" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf41>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Histoire D'Hypolite, Comte de Duglas" ;
+  dc:date "1708"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "De Backer" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Brusselle> ;
+  dc:creator gnd:118808788 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237690055> .
+
+<br:ludwig_rudolf/places/Brusselle>
+  a libreto:Place ;
+  gn:name "Brusselle" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237690055>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "237690055" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf42>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'Homme De Trompé Ou Le Criticon T. 1" ;
+  dc:date "1708"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Ellinckhuysen" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/La+Haye> ;
+  dc:creator gnd:118696874 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=235847062> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=235847062>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "235847062" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf43>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Nouveau Traité De La Civilité Qui Se Pratique En France Parmi Les Honnestes Gens" ;
+  dc:date "1708"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Schelte" ;
+  dbo:genre "Handbuch"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:creator gnd:120374307 ;
+  dc:contributor <br:ludwig_rudolf/persons/Chevreuse%2C+...> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150292511> .
+
+gnd:120374307
+  a libreto:Person ;
+  foaf:name "Courtin, Antoine" ;
+  dc:identifier "120374307"^^gndo:gndIdentifier .
+
+<br:ludwig_rudolf/persons/Chevreuse%2C+...>
+  a libreto:Person ;
+  foaf:name "Chevreuse, ..." .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150292511>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150292511" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf44>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Qui comprend depuis Auguste jusqu'à Galba. Histoire des empereurs et des autres princes, qui ont régné durant les six premiers siècles de l'Église .. T. 1, Pt. 1" ;
+  dc:date "1707"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Fricx" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Bruxelles> ;
+  dc:creator gnd:128681667 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=25375111X> .
+
+<br:ludwig_rudolf/places/Bruxelles>
+  a libreto:Place ;
+  gn:name "Bruxelles" .
+
+gnd:128681667
+  a libreto:Person ;
+  foaf:name "Le Nain de Tillemont, Sébastien" ;
+  dc:identifier "128681667"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=25375111X>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "25375111X" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf45>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Joh. Wolffgang Triers kurtze Fragen von den menschlichen Neigungen. darinnen von deren Ursprung und Würckungen auf eine besondere Art gehandelt und zugleich angewiesen wird, wie man dieselben so wohl an sich als an andern erkennen könne, auch sich sonsten im gemeinen Leben dißfalls zu verhalten habe" ;
+  dc:date "1707"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Gleditsch" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Leipzig> ;
+  dc:creator gnd:104043806 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12388920-004> .
+
+gnd:104043806
+  a libreto:Person ;
+  foaf:name "Trier, Johann Wolfgang" ;
+  dc:identifier "104043806"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12388920-004>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "12388920-004" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf46>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Das grosse Dessein des Louis von Baaden. Welches Er An seinem Sterbe-Tage den 4. Januarii dieses 1707. Jahres glücklich hinaus geführt. in einer Patentation gezeiget von einem am Rheinstrom wohnenden Teutschen" ;
+  dc:date "1707"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Rastatt> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10239014-003> .
+
+<br:ludwig_rudolf/places/Rastatt>
+  a libreto:Place ;
+  gn:name "Rastatt" .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10239014-003>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10239014-003" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf47>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'Usage Du Monde Ou Le Parfait Modele D'Un Honneste Homme" ;
+  dc:date "1707"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Brunet & Rigaut", "Leonard" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Paris>, <br:ludwig_rudolf/places/Bruxelles> ;
+  dc:creator gnd:120006294 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151605971> .
+
+gnd:120006294
+  a libreto:Person ;
+  foaf:name "Goussault, Jacques" ;
+  dc:identifier "120006294"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151605971>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151605971" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf48>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Warhafftige Abbildung Aller itzo im Krieg begriffenen Hohen Potentaten und dero Generals. Durch Beibringung verschiedener aus Betrachtung dero Actionen gezogenen Remarques .. Mit einem Entwurff von der .. Kunst, die Gemüther der Menschen zu erkennen, worin gezeiget und untersuchet wird: I. ob eine solche Kunst zu finden, II. wie sie zu erlernen, III. wozu sie nütze und IV. ob sie untrüglich sey?" ;
+  dc:date "1707"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dc:publisher "Marteau" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/C%C3%B6ln> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14373211-005> .
+
+<br:ludwig_rudolf/places/C%C3%B6ln>
+  a libreto:Place ;
+  gn:name "Cöln" .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14373211-005>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "14373211-005" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf49>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Histoire du Vieux et du Nouveau Testament. enrichie de Figures .. etc." ;
+  dc:date "1706"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Pierre Mortier" ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:contributor gnd:120538253 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14680340X> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14680340X>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "14680340X" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf50>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich" ;
+  dc:date "1705"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dbo:genre "Flugschrift"^^<http://uri.gbv.de/terminology/aadgenres/>, "Satire"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392, "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10885366-ddd> .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10885366-ddd>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10885366-ddd" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf51>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Réflexions Ou Sentences Et Maximes Morales. De Monsieur De La Rochefoucault .." ;
+  dc:date "1705"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Mortier" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:creator gnd:118569775 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151033234> .
+
+gnd:118569775
+  a libreto:Person ;
+  foaf:name "La Rochefoucauld, François" ;
+  dc:identifier "118569775"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151033234>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151033234" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf52>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich" ;
+  dc:date "1705"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dbo:genre "Satire"^^<http://uri.gbv.de/terminology/aadgenres/>, "Flugschrift"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392, "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10885366-ddd> .
+
+<br:ludwig_rudolf/item_ludwig_rudolf53>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Instructions Secretes Des Jesuites. Suivant l'original" ;
+  dc:date "1704"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8o" ;
+  dc:publisher "Sincere" ;
+  dbo:genre "Ordensliteratur:Jesuiten"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace gnd:4031483-2 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11525770> .
+
+gnd:4031483-2
+  a libreto:Place ;
+  gn:name "Köln" ;
+  geo:lat 50.933333 ;
+  geo:long 6.95 .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11525770>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "11525770" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf54>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Suite Des Mazarinischen Reverence" ;
+  dc:date "1704"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dbo:genre "Flugschrift"^^<http://uri.gbv.de/terminology/aadgenres/>, "Satire"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392, "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14580349> .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14580349>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "14580349" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf55>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich" ;
+  dc:date "1704"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dbo:genre "Flugschrift"^^<http://uri.gbv.de/terminology/aadgenres/>, "Satire"^^<http://uri.gbv.de/terminology/aadgenres/>, "Brief"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10093591> .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10093591>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "10093591" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf56>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Mazarini Abschieds-Compliment" ;
+  dc:date "1704"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dbo:genre "Flugschrift"^^<http://uri.gbv.de/terminology/aadgenres/>, "Satire"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392, "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11086432> .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11086432>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "11086432" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf57>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Traité du mérite" ;
+  dc:date "1704"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Voys" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/La+Haye> ;
+  dc:creator gnd:1055126783 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134957520> .
+
+gnd:1055126783
+  a libreto:Person ;
+  foaf:name "Vassetz abbé" ;
+  dc:identifier "1055126783"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134957520>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "134957520" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf58>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet" ;
+  dc:date "1701"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Rohrlach", "Ehrich" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Frankfurt%2C+Main>, <br:ludwig_rudolf/places/Leipzig>, <br:ludwig_rudolf/places/Jena> ;
+  dc:creator gnd:12348796X ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12836362> .
+
+<br:ludwig_rudolf/places/Frankfurt%2C+Main>
+  a libreto:Place ;
+  gn:name "Frankfurt, Main" .
+
+<br:ludwig_rudolf/places/Jena>
+  a libreto:Place ;
+  gn:name "Jena" .
+
+gnd:12348796X
+  a libreto:Person ;
+  foaf:name "Schweinitz, David" ;
+  dc:identifier "12348796X"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12836362>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "12836362" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf59>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Bouclier D'Estat Et De Justice, Contre le dessein de la France .." ;
+  dc:date "1701"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  dc:creator gnd:11878014X ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14611392-003> .
+
+gnd:11878014X
+  a libreto:Person ;
+  foaf:name "Lisola, François Paul" ;
+  dc:identifier "11878014X"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14611392-003>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" ;
+  dc:identifier "14611392-003" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf60>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Instructions de l'empereur Charles V. à Philippe II. Roi d'Espagne et de Philippe II. au prince Philippe son fils. Mises en François par Antoine Teissier. 2. édition. A laquelle on a joint la Méthode qu'on a tenuë pour l'éducation des enfans de France" ;
+  dc:date "1700"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Dole" ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/A+la+Haye> ;
+  dc:creator gnd:118560093 ;
+  dc:contributor gnd:129426024 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=136951821> .
+
+<br:ludwig_rudolf/places/A+la+Haye>
+  a libreto:Place ;
+  gn:name "A la Haye" .
+
+gnd:118560093
+  a libreto:Person ;
+  foaf:name "Karl Heiliges Römisches Reich, Kaiser" ;
+  dc:identifier "118560093"^^gndo:gndIdentifier .
+
+gnd:129426024
+  a libreto:Person ;
+  foaf:name "Teissier, Antoine" ;
+  dc:identifier "129426024"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=136951821>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "136951821" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf61>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D'Albe" ;
+  dc:date "1699"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Guignard" ;
+  dbo:genre "Biographie"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Paris> ;
+  dc:creator gnd:137527616 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=135733421> .
+
+gnd:137527616
+  a libreto:Person ;
+  foaf:name "Osorio, Antonio" ;
+  dc:identifier "137527616"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=135733421>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "135733421" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf62>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Le triomphe de la deesse monas ou l'histoire du portrait de madame la princesse de Conti fille du roi" ;
+  dc:date "1698"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "duVal" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236361856> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236361856>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "236361856" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf63>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Practicarum Observationum, tam ad processum iudiciarium, praesertim Imperialis Camerae, quam causarum decisionis pertinentium, libri 2. De Pace publica, et proscriptis, sive bannitis imperij, libri 2. De Pignorationibus liber 1. De manuum Injectionibus, sive arrestis imperii tractatus. Huic noviss. ed. acc. app. 2" ;
+  dc:date "1698"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Metternich" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Coloniae+Agrippina> ;
+  dc:creator gnd:11884296X ;
+  dc:contributor gnd:124408389 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=184827981> .
+
+<br:ludwig_rudolf/places/Coloniae+Agrippina>
+  a libreto:Place ;
+  gn:name "Coloniae Agrippina" .
+
+gnd:11884296X
+  a libreto:Person ;
+  foaf:name "Gail, Andreas" ;
+  dc:identifier "11884296X"^^gndo:gndIdentifier .
+
+gnd:124408389
+  a libreto:Person ;
+  foaf:name "Gymnich, Walter" ;
+  dc:identifier "124408389"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=184827981>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "184827981" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf64>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Histoire Des Controverses Et Des Matieres Ecclesiastiques .." ;
+  dc:date "1697"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Pralard" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Paris> ;
+  dc:creator gnd:100115993 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=620058943> .
+
+gnd:100115993
+  a libreto:Person ;
+  foaf:name "Du Pin, Louis Ellies" ;
+  dc:identifier "100115993"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=620058943>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "620058943" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf65>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Traité de la dévotion." ;
+  dc:date "1697"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Troyel" ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/La+Haye> ;
+  dc:creator gnd:118558900 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=149903561> .
+
+gnd:118558900
+  a libreto:Person ;
+  foaf:name "Jurieu, Pierre" ;
+  dc:identifier "118558900"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=149903561>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "149903561" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf66>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Suscitabulum Poenitentiae Catecheticum, Das ist: Catechetischer Buß-Wecker/ Oder Eine richtige Anweisung zu den wesentlichen Stücken der wahren Buß/ wie selbige nach den zweyen ersten Hauptstücken der Christlichen Lehre nützlich zu üben/ Außführlich und nachdrücklich vorgebildet wird. Allen rechtschaffenen Christen zur nöthigen und seeligen Erweisung ungeheuchelter Busse angestellet Von David von Schweinitz/ auff Seyffersdorff" ;
+  dc:date "1696"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Schrey", "Meyer" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Frankfurt%2C+Oder> ;
+  dc:creator gnd:12348796X ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:614050Y%27> .
+
+<br:ludwig_rudolf/places/Frankfurt%2C+Oder>
+  a libreto:Place ;
+  gn:name "Frankfurt, Oder" .
+
+<https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:614050Y%27>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "3:614050Y" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf67>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Conduite pour se taire et pour parles principalement en matière de religion. suivant la copie imprimée à Paris" ;
+  dc:date "1696"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Broncart" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Liege> ;
+  dc:creator gnd:101503660 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223556645> .
+
+<br:ludwig_rudolf/places/Liege>
+  a libreto:Place ;
+  gn:name "Liege" .
+
+gnd:101503660
+  a libreto:Person ;
+  foaf:name "Morvan de Bellegarde, Jean-Baptiste" ;
+  dc:identifier "101503660"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223556645>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "223556645" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf68>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:title "Danielis Georgi[i] Morhofi[i] Polyhistor. Sive De Notitia Auctorum Et Rerum Commentarii [1]" ;
+  dc:date "1695"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dc:publisher "Böckmannus" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/L%C3%BCbeck> ;
+  dc:creator gnd:118784919 ;
+  dc:contributor <br:ludwig_rudolf/persons/Alefeld%2C+Joachimus> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=719560519> .
+
+<br:ludwig_rudolf/places/L%C3%BCbeck>
+  a libreto:Place ;
+  gn:name "Lübeck" .
+
+gnd:118784919
+  a libreto:Person ;
+  foaf:name "Morhof, Daniel Georg" ;
+  dc:identifier "118784919"^^gndo:gndIdentifier .
+
+<br:ludwig_rudolf/persons/Alefeld%2C+Joachimus>
+  a libreto:Person ;
+  foaf:name "Alefeld, Joachimus" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=719560519>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "719560519" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf69>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Penta-decas fidium cordialium .. Das Ist: Geistlicher Hertzens-Harffen von fünffmahl-zehen Seiten .. Theil" ;
+  dc:date "1694"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Fellgiebel" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Bre%C3%9Flau> ;
+  dc:creator gnd:12348796X ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=15086812X> .
+
+<br:ludwig_rudolf/places/Bre%C3%9Flau>
+  a libreto:Place ;
+  gn:name "Breßlau" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=15086812X>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "15086812X" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf70>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Le Monde Enchanté Ou Examen des communs sentimens touchant les Esprits, leur nature, leur pouvoir, leur administration, & leurs opérations .. Divisé en quatre Parties ; Traduit de l'Hollandois" ;
+  dc:date "1694"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Rotterdam" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:creator gnd:119016915 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147204798> .
+
+gnd:119016915
+  a libreto:Person ;
+  foaf:name "Bekker, Balthasar" ;
+  dc:identifier "119016915"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147204798>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "147204798" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf71>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Novellen Aus Der gelehrten und curiösen Welt 1692" ;
+  dc:date "1692"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Boetius", "Groschuff" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:hasFormat "http://resolver.sub.uni-goettingen.de/purl?PPN824414195" ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Frankfurt>, <br:ludwig_rudolf/places/Gotha>, <br:ludwig_rudolf/places/Leipzig> ;
+  dc:contributor gnd:104217650 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%277:694881V%27> .
+
+<br:ludwig_rudolf/places/Frankfurt>
+  a libreto:Place ;
+  gn:name "Frankfurt" .
+
+<br:ludwig_rudolf/places/Gotha>
+  a libreto:Place ;
+  gn:name "Gotha" .
+
+gnd:104217650
+  a libreto:Person ;
+  foaf:name "Zenner, Gottfried" ;
+  dc:identifier "104217650"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%277:694881V%27>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "7:694881V" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf72>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L' Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale" ;
+  dc:date "1692"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Slaart" ;
+  dbo:genre "Traktat"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Rotterdam> ;
+  dc:creator gnd:100002307 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150211236> .
+
+gnd:100002307
+  a libreto:Person ;
+  foaf:name "Abbadie, Jacques" ;
+  dc:identifier "100002307"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150211236>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150211236" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf73>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Vocabolario degli Accademici della Crusca. In questa 3. impressione Nuovamente corr. e copiosamente accresciuto" ;
+  dc:date "1691"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Stamp. d. Accademia della Crusca" ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Firenze> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=486368920> .
+
+<br:ludwig_rudolf/places/Firenze>
+  a libreto:Place ;
+  gn:name "Firenze" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=486368920>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "486368920" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf74>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Francisci Sanctii Minerva, Sive De Causis Latinæ linguæ Commentarius" ;
+  dc:date "1687"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Strickius" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Franequera> ;
+  dc:creator gnd:118751123 ;
+  dc:contributor gnd:119298600, gnd:119019914 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=251813266> .
+
+<br:ludwig_rudolf/places/Franequera>
+  a libreto:Place ;
+  gn:name "Franequera" .
+
+gnd:118751123
+  a libreto:Person ;
+  foaf:name "Sánchez de las Brozas, Francisco" ;
+  dc:identifier "118751123"^^gndo:gndIdentifier .
+
+gnd:119298600
+  a libreto:Person ;
+  foaf:name "Schoppe, Caspar" ;
+  dc:identifier "119298600"^^gndo:gndIdentifier .
+
+gnd:119019914
+  a libreto:Person ;
+  foaf:name "Perizonius, Jacobus" ;
+  dc:identifier "119019914"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=251813266>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "251813266" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf75>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L' Unico Mezzo, Che ci fà trovar la felicità in questo Mondo .. con brevità e Chiarezza si dimostra nel presente libretto, in todesco, francese, & italiano" ;
+  dc:date "1685"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Gollner" ;
+  ns0:c_language "ita"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:hasFormat "http://nbn-resolving.de/urn:nbn:de:gbv:3:1-608827" ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Jena> ;
+  dc:creator gnd:116400684 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:604602L%27> .
+
+gnd:116400684
+  a libreto:Person ;
+  foaf:name "Caffa, Karl" ;
+  dc:identifier "116400684"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%273:604602L%27>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "3:604602L" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf76>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "De Legibus Naturae Disquisitio Philosophica. In qua Earum Forma, Summa Capita, Ordo, Promulgatio, & Obligatio e rerum Natura investigantur ; Quin Etiam Elementa Philosophiae Hobbianae, Cum Moralis tum Civilis, considerantur & refutantur" ;
+  dc:date "1683"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Otto", "Wiedemeyerus" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:hasFormat "http://nbn-resolving.de/urn:nbn:de:gbv:3:1-466938" ;
+  libreto:hasPlace <br:ludwig_rudolf/places/L%C3%BCbeck>, <br:ludwig_rudolf/places/Frankfurt%2C+Main> ;
+  dc:creator gnd:121534006 ;
+  dc:contributor <br:ludwig_rudolf/persons/Bridgeman%2C+Orlandus>, <br:ludwig_rudolf/persons/Parker%2C+Sam.> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:008798Z%27> .
+
+gnd:121534006
+  a libreto:Person ;
+  foaf:name "Cumberland, Richard" ;
+  dc:identifier "121534006"^^gndo:gndIdentifier .
+
+<br:ludwig_rudolf/persons/Bridgeman%2C+Orlandus>
+  a libreto:Person ;
+  foaf:name "Bridgeman, Orlandus" .
+
+<br:ludwig_rudolf/persons/Parker%2C+Sam.>
+  a libreto:Person ;
+  foaf:name "Parker, Sam." .
+
+<https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:008798Z%27>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "1:008798Z" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf77>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Geographia ordine litterarum disposita" ;
+  dc:date "1681"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Michalet" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Parisiis> ;
+  dc:creator gnd:124639089 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150019556> .
+
+<br:ludwig_rudolf/places/Parisiis>
+  a libreto:Place ;
+  gn:name "Parisiis" .
+
+gnd:124639089
+  a libreto:Person ;
+  foaf:name "Baudrand, Michel-Antoine" ;
+  dc:identifier "124639089"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150019556>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150019556" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf78>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Examen ratiociniorum Danicorum super naufragio militum Suecicorum ad Bornholmiam, eorundemque detentione" ;
+  dc:date "1680"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151714266> .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151714266>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151714266" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf79>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt" ;
+  dc:date "1675"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Betkius" ;
+  dbo:genre "Gebetbuch"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:hasFormat "http://resolver.sub.uni-goettingen.de/purl?PPN757232523" ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Frankfurt%2C+Main>, <br:ludwig_rudolf/places/Amsterdam> ;
+  dc:creator gnd:128616385 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:072956R%27> .
+
+gnd:128616385
+  a libreto:Person ;
+  foaf:name "Sperber, Julius" ;
+  dc:identifier "128616385"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:072956R%27>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "1:072956R" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf80>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Henrici Glareani In Cornelii Taciti de situ .. Germaniae libellum commentariolus" ;
+  dc:date "1673"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "2°" ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Giessae> ;
+  dc:creator gnd:11905339X ;
+  dc:contributor gnd:117106178 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=369886046> .
+
+<br:ludwig_rudolf/places/Giessae>
+  a libreto:Place ;
+  gn:name "Giessae" .
+
+gnd:11905339X
+  a libreto:Person ;
+  foaf:name "Glareanus, Henricus Loriti" ;
+  dc:identifier "11905339X"^^gndo:gndIdentifier .
+
+gnd:117106178
+  a libreto:Person ;
+  foaf:name "Schardius, Simon" ;
+  dc:identifier "117106178"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=369886046>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "369886046" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf81>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:title "The voyage of Italy, or, A compleat journey through Italy. in two parts : with the characters of the people, and the description of the chief towns, churches, monasteries, tombs, libraries, pallaces, villas, gardens, pictures, statues, and antiquities : as also of the interest, government, riches, force, &c. of all the princes : with instructions concerning travel" ;
+  dc:date "1670"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "[s.n.], and are to be sold in London, by John Starkey" ;
+  ns0:c_language "eng"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Newly+printed+at+Paris> ;
+  dc:creator <br:ludwig_rudolf/persons/Lassels%2C+Richard> ;
+  dc:contributor <br:ludwig_rudolf/persons/Simon+Wilson> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=553173561> .
+
+<br:ludwig_rudolf/places/Newly+printed+at+Paris>
+  a libreto:Place ;
+  gn:name "Newly printed at Paris" .
+
+<br:ludwig_rudolf/persons/Lassels%2C+Richard>
+  a libreto:Person ;
+  foaf:name "Lassels, Richard" .
+
+<br:ludwig_rudolf/persons/Simon+Wilson>
+  a libreto:Person ;
+  foaf:name "Simon Wilson" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=553173561>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "553173561" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf82>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Jetztlebendes Europa, Oder Neue Historische und Politische Erzehlung aller seiner Stände, wie solche gegen dem Ende deß Jahrs 1666. ihr Wesen gehabt. In unterschiedlichen Tafeln repræsentirt, Darinnen . von den Universitäten und berühmten Bibliothecen .. und von allen berühmten Leuten in jeder Profession; Benebens einer Zusammensamlung Der denckwürdigsten Sachen die sich nach dem allgemeinen Friedenschluß in Europa zugetragen .." ;
+  dc:date "1670"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Schiele" ;
+  dc:subject "Geographie"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Franckfurt+am+Mayn> ;
+  dc:creator gnd:124861075 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151871949> .
+
+<br:ludwig_rudolf/places/Franckfurt+am+Mayn>
+  a libreto:Place ;
+  gn:name "Franckfurt am Mayn" .
+
+gnd:124861075
+  a libreto:Person ;
+  foaf:name "Chappuzeau, Samuel" ;
+  dc:identifier "124861075"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151871949>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151871949" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf83>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "L'imitation de Jesus Christ" ;
+  dc:date "1665"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Ballard" ;
+  ns0:c_language "fre"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Paris> ;
+  dc:creator gnd:118642766 ;
+  dc:contributor gnd:118522175 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=246014911> .
+
+gnd:118642766
+  a libreto:Person ;
+  foaf:name "Thomas von Kempen" ;
+  dc:identifier "118642766"^^gndo:gndIdentifier .
+
+gnd:118522175
+  a libreto:Person ;
+  foaf:name "Corneille, Pierre" ;
+  dc:identifier "118522175"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=246014911>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "246014911" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf84>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Character Virtutum variis, aliorum etiam, qua veterum, qua recentium Autorum coloribus adumbratus" ;
+  dc:date "1664"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BS.l.%5D> ;
+  dc:creator gnd:121895610 ;
+  dc:contributor <br:ludwig_rudolf/persons/Guldensternius%2C+Sigismundus> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2723:269676U%27> .
+
+gnd:121895610
+  a libreto:Person ;
+  foaf:name "Pastorius, Joachim" ;
+  dc:identifier "121895610"^^gndo:gndIdentifier .
+
+<br:ludwig_rudolf/persons/Guldensternius%2C+Sigismundus>
+  a libreto:Person ;
+  foaf:name "Guldensternius, Sigismundus" .
+
+<https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2723:269676U%27>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "23:269676U" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf85>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Scrutinium Ingeniorum pro iis, qui excellere cupiunt" ;
+  dc:date "1663"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Neuenhahn", "Krebs" ;
+  dc:subject "Pädagogik"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:hasFormat "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10401193-7" ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Jena> ;
+  dc:creator gnd:119456222 ;
+  dc:contributor gnd:122503279, <br:ludwig_rudolf/persons/Albrecht+Sachsen-J%C3%BClich-Cleve-Berg%2C+Herzog>, <br:ludwig_rudolf/persons/Ludwig+Anhalt-K%C3%B6then%2C+F%C3%BCrst> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:065794A%27> .
+
+gnd:119456222
+  a libreto:Person ;
+  foaf:name "Huarte de San Juan, Juan" ;
+  dc:identifier "119456222"^^gndo:gndIdentifier .
+
+gnd:122503279
+  a libreto:Person ;
+  foaf:name "Caesar, Joachim" ;
+  dc:identifier "122503279"^^gndo:gndIdentifier .
+
+<br:ludwig_rudolf/persons/Albrecht+Sachsen-J%C3%BClich-Cleve-Berg%2C+Herzog>
+  a libreto:Person ;
+  foaf:name "Albrecht Sachsen-Jülich-Cleve-Berg, Herzog" .
+
+<br:ludwig_rudolf/persons/Ludwig+Anhalt-K%C3%B6then%2C+F%C3%BCrst>
+  a libreto:Person ;
+  foaf:name "Ludwig Anhalt-Köthen, Fürst" .
+
+<https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:065794A%27>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "1:065794A" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf86>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Venetia città nobilissima et singolare" ;
+  dc:date "1663"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "4°" ;
+  dc:publisher "Curti" ;
+  ns0:c_language "ita"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Venedig> ;
+  dc:creator gnd:119255901 ;
+  dc:contributor gnd:1055727280, gnd:1024756335 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=140235191> .
+
+<br:ludwig_rudolf/places/Venedig>
+  a libreto:Place ;
+  gn:name "Venedig" .
+
+gnd:119255901
+  a libreto:Person ;
+  foaf:name "Sansovino, Francesco" ;
+  dc:identifier "119255901"^^gndo:gndIdentifier .
+
+gnd:1055727280
+  a libreto:Person ;
+  foaf:name "Martinioni, Giustiniano" ;
+  dc:identifier "1055727280"^^gndo:gndIdentifier .
+
+gnd:1024756335
+  a libreto:Person ;
+  foaf:name "Curti, Stefano" ;
+  dc:identifier "1024756335"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=140235191>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "140235191" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf87>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David. Gerichtet Auf unterschiedener Personen/ und Stände Anliegen" ;
+  dc:date "1662"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Fellgiebel" ;
+  dbo:genre "Gebetbuch"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Breslau> ;
+  dc:creator gnd:12348796X ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2739:156875D%27> .
+
+<br:ludwig_rudolf/places/Breslau>
+  a libreto:Place ;
+  gn:name "Breslau" .
+
+<https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2739:156875D%27>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "39:156875D" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf88>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Genealogia. Derer von Schweinitz/ Vor der Zeit Vom Swentze Genennet" ;
+  dc:date "1661"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Schneider" ;
+  dc:subject "Genealogie"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:hasFormat "http://resolver.sub.uni-goettingen.de/purl?PPN778438074" ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Liegnitz> ;
+  dc:creator gnd:12348796X ;
+  dc:contributor <br:ludwig_rudolf/persons/Christian+Hertzog+in+Schlesien%2C+zur+Liegnitz%2C+Brieg+und+Wohlau>, <br:ludwig_rudolf/persons/Ludwig+Hertzog+in+Schlesien%2C+zur+Liegnitz%2C+Brieg+und+Goldberg>, <br:ludwig_rudolf/persons/Georg+Hertzog+in+Schlesien+zur+Liegnitz+und+Brieg> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2723:232961A%27> .
+
+<br:ludwig_rudolf/places/Liegnitz>
+  a libreto:Place ;
+  gn:name "Liegnitz" .
+
+<br:ludwig_rudolf/persons/Christian+Hertzog+in+Schlesien%2C+zur+Liegnitz%2C+Brieg+und+Wohlau>
+  a libreto:Person ;
+  foaf:name "Christian Hertzog in Schlesien, zur Liegnitz, Brieg und Wohlau" .
+
+<br:ludwig_rudolf/persons/Ludwig+Hertzog+in+Schlesien%2C+zur+Liegnitz%2C+Brieg+und+Goldberg>
+  a libreto:Person ;
+  foaf:name "Ludwig Hertzog in Schlesien, zur Liegnitz, Brieg und Goldberg" .
+
+<br:ludwig_rudolf/persons/Georg+Hertzog+in+Schlesien+zur+Liegnitz+und+Brieg>
+  a libreto:Person ;
+  foaf:name "Georg Hertzog in Schlesien zur Liegnitz und Brieg" .
+
+<https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2723:232961A%27>
+  a libreto:Manifestation ;
+  libreto:database "Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" ;
+  dc:identifier "23:232961A" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf89>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Tractatus politico-historico-juridicus de Juribus et Privilegiis Civitatum Imperialium, tam generalibus, quam specialibus et de earundem Magistratuum Officio. In sex libros divisus" ;
+  dc:date "1657"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Kühne" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Ulmae+Suevorum> ;
+  dc:creator gnd:124429254 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=141633042> .
+
+<br:ludwig_rudolf/places/Ulmae+Suevorum>
+  a libreto:Place ;
+  gn:name "Ulmae Suevorum" .
+
+gnd:124429254
+  a libreto:Person ;
+  foaf:name "Knipschildt, Philipp" ;
+  dc:identifier "124429254"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=141633042>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "141633042" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf90>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Specvlvm Natvrae Hvmanæ, Siue Mores Et Temperamenta Hominvm Vsqve Ad Intimos Animorum sensus cognoscendi. Omnibus maxime vtile, & lectu iucundum" ;
+  dc:date "1649"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Kalcovius" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Coloniae+Agrippinae> ;
+  dc:creator gnd:122674391 ;
+  dc:contributor gnd:122674332 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147802350> .
+
+<br:ludwig_rudolf/places/Coloniae+Agrippinae>
+  a libreto:Place ;
+  gn:name "Coloniae Agrippinae" .
+
+gnd:122674391
+  a libreto:Person ;
+  foaf:name "Follin, Hermann" ;
+  dc:identifier "122674391"^^gndo:gndIdentifier .
+
+gnd:122674332
+  a libreto:Person ;
+  foaf:name "Follin, Johann" ;
+  dc:identifier "122674332"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147802350>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "147802350" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf91>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Theatrum ingenii humani Liber 1-2" ;
+  dc:date "1648"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "Jansonius" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Amstelodami> ;
+  dc:creator gnd:128500751 ;
+  dc:contributor gnd:132103885 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150731884> .
+
+<br:ludwig_rudolf/places/Amstelodami>
+  a libreto:Place ;
+  gn:name "Amstelodami" .
+
+gnd:128500751
+  a libreto:Person ;
+  foaf:name "Neuhusius, Edo" ;
+  dc:identifier "128500751"^^gndo:gndIdentifier .
+
+gnd:132103885
+  a libreto:Person ;
+  foaf:name "Neuhusius, Reinerus" ;
+  dc:identifier "132103885"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150731884>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "150731884" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf92>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Arcadia der Gräffin von Pembrock" ;
+  dc:date "1643"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Humm" ;
+  dbo:genre "Roman"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Franckfurt> ;
+  dc:creator gnd:11861391X ;
+  dc:contributor gnd:117080632, gnd:118590111, gnd:118581090, <br:ludwig_rudolf/persons/Sophia+Leonora+Hessen%2C+Landgr%C3%A4fin> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151490759> .
+
+<br:ludwig_rudolf/places/Franckfurt>
+  a libreto:Place ;
+  gn:name "Franckfurt" .
+
+gnd:11861391X
+  a libreto:Person ;
+  foaf:name "Sidney, Philip" ;
+  dc:identifier "11861391X"^^gndo:gndIdentifier .
+
+gnd:117080632
+  a libreto:Person ;
+  foaf:name "Mögling, Daniel" ;
+  dc:identifier "117080632"^^gndo:gndIdentifier .
+
+gnd:118590111
+  a libreto:Person ;
+  foaf:name "Opitz, Martin" ;
+  dc:identifier "118590111"^^gndo:gndIdentifier .
+
+gnd:118581090
+  a libreto:Person ;
+  foaf:name "Merian, Matthaeus" ;
+  dc:identifier "118581090"^^gndo:gndIdentifier .
+
+<br:ludwig_rudolf/persons/Sophia+Leonora+Hessen%2C+Landgr%C3%A4fin>
+  a libreto:Person ;
+  foaf:name "Sophia Leonora Hessen, Landgräfin" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151490759>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151490759" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf93>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Nikēphoru Kallistu Tu Xanthopulu Ekklēsiastikēs Historias Biblia 18 Tomvs Prior" ;
+  dc:date "1630"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Cramoisy" ;
+  dbo:genre "Ordensliteratur:Jesuiten"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "grc"^^ns1:so6392, "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Lutetiae+Parisiorum> ;
+  dc:creator gnd:10095443X ;
+  dc:contributor gnd:124677320, gnd:136285422, <br:ludwig_rudolf/persons/Richelieu%2C+Armandus+Joannes> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=190912367> .
+
+<br:ludwig_rudolf/places/Lutetiae+Parisiorum>
+  a libreto:Place ;
+  gn:name "Lutetiae Parisiorum" .
+
+gnd:10095443X
+  a libreto:Person ;
+  foaf:name "Nicephorus Callistus Xanthopulus" ;
+  dc:identifier "10095443X"^^gndo:gndIdentifier .
+
+gnd:124677320
+  a libreto:Person ;
+  foaf:name "Du Duc, Fronton" ;
+  dc:identifier "124677320"^^gndo:gndIdentifier .
+
+gnd:136285422
+  a libreto:Person ;
+  foaf:name "Lange, Johann" ;
+  dc:identifier "136285422"^^gndo:gndIdentifier .
+
+<br:ludwig_rudolf/persons/Richelieu%2C+Armandus+Joannes>
+  a libreto:Person ;
+  foaf:name "Richelieu, Armandus Joannes" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=190912367>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "190912367" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf94>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "La Secchia Rapita. Poema Eroicomico, e'l Canto Dell'Oceano" ;
+  dc:date "1625"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "12°" ;
+  dc:publisher "Sarzina" ;
+  dbo:genre "Verserzählung"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "ita"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Venetia> ;
+  dc:creator gnd:118753959 ;
+  dc:contributor gnd:122970470 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=513708979> .
+
+<br:ludwig_rudolf/places/Venetia>
+  a libreto:Place ;
+  gn:name "Venetia" .
+
+gnd:118753959
+  a libreto:Person ;
+  foaf:name "Tassoni, Alessandro" ;
+  dc:identifier "118753959"^^gndo:gndIdentifier .
+
+gnd:122970470
+  a libreto:Person ;
+  foaf:name "Barberini, Antonio" ;
+  dc:identifier "122970470"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=513708979>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "513708979" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf95>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "La Biblia. Que es, Los sacros libros del Vieio y Nuevo Testamento. : Trasladada en español." ;
+  dc:date "1622"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Aubrius & Schleich" ;
+  ns0:c_language "spa"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/%5BBasel%5D> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151756309> .
+
+<br:ludwig_rudolf/places/%5BBasel%5D>
+  a libreto:Place ;
+  gn:name "[Basel]" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151756309>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "151756309" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf96>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Andreæ Althameri Commentaria: In P. Cornelii Taciti equitis Romani libellum De Situ, Moribus Et Populis Germaniæ" ;
+  dc:date "1609"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8°" ;
+  dc:publisher "Forster" ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Ambergae> ;
+  dc:creator gnd:118620452 ;
+  dc:contributor gnd:100010423 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=394766091> .
+
+<br:ludwig_rudolf/places/Ambergae>
+  a libreto:Place ;
+  gn:name "Ambergae" .
+
+gnd:118620452
+  a libreto:Person ;
+  foaf:name "Tacitus, Cornelius" ;
+  dc:identifier "118620452"^^gndo:gndIdentifier .
+
+gnd:100010423
+  a libreto:Person ;
+  foaf:name "Althamer, Andreas" ;
+  dc:identifier "100010423"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=394766091>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "394766091" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf97>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Matthaei Dresseri  ORATIO  DE ORDINE, VERITATE ET VSV  in historiarum lectione  spectando. Habita in Academia Lipsi-ca, XVII Januarij,anno 82." ;
+  dc:date "1582"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "8" ;
+  dc:publisher "Gronenberg, Simon" ;
+  dbo:genre "Rede"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  dc:hasFormat "http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10208212-5" ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Wittenberg> ;
+  dc:creator gnd:116218363 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=567283895> .
+
+<br:ludwig_rudolf/places/Wittenberg>
+  a libreto:Place ;
+  gn:name "Wittenberg" .
+
+gnd:116218363
+  a libreto:Person ;
+  foaf:name "Dresser, Matthaeus" ;
+  dc:identifier "116218363"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=567283895>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "567283895" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf98>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:type "Druck" ;
+  dc:title "Cosmographiae Vniversalis Lib. VI. In Qvibvs Ivxta Certioris Fidei Scriptores .. describuntur, Omnium habitabilis Orbis partium situs propriæq́[ue] dotes. Regionum Topographicæ picturæ .. Cunctarum Gentium mores, leges, religio, res gestæ, & mutationes usq[ue] ad annum Christi M. D. L. LXXII." ;
+  dc:date "1572"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  libreto:bibliographicalFormat "2°" ;
+  dc:publisher "Henricpetri" ;
+  dc:subject "Geographie"^^<http://uri.gbv.de/terminology/aadgenres/> ;
+  ns0:c_language "lat"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/Basileae> ;
+  dc:creator gnd:118585517 ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223457167> .
+
+<br:ludwig_rudolf/places/Basileae>
+  a libreto:Place ;
+  gn:name "Basileae" .
+
+gnd:118585517
+  a libreto:Person ;
+  foaf:name "Münster, Sebastian" ;
+  dc:identifier "118585517"^^gndo:gndIdentifier .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223457167>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "223457167" .
+
+<br:ludwig_rudolf/item_ludwig_rudolf99>
+  a libreto:Item ;
+  libreto:belongsTo br:ludwig_rudolf ;
+  dc:title "Teutsch Passional vnsers [unsers] Herren Jesu Christi. Mit schönen tröstlichen Gebetlein" ;
+  dc:date "1547"^^xsd:gYear ;
+  dbo:numberOfVolumes 1 ;
+  dc:publisher "[s.n.]" ;
+  ns0:c_language "ger"^^ns1:so6392 ;
+  libreto:physicalForm "gebunden"@de ;
+  libreto:hasPlace <br:ludwig_rudolf/places/N%C3%BCrnberg> ;
+  dc:creator <br:ludwig_rudolf/persons/Schwenckfeld%2C+Caspar> ;
+  libreto:hasManifestation <https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=389070084> .
+
+<br:ludwig_rudolf/places/N%C3%BCrnberg>
+  a libreto:Place ;
+  gn:name "Nürnberg" .
+
+<br:ludwig_rudolf/persons/Schwenckfeld%2C+Caspar>
+  a libreto:Person ;
+  foaf:name "Schwenckfeld, Caspar" .
+
+<https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=389070084>
+  a libreto:Manifestation ;
+  libreto:database "K10plus" ;
+  dc:identifier "389070084" .
+

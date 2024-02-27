@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" next="1614.xml" n="1613" prev="1612.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1613</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00092.jpg" n="44v">Anno 1613.</head></div>
+            
+            <div xml:id="E1613-04-03"><head><date when="1613-04-03">den 3. Aprilis <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>. 4. m<ex>eill</ex>. <foreign xml:lang="lat">m<ex>anu</ex> p<ex>ropria</ex></foreign><note type="translation">eigenhändig</note></p></div>
+            
+            <div xml:id="E1613-04-06"><head><date when="1613-04-06">den 6 Aprilis <c>♂</c></date></head><p> biß nach dem
+                <rs ref="register.xml#Neuhausen" type="place">Newenhause</rs>, 5. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-04-09"><head><date when="1613-04-09">den 9 Aprilis <c>♀</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> <del rend="overstrike">d<ex>e</ex>n</del></p></div>
+            
+            <div xml:id="E1613-05-15"><note place="margin-left">11</note> <head><date when="1613-05-15">den 15 Maÿ <c>♄</c></date></head><p> biß <rs ref="register.xml#Clenze" type="place">Clentzen</rs>, 
+                <rs ref="register.xml#Bergen_an_der_Dumme" type="place">Berge</rs>, 
+                4. meill. biß <rs ref="register.xml#Juebar" type="place">Jubern</rs> 3 ½ meill biß
+                <rs ref="register.xml#Brome" type="place">Brome</rs>, <rs ref="register.xml#Ahnebeck" type="place">Anebecke</rs> <rs ref="register.xml#Vorsfelde" type="place">Vosfelde</rs> 
+                3 ½ meill <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 11. <foreign xml:lang="lat">m<ex>anu</ex> p<ex>ropria</ex></foreign><note type="translation" resp="as">eigenhändig</note></p></div>
+            
+            <div xml:id="E1613-05-16"><note place="margin-left">15.</note> <head><date when="1613-05-16">den 16 Maÿ <c>☉</c></date></head><p> biß 
+                <rs ref="register.xml#Marienthal" type="place">Marienthall</rs> Kloster biß <rs ref="register.xml#Helmstedt" type="place">Helmstadt</rs>, 4. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-05-17"><note place="margin-left">21.</note> <head><date when="1613-05-17">den 17. Maÿ <c>☽</c>,</date></head><p>
+                biß <rs ref="register.xml#Groeningen" type="place">Gröningen</rs> 4 meill. biß <rs ref="register.xml#Quedlinburg" type="place">Quedlinburgk</rs>, 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-05-18"><note place="margin-left">27.</note> <head><date when="1613-05-18">den 18 Maÿ <c>♂</c>,</date></head><p>
+                biß <rs ref="register.xml#Ermsleben" type="place">Ermeßleben</rs>, <rs ref="register.xml#Endorf" type="place">Jndorff</rs>, <rs ref="register.xml#Arnstein" type="place">Arentstein</rs>, <rs type="place">Lembach</rs>, 
+                <rs ref="register.xml#Mansfeld" type="place">Mansfeldt</rs>, 4 m<ex>eill</ex>. biß <rs ref="register.xml#Sangerhausen" type="place">Sangerßhausen</rs>, 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-05-19"><note place="margin-left">34.</note> <head><date when="1613-05-19">den 19 Maÿ, <c>☿</c></date></head><p>
+                biß <rs ref="register.xml#Artern" type="place">Arrtrem</rs>, <rs ref="register.xml#Heldrungen" type="place">Heldrungen</rs>, <rs ref="register.xml#Soemmerda" type="place">Lanzen zummern</rs> stedtlein 4 m<ex>eill</ex>.
+                biß <rs ref="register.xml#Erfurt" type="place">Erfurth</rs>, 3 m<ex>eill</ex>. <foreign xml:lang="lat">f<ex>acit</ex></foreign><note type="translation">ergibt</note> 7.</p></div>
+            
+            <div xml:id="E1613-05-20"><note place="margin-left">36.</note> <head><date when="1613-05-20">den 20 Maÿ. <c>♃</c></date></head><p>
+                Alda besehen in S<ex>ankt</ex> <seg><rs type="place">Peters Kloster</rs></seg><note type="annotation">Normdaten (Geografikum): GND: 4325468-8</note> deß <rs ref="register.xml#Lambert_II._von_Gleichen" type="person">Graffen von Gleichen</rs>
+                begrebnuß, mit seinen <seg>2. Gemahlinnen</seg><note type="annotation">Die Sage vom zweibeweibten Grafen von Gleichen</note>; welcher gestorb<ex>e</ex>n Anno,
+                1227. biß <rs ref="register.xml#Ichtershausen" type="place">Jchterßhausen</rs>, <rs ref="register.xml#Arnstadt" type="place">Arenstadt</rs>, 2. m<ex>eill</ex>.</p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00093.jpg" n="45r"/>
+            
+            <div xml:id="E1613-05-21"><note place="margin-right">40.</note> <head><date when="1613-05-21">den 21. Maÿ: <c>♀</c></date></head><p>
+                biß <rs ref="register.xml#Ilmenau" type="place">Jlmenaw</rs> 2 m<ex>eill</ex> <rs ref="register.xml#Frauenwald" type="place">Frawenwalde</rs> 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 4. </p></div>
+            
+            <div xml:id="E1613-05-22"><note place="margin-right">45</note> <head><date when="1613-05-22">den 22. Maÿ <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Eisfeld" type="place">Eiffeldt</rs> 2. m<ex>eill</ex>. biß
+                <rs ref="register.xml#Coburg" type="place">Coburgk</rs>, 3. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5:</p></div>
+            
+            <div xml:id="E1613-05-24"><note place="margin-right">51.</note> <head><date when="1613-05-24">den 24 Maÿ <c>☽</c>,</date></head><p>
+                biß zur <rs ref="register.xml#Kaltenbrunn" type="place">Kalten</rs> herberg, 3. m<ex>eill</ex>. biß <rs ref="register.xml#Bamberg" type="place">Bambergk</rs> 3 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-05-25"><note place="margin-right">56.</note> <head><date when="1613-05-25">den 25 Maÿ <c>♂</c>,</date></head><p>
+                biß <rs ref="register.xml#Forchheim" type="place">Forcheim</rs> (<seg><rs ref="register.xml#Pontius_Pilatus" type="person">Pilati</rs> geburtsstadt</seg><note type="annotation">Die Legende von Forschheim als der Geburtstag von Pontius Pilatus hielt sich über viele Jahrhunderte, sein wahrer Geburtstort ist jedoch unbekannt</note>) 4. m<ex>eill</ex>. biß <rs ref="register.xml#Baiersdorf" type="place">Baÿerßdorf</rs>
+                1. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1613-05-26"><note place="margin-right">60.</note> <head><date when="1613-05-26">den 26 Maÿ <c>☿</c>,</date></head><p>
+                biß <rs ref="register.xml#Nuernberg" type="place">Nürnberg</rs>, 4 m<ex>eill</ex>. –</p></div>
+            
+            <div xml:id="E1613-06-03"><note place="margin-right">67.</note> <head><date when="1613-06-03">den 3. Junÿ <c>♃</c></date></head><p>
+                biß <rs ref="register.xml#Roth" type="place">Roth</rs> stadt 4. m<ex>eill</ex>. biß <rs ref="register.xml#Ellingen" type="place">Elbingen</rs> stadt, d<ex>e</ex>m <seg>Teutschen orden</seg><note type="annotation">Normdaten: GND: 1017688-3</note> 
+                gehörig, biß <rs ref="register.xml#Weissenburg_in_Bayern" type="place">Weissenburgk</rs> 3. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p></div>
+            
+            <div xml:id="E1613-06-04"><note place="margin-right">72.</note> <head><date when="1613-06-04">den 4 Junÿ <c>♀</c></date></head><p>
+                biß <rs ref="register.xml#Dietfurt" type="place">Dietfurth</rs>, <rs ref="register.xml#Monheim" type="place">Manheimb</rs>, 3. meill. biß <rs ref="register.xml#Kaisheim" type="place"><subst><del>G</del><add>K</add></subst>eiss<add place="inline">heimb</add></rs>, Bernhardiner
+                <w>Kloster</w><note type="annotation">Kloster Heilig Kreuz (Donauwörth)</note>, <rs ref="register.xml#Donauwoerth" type="place">Donauverth</rs> 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note>
+                5.</p></div>
+            
+            <div xml:id="E1613-06-05"><note place="margin-right">78.</note> <head><date when="1613-06-05">den 5. Junÿ <c>♄</c></date></head><p> biß <rs ref="register.xml#Meitingen" type="place">Meutingen Dorff</rs>, 3. m<ex>eill</ex>
+                biß <rs ref="register.xml#Augsburg" type="place">Arengspurg</rs> zum Hirschen, 3. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note>
+                6.</p></div>
+            
+            <div xml:id="E1613-06-18"><note place="margin-right">6 ½.</note> <head><date when="1613-06-18">den 18 Junÿ, <c>♀</c></date></head><p> biß <rs ref="register.xml#Nordendorf" type="place">Narendorf</rs> 3. 
+                m<ex>eill</ex>. biß <rs ref="register.xml#Donauwoerth" type="place">Donauverth</rs> 3. m<ex>eill</ex>. <rs ref="register.xml#Kaisheim" type="place">Käÿsersheimb</rs> ½, 6 m<ex>eill</ex> ½. </p></div>
+            
+            <div xml:id="E1613-06-19"><note place="margin-right">11.</note> <head><date when="1613-06-19">d<ex>e</ex>n 19 Junÿ <c>♄</c></date></head><p> biß <rs ref="register.xml#Monheim" type="place">Monheimb</rs>, 2 ½ m<ex>eill</ex>. 
+                biß <rs ref="register.xml#Weissenburg_in_Bayern" type="place">Weissenburgk</rs> 2 m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 4 ½. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-06-20"><note place="margin-right">18.</note> <head><date when="1613-06-20">den 20 Junÿ <c>☉</c></date></head><p> biß <rs ref="register.xml#Roth" type="place">Roth</rs>. 3. m<ex>eill</ex>. biß
+                <rs ref="register.xml#Nuernberg" type="place">Nurnbergk</rs> 4. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p></div>
+            
+            <div xml:id="E1613-06-24"><note place="margin-right">23.</note> <head><date when="1613-06-24">den 24. Junÿ. <c>♃</c></date></head><p> biß <rs ref="register.xml#Lauf_an_der_Pegnitz" type="place">Lauff</rs> 2. m<ex>eill</ex>. 
+                <rs ref="register.xml#Reichenschwand" type="place">ReicheleSchwang</rs> 1. m<ex>eill</ex>. biß <rs ref="register.xml#Hersbruck" type="place">Hereßbrugk</rs> flecken, <rs ref="register.xml#Hartmannshof" type="place">Hartmanßhoff</rs> dorf, 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5. 
+                <foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note> weg<ex>en</ex> deß bösen engen wegeß umbgezogen, dan sonsten Auf <rs ref="register.xml#Neumarkt_in_der_Oberpfalz" type="place">NewMarckt</rs> die Strasse zugangen. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1613-06-25"><note place="margin-right">29.</note> <head><date when="1613-06-25">den 25. Junÿ, <c>♀</c></date></head><p> biß <rs ref="register.xml#Amberg" type="place">Almberg</rs> 3. 
+                m<ex>eill</ex>. biß <rs ref="register.xml#Schwandorf" type="place">Schwarndorf</rs> Flecken 3. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-06-26"><note place="margin-right">34.</note> <head><date when="1613-06-26">den 26 Junÿ <c>♄</c></date></head><p> biß <rs ref="register.xml#Burglengenfeld" type="place">BurgkLangfeldt</rs>, <rs ref="register.xml#Regenstauf" type="place">Regenstauff</rs> 4. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-06-27"><note place="margin-right">36.#</note> <head><date when="1613-06-27">d<ex>e</ex>n 27. Junÿ <c>☉</c>,</date></head><p> biß <rs ref="register.xml#Regensburg" type="place">Regenspurg</rs>, 2. m<ex>eill</ex></p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00094.jpg" n="45v"/>
+            
+            <div xml:id="E1613-06-28"><head><date when="1613-06-28">den 28. Junÿ <c>☽</c>,</date></head><p> in S<ex>ankt</ex> Emmeranß Kloster, besehen d<ex>a</ex>z
+                geschriebene N<ex>eue</ex> T<ex>estament</ex> des <rs ref="register.xml#Karl_der_Kahle" type="person">Kaysers Caroli Calvi</rs>; und ist 
+                Anno <add place="above">p<ex>ost</ex> C<ex>hristum</ex> N<ex>atum</ex></add> 873, geschrieb<ex>e</ex>n 
+                word<ex>e</ex>n der <rs ref="register.xml#Arnolf_von_Kaernten" type="person">Keyser Arnulphy</rs> hats dem Kloster verehrett.</p><note type="annotation">Es handelt sich dabei um den Codex aureus von S<ex>anc</ex>t Emmeram</note></div>
+            
+            <div xml:id="E1613-06-30"><note place="margin-left">38.</note> <head><date when="1613-06-30">den 30. Junÿ, <c>☿</c></date></head><p>
+                biß <rs ref="register.xml#Regenstauf" type="place">Regenstauff</rs> 2. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-07-01"><note place="margin-left">44.</note> <head><date when="1613-07-01">den 1. Julÿ. <c>♃</c></date></head><p>
+                biß <rs ref="register.xml#Schwandorf" type="place">Schwandorf</rs> 4. m<ex>eill</ex>. biß <rs ref="register.xml#Schwarzenfeld" type="place">Schwartzenfeldt</rs> über die
+                verdeckte brücke über die Nabe, biß <rs ref="register.xml#Nabburg" type="place">Nabepurgk</rs> 2. m<ex>eill</ex>.
+                <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-07-02"><note place="margin-left">48</note> <head><date when="1613-07-02">den 2. Julÿ <c>♀</c>,</date></head><p>
+                biß <rs ref="register.xml#Pfreimd" type="place">Pfreimbt</rs>, den <rs ref="register.xml#Georg_Ludwig_von_Leuchtenberg" type="person">Landtgrafen von Leuchtenbergk</rs> gehörig (<foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note> diese
+                landtgrafschafft hatt <rs ref="register.xml#Mecklenburg_Vorpommern" type="place">Mechlenburgk</rs> Außgebeten:) <rs ref="register.xml#Luhe_Wildenau" type="place">Lahe</rs>, <rs ref="register.xml#Weiden" type="place">Weide</rs>, <rs ref="register.xml#Neustadt_an_der_Waldnaab" type="place">Newstädtle</rs> 4. meill.
+                einem <rs ref="register.xml#Wenzel_Eusebius_von_Lobkowitz" type="person">Böhmischen Herren</rs> gehörig.</p></div>
+            
+            <div xml:id="E1613-07-03"><note place="margin-left">54.</note> <head><date when="1613-07-03">d<ex>e</ex>n 3. Julÿ <c>♄</c></date></head><p> biß <rs ref="register.xml#Tirschenreuth" type="place">Tirschenreide</rs>, 
+                3. m<ex>eill</ex>. biß <rs ref="register.xml#Eger_Cheb" type="place">Eper</rs> stadt, <rs ref="register.xml#Frantiskovy_Lazne" type="place">Alda ein Sawrbrun</rs>, 3. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-07-04"><note place="margin-left">57.</note> <head><date when="1613-07-04">den 4. Julÿ <c>☉</c></date></head><p> biß <rs ref="register.xml#Adorf_Vogtland" type="place">Adorff</rs> 3. gr<ex>oße</ex> m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-07-05"><note place="margin-left">63.</note> <head><date when="1613-07-05">den 5. Julÿ <c>☽</c>,</date></head><p>
+                biß <rs ref="register.xml#Oelsnitz_Vogtland" type="place">Elsensen</rs>, <rs ref="register.xml#Plauen" type="place">Plawen</rs>, 3. m<ex>eill</ex>. biß <rs type="place">Tolaw</rs>, 3. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-07-06"><note place="margin-left">68.</note> <head><date when="1613-07-06">den 6. Julÿ <c>♂</c></date></head><p>
+                biß <rs ref="register.xml#Weida" type="place">Weyde</rs>, <rs ref="register.xml#Gera" type="place">Gera</rs>, <rs ref="register.xml#Langendorf" type="place">Langendorf</rs>, 3 m<ex>eill</ex>. 
+                biß <rs ref="register.xml#Zeitz" type="place">Zeitz</rs>, 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1613-07-07"><note place="margin-left">73.</note> <head><date when="1613-07-07">den 7. Julÿ <c>☿</c>,</date></head><p>
+                biß <rs ref="register.xml#Zwenkau" type="place">Schwencke</rs> 3. m<ex>eill</ex>. biß <rs ref="register.xml#Leipzig" type="place">Leipziegk</rs>, 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1613-07-11"><note place="margin-left">77.</note> <head><date when="1613-07-11">den 11. Julÿ. <del rend="overstrike"><c>♃</c></del> <c>☉</c></date></head><p> 
+                biß über die Milde <rs ref="register.xml#Bad_Dueben" type="place">Dieben</rs> 4. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-07-12"><note place="margin-left">81.</note> <head><date when="1613-07-12">den 12 Julÿ. <c>☽</c>,</date></head><p>
+                biß <rs ref="register.xml#Wittenberg" type="place">Wittenberg</rs>. 4. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-07-13"><note place="margin-left">87</note> <head><date when="1613-07-13">den 13 Julÿ <c>♂</c></date></head><p>
+                biß <rs ref="register.xml#Treuenbrietzen" type="place">Trewen Pretzen</rs>, 4. m<ex>eill</ex>. biß <rs ref="register.xml#Beelitz" type="place">Belitz</rs> 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-07-14"><note place="margin-left">93.</note> <head><date when="1613-07-14">den 14 Julÿ <c>☿</c></date></head><p>
+                biß <rs ref="register.xml#Saarmund" type="place">Sarmondt</rs> 2. m<ex>eill</ex>. biß <rs ref="register.xml#Berlin" type="place">Berlin</rs>, 4. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-07-17"><note place="margin-left">97.</note> <head><date when="1613-07-17">den 17. Julÿ <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Bernau_bei_Berlin" type="place">Bernaw</rs> 3. m<ex>eill</ex>. biß
+                <rs ref="register.xml#Biesenthal" type="place">Bisenthal</rs>, 1. m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 4.</p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00095.jpg" n="46r"/>
+            
+            <div xml:id="E1613-07-19"><note place="margin-right">100.</note> <head><date when="1613-07-19">den 19 Julÿ <c>☽</c></date></head><p>
+                biß <rs ref="register.xml#Chorin" type="place">Carrin</rs>. 3. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-07-23"><note place="margin-right">102.</note> <head><date when="1613-07-23">den 23 Julÿ <c>♀</c></date></head><p>
+                biß <rs ref="register.xml#Wandlitz" type="place">Newendorf</rs>. 2. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-07-24"><note place="margin-right">112.</note> <head><date when="1613-07-24">den 24. Julÿ <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Schwedt_Oder" type="place">Schweeth</rs>, 
+                <rs ref="register.xml#Vierraden" type="place">veerRaden</rs>, 4. m<ex>eill</ex>. biß <rs ref="register.xml#Gartz" type="place">Gartze</rs>, <rs ref="register.xml#Stettin" type="place">Stetin</rs>, 6. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 10.</p></div>
+            
+            <div xml:id="E1613-08-05"><note place="margin-right"><subst><del>115</del><add>3</add></subst>.</note> <head><date when="1613-08-05">den 5. Augusti, <c>♃</c>,</date></head><p> biß <rs ref="register.xml#Podlesie_Friedrichswalde" type="place">FriedrichßWalde</rs>, 3. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-08-07"><note place="margin-right"><subst><del>#</del><add>5</add></subst>.</note><head><date when="1613-08-07">d<ex>e</ex>n 7. Aug<ex>usti</ex> <c>♄</c>,</date></head><p> <rs ref="register.xml#Colbatz_Kolbacz" type="place">Colbatz</rs>, 2. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-08-08"><head><date when="1613-08-08">den 8 Aug<ex>usti</ex> <c>☉</c></date></head><p> biß <rs ref="register.xml#Pyritz_Pyrzyce" type="place">Piritz</rs> 3. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-08-09"><note place="margin-right">13.</note> <head><date when="1613-08-09">den 9. Aug<ex>usti</ex>
+                <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Soldin_Mysliborz" type="place">Soldin</rs>. 3. m<ex>eill</ex>. biß <rs ref="register.xml#Neudamm_Debno" type="place">Dam</rs>, 
+                    3. m<ex>eill</ex>. biß <rs ref="register.xml#Kuestrin_Kostrzyn_nad_Odra" type="place">Cüstrin</rs>,
+                    2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8.</p></div>
+            
+            <div xml:id="E1613-08-11"><note place="margin-right">19.</note> <head><date when="1613-08-11">den 11. Aug<ex>usti</ex>
+                <c>☿</c></date></head><p> über 36 brücken, biß <rs ref="register.xml#Fuerstenwalde" type="place">Fürstenwalde</rs>, 6. meill.</p></div>
+            
+            <div xml:id="E1613-08-13"><note place="margin-right">21.</note> <head><date when="1613-08-13">den 13 Aug<ex>usti</ex>
+                <c>♀</c>,</date></head><p> biß <rs ref="register.xml#Storkow" type="place">Storke</rs>, 2. m<ex>eill</ex>.</p><note type="annotation">August markiert am Ende des Tageseintrages durch eine Linie einen längeren Aufenthalt</note></div>
+            
+            <div xml:id="E1613-08-24"><note place="margin-right">27.</note> <head><date when="1613-08-24">d<ex>e</ex>n 24 Aug<ex>usti</ex>
+                <c>♂</c>,</date></head><p> nachm <rs ref="register.xml#Koepenick_Berlin" type="place"><add place="above">Kepeneak</add></rs>
+                    <rs ref="register.xml#Berlin" type="place">Berlin</rs> 6. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-08-27"> <head><date when="1613-08-27">den 27 Aug<ex>usti</ex>
+                <c>♀</c></date></head><p> zu <rs ref="register.xml#Spandau_Berlin" type="place">SPandow</rs> gewesen: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> ist 2.
+                    meill. vom <rs ref="register.xml#Berlin" type="place">Berlin</rs>. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note>.</p></div>
+            
+            <div xml:id="E1613-08-29"><note place="margin-right">7.-</note> <head><date when="1613-08-29">den 29 Aug<ex>usti</ex> <c>☉</c></date></head><p> 
+                biß <rs ref="register.xml#Bernau_bei_Berlin" type="place">Bernaw</rs>, <rs ref="register.xml#Biesenthal" type="place">Bisenthall</rs>, 4.
+                m<ex>eill</ex>. biß <rs ref="register.xml#Chorin" type="place">Currin</rs> 3. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p></div>
+            
+            <div xml:id="E1613-08-30"><note place="margin-right">14.-</note> <head><date when="1613-08-30">d<ex>e</ex>n 30 Aug<ex>usti</ex>
+                <c>☽</c></date></head><p> biß <rs ref="register.xml#Angermuende" type="place">Tangermünde</rs>, 3. meill, biß
+                    <rs ref="register.xml#Vierraden" type="place">VeerRaden</rs>, 2. m<ex>eill</ex>. biß <rs ref="register.xml#Gartz" type="place">Gartze</rs>, 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p></div>
+            
+            <div xml:id="E1613-08-31"><note place="margin-right">18.-</note> <head><date when="1613-08-31">den 31. Aug<ex>usti</ex>
+                <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Stettin" type="place">Alten Stetin</rs>, 4. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-09-13"><head><date when="1613-09-13">den 13 7bris <c>☽</c></date></head><p> Auf <rs ref="register.xml#Goleniow_Gollnow" type="place">Goldenaw</rs>
+                gezogen.</p></div>
+            
+            <div xml:id="E1613-09-14"><head><date when="1613-09-14">den 14. 7bris <c>♂</c>,</date></head><p> biß
+                <rs ref="register.xml#Stepenitz_Stepnica" type="place">Stepenitz</rs>.</p></div>
+            
+            <div xml:id="E1613-09-21"><head><date when="1613-09-21">den 21. 7bris <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Stettin" type="place">Alten
+                Stetin</rs>. 7. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-10-08"><head><date when="1613-10-08">den 8. 8bris <c>♀</c>:</date></head><p> <seg>Spei Tagk</seg><note type="annotation">Tag der Hoffnung?</note> Ein
+                <w>Ringelrennen</w><note type="annotation">Tjost, Zweikampfspiel mit der Lanze zu Pferd</note> gehalten word<ex>en</ex> in d<ex>er</ex>
+                <unclear>Mascheror</unclear> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1613-10-23"><note place="margin-right">5.</note> <head><date when="1613-10-23">den 23 8bris <c>♄</c></date></head><p> biß <rs ref="register.xml#Loecknitz" type="place">LöKenitze</rs>, 3. m<ex>eill</ex>.
+                <rs ref="register.xml#Pasewalk" type="place">Pasewalck</rs> 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1613-10-24"><note place="margin-right">11.</note> <head><date when="1613-10-24">den 24. 8bris <c>☉</c></date></head><p> biß <rs ref="register.xml#Schoenhausen" type="place">Schönhausen</rs> dorff, 
+                3. m<ex>eill</ex>. biß <rs ref="register.xml#Burg_Stargard" type="place">Stargardt</rs> 3 m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00096.jpg" n="46v"/>
+            
+            <div xml:id="E1613-10-25"><note place="margin-left">16.</note> <head><date when="1613-10-25">den 25. 8bris <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Mirow" type="place">Miraw</rs>. 5. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-10-26"><note place="margin-left">22.</note> <head><date when="1613-10-26">den 26. 8bris. <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Massow" type="place">Massow</rs>, 
+                3. m<ex>eill</ex>. biß <rs ref="register.xml#Plate" type="place">Plage</rs> 3. m<ex>eill</ex>. 6. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-10-27"><note place="margin-left">28.</note> <head><date when="1613-10-27">den 27. 8bris <c>☿</c>,</date></head><p> 
+                biß <rs ref="register.xml#Parchim" type="place">Parchimb</rs>, 3. m<ex>eill</ex>. biß <rs ref="register.xml#Grabow" type="place">Grabow</rs> 3. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            
+            <div xml:id="E1613-10-28"><head><date when="1613-10-28">den 28. 8bris <c>♃</c></date></head><p> Stille
+                gelegen.</p></div>
+            
+            <div xml:id="E1613-10-29"><note place="margin-left">33</note> <head><date when="1613-10-29">den 29 8bris, <c>♀</c>,</date></head><p>
+                biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> 5 m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-11-25"><note place="margin-left">4</note> <head><date when="1613-11-25">den 25. 9bris <c>♃</c></date></head><p>
+                biß <rs ref="register.xml#Doemitz" type="place">Dömitz</rs>, <rs ref="register.xml#Oldenburg" type="place">Eldenburgk</rs>, <rs ref="register.xml#Lenzen" type="place">Lentzen</rs>, 4 m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-11-26"><note place="margin-left">9</note> <head><date when="1613-11-26">den 26 9bris <c>♀</c></date></head><p>
+                biß <rs ref="register.xml#Perleberg" type="place">Perlebergk</rs> 3. m<ex>eill</ex>. biß <rs ref="register.xml#Kletzke" type="place">Kleetzke</rs>, 2. m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5.</p></div>
+            
+            <div xml:id="E1613-11-27"><note place="margin-left">14 ½</note> <head><date when="1613-11-27">den 27. 9bris <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Gumtow" type="place">Grimtow</rs> dorff, 
+                <rs ref="register.xml#Kyritz" type="place">Kritz</rs> flecken, <rs ref="register.xml#Wusterhausen_Dosse" type="place">Wusterhausen</rs>, 4
+                m<ex>eill</ex>. biß <rs ref="register.xml#Garz" type="place">Gartze</rs>, 1 ½ m<ex>eill</ex>.
+                <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 5 ½ m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-11-28"><note place="margin-left">21</note> <head><date when="1613-11-28">d<ex>e</ex>n 28 9bris <c>☉</c></date></head><p> über die <rs ref="register.xml#Fehrbellin" type="place">Bellinische kehre</rs>, 1
+                ½ m<ex>eill</ex>, biß <rs ref="register.xml#Linum" type="place">Linum</rs> 1. m<ex>eill</ex> biß <rs ref="register.xml#Pausin" type="place">pausin</rs>
+                2. m<ex>eill</ex>. biß <rs ref="register.xml#Spandau_Berlin" type="place">Spandow</rs> 2 m<ex>eill</ex>. <foreign xml:lang="lat">facit</foreign><note type="translation" resp="as">ergibt</note> 6
+                ½ m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-11-29"><note place="margin-left">23</note> <head><date when="1613-11-29">d<ex>e</ex>n 29 9bris <c>☽</c></date></head><p> biß <rs ref="register.xml#Berlin" type="place">Berlin</rs> 2. m<ex>eill</ex>.</p></div>
+           
+            <div xml:id="E1613-11-30"><head><date when="1613-11-30">d<ex>e</ex>n 30 9bris <c>♂</c></date></head><p> biß <rs ref="register.xml#Biesenthal" type="place">Bisenthal</rs>l 4. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-12-01"><head><date when="1613-12-01">d<ex>e</ex>n 1. Xbris <c>☿</c>,</date></head><p> biß <rs ref="register.xml#Neugrimnitz" type="place">Grimmenitz</rs>, 3. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-12-13"><head><date when="1613-12-13">d<ex>e</ex>n 13 Xbris <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Chorin" type="place">Carrin</rs>. 2. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-12-14"><head><date when="1613-12-14">d<ex>e</ex>n 14 Xbris <c>♂</c></date></head><p> biß <rs ref="register.xml#Wandlitz" type="place">Newendorf</rs> 1 ½ m<ex>eill</ex>, biß <rs ref="register.xml#Chorin" type="place">Carrin</rs> 2. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1613-12-15"><head><date when="1613-12-15">d<ex>e</ex>n 15 Xbris <c>☿</c></date></head><p> biß <rs ref="register.xml#Schwanebeck" type="place">Schönbecke</rs> 2. m<ex>eill</ex>. </p></div>
+            
+            <div xml:id="E1613-12-17"><head><date when="1613-12-17">d<ex>e</ex>n 17 Xbris <c>♀</c></date></head><p> biß <rs ref="register.xml#Berlin" type="place">Berlin</rs> 6 m<ex>eill</ex>. </p></div>     
+        </body>
+    </text>
+</TEI>

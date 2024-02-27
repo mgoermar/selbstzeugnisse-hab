@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="statisch">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="statisch" xml:id="edition.diarium.xml">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title> Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666):
                     Ephemerides. Sive Diarium (1594-1635)</title>
-                <principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna
-                    Ralle</principal>
                 <funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für
                     Wissenschaft und Kultur</funder>
+                <respStmt>
+                    <name ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</name>
+                    <resp>Herausgegeben und bearbeitet von</resp>
+                </respStmt>
                 <respStmt>
                     <name>Jacqueline Krone</name>
                     <resp>Metadaten, Recherche und Korrektur</resp>
@@ -37,8 +39,48 @@
     </teiHeader>
     <text>
         <group>
-            <head>Ephemerides. Sive Diarium (1594-1635)</head>
-            <xi:include href="1594.xml" xpointer="element(/1/2)"/>
+            <head>Reisetagebuch Augusts II.</head>
+            <xi:include href="front.xml"/>
+            <xi:include href="1594.xml"/>
+            <xi:include href="1595.xml"/>
+            <xi:include href="1596.xml"/>
+            <xi:include href="1597.xml"/>
+            <xi:include href="1598.xml"/>
+            <xi:include href="1599.xml"/>
+            <xi:include href="1600.xml"/>
+            <xi:include href="1601.xml"/>
+            <xi:include href="1602.xml"/>
+            <xi:include href="1603.xml"/>
+            <xi:include href="1604.xml"/>
+            <xi:include href="1605.xml"/>
+            <xi:include href="1606.xml"/>
+            <xi:include href="1607.xml"/>
+            <xi:include href="1608.xml"/>
+            <xi:include href="1609.xml"/>
+            <xi:include href="1610.xml"/>
+            <xi:include href="1611.xml"/>
+            <xi:include href="1612.xml"/>
+            <xi:include href="1613.xml"/>
+            <xi:include href="1614.xml"/>
+            <xi:include href="1615.xml"/>
+            <xi:include href="1618.xml"/>
+            <xi:include href="1619.xml"/>
+            <xi:include href="1620.xml"/>
+            <xi:include href="1621.xml"/>
+            <xi:include href="1622.xml"/>
+            <xi:include href="1623.xml"/>
+            <xi:include href="1624.xml"/>
+            <xi:include href="1625.xml"/>
+            <xi:include href="1626.xml"/>
+            <xi:include href="1627.xml"/>
+            <xi:include href="1628.xml"/>
+            <xi:include href="1629.xml"/>
+            <xi:include href="1630.xml"/>
+            <xi:include href="1632.xml"/>
+            <xi:include href="1633.xml"/>
+            <xi:include href="1634.xml"/>
+            <xi:include href="1635.xml"/>
+            <!--<xi:include href="1594.xml" xpointer="element(/1/2)"/>
             <xi:include href="1595.xml" xpointer="element(/1/2)"/>
             <xi:include href="1596.xml" xpointer="element(/1/2)"/>
             <xi:include href="1597.xml" xpointer="element(/1/2)"/>
@@ -76,7 +118,7 @@
             <xi:include href="1632.xml" xpointer="element(/1/2)"/>
             <xi:include href="1633.xml" xpointer="element(/1/2)"/>
             <xi:include href="1634.xml" xpointer="element(/1/2)"/>
-            <xi:include href="1635.xml" xpointer="element(/1/2)"/>
+            <xi:include href="1635.xml" xpointer="element(/1/2)"/>-->
         </group>
     </text>
 </TEI>

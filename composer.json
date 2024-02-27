@@ -5,8 +5,10 @@
         }
     },
     "require": {
+        "ext-openssl": "*",
+        "ext-xsl": "*",
         "silex/silex": "^2.0",
-        "hab/solr": "dev-master",
+        "hab/solr": "dev-master#ef528a52d57493ad2ae575037e42442075135f62",
         "hab/paginator": "dev-master",
         "twig/twig": "~1.0",
         "symfony/twig-bridge": "^3.2"
@@ -14,11 +16,11 @@
     "repositories": [
         {
             "type": "git",
-            "url":  "git@github.com:dmj/php-solr.git"
+            "url":  "https://git.hab.de/dmj/php-solr.git"
         },
         {
             "type": "git",
-            "url":  "git@github.com:dmj/php-paginator.git"
+            "url":  "https://git.hab.de/dmj/php-paginator.git"
         }
     ]
 }

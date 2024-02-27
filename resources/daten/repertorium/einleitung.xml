@@ -22,16 +22,29 @@
     <text>
         <body>
             <div>
-                <head>Digitales Selbstzeugnis-Repertorium</head>
-                <p>Das Selbstzeugnis-Repertorium ermöglicht die Auffindbarkeit der frühneuzeitlichen Selbstzeugnisse im Handschriftenbestand der Herzog August Bibliothek. Das digitale Findmittel bietet eine systematische Verzeichnung und neue Beschreibung der Texte. Grundlage dafür sind die gedruckt vorliegenden Kataloge der Handschriftengruppen: Augusteer, Blankenburger, Extravagantes, Helmstedter, Novi, Novissimi, Weißenburger. Einige Teile des Handschriftenbestandes werden in anderen Projekten der Herzog August Bibliothek bearbeitet und hier nicht noch einmal berücksichtigt. Dazu gehören die Handschriften <ref target="http://diglib.hab.de/?link=044">Marquard Gudes</ref> und <ref target="http://diglib.hab.de/?link=078">Phillip Hainhofers</ref>.</p>
-                <p>Alle aufgenommenen Selbstzeugnisse wurden autoptisch untersucht und ein Repertoriumseintrag pro Text erstellt. Codex und Selbstzeugnis sind nicht immer deckungsgleich, da sich in einer Handschrift mehrere Selbstzeugnisse befinden können oder sich ein Selbstzeugnis über mehrere Handschriften erstrecken kann. Zusätzlich zu den inhaltlichen Beschreibungen der Selbstzeugnisse wurden die äußeren Merkmale jeder Handschrift geprüft und in die Einträge aufgenommen.</p>
-                <p>Für das Repertorium ist die Definition von Selbstzeugnis relativ weit gefasst. Folgende Kriterien wurden für die Aufnahme der Texte als Selbstzeugnisse in das Repertorium herangezogen. Es ist dabei jedoch nicht notwendig, dass ein Text alle Kriterien gleichzeitig erfüllt:</p>
-                <p>- Inhalt: der/die Verfasser/in und sein/ihr Leben sind Gegenstand des Textes, er/sie nimmt explizit darauf Bezug</p>
-                <p>- Überlieferung: Autograph, „mit eigener Hand“, Ich-Form</p> 
-                <p>- Intention des/der Verfassers/in: kein äußerer Antrieb erzwingt das Schreiben, der Text entsteht nicht in einem institutionellen Rahmen; Freiwilligkeit</p>                              
-                <p>Die Darstellung des Repertoriums erfolgt in der <ref target="http://selbstzeugnisse.hab.de/repertorium/suche/">Hauptansicht</ref> als chronologische Liste der Entstehungszeit. Die Suche wird in Form einer textsortenübergreifenden Recherche mit Hilfe von Filtern und einer Volltextsuche ermöglicht. Die folgenden Kategorien bilden das Schema für die Einträge im Repertorium und sind zugleich die genannten Suchfilter: Aufbewahrungsort, Beigaben/Besonderheiten, Berichtszeitraum, Beschreibstoff, Bibliographische Verweise, Einband, Entstehungsort, Entstehungszeit, Illustrationen, Inhalt, Maße des Buchblocks, Provenienz, Sachtitel, Seitenaufbau, Seitenzählung, Signatur, Sprache, Textart, Titel in Vorlageform, Überlieferungsart, Umfang, Verfasser.</p>
-                <p>Die gewählten Textsortenbegriffe sind modern und können mehrere Textformen von frühneuzeitlichen Benennungen enthalten. Unter dem Textsortenfilter Tagebuch sind beispielsweise auch Diarien und Ephemeriden verzeichnet.</p>
-             </div>
+            <head>Digitales Selbstzeugnis-Repertorium</head>
+                <div>
+                    <head>Zielstellung</head>
+                    <p> In der Forschungsliteratur wird das Problem der Auffindbarkeit von Selbstzeugnissen in Institutionen mit 
+                    Handschriftenbeständen immer wieder herausgestrichen. Das Selbstzeugnis-Repertorium begegnet diesem Defizit, indem es sich                     
+                    als Hilfsmittel zur Recherche versteht und darüber hinaus einen ersten inhaltlichen Überblick zu dem 
+                    jeweiligen Selbstzeugnis der Herzog August Bibliothek (HAB) bietet. Für das digitale Selbstzeugnis-Repertorium wurden, 
+                    ausgehend von den gedruckten Bibliothekskatalogen, die handschriftlichen Selbstzeugnisse der HAB identifiziert, 
+                    autoptisch untersucht und in dem hier vorliegenden erweiterbaren Recherchesystem zur Verfügung gestellt.
+                    </p>
+                </div>
+                <div>
+                    <head>Hinweise zur Benutzung</head>
+                    <p>Das Selbstzeugnis-Repertorium ermöglicht die Auffindbarkeit der frühneuzeitlichen Selbstzeugnisse im Handschriftenbestand der Herzog August Bibliothek. Das digitale Findmittel bietet eine systematische Verzeichnung und neue Beschreibung der Texte. Grundlage dafür sind die gedruckt vorliegenden Kataloge der Handschriftengruppen: Augusteer, Blankenburger, Extravagantes, Helmstedter, Novi, Novissimi, Weißenburger. Einige Teile des Handschriftenbestandes werden in anderen Projekten der Herzog August Bibliothek bearbeitet und hier nicht noch einmal berücksichtigt. Dazu gehören die Handschriften <ref target="http://diglib.hab.de/?link=044">Marquard Gudes</ref> und <ref target="http://diglib.hab.de/?link=078">Phillip Hainhofers</ref>.</p>
+                    <p>Alle aufgenommenen Selbstzeugnisse wurden autoptisch untersucht und ein Repertoriumseintrag pro Text erstellt. Codex und Selbstzeugnis sind nicht immer deckungsgleich, da sich in einer Handschrift mehrere Selbstzeugnisse befinden können oder sich ein Selbstzeugnis über mehrere Handschriften erstrecken kann. Zusätzlich zu den inhaltlichen Beschreibungen der Selbstzeugnisse wurden die äußeren Merkmale jeder Handschrift geprüft und in die Einträge aufgenommen.</p>
+                    <p>Für das Repertorium ist die Definition von Selbstzeugnis relativ weit gefasst. Folgende Kriterien wurden für die Aufnahme der Texte als Selbstzeugnisse in das Repertorium herangezogen. Es ist dabei jedoch nicht notwendig, dass ein Text alle Kriterien gleichzeitig erfüllt:</p>
+                    <p>- Inhalt: der/die Verfasser/in und sein/ihr Leben sind Gegenstand des Textes, er/sie nimmt explizit darauf Bezug</p>
+                    <p>- Überlieferung: Autograph, „mit eigener Hand“, Ich-Form</p> 
+                    <p>- Intention des/der Verfassers/in: kein äußerer Antrieb erzwingt das Schreiben, der Text entsteht nicht in einem institutionellen Rahmen; Freiwilligkeit</p>
+                    <p>Die Darstellung des Repertoriums erfolgt in der <ref target="http://selbstzeugnisse.hab.de/repertorium/suche/">Hauptansicht</ref> als chronologische Liste der Entstehungszeit. Die Suche wird in Form einer textsortenübergreifenden Recherche mit Hilfe von Filtern und einer Volltextsuche ermöglicht. Die folgenden Kategorien bilden das Schema für die Einträge im Repertorium und sind zugleich die genannten Suchfilter: Aufbewahrungsort, Beigaben/Besonderheiten, Berichtszeitraum, Beschreibstoff, Bibliographische Verweise, Einband, Entstehungsort, Entstehungszeit, Illustrationen, Inhalt, Maße des Buchblocks, Provenienz, Sachtitel, Seitenaufbau, Seitenzählung, Signatur, Sprache, Textart, Titel in Vorlageform, Überlieferungsart, Umfang, Verfasser.</p>
+                    <p>Die gewählten Textsortenbegriffe sind modern und können mehrere Textformen von frühneuzeitlichen Benennungen enthalten. Unter dem Textsortenfilter Tagebuch sind beispielsweise auch Diarien und Ephemeriden verzeichnet.</p>
+                </div>
+            </div>
         </body>
     </text>
 </TEI>

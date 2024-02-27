@@ -12,8 +12,8 @@
             <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00105.jpg" n="51r">Anno 1624</head></div>
             
             <div xml:id="E1624-03-05"><head><date when="1624-03-05">den 5. Martÿ, <c>♀</c></date></head><p> ist zu <rs ref="register.xml#Luechow" type="place">Lüchow</rs>,
-                d<ex>a</ex>z <seg>M. S. C.</seg><note type="annotation">mandatum sine clausula, der unbedingte Befehl, bei welchem dem Beklagten ohne Weiteres die Erfüllung seiner Verbindlichkeit aufgegeben wird</note> <w>insinuiret</w><note type="annotation">unterstellen, durchblicken lassen</note> word<ex>e</ex>n,
-                durch <unclear>N. und Z.z</unclear> <c type="accent">x</c><note type="annotation">Betonungszeichen</note></p></div>
+                d<ex>a</ex>z <foreign xml:lang="lat">M<ex>andatum</ex> S<ex>ine</ex> C<ex>lausula</ex></foreign><note type="translation" resp="mg">Befehl ohne Bedingung</note> insinuiret<note type="footnote" resp="mg">Hier: zustellen, bekanntmachen.</note> word<ex>e</ex>n,
+                durch N. und Z.Z.<note type="footnote" resp="mg">Abkürzungen nicht auflösbar.</note> <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
                    </body>
     </text>
 </TEI>

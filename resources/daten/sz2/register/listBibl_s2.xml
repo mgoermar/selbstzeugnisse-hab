@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sz2.register.literatur">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliographie</title>
+            <respStmt>
+               <resp>erstellt und bearbeitet von </resp>
+               <name>Alexander Zirr</name>
+               <name>Andreas Herz</name>
+               <name>Jan-Hendrik Hütten</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+               <ptr target="http://www.hab.de"/>
+               <address>
+                  <street>Lessingplatz 1</street>
+                  <name type="city">Wolfenbüttel</name>
+                  <postCode>D-38299</postCode>
+                  <name type="country">Germany</name>
+               </address>
+            </publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>   
+   <text>
+      <body>
+         <listBibl xml:id="bibliographie">
+            <bibl xml:id="acta_zwischen_churfuerst_und_donauwoerth">Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Niederlag, Bey Hochlöbl. Reichs-Convent, in deß auch Heil. Reichs Stadt Regenspurg von Anno 1710. 1711 und 1712 ventiliret worden.
+               <ptr type="gvk" cRef="774113898"/>
+            </bibl>
+            <bibl xml:id="abbadie_lart_de_se">Abbadie, Jacques: L&#x27;Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale / Par Jaques Abbadie Docteur en Theologie. Rotterdam: Slaart, 1692.
+               <ptr type="opac" cRef="150211236"/>
+            </bibl>
+            <bibl xml:id="abelly_consideration_sur_leternite">Abelly, Louis: Consid&#xE9;ration sur l&#x27;&#xE9;ternit&#xE9;. Brusselles: de Backer, 1710.
+               <ptr type="gvk" cRef="146978870"/>
+            </bibl>
+            <bibl xml:id="afflitto_decisiones">Matteo d'Afflitto: Decisionvm Sacri Regii Neapolitani Consilii [...] Centuriae Quatuor. Frankfurt: Feyerabend, 1600. <ptr type="gvk" cRef="568107330"/></bibl>
+            <bibl xml:id="althamer_commentaria">Althamer, Andreas: Andre&#xE6; Althameri Commentaria: In P. Cornelii Taciti equitis Romani libellum De Situ, Moribus Et Populis Germani&#xE6;. Ambergae: Forster, 1609.
+               <ptr type="opac" cRef="394766091"/>
+            </bibl>
+            <bibl xml:id="anon_les_eaux_d_aix">Anonym: Les eaux d'Aix: nouvelle divertissante; Du Mois de May 1701. Köln: Marteau, 1701.
+               <ptr type="opac" cRef="180849395"/>
+            </bibl>
+            <bibl xml:id="arbiter_manuscriptum">Petrone Latin Et Fran&#xE7;ois: Traduction Entiere, Suivant Le Manuscrit Trouv&#xE9; A Belgrade en 1688. Avec plusieurs Remarques &amp; Additions, qui manquent dans la premiere Edition, 1709.
+               <ptr type="gvk" cRef="231060319"/>
+            </bibl>
+            <bibl xml:id="aulnoy_histoire_dhypolite">Aulnoy, Marie Catherine le Jumel de Barneville: Histoire D&#x27;Hypolite, Comte de Duglas. Brusselle: de Backer, 1708.
+               <ptr type="gvk" cRef="237690055"/>
+            </bibl>
+            <bibl xml:id="aulnoy_le_nouveau_gentilhomme_bourgeois">Aulnoy, Marie Catherine le Jumel de Barneville, Bnne d&#x27; (Madame D...): Le nouveau Gentilhomme bourgeois ou les f&#xE9;es &#xE0; la mode. Amsterdam: Roger, 1711.
+               <ptr type="opac" cRef="151681449"/>
+            </bibl>
+            <bibl xml:id="baldus_in_usus_feudorum">Baldus de Ubaldis: In vsvs fevdorum commentaria doctissima. Turin: Bevilaqua, 1578. <ptr type="gvk" cRef="265419409"/></bibl>
+            <bibl xml:id="baldus_in_codicis_libros_1">Baldus de Ubaldis: Omnium ... In I. II. et III. Codicis libros Commentaria. Venedig: Iuntas, 1615. <ptr type="gvk" cRef="236632620"/></bibl>
+            <bibl xml:id="barbier_dictionnaire">Barbier d'Aucour, Jean: Le Dictionaire de L&#x27;Acad&#xE9;mie Fran&#xC7;oise. Tome premiere, A-L. [Tome second, M-Z]. Paris: Coignard, 1694.
+               <ptr type="opac" cRef="136068626"/>
+            </bibl>
+            <bibl xml:id="barclay_argenis_deutsch">Barclay, John; August Bohse (Übersetzer): Die Durchlauchtigste Argenis in einer von den vortrefflichsten Staats-Romanen dieser und voriger Zeiten von dem berühmten Jo. Barclajo in Lateinischer Sprache beschrieben, und aus solcher in unsre Hochteutsche mit Fleiß übersetzet von Talandern. Leipzig: Gleditsch, 1701.
+               <ptr type="opac" cRef="150896336"/>
+               <!--<note>Das Exemplar: Li 231 der Herzog August Bibliothek in zeitgenössischem hellen Schweinsledereinband und der gedruckten Rückenbeschriftung "TALANDERS ARGENIS" trägt das Exlibris Herzog Ludwig Rudolphs, darunter eingeklebt die gedruckte Ziffer "27.". Auf dem Vorsatzblatt die handschriftlichen Einträge "27.", "27.", auf der Rückseite "<del>15</del>". Gelegentliche Bleistiftanstreichungen am Rand, wohl von späterer Hand (S. 14, 16, 37, 43 u. ö.).</note>-->
+            </bibl>
+            <bibl xml:id="basnage_histoire_des_juifs">Basnage de Beauval, Jacques: L&#x27;Histoire [et la religion] des Juifs, r&#xE9;clam&#xE9;e et retablie par son v&#xE9;ritable auteur Mr. Basnage, contre l&#x27;Edition anonyme et tronqu&#xE9;e, qui s&#x27;en est faite &#xE0; Paris chez Roulland, 1710. Avec plusieurs Addition, pour servir de VI. TOME &#xE0; cette Histoire. Rotterdam: Fritsch &amp; Böhm, 1711.
+               <ptr type="opac" cRef="150600720"/>
+            </bibl>
+            <bibl xml:id="basnage_histoire_du_vieux_et_nouveau">Basnage de Beauval, Jacques: Histoire du Vieux et du Nouveau Testament: enrichi de Figures ... etc. Amsterdam: Pierre Mortier, 1706.
+               <ptr type="gvk" cRef="14680340X"/>
+            </bibl>
+            <bibl xml:id="basnage_la_communion">Basnage de Beauval, Jacques: La Communion Sainte, Ou Trait&#xE9; sur la necessit&#xE9; &amp; les moyens de communier dignement. 8. ed. Rotterdam: Acher, 1711.
+               <ptr type="gvk" cRef="829182470"/>
+            </bibl>
+            <bibl xml:id="baudot_germaine_de_foix">Baudot de Juilly, Nicolas: Germaine de Foix, Reine d&#x27;Espagne. Nouvelle Historique. Amsterdam: Henry, 1800 [=1701].
+               <ptr type="opac" cRef="150260849"/><!--<note>Das einzige Exemplar der Herzog August Bibliothek: Lm 295 trägt auf der Innenseite des Vorderdeckels das gedruckte Exlibris Herzog Ludwig Rudolphs. Die sonst übliche darunter eingeklebte gedruckte Nummer fehlt. Auf dem Vorsatzblatt der handschriftliche Eintrag: "133. Nic. Baudot de Juilly." </note>-->
+            </bibl>
+            <bibl xml:id="baudrand_geographia">Baudrand, Michel-Antoine: Geographia ordine litterarum disposita. Paris: Michalet, 1681-1682.
+               <ptr type="opac" cRef="150019556"/>
+            </bibl>
+            <bibl xml:id="bekker_le_monde">Bekker, Balthasar: Le Monde Enchant&#xE9; Ou Examen des communs sentimens touchant les Esprits, leur nature, leur pouvoir, leur administration, &amp; leurs op&#xE9;rations ...: Divis&#xE9; en quatre Parties; Traduit de l&#x27;Hollandois/ Par Balthasar Bekker, Docteur en Th&#xE9;ologie, &amp; Pasteur &#xE0; Amsterdam. Amsterdam: Rotterdam, 1694.
+               <ptr type="gvk" cRef="147204798"/>
+            </bibl>
+            <bibl xml:id="bentivoglio_opere">Bentivoglio, Guido: Opere: Nuov. Racc. insieme/ del Cardinal Bentivoglio. PARIGI: Redelichuysen, 1645.
+               <ptr type="opac" cRef="150035462"/> <!--<note>HAB: Gp 2° 5. Laut eingeklebtem gedruckten Exlibris im Vorderinnendeckel stammt dieses Exemplar aus der Bibliothek Herzog Ludwig Rudolphs; keine Benutzungsspuren. Zweites Exemplar im Augusteer-Bestand der HAB: 21 Quod. 2° (1).</note>-->
+            </bibl>
+            <bibl xml:id="bero_consilia">Agostino Bero: Consiliorvm Sive Responsorvm [...] Volumen Tertium. Venedig: Zilettus, 1577. <ptr type="gvk" cRef="240251121"/></bibl>
+            <bibl xml:id="bestand_der_wuerde">Bestand der Würde und Krohn des Königreichs Preussen [... den 13. Decembris, 1700]. 1701.
+               <ptr type="opac" cRef="150051360"/>
+            </bibl>
+            <bibl xml:id="besold_thesaurus">Christoph Besold: Thesaurus Practicus [...], 2. Aufl., Nürnberg 1643. 
+               <ptr type="gvk" cRef="536052689"/>
+            </bibl>
+            <bibl xml:id="boethius_consolatione_deutsch">Anicius Manlius Severinus Boethius: Des Fürtrefflichen Hochweisen Herrn Severini Boetii Weil. Bürgermeisters zu Rom Consolatio Philosophiae, Oder Christlich-vernunfft-gemesser Trost und Unterricht/ in Widerwertigkeit und Bestürtzung über dem vermeinten Wohl- oder Ubel-Stand der Bösen und Frommen: Verteutschet, und Mit beygefügten kurtzen Anmerckungen über etliche dunckele Ort desselben. Lüneburg: Lipper, 1697.
+               <ptr type="opac" cRef="536109648"/>
+            </bibl>
+            <bibl xml:id="biblia_en_espanol">La Biblia : Qu es, Los sacros libros del Vieio y Nuevo Testamento. Basel: Aubrius &amp; Schleich, 1622.
+               <ptr type="opac" cRef="151756295"/><!--In VD17 (VD17 23:672868V), dass diese Exlibris von Ludwig Rudolph enthält-->
+            </bibl>            
+            <bibl xml:id="caffa_lunico_mezzo">Caffa, Karl: L&#x27;Unico Mezzo, Che ci f&#xE0; trovar la felicit&#xE0; in questo Mondo ...: con brevit&#xE0; e Chiarezza si dimostra nel presente libretto, in todesco, francese, &amp; italiano/ Da Carlo Caffa D. di T. e PP. delle II. Italien. &amp; Franc. in Gena. Jena: Gollner, 1685.
+               <ptr type="gvk" cRef="53590570X"/>
+            </bibl>
+            <bibl xml:id="capel_von_suendlichen_versuchungen_1_2">Capel, Richard: Richard Capel's, Weyland Berühmten Engelländischen Theologi, Geistreicher Tractat Von Sündlichen Versuchungen/ Worinne Ihre Gefahr Natur/ und Cur gezeiget wird/ Anitzo Zur Beförderung des wahren Christenthums aus dem Engelländischen ins Hoch-Teutsche übersetzet Durch M. G. K. [Erster und Zweiter Theil]. Aschersleben; Quedlinburg: Struntz, 1701.
+               <ptr type="opac" cRef="150892969"/>
+            </bibl>
+            <bibl xml:id="capel_von_suendlichen_versuchungen_3_4">Capel, Richard: Richard Capel's, Weyland Berühmten Engelländischen Theologi, Geistreicher Tractat Von Sündlichen Versuchungen/ Worinne Ihre Gefahr Natur/ und Cur gezeiget wird/ Anitzo Zur Beförderung des wahren Christenthums aus dem Engelländischen ins Hoch-Teutsche übersetzet Durch M. G. K. [Dritter und Vierdter Theil]. Aschersleben; Quedlinburg: Struntz, 1701.
+               <ptr type="opac" cRef="150892977"/>
+            </bibl>
+            <bibl xml:id="chappuzeau_jetztlebendes">Chappuzeau, Samuel: Jetztlebendes Europa, Oder Neue Historische und Politische Erzehlung aller seiner Stände, wie solche gegen dem Ende deß Jahrs 1666. ihr Wesen gehabt: In unterschiedlichen Tafeln repr&#xE6;sentirt, Darinnen .. von den Universitäten und berühmten Bibliothecen ... und von allen berühmten Leuten in jeder Profession; Benebens einer Zusammenstellung Der denckwürdigsten Sachen die sich nach dem allgemeinen Friedensschluß in Europa zugetragen .../. Franckfurt am Mayn: Schiele, 1670-1672.  
+               <ptr type="opac" cRef="151871949"/>
+            </bibl>
+            <bibl xml:id="chastenet_memoires">Chastenet de Puységur, Jacques de: Les Mémoires De Messire Jacques De Chastenet, Chevalier Seigneur de Puysegur, Colonel du Régiment de Piedmont, &amp; Lieutenant General des Armees du Roy. Sous les Renes de Louis XIII. &amp; de Louis XIV. Donnez au Public par M. Du Chesne, Conseiller du Roy en ses Conseils, Historiographe de France. Avec Instructions Militaires. Amsterdam: Wolfgang, 1690.  
+               <ptr type="opac" cRef="151693358"/>
+               <!-- HAB: Lm 758f; Ausg. Paris 1690: Lm 758h-->
+            </bibl>
+            <bibl xml:id="conjectures_sur_le_conclave_innocent_xii.">Conjetures sur  le conclave présentement assemblé pour nommer un successeur à Innocent XII. Osnabrück: Le Franc, 1700.
+               <ptr type="opac" cRef="150894694"/><!--<note>Das Exemplar Tq 257 in der Herzog August Bibliothek trägt auf der Innenseite des Vorderdeckels das gedruckte Exlibris Herzog Ludwig Rudolphs, darunter die handschriftliche Ziffer "89". Auf dem Vorsaztzblatt die hsl. Einträge "<del>126.</del>", "17. 89" und "<del>47</del>". Keine Lesespuren.</note>-->
+            </bibl>
+            <bibl xml:id="cotolendi_arliquiniana">Carlo Cotolendi: Arliquiniana Ou Les Bons Mots, Les Histoires Plaisantes &amp; Agréables. Recueillies Des Conversations D'Arlequin. Paris: DeLaulne et Brunet, 1694.
+               <ptr type="opac" cRef="150283423"/><!--<note>Das Exemplar Lm 879 (1) der HAB mit der gedruckten Rückenbeschriftng "ARLIQUINIANA" trägt das gedruckte Exlibris Herzog Ludwig Rudolphs, darunter eingeklebt die gedruckte Ziffer "311." Handschriftlicher Eintrag auf dem ersten Vorsatzblatt: "<del>272</del>. 203", auf dem zweiten: "<del>166. 177</del>". Gelegentliche Bleistiftanstreichungen am Rand, wohl von späterer Hand (S. 22, 24, 25, 74, 141 u. ö.). Im Band schließt sich Angelo Constantinis LA VIE DE SCARAMOUCHE, Paris 1695, an (Lm 879[2]).</note>-->
+            </bibl>
+            <bibl xml:id="courtilz-sandras_annales_1">Courtiz de Sandras, Gatien de: Annales de la cour et de Paris pour les années 1697 et 1698. Tome 1. Cologne [=Den Haag]: Marteau, 1701.
+               <ptr type="opac" cRef="138848939"/>  <!-- HAB:  Gk 1813 und GK 1814=Ex. Bibl. Hzn. Philippine Charlotte -->
+            </bibl>
+            <bibl xml:id="courtilz-sandras_annales_2">Courtiz de Sandras, Gatien de: Annales de la cour et de Paris pour les années 1697 et 1698. Tome 2. Cologne [=Den Haag]: Marteau, 1701.
+                <ptr type="opac" cRef="183254740"/> <!-- HAB:  Gk 1813 und GK 1814=Ex. Bibl. Hzn. Philippine Charlotte -->
+            </bibl>
+            <bibl xml:id="courtilz-sandras_memoires_madame_fresne">Courtilz de Sandras, Gatien de: Mémoires De Madame La Marquise De Frêne: Enrichis de figures. Amsterdam: Malherbe, 1701.
+               <ptr type="gvk" cRef="213358913"/>
+            </bibl>
+            <bibl xml:id="courtin_nouveau_traite">Courtin, Antoine: Nouveau Trait&#xE9; De La Civilit&#xE9; Qui se Pratique En France Parmi Les Honnestes Gens. Nouvelle Edition, rev&#x00FB;e, corrig&#xE9;e, &amp; augment&#xE9;e par l&#x27;Auteur. Amsterdam: Schelte, 1708.
+               <ptr type="opac" cRef="150292511"/>
+            </bibl>
+            <bibl xml:id="crebillon_oeuvres">Cr&#xE9;billon, Prosper Jolyot de: Les Oeuvres. La Haye: Johnson, 1711-1712.
+               <ptr type="opac" cRef="151704813"/>
+            </bibl>
+            <bibl xml:id="cumberland_de_legibus">Cumberland, Richard: De Legibus Naturae Disquisitio Philosophica: In qua Earum Forma, Summa Capita, Ordo, Promulgatio, &amp; Obligatio e rerum Natura investigantur; Quin Etiam Elementa Philosophiae Hobbianae, Cum Moralis tum Civilis, considerantur &amp; refutantur/ ... Editio Secunda. Lubecae; Francofurti: Otto; Wiedemeyerus, 1683.
+               <ptr type="opac" cRef="092049966"/>
+            </bibl>
+            <bibl xml:id="curioser_staats-discurs">Curioser Staats-Discurs Nebst Einiger politischer Erleuterung über von ihrer Königl. Majestät Von Groß-Britannien [et]c. [et]c. An das Hochlöbliche Röm. Reichs-Convent zu Regenspurg Abgeschickten Ermahnungs-Brieff, Von nachdrücklichen Inhalt wegen Fortsetzung des Krieges wider die Cron Franckreich als allgemeinen Reichs-Feindt. 1710.
+               <ptr type="gvk" cRef="230832458"/>
+            </bibl>
+            <bibl xml:id="das_grosse_dessein_des_louis_von_baaden">Das grosse Dessein des Louis von Baaden. Welches Er An seinem Sterbe-Tage den 4 Januarii dieses 1707 Jahres glücklich hinaus geführt: in einer Patentation gezeiget von einem am Rheinstrom wohnenden Teutschen. Rastatt, 1707.
+               <ptr type="opac" cRef="172439329"/>
+            </bibl>
+            <bibl xml:id="democritus_und_heraclytus">Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich. Ca. 1705.
+               <ptr type="gvk" cRef="230360122"/>
+            </bibl>
+            <bibl xml:id="democritus_continuiret_seine_conference">Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich. Ca. 1705.
+               <ptr type="gvk" cRef="139565906"/>
+            </bibl>
+            <bibl xml:id="denis_memoires_anecdotes_de_la_cour">Denis, Jean Baptiste: Memoires Anecdotes De La Cour Et Du Clerg&#xE9; de France; avec L&#x27;Histoire du Diff&#xE9;rend du Cardinal de Noailles avec les Ev&#xEA;ques de Lu&#xE7;on &#x26; de la Rochelle, &#x26; les Jesuites. Londres, 1712.
+               <ptr type="opac" cRef="14765842X"/>
+            </bibl>
+            <bibl xml:id="des_bischoffs_von_muenster">Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich. Ca. 1704.
+               <ptr type="gvk" cRef="322893992"/>
+            </bibl>
+            <bibl xml:id="die_veritable_kunst_zu_leben">Die veritable Kunst zu Leben in XIV. Abtheilungen kurtz und nachdrücklich vorgestellet. Lüneburg: Lipper 1712.
+               <ptr type="bvb" cRef="BV011829964"/>
+            </bibl>
+            <bibl xml:id="dilherr_hohe_schul">Dilherr, Johann Michael: Hohe Schul des Höchsten Lehrers und seiner Schüler. Das ist: Christliche Anweisung/ zu Gottseeliger Betrachtung Des Lebens/ und der Lehre Jesu Christi/ und Seiner lieben Apostel/ und Evangelisten: Derer Bildnissen/ in schönen Kupferstichen/ mit sind beigefügt ... Nürnberg: Fürst, 1663.  
+               <ptr type="opac" cRef="092255698"/>
+               <!-- Einziges Ex. der HAB: 519.28 Theol. -->
+            </bibl>
+            <bibl xml:id="dilherr_prophetenschul">Dilherr, Johann Michael: Propheten Schul: Das ist, Christliche Anweisung, zu Gottseliger Betrachtung Des Lebens und der Lehre Heiliger Propheten Altes Testaments, derer Bildnußen ... mit sind beygefüget; Allerlei StandsPersonen erbaulich zu lesen. Nürnberg: Fürst, 1662.  
+               <ptr type="opac" cRef="150903367"/><!--<note>In der HAB: 519.27 Theol. und Tc 128. Letzteres Exemplar im Vorderinneneckel eingeklebtes gedrucktes Exlibris, lat.-dt.: Kloster zur Ehre Gottes "Sallisvallensis" (Salzdahlum), "IN BIBLIOTHECAM AUGSTAM RELATIS ANNO MDCCCLVII", also Rückführung in die herzogl. Bibliothek 1857.</note>-->
+            </bibl>
+            <bibl xml:id="dilherr_tugendschaz_lasterplaz">Dilherr, Johann Michael: Tugendschaz und Lasterplaz. Das ist: Christliche Anweisung zu Gottseliger Betrachtung Des Lebens und Wandels der heiligen Ertzvätter dapferer Helden und fürtrefflicher Könige des Alten Testaments. Nürnberg: Fürst, 1659.  
+               <ptr type="opac" cRef="247509396"/>
+               <!--<note>Herzog August Bibliothek: nur ein Exemplar aus dem Augusteer-Bestand: 572.3 Theol. (1). Das HAB-Ex. der Ausg. Nürnberg 1679 wurde erst durch die SDD nachgekauft. Das Buch dürfte Ludwig Rudolph aus der hzl. Bibliothek entliehen haben.</note>-->
+            </bibl>
+            <bibl xml:id="drelincourt_sonnets_chretiens">Drelincourt, Laurent: Sonnets chr&#xE9;tiens sur divers sujets. Dern. &#xE9;d. Amsterdam: Desbordes, 1709.
+               <ptr type="opac" cRef="151090645"/>
+            </bibl>
+            <bibl xml:id="dresser_oratio_de_ordine">Dresser, Matthaeus: Matthaei Dresseri &#124;&#124; Oratio &#124;&#124; de Ordine, Ve=&#124;&#124;ritate et Vsv &#124;&#124; in historiarum lectione &#124;&#124; spectando.&#124;&#124; Habita in Academia Lipsi-&#124;&#124;ca, XVII Januarij,&#124;&#124;anno 82.&#124;&#124;. Wittenberg: Gronenberg, 1582.  
+               <ptr type="gvk" cRef="567283895"/>
+            </bibl>
+            <bibl xml:id="du_pin_hisoire_des_controverses">Du Pin, Louis Ellies: Histoire Des Controverses Et Des Matieres Ecclesiastiques ... / Par Messire Louis Ellies DuPin, Docteur En Theologie De La Facult&#xE9; De Paris, Et Professeur Royal En Philosophie. Seconde Edition rev&#xFB;e &amp; corrig&#xE9;e. Paris: Pralard, 1697.  
+               <ptr type="gvk" cRef="620058943"/>
+            </bibl>
+            <bibl xml:id="du_valle_triomphe">Du Val, Louis: Le Triomphe de la deesse monas ou l&#x27;histoire du portrait de madame la princesse de Conti fille du roi. Amsterdam: duVal, 1698.  
+               <ptr type="opac" cRef="236361856"/>
+            </bibl>
+            <bibl xml:id="epictetus_handbuechlein">Epictetus: Des Epicteti Hand-Büchlein: Aus dem Griechischen/ mit Hülffe der Lateinisch- Spanisch: Italiänisch- Frantzösisch- Englisch- und Holländischen Verdolmetschung in die deutsche Sprache von neuem übersetzet Im Jahr 1670, übers. von Friedrich von Walther. Oels: Bockshammer, 1695.
+               <ptr type="opac" cRef="535841868"/>
+            </bibl>
+            <bibl xml:id="ernst_des_himmlischen_salomonis">Ernst, Jacob Daniel: Des Him[m]lischen Salomonis gründliches und Warhafftiges Urtheil/ Von der wahren und falschen Glückseeligkeit der Menschen: Aus dem V. Cap. Matthaei, und VI. Cap. Lucae, in XV. Betrachtungen ... fürgestellet/ Welchem beygefüget die sonderbare Bekehr- und Beruffung des Zöllners Matthäi/ In VIII. Betrachtungen erwogen. Benebenst nützlichen Registern ... Altenburg: Richter, 1695.
+               <ptr type="opac" cRef="535475098"/>
+            </bibl>
+            <bibl xml:id="examen_ratiociniorum_danicorum">Examen ratiociniorum Danicorum super naufragio militum Suecicorum ad Bornholmiam, eorundemque detentione. Ca. 1680.
+               <ptr type="opac" cRef="151714266"/>
+            </bibl>
+            <bibl xml:id="finen_erbauliche_reden">Finen, Eberhard: Eberhard Finens Erbauliche Reden über die Paßions-Geschicht/ und andere Sprüche Heiliger Schrifft Wie auch Einige Stücke des Catechismi: Zur Vorbereitung In denen Auf Hochfl. gnädigste Verordnung theils bey den ehemahligen Krancken-Bette/ theils bey den Gebrauch der warmen Bäder zu Wißbaden und Aachen/ auch nachgehends zu Braunschweig und Saltzdahlen angestellten Hauß-Betstunden/ gehalten ...; nebst den Andern Theil ... Braunschweig: Zilliger, 1710.
+               <ptr type="opac" cRef="150926030"/>
+            </bibl>
+            <bibl xml:id="finen_seelen_artzney">Finen, Eberhard: Heylsame Seelen-Artzeney: Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzogen zu Braunschweig und Lüneburg/ Aus der Schrifft und Schrifft-mäßigen Gesängen unter andächtigen Beten und Singen/ Jn kurtzen Reden dargeboten/ und nunmehr GOtt gebe zu vieler Seelen Genesung/ Auf gnädigsten Befehl zum Druck gegeben Von Jhro hochf. Durch. Beicht=Vater Eberhard Finen. Braunschweig: Zilliger, 1711.
+               <ptr type="opac" cRef="150926065"/>
+            </bibl>
+            <bibl xml:id="flavius_josephus_franzoesisch">Histoire des Juifs, ecrite par Flavius Joseph, Sous le Titre de Antiquitez Judaiques, Traduite sur l'Original Grec reveu sur divers Manuscrites, Par ... Arnauld D'Andilly. Nouvelle Edition. Amsterdam: Mortier, 1700.
+               <ptr type="opac" cRef="198412754"/>
+               <!-- in der Hab mehrere Ausgaben in der Mittl. Aufst.: Die eingesehene von 1700: Lg 4° 112 hat einen zeitgenöss. dunkelbraunen Ledereinand und keinerlei Provenienzhinweise. Ausg. v. 1681: Lg 4° 411 aus ehem. Besitz von Hzn. Philippine Charlotte. Ausg. 1679: Lg 1316.1:1, 3 u. 4 und Ausg. von 1672, Tome 5: Lg 1316.1:4 jeweils mit Exlib. Hzn. Elisab. Sophia Maria -->
+            </bibl>
+            <bibl xml:id="follin_speculum_naturae">Follin, Hermann: Specvlvm Natvrae Hvman&#xE6;, Siue Mores Et Temperamenta Hominvm Vsqve Ad Intimos Animorum sensus cognoscendi: Omnibus maxime vtile, &amp; lectu iucundum / Olim Ab Hermanno Follino P. Et M. Doct: Ac In Coloniensivm Universitate Profess. publico, Belgico idiomate concinnatum, &amp; methodo Aristotelis illustratum, Nvnc Ver&#xF2; Stvdio Et Opera Eivsdem Filii Joannis Follini Phil. &amp; Med. Doct. &amp; Professoris publici, latinitate donatum. Coloniae Agrippinae: Kalcovius, 1649.
+               <ptr type="gvk" cRef="147802350"/>
+            </bibl>
+            <bibl xml:id="francisci_wol_der_ewigkeit">Francisci, Erasmus: Das Ehr- und Freuden-reiche Wol der Ewigkeit/ für die Verächter der Eitelkeit: In zwey und funffzig Bedencken der ewigen/ über alle Masse wigtigen/ und lieblichen Herrlichkeit deß Triumph-Reichs Jesu Christi/ und seiner Mit-Erben/ erwogen ... auch von Neuem durchgesehn. Nürnberg: Endter, 1691.
+               <ptr type="opac" cRef="537080171"/>
+            </bibl>
+            <bibl xml:id="franckreichs_hohe_freudenfahne">Franckreichs Hohe Freuden-Fahne/ über die grosse Spanische Succession und Erbschafft. Köln: Marteau, 1701.
+               <ptr type="opac" cRef="150342950"/><!-- Das einzige Exemplar der HAB: Gi Mischbd. 1 (6) zeigt keine Lesespuren. Der Sammelband mit Streitschriften zur spanischen Erbfolge um 1700 trägt auf dem Vorderdeckel innen einen Wappenstich (nicht das herzoglich Braunschweig-Lüneburgische), sonst keine Provenienzhinweise -->
+            </bibl>
+            <bibl xml:id="freschot_etat_ancien_et_moderne">Freschot, Casimir: &#xC9;tat ancien et moderne des duch&#xE9;s de Florence, Modene, Mantoue &#x26; Parme: avec l&#x27;histoire anecdote des intrigues des cours de leurs dernies princes: on y a ajout&#xE9; une semblable relation de la ville &#x26; l&#xE9;gation de Bologne. Utrecht: Broedelet, Poolsum, 1711.
+               <ptr type="opac" cRef="150342829"/>
+            </bibl>
+            <bibl xml:id="gail_practicarum_observationum">Gail, Andreas, von: Practicarum Observationum, tam ad processum iudiciarium, praesertim Imperialis Camerae, quam causarum decisiones pertinentium, libri 2. De Pace publica, et proscriptis, sive bannitis imperij, libri 2. De Pignorationibus, Liber 1. De manuum Iniectionibus, sive arrestis imperii tractatus ; Huic noviss. ed. acc. app. 2 / Andreas v. Gaill. Gualterus Gymnicus. Coloniae Agrippinae: Metternich, 1698.
+               <ptr type="opac" cRef="184827981"/>
+            </bibl>
+            <bibl xml:id="goussault_usage_du_monde">Goussault, Jacques:  L&#x27;Usage Du Monde Ou Le Parfait Modele D&#x27;Un Honneste Homme / Par Mr. l&#x27;Abb&#xE9; Goussault. Avec Les Symboles De Pythagore, Traduits &amp; expliquez par M. Dacier, Garde des Livres du Cabinet du Roy. Paris: Brunet &amp; Rigaut; Bruxelles: Leonard, 1707.
+               <ptr type="opac" cRef="151605971"/>
+            </bibl>
+            <bibl xml:id="gervaise_macacar">Gervaise, Nicolas: Description historique Du Royaume de Maca&#xE7;ar. Divisée en trois livres, Augmenté de divers pièces curieuses. Regensburg: Kinkius, 1700.
+               <ptr type="opac" cRef="15094845X"/>
+               <!-- Ausgaben HAB-OPAC: zitierte Ausg. 1700: Gv 349; Ausg. Paris 1688: HAB: Wt 694. -->
+            </bibl>
+            <bibl xml:id="gherardi_théâtre_italien">Gherardi, Evaristo (Ed.): Le Théâtre Italien de Gherardi, Ou Le Recueil Général de toutes les Comédies &amp; Scènes fran&#xE7;oises jouées par les comédiens italiens du Roy. Tome 1-6. Amsterdam: Braakman, 1701.
+               <ptr type="opac" cRef="149934939"/>
+               <!-- Ausgaben HAB-OPAC: zitierte Ausg. 1701: Lm 4418:1-6 (Prov.: Bibliothek Dumas de Montbail der de Montmartin); Ausg. Paris 1700: HAB: Lm 4415:1-6 -->
+            </bibl>
+            <bibl xml:id="giornale_de_letterati_parma">Il giornale de' letterati. Parma, 1686-1690.
+               <ptr type="opac" cRef="167191969"/><note>Es gab mehrere Zeitschriften unter dem Titel "Giornale de' Letterati" im 17. und 18. Jahrhundert. Die erste dieser Zeitschriften - das Vorbild der übrigen - erschien ab 1668 in Rom, weitere in Venedig, Modena und die vorliegende in Parma unter der Redaktion von Benedetto Bacchini (1651-1721).</note>
+            </bibl>
+            <bibl xml:id="giustiniani_historie">Giustiniani, Bernardo: Historie Cronologiche Dell'Origine Degl'Ordini Militari E Di Tvtte Le Religioni Cavallereche Infino ad hora instituite nel Mondo. Parte prima, parte seconda. Venezia: Combi &amp; LàNoù, 1692.
+               <ptr type="opac" cRef="151408327"/><!--<note>HAB: Tq 2° 25. Beide Teile sind durchgehend paginiert. Im Vorderinnendeckel des 1. Teils/ Bandes: Das eingeklebte gedruckte Exlibris Herzog Ludwig Rudolphs, darunter eingeklebt die gedruckte Ziffer "11."; Vorsatzblatt: hsl. Eintrag "11.", Rückseite "9".</note>-->
+            </bibl>
+            <bibl xml:id="glarean_commentariolus">Glarean, Henricus: In Cornelii Taciti de situ ... Germaniae libellum commentariolus [Ed. Simon Schardius]. Giessae, 1673.
+               <ptr type="gvk" cRef="369886046"/>
+            </bibl>
+            <bibl xml:id="gracián_obras_i">Gracián y Morales, Baltasar: Obras De Lorenzo Gracian. Tomo Primero: Que Contiene, El Criticon, Primera, Segunda y Tercera Parte. El Oraculo. Y El Heroe. Tomo Secundo: Que Contiene, La Agudeza, Y Arte De Ingenio. El Discreto. El Politico Don Fernando el Catolico. Meditaciones varias para antes, y despues de la Sagrada Comunion. Ultima Impression, mas corrigenda, y enriquecida de tablas. Tome 1. Madrid: Redondo, De Val, 1664.
+               <ptr type="opac" cRef="151606471"/>
+               <!--<note>Das Exemplar Herzog August Bibliothek: Ll 109: 1-2 der zweibändigen Werkausgabe von 1664 stammt laut Exlibris aus dem Besitz Herzog Ludwig Rudolphs.</note>-->
+            </bibl>
+            <bibl xml:id="gracián_lhomme_de_1">Gracián y Morales, Baltasar: L&#x27;Homme De Tromp&#xE9; Ou Le Criticon. Traduit de l&#x27;Espagnol. Tomus 1. La Haye: Ellinckhuysen, 1708.
+               <ptr type="gvk" cRef="235847062"/>
+            </bibl>
+            <bibl xml:id="gracián_lhomme_de_2">Gracián y Morales, Baltasar: L&#x27;Homme De Tromp&#xE9; Ou Le Criticon. Traduit de l&#x27;Espagnol. Tomus 2. La Haye: Ellinckhuysen, 1708.
+               <ptr type="gvk" cRef="33045501X"/>
+            </bibl>
+            <bibl xml:id="gracián_lhomme_de_3">Gracián y Morales, Baltasar: L&#x27;Homme De Tromp&#xE9; Ou Le Criticon. Traduit de l&#x27;Espagnol. Tomus 3. La Haye: Ellinckhuysen, 1708.
+               <ptr type="gvk" cRef="330455036"/>
+            </bibl>
+            <bibl xml:id="grimarest_campagnes">Grimarest, Jean Leonor le Gallois Sieur de: Les Campagnes de Charles XII, roi de Su&#xE8;de par Mr. de Grimaret Auteur de la Vie de Mr. Moliere. Tome 4. La Haye: Guillaume de Voys 1711.
+               <ptr type="opac" cRef="243633238"/>
+            </bibl>
+            <bibl xml:id="histoire_abregee_des_provinces_unies">Histoire abreg&#xE9;e des Provinces-Unies des Pa&#xEF;s-Bas: o&#xF9; l&#x27;on voit leurs progr&#xE9;s, leurs conqu&#xEA;tes, leur gouvernement et celui de leurs compagnies en orient &amp; en occident. Amsterdam: Malherbe, 1701.
+               <ptr type="opac" cRef="554110636"/>
+            </bibl>
+            <bibl xml:id="histoire_politique_et_amoureuse_du_cardinal_porocarrero">Histoire politique et amoureuse du Cardinal Louis Portocarrero Archev&#xEA;que de Toledo. Nouv. &#xE9;d., augm. et continu&#xE9;e jusqu&#x27;&#xE0; la morte de ce fameux Cardinal. O. O. : LeSincere, 1710.
+               <ptr type="opac" cRef="150789556"/>
+            </bibl>
+            <bibl xml:id="huarti_scrutinium">Huarte de San Juan, Juan: Scrutinium Ingeniorum pro iis, qui excellere cupiunt / [Juan Huarte]. perpetua linguae Castellanae translatione latinitate donatum: interprete Aeschacio Maiore Dobreborano ... Jena : Neuenhahn/Krebs, 1663.
+               <ptr type="opac" cRef="535916000"/>
+            </bibl>
+            <bibl xml:id="hunnius_epitome">Hunnius, Nicolaus: EPITOME  CREDENDORUM, Oder Kurtzer Jnhalt Christlicher Lehre/ So viel einem Christen darvon zu seiner Seelen Seligkeit zu wissen und zu glauben hochnötig und nützlich ist. Aus Gottes Wort verfasset. Wittenberg: Fincelius, 1675.
+               <ptr type="opac" cRef="537094245"/><!-- zeitgenöss. heller Schweinsledereinband. Keine Provenienz-Hinweise, keine Lesespuren -->
+            </bibl>
+            <bibl xml:id="instructions_jesuites">Instructions Secretes Des Jesuites : Suivant l&#x27;original. Cologne : Sincere, 1704.
+               <ptr type="gvk" cRef="1118136845"/>
+            </bibl>
+            <!--<bibl xml:id="iuvenalis_satirae">Iuvenalis, Decimus Iunius: Satirae. Padova: Stamperia del Seminario, 1711.
+               <ptr type="opac" cRef="150881991"/>
+            </bibl>-->
+            <bibl xml:id="jurieu_de_la_dévotion">Jurieu, Pierre: Traité de la devotion. 17. ed. La Haye: Troyel, 1697.
+               <ptr type="opac" cRef="149903561"/>
+            </bibl>
+            <bibl xml:id="kempen_imitation">Kempen, Thomas von: L&#x27;imitation de Jesus Christ / Trad. et paraphras&#xE9;e en vers fran&#xE7;ois par P. Corneille. Paris : Ballard, 1665.
+               <ptr type="gvk" cRef="246014911"/>
+            </bibl>
+            <bibl xml:id="knipschildt_de_iuribus">Knipschildt, Philipp: [De Iuribus et Privilegiis Civitatum Imperialium tam generalibus, quam specialibus et de earundem Magistratuum Officio] Tractatus politico-historico-juridicus de Juribus et Privilegiis Civitatum Imperialium, tam generalibus, quam specialibus et de earundem Magistratum Officio : In sex libros divisus / Authore Philippo Knipschildt ... Ulmae Suevorum : Kühne, 1657.
+               <ptr type="opac" cRef="141633042"/>
+            </bibl>
+            <bibl xml:id="kurtzgefaster_vortrab">Kurtzgefaster Vortrab Einer künfftigen Ausführlichen Entdeckung des Geheimnüsses; Wie ein Christlicher Potentat in nicht langer Zeit zur Universal-Monarchie gelangen könne: Worinnen die general-Fundamenta und Bedingungen angewiesen werden, wornach der Author versichert, einem Christlichen Potentaten zu solchem wichtigen Werck zu verhelffen / Herausgegeben Von C. H. V. R. P. Frankfurt, 1710.
+               <ptr type="gvk" cRef="1139106422"/>
+            </bibl>
+            <bibl xml:id="la_rochefoucauld_reflexions">La Rochefoucauld, Fran&#xE7;ois de: R&#xE9;flexions Ou Sentences Et Maximes Morales. De Monsieur De La Rochefoucauld ... ; Maximes De Madame La Marquise De Sable&#x27; ; Pens&#xE9;es Diverses De M. L. D. Et Les Maximes Chretiennes. De M.****. Amsterdam : Mortier, 1705.
+               <ptr type="opac" cRef="151033234"/>
+            </bibl>
+            <bibl xml:id="la_roche_guilhem_scanderberg">La Roche-Guilhem, Anne de: Le Grand Scanderberg : Nouvelle / par Mademoiselle de la Rocheguilhen. La Haye : Swart, 1711.  
+               <ptr type="opac" cRef="215076435"/>
+            </bibl>
+            <bibl xml:id="lassels_voyage">Lassels, Richard: The voyage of Italy, or A compleat journey through Italy: in two parts: with the characters of the people, an the description of the chief towns, churches, monasteries, tombs, libraries, pallaces, villas, gardens, pictures, statues, a antiquities: as also of the interest, government, riches, force, &#x26;c. of all the princes: with instructions concerning travel / by Richard Lassels, Gent. who travelled through Italy five times as tutor to several of the English nobility an gentry; never before extant. London, 1670.
+               <ptr type="opac" cRef="553173561"/>
+            </bibl>
+            <bibl xml:id="le_nain_de_tillemont_histoire_des_empereurs">Le Nain de Tillemont, S&#xE9;bastien: Histoire des empereurs et des autres princes, qui ont r&#xE9;gn&#xE9; durant les six premiers si&#xE8;cles de l&#x27;&#xC9;glise ... / Par M. Le Nain de Tillemont. T. 1, Pt. 1: Qui comprend depuis Auguste jusqu&#xC9;&#xE0; Galba. Seconde Edition revu&#xEB;, corrig&#xE9;e, &amp; augment&#xE9;e par l&#x27;Auteur. Brxelles : Fricx, 1707.
+               <ptr type="opac" cRef="151821917"/>
+            </bibl>
+            <bibl xml:id="le_vassor_histoire_louis_xiii">Le Vassor, Michel: HISTOIRE DU REGNE DE LOUIS XIII. ROI DE FRANCE ET DE NAVARRE. TOME PREMIER [- 10] ... Seconde Edition revu&#xEB; &amp; corrigée. Amsterdam: Brunel, 1700 [-1711].
+               <ptr type="opac" cRef="216810957"/>
+               <!--<note>HAB: Gk 1175. Zeitgenössischer heller Schweinsledereinband, kein Exlibris. Aber Titelblatt mit handschriftlichem Eintrag: "I.L.C.M."</note>-->
+            </bibl>
+            <bibl xml:id="lisola_bouclier_destat">Lisola, Fran&#xE7;ois Paul de: Bouclier D&#x27;Estat Et De Justice, Contre le dessein de la France  ... Par Le Baron de Lisola. 1701.
+               <ptr type="opac" cRef="150704577"/>
+            </bibl>
+            <bibl xml:id="locke_oeuvres">Locke, John: Oeuvres Diverses De Monsieur Jean Locke. Rotterdam : Fritsch &amp; Böhm, 1710.
+               <ptr type="opac" cRef="134055551"/>
+            </bibl>
+            <bibl xml:id="marana_lespion_dans_les_cours_1">Marana, Giovanni Paolo: L&#x27;espion dans les cours des princes chr&#xE9;tiens, ou lettres et memoires d&#x27;un Envoy&#xE9; secret de la Porte dans les Cours de l&#x27;Europe :  avec une dissertation curieuse de leur Forces Politique et Religion / Par ***. T. 1., 13. &#xE9;d. Cologne: Kenkus, 1711.
+               <ptr type="gvk" cRef="236483579"/>
+            </bibl>
+            <bibl xml:id="marana_lespion_dans_les_cours_2">Marana, Giovanni Paolo: L&#x27;Espion Dans Les Cours Des Princes Chr&#xE9;tiens, Ou Lettres Et Memoires d&#x27;un Envoy&#xE9; secret de la Porte dans les Cours de l&#x27;Europe :  avec une dissertation curieuse de leur Forces Politique et Religion / Par ***. T. 2., 13. &#xE9;d. Cologne: Kenkus, 1711.
+               <ptr type="opac" cRef="236483927"/>
+            </bibl>
+            <bibl xml:id="marana_lespion_dans_les_cours_3">Marana, Giovanni Paolo: L&#x27;Espion Dans Les Cours Des Princes Chr&#xE9;tiens, Ou Lettres Et Memoires d&#x27;un Envoy&#xE9; secret de la Porte dans les Cours de l&#x27;Europe :  avec une dissertation curieuse de leur Forces Politique et Religion / Par ***. T. 3., 13. &#xE9;d. Cologne: Kenkus, 1711.
+               <ptr type="opac" cRef="236484044"/>
+            </bibl>
+            <bibl xml:id="marana_lespion_dans_les_cours_4">Marana, Giovanni Paolo: L&#x27;Espion Dans Les Cours Des Princes Chr&#xE9;tiens, Ou Lettres Et Memoires d&#x27;un Envoy&#xE9; secret de la Porte dans les Cours de l&#x27;Europe :  avec une dissertation curieuse de leur Forces Politique et Religion / Par ***. T. 4., 13. &#xE9;d. Cologne: Kenkus, 1711.
+               <ptr type="opac" cRef="23648415X"/>
+            </bibl>
+            <bibl xml:id="marana_lespion_dans_les_cours_5">Marana, Giovanni Paolo: L&#x27;Espion Dans Les Cours Des Princes Chr&#xE9;tiens, Ou Lettres Et Memoires d&#x27;un Envoy&#xE9; secret de la Porte dans les Cours de l&#x27;Europe :  avec une dissertation curieuse de leur Forces Politique et Religion / Par ***. T. 5., 13. &#xE9;d. Cologne: Kenkus, 1711.
+               <ptr type="opac" cRef="236485946"/>
+            </bibl>
+            <bibl xml:id="marana_lespion_dans_les_cours_6">Marana, Giovanni Paolo: L&#x27;Espion Dans Les Cours Des Princes Chr&#xE9;tiens, Ou Lettres Et Memoires d&#x27;un Envoy&#xE9; secret de la Porte dans les Cours de l&#x27;Europe :  avec une dissertation curieuse de leur Forces Politique et Religion / Par ***. T. 6., 13. &#xE9;d. Cologne: Kenkus, 1711.
+               <ptr type="opac" cRef="236485989"/>
+            </bibl>
+            <bibl xml:id="mazarini_abschieds_compliment">Mazarini Abschieds-Compliment. Ca. 1704.
+               <ptr type="gvk" cRef="147002249"/>
+            </bibl>
+            <bibl xml:id="metternich_kayser_sendschreiben">Metternich, Wolf von; Kayser, Johann (Alethophili): Sendschreiben an Herrn M. R. O. Von unterschiedlichen Etliche Jahre her vorgegebenen Neuen Propheten und Prophezeyungen: Worinnen Absonderlich auch von der Welt-beruffenen Männer Theophrasti Paracelsi, Isaac Bickerstats, Emanuel Philippi Paris, Georgii Reichhardi und Nicolai Drabicii Vaticiniis wegen der jetzigen Schwedischen und anderer Conjuncturen ausführlicher Bericht geschiehet. Cölln, 1712.
+               <ptr type="opac" cRef="15038680X"/>
+            </bibl>
+            <bibl xml:id="mezeray_histoire">Mézeray, François Eudes de: HISTOIRE DE FRANCE AVANT CLOVIS: L'Origine des François, &amp; leur establissement dans les Gaules. Amsterdam: Schelte, 1696.
+               <ptr type="opac" cRef="221766022"/> 
+               <!--<note>HAB: Gk 1367. Provenienz laut gedrucktem Exlibris: Bibliothek der verwitweten Herzogin Elisabeth Sophia Maria von Braunschweig und Lüneburg.</note>--> <!--Kein Hinweis auf LR. -->
+            </bibl>
+            <bibl xml:id="mohoff_polyhistor">Mohoff, Daniel Georg: Danielis Georgi[i] Morhofi[i] Polyhistor. Sive De Notitia Auctorum Et Rerum Commenrarii : Quibus Praeterea Varia Ad Omnes Disciplinas Consilia Et Subsidia Proponuntur [1]. Lübeck: Bockmann, 1695.
+               <ptr type="opac" cRef="719560519"/>
+            </bibl>
+            <bibl xml:id="montfort_alix">Montfort, Louis: Alix de France : nouvelle historique / [par] (Louis Montfort). Amsterdam : Roger, 1712.
+               <ptr type="gvk" cRef="595406939"/>
+            </bibl>
+            <bibl xml:id="morvan_conduite_pour">Morvan de Bellegarde, Jean-Baptise: Conduite pour se taire et pour parler principalement en mati&#xE8;re de religion : suivant la copie imprim&#xE9;e &#xE0; Paris. Liege : Broncart, 1696.
+               <ptr type="gvk" cRef="223556645"/>
+            </bibl>
+            <bibl xml:id="muenster_cosmographia">Münster, Sebastian: Cosmographia, Das ist: Beschreibung der gantzen Welt : Darinnen Aller Monarchien Keyserthumben/ Königreichen/ Fürstenthumben/ Graff- und Herrschafften/ Länderen/ Stätten und Gemeinden ... Ursprung/ Regiment/ Reichthumb/ Gewalt und ... Beschaffenheit ; Deßgleichen Aller deren/ beyder Ständen/ Regenten: Keysern/ Königen/ Bäpsten/ Bischoffen ... Genealogien und Stammbäumen ... zusammen getragen ... / Erstlichen ... durch ... Sebastianum Munsterum an den Tag gegeben. Basel: Sebastian Henricpetri Erben 1628.
+               <ptr type="opac" cRef="536689261"/>
+            </bibl>
+            <bibl xml:id="nani_historia_veneta">Nani, Battista (1616-1678): HISTORIA DELLA REPVBLICA VENETA. [Parte prima], Parte seconda. Bologna: Longhi, 1680.
+               <ptr type="opac" cRef="151171742"/>
+               <!--<note>Keine der zeitlich in Frage kommenden Ausgaben in der Mittleren Aufstellung der HAB lässt eine Provenienz aus dem Buchbesitz Herzog Ludwig Rudolphs erkennen, kein Exlibris. (Die titelzitierte Ausgabe Bologna 1680: HAB: Gh 639; die Ausgabe Venedig: Combi &amp; La Noue 1662: HAB: Gh 4° 100; die frz. Ausagabe Köln: Marteau 1682: Gh 640 (1 u. 2).</note>-->
+            </bibl>
+            <bibl xml:id="navailles_mémoires">Navailles, Philippe Montaut de Benac, Duc de: MEMOIRES DU DUC DE NAVAILLES ET DE LA VALETTE, PAIR ET MARECHAL de France, &amp; Gouverneur de Monseigneur le Duc de Chartes. Amsterdam: Malherbe, 1701.
+               <ptr type="opac" cRef="150314337"/>
+               <!--<note>HAB: Lm 2600a. Papp-Ledereinbd. des 18. Jhs., kein Provenienzhinweise, keine Lesespuren.</note>-->
+            </bibl>
+            <bibl xml:id="nest_voll_grillen">Ein gantzes Nest voll Ausgeheckte Grillen über den ietzigen Zustand der Welt/ Und insonderheit Der Monarchie Spanien/ Jn einem halben Dutzent theils lustiger theils trauriger Gespräche vorgestellet. O. O., 1701.
+               <ptr type="opac" cRef="150730942"/>
+               <!--<note>HAB: Gi 267. Keine Provenienz- oder Lesespuren.</note>-->
+            </bibl>
+            <bibl xml:id="neuhusius_theatrum">Neuhusius, Edo: Theatrum Ingenii Humani: Sive De cognoscenda Hominum Indole &#x26; secretis Animi moribus. Amsterdam : Janssonius,  1633.
+               <ptr type="opac" cRef="150731884"/>
+            </bibl>
+            <bibl xml:id="novellen_aus_der_gelehrten_und_curiösen_welt">Novellen Aus Der gelehrten und curiösen Welt : Darinnen die Quinte Essence mannigfaltiger Gelehrsamkeit ... enthalten ... und alles kürtzlich abgehandelt wird / Vermittelst öffterer Zusammenkunft einer curiösen Gesellschaft ergangen/ Und ... monatlich communiciret [von G. Z. IC.]. Franckfurt ; Gotha : Boetius ; Leipzig : Groschuff, 1692.
+               <ptr type="gvk" cRef="537353461"/>
+            </bibl>
+            <bibl xml:id="oefelin_historologia_oettingana">Oefelin, Friedrich: Historologia Oettingana, das ist, kurze historische Beschreibung vieler [...] Sachen von de Grafen zu Oettingen, [...] : Ein Manuscript, in: Materialien zur Oettingischen, ältern und neuern, Geschichte : eine periodische Schrift, Bd. 4 (1774), ganzer Band.
+               <ptr type="opac" cRef="135750679"/>
+               <note>Die "Historologia Oettingana" des oettingischen Registrators Friedrich Oefelin reicht bis 1622, wurde also vermutlich um diese Zeit verfasst. Der Druck von 1774 ist stellenweise gekürzt, ein Manuskript des Textes aus der Zeit um 1620 hat sich im Fürstlich Oettingen-Wallerstein'sches Archiv Harburg (Signatur:  OeB, VI.5.2°.6) erhalten, eine Abschrift von 1762 in der Württembergischen Landesbibliothek in Stuttgart (Signatur: Cod.hist.Fol.836).</note>
+            </bibl>
+            <bibl xml:id="osorio_histoire_de_ferdinand_alvarez">Osorio, Antonio: Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D&#x27;Albe. Paris : Guignard, 1699.
+               <ptr type="opac" cRef="135733421"/>
+            </bibl>
+            <bibl xml:id="owen_les_pensees">Owen, John: Les Pens&#xE9;es ing&#xE9;nieuses ou les &#xC9;pigrammes d&#x27;Owen / John Owen. Le B. Paris : Ribou, 1710.
+               <ptr type="opac" cRef="151586829"/>
+            </bibl>
+            <bibl xml:id="palthen_unvorgreiffliche_gedancken">Palthen, Johann Philipp: Unvorgreiffliche Gedancken eines schwedischen Unterthanen über das jüngst heraus gegebene Dänische Manifest, so hiebey mit angedruckt. 1710.
+               <ptr type="opac" cRef="149896891"/>
+            </bibl>
+            <bibl xml:id="pascal_pensees">Pascal, Blaise: Pensées ... Sur la Religion, Et sur quelques autres sujets. Ed. nouvelle. Augmentée de beaucoup de Pensées, de la Vie de l'Autheur, &amp; de quelques Dissertations. Amsterdam: Wetstein, 1699.
+               <ptr type="opac" cRef="150333269"/>
+            </bibl>
+            <bibl xml:id="pastorius_character_virtutum">Pastorius, Joachim: Character Virtutum variis, aliorum etiam, qua veterum, qua recentium Autorum coloribus adumbratus / Cura Joachimi Pastorii, Med. D. Et Historici Regii. Hamburg: Härtel, 1664.
+               <ptr type="opac" cRef="092248934"/>
+            </bibl>
+            <bibl xml:id="petis_les_mille_et_un_jour_2">P&#xE9;tis de la Croix, Fran&#xE7;ois: Les mille &#x26; un jour. Contes Persans / Traduit en fran&#xE7;ais par M. P&#xE9;tis de la Croix, Doien des Secretaires-Interpretes du Roi, Lecteur &amp; Professeur au College Royal. Tome Second. Amsterdam: Coup, 1712.
+               <ptr type="gvk" cRef="250752980"/>
+            </bibl>
+            <bibl xml:id="petis_les_mille_et_un_jour_3">P&#xE9;tis de la Croix, Fran&#xE7;ois: Les mille &#x26; un jour. Contes Persans / Traduit en fran&#xE7;ais par M. P&#xE9;tis de la Croix, Doien des Secretaires-Interpretes du Roi, Lecteur &amp; Professeur au College Royal. Tome Troisi&#xE9;me. Amsterdam : Coup, 1712.
+               <ptr type="gvk" cRef="250753391"/>
+            </bibl>
+            <bibl xml:id="petra_de_iure_quaesito">Antonio Pietro de Petra: De iure quaesito non tollendo per Principem Tractatus. Frankfurt: Becker, 1600. <ptr type="gvk" cRef="567434613"/></bibl>
+            <bibl xml:id="philostratus_images">Vigenère, Blaise de (1523-1596): LES IMAGES OV TABLEAUX DE PLATTE PEINTVRE DES DEVX PHILOSTRATES SOPHISTES GRECS ET LES STATVES DE CALLYSTRATE. Mis en Francois ... Enrichis d'Arguments et Annotations Reueus et Corrigez sur L'original par un docte personnage de ce temps en la langue Grecque. Paris : Guillemot, 1637.
+               <ptr type="opac" cRef="253096111"/>
+               <!--<note>Das HAB-Exemplar Lg 2 79 trägt eingeklebt auf dem vorderen Innendeckel das gedruckte Exlibris von Herzog Rudolphs Schwägerin, der verwitweten Herzogin Elisabeth Sophia Maria von Braunschweig-Wolfenbüttel; verstreute ältere Bleistifteintragungen.</note>-->
+            </bibl>
+            <bibl xml:id="projet_pour_faire_une_paix_generale">Projet Pour faire une Paix Generale Qui soit s&#xFB;re &#x26; durable, en faisant un Partage de la Monarchie d'Espagne, plus &#xE9;quitable qu'aucun autre qu'on a propos&#xE9; jusqu'ici. Traduit de l'Anglois, [ca. 1712].
+               <ptr type="gvk" cRef="1128353350"></ptr>
+            </bibl>
+            <bibl xml:id="resolution_de_leurs">R&#xE9;solution de leurs Hautes Puissances: Memoire &#x26; Documents Servant a montrer, que c&#x27;est a tort que les Estats Generaux des Provinces Unies sont chargez, par les Resolutions ou Votes de la Chambre des Communes du Parlement de la Grande-Bretagne, &amp; par l&#x27;Addresse de la m&#xEA;me Cahmbre [!], present&#xE9;e sur ce sujet &#xE0; sa Majest&#xE9; Britannique d&#x27;avoir manqu&#xE9; &#xE0; divers &#xE9;gards, pendant le cours de la presente guerre, a fournir ce qu&#x27;ils doivent pour leur Quote part, ou Portion, suivant leurs engagements. Den Haag: Paul Scheltus 1712.
+               <ptr type="opac" cRef="150965478"/>
+            </bibl>
+            <bibl xml:id="reichs_stadt_donauw&#xF6;rthische_in_jure">Reichs-Stadt Donauwörthische In Jure &#x26; Facto best gegründete Fernere Repraesentation : Mit Lit. G. H. I. K. L. M. N. O. P. Q. R. S. T. V. W. X. Y. Z. AA. BB. CC. DD. EE. Aus höchst-dringender Noth, doch mit unterthänigst geziemenden Respect der so intitulirten Chur-Pfältzischen Rechs-beständigen [!] Gegen-Deduction Contraponiret. Die Verthädigung der Donauwörthischen Saltz-Niederlags-Gerechtigkeit betreffend.
+               <ptr type="gvk" cRef="77425405X"/>
+            </bibl>
+            <bibl xml:id="rifle_de_garouville_lamant">Rifl&#xE9; de Garouville, Savinien: L&#x27;Amant Oisif. Contenant Cinquante Nouvelles Espagnoles : Divis&#xE9; En Trois Parties. Bruselles : Backer, 1711.
+               <ptr type="opac" cRef="150346719"/>
+               <!--<note>Eine Ausgabe von 1712, wie sie Ludwig Rudolph angibt, konnte nicht ermittelt werden.</note>-->
+            </bibl>
+            <bibl xml:id="rivet_de_la_premiere_education">Rivet, Fr&#xE9;d&#xE9;ric: De la premiere education d&#x27;un prince, depuis sa naissance jusqu&#x27;a l&#x27;a&#x011D;e de sept ans. Rotterdam : Leers, 1654.
+               <ptr type="opac" cRef="151586829"/>
+            </bibl>
+            <bibl xml:id="riviere_apologie_saint_evremont">Boyer de Rivière: Apologie Des &#x152;uvres St. Evremont. Avec Son Èloge Et Son Portrait, &amp; un Discours sur les Critiques, auquel on a joint plusieurs Lettres &amp; Fragments de Posies de M. de Saint-Évremont. Paris: Collombat, 1698. 
+               <ptr type="gvk" cRef="423208640"/>
+            </bibl>
+            <bibl xml:id="salnove_venerie_royale">Salnove, Robert de: LA VENERIE ROYALE DIVISÉE EN IV. PARTIWES; QVI CONTIENNENT Les Chasses du Cerf, du Lievre, du Chevreüil, du Sanglier, du Loup, &amp; du Renard. Paris: Sommaville, 1665.
+               <ptr type="opac" cRef="230502520"/>
+               <!--<note>Das Exemplar HAB: Oe 548 trägt auf dem inneren Vorderdeckel eingeklebt das gedruckte Exlibris Herzog Ludwig Rudolphs. Darunter auf eingeklebtem Zettel die gedruckte Ziffer "68.".</note>--> 
+            </bibl>
+            <bibl xml:id="sanchez_minvera">S&#xE1;nchez de las Brozas, Francisco: [Minerva, sive de causis Latin&#xE6; lingu&#xE6; commentarius] Francisci Sanctii Minerva, Sive de Causis Latin&#xE6; lingu&#xE6; Commentarius, Cui accedunt animadversiones &amp; not&#xE6; Gasperis Scioppii &amp; longe uberiores Jacobi Perizonii. Franequera : Strickius, 1687.
+               <ptr type="gvk" cRef="251813266"/>
+            </bibl>
+            <bibl xml:id="saurin_tratte_de_lamour">Saurin, &#xC9;lie: Tratt&#xE9; de l&#x27;amour de Dieu. Amsterdam : Roger, 1712.
+               <ptr type="opac" cRef="150381794"/>
+            </bibl>
+            <bibl xml:id="sansovino_venetia">Sansovino, Francesco: Venetia citt&#xE0; nobilissima et singolare / descritta in XIIII libri da rancesco Sansovino ... con aggiunta ... da Giustiniano Martinioni. Venedig: Curti, 1663.
+               <ptr type="opac" cRef="140235191"/> 
+            </bibl>
+            <bibl xml:id="schmidt_compendium">Schmidt, Johann Andreas: Compendium Historiae Ecclesiasticae In Varios Studiosae Iuventutis Usus Conscriptum. Helmstedt: Süstermann, 1701.
+               <ptr type="opac" cRef="392564157"/>
+            </bibl>
+            <bibl xml:id="schwedler_sendschreiben">Schwedler, Johann Christoph: Send-Schreiben an einen S. Theologum, in welchem die 50. Motiven, dadurch eine erlauchte Person zum Abtritte von der evangelisch-lutherischen zu der römisch-catholischen Kirche soll seyn verleitet worden, kürtzlich nach und aus Gottes Worte geprüft; Sich anfangs zu eigner Erbauung aufgesetzt; Hernach aber ... zu anderer Stärckung überlassen von einem Liebhaber der Wahrheit; Zum Bechlusse sind hinzu gefüget 50. wichtige Motiven/ welchen einen jeden rechtschaffenen Christen abhalten können/ daß er sich zu der Römischen Kirche nicht begebe. Leipzig: Braun, 1711.
+               <ptr type="opac" cRef="232159068"/>
+               <!--<note>Das Exemplar HAB: M: Gn Sammelbd. 58 (1) trägt auf dem inneren Vorderdeckel eingeklebt das gedruckte Exlibris Herzog Ludwig Rudolphs. Darunter auf eingeklebtem Zettel die gedruckte Ziffer "143.".</note>-->
+            </bibl>
+            <bibl xml:id="schweinitz_freudenschild">Schweinitz, David von: Freuden-Schild Wider die Traurigkeit : In allerhand küm[m]erlichen Zufällen auffgerichtet / Durch David von Schweinitz/ Auff Seyffersdorff und Petersdorff gewesenen Fürstl. Liegnitz. Brieg. Wohlauischen Rath und Landes-Hauptmann des Fürstenthums Liegnitz. Franckfurth; Leipzig : Rohrlach; Jena : Ehrich, 1701.
+               <ptr type="opac" cRef="150868103"/>
+            </bibl>
+            <bibl xml:id="schweinitz_genealogia">Schweinitz, David von: Genealogia Derer von Schweinitz/ Vor der Zeit Vom Swentze Genennet ; Daby Ein Kurtzer Discours Von Dem Alten und Schlesischen Adel / Zu Ehren-Gedächtnüß Seines Geschlechts und Befreundeten: Auß Den Alten Uhrkunden Zusammen getragen/ Durch David von Schweinitz ... Liegnitz : Schneider, 1661.
+               <ptr type="gvk" cRef="092182828"/>
+            </bibl>
+            <bibl xml:id="schweinitz_hertzens_psalter">Schweinitz, David von: Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David : Gerichtet Auf unterschiedener Personen/ und Stände Anliegen / Durch David von Schweinitz/ von und auf Seyffersdorff ... Breßlau : Fellgiebel, 1662.
+               <ptr type="opac" cRef="092224377"/>
+            </bibl>
+            <bibl xml:id="schweinitz_penta_decas">Schweinitz, David von: Penta-decas fidium cordialium ... Das Ist: Geistlicher Hertzens-Harffen von fünffmahl-zehen Seiten ... Theil / Allen Liebhabern d. geistlichen Musica zu spielen praesentiret durch David von Schweinitz. Breßlau : Fellgiebel, 1694.
+               <ptr type="opac" cRef="15086812X"/>
+            </bibl>
+            <bibl xml:id="schweinitz_suscitabulum_poenitentiae">Schweinitz, David von: Suscitabulum Poenitentiae Catecheticum, Das ist: Catechetischer Buß-Wecker/ Oder Eine richtige Anweisung zu den wesentlichen Stücken der wahren Buß/ wie selbige nach den zweyen Hauptstücken der Christlichen Lehre nützlich zu üben/ Außführlich und nachdrücklich vorgebildet wird : Allen rechtschaffenen Christen zur nöthigen und seeligen Erweisung ungeheuchelter Busse angestellet Von David von Schweinitz/ auff Seyffersdorff. Franckfurt : Schrey ; Meyer, 1696.
+               <ptr type="gvk" cRef="536053685"/>
+            </bibl>
+            <bibl xml:id="schwenckfeld_passional">Schwenckfeld, Caspar: Teutsch Passional vnsers Herren Jesu Christi : Mit schönen tröstlichen Gebetleit / C. S. Nürnberg : Gutknecht, 1547.
+               <ptr type="opac" cRef="389070084"/>
+            </bibl>
+            <bibl xml:id="sendschreiben_an_mylord">Sendschreiben an Mylord [et]c. [et]c. Betreffende die Nothwendigkeit Gerechtsame/ der völligen Restitution der Spanischen Monarchie : Aus dem Englischen übersetzet. Barbaris pro Legibus semper Dominorum Imperia fuere. Erlangen: Lorber, 1710.
+               <ptr type="gvk" cRef="138708681"/> 
+            </bibl>
+            <bibl xml:id="sidney_arcadia_der_graefin_pembrock">Sidney, Philip: Arcadia der Gräffin von Pembrock / Vom Herrn Graffen und Rittern Philippsen von Sidney. In Englischer Sprach geschrieben/ auß derselbigen Frantzösisch/ und auß beyden erstlich Teutsch gegeben Durch Valentinvm Theocritvm Von Hirschberg: Jetzo allenthalebn auffs new ubersehen und gebessert: die Gedichte aber und Reymen gantz anderst gemacht und ubersetzt Von dem Edkeb und Vesten Martin Opitz von Boberfeldt. Die Vierte Edition / mit schönen Kupfferstückeb gezieret und verlegt durch Matheum Merianum. Franckfurt : Humm, 1643.
+               <ptr type="opac" cRef="151490759"/>
+            </bibl>
+            <bibl xml:id="spaniens_hohe_trauerfahne">Spaniens Hohe Trauer-Fahne/ Uber den frühen Todes-Fall Seines Königes CAROLI II. Und mit demselben den gänzlichen Untergang seiner Königlichen Linie. Köln: Marteau, 1701.
+               <ptr type="opac" cRef="14025840X"/>
+               <!--<note>Das einzige Exemplar der HAB: Gi Mischbd. 1 (5) zeigt keine Lesespuren. Der Sammelband mit Streitschriften zur spanischen Erbfolge um 1700 trägt auf dem Vorderdeckel innen einen Wappenstich (nicht das herzoglich Braunschweig-Lüneburgische), sonst keine Provenienzhinweise.</note>-->
+            </bibl>
+            <bibl xml:id="sperber_kabalisticae_precationes">Sperber, Julius: C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet, so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet, aus des Autoris lateinischem Exemplarien ins Teutsche versetzt . Amsterdam: Für gute Freunde, 1707.
+               <ptr type="worldcat" cRef="319938320"/>
+            </bibl>
+            <bibl xml:id="strada_guerras_flandes">Strada, Famiano: PRIMERA DECADA DE LAS GUERRAS DE FLANDES, Desde la muerte del Emperador CARLOS V. Hasta el principio del Govierno de ALEXANDRO FARNESE, Tercero Duque de Parma y Placencia. ... Escrita én Latin Por el P. Famiano Estrada, ... Y traducida en Romance, Por el P. Melchor de Novar. Köln 1681; 3 Bde. 2. Bd.: SEGUNDA DECADA DE LAS GUERRAS DE FLANDES, Desde el principio del Govierno de ALEXANDRO FARNESE ... Köln 1681; 3. Bd.: TERCERA DECADA De lo que hico én Francia ALEXANDRO FARNESE, ... Escrita én Latin Por el P. Guillelmo Dondino, ... Y traducida en Romance, Por el P. Melchor de Novar. Köln 1681.
+               <ptr type="opac" cRef="23500961x"/>
+               <!--<note>Das Exemplar HAB: Gp 4° 53:1-3 trägt eingeklebt auf dem vorderen Innendeckel das gedruckte Exlibris Herzog Ludwig Rudolphs.</note>-->
+            </bibl>
+            <bibl xml:id="suite_mazarinischen_reverence">Suite Des Mazarinischen Reverence. Ca. 1704.
+               <ptr type="gvk" cRef="35543797X"/>
+            </bibl>
+            <bibl xml:id="tassoni_secchia">Tassoni, Alessandro: La Secchia Rapita : Poema Eroicomico, e&#x27;l Canto Dell&#x27;Oceano. Venedig: Sarzina, 1625.
+               <ptr type="opac" cRef="513708979"/>
+            </bibl>
+            <bibl xml:id="teissier_instruction">Teissier, Antoine:  Instructions de l&#x27;empereur Charles V. &#xE0; Philippe II. Roi d&#x27;Espagne et de Philippe II. au prince Philippe son fils. Mises en Fran&#xE7;ois par Antoine Teissier. 2. &#xE9;dition. A laquelle on a joint la M&#xE9;thode qu&#x27;on a tenu&#xEB; pour l&#x27;&#xE9;ducation des enfans de France. La Haye : Dole, 1700.
+               <ptr type="opac" cRef="136951821"/>
+            </bibl>
+            <bibl xml:id="theophraste_caracteres">Theophraste: Les Caracteres De Theophraste Traduit Du Grec. Avec Les Caracteres Ou Les Moeurs De Ce Siecle. Par Mr. De La Bruiere. Septiéme Edition, corrigée &amp; augmentée. Brüssel : Leonard, 1693.
+               <ptr type="opac" cRef="151800413"/>
+            </bibl>
+            <bibl xml:id="tomasi_la_vie_de_cesar_borgia">Tomasi, Tomaso: La Vie de Cesar Borgia, appell&#xE9; du depuis le Duc de Valentinois: Enrichi de belles figures en Taille douce, descrite par Thomas Thomasi. Traduit de l&#x27;Italien (par Casimir Freschot). A Leide chez Theodore Haak, 1712.
+               <ptr type="opac" cRef="23610506X"/>
+            </bibl>
+            <bibl xml:id="toppe_rechte_anwendung_der_kurtzen_lebenszeit">Toppe, Philipp Julius: Rechte Anwendung der jetzigen kurtzen Lebens-Zeit/ und christliche Vorbereitung zu der künfftigen Seeligen Ewigkeit; Nach Anleitung derer auserlesensten Sprüche Heiligen Schrifft/ allen Christen zur Erlernung der allernöthigsten/ allerfürtrefflichsten und Seeligen Sterbe-Kunst mitgetheilet von Philippo Julio Toppio. Prediger zu Bienenbüttel. Hamburg: Gottfried Liebernickel, 1708.
+               <ptr type="gvk" cRef="387388753"/>
+            </bibl>
+            <bibl xml:id="trier_kurtze_fragen">Trier, Johann Wolfgang: Joh. Wolffgang Triers kurtze Fragen von den menschlichen Neigungen : darinnen von deren Ursprung und Würckungen auf eine besondere Art gehandelt und zugleich angewiesen wird, wie man dieselben so wohl an sich als an andern erkennen könne, auch sich sonsten im gemeinen Leben dißfalls zu verhalten habe. Leipzig : Gleditsch, 1707.
+               <ptr type="opac" cRef="236312944"/>
+            </bibl>
+            <bibl xml:id="valckenier_das_verwirrte_europa">Valckenier, Pieter: Das Verwirrte Europa. Oder, Politische und Historische Beschreibung Der in Europa, fürnehmlich in dem Vereinigten Niederlande, und in dessen Nachbarschafft, seither dem Jahre 1664. entstandenen, und durch die gesuchte allgemeine Monarchie der Frantzosen, verursachten blutigen Kriege, ... nebenst deroselben Ursachen und Gründen : Fürgestelt in vier Teilen, ... Nebenst den Authenticquen Copeyen der Briefe und gewissen Berichten ; Geziert mit vielen kunstreichen Kupffer-Stücken, ... / Durch Hrn. Petrus Valckenier, JC. Niederländischen Ordinaren Residenten in Franckfurt am Mayn. 3 Bde., Amsterdam: Meurs; Someren; Boom, 1677-1683.
+               <ptr type="opac" cRef="135738806"/>
+            </bibl>
+            <bibl xml:id="vassetz_traite_du_merite">Vassetz, Abb&#xE9;: Trait&#xE9; du m&#xE9;rite / Par Mr. l&#x27;Abb&#xE9; de Vassetz ... La Haye : Voys, 1704.
+               <ptr type="opac" cRef="134957520"/>
+            </bibl>
+            <bibl xml:id="veneroni_das_k&#xE4;yserliche_sprach_und_w&#xF6;rter_buch">Veneroni, Giovanni: Das K&#xE4;yserliche Sprach- und W&#xF6;rter-Buch, darinnen die vier europ&#xE4;ische Haupt-Sprachen ... vorgetragen werden. Frankfurt am Main: Zunner, 1700. 
+               <ptr type="opac" cRef="15117962X"/>
+            </bibl>
+            <bibl xml:id="vocabolario_degli_accademici">Vocabolario degli Accademici della Crusca: Con Tre Indici Delle Voci, locuzioni, e prouerbi Latini, e Greci, posti per entro l'opera. Venezia: Alberti 1612.
+               <ptr type="opac" cRef="151192685"/>
+            </bibl>
+            <bibl xml:id="volaterranus_commentariorum_urbanorum">Volaterranus, Raphael: R. Volaterrani Commentariorum Urbanorum Liber ... Rom : Besicken, 1506.
+               <ptr type="gvk" cRef="14297224X"/>
+            </bibl>
+            <bibl xml:id="warhafftige_abbildung_aller_itzo">Warhafftige Abbildung Aller itzo im Krieg begriffenen Hohen Potentaten und dero Generals. Durch Beibringung verschiedener aus Betrachtung dero Actionen gezogenen Remarques ... Mit einem Entwurff von der ... Kunst, die Gemüther der Menschen zu erkennen, worin gezeiget und untersuchet wird: I. ob eine solche Kunst zu finden, II.. wie sie zu erlernen, III. wozu sie nütze und IV. ob sie untrüglich sey? Cöln: Marteau, 1707.
+               <ptr type="gvk" cRef="146967836"/>
+            </bibl>
+            <bibl xml:id="wildeisen_oettingischer_palm_und_lorbeer_krantz">Wildeisen, Johann Melchior: Oettingischer Palm- und Lorbeer-Krantz ... Manuskript.
+               <ptr type="msDB" cRef="15-blank"/>
+               <note>Das Werk stammt ursprünglich von dem württembergischen und oettingischen Rat Johann Melchior Wildeisen. Der oettingische Amtmann zu Aufkirch Johann Jakob Keßler widmete 1692 eine Ausgabe Albrecht Ernst II. von Oettingen-Oettingen, die Ludwig Rudolph vermutlich 1712 bei seinem Aufenthalt in Schrattenhofen benutzte.</note>
+            </bibl>
+            <bibl xml:id="xanthopulus_callistus_ekklesiastikes">Nikephorus Callistus Xanthopulus: Nik&#x113;phoru Kallistu Tu Xanthopulu Ekkl&#x113;siastik&#x113;s Historias Biblia 18 : In duos Tomos distincti, ac Gr&#xE6;c&#xE8; nunc prim&#xF9;m editi; Adiecta est Latina interpretatio Ioannis Langi, &#xE0; R. P. Frontone Dvc&#xE6;o Societatis Iesv Theologo cum Gr&#xE6;cis collata &#x26; recognita. Tomvs Prior. Lutetiae Parisiorum: Cramoisy, 1630.
+               <ptr type="opac" cRef="190912367"/>
+            </bibl>
+            <bibl xml:id="zschackwitz_leben_und_thaten_joseph_1">Zschackwitz, Johann Ehrenfried: Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät ... Regierung vorgefallenen Reichs-Historie : Alles mit behörigen Documenten bekräfftiget, auch mit andern curieusen u. nützlichen Reichs-Materien erläutert, Als I. Von der Wahl-Crönungs-Ceremonien eines Römischen Käysers; II. Gründliche Nachricht von der Güldenen Bulle ...; III. Von denen Reichs-Vicariis ... /. Leipzig: Gleditsch &amp; Weidmann, 1712.
+               <ptr type="opac" cRef="140883967"/>
+            </bibl>
+         </listBibl>
+      </body>  
+   </text>
+</TEI>

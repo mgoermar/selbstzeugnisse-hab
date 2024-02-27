@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="grand_tour_koerperschaftsregister">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Körperschaftsregister</title>
+                <respStmt>
+                    <resp>erstellt und bearbeitet von </resp>                    
+                    <name>Angela Göbel</name>
+                    <name>Maximilian Görmar</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="https://www.hab.de"/>
+                    <address>
+                        <street>Lessingplatz 1</street>
+                        <name type="city">Wolfenbüttel</name>
+                        <postCode>D-38299</postCode>
+                        <name type="country">Germany</name>
+                    </address>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>        
+    <text>
+        <body>
+            <listOrg xml:id="org">
+                <org xml:id="augustiner">
+                    <orgName ref="https://d-nb.info/gnd/1008455-1">Augustinerorden (Ordo Eremitarum Sancti Patris Augustini)</orgName>
+                </org>
+                <org xml:id="braunschweig_rat">
+                    <orgName>Braunschweig, Rat der Stadt</orgName>
+                </org>
+                <org xml:id="dominikaner">
+                    <orgName ref="https://d-nb.info/gnd/1008640-7">Dominikaner (Ordo Fratrum Praedicatorum)</orgName>
+                </org>
+                <org xml:id="franziskaner">
+                    <orgName ref="https://d-nb.info/gnd/1008636-5">Franziskaner (Ordo Fratrum Minorum)</orgName>
+                </org>
+                <org xml:id="genf_akademie">
+                    <orgName ref="https://d-nb.info/gnd/1015032-8">Genf, Akademie (Académie de Genève)</orgName>
+                </org>
+                <org xml:id="giessen_universitaet">
+                    <orgName ref="https://d-nb.info/gnd/36154-9">Gießen, Universität</orgName>
+                </org>
+                <org xml:id="greifswald_universitaet">
+                    <orgName ref="https://d-nb.info/gnd/1143162595">Greifswald, Universität</orgName>
+                </org>
+                <org xml:id="gugler">
+                    <orgName>Gugler</orgName>
+                    <note>Truppe englischer und französischer Söldner, die 1375 in die Schweiz eindrang und in mehreren Gefechten von den Eidgenossen geschlagen wurden. Benannt nach ihren Helmen, den sogenannten Gugeln. Vgl. Beatrix Lang: "Gugler", in: Historisches Lexikon der Schweiz (HLS), Version vom 19.05.2021. Online: <ref target="https://hls-dhs-dss.ch/de/articles/008731/2021-05-19/">https://hls-dhs-dss.ch/de/articles/008731/2021-05-19/</ref>.</note>
+                </org>
+                <org xml:id="heidelberg_universitaet">
+                    <orgName ref="https://d-nb.info/gnd/2024349-2">Heidelberg, Universität</orgName>
+                </org>
+                <org xml:id="helmstedt_universitaet">
+                    <orgName ref="https://d-nb.info/gnd/2051813-4">Helmstedt, Universität</orgName>
+                </org>
+                <org xml:id="jesuiten">
+                    <orgName ref="https://d-nb.info/gnd/80092-2">Jesuiten (Societas Jesu)</orgName>
+                </org>
+                <org xml:id="johanniter">
+                    <orgName ref="https://d-nb.info/gnd/43583-1">Johanniter (Ordo Militiae Sancti Johannis Baptistae Hospitalis Hierosolimitani)</orgName>
+                </org>
+                <org xml:id="kapuziner">
+                    <orgName ref="https://d-nb.info/gnd/1012705-7">Kapuziner (Ordo Fratrum Minorum Capucinorum)</orgName>
+                </org>
+                <org xml:id="koenigsberg_universitaet">
+                    <orgName ref="https://d-nb.info/gnd/1116746107">Königsberg, Universität</orgName>
+                </org>
+                <org xml:id="koenigsberg_universitaet_hochdeutsche_nation">
+                    <orgName>Hochdeutsche oder Oberdeutsche Nation, Universität Königsberg</orgName>
+                    <note>Vermutlich eine studentische Nation oder Landsmannschaft an der Universität Königsberg. Umfasste Schlesier, Österreicher, Mähren, Ungarn und Siebenbürgen. Vgl. Götz von Selle: Geschichte der Albertus-Universität zu Königsberg in Preußen, Königsberg (Pr.) 1944, S. 77.</note><!--Vielleicht Studentennation; Eulenburg (Die Frequenz der deutschen Universitäten, S. 83) erwähnt als vier Nationen in Königsberg nur Bayern, Schlesier, Balten und Westfalen-->
+                </org>
+                <org xml:id="koenigsberg_universitaet_preussische_nation">
+                    <orgName>Preußische Nation, Universität Königsberg</orgName>
+                    <note>Vermutlich eine studentische Nation oder Landsmannschaft an der Universität Königsberg. Umfasste Preußen, Polen, Litauer, Kurländer und Livländer. Vgl. Götz von Selle: Geschichte der Albertus-Universität zu Königsberg in Preußen, Königsberg (Pr.) 1944, S. 77.</note>
+                </org>
+                <org xml:id="lausanne_rat">
+                    <orgName>Lausanne, Rat der Stadt</orgName>
+                </org>
+                <org xml:id="lyon_kollegiatstift_st_just">
+                    <orgName>Lyon, Kollegiatstift St. Just</orgName>
+                </org>
+                <org xml:id="lyon_kathedralstift_st_jean">
+                    <orgName>Lyon, Kathedralkapitel St. Jean (Chapitre de Saint-Jean) </orgName>
+                </org>
+                <org xml:id="lyon_confrerie_penitents_blanc">
+                    <orgName>Lyon, Bruderschaft der weißen Büßer (Confrérie de Pénitents Blanc)</orgName>
+                </org>
+                <org xml:id="marburg_medizinische_fakultaet">
+                    <orgName ref="https://d-nb.info/gnd/25976-7">Marburg, Medizinische Fakultät</orgName>
+                </org>
+                <org xml:id="marienburg_jesuiter">
+                    <orgName>Marienburg, Jesuitercollegium</orgName>
+                </org>
+                <org xml:id="musketiere_der_garde_frankreich">
+                    <orgName ref="https://www.wikidata.org/wiki/Q1564383">Musketiere der Garde, Frankreich (Mousquetaires de la garde)</orgName>
+                </org>
+                <org xml:id="orden_heiliger_geist">
+                    <orgName ref="https://d-nb.info/gnd/4439265-5">Orden vom Heiligen Geist (Ordre du Saint-Esprit)</orgName>
+                </org>
+                <org xml:id="orden_st_michael">
+                    <orgName ref="https://d-nb.info/gnd/4447618-8">Orden des Heiligen Michael (Ordre de Saint-Michel)</orgName>
+                </org>
+                <org xml:id="rom_senat">
+                    <orgName ref="https://d-nb.info/gnd/4070408-7">Rom, Senat (Senatus Romanus)</orgName>
+                </org>
+                <org xml:id="schweizer_garde_frankreich">
+                    <orgName ref="https://d-nb.info/gnd/1086520084">Schweizergarde, Frankreich (Régiment des Gardes-Suisses)</orgName>
+                </org>
+                <org xml:id="solothurn_rat">
+                    <orgName>Solothurn, Rat der Stadt (Kleiner Rat)</orgName>
+                </org>
+                <org xml:id="stettin_paedagogium">
+                    <orgName ref="https://d-nb.info/gnd/6014878-0">Stettin, Königliches Pädagogium</orgName>
+                </org>
+                <org xml:id="stolpe_collegium">
+                    <orgName>Stolpe, Collegium</orgName>
+                </org>
+                <org xml:id="strassburg_universitaet">
+                    <orgName ref="https://d-nb.info/gnd/5344022-5">Straßburg, Universität</orgName>
+                </org>
+            </listOrg>
+        </body>
+    </text>
+</TEI>

@@ -22,11 +22,14 @@
         <body>
             <div>
                 <head>Diarium von Herzog August dem Jüngeren</head>
-                <p> Die <ref target="http://selbstzeugnisse.hab.de/edition/diarium/front"
-                        >Edition</ref> präsentiert das Tagebuch mit dem Originaltitel „Ephemerides.
-                    Sive Diarium", welches von August dem Jüngeren (1579-1666), Herzog zu
+                <p> Ergänzend zum <ref target="http://selbstzeugnisse.hab.de/repertorium">Selbstzeugnis-Repertorium</ref> bietet der zweite Teil des Projektes die digitale <ref target="http://selbstzeugnisse.hab.de/edition/diarium/front">Edition</ref> des Diariums von August dem Jüngeren, Herzog zu Braunschweig und Lüneburg (1579-1666), dem Namensgeber der Herzog August Bibliothek (HAB), an. Diese Edition erschließt exemplarisch ein zentrales Selbstzeugnis des recherchierten Bestandes.
+                    Das Diarium umfasst knapp vierzig Lebensjahre des Herzogs, den Zeitraum von seinem Eintritt in die Universität bis zum Einzug in die
+                    Residenz Wolfenbüttel (1594-1635). Einblicke in die Interessen von August d. J. und vor allem auch Informationen zu seinem Beziehungs- und Wirkungskreis werden durch die Edition zugänglich gemacht. 
+                </p>
+                <p> Die Edition präsentiert das Tagebuch mit dem Originaltitel „Ephemerides.
+                    Sive Diarium", welches von August dem Jüngeren<!-- (1579-1666), Herzog zu
                     Braunschweig und Lüneburg, dem Namensgeber der Herzog August Bibliothek
-                    Wolfenbüttel (HAB), verfasst wurde. Es liegt im Handschriftenbestand der HAB als
+                    Wolfenbüttel (HAB),--> verfasst wurde. Es liegt im Handschriftenbestand der HAB als
                     Autograph vor und wurde bisher weder vollständig transkribiert noch ediert. Das
                     in der Forschungsliteratur oft als Reisetagebuch bezeichnete Diarium wird unter
                     Beibehaltung des diaristischen Charakters und mit Blick auf innovative
@@ -42,7 +45,7 @@
                         target="http://selbstzeugnisse.hab.de/edition/richtlinien">Editions- und
                         Kodierungsrichtlinien</ref> erklärt.</p>
                 <div>
-                    <head>Die Quellen</head>
+                    <head>Quellen und Literatur</head>
                     <listBibl>
                         <head>Das Tagebuch</head>
                         <bibl>Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666):
@@ -52,7 +55,12 @@
                                 >Digitalisat</ref></bibl>
                     </listBibl>
                     <listBibl>
-                        <head>Weitere herangezogene Quellen zur inhaltlichen Erschließung des
+                        <head>Bisherige Teileditionen</head><!--Ergänzt von MG, 28.03.2023-->
+                        <bibl><ref type="opac" cRef="033118582">Schwarzwälder, Herbert und Inge Schwarzwälder (Hrsg.): Reisen und Reisende in Nordwestdeutschland. Beschreibungen, Tagebücher und Briefe. Itinerare und Kostenrechnungen, Bd. 1, Hildesheim 1987</ref>, S. 358-373. Kommentierte Auszüge aus den 1594-1634.</bibl>
+                        <bibl><ref type="opac" cRef="271329386">Dussler, Hildebrand (Hrsg.): Reisen und Reisende in Bayerisch-Schwaben und seinen Randgebieten in Oberbayern, Franken, Württemberg, Vorarlsberg und Tirol. Reiseberichte aus elf Jahrhunderten, Weißenborn 1968</ref>, S. 106-111. Kommentierte Auszüge aus den jahren 1598 und 1600.</bibl>
+                    </listBibl>
+                    <listBibl>
+                        <head>Weitere Quellen zur inhaltlichen Erschließung des
                             Tagebuches</head>
                         <bibl>Drei dem Reisetagebuch beiliegende Briefe, davon zwei eigenhändig von
                             Hz. August an Bernhard Rülow (Rostock 13.04.1594 und 24.11.1594) und ein
@@ -86,11 +94,18 @@
                                 cRef="138009732"> Diarium Martini Crusii, hrsg. von Wilhelm Göz und
                                 Ernst Conrad, Tübingen 1927-1961.</ref></bibl>
                     </listBibl>
+                    <listBibl>
+                        <head>Sekundärliteratur, die durchgängig herangezogen wurde</head><!--Ergänzt von MG, 24.06.2021-->
+                        <bibl><ref type="opac" cRef="023685956">Raabe, Paul und Ekkehard Schinkel (Red.): Sammler Fürst Gelehrter. Herzog August zu Braunschweig und Lüneburg 1579-1666, Wolfenbüttel 1979.</ref></bibl>
+                        <bibl><ref type="opac" cRef="023973706">Hueck, Monika: Gelegenheitsgedichte auf Herzog August von Braunschweig-Lüneburg und seine Familie (1579-1666). Ein bibliographisches Verzeichnis der Drucke und Handschriften in der Herzog August Bibliothek Wolfenbüttel, Wolfenbüttel 1982.</ref></bibl>
+                    </listBibl>
                 </div>
                 <div>
                   <head>Zitierempfehlung</head>
-                  <bibl>
+                  <listBibl>
+                      <bibl>
                   Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek: Digitale Edition des Diariums von Herzog August dem Jüngeren. Hrsg. von Inga Hanna Ralle, Technische Konzeption und Begleitung durch David Maus, unter Mitarbeit von Jacqueline Krone. Gefördert durch das Niedersächsische Ministerium für Wissenschaft und Kultur. Wolfenbüttel : Herzog August Bibliothek, 2015–2017. (= Wolfenbütteler Digitale Editionen; 1) DOI: <ref target="http://dx.doi.org/10.15499/edoc/ed000225">10.15499/edoc/ed000225</ref> </bibl>
+                  </listBibl>
                 </div>
             </div>
         </body>

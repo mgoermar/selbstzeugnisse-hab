@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sz2_bibliographie">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliographie</title>
+            <respStmt>
+               <resp>erstellt und bearbeitet von </resp>
+               <name>Alexander Zirr</name>
+               <name>Andreas Herz</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+               <ptr target="http://www.hab.de"/>
+               <address>
+                  <street>Lessingplatz 1</street>
+                  <name type="city">Wolfenbüttel</name>
+                  <postCode>D-38299</postCode>
+                  <name type="country">Germany</name>
+               </address>
+            </publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>   
+   <text>
+      <body>
+         <listBibl xml:id="bibliographie">
+            <bibl type="book" xml:id="anon_les_eaux_d_aix">
+               <title level="m" ref="ppn_180849395">Les eaux d'Aix : nouvelle divertissante ; Du Mois de May 1701</title>
+               <author>
+                  <name>N. N.</name>
+               </author>
+               <pubPlace>Köln</pubPlace>
+               <publisher>Marteau</publisher>
+               <date>1701</date>
+               <ptr type="opac" cRef="180849395"/>
+            </bibl>
+            <bibl type="book" xml:id="barbier_dictionnaire">
+               <title level="m" ref="ppn_136068626">Le Dictionnaire De L'Académie Françoise.</title>
+               <author>
+                  <forename>Jean</forename>
+                  <surname>Barbier d'Aucour</surname>
+               </author>               
+               <pubPlace>Paris</pubPlace>
+               <publisher>Coignard</publisher>
+               <date>1694</date>
+               <ptr type="opac" cRef="136068626"/>
+            </bibl>
+            <bibl type="book" xml:id="bentivoglio_opere">
+               <title level="m" ref="ppn_150035462">Opere : Nuov. Racc. insieme / del Cardinal Bentivoglio.</title>
+               <author>
+                  <forename>Guido</forename>
+                  <surname>Bentivoglio</surname>
+               </author>               
+               <pubPlace>Paris</pubPlace>
+               <publisher>Redelichuysen</publisher>
+               <date>1645</date>
+               <ptr type="opac" cRef="150035462"/>
+            </bibl>
+            <bibl type="book" xml:id="bestand_der_wuerde">
+               <title level="m" ref="ppn_150051360">Bestand der Würde und Krohn des Königreichs Preussen [... den 13. Decembris, 1700]</title>                       
+               <pubPlace>[S.l.]</pubPlace>
+               <date>1701</date>
+               <ptr type="opac" cRef="150051360"/>
+            </bibl>
+            <bibl type="book" xml:id="boethius_consolatione">
+               <title level="a">De Consolatione philosophiae</title>
+               <title level="m" ref="ppn_536109648">Des Fürtrefflichen Hochweisen Herrn Severini Boetii Weil. Bürgermeisters zu Rom Consolatio Philosophiae, Oder Christlich-vernunfft-gemesser Trost und Unterricht/ in Widerwertigkeit und Bestürtzung über dem vermeinten Wohl- oder Ubel-Stand der Bösen und Frommen : Verteutschet, und Mit beygefügten kurtzen Anmerckungen über etliche dunckele Ort desselben</title>
+               <author>
+                  <name>Anicius Manlius Severinus Boethius</name>
+               </author>
+               <editor role="translator">
+                  <forename>Christian</forename>
+                  <surname>Knorr von Rosenroth</surname>
+               </editor>
+               <pubPlace>Lüneburg</pubPlace>
+               <publisher>Lipper</publisher>
+               <date>1697</date>
+               <ptr type="opac" cRef="536109648"/>
+            </bibl>
+            <!--<bibl type="book" xml:id="bruslé_montpleinchamp_histoire_alexandre_farnese">
+               <title level="m" ref="ppn_150440464">L'Histoire d'Alexandre Farneze, Duc de Parme et de Plaizance, gouverneur de la Belgique</title>
+               <author>
+                  <forename>Jean-Chrysostome</forename>
+                  <surname>Bruslé de Montpleinchamp</surname>
+               </author>               
+               <pubPlace>Amsterdam (recte Brüssel)</pubPlace>
+               <publisher>Michils Foppens</publisher>
+               <date>1692</date>
+               <ptr type="opac" cRef="150440464"/>
+            </bibl>--> <!--NICHT SPANISCH-->
+            <bibl type="book" xml:id="capel_von_suendlichen_versuchungen_1_2">
+               <title level="m" ref="ppn_150892969">Richard Capel's, Weyland Berühmten Engelländischen Theologi, Geistreicher Tractat Von Sündlichen Versuchungen/ Worinne Ihre Gefahr Natur/ und Cur gezeiget wird / Anitzo Zur Beförderung des wahren Christenthums aus dem Engelländischen ins Hoch-Teutsche übersetzet Durch M. G. K. [Erster und Zweiter Theil]</title>
+               <author>
+                  <forename>Richard</forename>
+                  <surname>Capel</surname>
+               </author>
+               <!--<editor role="translator">
+                  <forename>M. G.</forename>
+                  <surname>K.</surname>
+               </editor>  -->             
+               <pubPlace>Aschersleben/Quedlinburg</pubPlace>
+               <publisher>Struntz</publisher>
+               <date>1701</date>
+               <ptr type="opac" cRef="150892977"/>
+            </bibl>
+            <bibl type="book" xml:id="capel_von_suendlichen_versuchungen_3_4">
+               <title level="m" ref="ppn_150892969">Richard Capel's, Weyland Berühmten Engelländischen Theologi, Geistreicher Tractat Von Sündlichen Versuchungen/ Worinne Ihre Gefahr Natur/ und Cur gezeiget wird / Anitzo Zur Beförderung des wahren Christenthums aus dem Engelländischen ins Hoch-Teutsche übersetzet Durch M. G. K. [Dritter und Vierdter Theil]</title>
+               <author>
+                  <forename>Richard</forename>
+                  <surname>Capel</surname>
+               </author>
+               <!--<editor role="translator">
+                  <forename>M. G.</forename>
+                  <surname>K.</surname>
+               </editor>  -->             
+               <pubPlace>Aschersleben/Quedlinburg</pubPlace>
+               <publisher>Struntz</publisher>
+               <date>1701</date>
+               <ptr type="opac" cRef="150892977"/>
+            </bibl>
+            <bibl type="book" xml:id="courtilz-sandras_memoires_madame_fresne">
+               <title level="m" ref="ppn_1093374659">Mémoires De Madame La Marquise De Frêne : Enrichis de figures</title>
+               <author>
+                  <forename>Gatien</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Courtilz de Sandras</surname>
+               </author>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Malherbe</publisher>
+               <date>1701</date>
+               <!--<ptr type="opac" cRef=""/>nicht an der HAB vorhanden-->
+            </bibl>
+            <bibl type="book" xml:id="epictetus_handbuechlein">
+               <title level="m" ref="ppn_535841868">Des Epicteti Hand-Büchlein : Aus dem Griechischen/ mit Hülffe der Lateinisch- Spanisch: Italiänisch- Frantzösisch- Englisch- und Holländischen Verdolmetschung in die deutsche Sprache von neuem übersetzet Im Jahr 1670</title>
+               <author>
+                  <name>Epictetus</name>
+               </author>
+               <editor role="translator">
+                  <forename>Friedrich</forename>
+                  <nameLink>von</nameLink>
+                  <surname>Walther</surname>
+               </editor>               
+               <pubPlace>Oels</pubPlace>
+               <publisher>Bockshammer</publisher>
+               <date>1695</date>
+               <ptr type="opac" cRef="535841868"/>
+            </bibl>
+            <bibl type="book" xml:id="ernst_des_himmlischen_salomonis">
+               <title level="m" ref="ppn_535475098">Des Him[m]lischen Salomonis gründliches und Warhafftiges Urtheil/ Von der wahren und falschen Glückseeligkeit der Menschen : Aus dem V. Cap. Matthaei, und VI. Cap. Lucae, in XV. Betrachtungen ... fürgestellet/ Welchem beygefüget die sonderbare Bekehr- und Beruffung des Zöllners Matthäi/ In VIII. Betrachtungen erwogen. Benebenst nützlichen Registern ...</title>
+               <author>
+                  <forename>Jacob Daniel</forename>
+                  <surname>Ernst</surname>
+               </author>               
+               <pubPlace>Altenburg</pubPlace>
+               <publisher>Richter</publisher>
+               <date>1695</date>
+               <ptr type="opac" cRef="535475098"/>
+            </bibl>
+            <bibl type="book" xml:id="gracián_obras_i">
+               <title level="m" ref="ppn_151606471">Obras De Lorenzo Gracian. Tomo Primero: Que Contiene, El Criticon, Primera, Segunda y Tercera Parte. El Oraculo. Y El Heroe. Tomo Secundo: Que Contiene, La Agudeza, Y Arte De Ingenio. El Discreto. El Politico Don Fernando el Catolico. Meditaciones varias para antes, y despues de la Sagrada Comunion. Ultima Impression, mas corrigenda, y enriquecida de tablas. Tome 1</title>
+               <author>
+                  <forename>Baltasar</forename>
+                  <surname>Gracián y Morales</surname>
+               </author>               
+               <pubPlace>Madrid</pubPlace>
+               <publisher>Redondo, De Val</publisher>
+               <date>1664</date>
+               <ptr type="opac" cRef="151606471"/>
+               <note>Das Exemplar Herzog August Bibliothek: Ll 109: 1-2 der zweibändigen Werkausgabe von 1664 stammt laut Exlibris aus dem Besitz Herzog Ludwig Rudolphs.</note>
+            </bibl>
+            <bibl type="book" xml:id="le_vassor_histoire_louis_xiii">
+               <title level="m" ref="ppn_216810957">Histoire Du Regne De Louis XIII. Roi De France Et De Navarre. 2. ed., revue et corrigée. Tome 1 [-Tome 10]</title>
+               <author>
+                  <forename>Michel</forename>
+                  <surname>Le Vassor</surname>
+               </author>               
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Le Jeune</publisher>
+               <date>1700 [-1711]</date>
+               <ptr type="opac" cRef="216810957"/>
+            </bibl>
+            <bibl type="book" xml:id="mezeray_histoire">
+               <title level="m" ref="ppn_221766022">Histoire de France avant Clovis : l'origine des François et leur establissement dans les Gaules, l'estat de la religion et la conduite des eglises dans les Gaules jusqu'au regne de Clovis</title>
+               <author>
+                  <forename>François Eudes</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Mézeray</surname>
+               </author>               
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Schelte</publisher>
+               <date>1696</date>
+               <ptr type="opac" cRef="221766022"/>
+            </bibl>
+            <bibl type="book" xml:id="nani_historia_veneta">
+               <title level="m" ref="ppn_151171742">Historia della Repvblica Veneta</title>
+               <author>
+                  <forename>Battista</forename>
+                  <surname>Nani</surname>
+               </author>               
+               <pubPlace>Bologna</pubPlace>
+               <publisher>Longhi</publisher>
+               <date>1680</date>
+               <ptr type="opac" cRef="151171750"/>
+            </bibl>
+            <bibl type="book" xml:id="pascal_pensees">
+               <title level="m" ref="ppn_150333269">Pensées ... Sur la Religion, Et sur quelques autres sujets. Ed. nouvelle. Augmentée de beaucoup de Pensées, de la Vie de l'Autheur, &amp; de quelques Dissertations.</title>
+               <author>
+                  <forename>Blaise</forename>
+                  <surname>Pascal</surname>
+               </author>               
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Wetstein</publisher>
+               <date>1699</date>
+               <ptr type="opac" cRef="150333269"/>
+               <note>Die Exemplare der an der HAB bewahrten Ausgaben seit 1670 bis 1701 lassen einen einstigen Besitz Herzog Ludwig Rudolphs nicht erkennen. <!--Geprüft: nur OPAC!--></note>
+            </bibl>
+            <bibl type="book" xml:id="philostratus_images">
+               <title level="m" ref="ppn_253096111">Les images ou tableaux de platte peinture des deux Philostrates sophistes grecs et les statues de Callistrate</title>
+               <author>
+                  <forename>Blaise</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Vigenère</surname>
+               </author>               
+               <pubPlace>Paris</pubPlace>
+               <publisher>Guillemot</publisher>
+               <date>1637</date>
+               <ptr type="opac" cRef="253096111"/>
+            </bibl>
+            <bibl type="book" xml:id="salnove_venerie_royale">
+               <title level="m" ref="ppn_230502520">La venerie royale divisée en 4 parties : qui continnent Le Chasses du Cerf ... avec le denombrement des forests et grands buissons de France ... (et un Dictionnaire des chasseurs)</title>
+               <author>
+                  <forename>Robert</forename>
+                  <nameLink>de</nameLink>
+                  <surname>Salnove</surname>
+               </author>               
+               <pubPlace>Paris</pubPlace>
+               <publisher>Sommaville</publisher>
+               <date>1665</date>
+               <ptr type="opac" cRef="230502520"/>
+            </bibl>
+            <bibl type="book" xml:id="schmidt_compendium">
+               <title level="m" ref="ppn_392564157">Compendium Historiae Ecclesiasticae In Varios Studiosae Iuventutis Usus Conscriptum</title>
+               <author>
+                  <forename>Johann Andreas</forename>
+                  <surname>Schmidt</surname>
+               </author>               
+               <pubPlace>Helmstedt</pubPlace>
+               <publisher>Süstermann</publisher>
+               <date>1701</date>
+               <ptr type="opac" cRef="392564157"/>
+            </bibl>
+            <bibl type="book" xml:id="valckenier_das_verwirrte_europa">
+               <title level="m" ref="ppn_135738806">Das Verwirrte Europa. Oder, Politische und Historische Beschreibung Der in Europa, fürnehmlich in dem Vereinigten Niederlande, und in dessen Nachbarschafft, seither dem Jahre 1664. entstandenen, und durch die gesuchte allgemeine Monarchie der Frantzosen, verursachten blutigen Kriege, ... nebenst deroselben Ursachen und Gründen : Fürgestelt in vier Teilen, ... Nebenst den Authenticquen Copeyen der Briefe und gewissen Berichten ; Geziert mit vielen kunstreichen Kupffer-Stücken, ... / Durch Hrn. Petrus Valckenier, JC. Niederländischen Ordinaren Residenten in Franckfurt am Mayn. 3 Bde.</title>
+               <author>
+                  <forename>Pieter</forename>
+                  <surname>Valckenier</surname>
+               </author>
+               <pubPlace>Amsterdam</pubPlace>
+               <publisher>Meurs; Someren; Boom</publisher>
+               <date>1677-1683</date>
+               <ptr type="opac" cRef="135738806"/>
+            </bibl>
+         </listBibl>
+      </body>
+   </text>
+</TEI> 

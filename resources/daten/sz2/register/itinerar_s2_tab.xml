@@ -1,0 +1,3196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sz2.register.itinerar">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Itinerar</title>
+            <respStmt>
+               <resp>erstellt und bearbeitet von</resp>
+               <name>Maximilian Görmar</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+               <ptr target="http://www.hab.de"/>
+               <address>
+                  <street>Lessingplatz 1</street>
+                  <name type="city">Wolfenbüttel</name>
+                  <postCode>D-38299</postCode>
+                  <name type="country">Germany</name>
+               </address>
+            </publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="volume"
+              xml:id="sz2.cod_guelf_211_1_extrav.itinerar"
+              n="Christine Luise, 1698/99 (Cod. Guelf. 211.1 Extrav.)">
+            <index indexName="itinerary">
+               <term>
+                  <placeName when="1698-03-09">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-09">Hessen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-09">Quedlinburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-10">Mansfeld</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-10">Sangerhausen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-11">Kölleda</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-12">Erfurt</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-12">Arnstadt</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-14">Ilmenau</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-14">Eisfeld</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-15">Coburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-15">Gleußen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-16">Bamberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-16">Hirschaid</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-17">Erlangen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-17">Nürnberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-18">Wassermungenau</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-18">Gunzenhausen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-19">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-20">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-23">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-03-27">Tiergarten, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-04-11">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-01">Thurneck</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-07">Tiergarten, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-10">Tiergarten, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-10">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-14">Tiergarten, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-16">Tiergarten, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-19">Tiergarten, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-21">Thurneck</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-22">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-22">Tiergarten, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-23">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-28">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-28">Wassermungenau</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-28">Schwabach</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-28">Nürnberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-29">Erlangen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-30">Hirschaid</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-30">Bamberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-05-31">Staffelstein (Bad Staffelstein)</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-01">Eisfeld</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-02">Frauenwald</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-03">Ilmenau</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-04">Ichtershausen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-06">Erfurt</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-07">Kölleda</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-08">Sangerhausen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-08">Mansfeld</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-09">Ditfurt</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-09">Halberstadt</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-11">Hessen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-11">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-20">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-20">Braunschweig, Masch</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-21">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-21">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-22">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-23">Steterburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-23">Steterburg, Stift</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-25">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-25">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-28">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-30">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-06-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-07-08">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-07-09">Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-07-10">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-07-11">Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-07-12">Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-07-24">Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-07-25">Wolfenbüttel, Garten Herzogin Elisabeth Julianes</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-01">Wolfenbüttel, Garten Herzog August Wilhelms</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-02">Wolfenbüttel, Liebeswinkel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-03">Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-05">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-07">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-12">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-15">Wolfenbüttel, Hoftheater</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-16">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-19">Wolfenbüttel, Hoftheater</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-21">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-21">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-24">Braunschweig, Steintor</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-30">Halberstadt</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-30">Hessen</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-08-31">Halberstadt</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-09-03">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-09-03">Halberstadt</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-09-04">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-09-05">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-09-08">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-09-20">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-09-24">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-09-27">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-09-29">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-10-09">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-10-09">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-12-21">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-12-26">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1698-12-29">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-01-05">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-01-12">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-01-22">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-01-28">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-01-28">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-07">Braunschweig, Festsaal im Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-07">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-09">Braunschweig, Festsaal im Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-09">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-16">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-23">Langlingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-24">Winsen (Aller)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-24">Aller, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-25">Hademstorf</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-26">Verden</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-27">Bremen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-02-28">Oldenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-03-01">Friedeburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-03-02">Aurich</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-03-03">Aurich</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-03-05">Aurich</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-03-19">Aurich</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-03-30">Aurich</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-03-31">Aurich</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-03-31">Friedeburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-03-31">Oldenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-01">Delmenhorst</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-01">Bremen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-02">Langwedel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-02">Südkampen (Walsrode)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-03">Winsen (Aller)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-03">Aller, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-03">Bockelskamp (Wienhausen)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-04">Ohof</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-04">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-10">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-13">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-14">Wendessen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-15">Wolfenbüttel, Garten "Mon Plaisir"</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-15">Wolfenbüttel, Harztor</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-25">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-27">Wolfenbüttel, Tiergarten</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-04-27">Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-01">Wolfenbüttel, Garten Herzogin Elisabeth Julianes</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-02">Lutter am Barenberge</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-03">Seesen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-04">Seesen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-04">Harste</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-04">Hannoversch Münden</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-05">Kassel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-05">Fritzlar</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-06">Gilserberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-06">Marburg an der Lahn</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-07">Marburg an der Lahn</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-07">Gießen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-08">Friedberg (Hessen)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-09">Finsternthal</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-09">Idstein</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-11">Henriettenthal</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-11">Idstein</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-17">Frankfurt (Main)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-17">Frankfurt (Main)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-17">Idstein</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-24">Idstein</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-05-24">Ems (Bad Ems)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-06">Lahn, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-11">Scheuern (Nassau)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-12">Lahn, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-16">Lahn, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-16">Lahnstein</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-16">Ems (Bad Ems)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-17">Ems (Bad Ems)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-19">Koblenz</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-19">Ems (Bad Ems)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-19">Rhein, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-19">Mosel, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-21">Lahn, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-21">Nassau (Lahn)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-21">Nassau (Lahn)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-21">Ems (Bad Ems)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-22">Braubach</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-22">Ems (Bad Ems), Karlsburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-26">Ems (Bad Ems)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-26">Lahnstein</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-26">Braubach</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-26">Boppard</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-27">Boppard</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-27">Rheinfels, Festung</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-27">Bingen, Mäuseturm</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-27">Binger Loch</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-27">Rüdesheim</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-28">Wiesbaden</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-28">Schierstein</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-30">Biebrich</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-30">Mainz</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-06-30">Wiesbaden</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-02">Rhein, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-02">Biebrich</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-05">Biebrich</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-05">Wiesbaden</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-07">Main, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-07">Rüsselsheim</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-08">Frankfurt (Main)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-09">Frankfurt (Main)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-10">Friedberg (Hessen)</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-10">Gießen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-12">Kirtorf</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-12">Gießen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-12">Gilserberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-13">Fritzlar</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-13">Kassel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-14">Kassel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-14">Varlosen</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-14">Hannoversch Münden</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-14">Northeim</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-15">Lutter am Barenberge</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-15">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-16">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-16">Salzdahlum, Schloss, Grotte</placeName>
+               </term>
+               <term>
+                  <placeName when="1699-07-16">Wolfenbüttel</placeName>
+               </term>
+            </index>
+         </div>         
+         <div type="volume"
+              xml:id="sz2.cod_guelf_28_blank.itinerar"
+              n="Ludwig Rudolph, 1701 (Cod. Guelf. 28 Blank.)">
+            <index indexName="itinerary">
+               <term>
+                  <placeName when="1701-03-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-24">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-01-26">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-01-27">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-01-28">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-01-29">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-01-30">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-03">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-06">Braunschweig, Dom St. Blasii</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-06">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-08">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-08">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-09">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-09">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-15">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-16">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-17">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-20">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-20">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-21">Wolfenbüttel, Hoftheater</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-22">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-22">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-24">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-24">Salzdahlum, Schloss, Essgemach</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-26">Wolfenbüttel, Ritterakademie "Rudolph-Antoniana"</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-27">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-27">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-27">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-02-28">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-01">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-02">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-02">Wolfenbüttel, "Zum goldenen Adler"</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-03">Wolfenbüttel, Bibliothek</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-03">Wolfenbüttel, Zeughaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-05">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-10">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-12">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-14">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-19">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-21">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-21">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-03-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-01">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-01">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-04">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-06">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-11">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-13">Schöppenstedt</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-12">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-15">Schöppenstedt</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-16">Wolfenbüttel, Herzogtor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-16">Wolfenbüttel, Harztor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-16">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-20">Seesen</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-20">Lutter am Barenberge</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-21">Harz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-21">Seesen</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-22">Seesen</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-22">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-21">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-22">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-25">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-28">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-29">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-04-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-01">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-09">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-04">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-09">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-10">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-05">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-06">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-11">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-11">Wolfenbüttel, Schlossgarten</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-11">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-14">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-14">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-16">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-16">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-16">Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-17">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-18">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-18">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-20">Wolfenbüttel, Bastion Philippsberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-22">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-23">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-25">Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-25">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-26">Wolfenbüttel, Garten Herzogin Elisabeth Julianes</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-26">Wolfenbüttel, Herzogtor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-27">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-27">Salzdahlum, Schloss, Grotte</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-27">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-28">Wolfenbüttel, Liebeswinkel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-29">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-30">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-30">Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-31">Wolfenbüttel, Herzogtor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-01">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-01">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-03">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-02">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-04">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-05">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-06">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-07">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-08">Wolfenbüttel, Mühlentor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-08">Wolfenbüttel, Harztor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-13">Wolfenbüttel, Liebeswinkel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-14">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-16">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-17">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-17">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-17">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-19">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-19">Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-19">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-20">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-21">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-24">Wolfenbüttel, Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-25">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-26">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-26">Salzdahlum, Kloster zur Ehre Gottes</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-26">Salzdahlum, Schloss, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-26">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-26">Salzdahlum, Schloss, Komödiensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-27">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-28">Wolfenbüttel, Harztor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-29">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-29">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-29">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-29">Wolfenbüttel, Forsthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-29">Wolfenbüttel, Herzogtor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-23">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-23">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-30">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-30">Salzdahlum, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-30">Salzdahlum, Schloss, Essgemach</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-06-10">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-01">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-01">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-02">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-03">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-03">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-04">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-04">Braunschweig, Masch</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-06">Wolfenbüttel, Forsthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-07">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-07">Salzdahlum, Schloss, Garten</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-08">Wendessen</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-09">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-10">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-12">Wolfenbüttel, Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-12">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-13">Wolfenbüttel, Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-15">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-16">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-17">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-19">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-20">Wolfenbüttel, Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-21">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-22">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-22">Salzdahlum, Kloster zur Ehre Gottes</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-22">Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-22">Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-23">Wolfenbüttel, Herzogtor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-23">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-24">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-25">Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-26">Wolfenbüttel, Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-20">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-20">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-05-20">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-28">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-28">Salzdahlum, Schloss, Grotte</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-29">Wolfenbüttel, Herzogtor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-29">Kurzes Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-31">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-31">Salzdahlum, Schloss, Grotte</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-31">Salzdahlum, Schloss, Garten</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-07-31">Salzdahlum, Schloss, Grotte</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-01">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-03">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-05">Wolfenbüttel, Garten Herzogin Elisabeth Julianes</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-06">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-07">Braunschweig, Dom St. Blasii</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-07">Braunschweig, Brüdernkirche St. Ulrici</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-06">Braunschweig, St. Martini</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-09">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-09">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-09">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-11">Braunschweig, Wendentor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-11">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-11">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-12">Schöppenstedt</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-12">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-12">Schöppenstedt</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-12">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-12">Braunschweig, Altstadt-Rathaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-19">Braunschweig, Festsaal im Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-19">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-19">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-20">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-20">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-20">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-22">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-22">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-24">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-26">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-29">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-08-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-04">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-05">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-06">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-07">Süpplingenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-08">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-08">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-09">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-09">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-09">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-09">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-11">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-11">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-13">Ampleben</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-13">Ampleben</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-16">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-16">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-18">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-18">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-20">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-20">Salzdahlum, Schloss, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-20">Salzdahlum, Schloss, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-20">Salzdahlum, Schloss, Grotte</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-22">Lutter am Barenberge</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-23">Seesen</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-23">Seesen</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-23">Lutter am Barenberge</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-24">Lutter am Barenberge</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-25">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-26">Wolfenbüttel, Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-29">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-29">Salzdahlum, St. Jürgen</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-01">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-01">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-03">Seesen</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-06">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-06">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-06">Wolfenbüttel, Audienzzimmer</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-08">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-08">Wolfenbüttel, Audienzzimmer</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-09">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-09">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-09">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-11">Wolfenbüttel, Hoftheater</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-11">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-12">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-12">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Wolfenbüttel, Freiheit</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Wolfenbüttel, Dammtor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Wolfenbüttel, Mühlentor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Wolfenbüttel, Trinitatiskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Wolfenbüttel, Herzogtor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Braunschweig, Aegidientor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Braunschweig, Aegidientor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Braunschweig, Aegidientor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-13">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-14">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-14">Wolfenbüttel, Mühlentor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-14">Wolfenbüttel, Harztor</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-16">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-16">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-18">Salder</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-21">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-22">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-23">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-24">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-21">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-28">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-28">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-28">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-10-30">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-09-22">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-01">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-02">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-03">Wolfenbüttel, Schloss, Gemächer von Anton Ulrich und Elisabeth Juliane</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-04">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-06">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-06">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-07">Süpplingenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-14">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-16">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-17">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-25">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-27">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-11-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-08">Wolfenbüttel, Audienzzimmer</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-08">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-10">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-15">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-16">Salder</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-16">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-21">Wolfenbüttel, Schloss, Gemächer von Anton Ulrich und Elisabeth Juliane</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-23">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-24">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-25">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-25">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-27">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-27">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-28">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-28">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-28">Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+               </term>
+               <term>
+                  <placeName when="1701-12-31">Salzdahlum</placeName>
+               </term>
+            </index>
+         </div>
+         <div type="volume"
+              xml:id="sz2.cod_guelf_286_blank.itinerar"
+              n="Ludwig Rudolph, 1706-1724 (Cod. Guelf. 286 Blank.)">
+            <index indexName="itinerary">
+               <term>
+                  <placeName when="1712-01-19">Mönchsroth, Amt</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-01-28">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-01-28">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-01">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-01">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-04">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-12">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-16">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-14">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-12">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-16">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-17">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-18">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-19">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-19">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-21">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-25">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-02">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-02">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-02-28">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-03">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-05">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-06">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-10">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-10">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-13">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-14">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-20">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-20">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-01">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-30">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-05">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-05">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-30">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-03-30">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-04-05">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-04-08">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-04-15">Heideck</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-04-12">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-04-15">Heideck</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-04-19">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-04-29">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-02">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-06">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-08">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-13">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-13">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-19">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-21">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-24">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-05-27">Tiergarten, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-05">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-12">Mönchsroth</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-09">Mönchsroth</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-13">Mönchsroth</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-13">Schwalbach (Bad Schwalbach)</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-13">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-09-17">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-09-17">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-09-19">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-09-19">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-09-19">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-09-20">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-13">Mönchsroth</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-13">Schwalbach (Bad Schwalbach)</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-13">Michelbach an der Lücke</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-13">Riedbach</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-14">Königshofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-14">Wertheim</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Wertheim</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Main, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Hasloch</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Grünenwört</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Faulbach</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Henneburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Stadtprozelten</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Mondfeld</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Boxtal</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Dorfprozelten</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Collenberg, Burg</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Reistenhausen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Reistenhausen, Steinbruch</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Freudenberg, Burg</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Freudenberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Main, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Bürgstadt</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Main, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Erf, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Miltenberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Mildenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Otterbach (Mud, Amorbach)</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Engelberg, Kloster</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Roßhof</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Großheubach</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Kleinheubach</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Laudenbach</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Grubingen, St. Michaelis</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Röllfeld</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Trennfurt</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Klingenberg am Main</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Clingenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Wörth am Main</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Erlenbach am Main</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Odenwald</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Obernburg am Main</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Main, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Elsenfeld</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Großwallstadt</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Kleinwallstadt</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Niedernberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Sulzbach am Main</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Frankfurt (Main)</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Aschaffenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Hanau</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Frankfurt (Main)</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Höchst am Main</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Sindlingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Kelsterbach</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Mainz</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Mainz</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Kastel</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Main, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Wertheim</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-15">Mainz</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-17">Biebrich</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-17">Rhein, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-17">Mainz</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-17">Mainz, Festung</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-06-17">Schwalbach (Bad Schwalbach)</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-09-24">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-09-24">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1712-11-08">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-01-17">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1706-06-09">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-02-05">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-03-09">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-03-10">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-06">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-05-24">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-11">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-06">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-11">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-14">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-14">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-25">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-27">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-27">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-04-26">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-05-02">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-05-06">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-05-07">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-05-07">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-05-16">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-05-17">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-05-20">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-05-20">Schrattenhofen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-10-14">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1713-11-10">Oettingen</placeName>
+               </term>
+               <term>
+                  <placeName when="1724-06-26">Wertheim</placeName>
+               </term>
+               <term>
+                  <placeName when="1724-06-26">Main, Fluss</placeName>
+               </term>
+               <term>
+                  <placeName when="1724-06-26">Freudenberg</placeName>
+               </term>
+               <term>
+                  <placeName when="1724-06-26">Sulzbach am Main</placeName>
+               </term>
+               <term>
+                  <placeName when="1724-06-26">Obernau</placeName>
+               </term>
+               <term>
+                  <placeName when="1724-06-26">Aschaffenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1724-06-26">Aschaffenburg, Schloss Johannisburg</placeName>
+               </term>
+            </index>
+         </div>
+         <div type="volume"
+              xml:id="sz2.cod_guelf_286a_blank.itinerar"
+              n="Ludwig Rudolph, 1707 (Cod. Guelf. 286a Blank.)">
+            <index indexName="itinerary">
+               <term>
+                  <placeName when="1707-01-01">Wolfenbüttel, Hauptkirche B. M. V.</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-01">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-02">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-18">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-18">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-18">Wolfenbüttel, Hauptkirche B. M. V.</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-19">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-19">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-23">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-06">Braunschweig, Dom St. Blasii</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-06">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-26">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-26">Hannover, Reformierte Kirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-23">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-14">Braunschweig, Dom St. Blasii</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-14">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-09">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-11">Steterburg, Stift</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-11">Steterburg, Stiftskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-11">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-11">Wolfenbüttel, Zeughaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-11">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-20">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-20">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-11">Halchter</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-25">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-25">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-05">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-05">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-05">Wolfenbüttel, Kirche St. Johannis</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-05">Wolfenbüttel, Auguststadt</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-06">Wolfenbüttel, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-06">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-03">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-03">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-05">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-06">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-13">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-15">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-16">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-16">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-23">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-26">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-26">Hannover, altes Rathaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-27">Hannover, Schlossopernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-30">Hannover, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-30">Hannover, Komödienhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-31">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-01">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-01">Hannover, Komödienhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-02">Hannover, Schlosskirche</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-06">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-06">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-06">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-05">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-05">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-05">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-08">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-09">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-09">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-09">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-09">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-09">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-09">Braunschweig, Festsaal im Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-10">Braunschweig, Festsaal im Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-11">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-11">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-11">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-12">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-13">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-13">Braunschweig, Dom St. Blasii</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-13">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-13">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-13">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-14">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-12">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-12">Wolfenbüttel, Herzogappartments</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-12">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-12">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-12">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-12">Braunschweig, Festsaal im Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-15">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-15">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-16">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-16">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-16">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-23">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-24">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-28">Herrenhausen, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-28">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-01">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-07">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-13">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-18">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-19">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-19">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-19">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-20">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-20">Braunschweig, Masch</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-21">Braunschweig, Masch</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-16">Braunschweig, Dompropstei</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-16">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-26">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-26">Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-27">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-30">Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-01">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-04">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-04">Braunschweig, Lusthaus auf dem Augustbollwerk</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-06">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-08">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-10">Lechlumer Holz</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-10">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-10">Wolfenbüttel, Schloss</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-11">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-17">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-14">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-14">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-15">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-15">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-16">Braunschweig, Festsaal im Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-17">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-17">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-17">Braunschweig, Festsaal im Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-17">Braunschweig, Opernhaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-20">Braunschweig, Grauer Hof</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-21">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-21">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-23">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-31">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-01">Wolfenbüttel, Ritterakademie "Rudolph-Antoniana"</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-02">Schlossgärten in Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-03">Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-07">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-08">Salzdahlum, Schloss, Grotte</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-08">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-08">Salzdahlum, Schloss, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-08">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-09">Salzdahlum, Schloss, Orangerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-09">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-09">Salzdahlum, Schloss, Oper</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-10">Salzdahlum, Schloss, Große Galerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-12">Salzdahlum, Schloss, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-12">Salzdahlum, Schloss, Oper</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-13">Salzdahlum, Schloss, Oper</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-14">Salzdahlum, Schloss, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-14">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-14">Salzdahlum, Schloss, Oper</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-15">Salzdahlum, Schloss, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-15">Salzdahlum, Schloss, Oper</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-15">Salzdahlum, Schloss, Große Galerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-15">Salzdahlum, Schloss, Kleine Galerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-16">Salzdahlum, Schloss, Große Galerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-16">Salzdahlum, Schloss, Große Galerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-18">Salzdahlum, Schloss, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-18">Salzdahlum, Schloss, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-19">Salzdahlum, Schloss, Große Galerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-19">Salzdahlum, Schloss, Orangerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-19">Salzdahlum, Schloss, Orangerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-20">Salzdahlum, Schloss, Große Galerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-20">Salzdahlum, Schloss, Oper</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-21">Salzdahlum, Schloss, Große Galerie</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-21">Salzdahlum, Schloss, Garten</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-21">Salzdahlum, Schloss, Garten</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-22">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-13">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-14">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-14">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-17">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-17">Wolfenbüttel, Hoftheater</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-17">Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-21">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-03">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-13">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-13">Braunschweig, neues Petritor</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-13">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-13">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-17">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-20">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-23">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-03">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-05">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-07">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-08">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-10">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-16">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-16">Braunschweig, Mosthaus, Großer Saal</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-16">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-16">Braunschweig, Mosthaus</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-18">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-18">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-01">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-10">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-11">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-29">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-30">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-01">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-05">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-06">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-09">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-14">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-15">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-05-13">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-05-15">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-31">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-03">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-04">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-13">Wolfenbüttel, Audienzzimmer</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-13">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-13">Wolfenbüttel, Audienzzimmer</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-12">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-17">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-17">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-18">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-26">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-26">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-26">Peine</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-26">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-03">Peine</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-03">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-17">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-20">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-20">Peine</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-20">Ohof</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-20">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-23">Burgdorf</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-23">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-23">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-23">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-14">Peine</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-14">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-14">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-14">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-16">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-17">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-24">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-19">Seesen</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-04-20">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-05-10">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-05-10">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-14">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-14">Hessen</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-14">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-22">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-08">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-08">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-17">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-19">Braunlage</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-19">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-08">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-10">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-08">Linden</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-11">Linden</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-03-11">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-02">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-05">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-08">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-08">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-18">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-06-21">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-03">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-17">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-25">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-25">Braunschweig, Lusthaus auf dem Augustbollwerk</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-25">Braunschweig, Augustbolwerk</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-26">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-31">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-09">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-11">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-16">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-06">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-14">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-12-11">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-24">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-04">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-17">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-02-24">Hannover</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-07">Wolfenbüttel, Ritterakademie "Rudolph-Antoniana"</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-01-14">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-05-27">Blankenburg</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-28">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-13">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-07-09">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-08-11">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-07">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-07">Salzdahlum</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-09-25">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-04">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-10-26">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-03">Braunschweig</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-03">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-05">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-11-23">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-12-08">Wolfenbüttel</placeName>
+               </term>
+               <term>
+                  <placeName when="1707-12-08">Braunschweig</placeName>
+               </term>
+            </index>
+         </div>
+         
+      </body>
+   </text>
+</TEI>

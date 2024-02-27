@@ -12,34 +12,34 @@
             <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00010.jpg" n="3v">Anno 1597.</head>
                 
                 <div xml:id="E1597-03-22"><head><date when="1597-03-22">Den 22 Martÿ, <c>♂</c></date></head>
-                    <p> <rs type="person">Hermann<ex>us</ex></rs> wegkgezog<ex>en</ex>.</p></div>
+                    <p> <rs type="person" ref="register_personen.xml#hermann_anon_1">Hermann<ex>us</ex></rs> wegkgezog<ex>en</ex>.</p></div>
                 <div xml:id="E1597-05-13"><head><date when="1597-05-13">Den 13 Maÿ <c>♀</c></date></head>
                     <p>  gehn <rs ref="register.xml#Herrenberg" type="place">Herrenbergk</rs>
                 gezog<ex>en</ex>.</p></div>
                 <div xml:id="E1597-05-14"><head><date when="1597-05-14">Den 14 Maÿ <c>♄</c></date></head>
                     <p>  wied<ex>er</ex>kommen.</p></div>
                 <div xml:id="E1597-05-16"><head><date when="1597-05-16">Den 16 Maÿ <c>☽</c></date></head>
-                    <p>  <rs type="person">Bothmer</rs>
+                    <p>  <rs type="person" ref="register_personen.xml#bothmer_eberhard">Bothmer</rs><note type="footnote" resp="mg">Identifizierung unsicher.</note>
                         wegkgezogen.</p></div>
                 <div xml:id="E1597-05-17"><head><date when="1597-05-17">Den 17 May <c>♂</c></date></head>
-                    <p>  <rs type="person">Nicolaus d<ex>er</ex> fechter</rs> angetreten.</p></div>
+                    <p>  <rs type="person" ref="register_personen.xml#herman_nicolaus">Nicolaus d<ex>er</ex> fechter</rs> angetreten.</p></div>
                 <div xml:id="E1597-06-18"><head><date when="1597-06-18">Den 18 Junÿ <c>♄</c></date></head>
                     <p>  d<ex>az</ex> silbern Püchßle od<ex>er</ex>
                         Pfeifle</p></div>
                 <div xml:id="E1597-07-05"><head><date when="1597-07-05">Den 5 Julÿ <c>♂</c></date></head>
-                    <p>  <rs type="person">Cardinall auß
-                        Ostereich</rs> Kommen, <unclear>Korneter</unclear> rubinring.</p></div>
+                    <p>  <rs type="person" ref="register_personen.xml#oesterreich_andreas">Cardinall auß
+                        Ostereich</rs> Kommen, Korneter[,]<note type="footnote" resp="mg">Genaue Bedeutung hier unklar. Möglicherweise ist ein Kornett (unterster Offiziersrang bei der Kavallerie, analog zum Fähnrich bei der Infanterie) gemeint.</note> rubinring.</p></div>
                 <div xml:id="E1597-07-12"><head><date when="1597-07-12">Den 12 Julÿ <c>♂</c></date></head>
                     <p>  Hirschpirsch,
-                        <rs type="person">Cardinall</rs>, <rs type="person">Bischof zu Straßburgk</rs>, <unclear>weÿde</unclear> <foreign xml:lang="lat">m<ex>anu</ex> p<ex>ropria</ex></foreign><note type="translation" resp="as">eigenhändig</note></p></div>
+                        <rs type="person" ref="register_personen.xml#oesterreich_andreas">Cardinall</rs>, <rs type="person" ref="register_personen.xml#brandenburg_johann_georg">Bischof zu Straßburgk</rs>, weÿden <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">fahre fort</note></p></div>
                 <div xml:id="E1597-08-13"><head><date when="1597-08-13">Den 13 Aug<ex>usti</ex> <c>♄</c></date></head>
-                    <p>  <rs type="person">Graf Ernst von Mansfeldt</rs> beÿ mir gewesen.</p></div>
+                    <p>  <rs type="person" ref="register_personen.xml#mansfeld-hinterort_ernst">Graf Ernst von Mansfeldt</rs> beÿ mir gewesen.</p></div>
                 <div xml:id="E1597-09-11"><head><date when="1597-09-11">Den 11 Sept<ex>embris</ex> <c>☉</c></date></head>
-                    <p>  H<ex>err</ex> <rs ref="register.xml#Philipp_II._Pommern_Stettin" type="person">Philipp vo<ex>n</ex> Pommern</rs> beÿ mir gewesen. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+                    <p>  <rs ref="register.xml#Philipp_II._Pommern_Stettin" type="person">H<ex>erzog</ex> Philipp vo<ex>n</ex> Pommern</rs> beÿ mir gewesen. <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">fahre fort</note></p></div>
                 <div xml:id="E1597-10-12"><head><date when="1597-10-12">Den 12 Octobr<ex>is</ex>
                     <c>☿</c></date></head>
                     <p>  <rs type="place">Hirschaw Kloster</rs> gezogen 2
-                        meill <foreign xml:lang="lat">N<ex>ota</ex>B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note>.</p></div>
+                        meill <foreign xml:lang="lat">N<ex>ota</ex>B<ex>ene</ex></foreign><note type="translation" resp="mg">beachte wohl</note>.</p></div>
                 <div xml:id="E1597-10-13"><head><date when="1597-10-13">Den 13 Octob<ex>ris</ex>
                     <c>♃</c></date></head>
                     <p>  biß <rs ref="register.xml#Herrenberg" type="place">Herrenberg</rs> 1 meill.</p></div>

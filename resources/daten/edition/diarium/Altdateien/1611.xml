@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" next="1612.xml" n="1611" prev="1610.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1611</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00088.jpg" n="42v">Anno 1.6.11.</head></div>
+            
+            <div xml:id="E1611-03-02"><head><date when="1611-03-02">den 2. Martÿ <c>♄</c>,</date></head><p> obÿt <rs ref="register.xml#Ernst_II._von_Braunschweig_Lueneburg_Celle" type="person">Ernestus Dux Lunaeburgicus</rs> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p><note type="annotation">Todestag von Ernst II. von Braunschweig-Lueneburg-Celle</note></div>
+            
+            <div xml:id="E1611-03-08"><head><date when="1611-03-08">den 8 <del rend="overstrike">Martÿ</del> <add place="above">Aprilis</add> <c>☽</c> </date></head><p>seindt 
+                wir Auf die begrebnuß gezogen, und zur <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs> Angelanget,
+                seindt <del rend="overstrike">6</del><add place="above">5</add> meyll</p></div>
+            
+            <div xml:id="E1611-04-09"><head><date when="1611-04-09">den 9. <del rend="overstrike">Martÿ</del> <add place="above">Aprilis</add> <c>♂</c>,</date></head><p> zu <rs ref="register.xml#Celle" type="place">Zella</rs> Angelangett. <add place="below">seindt 6 meyll.</add></p></div>
+            
+            <div xml:id="E1611-04-10"><head><date when="1611-04-10">den 10 <del rend="overstrike">Martÿ</del> <add place="above">Aprilis</add>, <c>☿</c>,</date></head><p> ist H<ex>erzog</ex> <rs ref="register.xml#Ernst_II._von_Braunschweig_Lueneburg_Celle" type="person">Ernst</rs>, begrab<ex>e</ex>n worden.</p></div>
+            
+            <div xml:id="E1611-04-12"><head><date when="1611-04-12">den 12 <del rend="overstrike">Martÿ</del> <add place="above">Aprilis</add> <c>♀</c></date></head><p> seindt wir wiederumb zu rügke Auf die <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs> kommen.</p></div>
+           
+            <div xml:id="E1611-04-13"><head><date when="1611-04-13">den 13 <del rend="overstrike">Martÿ</del> <add place="above">Aprilis</add>, <c>♄</c>,</date></head><p> Zu <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> wiederumb Angelangett.<c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1611-06-10"><head type="margin-left"><foreign xml:lang="lat">N<ex>ota</ex>B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note> <date when="1611-06-10">den 10. Junÿ <c>☽</c>.</date></head><p> <foreign xml:lang="lat">hor<ex>am</ex>
+                5. 30. a<ex>nte</ex> m<ex>eridiem</ex></foreign><note type="translation">Um 5.30 Uhr</note> ist daß 7.
+                frewlein mitt nahmen <rs ref="register.xml#Sidonia_von_Oldenburg_Delmenhorst" type="person">Sidonia zu Delmenhorst</rs> gebohren worden.</p><note type="annotation">Sidonia ist die Tochter von <rs ref="register.xml#Sibylle_El_Ol" type="person">Sibylle Elisabeth von Oldenburg</rs> und Augusts Nichte</note></div>
+            
+            <div xml:id="E1611-07-21"><head><date when="1611-07-21">den 21 Julÿ. <c>☉</c></date></head><p> ist <rs ref="register.xml#Sidonia_von_Oldenburg_Delmenhorst" type="person">es</rs> getauffett worden.</p></div>
+            
+            <div xml:id="E1611-07-07"><head><date when="1611-07-07">den 7. Julÿ. <c>☿</c></date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebecke</rs>,
+                5. meyll. biß zum <rs ref="register.xml#Kirchwaerder_Zollenspieker" type="place">Zollenspiker</rs>, <rs ref="register.xml#Bergedorf" type="place">Bergerdorf</rs> 5 meyll.</p></div>
+            
+            <div xml:id="E1611-07-08"><head><date when="1611-07-08">d<ex>e</ex>n 8 Julÿ <c>♃</c>,</date></head><p> biß <rs ref="register.xml#Hamburg" type="place">hamburgk</rs>.</p></div>
+            
+            <div xml:id="E1611-07-09"><head><date when="1611-07-09">d<ex>e</ex>n 9 Julÿ <c>♀</c></date></head><p> biß <del>bi</del> <rs ref="register.xml#Kirchwaerder_Zollenspieker" type="place">Zollenspiker</rs>, 
+                <rs ref="register.xml#Winsen" type="place">Winsen</rs>, <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>, <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>: umb 6 uhr, den 10 Julÿ.</p></div>
+            
+            <div xml:id="E1611-07-13"><head><date when="1611-07-13">d<ex>e</ex>n 13. Julÿ <c>☿</c><c>♂</c> </date></head><p>H<ex>err</ex> <rs ref="register.xml#Christian_von_Braunschweig_Lueneburg" type="person">Cristian von
+                Zella zu luneburgk</rs> eingeritten, folgendeß tageß die huldigungk daselbst<ex>e</ex>n genommen.</p><note type="annotaiton">Nach dem Tod seines Bruders <rs ref="register.xml#Ernst_II._von_Braunschweig_Lueneburg_Celle" type="person">Ernst</rs> übernimmt <rs ref="register.xml#Christian_von_Braunschweig_Lueneburg" type="person">Christian</rs> die Regierung im Fürstentum Lüneburg</note></div>
+            
+            <div xml:id="E1611-09-09"><head><date when="1611-09-09">den 9. 7bris <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Neustadt_Glewe" type="place">Newstadt</rs>, 5
+                meyll.</p></div>
+            
+            <div xml:id="E1611-09-10"><head><date when="1611-09-10">den 10. 7bris <c>♂</c></date></head><p> biß <rs ref="register.xml#Plau" type="place">Plawe</rs>.</p></div>
+            
+            <div xml:id="E1611-09-11"><head><date when="1611-09-11">d<ex>e</ex>n 11 <del rend="overstrike">8</del> 7bris <c>♀</c></date></head><p> biß <rs ref="register.xml#Mirow" type="place">Miraw</rs>.</p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00089.jpg" n="43r"/>
+            
+            <div xml:id="E1611-09-12"><head><date when="1611-09-12">den 12. 7bris <c>♃</c></date></head><p> biß
+                <rs ref="register.xml#Burg_Stargard" type="place">Stargardt</rs>,</p></div>
+            
+            <div xml:id="E1611-09-13"><head><date when="1611-09-13">den 13 7bris <c>♀</c></date></head><p> biß <rs ref="register.xml#Torgelow" type="place">Torgerlaw</rs>,</p></div>
+            
+            <div xml:id="E1611-09-14"><head><date when="1611-09-14">den 14 7bris <c>♄</c></date></head><p> biß <rs ref="register.xml#Stettin" type="place">Alten Stetin</rs>. 6 meyll zu <rs type="place">Blankensee</rs>, gefüttertt</p></div>
+            
+            <div xml:id="E1611-09-24"><head><date when="1611-09-24">den 24 7bris <c>♂</c></date></head><p> biß
+                <rs ref="register.xml#Podlesie_Friedrichswalde" type="place">Friederichßwalde</rs>.</p></div>
+            
+            <div xml:id="E1611-09-27"><head><date when="1611-09-27">d<ex>e</ex>n 27. 7bris <c>♀</c>.</date></head><p> nach <rs ref="register.xml#Stettin" type="place">Stetin</rs>, 
+                daselbst<ex>e</ex>n H<ex>err</ex> <rs ref="register.xml#Julius_Friedrich_von_Wuerttemberg_Weiltingen" type="person">Julius Friederich, H<ex>err</ex> zu Würtenbergk</rs>
+                Angelangett: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1611-10-05"><head><date when="1611-10-05">den 5 8bris <c>♄</c></date></head><p> biß <rs ref="register.xml#Colbatz_Kolbacz" type="place">Colbatz</rs>, Kloster.</p></div>
+            
+            <div xml:id="E1611-10-09"><head><date when="1611-10-09">d<ex>e</ex>n 9. 8bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Goleniow_Gollnow" type="place">Goldenaw</rs>: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1611-10-10"><head><date when="1611-10-10">d<ex>e</ex>n 10. 8bris,</date></head><p> biß nach der <rs ref="register.xml#Stepenitz_Stepnica" type="place">Stepenitz</rs>.</p></div>
+            
+            <div xml:id="E1611-10-14"><head><date when="1611-10-14">den 14 8bris <c>☽</c></date></head><p> <add place="above">durch <rs ref="register.xml#Wollin_Wolin" type="place">Wollin</rs></add>, 
+                biß <rs ref="register.xml#Gristow" type="place">Xristaw</rs>, ein Jnsell, Auf welcher eine lustige HasenJagett: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            
+            <div xml:id="E1611-10-17"><head><date when="1611-10-17">d<ex>e</ex>n 17. 8bris <c>♃</c></date></head><p> biß <rs ref="register.xml#Altentreptow" type="place">Treptow</rs>.</p></div>
+            
+            <div xml:id="E1611-10-18"><head><date when="1611-10-18">d<ex>e</ex>n 18. 8bris <c>♀</c></date></head><p> biß <rs ref="register.xml#Karlino_Koerlin" type="place">Carlin</rs>.</p></div>
+            
+            <div xml:id="E1611-10-19"><head><date when="1611-10-19">d<ex>e</ex>n 19. 8bris <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Koeslin" type="place">Cößlin</rs>.</p></div>
+            
+            <div xml:id="E1611-10-26"><head><date when="1611-10-26">d<ex>e</ex>n 26 8bris <c>♄</c></date></head><p> biß <rs ref="register.xml#Ruegenwalde_Darlowo" type="place">Rügenwalde</rs>:</p></div>
+            
+            <div xml:id="E1611-11-04"><head><date when="1611-11-04">d<ex>e</ex>n 4. 9bris <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Koeslin" type="place">Cößlin</rs>.</p></div>
+            
+            <div xml:id="E1611-11-06"><head><date when="1611-11-06">d<ex>e</ex>n 6. 9bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Belgard_Bialogard" type="place">Belgardt</rs>. 3. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1611-11-07"><head><date when="1611-11-07">d<ex>e</ex>n 7. 9bris <c>♃</c></date></head><p> biß <rs ref="register.xml#Gryfice_Greifenberg" type="place">Greiffenbergk</rs>. 6. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1611-11-08"><head><date when="1611-11-08">d<ex>e</ex>n 8. 9bris <c>♀</c></date></head><p> biß <rs ref="register.xml#Goleniow_Gollnow" type="place">Goldenaw</rs> 5. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1611-11-09"><head><date when="1611-11-09">den 9. 9bris <c>♄</c></date></head><p> biß <rs ref="register.xml#Stettin" type="place">Stetin</rs>. 5. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1611-12-07"><head><date when="1611-12-07">den <subst><del>9</del><add>7</add></subst>. 10bris. <c>♄</c></date></head><p> biß <rs ref="register.xml#Torgelow" type="place">Torgerlaw</rs>. 6. m<ex>eill</ex>.</p></div>
+            
+            
+            <div xml:id="E1611-12-08"><head><date when="1611-12-08">d<ex>e</ex>n <subst><del>1</del><add>8</add></subst>. 10bris <c>☉</c></date></head><p> biß <rs ref="register.xml#Burg_Stargard" type="place">Stargardt</rs>. 6. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1611-12-09"><head><date when="1611-12-09">d<ex>e</ex>n 9. 10bris <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Mirow" type="place">Miraw</rs>. 6. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1611-12-10"><head><date when="1611-12-10">d<ex>e</ex>n 10. 10bris. <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Plate" type="place">Plage</rs>. 5. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1611-12-11"><head><date when="1611-12-11">d<ex>e</ex>n 11. 10bris <c>☿</c></date></head><p> biß <rs ref="register.xml#Parchim" type="place">Parchimb</rs>, <rs ref="register.xml#Grabow" type="place">Grabow</rs>: 6. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1611-12-13"><head><date when="1611-12-13">d<ex>e</ex>n 13. Xbris <c>♀</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitziger</rs>: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> 5. m<ex>eill</ex>.<c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>    
+            
+        </body>
+    </text>
+</TEI>

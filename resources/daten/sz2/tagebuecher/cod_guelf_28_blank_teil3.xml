@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.cod_guelf_28_blank_teil3" n="Cod. Guelf. 28 Blank., Lit. B">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Herzog Ludwig Rudolph von Braunschweig-Wolfenbüttel (1671-1735): Tagebuch (1701) (Cod. Guelf. 28 Blank)</title>
+                <respStmt>
+                    <resp>transkribiert und kommentiert von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Torsten</forename>
+                        <surname>Schaßan</surname>
+                    </persName>
+                </respStmt> 
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>            
+                <date type="digitised" when="2019">2019</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Herzog Ludwig Rudolph von Braunschweig-Wolfenbüttel (1671-1735): Diarium Sni: Princip: ac Domii Dmi Ludovici Rudolphi Brunsvicensium ac Luneburg: Ducis Vitam &amp; Actiones nec non pleraq; in aula Guelphica ut et Christiano Orbi universo notatu digna complectens. Herzog August Bibliothek, Signatur: Cod. Guelf. 28 Blank</bibl>
+                <xi:include href="../register/listPerson_s2.xml" xpointer="element(person)"/>
+                <xi:include href="../register/listPlace_s2.xml" xpointer="element(place)"/>
+                <xi:include href="../register/listGloss_s2.xml" xpointer="element(glossar)"/>
+                <xi:include href="../register/listAbbr_s2.xml" xpointer="element(abbr)"/>
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="volume">
+                <div type="chapter" n="3">
+                    <pb n="148" facs="#mss_28-blank_00160"/>
+                    <head>LIT. B.</head>
+                    <p>
+                        <lb/>&#x2003;&#x2003;&#x2003;&#x2003;Reglement,
+                        <lb/>&#x2003;&#x2003;Wornach Sich die Dragoner-Wache auff dem
+                        <lb/>&#x2003;&#x2003;HochFürstl<ex>ichen</ex> <rs type="place" ref="#wolfenbuettel_schloss" role="mentioned">Schloße</rs> zu <rs type="place" ref="#wolfenbuettel" role="mentioned">Wolffenbüttel</rs> ins
+                        <lb/>&#x2003;&#x2003;künfftige wird zu richten haben.
+                    </p>
+                    <p>
+                        <table rows="12" cols="2">
+                            <row role="data">
+                                <cell role="label">1.<c rend="super">o</c></cell>
+                                <cell role="data">Was die 2 Posten anbelanget, so draußen vor dem
+                                <lb/><rs type="place" ref="#wolfenbuettel_schloss" role="mentioned">Schloße</rs> stehen, sollen dieselbigen vor keinem das Gewehr
+                                <lb/>pr&#x00E6;sentiren, als vor der g<ex>nä</ex>d<ex>ig</ex>sten Regierenden Herrschafft, und
+                                <lb/>Dero angehörigen fürstlichen Persohnen, Vor denen <foreign xml:lang="fre"><w>En
+                                <lb/>voyés</w></foreign><note type="translation" resp="ah">Abgesandten</note>, Geheimbten Räthen und General-Lieutenant aber
+                                <lb/>sollen Sie das Gewehr auff der Schulter behalten. <w lemma="Imgleichen">Im
+                                <lb/>gleichen</w> sollen auch diese 2 Posten in wehrender Zeit, da
+                                <lb/>das Hochfürstl<ex>ich</ex>e Schloß wegen haltender Taffel verschloßen
+                     <pb n="149" facs="mss_28-blank_00161"/>
+                                <lb/>wird, inwendig des Thors verbleiben, bis daßelbe wieder <w lemma="geöffnet">ge
+                                <lb/>öffnet</w> ist, alsdann Sie ihre vorige Posten außerhalb deßelben
+                                <lb/>wieder einzunehmen haben.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">2.<c rend="super">o</c></cell>
+                                <cell role="data"> Soll die große Wachte, wovor der Schloß-Lieutenant <w lemma="commandiret">com
+                                <lb/>mandiret</w>, ebenermaßen vor keinem als vor der g<ex>nä</ex>d<ex>ig</ex>sten <w lemma="Herrschafft">Herr
+                                <lb/>schafft</w> und anderen Fürstl<ex>ichen</ex> Personen das Gewehr pr&#x00E6;sentiren.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">3.<c rend="super">o</c></cell>
+                                <cell role="data">Die Posten vor denen Gemächern sollen sowohl Tags als
+                                   <lb/>Nachts das Gewehr vor dem Fuße mit entblößetem <w lemma="Bajonette">Bajo
+                                   <lb/>nette</w> in der Flinte haltend haben, diejehnigen aber, so
+                                    <lb/>vor dem <rs type="place" ref="#wolfenbuettel_schloss" role="mentioned">Schloße</rs> und vor dem <rs type="place" ref="#wolfenbuettel_holzhof" role="mentioned">Holtz-Hofe</rs> stehen, führen
+                                   <lb/>das Gewehr auff der Schulter und pr&#x00E6;sentiren es nur,
+                                   <lb/>wenn Fürstl<ex>ich</ex>e Personen passiren.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">4.<c rend="super">o</c></cell>
+                                <cell role="data">Die Post auff dem Thurm soll aller orthen <term ref="#warschauen">warschauen</term>, 
+                                    <lb/>absonderlich nach dem <rs type="place" ref="#lechlumer_holz" role="mentioned">Lecheln-Holtze</rs>, und, wann etwa was <w lemma="besonders">be
+                                    <lb/>sonders</w> in Vorschein kombt, es alsobald der Unter-Wachte 
+                                    <lb/>kund zu thun verbunden seyn, auch von darab, wann,
+                                    <lb/>da Gott vor sey, Feur entstehen solte, das Gewehr lösen,
+                                    <lb/>worauff dann der auff der Schloß-Wachte seyende <w lemma="Tambour">Tam
+                                    <lb/>bour</w> gleich allarm schlagen soll.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">5.<c rend="super">o</c></cell>
+                                <cell role="data">Soll das Spiel nicht gerühret werden, als vor Ih<ex>rer</ex> Ih<ex>rer</ex> D<ex>urc</ex>hl<ex>aucht</ex> D<ex>urc</ex>hl<ex>aucht</ex>
+                                <lb/>dem <rs type="person" ref="#braunschweig-wolfenbuettel_anton_ulrich">Regierenden Hertzoge</rs> und <rs type="person" ref="#braunschweig-wolfenbuettel_elisabeth_juliane">Hertzoginn</rs>, im fall Sie
+                                <lb/>solches g<ex>nä</ex>d<ex>ig</ex>st belieben werden; Sonsten aber nur, wenn <w lemma="frembde">fremb
+                                <lb/>de</w> regierende Herrschafft hier seyn solte, u<ex>nd</ex> weiter vor niemandem.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">6.<c rend="super">o</c></cell>
+                                <cell role="data">Soll mitten in dem <rs type="place" ref="#wolfenbuettel_schlossplatz" role="mentioned">Schloß-Platze</rs> allezeit ein Gefreyter
+                                <lb/>die auff-passung haben, im fall jemand kommt, es sey von
+                                <lb/>Fürstlichen Persohnen, General-Lieutenant, Ministern, <w lemma="Geheimbten">Ge
+                                <lb/>heimbten</w>- und andern Kriegs-Bedienten, auch Abgesandten,
+                                <lb/>Brigadier und allen in hiesigen Diensten stehenden Obristen,
+                                <lb/>Er die Wachte jederzeit ins Gewehr fordere, welche dann
+                                <lb/>ohngesäumbt heraus treten, und, wie vorgedacht, vor Fürst<ex>lichen</ex>
+                                <lb/>Persohnen das Gewehr pr&#x00E6;sentiren, vor denen andern aber
+                                <lb/>daßelbe auff der Schulter behalten soll.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">7.<c rend="super">o</c></cell>
+                                <cell role="data">Die Wacht-Posten sollen allezeit sowohl an die Obristen
+                                <lb/>als Obrist-Lieutenants und Majors melden, was auf
+                                <lb/>dem <rs type="place" ref="#wolfenbuettel_schlossplatz" role="mentioned">Schloße</rs> hin und wieder des Nachtes passiret und
+                                <lb/>vorgegangen ist.
+                                    <pb n="150" facs="mss_28-blank_00162"/>
+                                </cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">8<c rend="super">o</c></cell>
+                                <cell role="data">Soll kein Taback gar zu starck gerauchet werden, weiln
+                                <lb/>der Geruch davon auff dem Hochfürstlichen <rs type="place" ref="#wolfenbuettel_schloss" role="mentioned">Schloße</rs> sich
+                                <lb/>gar übel schicket.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">9.<c rend="super">o</c></cell>
+                                <cell role="data">Wann Krämer, oder andere frembde Leute etwann
+                                <lb/>kommen, sollen keine davon, bevor Sie dem <w lemma="Schloß-Lieutenant">Schloß-Lieu
+                                <lb/>tenant</w> angemeldet, passiret werden, welcher dann
+                                <lb/>nach Seinem Gutfinden, oder auff weitere Nachfrage
+                                <lb/>Sie einlaßen mag oder nicht.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">10.<c rend="super">o</c></cell>
+                                <cell role="data">Die Unter-Officiers sollen achtung haben, daß alles fein
+                                <lb/>ordentlich und accurat zugehe, sowohl auff der Parade
+                                <lb/>als auff der übrigen Wachte, bey Straffe des <term ref="#stockhaus"><w lemma="Stockhauses">Stock
+                                <lb/>hauses</w></term>; und wann etwa ein oder der andere <term ref="#manquiren"><w lemma="manquirete">man
+                                <lb/>quirete</w></term>, daß Er der gegebenen Ordre nicht <w lemma="nachkehme">nachkeh
+                                <lb/>me</w>, so hatt der Unter-Officier dahin zu sehen, daß
+                                <lb/>Er deßen nahmen und Compagnie, in der Zeit da Er
+                                <lb/>abgelöset wird, dem Major einhandige, sonsten
+                                <lb/>aber mit keinen bösen wortten oder schlägen <w lemma="jemanden">jeman
+                                <lb/>den</w> auff der Wachte zu straffen.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">11.<c rend="super">o</c></cell>
+                                <cell role="data">Des Nachts, wenn der Schloß-Lieutenant Seine <w lemma="visitation">vi
+                                <lb/>sitation</w> vor dem Gewehre, wie auch vor denen <w lemma="übrigen">übri
+                                <lb/>gen</w> Posten gethan, soll allezeit ein Unter-Officier 
+                                <lb/>hernachmahls 2 mahl, als bey auffführunge der Nacht-
+                                <lb/>Posten und kurtz vor deren ablösunge auch visitiren.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">12.<c rend="super">o</c></cell>
+                                <cell role="data">Ist keinem erlaubet von der Wachte länger als Eine,
+                                <lb/>oder anderthalb Stunde auszubleiben, bey Straffe des
+                                <lb/><term ref="#stockhaus">Stockhauses</term>, und sind nicht über 2 oder 3 auff einmahl
+                                <lb/>zu dimittiren; So soll auch kein Dragoner, Hoch-
+                                <lb/>Fürstl<ex>ich</ex> g<ex>nä</ex>d<ex>ig</ex>ster Verordnung zufolge, von jemandem
+                                <lb/>sich von der Wachte wegschicken laßen, sonsten Er <w lemma="dafür">da
+                                <lb/>für</w> mit hartter Straffe angesehen werden soll.</cell>
+                            </row>
+                        </table>
+                    </p>
+                    <p>
+                        <lb/>Dieses ist also das Reglement, wornach sich ein jeder
+                        <lb/>ins künfftige zu achten hatt; und ist solches zu desto
+                        <lb/>mehrerer Festhaltunge von Uns Selbsthändig <w lemma="unterschrieben">unter
+                        <lb/>schrieben</w> worden,  So geschehen und geben <rs type="place" ref="#wolfenbuettel" role="mentioned"><w lemma="Wolffenbüttel">Wolffen
+                        <lb/>büttel</w></rs>,&#x2003;den 22<hi rend="super">ten</hi> <foreign xml:lang="lat">Januarij</foreign><note type="translation" resp="ah">des Januars</note>, 1698.
+                    </p> 
+                    <p>
+                        <lb/>&#x2003; &#x2003;<rs type="person" ref="#braunschweig-wolfenbuettel_ludwig_rudolph">Ludewig Rudolff</rs>.
+                    </p>
+                </div>
+            </div>  
+        </body>
+    </text>
+</TEI>

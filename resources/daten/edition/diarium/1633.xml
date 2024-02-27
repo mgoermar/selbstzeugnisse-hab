@@ -17,16 +17,16 @@
                 <rs ref="register.xml#Schneverdingen" type="place">Schneverding</rs>.</p></div>
             
             <div xml:id="E1633-03-12"><head><date when="1633-03-12">den 12 Martii <c>♂</c></date></head><p> biß <rs ref="register.xml#Rotenburg_an_der_Wuemme" type="place">Rotenburg</rs>, 3.
-               m<ex>eill</ex> <rs ref="register.xml#Ottersberg" type="place">Ottersberg</rs>, 2 ½m<ex>eill</ex> <rs ref="register.xml#Achim" type="place">Achimb</rs>, <rs ref="register.xml#Bremen" type="place">Bremen</rs>, 2 ½ Meill, zum Thurn.</p></div>
+               m<ex>eill</ex> <rs ref="register.xml#Ottersberg" type="place">Ottersberg</rs>, 2½ m<ex>eill</ex> <rs ref="register.xml#Achim" type="place">Achimb</rs>, <rs ref="register.xml#Bremen" type="place">Bremen</rs>, 2½ meill, zum Thurn.</p></div>
             
             <div xml:id="E1633-03-13"><head><date when="1633-03-13">den 13 Martii <c>☿</c></date></head><p> biß
                 <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>.</p></div>
             
-            <div xml:id="E1633-03-17"><note place="margin-left"><foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note></note><head><date when="1633-03-17">den 17. Martii <c>☉</c></date></head><p> ist h<ex>err</ex> <rs ref="register.xml#Albrecht_Friedrich_zu_Barby" type="person">Gr<ex>af</ex> Albrecht Friederichen</rs>, Gr<ex>af</ex> zu
-                Barby Beÿlager gewesen, mit fr<ex>au</ex> <rs ref="register.xml#Sophia_Ursula_Barby" type="person">Sophien Ursulen</rs>, Gr<ex>äfin</ex> zu Oldenb<ex>urg</ex> und Delmenhorst.</p></div>
+            <div xml:id="E1633-03-17"><note place="margin-left"><foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex></foreign><note type="translation" resp="mg">Beachte wohl</note></note><head><date when="1633-03-17">den 17. Martii <c>☉</c></date></head><p> ist h<ex>errn</ex> <rs ref="register.xml#Albrecht_Friedrich_zu_Barby" type="person">Gr<ex>afen</ex> Albrecht Friederichen, Gr<ex>afen</ex> zu
+                Barby</rs> Beÿlager gewesen, mit Fr<ex>au</ex> <rs ref="register.xml#Sophia_Ursula_Barby" type="person">Sophien Ursulen, Gr<ex>äfin</ex> zu Oldenb<ex>urg</ex> und Delmenhorst</rs>.</p></div>
             
             <div xml:id="E1633-03-27"><head><date when="1633-03-27">den 27. Martii <c>☿</c>,</date></head><p> biß <rs ref="register.xml#Oldenburg" type="place">Oldenburgk</rs>:
-                alda die Erbtheilungs Sache hinwieder vorgenommen, <w>und</w><note type="annotation">Satz bricht hier ab</note></p><note type="annotation">Erbstreit zwischen Graf Anton Günther von Oldenburg-Delmenhorst und Anton II. (Oldenburg-Delmenhorst) sowie dessen Sohn Graf Christian IX. von Oldenburg-Delmenhorst über die Regierung und Teilung der Grafschaften von Oldenburg und von Delmenhorst</note></div>
+                alda die Erbtheilungs Sache hinwieder vorgenommen, und<note type="annotation">Satz bricht hier ab.</note></p></div>
             
             <div xml:id="E1633-04-06"><head><date when="1633-04-06">den 6 Aprilis <c>♄</c>,</date></head><p> endlich vergliechen und unterschrieb<ex>en</ex> biß
                 <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>.</p></div>
@@ -35,74 +35,72 @@
             
             <div xml:id="E1633-04-04"><head><date when="1633-04-04">den 4 April<ex>is</ex>
                 <c>♃</c></date></head><p> Auf den Abendt; Ist ein
-                    stadtlich Pancket gehalten worden, und die groben <w>stücke</w><note type="annotation">Geschütz, Kanone, Waffe</note> zun öfftern gelöset worden: 
-                dan dohmaln Alles biß zum <w>ingrossieren</w><note type="annotation">Ingrossieren (mittellat.), mit großer (dicker) Schrift ins Reine schreiben, mundieren; in die gerichtlichen Grund- und Hypothekenbücher eintragen <ref target="http://www.retrobibliothek.de/retrobib/seite.html?id=108497">Meyers Konversationslexikon 
-                    Meyers Konversations-Lexikon, 1888; Autorenkollektiv, Verlag des Bibliographischen Instituts, Leipzig und Wien, Vierte
-                    Auflage, 1885-1892; 8. Band, Seite 954.</ref></note>, vergliechen war.</p></div>
+                    stadtlich Pancket gehalten worden, und die groben <w>Stücke</w><note type="footnote">Geschütze.</note> zun öfftern gelöset worden: 
+                dan dohmaln Alles biß zum ingrossieren<note type="footnote" resp="mg">Etwas in das Gerichtsbuch eintragen.</note>, vergliechen war.</p></div>
             
             <div xml:id="E1633-04-12"><head><date when="1633-04-12">den 12 April<ex>is</ex>
-                <c>♀</c></date></head><p> důrch <rs ref="register.xml#Bremen" type="place">Bremen</rs>, biß <rs ref="register.xml#Sottrum" type="place">Sotmar</rs>, <del>7m<ex>eill</ex></del> zu mittage: biß <rs ref="register.xml#Scheessel" type="place">Scheisel</rs>, seynd 7.m<ex>eill</ex> ist eine vogtey im v<ex>er</ex>dischen.</p></div>
+                <c>♀</c></date></head><p> důrch <rs ref="register.xml#Bremen" type="place">Bremen</rs>, biß <rs ref="register.xml#Sottrum" type="place">Sotmar</rs>, <del>7 m<ex>eill</ex></del> zu mittage: biß <rs ref="register.xml#Scheessel" type="place">Scheisel</rs>, seynd 7. m<ex>eill</ex> ist eine vogtey im v<ex>er</ex>dischen.</p></div>
             
-            <div xml:id="E1633-04-13"><head><date when="1633-04-13">d<ex>en</ex> 13 April<ex>is</ex> <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Luebberstedt" type="place">Libberstede</rs>, biß
-                <rs ref="register.xml#Lueneburg" type="place">Lüneburgk</rs>, 7.m<ex>eill</ex> in die Abtey, bey dem Abt, H<ex>e</ex>r<ex>rn</ex> <rs ref="register.xml#Hans_Heinrich_von_Hasselhorst" type="person">Heinrichen v<ex>on</ex> haselhorst</rs>
+            <div xml:id="E1633-04-13"><head><date when="1633-04-13">d<ex>en</ex> 13 April<ex>is</ex> <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Luebberstedt" type="place">LibberStede</rs>, biß
+                <rs ref="register.xml#Lueneburg" type="place">Lüneburgk</rs>, 7. m<ex>eill</ex> in die Abtey, bey dem Abt, H<ex>e</ex>r<ex>rn</ex> <rs ref="register.xml#Hans_Heinrich_von_Hasselhorst" type="person">Heinrichen v<ex>on</ex> haselhorst</rs>
                 eingekehret.</p></div>
             
-            <div xml:id="E1633-04-14"><head><date when="1633-04-14">den 14 April<ex>is</ex> <c>☉</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>. La<ex>us</ex>
-                Deo.</p></div>
+            <div xml:id="E1633-04-14"><head><date when="1633-04-14">den 14 April<ex>is</ex> <c>☉</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>. <foreign xml:lang="lat">La<ex>us</ex>
+                Deo.</foreign><note type="translation" resp="mg">Lob an Gott.</note></p></div>
             
-            <div xml:id="E1633-05-03"><note place="margin-right">Brunschwiegische Reyse</note><head><date when="1633-05-03">den 3. Maii <subst><del><c>♄</c></del><add><c>♀</c></add></subst> </date></head><p> biß <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs> 5.m<ex>eill</ex> 
-                <rs ref="register.xml#Uelzen" type="place">Ultze<ex>n</ex></rs> auf die r<ex>echten</ex> h<ex>and</ex> biß <rs ref="register.xml#Hankensbuettel" type="place">Hannigsbüttell</rs> 3.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 8.</p></div>
+            <div xml:id="E1633-05-03"><note place="margin-right">Brunschwiegische Reyse</note><head><date when="1633-05-03">den 3. Maii <subst><del><c>♄</c></del><add><c>♀</c></add></subst> </date></head><p> biß <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs> <subst><del>4</del><add>5</add></subst> m<ex>eill</ex> 
+                <rs ref="register.xml#Uelzen" type="place">Ultze<ex>n</ex></rs> auf die r<ex>echte</ex> h<ex>and</ex> biß <rs ref="register.xml#Hankensbuettel" type="place">Hannigsbüttell</rs> 3. m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 8.</p></div>
             
-            <div xml:id="E1633-05-04"><head><date when="1633-05-04">d<ex>en</ex> 4 Maii <c>♄</c></date></head><p> durch <rs ref="register.xml#Gifhorn" type="place">Gifhorn</rs> biß <rs ref="register.xml#Roetgesbuettel" type="place">Ritzschebüttell</rs> 5.m<ex>eill</ex> biß
-                <rs ref="register.xml#Braunschweig" type="place">Brunschwieg</rs> 2.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7.</p></div>
+            <div xml:id="E1633-05-04"><head><date when="1633-05-04">d<ex>en</ex> 4 Maii <c>♄</c></date></head><p> durch <rs ref="register.xml#Gifhorn" type="place">Gifhorn</rs> biß <rs ref="register.xml#Roetgesbuettel" type="place">Ritzschebüttell</rs> 5. m<ex>eill</ex> biß
+                <rs ref="register.xml#Braunschweig" type="place">Brunschwieg</rs> 2. m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 7.</p></div>
             
-            <div xml:id="E1633-05-05"><head><date when="1633-05-05">d<ex>en</ex> 5. Maii, <c>☉</c></date></head><p> d<ex>er</ex> Raht <ex>ver</ex>ehret, 2. <w>Ohme<ex>n</ex></w><note type="annotation">Im Herzogtum Braunschweig rechnete man: 1 Ohm = 4 Anker = 40 Stübchen = 80 Maß = 160 Quartier. <ref target="https://de.wikipedia.org/wiki/Ohm_(Fl%C3%BCssigkeitsma%C3%9F)">Wikipedia</ref></note> Weins, 1 Faß
-                <w>Mum&lt;<ex>me</ex>&gt;</w><note type="annotation">Die Braunschweiger Mumme, war ursprünglich je nach Brauart ein schwach bis stark alkoholhaltiges Bier aus Braunschweig. Seine Entstehungsgeschichte reicht bis in das Spätmittelalter zurück. <ref target="https://de.wikipedia.org/wiki/Braunschweiger_Mumme">Wikipedia</ref></note>, und 1. W<ex>ispel</ex><note type="annotation">Im Braunschweigischen wurde ein Wispel mit 4 Scheffeln angegeben, was 310,42 Litern entsprach. <ref target="https://de.wikipedia.org/wiki/Wispel">Wikipedia</ref></note> <w>Habern</w><note type="annotation">Hafer</note>. In S<ex>anct</ex> Martens Kirchen:
-                und zu den Brüd<ex>er</ex>n<note type="annotation">Brüdernkirche in Braunschweig</note>, die Predigt gehöret.</p></div>
+            <div xml:id="E1633-05-05"><head><date when="1633-05-05">d<ex>en</ex> 5. Maii, <c>☉</c></date></head><p> d<ex>er</ex> Raht <ex>ver</ex>ehret, 2. Ohme<ex>n</ex> Weins, 1 Faß
+                Mum&lt;<ex>me</ex>&gt;<note type="footnote" resp="mg">Braunschweiger Biersorte.</note>, und 1. W<ex>ispel</ex> Habern. In S<ex>anct</ex> Martens Kirchen:
+                und zu den Brüd<ex>er</ex>n, die Predigt gehöret.</p></div>
             
-            <div xml:id="E1633-05-08"><head><date when="1633-05-08">den 8 Maii <c>☿</c>,</date></head><p> der <rs ref="register.xml#Friedrich_Ulrich_von_Braunschweig_Wolfenbuettel" type="person">H<ex>err</ex> zu Br<ex>aunschweig</ex></rs> und der Ambassaden <rs ref="register.xml#Henning_von_Steinberg" type="person">Steinberg</rs>, bey mir zu gaste
-                gewesen, nebst allen <w>Consiliariis</w><note type="translation">Ratgeber, Berater</note> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1633-05-08"><head><date when="1633-05-08">den 8 Maii <c>☿</c>,</date></head><p> der <rs ref="register.xml#Friedrich_Ulrich_von_Braunschweig_Wolfenbuettel" type="person">H<ex>erzog</ex> zu Br<ex>aunschweig</ex></rs> und der <foreign xml:lang="fre">Ambassadeur</foreign><note type="translation" resp="mg">Gesandte</note> <rs ref="register.xml#Henning_von_Steinberg" type="person">Steinberg</rs>, bey mir zu gaste
+                gewesen, nebst allen <foreign xml:lang="lat">Consiliariis</foreign><note type="translation" resp="mg">Räten</note> <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
-            <div xml:id="E1633-05-12"><head><date when="1633-05-12">d<ex>en</ex> 12 Maii <c>☉</c></date></head><p> biß <rs ref="register.xml#Gifhorn" type="place">Gifhorn</rs>, biß <rs ref="register.xml#Hankensbuettel" type="place">Hanningsbuttell</rs> 8m<ex>eill</ex></p></div>
+            <div xml:id="E1633-05-12"><head><date when="1633-05-12">d<ex>en</ex> 12 Maii <c>☉</c></date></head><p> biß <rs ref="register.xml#Gifhorn" type="place">Gifhorn</rs>, biß <rs ref="register.xml#Hankensbuettel" type="place">Hanningsbuttell</rs> 8 m<ex>eill</ex></p></div>
             
-            <div xml:id="E1633-05-13"><head><date when="1633-05-13">d<ex>en</ex> 13 Maii <c>☽</c></date></head><p> biß <rs ref="register.xml#Rosche" type="place">Roseke</rs> 3 ½ biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>, 3 m<ex>eill</ex> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1633-05-13"><head><date when="1633-05-13">d<ex>en</ex> 13 Maii <c>☽</c></date></head><p> biß <rs ref="register.xml#Rosche" type="place">Roseke</rs> 3½ biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>, 3 m<ex>eill</ex> <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
-            <div xml:id="E1633-05-27"><note place="margin-right">Dänische Reyse</note><head><date when="1633-05-27">d<ex>en</ex> 27 Maii <c>☽</c></date></head><p> biß <rs ref="register.xml#Boizenburg" type="place">Prutzenbourg</rs>, <rs ref="register.xml#Lauenburg" type="place">Lawenburgk</rs>, 6.m<ex>eill</ex> biß <rs ref="register.xml#Bergedorf" type="place">Bergerdorf</rs> 4 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 10</p></div>
+            <div xml:id="E1633-05-27"><note place="margin-right">Dänische Reyse</note><head><date when="1633-05-27">d<ex>en</ex> 27 Maii <c>☽</c></date></head><p> biß <rs ref="register.xml#Boizenburg" type="place">Prutzenbourg</rs>, <rs ref="register.xml#Lauenburg" type="place">Lawenburgk</rs>, 6. m<ex>eill</ex> biß <rs ref="register.xml#Bergedorf" type="place">Bergerdorf</rs> 4 m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation">ergibt</note> 10</p></div>
             
-            <div xml:id="E1633-05-28"><head><date when="1633-05-28">d<ex>en</ex> 28. Maii. <c>♂</c>.</date></head><p> biß <rs ref="register.xml#Hamburg" type="place">Hamburg</rs>, <hi rend="superscript">2.m<ex>eill</ex></hi> im Weinberge: biß
-                <rs ref="register.xml#Altona" type="place">Altena</rs>: <rs ref="register.xml#Uetersen" type="place">Ütersen</rs>. 3.m<ex>eill</ex></p></div>
+            <div xml:id="E1633-05-28"><head><date when="1633-05-28">d<ex>en</ex> 28. Maii. <c>♂</c>.</date></head><p> biß <rs ref="register.xml#Hamburg" type="place">Hamburg</rs> <add place="above">2. m<ex>eill</ex></add>, im Weinberge: biß
+                <rs ref="register.xml#Altona" type="place">Altena</rs>: <rs ref="register.xml#Uetersen" type="place">Ütersen</rs>. 3. m<ex>eill</ex></p></div>
             
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00120.jpg" n="58v"/>
             
             <div xml:id="E1633-05-29"><head><date when="1633-05-29">Den 29. Maii. <c>☿</c>,</date></head><p> biß <rs ref="register.xml#Glueckstadt" type="place">Glückstadt</rs>:
-                3.m<ex>eill</ex> zum <rs ref="register.xml#Christian_IV._v_Daenemark" type="person">Konige in dennem<ex>ark</ex></rs>, mit nahmen <rs ref="register.xml#Christian_IV._v_Daenemark" type="person">xrian<ex>us</ex></rs> 4tus.</p></div>
+                3. m<ex>eill</ex> zum <rs ref="register.xml#Christian_IV._v_Daenemark" type="person">Konige in dennem<ex>ark</ex>, mit nahmen Xri<ex>sti</ex>an<ex>us</ex> 4t<ex>us</ex></rs>.</p></div>
             
             <div xml:id="E1633-05-31"><head><date when="1633-05-31">d<ex>en</ex> 31. Maii <c>♀</c></date></head><p> biß <rs ref="register.xml#Uetersen" type="place">Utersen</rs> 4 m<ex>eill</ex></p></div>
             
             <div xml:id="E1633-06-01"><head><date when="1633-06-01">d<ex>en</ex> 1. Junii. <c>♄</c></date></head><p> biß <rs ref="register.xml#Altona" type="place">Altonah</rs>, durch <rs ref="register.xml#Hamburg" type="place">hamburg</rs>, biß
-                <rs ref="register.xml#Bergedorf" type="place">Bergerdorff</rs>. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+                <rs ref="register.xml#Bergedorf" type="place">Bergerdorff</rs>.</p></div>
             
             <div xml:id="E1633-06-02"><head><date when="1633-06-02">d<ex>en</ex> 2. Junii <c>☉</c></date></head><p> biß <rs ref="register.xml#Kirchwaerder_Zollenspieker" type="place">Tollenspiker</rs>, <rs ref="register.xml#Winsen" type="place">winsen</rs>, <rs ref="register.xml#Lueneburg" type="place">Luneburgk</rs></p></div>
             
-            <div xml:id="E1633-06-03"><note place="margin-left"><foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note></note><head><date when="1633-06-03">den 3 Junii <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>. <foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt, übrigens</note>. an diesem tage, hat
-                <rs type="person">Friederich Kropf</rs>, <rs type="person">M. heinrich</rs>, unsern Reitschmiedt, gefährlich <ex>ver</ex>wundet, mit d<ex>en</ex> <w>Rappier</w><note type="annotation">Stich- und Hiebwaffe, Degen</note>: Wie redtlich, wird er
+            <div xml:id="E1633-06-03"><note place="margin-left"><foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex></foreign><note type="translation" resp="mg">Beachte wohl</note></note><head><date when="1633-06-03">den 3 Junii <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>. <foreign xml:lang="lat">N<ex>ota</ex> B<ex>ene</ex></foreign><note type="translation" resp="mg">Beachte wohl</note> an diesem tage, hat
+                <rs type="person" ref="register.xml#kropf_friedrich">Friederich Kropf</rs>, M<ex>eister</ex><note type="footnote" resp="mg">Auflösung unsicher.</note> <rs type="person" ref="register.xml#heinrich_1">heinrich<ex>en</ex></rs>, unsern Reitschmiedt, gefährlich <ex>ver</ex>wundet, mit d<ex>em</ex> Rappier: Wie redtlich, wird er
                 am besten wissen.</p></div>
             
-            <div xml:id="E1633-07-17"><note type="margin-left">Rayse Plötzkaw</note><head><date when="1633-07-17">den 17. Julii. <c>☿</c></date></head><p> biß <rs ref="register.xml#Gardelegen" type="place">Gardelebe<ex>n</ex></rs>, 10.m<ex>eill</ex></p></div>
+            <div xml:id="E1633-07-17"><note type="margin-left">Rayse nach Plötzkaw</note><head><date when="1633-07-17">den 17. Julii. <c>☿</c></date></head><p> biß <rs ref="register.xml#Gardelegen" type="place">Gardelebe<ex>n</ex></rs>, 10. m<ex>eill</ex></p></div>
             
-            <div xml:id="E1633-07-18"><head><date when="1633-07-18">d<ex>en</ex> 18. Julii. <c>♃</c></date></head><p> biß <rs ref="register.xml#Letzlingen" type="place">Netzling<ex>en</ex></rs>, <rs ref="register.xml#Colbitz" type="place">Colbitz</rs> <rs ref="register.xml#Wolmirstedt" type="place">Wolmerstede</rs>,
-                <rs ref="register.xml#Magdeburg" type="place">Magdeburgk</rs>, 7.m<ex>eill</ex> </p></div>
+            <div xml:id="E1633-07-18"><head><date when="1633-07-18">d<ex>en</ex> 18. Julii. <c>♃</c></date></head><p> biß <rs ref="register.xml#Letzlingen" type="place">Netzling<ex>en</ex></rs>, <rs ref="register.xml#Colbitz" type="place">Colbitz</rs>, <rs ref="register.xml#Wolmirstedt" type="place">Wolmerstede</rs>,
+                <rs ref="register.xml#Magdeburg" type="place">Magdeburgk</rs>, 7. m<ex>eill</ex> </p></div>
             
-            <div xml:id="E1633-07-19"><head><date when="1633-07-19">d<ex>en</ex> 19. Julii. <c>♀</c></date></head><p> <rs ref="register.xml#Neugattersleben" type="place">Newen Gatersleben</rs>, da selbsten ein <rs type="org">Alvensleb<ex>en</ex></rs>
-                wohnet, 5.m<ex>eill</ex> biß <rs ref="register.xml#Ploetzkau" type="place">Plötzkaw</rs>. 2.m<ex>eill</ex></p></div>
+            <div xml:id="E1633-07-19"><head><date when="1633-07-19">d<ex>en</ex> 19. Julii. <c>♀</c></date></head><p> <rs ref="register.xml#Neugattersleben" type="place">Newen Gatersleben</rs>, da selbsten ein <rs type="person" ref="register.xml#alvensleben_anon_1">Alvensleb<ex>en</ex></rs>
+                wohnet, 5. m<ex>eill</ex> biß <rs ref="register.xml#Ploetzkau" type="place">Plötzkaw</rs>. 2. m<ex>eill</ex></p></div>
             
             <div xml:id="E1633-07-22"><head><date when="1633-07-22">den 22 Julii <c>☽</c>.</date></head><p> wied<ex>er</ex> zu rügke biß <rs ref="register.xml#Gross_Muehlingen" type="place">Mülingen</rs>; Alda d<ex>er</ex>
                 <rs ref="register.xml#Albrecht_Friedrich_zu_Barby" type="person">Graff v<ex>on</ex> Barby</rs> hofhält, d<ex>er</ex> d<ex>a</ex>z
-                älteste Fräwlein <rs ref="register.xml#Sophie_Ursula_zu_Barby" type="person">Sophiam Ursulam</rs> geheuratet. 4.m<ex>eill</ex></p></div>
+                älteste Fräwlein <rs ref="register.xml#Sophia_Ursula_Barby" type="person">Sophiam Ursulam</rs> geheuratet. 4. m<ex>eill</ex></p></div>
             
-            <div xml:id="E1633-07-23"><head><date when="1633-07-23">d<ex>en</ex> 23. Julii. <c>♂</c></date></head><p> biß <rs ref="register.xml#Wolmirstedt" type="place">Wolmerstedt</rs>: 5.m<ex>eill</ex></p></div>
+            <div xml:id="E1633-07-23"><head><date when="1633-07-23">d<ex>en</ex> 23. Julii. <c>♂</c></date></head><p> biß <rs ref="register.xml#Wolmirstedt" type="place">Wolmerstedt</rs>: 5. m<ex>eill</ex></p></div>
             
-            <div xml:id="E1633-07-24"><head><date when="1633-07-24">d<ex>en</ex> 24. Julii <c>☿</c></date></head><p> biß <rs ref="register.xml#Gardelegen" type="place">Gardeleb<ex>en</ex></rs> bey d<ex>er</ex> <rs ref="register.xml#Martin_Gosky" type="person">Goßky</rs></p></div>
+            <div xml:id="E1633-07-24"><head><date when="1633-07-24">d<ex>en</ex> 24. Julii <c>☿</c></date></head><p> biß <rs ref="register.xml#Gardelegen" type="place">Gardeleb<ex>en</ex></rs> bey D<ex>octor</ex> <rs ref="register.xml#Martin_Gosky" type="person">Goßky</rs></p></div>
             
             <div xml:id="E1633-07-25"><head><date when="1633-07-25">d<ex>en</ex> 25. Julii. <c>♃</c></date></head><p> biß Lüchow: <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
         </body>

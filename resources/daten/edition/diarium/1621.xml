@@ -9,10 +9,10 @@
     </teiHeader>
     <text>
         <body>
-            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00100.jpg" n="48v">Anno 1621</head></div>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00100.jpg" n="48v">Anno 1621 <foreign xml:lang="lat">m<ex>anu </ex>p<ex>ropria</ex></foreign><note type="translation" resp="mg">mit eigener Hand</note></head></div>
             
             <div xml:id="E1621-01-07"><head><date when="1621-01-07">den 7 Januar<ex>ÿ</ex> <c>☉</c>,</date></head><p> 
-                biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>, über die Elbe, beÿ <rs ref="register.xml#Lenzen" type="place">Lantzatze</rs>. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+                biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>, über die Elbe, beÿ <rs ref="register.xml#Lenzen" type="place">Lantzatze</rs>. <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
             <div xml:id="E1621-09-14"><head><date when="1621-09-14">den 14 7bris <c>♀</c></date></head><p> biß <rs ref="register.xml#Neustadt_Glewe" type="place">Newstadt</rs>, 5.
                 m<ex>eill</ex>.</p></div>
@@ -20,18 +20,18 @@
             <div xml:id="E1621-09-15"><head><date when="1621-09-15">d<ex>e</ex>n 15 7bris <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Parchim" type="place">Parchim</rs>, 
                 <rs ref="register.xml#Luebz" type="place">Lüptze</rs>, <rs ref="register.xml#Plate" type="place">Plage</rs>, 5. m<ex>eill</ex>.</p></div>
             
-            <div xml:id="E1621-09-16"><head><date when="1621-09-16">d<ex>e</ex>n 16 7bris <c>☉</c>.</date></head><p> biß <rs ref="register.xml#Mirow" type="place">Miraw</rs>. <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert</note>.</p></div>
+            <div xml:id="E1621-09-16"><head><date when="1621-09-16">d<ex>e</ex>n 16 7bris <c>☉</c>.</date></head><p> biß <rs ref="register.xml#Mirow" type="place">Miraw</rs>. <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert.</note>.</p></div>
             
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00101.jpg" n="49r"/>
             
             <div xml:id="E1621-09-17"><head><date when="1621-09-17">den 17. 7bris. <c>☽</c></date></head><p> biß <rs ref="register.xml#Stargard_Stargard_Szczecinski" type="place">Stargardt</rs>
-                <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert</note>.</p></div>
+                <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert.</note>.</p></div>
             
             <div xml:id="E1621-09-18"><head><date when="1621-09-18">den 18 7bris <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Torgelow" type="place">Torgerlaw</rs>.
-                <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert</note>.</p></div>
+                <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert.</note>.</p></div>
             
             <div xml:id="E1621-09-20"><head><date when="1621-09-20">den 20 7bris <c>♃</c></date></head><p> biß <rs ref="register.xml#Stettin" type="place">Alten Stetin</rs>;
-                <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert</note>.</p></div>
+                <w>m<ex>eill</ex></w><note type="annotation">Die Angabe der zurückgelegten Meilen fehlt, es ist nur die Einheit Meilen notiert.</note>.</p></div>
             
             <div xml:id="E1621-10-02"><head><date when="1621-10-02">den 2. 8bris <c>♂</c></date></head><p> biß <rs ref="register.xml#Goleniow_Gollnow" type="place">Goldenaw</rs>. 6.
                 m<ex>eill</ex>.</p></div>
@@ -71,7 +71,7 @@
             
             <div xml:id="E1621-12-04"><head><date when="1621-12-04">d<ex>e</ex>n 4 Xbris <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Syke" type="place">Sike</rs>, <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>.</p></div>
             
-            <div><p>d<ex>e</ex>n</p><note type="annotation">In anderer Tinte und vermutlich zu einem späteren Zeitpunkt notierter Satzanfang</note></div>
+            <div><p>d<ex>e</ex>n</p><note type="annotation">In anderer Tinte und vermutlich zu einem späteren Zeitpunkt notierter Satzanfang.</note></div>
                     </body>
     </text>
 </TEI>

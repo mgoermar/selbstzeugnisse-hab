@@ -3,8 +3,11 @@
 $app->get('/', 'controller.staticpage:handle')
     ->bind('home');
 
-$app->get('/edition/', 'controller.staticpage:handle')
+$app->get('/edition_august', 'controller.staticpage:handle')
     ->bind('edition');
+    
+$app->get('/edition/einleitung',  'controller.staticpage:handle')
+    ->bind('edition.einleitung');
 
 $app->get('/edition/beschreibung',  'controller.staticpage:handle')
     ->bind('edition.beschreibung');
@@ -65,3 +68,87 @@ $app->get('/dienste', 'controller.staticpage:handle')
 
 $app->get('/suche', 'controller.search:handle')
     ->bind('suche');
+    
+$app->get('/edition_sz2', 'controller.staticpage:handle')
+    ->bind('edition_sz2');
+
+$app->get('/sz2/projektbeschreibung', 'controller.staticpage:handle')
+    ->bind('sz2.projektbeschreibung');
+
+$app->get('/sz2/kurzbiographien', 'controller.staticpage:handle')
+    ->bind('sz2.kurzbiographien');
+
+$app->get('/sz2/editionsrichtlinien', 'controller.staticpage:handle')
+    ->bind('sz2.editionsrichtlinien');
+
+$app->get('/sz2/bibliographie', 'controller.staticpage:handle')
+    ->bind('sz2.bibliographie');
+    
+$app->get('/sz2/introduction_cod_guelf_28_blank', 'controller.staticpage:handle')
+    ->bind('sz2.introduction_cod_guelf_28_blank');
+    
+$app->get('/sz2/introduction_cod_guelf_286_blank', 'controller.staticpage:handle')
+    ->bind('sz2.introduction_cod_guelf_286_blank');
+
+$app->get('/sz2/introduction_cod_guelf_286a_blank', 'controller.staticpage:handle')
+    ->bind('sz2.introduction_cod_guelf_286a_blank');
+
+$app->get('/sz2/introduction_cod_guelf_211_1_extrav', 'controller.staticpage:handle')
+    ->bind('sz2.introduction_cod_guelf_211_1_extrav');
+
+$app->get('/sz2/cod_guelf_28_blank', 'controller.staticpage:handle')
+    ->bind('sz2.cod_guelf_28_blank');
+    
+$app->get('/sz2/cod_guelf_28_blank_teil2', 'controller.staticpage:handle')
+    ->bind('sz2.cod_guelf_28_blank_teil2');
+    
+$app->get('/sz2/cod_guelf_28_blank_teil3', 'controller.staticpage:handle')
+    ->bind('sz2.cod_guelf_28_blank_teil3');
+    
+$app->get('/sz2/cod_guelf_28_blank_teil4', 'controller.staticpage:handle')
+    ->bind('sz2.cod_guelf_28_blank_teil4');
+    
+$app->get('/sz2/cod_guelf_211_1_extrav', 'controller.staticpage:handle')
+    ->bind('sz2.cod_guelf_211_1_extrav');
+    
+$app->get('/sz2/cod_guelf_286a_blank', 'controller.staticpage:handle')
+    ->bind('sz2.cod_guelf_286a_blank');
+    
+$app->get('/sz2/cod_guelf_286_blank', 'controller.staticpage:handle')
+    ->bind('sz2.cod_guelf_286_blank');
+
+$app->get('/sz2/personen', 'controller.staticpage:handle')
+    ->bind('sz2.personen');
+    
+$app->get('/sz2/personen.html', 'controller.staticpage:handle')
+    ->bind('sz2.personen.html');
+
+$app->get('/sz2/orte', 'controller.staticpage:handle')
+    ->bind('sz2.orte');
+
+$app->get('/sz2/literatur', 'controller.staticpage:handle')
+    ->bind('sz2.literatur');
+    
+$app->get('/sz2/geobrowser', 'controller.staticpage:handle')
+    ->bind('sz2.geobrowser');
+    
+$app->get('/sz2/itinerar_geobrowser', 'controller.staticpage:handle')
+    ->bind('sz2.itinerar_geobrowser');
+    
+$app->get('/sz2/itinerar', 'controller.staticpage:handle')
+    ->bind('sz2.itinerar');
+
+$app->get('/edition_grand_tour', 'controller.staticpage:handle')
+    ->bind('edition_grand_tour');
+
+$app->get('/grand_tour/projektbeschreibung', 'controller.staticpage:handle')
+    ->bind('grand_tour.projektbeschreibung');
+
+$app->get('grand_tour/introduction_cod_guelf_267_1_extrav', 'controller.staticpage:handle')
+    ->bind('grand_tour.introduction_cod_guelf_267_1_extrav');
+	
+$app->get('grand_tour/cod_guelf_267_1_extrav', 'controller.staticpage:handle')
+    ->bind('grand_tour.cod_guelf_267_1_extrav');
+    
+$app->get('/editionen', 'controller.staticpage:handle')
+    ->bind('editionen');

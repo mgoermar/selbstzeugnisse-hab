@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd" xml:id="edition_grand_tour">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Grand Tour Digital - Digitale Edition frühneuzeitlicher Selbstzeugnisse von Bildungsreisen</title>
+                <respStmt>
+                    <resp>Herausgegeben und bearbeitet von</resp>
+                    <persName>
+                        <forename>Angela</forename>
+                        <surname>Göbel</surname>                        
+                    </persName>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>                        
+                    </persName>
+                </respStmt>                
+                <respStmt>
+                    <resp>Technische Umsetzung</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt> 
+                <funder>Deutsche Forschungsgemeinschaft</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>                
+            </titleStmt>
+            <publicationStmt>                
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+<!--                    <ptr target="http://www.hab.de"/>-->
+                </publisher>            
+                <date type="digitised" when="2022">2022-2025</date>
+                <pubPlace>Wolfenbüttel</pubPlace>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence>
+                </availability>                
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>N. N. Wagener: Tout Avec Dieu. Kurtze verzeichung meiner geringen Reise angefangen Anno 1652. Herzog August Bibliothek, Signatur: Cod. Guelf. 267.1 Extrav.</bibl>
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <group>
+            <head>Wagener, 1652-1659</head>
+            <xi:include href="../introduction/introduction_cod_guelf_267_1_extrav.xml"/>
+            <xi:include href="wagener_with_entities.xml"/>
+        </group>        
+    </text>
+</TEI>

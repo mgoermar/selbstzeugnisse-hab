@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grand_tour_personenregister">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Personenregister</title>
+                <respStmt>
+                    <resp>erstellt und bearbeitet von</resp>
+                    <name>Maximilian Görmar</name>
+                    <name>Angela Göbel</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="https://www.hab.de"/>
+                    <address>
+                        <street>Lessingplatz 1</street>
+                        <name type="city">Wolfenbüttel</name>
+                        <postCode>D-38299</postCode>
+                        <name type="country">Germany</name>
+                    </address>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson xml:id="person">                
+                <person xml:id="aaron">
+                    <persName type="display" ref="https://d-nb.info/gnd/118500031">Aaron (biblische Person)</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wibilex" target="https://bibelwissenschaft.de/stichwort/11012/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="adam">
+                    <persName ref="https://d-nb.info/gnd/118646877" type="display">Adam (biblische Person)</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wibilex" target="https://bibelwissenschaft.de/stichwort/12492/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="aegypten_kleopatra_vii">
+                    <persName type="display" ref="https://d-nb.info/gnd/11856322X">Kleopatra VII., Königin von Ägypten</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kleopatra_VII."/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="aeolus">
+                    <persName type="display" ref="https://d-nb.info/gnd/1106410343">Aeolus (Gott)</persName>
+                </person>
+                <person xml:id="agricola_johann">
+                    <persName ref="https://d-nb.info/gnd/104073926" type="display">Agricola, Johann</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/w/index.php?title=Johann_Agricola_(Alchemist)&amp;oldid=216715057"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="aldrovandi_ulisse">
+                    <persName type="display" ref="https://d-nb.info/gnd/118898825">Aldrovandi, Ulisse</persName>
+                </person>
+                <person xml:id="andragathius">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q2846204">Andragathius</persName>
+                </person>
+                <person xml:id="apostel">
+                    <persName ref="https://d-nb.info/gnd/4002455-6" type="display">Zwölf Apostel (biblische Personen)</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wibilex" target="https://bibelwissenschaft.de/stichwort/49951/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="amor">
+                    <persName ref="https://d-nb.info/gnd/11850262X" type="display">Amor (Gott)</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="RE" target="https://de.wikisource.org/wiki/RE:Eros_1"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person  xml:id="arndt_johann">
+                    <persName ref="https://d-nb.info/gnd/118504134" type="display">Arndt, Johann</persName>
+                </person>
+                <person xml:id="ausonius_decimus_magnus">
+                    <persName type="display" ref="https://d-nb.info/gnd/118505165">Ausonius, Decimus Magnus</persName>
+                </person>
+                <person xml:id="babenberger_anon_1">
+                    <persName type="display">Babenberger, N. N.</persName>
+                    <note>Angeblich erster Oberzunftmeister in Bern; seine Rüstung war um 1658 im Zeughaus ausgestellt.</note>
+                </person>
+                <person xml:id="baden-durlach_karl_magnus">
+                    <persName ref="https://d-nb.info/gnd/1017917922" type="display">Baden-Durlach, Karl Magnus</persName>
+                </person>
+                <person xml:id="bansa_matthias">
+                    <persName type="display" ref="https://d-nb.info/gnd/1011505363">Bansa, Matthias</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="fpl" target="https://frankfurter-personenlexikon.de/node/2231"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="basius_anon_1">
+                    <persName type="display">Basius, N. N.</persName>
+                    <note>Um 1655 Turmherr in Frauenburg (Frombork).</note>
+                </person>
+                <person xml:id="bayern_ferdinand_maria">
+                    <persName ref="https://d-nb.info/gnd/119105691" type="display">Bayern, Ferdinand Maria, Kurfürst von</persName>
+                </person>
+                <person xml:id="bayern_maximilian_heinrich">
+                    <persName ref="https://d-nb.info/gnd/10030673X" type="display">Bayern, Maximilian Heinrich, Herzog von</persName>
+                    <persName>Köln, Maximilian Heinrich, Kurfürst und Erzbischof von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/gnd10030673X.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/gnd10030673X.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="beckmann_hans">
+                    <persName type="display">Beckmann, Hans</persName>
+                    <note>Um 1657 Stadtmajor und Kommendant der Stadt Braunschweig.</note>
+                </person>
+                <person xml:id="behmen_justo">
+                    <persName type="display">Behmen, Justo</persName>
+                    <note>Um 1658 Ratsapotheker in Osterode im Harz.</note>
+                </person>
+                <person xml:id="berge_gerhard">
+                    <persName type="display" ref="https://d-nb.info/gnd/119369419">Berge, Gerhard vom</persName>
+                    <persName>Hildesheim, Gerhard, Bischof von</persName>
+                    <persName>Schalksberg, Gerhard von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/gnd119369419.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="berkelmann_anon_1">
+                    <persName type="display">Berkelmann, N. N.</persName>
+                    <note>Die Person konnte bisher nicht genauer identifiziert werden.</note>
+                </person>
+                <person xml:id="beze_theodore">
+                    <persName type="display" ref="https://d-nb.info/gnd/118662864">Bèze, Théodore de</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/011048/2004-09-30/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="bolle_johann">
+                    <persName type="display">Bollen, Johann</persName>
+                    <note>Um 1652 Barbiergeselle.</note>
+                </person>
+                <person xml:id="bollioud_alexandre">
+                    <persName type="display">Bollioud, Alexandre</persName>
+                    <note>Um 1611 Bürgermeister von Lyon.</note>
+                </person>
+                <person xml:id="bollioud_pierre">
+                    <persName type="display">Bollioud, Pierre</persName>
+                    <note>Um 1657 Adliger, königlicher Rat, oberster Anwalt des Königs und Bürgermeister in Lyon.</note>
+                </person>
+                <person xml:id="bora_katharina">
+                    <persName ref="https://d-nb.info/gnd/118575430" type="display">Bora, Katharina von</persName>
+                </person>
+                <person xml:id="brand_theodor">
+                    <persName ref="https://d-nb.info/gnd/1072492415" type="display">Brand, Theodor</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/019187/2002-12-13/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="brandenburg_friedrich_wilhelm">
+                    <persName ref="https://d-nb.info/gnd/11853596X" type="display">Brandenburg, Friedrich Wilhelm von</persName>
+                </person>                
+                <person xml:id="brandenburg_luise_henriette">
+                    <persName ref="https://d-nb.info/gnd/118969080" type="display">Brandenburg, Luise Henriette, Kurfürstin von, geb. Prinzessin von Nassau-Oranien</persName>
+                    <persName type="birthName">Nassau-Oranien, Luise Henriette, Prinzessin von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118969080.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd118969080.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="brandenburg-ansbach_albrecht">
+                    <persName ref="https://d-nb.info/gnd/118637673" type="display">Brandenburg-Ansbach, Albrecht, Markgraf von</persName>
+                    <persName>Preußen, Albrecht, Herzog von</persName>
+                    <persName>Albrecht, Hochmeister des Deutschen Ordens</persName>
+                </person>
+                <person xml:id="braunschweig-wolfenbuettel_friedrich_ulrich">
+                    <persName ref="https://d-nb.info/gnd/102017433" type="display">Braunschweig-Wolfenbüttel, Friedrich Ulrich von</persName>
+                </person>
+                <person xml:id="braunschweig-dannenberg_franz">
+                    <persName type="display" ref="https://d-nb.info/gnd/122575083">Braunschweig-Dannenberg, Franz von</persName>
+                </person>
+                <person xml:id="braunschweig-lueneburg_august">
+                    <persName ref="https://d-nb.info/gnd/118505076" type="display">Braunschweig-Wolfenbüttel, August II., Herzog von</persName>
+                </person>
+                <person xml:id="braunschweig-lueneburg_christian_ludwig">
+                    <persName ref="https://d-nb.info/gnd/102117977" type="display">Braunschweig-Lüneburg, Christian Ludwig, Herzog von</persName>
+                </person>
+                <person xml:id="braunschweig-wolfenbuettel_heinrich_julius">
+                    <persName ref="https://d-nb.info/gnd/118709887" type="display">Braunschweig-Wolfenbüttel, Heinrich Julius, Herzog von</persName>
+                </person>
+                <person xml:id="braunschweig-wolfenbuettel_magnus_i">
+                    <persName type="display" ref="https://d-nb.info/gnd/137965168">Braunschweig-Wolfenbüttel, Magnus I. (der Fromme), Herzog von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/gnd137965168.html#ndbcontent"/>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/gnd137965168.html#adbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="braunschweig-wolfenbuettel-bevern_ferdinand_albrecht">
+                    <persName ref="https://d-nb.info/gnd/11883732X" type="display">Braunschweig-Wolfenbüttel-Bevern, Ferdinand Albrecht, Herzog von</persName>
+                </person>
+                <person xml:id="brentel_friedrich">
+                    <persName type="display" ref="https://d-nb.info/gnd/130498300">Brentel, Friedrich</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd130498300.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd130498300.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="bruchschneider_jochim">
+                    <persName type="display">Ingenieur aus Altschottland</persName>
+                    <note>Die Person konnte bisher nicht identifiziert werden.</note>
+                </person>
+                <person xml:id="brueggemann_otto">
+                    <persName ref="https://d-nb.info/gnd/138713693" type="display">Brüggemann, Otto</persName>
+                    <note>Gesandter auf der Persischen Reise von Adam Olearius in den Jahren 1633 und 1634. Die Gesandtschaft umfasste bei der Abreise in Hamburg 34 Personen.</note>
+                    <listBibl>
+                        <bibl> Adam Olearius: Offt begehrte Beschreibung Der Newen Orientalischen Rejse. Schleswig, 1647. , S. 2. In: Deutsches Textarchiv <ref target="https://www.deutschestextarchiv.de/olearius_reise_1647/32"></ref></bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="bruekel_vette">
+                    <persName type="display">Bruekel, Vette</persName>
+                    <note>Die Person konnte bisher nicht genauer identifiziert werden.</note>
+                </person>
+                <person xml:id="brunck_richard">
+                    <persName type="display">Brunck, Richard</persName>
+                    <note>Um 1658 Apotheker in Breisach.</note>
+                </person>
+                <person xml:id="bruskow_nikolaus">
+                    <persName type="display">Bruskow, Nikolaus</persName>
+                    <death>1367</death>
+                    <note>Lübecker Patrizier. Er und nicht ein polnischer Edelmann, wie es im Reisebericht Wageners steht, soll 1367 den Lübecker Ratsherren (nicht Bürgermeister!) Bernhard Oldenborch mit einem Schwert getötet haben und dafür hingerichtet worden sein.</note>
+                    <listBibl>
+                        <bibl>Klaus Graf: Ein Lübecker Mord im Jahr 1367 und seine Traditionsbildung, in: Archivalia, 27. März 2017, <ref target="https://archivalia.hypotheses.org/63977">https://archivalia.hypotheses.org/63977</ref></bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="budaeus_johann">
+                    <persName type="display" ref="https://d-nb.info/gnd/1053410603">Budaeus, Johann</persName>
+                </person>
+                <person xml:id="buelow_jakob">
+                    <persName ref="https://d-nb.info/gnd/131665146" type="display">Buelow, Jakob von</persName>
+                </person>
+                <person xml:id="burgund_karl">
+                    <persName type="display" ref="https://d-nb.info/gnd/118560026">Burgund, Karl (der Kühne), Herzog von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/029226/2008-08-26/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="burscheid-metternich_lothar_friedrich">
+                    <persName ref="https://d-nb.info/gnd/115649735" type="display">Burscheid-Metternich, Lothar Friedrich von, Bischof von Speyer</persName>
+                </person>
+                <person xml:id="caesar_gaius_julius">
+                    <persName type="display" ref="https://d-nb.info/gnd/118518275">Caesar, Gaius Julius</persName>
+                </person>
+                <person xml:id="cassen_david">
+                    <persName type="display">Caßen, David</persName>
+                    <note>Um 1652 Apotheker in Demmin.</note>
+                </person>
+                <person xml:id="calvin_jean">
+                    <persName ref="https://d-nb.info/gnd/118518534" type="display">Calvin, Jean</persName>
+                </person>
+                <person xml:id="camehl_peter">
+                    <persName type="display">Camehl, Peter</persName>
+                    <note>Um 1658 Schaffner (Verwalter) des Bruderhofs in Straßburg.</note>
+                </person>
+                <person xml:id="cardon_horace">
+                    <persName type="display" ref="https://d-nb.info/gnd/119637251">Cardon, Horace</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Horace_Cardon"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="cerise_rudolphus">
+                    <persName type="display">Cerise, Rudolphus</persName>
+                    <note>Um 1658 Gastwirt und Stadthauptmann in Lyon.</note>
+                </person>
+                <person xml:id="christoff_anon_1">
+                    <persName type="display">Christoff, N. N.</persName>
+                    <note>Die Person konnte bisher nicht genauer identifiziert werden.</note>
+                </person>
+                <person xml:id="cicero_marcus_tullius">
+                    <persName ref="https://d-nb.info/gnd/118520814" type="display">Cicero, Marcus Tullius</persName>
+                </person>
+                <person xml:id="clou">
+                    <persName type="display">Clou</persName>
+                    <note>Um 1572 Stadthauptmann in Lyon; am Massaker an den Hugenotten in Folge der Bartholomäusnacht beteiligt.</note>
+                </person>
+                <person xml:id="conde_louis">
+                    <persName type="display" ref="https://d-nb.info/gnd/119292203">Condé, Louis, Prince de</persName>
+                    <persName>Bourbon, Louis II. de</persName>
+                </person>
+                <person xml:id="costard_noel">
+                    <persName type="display">Costard, Noel</persName>
+                    <note>Um 1657 Bürgermeister in Lyon.</note>
+                </person>
+                <person xml:id="couleur_anon_1">
+                    <persName type="display">Couleur, N. N. (1)</persName>
+                    <note>Um 1572 Sohn des Kaufmanns <rs type="person" ref="#couleur_francois">François de Couleur</rs> in Lyon; starb bei dem Massaker an den Hugenotten in Folge der Bartholomäusnacht.</note>
+                </person>
+                <person xml:id="couleur_anon_2">
+                    <persName type="display">Couleur, N. N. (2)</persName>
+                    <note>Um 1572 Sohn des Kaufmanns <rs type="person" ref="#couleur_francois">François de Couleur</rs> in Lyon; starb bei dem Massaker an den Hugenotten in Folge der Bartholomäusnacht.</note>
+                </person>
+                <person xml:id="couleur_francois">
+                    <persName type="display">Couleur, François de, gen. Bossu</persName>
+                    <note>Um 1572 Kaufmann in Lyon; starb bei dem Massaker an den Hugenotten in Folge der Bartholomäusnacht.</note>
+                </person>
+                <person xml:id="cranach_lucas">
+                    <persName type="display" ref="https://d-nb.info/gnd/118522582">Cranach, Lucas (d. Ä.)</persName>
+                </person>
+                <person xml:id="cratz_von_scharfenstein_hugo_everhard">
+                    <persName ref="https://d-nb.info/gnd/124664180" type="display">Cratz (Graf) von Scharfenstein, Hugo Everhard</persName>
+                    <persName>Worms, Hugo Everhard, Bischof von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wg" target="http://www.westfaelische-geschichte.de/per5516"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="cremeaux_hector">
+                    <persName type="display">Cremeaux, Hector de</persName>
+                    <death>1639</death>
+                    <note>Seit 1588 Kanoniker (chanoine comte) am Kathedralkapitel (Chapitre de Saint-Jean) in Lyon; ab 1620 dessen Dekan.</note>
+                </person>
+                <person xml:id="cremeaux_marc">
+                    <persName type="display">Cremeaux, Marc de</persName>
+                    <note>Seit 1621 Kanoniker (chanoine comte) am Kathedralkapitel (Chapitre de Saint-Jean) in Lyon; Abt von Mègemont.</note>
+                </person>
+                <person xml:id="cropet_justin">
+                    <persName type="display">Cropet, Justin, Seigneur d'Irigny</persName>
+                    <note>Um 1657 Adliger, Präfekt für die öffentlichen Straßen, Brücken und Hafenanlagen sowie Bürgermeister in Lyon.</note>
+                </person>
+                <person xml:id="crusius_philipp">
+                    <persName ref="https://d-nb.info/gnd/122034643" type="display">Crusius, Philipp</persName>
+                    <note>Gesandter auf der Persischen Reise von Adam Olearius in den Jahren 1633 und 1634. Die Gesandtschaft umfasste bei der Abreise in Hamburg 34 Personen.</note>
+                    <listBibl>
+                        <bibl> Adam Olearius: Offt begehrte Beschreibung Der Newen Orientalischen Rejse. Schleswig, 1647. , S. 2. In: Deutsches Textarchiv <ref target="https://www.deutschestextarchiv.de/olearius_reise_1647/32"></ref></bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="cyprianus_thascius_caecilius">
+                    <persName type="display" ref="https://d-nb.info/gnd/118523112">Cyprianus, Thascius Caecilius (Heiliger)</persName>
+                    <persName>Karthago, Cyprianus, Bischof von</persName>
+                </person>
+                <person xml:id="daenemark_christian_iv">
+                    <persName ref="https://d-nb.info/gnd/118676059" type="display">Christian IV., König von Dänemark und Norwegen</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd118676059.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="daenemark_friedrich_iii">
+                    <persName ref="https://d-nb.info/gnd/118693484" type="display">Friedrich III., König von Dänemark und Norwegen</persName>
+                </person>
+                <person xml:id="dannhauer_johann_conrad">
+                    <persName ref="https://d-nb.info/gnd/120227649" type="display">Dannhauer, Johann Conrad</persName>
+                </person>
+                <person xml:id="dauts_anon_1">
+                    <persName type="display">Dauts, N. N.</persName>
+                    <note>Um 1658 Bewohner von Frankfurt am Main.</note>
+                </person>
+                <person xml:id="detharding_georg">
+                    <persName ref="https://d-nb.info/gnd/129829544" type="display">Detharding, Georg</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/w/index.php?title=Georg_Detharding_(Apotheker)&amp;oldid=216694019"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="doehling_johann">
+                    <persName type="display">Döhling, Johann</persName>
+                    <note>Um 1652 Schiffer in Lübeck.</note>
+                </person>
+                <person xml:id="doltter_conrad">
+                    <persName type="display">Doltter, Conrad</persName>
+                    <note>Um 1545 Bauherr in Basel.</note>
+                </person>
+                <person xml:id="elbenius_anon_1">
+                    <persName type="display">Elbenius, N. N.</persName>
+                    <note>Die Person konnte bisher nicht genauer identifiziert werden.</note>
+                </person>
+                <person xml:id="erasmus_desiderius">
+                    <persName ref="https://d-nb.info/gnd/118530666" type="display">Erasmus, Desiderius</persName>
+                    <persName>Rotterdam, Erasmus von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118530666.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd118530666.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                    <person xml:id="eva">
+                        <persName ref="https://d-nb.info/gnd/118531441" type="display">Eva (biblische Person)</persName>
+                        <listBibl>
+                            <bibl>
+                                <ptr type="wibilex" target="https://bibelwissenschaft.de/stichwort/12492/"/>
+                            </bibl>
+                        </listBibl>
+                    </person>
+                <person xml:id="faenius_apollinaris_lucius">
+                    <persName type="display">Faenius Apollinaris, Lucius</persName>
+                    <note>Sohn des <rs type="person" ref="#faenius_rufus_lucius">Lucius Faenius Rufus</rs>; vermutlich wie sein Vater Priester an der "Ara trium Galliarum" in Lyon. Vgl. Fichwick 2004, S. 126 Anm. 67.</note>
+                    <listBibl>
+                        <bibl>Duncan Fichwick: The imperial cult in the Latin west : studies in the ruler cult of the western provinces of the Roman Empire, Bd. 3/3, Leiden/Boston 2004<ptr type="opac" cRef="380864975"/></bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="faenius_rufus_lucius">
+                    <persName type="display">Faenius Rufus, Lucius</persName>
+                    <note>Priester an der "Ara trium Galliarum" in Lyon, einem römischen Heiligtum, das der Göttin Roma und den Kaisern geweiht war.</note>
+                    <listBibl>
+                        <bibl>Yves Burmand: À propos des prêtres à l'Autel des Gaules, in: Latomus 69/1 (2010), S. 123-128<ptr type="jstor" target="https://www.jstor.org/stable/41546409"/></bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="fillier_thomas">
+                    <persName ref="https://d-nb.info/gnd/12137355X" type="display">Fillier, Thomas</persName>
+                    <note>Ab 1631 Stadtmajor von Braunschweig.</note>
+                </person>
+                <person xml:id="frankreich_anna_ii">
+                    <persName type="display" ref="https://d-nb.info/gnd/119020688">Anna (II.), Königin von Frankreich</persName>
+                    <persName type="birthName">Bretagne, Anne, Duchesse de</persName>
+                </person>                
+                <person xml:id="frankreich_anna_iii">
+                    <persName type="display" ref="https://d-nb.info/gnd/118649469">Anna (III.), Königin von Frankreich</persName>
+                    <persName type="birthName">Anna, Infantin von Spanien</persName>
+                    <persName type="birthName">Österreich, Anna, Erzherzogin von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="blkö" target="https://de.wikisource.org/wiki/BLK%C3%96:Habsburg,_Anna_von_Oesterreich_(K%C3%B6nigin_von_Frankreich)"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="frankreich_heinrich_iv">
+                    <persName type="display" ref="https://d-nb.info/gnd/118548174">Heinrich IV., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_ludwig_xii">
+                    <persName ref="https://d-nb.info/gnd/118780735" type="display">Ludwig XII., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_ludwig_xiii">
+                    <persName ref="https://d-nb.info/gnd/11872942X" type="display">Ludwig XIII., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_ludwig_xiv">
+                    <persName ref="https://d-nb.info/gnd/118816829" type="display">Ludwig XIV., König von Frankreich</persName>
+                </person>     
+                <person xml:id="frankreich_maria">
+                    <persName type="display" ref="https://d-nb.info/gnd/118577778">Maria, Königin von Frankreich</persName>
+                    <persName type="birthName">Medici, Maria de</persName>
+                </person>
+                <person xml:id="frankreich_philipp">
+                    <persName type="display" ref="https://d-nb.info/gnd/118820206">Philipp, Prinz von Frankreich</persName>
+                    <persName>Orleans, Philippe, Duc d'</persName>
+                    <persName>Anjou, Philippe, Duc d'</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Philippe_I._de_Bourbon,_duc_d%E2%80%99Orl%C3%A9ans"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="franz_assisi">
+                    <persName type="display" ref="https://d-nb.info/gnd/118534963">Franz von Assisi, Heiliger</persName>
+                    <persName>Assisi, Franz von</persName>
+                </person>
+                <person xml:id="fuerstenberg-heiligenberg_franz_egon">
+                    <persName ref="https://d-nb.info/gnd/115773371" type="display">Fürstenberg-Heiligenberg, Franz Egon, Graf (ab 1664 Fürst) von</persName>
+                    <persName>Straßburg, Franz Egon, Bischof von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/sfz56943.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/sfz56943.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="galilaea_herodes_antipas">
+                    <persName type="display" ref="https://d-nb.info/gnd/118703781">Herodes Antipas, Tetrarch von Galiläa</persName>
+                </person>
+                <person xml:id="gebhard_reinhold">
+                    <persName type="display">Gebhard, Reinhold</persName>
+                    <note>Um 1657 Apothekergeselle beim Rathsapotheker Joachim Papke in Braunschweig.</note>
+                </person>
+                <person xml:id="gerson_jean">
+                    <persName type="display" ref="https://d-nb.info/gnd/118557866">Gerson, Jean Charlier de</persName>
+                </person>
+                <person xml:id="glauber_johann_rudolph">
+                    <persName ref="https://d-nb.info/gnd/118695304" type="display">Glauber, Johann Rudolph</persName>
+                </person>
+                <person xml:id="gonzaga_luisa_maria">
+                    <persName ref="https://d-nb.info/gnd/104321350" type="display">Gonzaga, Luisa Maria</persName>
+                    <persName>Ludwika Maria, Königin von Polen</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="dizionario" target="https://www.treccani.it/enciclopedia/maria-luisa-gonzaga-nevers_(Dizionario-di-Storia)/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="goelnitz_abraham">
+                    <persName type="display" ref="https://d-nb.info/gnd/128833076">Gölnitz, Abraham</persName>
+                </person>
+                <person xml:id="goetzken_anon_1">
+                    <persName type="display">Götzken, N. N.</persName>
+                    <note>Um 1652 Apotheker in Stettin (Szczecin).</note>
+                </person>
+                <person xml:id="guignard_jacques-timoleon">
+                    <persName type="display">Guignard, Jacques-Timoléon de, Vicomte de Saint-Priest</persName>
+                    <birth>1604</birth>
+                    <death>1673</death>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://fr.wikipedia.org/wiki/Famille_Guignard"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="gyllenstierna_sigismund">
+                    <persName ref="https://d-nb.info/gnd/1046977709" type="display">Gyllenstierna, Sigismund</persName>
+                    <note>Stadtverwalter von Marienburg.</note>
+                </person>
+                <person xml:id="habsburg_anna">
+                    <persName ref="https://d-nb.info/gnd/123579783" type="display">Anna, Königin (Heiliges Römisches Reich)</persName>
+                    <persName type="birthName">Hohenberg, Gertrud, Gräfin von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd123579783.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="habsburg_leopold">
+                    <persName ref="https://d-nb.info/gnd/118571869" type="display">Leopold I., Kaiser (Heiliges Römisches Reich Deutscher Nation)</persName>
+                    <persName>Österreich, Leopold V., Erzherzog von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118571869.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd118571869.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="habsburg_karl">
+                    <persName type="display">Habsburg, Karl, Graf von</persName>
+                    <birth>1276</birth>
+                    <death>1276</death>
+                    <note>Sohn <rs type="person" ref="#habsburg_rudolph_i">König Rudolfs I.</rs> und <rs type="person" ref="#habsburg_anna">Königin Annas</rs>; mit letzterer zusammen im Baseler Münster beerdigt.</note>
+                </person>
+                <person xml:id="habsburg_karl_v">
+                    <persName ref="https://d-nb.info/gnd/118560093" type="display">Karl V., Kaiser (Heiliges Römisches Reich Deutscher Nation)</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118560093.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd118560093.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="habsburg_rudolph_i">
+                    <persName ref="https://d-nb.info/gnd/11860371X" type="display">Rudolph I., König (Heiliges Römisches Reich)</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd11860371X.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd11860371X.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="hane_anon_1">
+                    <persName type="display">Hane, N. N.</persName>
+                    <note>Um 1652 Apotheker in Marienburg (Malbork).</note>
+                </person>
+                <person xml:id="hannibal">
+                    <persName type="display" ref="https://d-nb.info/gnd/118545655">Hannibal</persName>
+                </person>
+                <person xml:id="hans_1">
+                    <persName type="display">Hans</persName>
+                    <note>Einer Basler Legende nach ein Verräter, dessen Plan, die Stadt um Mitternacht von Feinden angreifen zu lassen, dadurch vereitelt wurde, dass die Uhr am Basler Münster umgestellt wurde. Daneben existieren noch andere Legenden und Erklärungen für die Abweichung der Basler Uhren um eine Stunde.</note>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Basler_Zeit"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="hase_anon_1">
+                    <persName type="display">Hase, N. N.</persName>
+                    <note>Um 1652 Apotheker in Marienburg (Malbork).</note>
+                </person>
+                <person xml:id="hase_witwe">
+                    <persName type="display">Hase, N. N., Witwe</persName>
+                    <note>Um 1655 Witwe des nicht identifizierten Apothekers Hase in Marienburg (Malbork).</note>
+                </person>
+                <person xml:id="haseloff_georg_samuel">
+                    <persName ref="https://d-nb.info/gnd/120174928" type="display">Haseloff, Georg Samuel</persName>
+                </person>
+                <person xml:id="heidenreich_anon_1">
+                    <persName type="display">Heidenreich, N. N.</persName>
+                    <note>Um 1655 Professor an einem Tranchiercollegium in Königsberg (Kaliningrad)</note>
+                </person>
+                <person xml:id="hessen-darmstadt_friedrich">
+                    <persName ref="https://d-nb.info/gnd/104366869" type="display">Hessen-Darmstadt, Friedrich, Landgraf von</persName>
+                    <persName>Breslau, Friedrich, Bischof von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hb" target="https://www.lagis-hessen.de/pnd/104366869"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="hessen-darmstadt_georg_ii">
+                    <persName ref="https://d-nb.info/gnd/118884352" type="display">Hessen-Darmstadt, Georg II., Landgraf von</persName>
+                </person>
+                <person xml:id="heydelin_marx">
+                    <persName type="display">Heydelin, Marx</persName>
+                    <birth>vor 1490</birth>
+                    <death>1553</death>
+                    <note>Weber und Färber sowie 1529-1532 und 1538-1553 Oberstzunftmeister in Basel; daneben noch andere Ämter.</note>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/019228/2006-09-07/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="hildebrand_conrad">
+                    <persName type="display">Hildebrand, Conrad</persName>
+                    <note>Vor 1641 Bürgermeister von Braunschweig.</note>
+                </person>
+                <person xml:id="holzapfel_jakob">
+                    <persName type="display">Holzapfel, Jakob</persName>
+                    <note>Um 1658 Apotheker in Frankfurt am Main.</note>
+                </person>
+                <person xml:id="holzschuher_veit_georg">
+                    <persName type="display" ref="https://d-nb.info/gnd/142513296">Holzschuher (von Neuenbürg), Veit Georg</persName>
+                </person>
+                <person xml:id="irenaeus_heiliger">
+                    <persName type="display" ref="https://d-nb.info/gnd/118555766">Irenaeus, Heiliger</persName>
+                    <persName>Lyon, Irenaeus, Bischof von</persName>
+                </person>
+                <person xml:id="jacobi_christoph">
+                    <persName type="display">Jacobi, Christoph</persName>
+                    <note>Um 1658 Bewohner von Frankfurt am Main.</note>
+                </person>
+                <person xml:id="jean_francois">
+                    <persName type="display">N. N., Jean Francois</persName>
+                    <persName>Francois, Jean</persName>
+                    <note>Um 1658 Franziskanermönch und Maler in Lyon; angeblich malte er unter anderem im Auftrag von Königin Christina von Schweden.</note>
+                </person>
+                <person xml:id="jesus_christus">
+                    <persName ref="https://d-nb.info/gnd/118557513" type="display">Jesus Christus</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wibilex" target="https://bibelwissenschaft.de/stichwort/51866/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="johannes_evangelist">
+                    <persName type="display" ref="https://d-nb.info/gnd/118557815">Johannes (Evangelist und Heiliger)</persName>
+                </person>
+                <person xml:id="johannes_taeufer">
+                    <persName type="display" ref="https://d-nb.info/gnd/118557858">Johannes der Täufer (biblische Person)</persName>
+                </person>
+                <person xml:id="judaea_herodes_i">
+                    <persName type="display" ref="https://d-nb.info/gnd/118549847">Herodes I. (der Große), König von Judäa</persName>
+                </person>
+                <person xml:id="justus_heiliger">
+                    <persName type="display" ref="https://d-nb.info/gnd/1212623045">Justus (Heiliger)</persName>
+                    <persName>Lyon, Justus, Bischof von</persName>
+                </person>
+                <person xml:id="kaiser_augustus">
+                    <persName type="display" ref="https://d-nb.info/gnd/118505122">Augustus, Kaiser (Römisches Reich)</persName>
+                    <persName>Octavian(us)</persName>
+                </person>
+                <person xml:id="kaiser_claudius_i">
+                    <persName type="display" ref="https://d-nb.info/gnd/118521063">Claudius I., Kaiser (Römsiches Reich)</persName>
+                </person>
+                <person xml:id="kaiser_gratian">
+                    <persName type="display" ref="https://d-nb.info/gnd/11869720X">Gratian, Kaiser (Römisches Reich)</persName>
+                </person>                
+                <person xml:id="kaiser_karl_i">
+                    <persName ref="https://d-nb.info/gnd/118560034" type="display">Karl I. (der Große), Kaiser (Heiliges Römisches Reich)</persName>
+                </person>
+                <person xml:id="kaiser_nero">
+                    <persName type="display" ref="https://d-nb.info/gnd/118586998">Nero, Kaiser (Römisches Reich)</persName>
+                </person>
+                <person xml:id="kaiser_septimius_severus">
+                    <persName type="display" ref="https://d-nb.info/gnd/118764659">Septimius Severus, Kaiser (Römisches Reich)</persName>
+                </person>
+                <person xml:id="kaiser_valentinian_i">
+                    <persName type="display" ref="https://d-nb.info/gnd/118803743">Valentinian I., Kaiser (Römisches Reich)</persName>
+                </person>
+                <person xml:id="kannenberg_christoph">
+                    <persName ref="https://d-nb.info/gnd/120202913" type="display">Kannenberg, Christoph von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd120202913.html#adbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="kannenberg_johann_balthasar">
+                    <persName type="display">Kannenberg, Johann Balthasar</persName>
+               <note> Um 1657 Hofapotheker in Wolfenbüttel.</note>
+                </person>
+                <person xml:id="kanten_hermann">
+                    <persName type="display">Kanten, Hermann von</persName>
+                    <note>Die Person konnte bisher nicht weiter ifentifiziert werden.</note>
+                </person>
+                <person xml:id="katharina">
+                    <persName type="display">Katharina</persName>
+                    <note>Um 1652 Nonne im St. Johannskloster in Lübeck.</note>
+                </person>
+                <person xml:id="keller_simon">
+                    <persName type="display">Keller, Simon</persName>
+                    <note>Um 1658 Bote, mit dem Wagener von Basel abreist.</note>
+                </person>
+                <person xml:id="kieffer_anon_1">
+                    <persName type="display">Kieffer, N. N.</persName>
+                    <note>Die Person konnte bisher nicht genauer identifiziert werden.</note>
+                </person>
+                <person xml:id="kirchen_nicolaus">
+                    <persName type="display">Kirchen, Nicolaus von</persName>
+                    <note>Um 1658 Baseler Bürger, mit dem Wagener von Basel abreist.</note>
+                </person>
+                <person xml:id="kircher_athanasius">
+                    <persName type="display" ref="https://d-nb.info/gnd/118562347">Kircher, Athanasius</persName>
+                </person>
+                <person xml:id="kuenast_balthasar_ludwig">
+                    <persName ref="https://d-nb.info/gnd/122126289" type="display">Künast, Balthasar Ludwig</persName>
+                    <note>Kunstsammler in Straßburg.</note>
+                </person>
+                <person xml:id="kohlenberger_anon_1">
+                    <persName type="display">Kohlenberger, N. N.</persName>
+                    <note>Um 1652 Apotheker in Marienburg (Malbork).</note>
+                </person>
+                <person xml:id="kranich_joachim">
+                    <persName type="display" ref="https://d-nb.info/gnd/132892839">Kranich, Joachim</persName>
+                </person>
+                <person xml:id="kress_jobst_christoph">
+                    <persName ref="https://d-nb.info/gnd/116524073" type="display">Kress von Kressenstein, Jobst Christoph</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wg" target="http://www.westfaelische-geschichte.de/per5536"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="kruse_vibeke">
+                    <persName ref="https://d-nb.info/gnd/133558940" type="display">Kruse, Vibeke</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="dbl" target="https://biografiskleksikon.lex.dk/Vibeke_Kruse"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="la_ferte_anon_1">
+                    <persName type="display">La Ferte, N. N.</persName>
+                    <note>Marschall; als Gefangener auf der Festung Pierre Scize in Lyon erwähnt.</note>
+                </person>
+                <person xml:id="la_fleur">
+                    <persName type="display">La Fleur</persName>
+                    <note>Um 1658 Akrobat in Lyon.</note>
+                </person>                
+                <person xml:id="la_jacquiere_anon_1">
+                    <persName type="display">La Jacquière, N. N.</persName>
+                    <note>Literarische Gestalt in François de Rossets "Les Histoires mémorables et tragiques de nostre temps" (1614); danach ein Stadtleutnant, der in Lyon vom Teufel in Gestalt einer schönen Frau verführt wurde.</note>
+                </person>
+                <person xml:id="langeguet_heinrich">
+                    <persName type="display">Langeguet, Heinrich</persName>
+                    <note>Um 1658 Bewohner von Frankfurt am Main.</note>
+                </person>
+                <person xml:id="langellott_joel">
+                    <persName ref="https://d-nb.info/gnd/123397928" type="display">Langellott, Joël</persName>
+                </person>  
+                <person xml:id="langermann_anon_1">
+                    <persName type="display">Langermann, N. N.</persName>
+                    <note>Vermutlich um 1657 Apotheker in Wolfenbüttel.</note>
+                </person>
+                <person xml:id="laurentius_heiliger">
+                    <persName type="display" ref="https://d-nb.info/gnd/119320827">Laurentius (Heiliger)</persName>
+                </person>
+                <person xml:id="leschewam_anon_1">
+                    <persName type="display">Leschewam, N. N.</persName>
+                    <note>Die Person konnte bisher nicht identifiziert werden.</note>
+                </person>
+                <person xml:id="leuenberger_niklaus">
+                    <persName ref="https://d-nb.info/gnd/136664733" type="display">Leuenberger, Niklaus</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/018844/2008-01-14/"/>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/sfz50746.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/sfz50746.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="leyen_karl_kaspar">
+                    <persName ref="https://d-nb.info/gnd/100442234" type="display">Leyen, Karl Kaspar von der</persName>
+                    <persName>Trier, Karl Kaspar, Kurfürst und Erzbischof von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/sfz49424.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/sfz49424.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>  
+                <person xml:id="lincken_anon_1">
+                    <persName type="display">Lincken, N. N.</persName>
+                    <note>Um 1652 Apotheker in Altschottland (Stare Szkoty).</note>
+                </person>
+                <person xml:id="lobetantz_anon_1">
+                    <persName type="display">Lobetantz, N. N.</persName>
+                    <note>Um 1652 Apotheker in Stettin (Szczecin).</note>
+                </person>
+                <person xml:id="lobkowitz_anon_1">
+                    <persName type="display">Lobkwitz, Herr von</persName>
+                    <note>1658 präsentierte er den Reichsapfel bei der Kaiserwahl in Frankfurt <!--noch zu vervollständigen bzw. korrigieren-->.</note>
+                </person>
+                <person xml:id="lobwasser_ambrosius">
+                    <persName ref="https://d-nb.info/gnd/124263488" type="display">Lobwasser, Ambrosius</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd124263488.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd124263488.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>  
+                <person xml:id="luettich_lambert">
+                    <persName ref="https://d-nb.info/gnd/130832901" type="display">Lüttich, Lambert von</persName>
+                </person>  
+                <person xml:id="luther_martin">
+                    <persName ref="https://d-nb.info/gnd/118575449" type="display">Luther, Martin</persName>
+                </person>
+                <person xml:id="mandelot_francois">
+                    <persName type="display" ref="https://d-nb.info/gnd/172247594">Mandelot, François de</persName>
+                </person>
+                <person xml:id="march_caspar">
+                    <persName ref="https://d-nb.info/gnd/124374352" type="display">March, Caspar</persName>
+                    <note>Ab 1649 Professor der Mathematik und Chemie in Greifswald.</note>
+                </person>
+                <person xml:id="marcus_evangelist">
+                    <persName type="display" ref="https://d-nb.info/gnd/118578030">Marcus (Evangelist und Heiliger)</persName>
+                </person>
+                <person xml:id="margareta_heilige">
+                    <persName type="display" ref="https://d-nb.info/gnd/119072866">Margareta von Antiochia (Heilige)</persName>
+                </person>
+                <person xml:id="maria">
+                    <persName type="display" ref="https://d-nb.info/gnd/118640909">Maria (biblische Person)</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wibilex" target="https://bibelwissenschaft.de/stichwort/51981/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="maria_kleophae">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q235377">Maria Kleophae</persName>
+                </person>
+                <person xml:id="maria_magdalena">
+                    <persName type="display" ref="https://d-nb.info/gnd/118577840">Maria Magdalena (Biblische Person)</persName>
+                </person>
+                <person xml:id="mazarin_jules">
+                    <persName type="display" ref="https://d-nb.info/gnd/118579703">Mazarin, Jules</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="dizionario" target="https://www.treccani.it/enciclopedia/giulio-mazzarino_(Dizionario-Biografico)/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="meyer_adelberg">
+                    <persName ref="https://d-nb.info/gnd/138373140" type="display">Meyer zum Pfeil, Adelberg</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/019316/2010-09-23/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="meyer_bernhard">
+                    <persName ref="https://d-nb.info/gnd/138373159" type="display">Meyer zum Pfeil, Bernhard</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/019251/2008-03-17/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="minerva">
+                    <persName type="display" ref="https://d-nb.info/gnd/118986155">Minerva (Göttin)</persName>
+                </person>
+                <person xml:id="monconys_gaspard">
+                    <persName type="display" ref="https://d-nb.info/gnd/1068474653">Monconys, Gaspard de, Seigneur de Liergues</persName>
+                </person>
+                <person xml:id="morell_julienne">
+                    <persName type="display" ref="https://lobid.org/gnd/123078245">Morell, Julienne</persName>
+                </person>
+                <person xml:id="mueth_christian">
+                    <persName type="display">Mueth, Christian</persName>
+                    <note>Um 1652 Ratsapotheker in Lübeck.</note>
+                </person>
+                <person xml:id="nassau-siegen_johann_moritz">
+                    <persName ref="https://d-nb.info/gnd/118738097" type="display">Nassau-Siegen, Johann Moritz, Fürst von</persName>
+                </person>
+                <person xml:id="nemours_charles_emmanuel">
+                    <persName type="display" ref="https://d-nb.info/gnd/1055657460">Nemours, Charles Emmanuel, Duc de</persName>
+                    <persName>Savoia, Carlo Emanuel di</persName>
+                </person>
+                <person xml:id="neptun">
+                    <persName type="display" ref="https://d-nb.info/gnd/11952354X">Neptun (Gott)</persName>
+                </person>
+                <person xml:id="neufville_camille">
+                    <persName type="display" ref="https://d-nb.info/gnd/130648833">Neufville de Villeroi, Camille de</persName>
+                    <persName>Lyon, Camille, Erzbischof von</persName>
+                    <listBibl>
+                        <bibl>                            
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Camille_de_Neufville_de_Villeroy"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="neufville_charles">
+                    <persName type="display" ref="https://d-nb.info/gnd/123001463">Neufville, Charles de, Marquis de Villeroi et d'Alincourt</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Charles_de_Neufville"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="neufville_nicolas">
+                    <persName type="display" ref="https://d-nb.info/gnd/124722407">Neufville de Villeroi, Nicolas</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Nicolas_de_Neufville,_duc_de_Villeroy"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="noefe_johann_jakob">
+                    <persName ref="https://d-nb.info/gnd/128998660" type="display">Noefe, Johann Jakob</persName>
+                    <note>Um 1652 Arzt und Ratsapotheker in Elbing (Elbląg).</note>
+                </person>
+                <person xml:id="nogaret_louis-charles">
+                    <persName type="display" ref="http://viaf.org/viaf/313546802">Nogaret de Foix, Louis Charles de, Duc de La Valette et de Candale</persName>
+                    <persName>Candale, Louis Charles de, Duc de</persName>
+                </person>
+                <person xml:id="oldenborch_bernhard">
+                    <persName ref="https://d-nb.info/gnd/1144991153" type="display">Oldenborch, Bernhard</persName>
+                    <listBibl>
+                        <bibl>Georg Asmussen: Oldenborch, Bernard, in: BioLex Digital. Biographisches Lexikon für Schleswig-Holstein und Lübeck, hg. von der Schleswig-Holsteinischen Landesbibliothek, Kiel/Hamburg 2020, S. 1967f.<ptr type="doi" cRef="10.23797/9783529025624"/></bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="olearius_adam">
+                    <persName ref="https://d-nb.info/gnd/118736256" type="display">Olearius, Adam</persName>
+                </person>
+                <person xml:id="orleans_anne_marie_louise">
+                    <persName type="display" ref="https://d-nb.info/gnd/118835440">Orleans, Anne Marie Louise de, duchesse de Montpensier</persName>
+                </person>
+                <person xml:id="oxenstierna_erik">
+                    <persName ref="https://d-nb.info/gnd/130480886" type="display">Oxenstierna, Erik Axelsson</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sbl" target="https://sok.riksarkivet.se/sbl/artikel/7930"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="padua_antonius">
+                    <persName ref="https://d-nb.info/gnd/118503510" type="display">Padua, Antonius von</persName>
+                </person>
+                <person xml:id="paludanus_bernard">
+                    <persName ref="https://d-nb.info/gnd/104312971" type="display">Paludanus, Bernard</persName>
+                </person>
+                <person xml:id="paludanus_anon_1">
+                    <persName type="display">Paludanus, N. N.</persName>
+                    <note>Sohn von <rs type="person" ref="#paludanus_bernard">Bernard Paludanus</rs> (1550-1633).</note>
+                </person>
+                <person xml:id="pantzer_kaspar">
+                    <persName type="display" ref="https://d-nb.info/gnd/128440783">Pantzer, Kaspar</persName>
+                </person>
+                <person xml:id="papke_joachim">
+                    <persName type="display">Papke, Joachim</persName>
+                    <note>Um 1657 Rathsapotheker in Braunschweig.</note>
+                </person>
+                <person xml:id="pappenheim_anon_1">
+                    <persName type="display">Pappenheim, Herr von</persName>
+                    <note>Um 1658 Erzmarschall, Sohn von Gottfried Heinrich Graf zu Pappenheim(?) <!--noch zu vervollständigen bzw. korrigieren-->.</note>
+                </person>
+                <person xml:id="papst_alexander_iii">
+                    <persName type="display" ref="https://d-nb.info/gnd/118819712">Alexander III., Papst</persName>
+                    <persName>Rolando Bandinelli</persName>
+                </person>
+                <person xml:id="papst_felix_v">
+                    <persName ref="https://d-nb.info/gnd/118686526" type="display">Felix V., (Gegen-)Papst</persName>
+                    <persName>Savoia, Amadeo VIII., Duca di</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/012614/2006-04-10/"/>
+                            <ptr type="edp" target="http://www.treccani.it/enciclopedia/antipapa-felice-v_(Enciclopedia-dei-Papi)/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="papst_gregor_xv">
+                    <persName type="display" ref="https://d-nb.info/gnd/118697404">Gregor XV., Papst</persName>
+                    <persName>Ludovisi, Alessandro</persName>
+                </person>
+                <person xml:id="papst_julius_ii">
+                    <persName type="display" ref="https://d-nb.info/gnd/118714090">Julius II., Papst</persName>
+                    <persName>Della Rovere, Giuliano</persName>
+                </person>
+                <person xml:id="papst_paschalis_ii">
+                    <persName type="display" ref="https://d-nb.info/gnd/11859186X">Paschalis II., Papst</persName>
+                    <persName>Raniero di Bieda</persName>
+                </person>
+                <person xml:id="parma_margherita_violante">
+                    <persName type="display" ref="https://d-nb.info/gnd/1018068287">Parma, Margherita Violante, Duchessa di, geb. Duchessa di Savoia</persName>
+                    <persName type="birthName">Savoia, Margherita Violante, Duchessa di</persName>
+                </person>
+                <person xml:id="pascha_soliman">
+                    <persName type="display" ref="https://d-nb.info/gnd/101725172X">Pascha, Soliman</persName>
+                </person>
+                <person xml:id="pellot_claude">
+                    <persName type="display">Pellot, Claude</persName>
+                    <note>Um 1611 Bürgermeister (Consul) von Lyon.</note>
+                </person>
+                <person xml:id="persebecher_anon_1">
+                    <persName type="display">Persebecher, N. N.</persName>
+                    <note>Um 1658 Apotheker in Frankfurt am Main.</note>
+                </person>
+                <person xml:id="persien_safi_i">
+                    <persName type="display" ref="https://d-nb.info/gnd/118750704">Safi I., Schah von Persien</persName>
+                </person>
+                <person xml:id="petersen_nikolaus">
+                    <persName type="display">Petersen, Nikolaus</persName>
+                    <note>Um 1652 aus Husum stammender Apothekergeselle; um 1657 Ratsapotheker in Hildesheim.</note>
+                </person>
+                <person xml:id="peti_jean">
+                    <persName type="display">Peti, Jean</persName>
+                    <note>Um 1658 Gastwirt in Lyon.</note>
+                </person>
+                <person xml:id="pfalz_karl_i_ludwig">
+                    <persName ref="https://d-nb.info/gnd/118560182" type="display">Pfalz, Karl I. Ludwig, Kurfürst von der</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/sfz53413.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/sfz53413.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="placotamus_johann">
+                    <persName type="display">Placotamus, Johann</persName>
+                    <note>Um 1652 Apotheker in Altschottland (Stare Szkoty) und sehr wahrscheinlich ein Nachfahre des berühmten Johann Brettschneider oder Johann Placotomus (1514-1577).</note>
+                </person>
+                <person xml:id="plancus_lucius_munatius">
+                    <persName ref="https://d-nb.info/gnd/118785354" type="display">Plancus, Lucius Munatius</persName>
+                </person>
+                <person xml:id="pluendecke_georg">
+                    <persName type="display">Plündecke, Georg</persName>
+                    <note>Um 1657 Apothekergeselle beim Rathsapotheker Joachim Papke in Braunschweig.</note>
+                </person>
+                <person xml:id="polykarp_heiliger">
+                    <persName type="display" ref="https://d-nb.info/gnd/119306077X">Polykarp, Heiliger</persName>
+                    <persName>Smyrna, Polykarp, Bischof von</persName>
+                </person>
+                <person xml:id="pothinus_heiliger">
+                    <persName ref="https://d-nb.info/gnd/102404275" type="display">Pothinus, Heiliger</persName>
+                    <persName>Lyon, Pothinus, Bischof von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="oehl" target="https://www.heiligenlexikon.de/BiographienP/Photinus_Pothinos.html"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="preiss_anon_1">
+                    <persName type="display">Preiß, N. N.</persName>
+                    <note>Die Person konnte bisher nicht genauer identifiziert werden.</note>
+                </person>
+                <person xml:id="pures_antoine">
+                    <persName type="display">Pures, Antoine de</persName>
+                    <note>Um 1611 Bürgermeister (Consul) von Lyon.</note>
+                </person>
+                <person xml:id="pyr_caspar">
+                    <persName type="display">Pyr, Caspar</persName>
+                    <note>Um 1652 Apotheker in Altschottland (Stare Szkoty).</note>
+                </person>
+                <person xml:id="radziwill_boguslaw">
+                    <persName ref="https://d-nb.info/gnd/11874349X" type="display">Radziwiłł, Bogusław</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd11874349X.html#adbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="rambaud_pierre">
+                    <persName type="display">Rambaud, Pierre, Seigneur de Champ-Renard</persName>
+                    <note>Um 1657 Adliger, königlicher Rat und Bürgermeister in Lyon.</note>
+                </person>
+                <person xml:id="rantzau_christian">
+                    <persName ref="https://d-nb.info/gnd/119532239" type="display">Rantzau, Christian zu</persName>
+                </person>
+                <person xml:id="richelieu_armand_jean">
+                    <persName type="display" ref="https://d-nb.info/gnd/118600354">Richelieu, Armand Jean du Plessis de</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Armand-Jean_du_Plessis%2C_duc_de_Richelieu"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="rochus_heiliger">
+                    <persName type="display" ref="https://d-nb.info/gnd/118601652">Rochus (Heiliger)</persName>
+                </person>
+                <person xml:id="rock_anon_1">
+                    <persName type="display">Rock, N. N.</persName>
+                    <note>Um 1652 Apotheker in Lübeck.</note>
+                </person>
+                <person xml:id="sachs_johann_melchior">
+                    <persName ref="https://d-nb.info/gnd/124715079" type="display">Sachs, Johann Melchior</persName>
+                </person>
+                <person xml:id="sachsen_johann_georg_ii">
+                    <persName ref="https://d-nb.info/gnd/119100320" type="display">Sachsen, Johann Georg II., Kurfürst von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/sfz37574.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/sfz37574.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="salentin_anon_1">
+                    <persName type="display">Salentin, N. N.</persName>
+                    <note>Um 1658 Apotheker in Straßurg.</note>
+                </person>
+                <person xml:id="salome">
+                    <persName type="display" ref="https://d-nb.info/gnd/121281665X">Salome (Jüngerin Jesu)</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wibilex" target="https://bibelwissenschaft.de/stichwort/53939/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="salzwedel_johann">
+                    <persName type="display" ref="https://d-nb.info/gnd/129330329">Salzwedel, Johann</persName>
+                    <!--<listBibl>
+                        <bibl>
+                            <ptr type="fpl"  target="https://frankfurter-personenlexikon.de/node/987"/>
+                        </bibl>
+                    </listBibl>-->
+                </person>                
+                <person xml:id="satto_cacuronius">
+                    <persName type="display">Satto, Cacuronius</persName>
+                    <note>Lebte im 2. Jh.; stammte aus Trier bzw. gehörte dem keltischen Stamm der Treverer an; starb im Alter von 17 Jahren in Lyon. Vgl. Wierschowski 2001, S. 335f.</note>
+                    <listBibl>
+                        <bibl>Lothar Wieschowski: Fremde in Gallien - "Gallier" in der Fremde. Die epigraphisch bezeuigte Mobilität in, von und nach Gallien vom 1. bis 3. Jh. n. Chr., Stuttgart 2001. <ptr type="opac" cRef="337413231"/></bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="savoia_carlo_emanuele_i">
+                    <persName type="display" ref="https://d-nb.info/gnd/118988328">Savoia, Carlo Emanuele I., Duca di</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/041521/2011-06-28/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="savoia_carlo_emanuele_ii">
+                    <persName type="display" ref="https://d-nb.info/gnd/133433722">Savoia, Carlo Emanuele II., Duca di</persName>
+                </person>
+                <person xml:id="savoia_maria_cristina">
+                    <persName type="display" ref="https://d-nb.info/gnd/119164248">Savoia, (Maria) Cristina, Duchessa di, geb. Prinzessin von Frankreich</persName>
+                    <persName type="birthName">(Maria) Christina, Prinzessin von Frankreich</persName>
+                </person>
+                <person xml:id="schachmann_bartholomaeus">
+                    <persName type="display" ref="https://d-nb.info/gnd/1027642594">Schachmann, Bartholomaeus</persName>
+                </person>                
+                <person xml:id="scheid_anon_1">
+                    <persName type="display">Scheid, N. N.</persName>
+                    <note>Um 1658 Apotheker in Straßurg.</note>
+                </person>
+                <person xml:id="scheuring_melchior">
+                    <persName type="display">Scheuring, Melchior</persName>
+                    <death>kurz nach 1615</death>
+                    <note>Hufschmied aus Stuttgart und Trabant des Herzogs von Württemberg; soll 1615 im Rahmen einer Wette ein 45 kg schweres Rad innerhalb von 32 1/2 Stunden von Stuttgart nach Straßburg vor sich hergerollt haben; starb angeblich kurz danach. Vgl. Dacheux 1897, S. 170f.</note>
+                    <listBibl>
+                        <bibl>L. Dacheux: Fragments de diverses vielles chroniques, in: Bulletin de la Société pour la Conversation des Monuments Historiques d'Alsace, Reihe 2, Bd. 18 (1897), S. 1-181<ptr type="gvk" cRef="166530778"/></bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="schleswig-holstein-gottorf_friedrich">
+                    <persName ref="https://d-nb.info/gnd/11870320X" type="display">Schleswig-Holstein-Gottorf, Friedrich III.</persName>
+                </person>
+                <person xml:id="schmidling_hermann">
+                    <persName type="display">Schmidling, Hermann</persName>
+                    <note>Um 1652 Apotheker in Altschottland (Stare Szkoty).</note>
+                </person>
+                <person xml:id="schmidt_anon_1">
+                    <persName type="display">Schmidt, N. N.</persName>
+                    <note>Die Person konnte bisher nicht genauer identifiziert werden.</note>
+                </person>
+                <person xml:id="schnitzmeier_walbora">
+                    <persName type="display">Schnitzmeier, Walbora</persName>
+                    <note>Um 1656 Apothekerin in Meldorf.</note>
+                </person>
+                <person xml:id="schoenborn_johann_philipp">
+                    <persName ref="https://d-nb.info/gnd/118610066" type="display">Schönborn, Johann Philipp von</persName>
+                    <persName>Mainz, Johann Philipp, Kurfürst und Erzbischof von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/gnd118610066.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/gnd118610066.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="schwarz_anna_maria">
+                    <persName type="display" ref="https://d-nb.info/gnd/135583942">Schwarz, Anna Maria, geb. Brentel</persName>
+                    <persName type="birthName">Brentel, Anna Maria</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/w/index.php?title=Anna_Maria_Brentel&amp;oldid=208242287"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="schweden_christina">
+                    <persName ref="https://d-nb.info/gnd/118520652" type="display">Schweden, Christina von</persName>
+                </person>
+                <person xml:id="schweden_karl_gustav">
+                    <persName ref="https://d-nb.info/gnd/118720945" type="display">Schweden, Karl Gustav X. von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118720945.html#adbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="sehliger_georg_adrian">
+                    <persName type="display">Sehliger, Georg Adrian</persName>
+                    <note>Um 1678 kaiserlicher Rat und Faktor zur Versorgung der kaiserlichen Armee.</note>
+                </person>
+                <person xml:id="seneca_lucius_annaeus">
+                    <persName type="display" ref="https://d-nb.info/gnd/118613200">Seneca, Lucius Annaeus (d. J.)</persName>
+                </person>
+                <person xml:id="senilis">
+                    <persName type="display">Senilis</persName>
+                    <note>Lebte im 2. Jh. in Trier; gehörte vermutlich dem keltischen Stamm der Treverer an; Onkel des <rs type="person" ref="#satto_cacuronius">Cacuronius Satto</rs>. Vgl. Wierschowski 2001, S. 335f.</note>
+                    <listBibl>
+                        <bibl>Lothar Wieschowski: Fremde in Gallien - "Gallier" in der Fremde. Die epigraphisch bezeuigte Mobilität in, von und nach Gallien vom 1. bis 3. Jh. n. Chr., Stuttgart 2001. <ptr type="opac" cRef="337413231"/></bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="sforza_ludovico">
+                    <persName type="display" ref="https://d-nb.info/gnd/118820745">Sforza, Ludovico</persName>
+                    <persName>Milano, Ludovico, Duca di</persName>
+                </person>
+                <person xml:id="sibylle">
+                    <persName type="display" ref="https://d-nb.info/gnd/1187542288">Sibylle (Seherin in der römischen Mythologie)</persName>
+                </person>
+                <person xml:id="sparr_anon_1">
+                    <persName type="display">Sparr, N. N.</persName>
+                    <note>Um 1658 Apotheker in Frankfurt am Main.</note>
+                </person>
+                <person xml:id="stephanus">
+                    <persName type="display">Stephanus</persName>
+                    <note>Ein vermutlich mittelalterlicher Kantor und Sakristan in der Abtei Saint-Martin d’Ainay in Lyon.</note>
+                </person>
+                <person xml:id="stephanus_heiliger">
+                    <persName type="display" ref="#https://d-nb.info/gnd/1204031533">Stephanus, Heiliger</persName>
+                </person>
+                <person xml:id="tahlen_ernesto">
+                    <persName type="display">Tahlen, Ernesto</persName>
+                    <note>Die Person konnte bisher nicht genauer identifiziert werden.</note>
+                </person>
+                <person xml:id="takken_arnold">
+                    <persName type="display">Takken, Arnold</persName>
+                    <note>Um 1658 Apotheker in Goslar.</note>
+                </person>
+                <person xml:id="tell_wilhelm">
+                    <persName ref="https://d-nb.info/gnd/118621211" type="display">Tell, Wilhelm</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/017475/2013-12-17/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="tell_anon_1">
+                    <persName type="display">Tell, N. N.</persName>
+                    <note>Sohn des schweizerischen Sagen- und Nationalhelden <rs type="person" ref="#tell_wilhelm">Wilhelm Tell</rs>.</note>
+                </person>
+                <person xml:id="terentia">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q3518324">Terentia</persName>
+                </person>
+                <person xml:id="thueringen_elisabeth">
+                    <persName ref="https://d-nb.info/gnd/118529927" type="display">Thüringen, Elisabeth von</persName>
+                    <persName>Ungarn, Elisabeth von</persName>
+                </person>
+                <person xml:id="torstensson_lennart">
+                    <persName ref="https://d-nb.info/gnd/117407186" type="display">Torstensson, Lennart</persName>
+                </person>
+                <person xml:id="volmer_anon_1">
+                    <persName type="display">Volmer, N. N.</persName>
+                    <note>Um 1652 Apotheker in Marienburg (Malbork).</note>
+                </person>
+                <person xml:id="venus">
+                    <persName type="display" ref="https://d-nb.info/gnd/11876800X">Venus (Göttin)</persName>
+                </person>
+                <person xml:id="vesalius_andreas">
+                    <persName ref="https://d-nb.info/gnd/118768204" type="display">Vesalius, Andreas</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118768204.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd118768204.html#ndbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="villars_balthazar">
+                    <persName ref="http://viaf.org/viaf/207117579" type="display">Villars, Balthazar de, Seigneur de Laval et du Roquet</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://fr.wikipedia.org/wiki/Balthazar_de_Villars"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="wagener_familie">
+                    <persName type="display">Wagener, Familie</persName>
+                    <note>Familie des Apothekers Wagener in Itzehoe.</note>
+                </person>
+                <person xml:id="wagener_anon_1">
+                    <persName type="display">Wagener, N. N.</persName>
+                    <note>Die Mutter von Wagener.</note>
+                </person>
+                <person xml:id="waldeck_josias">
+                    <persName ref="https://d-nb.info/gnd/104139137" type="display">Waldeck, Josias, Graf von</persName>
+                </person>
+                <person xml:id="waldeck_wolrad">
+                    <persName ref="https://d-nb.info/gnd/1018762159" type="display">Waldeck, Wolrad V. von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="fgdb" target="http://www.die-fruchtbringende-gesellschaft.de/index.php?article_id=16#1018762159"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="wallenstein_albrecht_wenzel_eusebius">
+                    <persName ref="https://d-nb.info/gnd/118628755" type="display">Wallenstein, Albrecht Wenzel Eusebius von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118628755.html#adbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="wasa_johann_ii_kasimir">
+                    <persName ref="https://d-nb.info/gnd/119389118" type="display">Johann II. Kasimir Wasa</persName>
+                    <note>König von Polen (reg. 1648-1668).</note>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="apw" target="https://apw.digitale-sammlungen.de/biopics/start.html?gnd=GND119389118"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="weiher_jakob">
+                    <persName ref="https://d-nb.info/gnd/136870422" type="display">Weiher, Jakob von</persName>
+                </person>
+                <person xml:id="wesener_anon_1">
+                    <persName type="display">Wesener, N. N.</persName>
+                    <note>Um 1658 Apotheker in Straßurg.</note>
+                </person>
+                <person xml:id="wiebert_johann_franz">
+                    <persName type="display">Wiebert, Johann Franz</persName>
+                    <note>Die Person konnte bisher nicht weiter identifiziert werden.</note>
+                </person>
+                <person xml:id="willershausen_heinrich_julius">
+                    <persName type="display">Willershausen, Heinrich Julius</persName>
+                    <note>Von 1645 bis 1670 Kammerschreiber in Wolfenbüttel.</note>
+                </person>
+                <person xml:id="wohihin_christoph">
+                    <persName type="display">Wohihin, Christoph</persName>
+                    <note>Um 1652 aus Königsberg stammender Apothekergeselle.</note>
+                </person>                
+                <person xml:id="wybe_adam">
+                    <persName type="display" ref="http://viaf.org/viaf/46152682519023311726">Wybe, Adam</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Adam_Wybe"/>
+                            <ptr type="bpnl" target="http://www.biografischportaal.nl/persoon/04941407"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="zaehringen_berthold_v">
+                    <persName type="display" ref="https://d-nb.info/gnd/118658565">Zähringen, Berthold V., Herzog von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118658565.html#adbcontent"/>
+                            <ptr type="ndb" target="https://www.deutsche-biographie.de/pnd118658565.html#ndbcontent"/>
+                            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/029225/2014-11-18/"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="zeiler_martin">
+                    <persName type="display" ref="https://d-nb.info/gnd/118772392">Zeiler, Martin</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118772392.html#adbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

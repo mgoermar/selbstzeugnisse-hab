@@ -1,0 +1,1494 @@
+{
+  "rows" : [
+    {
+      "Datum" : "24.03.1652",
+      "Ort" : "Meldorf",
+      "Label" : "24.03.1652: Meldorf",
+      "ORt_reconcile" : "Meldorf",
+      "GeoNames ID" : "6557327",
+      "latitude" : "54.083333333333336",
+      "longitude" : "9.066666666666666",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "24.03.1652",
+      "Ort" : "Itzehoe",
+      "Label" : "24.03.1652: Itzehoe",
+      "ORt_reconcile" : "Itzehoe",
+      "GeoNames ID" : "6557362",
+      "latitude" : "53.925",
+      "longitude" : "9.5163888888889",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "03.04.1652",
+      "Ort" : "Kellinghusen",
+      "Label" : "03.04.1652: Kellinghusen",
+      "ORt_reconcile" : "Kellinghusen",
+      "GeoNames ID" : "2891750",
+      "latitude" : "53.95",
+      "longitude" : "9.7166666666667",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "03.04.1652",
+      "Ort" : "Bad Bramstedt",
+      "Label" : "03.04.1652: Bad Bramstedt",
+      "ORt_reconcile" : "Bad Bramstedt",
+      "GeoNames ID" : "6557356",
+      "latitude" : "53.918611111111",
+      "longitude" : "9.8844444444444",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "03.04.1652",
+      "Ort" : "Bad Segeberg",
+      "Label" : "03.04.1652: Bad Segeberg",
+      "ORt_reconcile" : "Bad Segeberg",
+      "GeoNames ID" : "6557357",
+      "latitude" : "53.93611111111111",
+      "longitude" : "10.309722222222222",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "03.04.1652",
+      "Ort" : "Strukdorf",
+      "Label" : "03.04.1652: Strukdorf",
+      "ORt_reconcile" : "Strukdorf",
+      "GeoNames ID" : "6552140",
+      "latitude" : "53.916666666667",
+      "longitude" : "10.483333333333",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "05.04.1652",
+      "Ort" : "Lübeck",
+      "Label" : "05.04.1652: Lübeck",
+      "ORt_reconcile" : "Lübeck",
+      "GeoNames ID" : "7602559",
+      "latitude" : "53.869722222222",
+      "longitude" : "10.686388888889",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "07.04.1652",
+      "Ort" : "Travemünde",
+      "Label" : "07.04.1652: Travemünde",
+      "ORt_reconcile" : "Travemünde",
+      "GeoNames ID" : "2821480",
+      "latitude" : "53.9606",
+      "longitude" : "10.8692",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "07.04.1652",
+      "Ort" : "Dassow",
+      "Label" : "07.04.1652: Dassow",
+      "ORt_reconcile" : "Dassow",
+      "GeoNames ID" : "6550712",
+      "latitude" : "53.9074",
+      "longitude" : "10.9807",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "07.04.1652",
+      "Ort" : "kurz vor Insel Bornholm",
+      "Label" : "07.04.1652: kurz vor Insel Bornholm",
+      "ORt_reconcile" : "Bornholm",
+      "GeoNames ID" : "2623664",
+      "latitude" : "55.125",
+      "longitude" : "14.916666666667",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "23.04.1652",
+      "Ort" : "Rügen (Jasmund/Dornbusch)",
+      "Label" : "23.04.1652: Rügen (Jasmund/Dornbusch)",
+      "ORt_reconcile" : "Rügen",
+      "GeoNames ID" : "2843325",
+      "latitude" : "54.45",
+      "longitude" : "13.4",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "24.04.1652",
+      "Ort" : "Stralsund",
+      "Label" : "24.04.1652: Stralsund",
+      "ORt_reconcile" : "Stralsund",
+      "GeoNames ID" : "6551183",
+      "latitude" : "54.30916666666667",
+      "longitude" : "13.081944444444444",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "24.04.1652",
+      "Ort" : "Greifswald",
+      "Label" : "24.04.1652: Greifswald",
+      "ORt_reconcile" : "Greifswald",
+      "GeoNames ID" : "6551180",
+      "latitude" : "54.083333333333",
+      "longitude" : "13.383333333333",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "25.04.1652",
+      "Ort" : "Demmin",
+      "Label" : "25.04.1652: Demmin",
+      "ORt_reconcile" : "Demmin",
+      "GeoNames ID" : "6551184",
+      "latitude" : "53.905",
+      "longitude" : "13.043888888889",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "25.04.1652",
+      "Ort" : "Anklam",
+      "Label" : "25.04.1652: Anklam",
+      "ORt_reconcile" : "Anklam",
+      "GeoNames ID" : "6550720",
+      "latitude" : "53.85",
+      "longitude" : "13.683333333333334",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "25.04.1652",
+      "Ort" : "Ueckermünde",
+      "Label" : "25.04.1652: Ueckermünde",
+      "ORt_reconcile" : "Ueckermünde",
+      "GeoNames ID" : "6550738",
+      "latitude" : "53.733333333333",
+      "longitude" : "14.033333333333",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "27.04.1652",
+      "Ort" : "Stettin",
+      "Label" : "27.04.1652: Stettin",
+      "ORt_reconcile" : "Stettin",
+      "GeoNames ID" : "3083829",
+      "latitude" : "53.424722222222",
+      "longitude" : "14.555277777778",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "29.04.1652",
+      "Ort" : "Golenów",
+      "Label" : "29.04.1652: Golenów",
+      "ORt_reconcile" : "Goleniów",
+      "GeoNames ID" : "3098966",
+      "latitude" : "53.56392",
+      "longitude" : "14.82854",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "30.04.1652",
+      "Ort" : "Nowogard",
+      "Label" : "30.04.1652: Nowogard",
+      "ORt_reconcile" : "Nowogard",
+      "GeoNames ID" : "3090558",
+      "latitude" : "53.666666666667",
+      "longitude" : "15.116666666667",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "30.04.1652",
+      "Ort" : "Płoty",
+      "Label" : "30.04.1652: Płoty",
+      "ORt_reconcile" : "Płoty",
+      "GeoNames ID" : "3088788",
+      "latitude" : "53.808055555556",
+      "longitude" : "15.264722222222",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "30.04.1652",
+      "Ort" : "Rzesznikowo (Reselkow)",
+      "Label" : "30.04.1652: Rzesznikowo (Reselkow)",
+      "ORt_reconcile" : "Rzesznikowo (Reselkow)",
+      "GeoNames ID" : "3086416",
+      "latitude" : "53.92777778",
+      "longitude" : "15.49138889",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "01.05.1652",
+      "Ort" : "Karlino (Körlin)",
+      "Label" : "01.05.1652: Karlino (Körlin)",
+      "ORt_reconcile" : "Karlino (Körlin)",
+      "GeoNames ID" : "3096630",
+      "latitude" : "54.039166666667",
+      "longitude" : "15.878611111111",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "01.05.1652",
+      "Ort" : "Koszalin (Köslin)",
+      "Label" : "01.05.1652: Koszalin (Köslin)",
+      "ORt_reconcile" : "Koszalin (Köslin)",
+      "GeoNames ID" : "3095049",
+      "latitude" : "54.190277777778",
+      "longitude" : "16.181666666667",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "02.05.1652",
+      "Ort" : "Sianów (Zanow)",
+      "Label" : "02.05.1652: Sianów (Zanow)",
+      "ORt_reconcile" : "Sianów (Zanow)",
+      "GeoNames ID" : "3086134",
+      "latitude" : "54.231388888889",
+      "longitude" : "16.300277777778",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "02.05.1652",
+      "Ort" : "Sławno (Schlawe)",
+      "Label" : "02.05.1652: Sławno (Schlawe)",
+      "ORt_reconcile" : "Sławno (Schlawe)",
+      "GeoNames ID" : "3085610",
+      "latitude" : "54.366666666667",
+      "longitude" : "16.683333333333",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "02.05.1652",
+      "Ort" : "Słupsk (Stolp)",
+      "Label" : "02.05.1652: Słupsk (Stolp)",
+      "ORt_reconcile" : "Słupsk (Stolp)",
+      "GeoNames ID" : "3085450",
+      "latitude" : "54.466666666667",
+      "longitude" : "17.033333333333",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "03.05.1652",
+      "Ort" : "Lębork (Lauenburg)",
+      "Label" : "03.05.1652: Lębork (Lauenburg)",
+      "ORt_reconcile" : "Lębork (Lauenburg)",
+      "GeoNames ID" : "3093739",
+      "latitude" : "54.55",
+      "longitude" : "17.75",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "03.05.1652",
+      "Ort" : "Kaschubei",
+      "Label" : "03.05.1652: Kaschubei",
+      "ORt_reconcile" : "Kaschubei",
+      "GeoNames ID" : null,
+      "latitude" : "54.25127777777778",
+      "longitude" : "17.687361111111112",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "03.05.1652",
+      "Ort" : "Weiherowo (Neustadt)",
+      "Label" : "03.05.1652: Weiherowo (Neustadt)",
+      "ORt_reconcile" : "Weiherowo (Neustadt)",
+      "GeoNames ID" : "3082473",
+      "latitude" : "54.6",
+      "longitude" : "18.25",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "05.05.1652",
+      "Ort" : "Danzig",
+      "Label" : "05.05.1652: Danzig",
+      "ORt_reconcile" : "Danzig",
+      "GeoNames ID" : "3099434",
+      "latitude" : "54.35",
+      "longitude" : "18.666666666666668",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "09.05.1652",
+      "Ort" : "Gniew (Mewe)",
+      "Label" : "09.05.1652: Gniew (Mewe)",
+      "ORt_reconcile" : "Gniew (Mewe)",
+      "GeoNames ID" : "3099127",
+      "latitude" : "53.833333333333",
+      "longitude" : "18.833333333333",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "02.10.1652",
+      "Ort" : "Marienburg",
+      "Label" : "02.10.1652: Marienburg",
+      "ORt_reconcile" : "Marienburg",
+      "GeoNames ID" : "7531264",
+      "latitude" : "54.02846",
+      "longitude" : "19.04435",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "02.10.1652",
+      "Ort" : "Nogat",
+      "Label" : "02.10.1652: Nogat",
+      "ORt_reconcile" : "Nogat",
+      "GeoNames ID" : null,
+      "latitude" : "54.12027778",
+      "longitude" : "19.27222222",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "03.10.1652",
+      "Ort" : "Elbląg (Elbing)",
+      "Label" : "03.10.1652: Elbląg (Elbing)",
+      "ORt_reconcile" : "Elbląg (Elbing)",
+      "GeoNames ID" : "3099759",
+      "latitude" : "54.166666666667",
+      "longitude" : "19.4",
+      "Reise" : "Reise 1 (1652)"
+    },
+    {
+      "Datum" : "25.01.1655",
+      "Ort" : "Pasłęk (Preußisch Holland)",
+      "Label" : "25.01.1655: Pasłęk (Preußisch Holland)",
+      "ORt_reconcile" : "Pasłęk (Preußisch Holland)",
+      "GeoNames ID" : "3089392",
+      "latitude" : "54.05",
+      "longitude" : "19.666666666667",
+      "Reise" : "Reise 2 (1655)"
+    },
+    {
+      "Datum" : "24.02.1655",
+      "Ort" : "Marienburg",
+      "Label" : "24.02.1655: Marienburg",
+      "ORt_reconcile" : "Marienburg",
+      "GeoNames ID" : "7531264",
+      "latitude" : "54.02846",
+      "longitude" : "19.04435",
+      "Reise" : "Reise 2 (1655)"
+    },
+    {
+      "Datum" : "31.03.1655",
+      "Ort" : "Elbląg (Elbing)",
+      "Label" : "31.03.1655: Elbląg (Elbing)",
+      "ORt_reconcile" : "Elbląg (Elbing)",
+      "GeoNames ID" : "3099759",
+      "latitude" : "54.166666666667",
+      "longitude" : "19.4",
+      "Reise" : "Reise 2 (1655)"
+    },
+    {
+      "Datum" : "31.03.1655",
+      "Ort" : "Fromburg (Frauenburg)",
+      "Label" : "31.03.1655: Fromburg (Frauenburg)",
+      "ORt_reconcile" : "Fromburg (Frauenburg)",
+      "GeoNames ID" : "3099634",
+      "latitude" : "54.358333333333334",
+      "longitude" : "19.683333333333334",
+      "Reise" : "Reise 2 (1655)"
+    },
+    {
+      "Datum" : "01.04.1655",
+      "Ort" : "Braniewo (Braunsberg)",
+      "Label" : "01.04.1655: Braniewo (Braunsberg)",
+      "ORt_reconcile" : "Braniewo (Braunsberg)",
+      "GeoNames ID" : "3102677",
+      "latitude" : "54.383333333333",
+      "longitude" : "19.833333333333",
+      "Reise" : "Reise 2 (1655)"
+    },
+    {
+      "Datum" : "01.04.1655",
+      "Ort" : "Mamonovo (Heiligenbeil)",
+      "Label" : "01.04.1655: Mamonovo (Heiligenbeil)",
+      "ORt_reconcile" : "Mamonovo (Heiligenbeil)",
+      "GeoNames ID" : "2609901",
+      "latitude" : "54.466666666667",
+      "longitude" : "19.933333333333",
+      "Reise" : "Reise 2 (1655)"
+    },
+    {
+      "Datum" : "01.04.1655",
+      "Ort" : "Ushakovo (Brandenburg)",
+      "Label" : "01.04.1655: Ushakovo (Brandenburg)",
+      "ORt_reconcile" : "Ushakovo (Brandenburg)",
+      "GeoNames ID" : null,
+      "latitude" : "54.6125",
+      "longitude" : "20.249444444444",
+      "Reise" : "Reise 2 (1655)"
+    },
+    {
+      "Datum" : "02.04.1655",
+      "Ort" : "Königsberg",
+      "Label" : "02.04.1655: Königsberg",
+      "ORt_reconcile" : "Königsberg",
+      "GeoNames ID" : "554234",
+      "latitude" : "54.71147222222222",
+      "longitude" : "20.509305555555557",
+      "Reise" : "Reise 2 (1655)"
+    },
+    {
+      "Datum" : "08.07.1656",
+      "Ort" : "Elbląg (Elbing)",
+      "Label" : "08.07.1656: Elbląg (Elbing)",
+      "ORt_reconcile" : "Elbląg (Elbing)",
+      "GeoNames ID" : "3099759",
+      "latitude" : "54.166666666667",
+      "longitude" : "19.4",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "14.07.1656",
+      "Ort" : "Königsberg",
+      "Label" : "14.07.1656: Königsberg",
+      "ORt_reconcile" : "Königsberg",
+      "GeoNames ID" : "554234",
+      "latitude" : "54.71147222222222",
+      "longitude" : "20.509305555555557",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "07.09.1656",
+      "Ort" : "Lübeck",
+      "Label" : "07.09.1656: Lübeck",
+      "ORt_reconcile" : "Lübeck",
+      "GeoNames ID" : "7602559",
+      "latitude" : "53.869722222222",
+      "longitude" : "10.686388888889",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "07.09.1656",
+      "Ort" : "Hamburg",
+      "Label" : "07.09.1656: Hamburg",
+      "ORt_reconcile" : "Hamburg",
+      "GeoNames ID" : "2911298",
+      "latitude" : "53.55",
+      "longitude" : "10",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "17.09.1656",
+      "Ort" : "Pinneberg",
+      "Label" : "17.09.1656: Pinneberg",
+      "ORt_reconcile" : "Pinneberg",
+      "GeoNames ID" : "6557346",
+      "latitude" : "53.65911111111111",
+      "longitude" : "9.80086111111111",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "18.09.1655",
+      "Ort" : "Elmshorn",
+      "Label" : "18.09.1655: Elmshorn",
+      "ORt_reconcile" : "Elmshorn",
+      "GeoNames ID" : "6555442",
+      "latitude" : "53.754722222222",
+      "longitude" : "9.6536111111111",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "18.09.1656",
+      "Ort" : "Itzehoe",
+      "Label" : "18.09.1656: Itzehoe",
+      "ORt_reconcile" : "Itzehoe",
+      "GeoNames ID" : "6557362",
+      "latitude" : "53.925",
+      "longitude" : "9.5163888888889",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "22.09.1656",
+      "Ort" : "Meldorf",
+      "Label" : "22.09.1656: Meldorf",
+      "ORt_reconcile" : "Meldorf",
+      "GeoNames ID" : "6557327",
+      "latitude" : "54.083333333333336",
+      "longitude" : "9.066666666666666",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "30.09.1656",
+      "Ort" : "Hamburg",
+      "Label" : "30.09.1656: Hamburg",
+      "ORt_reconcile" : "Hamburg",
+      "GeoNames ID" : "2911298",
+      "latitude" : "53.55",
+      "longitude" : "10",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "01.10.1656",
+      "Ort" : "Lübeck",
+      "Label" : "01.10.1656: Lübeck",
+      "ORt_reconcile" : "Lübeck",
+      "GeoNames ID" : "7602559",
+      "latitude" : "53.869722222222",
+      "longitude" : "10.686388888889",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "11.10.1656",
+      "Ort" : "Meldorf",
+      "Label" : "11.10.1656: Meldorf",
+      "ORt_reconcile" : "Meldorf",
+      "GeoNames ID" : "6557327",
+      "latitude" : "54.083333333333336",
+      "longitude" : "9.066666666666666",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "12.01.1657",
+      "Ort" : "Heide",
+      "Label" : "12.01.1657: Heide",
+      "ORt_reconcile" : "Heide",
+      "GeoNames ID" : "6557325",
+      "latitude" : "54.196111111111",
+      "longitude" : "9.0933333333333",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "13.01.1657",
+      "Ort" : "Friedrichsstadt (Eiderstedt)",
+      "Label" : "13.01.1657: Friedrichsstadt (Eiderstedt)",
+      "ORt_reconcile" : "Friedrichsstadt (Eiderstedt)",
+      "GeoNames ID" : "6557334",
+      "latitude" : "54.376980555555555",
+      "longitude" : "9.0925",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "14.01.1657",
+      "Ort" : "Husum",
+      "Label" : "14.01.1657: Husum",
+      "ORt_reconcile" : "Husum",
+      "GeoNames ID" : "6557335",
+      "latitude" : "54.476944444444",
+      "longitude" : "9.0511111111111",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "16.01.1657",
+      "Ort" : "Schwerin",
+      "Label" : "16.01.1657: Schwerin",
+      "ORt_reconcile" : "Schwerin",
+      "GeoNames ID" : "2834281",
+      "latitude" : "53.62888888888889",
+      "longitude" : "11.415",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "19.01.1657",
+      "Ort" : "Gottorf",
+      "Label" : "19.01.1657: Gottorf",
+      "ORt_reconcile" : "Gottorf",
+      "GeoNames ID" : "2918605",
+      "latitude" : "54.511666666667",
+      "longitude" : "9.5413888888889",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "nach 22.01.1657",
+      "Ort" : "Meldorf",
+      "Label" : "nach 22.01.1657: Meldorf",
+      "ORt_reconcile" : "Meldorf",
+      "GeoNames ID" : "6557327",
+      "latitude" : "54.083333333333336",
+      "longitude" : "9.066666666666666",
+      "Reise" : "Reise 3 (1656/57)"
+    },
+    {
+      "Datum" : "05.08.1657",
+      "Ort" : "Glücksstadt",
+      "Label" : "05.08.1657: Glücksstadt",
+      "ORt_reconcile" : "Glücksstadt",
+      "GeoNames ID" : "6557361",
+      "latitude" : "53.791666666667",
+      "longitude" : "9.4219444444444",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "10.08.1657",
+      "Ort" : "Hamburg",
+      "Label" : "10.08.1657: Hamburg",
+      "ORt_reconcile" : "Hamburg",
+      "GeoNames ID" : "2911298",
+      "latitude" : "53.55",
+      "longitude" : "10",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "25.08.1657",
+      "Ort" : "Lüneburg",
+      "Label" : "25.08.1657: Lüneburg",
+      "ORt_reconcile" : "Lüneburg",
+      "GeoNames ID" : "6557441",
+      "latitude" : "53.2525",
+      "longitude" : "10.414444444444",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "27.08.1657",
+      "Ort" : "Winsen",
+      "Label" : "27.08.1657: Winsen",
+      "ORt_reconcile" : "Winsen",
+      "GeoNames ID" : "6557438",
+      "latitude" : "53.366666666667",
+      "longitude" : "10.216666666667",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "27.08.1657",
+      "Ort" : "Celle",
+      "Label" : "27.08.1657: Celle",
+      "ORt_reconcile" : "Celle",
+      "GeoNames ID" : "6557432",
+      "latitude" : "52.625555555556",
+      "longitude" : "10.0825",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "28.08.1657",
+      "Ort" : "Brachdorff",
+      "Label" : "28.08.1657: Brachdorff",
+      "ORt_reconcile" : "Brachdorff",
+      "GeoNames ID" : "6557397",
+      "latitude" : "52.443777777777775",
+      "longitude" : "10.007833333333334",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "28.08.1657",
+      "Ort" : "Hildesheim",
+      "Label" : "28.08.1657: Hildesheim",
+      "ORt_reconcile" : "Hildesheim",
+      "GeoNames ID" : "6557424",
+      "latitude" : "52.15",
+      "longitude" : "9.95",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "02.09.1657",
+      "Ort" : "Wolfenbüttel",
+      "Label" : "02.09.1657: Wolfenbüttel",
+      "ORt_reconcile" : "Wolfenbüttel",
+      "GeoNames ID" : "6557395",
+      "latitude" : "52.162222222222",
+      "longitude" : "10.536944444444",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "02.03.1658",
+      "Ort" : "Braunschweig",
+      "Label" : "02.03.1658: Braunschweig",
+      "ORt_reconcile" : "Braunschweig",
+      "GeoNames ID" : "3221011",
+      "latitude" : "52.269166666667",
+      "longitude" : "10.521111111111",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "23.03.1658",
+      "Ort" : "Wolfenbüttel",
+      "Label" : "23.03.1658: Wolfenbüttel",
+      "ORt_reconcile" : "Wolfenbüttel",
+      "GeoNames ID" : "6557395",
+      "latitude" : "52.162222222222",
+      "longitude" : "10.536944444444",
+      "Reise" : "Reise 4 (1657)"
+    },
+    {
+      "Datum" : "22.06.1658",
+      "Ort" : "Goslar",
+      "Label" : "22.06.1658: Goslar",
+      "ORt_reconcile" : "Goslar",
+      "GeoNames ID" : "10942643",
+      "latitude" : "51.906003",
+      "longitude" : "10.429163",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "23.06.1658",
+      "Ort" : "Clausthal",
+      "Label" : "23.06.1658: Clausthal",
+      "ORt_reconcile" : "Clausthal",
+      "GeoNames ID" : "6559061",
+      "latitude" : "51.805",
+      "longitude" : "10.335555555556",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "23.06.1658",
+      "Ort" : "Harz",
+      "Label" : "23.06.1658: Harz",
+      "ORt_reconcile" : "Harz",
+      "GeoNames ID" : "2909965",
+      "latitude" : "51.75",
+      "longitude" : "10.633333333333",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "24.06.1658",
+      "Ort" : "Osterode",
+      "Label" : "24.06.1658: Osterode",
+      "ORt_reconcile" : "Osterode",
+      "GeoNames ID" : "6557391",
+      "latitude" : "51.728611111111",
+      "longitude" : "10.252222222222",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "26.06.1658",
+      "Ort" : "Göttingen",
+      "Label" : "26.06.1658: Göttingen",
+      "ORt_reconcile" : "Göttingen",
+      "GeoNames ID" : "6557373",
+      "latitude" : "51.533888888889",
+      "longitude" : "9.9355555555556",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "27.06.1658",
+      "Ort" : "Munden",
+      "Label" : "27.06.1658: Munden",
+      "ORt_reconcile" : "Munden",
+      "GeoNames ID" : "7602563",
+      "latitude" : "51.416666666667",
+      "longitude" : "9.65",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "28.06.1658",
+      "Ort" : "Kassel",
+      "Label" : "28.06.1658: Kassel",
+      "ORt_reconcile" : "Kassel",
+      "GeoNames ID" : "3220995",
+      "latitude" : "51.315777777778",
+      "longitude" : "9.4979166666667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "28.06.1658",
+      "Ort" : "Gudenberg",
+      "Label" : "28.06.1658: Gudenberg",
+      "ORt_reconcile" : "Gudenberg",
+      "GeoNames ID" : "2916360",
+      "latitude" : "51.3664",
+      "longitude" : "9.27156",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "28.06.1658",
+      "Ort" : "Fritzlar",
+      "Label" : "28.06.1658: Fritzlar",
+      "ORt_reconcile" : "Fritzlar",
+      "GeoNames ID" : "6559142",
+      "latitude" : "51.13333333333333",
+      "longitude" : "9.266666666666667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "28.06.1658",
+      "Ort" : "Bad Wildungen",
+      "Label" : "28.06.1658: Bad Wildungen",
+      "ORt_reconcile" : "Bad Wildungen",
+      "GeoNames ID" : "6557831",
+      "latitude" : "51.11666666666667",
+      "longitude" : "9.116666666666667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "29.06.1658",
+      "Ort" : "Münde",
+      "Label" : "29.06.1658: Münde",
+      "ORt_reconcile" : "Münde",
+      "GeoNames ID" : "6557835",
+      "latitude" : "50.96666666666667",
+      "longitude" : "8.966666666666667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "29.06.1658",
+      "Ort" : "Marburg",
+      "Label" : "29.06.1658: Marburg",
+      "ORt_reconcile" : "Marburg",
+      "GeoNames ID" : "6559132",
+      "latitude" : "50.816666666667",
+      "longitude" : "8.7666666666667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "30.06.1658",
+      "Ort" : "Gießen",
+      "Label" : "30.06.1658: Gießen",
+      "ORt_reconcile" : "Gießen",
+      "GeoNames ID" : "6559130",
+      "latitude" : "50.583333333333336",
+      "longitude" : "8.666666666666666",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "30.06.1658",
+      "Ort" : "Langengöns (Wetterau)",
+      "Label" : "30.06.1658: Langengöns (Wetterau)",
+      "ORt_reconcile" : "Langengöns (Wetterau)",
+      "GeoNames ID" : "6553216",
+      "latitude" : "50.5",
+      "longitude" : "8.666666666666666",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "30.06.1658",
+      "Ort" : "Butzbach",
+      "Label" : "30.06.1658: Butzbach",
+      "ORt_reconcile" : "Butzbach",
+      "GeoNames ID" : "6557769",
+      "latitude" : "50.436666666667",
+      "longitude" : "8.6622222222222",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "01.07.1658",
+      "Ort" : "Friedberg",
+      "Label" : "01.07.1658: Friedberg",
+      "ORt_reconcile" : "Friedberg",
+      "GeoNames ID" : "6559128",
+      "latitude" : "50.335277777778",
+      "longitude" : "8.755",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "01.07.1658",
+      "Ort" : "Bornheim",
+      "Label" : "01.07.1658: Bornheim",
+      "ORt_reconcile" : "Bornheim",
+      "GeoNames ID" : "2946108",
+      "latitude" : "50.128611",
+      "longitude" : "8.711667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "04.07.1658",
+      "Ort" : "Frankfurt am Main",
+      "Label" : "04.07.1658: Frankfurt am Main",
+      "ORt_reconcile" : "Frankfurt am Main",
+      "GeoNames ID" : "3220968",
+      "latitude" : "50.11055555555556",
+      "longitude" : "8.682222222222222",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "29.07.1658",
+      "Ort" : "Höchst",
+      "Label" : "29.07.1658: Höchst",
+      "ORt_reconcile" : "Höchst",
+      "GeoNames ID" : "2903019",
+      "latitude" : "50.098888888889",
+      "longitude" : "8.5466666666667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "30.07.1658",
+      "Ort" : "Darmstadt",
+      "Label" : "30.07.1658: Darmstadt",
+      "ORt_reconcile" : "Darmstadt",
+      "GeoNames ID" : "3220962",
+      "latitude" : "49.866666666667",
+      "longitude" : "8.65",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "30.07.1658",
+      "Ort" : "Eberstadt",
+      "Label" : "30.07.1658: Eberstadt",
+      "ORt_reconcile" : "Eberstadt",
+      "GeoNames ID" : null,
+      "latitude" : "49.8189",
+      "longitude" : "8.645",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "31.07.1658",
+      "Ort" : "Bensheim",
+      "Label" : "31.07.1658: Bensheim",
+      "ORt_reconcile" : "Bensheim",
+      "GeoNames ID" : "6557710",
+      "latitude" : "49.681111111111",
+      "longitude" : "8.6227777777778",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "31.07.1658",
+      "Ort" : "Mainz",
+      "Label" : "31.07.1658: Mainz",
+      "ORt_reconcile" : "Mainz",
+      "GeoNames ID" : "3247465",
+      "latitude" : "49.99944444444444",
+      "longitude" : "8.27361111111111",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "31.07.1658",
+      "Ort" : "Weinheim",
+      "Label" : "31.07.1658: Weinheim",
+      "ORt_reconcile" : "Weinheim",
+      "GeoNames ID" : "6558066",
+      "latitude" : "49.556111111111",
+      "longitude" : "8.6697222222222",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "01.08.1658",
+      "Ort" : "Heidelberg",
+      "Label" : "01.08.1658: Heidelberg",
+      "ORt_reconcile" : "Heidelberg",
+      "GeoNames ID" : "2907911",
+      "latitude" : "49.412222222222",
+      "longitude" : "8.71",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "01.08.1658",
+      "Ort" : "Worms",
+      "Label" : "01.08.1658: Worms",
+      "ORt_reconcile" : "Worms",
+      "GeoNames ID" : "3247467",
+      "latitude" : "49.631944444444",
+      "longitude" : "8.3652777777778",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "01.08.1658",
+      "Ort" : "Speyer",
+      "Label" : "01.08.1658: Speyer",
+      "ORt_reconcile" : "Speyer",
+      "GeoNames ID" : "3247908",
+      "latitude" : "49.3165553",
+      "longitude" : "8.433615",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "01.08.1658",
+      "Ort" : "Wiesental",
+      "Label" : "01.08.1658: Wiesental",
+      "ORt_reconcile" : "Wiesental",
+      "GeoNames ID" : null,
+      "latitude" : "49.226111111111",
+      "longitude" : "8.5183333333333",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "02.08.1658",
+      "Ort" : "Bruchsal",
+      "Label" : "02.08.1658: Bruchsal",
+      "ORt_reconcile" : "Bruchsal",
+      "GeoNames ID" : "6558034",
+      "latitude" : "49.133333333333",
+      "longitude" : "8.6",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "02.08.1658",
+      "Ort" : "Weingarten",
+      "Label" : "02.08.1658: Weingarten",
+      "ORt_reconcile" : "Weingarten",
+      "GeoNames ID" : "6559161",
+      "latitude" : "49.051389",
+      "longitude" : "8.530556",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "02.08.1658",
+      "Ort" : "Durlach",
+      "Label" : "02.08.1658: Durlach",
+      "ORt_reconcile" : "Durlach",
+      "GeoNames ID" : "2934469",
+      "latitude" : "49",
+      "longitude" : "8.4667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "02.08.1658",
+      "Ort" : "Stollhofen",
+      "Label" : "02.08.1658: Stollhofen",
+      "ORt_reconcile" : "Stollhofen",
+      "GeoNames ID" : "2826555",
+      "latitude" : "48.766",
+      "longitude" : "8.0492",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "04.08.1658",
+      "Ort" : "Haguenau",
+      "Label" : "04.08.1658: Haguenau",
+      "ORt_reconcile" : "Haguenau",
+      "GeoNames ID" : "3014078",
+      "latitude" : "48.816666666667",
+      "longitude" : "7.7877777777778",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "04.08.1658",
+      "Ort" : "Kehl",
+      "Label" : "04.08.1658: Kehl",
+      "ORt_reconcile" : "Kehl",
+      "GeoNames ID" : "6558108",
+      "latitude" : "48.571111111111",
+      "longitude" : "7.8088888888889",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "04.08.1658",
+      "Ort" : "Straßburg",
+      "Label" : "04.08.1658: Straßburg",
+      "ORt_reconcile" : "Straßburg",
+      "GeoNames ID" : "2973783",
+      "latitude" : "48.573333333333",
+      "longitude" : "7.7522222222222",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "27.08.1658",
+      "Ort" : "Benfeld",
+      "Label" : "27.08.1658: Benfeld",
+      "ORt_reconcile" : "Benfeld",
+      "GeoNames ID" : "3033488",
+      "latitude" : "48.370555555556",
+      "longitude" : "7.5922222222222",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "28.08.1658",
+      "Ort" : "Marckolsheim",
+      "Label" : "28.08.1658: Marckolsheim",
+      "ORt_reconcile" : "Marckolsheim",
+      "GeoNames ID" : "2995936",
+      "latitude" : "48.163888888889",
+      "longitude" : "7.5438888888889",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "28.08.1658",
+      "Ort" : "Breisach",
+      "Label" : "28.08.1658: Breisach",
+      "ORt_reconcile" : "Breisach",
+      "GeoNames ID" : "6558087",
+      "latitude" : "48.028888888889",
+      "longitude" : "7.58",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "29.08.1658",
+      "Ort" : "Freiburg im Breisgau",
+      "Label" : "29.08.1658: Freiburg im Breisgau",
+      "ORt_reconcile" : "Freiburg im Breisgau",
+      "GeoNames ID" : "2925177",
+      "latitude" : "47.995",
+      "longitude" : "7.85",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "29.08.1658",
+      "Ort" : "Wolfenweiler (Schallstadt)",
+      "Label" : "29.08.1658: Wolfenweiler (Schallstadt)",
+      "ORt_reconcile" : "Wolfenweiler (Schallstadt)",
+      "GeoNames ID" : "2806903",
+      "latitude" : "47.9632",
+      "longitude" : "7.7633",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "29.08.1658",
+      "Ort" : "Bad Krozingen",
+      "Label" : "29.08.1658: Bad Krozingen",
+      "ORt_reconcile" : "Bad Krozingen",
+      "GeoNames ID" : "6555730",
+      "latitude" : "47.918055555556",
+      "longitude" : "7.7025",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "29.08.1658",
+      "Ort" : "Heitersheim",
+      "Label" : "29.08.1658: Heitersheim",
+      "ORt_reconcile" : "Heitersheim",
+      "GeoNames ID" : "6558088",
+      "latitude" : "47.875277777778",
+      "longitude" : "7.6547222222222",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "29.08.1658",
+      "Ort" : "Schliengen",
+      "Label" : "29.08.1658: Schliengen",
+      "ORt_reconcile" : "Schliengen",
+      "GeoNames ID" : "6555891",
+      "latitude" : "47.755555555556",
+      "longitude" : "7.5772222222222",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "10.09.1658",
+      "Ort" : "Basel",
+      "Label" : "10.09.1658: Basel",
+      "ORt_reconcile" : "Basel",
+      "GeoNames ID" : "7285161",
+      "latitude" : "47.560555555556",
+      "longitude" : "7.5905555555556",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Liestal",
+      "Label" : "13.09.1658: Liestal",
+      "ORt_reconcile" : "Liestal",
+      "GeoNames ID" : "7286349",
+      "latitude" : "47.483888888889",
+      "longitude" : "7.735",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Waldenburg",
+      "Label" : "13.09.1658: Waldenburg",
+      "ORt_reconcile" : "Waldenburg",
+      "GeoNames ID" : "7287520",
+      "latitude" : "47.383055555556",
+      "longitude" : "7.75",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Langenbruck",
+      "Label" : "13.09.1658: Langenbruck",
+      "ORt_reconcile" : "Langenbruck",
+      "GeoNames ID" : "7286257",
+      "latitude" : "47.349444444444",
+      "longitude" : "7.7694444444444",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Pass Oberer Hauenstein",
+      "Label" : "13.09.1658: Pass Oberer Hauenstein",
+      "ORt_reconcile" : "Pass Oberer Hauenstein",
+      "GeoNames ID" : null,
+      "latitude" : "47.3517",
+      "longitude" : "7.76389",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Falkenstein",
+      "Label" : "13.09.1658: Falkenstein",
+      "ORt_reconcile" : "Falkenstein",
+      "GeoNames ID" : null,
+      "latitude" : "47.322887",
+      "longitude" : "7.710332",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Balsthal",
+      "Label" : "13.09.1658: Balsthal",
+      "ORt_reconcile" : "Balsthal",
+      "GeoNames ID" : "7285148",
+      "latitude" : "47.316388888889",
+      "longitude" : "7.6944444444444",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Oberbipp",
+      "Label" : "13.09.1658: Oberbipp",
+      "ORt_reconcile" : "Oberbipp",
+      "GeoNames ID" : "7286674",
+      "latitude" : "47.261388888889",
+      "longitude" : "7.6591666666667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Niederbipp",
+      "Label" : "13.09.1658: Niederbipp",
+      "ORt_reconcile" : "Niederbipp",
+      "GeoNames ID" : "7286634",
+      "latitude" : "47.265833333333",
+      "longitude" : "7.6958333333333",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Wiedlisbach",
+      "Label" : "13.09.1658: Wiedlisbach",
+      "ORt_reconcile" : "Wiedlisbach",
+      "GeoNames ID" : "7287568",
+      "latitude" : "47.252",
+      "longitude" : "7.6467",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Adliswil",
+      "Label" : "13.09.1658: Attiswil",
+      "ORt_reconcile" : "Adliswil",
+      "GeoNames ID" : "7285113",
+      "latitude" : "47.247181",
+      "longitude" : "7.6135",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Solothurn",
+      "Label" : "13.09.1658: Solothurn",
+      "ORt_reconcile" : "Solothurn",
+      "GeoNames ID" : "7287186",
+      "latitude" : "47.208055555556",
+      "longitude" : "7.5375",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "13.09.1658",
+      "Ort" : "Fraubrunnen",
+      "Label" : "13.09.1658: Fraubrunnen",
+      "ORt_reconcile" : "Fraubrunnen",
+      "GeoNames ID" : "7285860",
+      "latitude" : "47.085",
+      "longitude" : "7.5269444444444",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "15.09.1658",
+      "Ort" : "Bern",
+      "Label" : "15.09.1658: Bern",
+      "ORt_reconcile" : "Bern",
+      "GeoNames ID" : "7285212",
+      "latitude" : "46.94798",
+      "longitude" : "7.44743",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "16.09.1658",
+      "Ort" : "Murten",
+      "Label" : "16.09.1658: Murten",
+      "ORt_reconcile" : "Murten",
+      "GeoNames ID" : "7286603",
+      "latitude" : "46.928055555556",
+      "longitude" : "7.1169444444444",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "16.09.1658",
+      "Ort" : "Peterlingen",
+      "Label" : "16.09.1658: Peterlingen",
+      "ORt_reconcile" : "Peterlingen",
+      "GeoNames ID" : "2659243",
+      "latitude" : "46.816666666667",
+      "longitude" : "6.9333333333333",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "16.09.1658",
+      "Ort" : "Saint-Aubin",
+      "Label" : "16.09.1658: Saint-Aubin",
+      "ORt_reconcile" : "Saint-Aubin",
+      "GeoNames ID" : "2658879",
+      "latitude" : "46.89",
+      "longitude" : "6.980556",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "16.09.1658",
+      "Ort" : "Cheiry",
+      "Label" : "16.09.1658: Cheiry",
+      "ORt_reconcile" : "Cheiry",
+      "GeoNames ID" : "2661193",
+      "latitude" : "46.749167",
+      "longitude" : "6.833333",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "16.09.1658",
+      "Ort" : "Lucens",
+      "Label" : "16.09.1658: Lucens",
+      "ORt_reconcile" : "Lucens",
+      "GeoNames ID" : "7286378",
+      "latitude" : "46.70916",
+      "longitude" : "6.83732",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "16.09.1658",
+      "Ort" : "Moudon",
+      "Label" : "16.09.1658: Moudon",
+      "ORt_reconcile" : "Moudon",
+      "GeoNames ID" : "7286565",
+      "latitude" : "46.66871",
+      "longitude" : "6.79743",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "17.09.1658",
+      "Ort" : "Lausanne",
+      "Label" : "17.09.1658: Lausanne",
+      "ORt_reconcile" : "Lausanne",
+      "GeoNames ID" : "7286283",
+      "latitude" : "46.533333333333",
+      "longitude" : "6.6333333333333",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "17.09.1658",
+      "Ort" : "Saint-Prex",
+      "Label" : "17.09.1658: Saint-Prex",
+      "ORt_reconcile" : "Saint-Prex",
+      "GeoNames ID" : "7287036",
+      "latitude" : "46.483611111111",
+      "longitude" : "6.4575",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "17.09.1658",
+      "Ort" : "Rolle",
+      "Label" : "17.09.1658: Rolle",
+      "ORt_reconcile" : "Rolle",
+      "GeoNames ID" : "7286935",
+      "latitude" : "46.45755",
+      "longitude" : "6.33167",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "18.09.1658",
+      "Ort" : "Nyon",
+      "Label" : "18.09.1658: Nyon",
+      "ORt_reconcile" : "Nyon",
+      "GeoNames ID" : "7286671",
+      "latitude" : "46.38196166666667",
+      "longitude" : "6.23888",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "18.09.1658",
+      "Ort" : "Coppet",
+      "Label" : "18.09.1658: Coppet",
+      "ORt_reconcile" : "Coppet",
+      "GeoNames ID" : "7285545",
+      "latitude" : "46.32135",
+      "longitude" : "6.18907",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "18.09.1658",
+      "Ort" : "Genf",
+      "Label" : "18.09.1658: Genf",
+      "ORt_reconcile" : "Genf",
+      "GeoNames ID" : "7285902",
+      "latitude" : "46.2",
+      "longitude" : "6.15",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "20.09.1658",
+      "Ort" : "Chancy",
+      "Label" : "20.09.1658: Chancy",
+      "ORt_reconcile" : "Chancy",
+      "GeoNames ID" : "7285471",
+      "latitude" : "46.1476",
+      "longitude" : "5.97891",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "20.09.1658",
+      "Ort" : "Collonges",
+      "Label" : "20.09.1658: Collonges",
+      "ORt_reconcile" : "Collonges",
+      "GeoNames ID" : "6453498",
+      "latitude" : "46.138611",
+      "longitude" : "5.904167",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "20.09.1658",
+      "Ort" : "„Pertes du Rhône“",
+      "Label" : "20.09.1658: „Pertes du Rhône“",
+      "ORt_reconcile" : "„Pertes du Rhône“",
+      "GeoNames ID" : null,
+      "latitude" : "46.10611111111111",
+      "longitude" : "5.831666666666667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "20.09.1658",
+      "Ort" : "Châtilon-en-Michaille",
+      "Label" : "20.09.1658: Châtilon-en-Michaille",
+      "ORt_reconcile" : "Châtilon-en-Michaille",
+      "GeoNames ID" : "3026074",
+      "latitude" : "46.144444",
+      "longitude" : "5.8",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "21.09.1658",
+      "Ort" : "Nantua",
+      "Label" : "21.09.1658: Nantua",
+      "ORt_reconcile" : "Nantua",
+      "GeoNames ID" : "2990932",
+      "latitude" : "46.153333333333",
+      "longitude" : "5.6061111111111",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "21.09.1658",
+      "Ort" : "Cerdon",
+      "Label" : "21.09.1658: Cerdon",
+      "ORt_reconcile" : "Cerdon",
+      "GeoNames ID" : "6454901",
+      "latitude" : "46.080555555556",
+      "longitude" : "5.4658333333333",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "22.09.1658",
+      "Ort" : "Ambronay",
+      "Label" : "22.09.1658: Ambronay",
+      "ORt_reconcile" : "Bournay",
+      "GeoNames ID" : "3037884",
+      "latitude" : "46.005556",
+      "longitude" : "5.360556",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "22.09.1658",
+      "Ort" : "Château-Gaillard",
+      "Label" : "22.09.1658: Château-Gaillard",
+      "ORt_reconcile" : "Château-Gaillard",
+      "GeoNames ID" : "6446418",
+      "latitude" : "45.973333333333",
+      "longitude" : "5.3041666666667",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "22.09.1658",
+      "Ort" : "La Boisse",
+      "Label" : "22.09.1658: La Boisse",
+      "ORt_reconcile" : "La Boisse",
+      "GeoNames ID" : "3011008",
+      "latitude" : "45.842222222222",
+      "longitude" : "5.0355555555556",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "22.09.1658",
+      "Ort" : "Verbonne",
+      "Label" : "22.09.1658: Verbonne",
+      "ORt_reconcile" : "Verbonne",
+      "GeoNames ID" : "3005852",
+      "latitude" : "45.8513",
+      "longitude" : "5.12375",
+      "Reise" : "Reise 5 (1658/59)"
+    },
+    {
+      "Datum" : "23.09.1658",
+      "Ort" : "Lyon",
+      "Label" : "23.09.1658: Lyon",
+      "ORt_reconcile" : "Lyon",
+      "GeoNames ID" : "2996944",
+      "latitude" : "45.758888888889",
+      "longitude" : "4.8413888888889",
+      "Reise" : "Reise 5 (1658/59)"
+    }
+  ]
+}

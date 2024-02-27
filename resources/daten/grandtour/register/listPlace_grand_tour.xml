@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xml:id="grand_tour_ortsregister">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ortsregister</title>
+                <respStmt>
+                    <resp>erstellt und bearbeitet von </resp>                    
+                    <name>Angela Göbel</name>
+                    <name>Maximilian Görmar</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="https://www.hab.de"/>
+                    <address>
+                        <street>Lessingplatz 1</street>
+                        <name type="city">Wolfenbüttel</name>
+                        <postCode>D-38299</postCode>
+                        <name type="country">Germany</name>
+                    </address>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>        
+    <text>
+        <body>
+            <listPlace xml:id="place">
+                <place xml:id="aare_river">
+                    <placeName ref="https://www.geonames.org/2661878/aare.html">Aare, Fluss</placeName>
+                </place>
+                <place xml:id="aegypten">
+                    <placeName ref="https://www.geonames.org/8378475/aegyptus.html">Ägypten</placeName>
+                </place>
+                <place xml:id="ain_river">
+                    <placeName ref="https://www.geonames.org/3038423/ain.html">Ain, Fluss</placeName>
+                </place>
+                <place xml:id="altendamm">
+                    <placeName ref="https://www.geonames.org/3100876/dabie.html">Altendamm (Dąbie)</placeName>
+                </place> 
+                <place xml:id="altschottland">
+                    <placeName ref="https://d-nb.info/gnd/1169144675">Altschottland (Stare Szkoty)</placeName>
+                </place>
+                <place xml:id="alpen_mountains">
+                    <placeName ref="https://d-nb.info/gnd/4001328-5">Alpen, Gebirge</placeName>
+                </place>
+                <place xml:id="ambronay">
+                    <placeName ref="https://www.geonames.org/3037884/ambronay.html">Ambronay</placeName>
+                </place>
+                <place xml:id="anklam">
+                    <placeName ref="https://www.geonames.org/2956018/anklam.html">Anklam</placeName>
+                </place>
+                <place xml:id="athen">
+                    <placeName ref="https://www.geonames.org/264371/athens.html">Athen (Αθήνα)</placeName>
+                </place>
+                <place xml:id="attiswil">
+                    <placeName ref="https://www.geonames.org/2661692/attiswil.html">Attiswil</placeName>
+                </place>
+                <place xml:id="baden_markgrafschaft">
+                    <placeName ref="https://www.wikidata.org/wiki/Q650489">Baden, Markgrafschaft</placeName>
+                </place>
+                <place xml:id="balsthal">
+                    <placeName ref="https://www.geonames.org/2661626/balsthal.html">Balsthal</placeName>
+                </place>
+                <place xml:id="basel">
+                    <placeName ref="https://www.geonames.org/2661604/basel.html">Basel</placeName>
+                </place>
+                <place xml:id="bayern_kurfuerstentum">
+                    <placeName ref="https://www.wikidata.org/wiki/Q256961">Bayern, Kurfürstentum</placeName>
+                </place>
+                <place xml:id="beaujolais">
+                    <placeName ref="https://d-nb.info/gnd/4080306-5">Beaujolais</placeName>
+                </place>
+                <place xml:id="benfeld">
+                    <placeName ref="https://www.geonames.org/3033488/benfeld.html">Benfeld</placeName>
+                </place>
+                <place xml:id="bensheim">
+                    <placeName ref="https://www.geonames.org/2950978/bensheim.html">Bensheim</placeName>
+                </place>
+                <place xml:id="bern">
+                    <placeName ref="https://www.geonames.org/2661552/bern.html">Bern</placeName>
+                </place>
+                <place xml:id="bern_republik">
+                    <placeName ref="https://d-nb.info/gnd/1109823428">Bern, Stadt und Republik</placeName>
+                </place>
+                <place xml:id="bornheim">
+                    <placeName ref="https://www.geonames.org/2946108/bornheim.html">Bornheim</placeName>
+                </place>
+                <place xml:id="bornholm_island">
+                    <placeName ref="https://www.geonames.org/2623664/bornholm.html">Bornholm, Insel</placeName>
+                </place>
+                <place xml:id="bramstedt">
+                    <placeName ref="https://www.geonames.org/2953537/bad-bramstedt.html">Bramstedt (Bad Bramstedt)</placeName>
+                </place>
+                <place xml:id="brandenburg">
+                    <placeName ref="https://www.geonames.org/478423/ushakovo.html">Brandenburg (Ushakovo)</placeName>
+                </place>
+                <place xml:id="brandenburg_kurfuerstentum">
+                    <placeName ref="https://d-nb.info/gnd/4007955-7">Brandenburg, Kurfürstentum</placeName>
+                </place>
+                <place xml:id="braunsberg">
+                    <placeName ref="https://www.geonames.org/3102677/braniewo.html">Braunsberg (Braniewo)</placeName>
+                </place>
+                <place xml:id="braunschweig">
+                    <placeName ref="https://www.geonames.org/2945024/braunschweig.html">Braunschweig</placeName>
+                </place>
+                <place xml:id="breisach">
+                    <placeName ref="https://www.geonames.org/2944800/breisach-am-rhein.html">Breisach</placeName>
+                </place>
+                <place xml:id="breisgau">
+                    <placeName ref="https://www.geonames.org/2944797/breisgau.html">Breisgau</placeName>
+                </place>
+                <place xml:id="broye_river">
+                    <placeName ref="https://www.geonames.org/2661376/broye.html">Broye, Fluss</placeName>
+                </place>
+                <place xml:id="bruchsal">
+                    <placeName ref="https://www.geonames.org/2943560/bruchsal.html">Bruchsal</placeName>
+                </place>
+                <place xml:id="bruessel">
+                    <placeName ref="https://www.geonames.org/2800866/brussels.html">Brüssel (Brussels, Bruxelles)</placeName>
+                </place>
+                <place xml:id="buda">
+                    <placeName ref="https://www.geonames.org/3054667/buda.html">Buda</placeName>
+                </place>
+                <place xml:id="burgdorf">
+                    <placeName ref="https://www.geonames.org/2941405/burgdorf.html">Burgdorf</placeName>
+                </place>
+                <place xml:id="butzbach">
+                    <placeName ref="https://www.geonames.org/2940512/butzbach.html">Butzbach</placeName>
+                </place>
+                <place xml:id="celle">
+                    <placeName ref="https://www.geonames.org/2940213/celle.html">Celle</placeName>
+                </place>
+                <place xml:id="cerdon">
+                    <placeName ref="https://www.geonames.org/3027899/cerdon.html">Cerdon</placeName>
+                </place>
+                <place xml:id="chancy">
+                    <placeName ref="https://www.geonames.org/2661219/chancy.html">Chancy</placeName>
+                </place>
+                <place xml:id="chateau-gaillard">
+                    <placeName ref="https://www.geonames.org/3026280/chateau-gaillard.html">Château-Gaillard</placeName>
+                </place>
+                <place xml:id="chatillon-en-michaille">
+                    <placeName ref="https://www.geonames.org/3026074/chatillon-en-michaille.html">Châtillon-en-Michaille</placeName>
+                </place>
+                <place xml:id="chastillonet">
+                    <placeName>Chastillonet</placeName>
+                    <note>1659 Schloss oder Burg am Fluss <rs type="place" ref="#ain_river">Ain</rs> in der Nähe von <rs type="place" ref="#chatillon-la-palud">Châtillon-la-Palud</rs>; nicht näher identifizierbar.</note>
+                </place>
+                <place xml:id="chatillon-la-palud">
+                    <placeName ref="https://www.geonames.org/3026067/chatillon-la-palud.html">Châtillon-la-Palud</placeName>
+                </place>
+                <place xml:id="china">
+                    <placeName ref="https://d-nb.info/gnd/4009937-4">China</placeName>
+                </place>
+                <place xml:id="clausthal">
+                    <placeName ref="https://www.geonames.org/2939996/clausthal.html">Clausthal</placeName>
+                </place>
+                <place xml:id="collonges">
+                    <placeName ref="https://www.geonames.org/3024306/collonges.html">Collonges</placeName>
+                </place>
+                <place xml:id="coppet">
+                    <placeName ref="https://www.geonames.org/2661124/coppet.html">Coppet</placeName>
+                </place>
+                <place xml:id="daenemark_koenigreich">
+                    <placeName ref="https://d-nb.info/gnd/4010877-6">Dänemark, Königreich</placeName>
+                </place>
+                <place xml:id="danzig">
+                    <placeName ref="https://www.geonames.org/3099434/gdansk.html">Danzig (Gdańsk)</placeName>
+                </place>
+                <place xml:id="darmstadt">
+                    <placeName ref="https://www.geonames.org/2938913/darmstadt.html">Darmstadt</placeName>
+                </place>
+                <place xml:id="dassow">
+                    <placeName ref="https://www.geonames.org/2938798/dassow.html">Dassow</placeName>
+                </place>
+                <place xml:id="demmin">
+                    <placeName ref="https://www.geonames.org/2938284/demmin.html">Demmin</placeName>
+                </place>
+                <place xml:id="deutschland">
+                    <placeName ref="https://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich deutscher Nation</placeName>
+                </place>
+                <place xml:id="dithmarschen">
+                    <placeName ref="https://d-nb.info/gnd/4012525-7">Dithmarschen</placeName>
+                </place>
+                <place xml:id="dornbusch">
+                    <placeName ref="https://www.geonames.org/2938140/dornbusch.html">Dornbusch</placeName>
+                </place>
+                <place xml:id="durlach">
+                    <placeName ref="https://www.geonames.org/2934469/durlach.html">Durlach</placeName>
+                </place>
+                <place xml:id="eberstadt">
+                    <placeName ref="https://www.geonames.org/2933895/eberstadt.html">Eberstadt</placeName>
+                </place>
+                <place xml:id="eiderstedt">
+                    <placeName ref="https://www.geonames.org/2931951/eiderstedt.html">Eiderstedt</placeName>
+                </place>
+                <place xml:id="elbe_river">
+                    <placeName ref="https://www.geonames.org/2931271/elbe-river.html">Elbe, Fluss</placeName>
+                </place>
+                <place xml:id="elbing">
+                    <placeName ref="https://www.geonames.org/3099759/elblag.html">Elbing (Elbląg)</placeName>
+                </place>
+                <place xml:id="elbing_river">
+                    <placeName ref="https://www.geonames.org/3099758/elblag.html">Elbing (Elbląg), Fluss</placeName>
+                </place>
+                <place xml:id="elmshorn">
+                    <placeName ref="https://www.geonames.org/2930821/elmshorn.html">Elmshorn</placeName>
+                </place>
+                <place xml:id="enkhuizen">
+                    <placeName ref="https://www.geonames.org/2756077/enkhuizen.html">Enkhuizen</placeName>
+                </place>
+                <place xml:id="europa">
+                    <placeName ref="https://www.geonames.org/6255148/europe.html">Europa</placeName>
+                </place>
+                <place xml:id="forez">
+                    <placeName ref="https://d-nb.info/gnd/4086515-0">Forez</placeName>
+                </place>
+                <place xml:id="fort_l_ecluse">
+                    <placeName ref="https://www.wikidata.org/wiki/Q3078389">Fort l'Écluse</placeName>
+                </place>
+                <place xml:id="frankfurt_main">
+                    <placeName ref="https://www.geonames.org/2925533/frankfurt-am-main.html">Frankfurt (Main)</placeName>
+                </place>
+                <place xml:id="frankreich_koenigreich">
+                    <placeName ref="https://d-nb.info/gnd/4018145-5">Frankreich, Königreich</placeName>
+                </place>
+                <place xml:id="fraubrunnen">
+                    <placeName ref="https://www.geonames.org/2660728/fraubrunnen.html">Fraubrunnen</placeName>
+                </place>
+                <place xml:id="frauenburg">
+                    <placeName ref="https://www.geonames.org/3099634/frombork.html">Frauenburg (Frombork)</placeName>
+                </place>
+                <place xml:id="freiburg">
+                    <placeName ref="https://www.geonames.org/2925177/freiburg.html">Freiburg im Breisgau</placeName>
+                </place>
+                <place xml:id="freiburg_fribourg">
+                    <placeName ref="https://www.geonames.org/2660718/fribourg.html">Freiburg (Fribourg)</placeName>
+                </place>
+                <place xml:id="friedberg">
+                    <placeName ref="https://www.geonames.org/2924802/friedberg.html">Friedberg</placeName>
+                </place>
+                <place xml:id="friedrichstadt">
+                    <placeName ref="https://www.geonames.org/2924477/friedrichstadt.html">Friedrichstadt</placeName>
+                </place>
+                <place xml:id="fritzlar">
+                    <placeName ref="https://www.geonames.org/2924326/fritzlar.html">Fritzlar</placeName>
+                </place>
+                <place xml:id="gallia_comata">
+                    <placeName ref="https://www.wikidata.org/wiki/Q1143159">Gallia Comata</placeName>
+                </place>
+                <place xml:id="gallien">
+                    <placeName ref="https://d-nb.info/gnd/4019150-3">Gallien</placeName>
+                </place>
+                <place xml:id="genf">
+                    <placeName ref="https://www.geonames.org/2660646/geneve.html">Genf</placeName>
+                </place>
+                <place xml:id="gemuenden_wohra">
+                    <placeName ref="https://www.geonames.org/2921375/gemuenden-an-der-wohra.html">Gemünden an der Wohra</placeName>
+                </place>
+                <place xml:id="genfer_see">
+                    <placeName ref="https://www.geonames.org/2660647/lake-geneva.html">Genfer See</placeName>
+                </place>
+                <place xml:id="giessen">
+                    <placeName ref="https://www.geonames.org/2920512/giessen.html">Gießen</placeName>
+                </place>
+                <place xml:id="gingst">
+                    <placeName ref="https://www.geonames.org/2920342/gingst.html">Gingst</placeName>
+                </place>                
+                <place xml:id="glueckstadt">
+                    <placeName ref="https://www.geonames.org/2919763/glueckstadt.html">Glückstadt</placeName>
+                </place>
+                <place xml:id="goleniow">
+                    <placeName ref="https://www.geonames.org/3098966/goleniow.html">Goleniów</placeName>
+                </place>
+                <place xml:id="goslar">
+                    <placeName ref="https://www.geonames.org/2918840/goslar.html">Goslar</placeName>
+                </place>
+                <place xml:id="goettingen">
+                    <placeName ref="https://www.geonames.org/2918632/goettingen.html">Göttingen</placeName>
+                </place>
+                <place xml:id="gotthardmassiv_mountains">
+                    <placeName ref="https://www.geonames.org/2658830/saint-gotthard.html">Gotthardmassiv, Gebirge</placeName>
+                </place>
+                <place xml:id="gottorf">
+                    <placeName ref="https://www.geonames.org/2918605/gottorf.html">Gottorf</placeName>
+                </place>
+                <place xml:id="grand_cret_d_eau_mountain">
+                    <placeName ref="https://www.geonames.org/3004013/le-grand-cret-d-eau.html">Grand Crêt d’Eau, Berg</placeName>
+                </place>
+                <place xml:id="granges">
+                    <placeName ref="https://www.geonames.org/2660526/granges.html">Granges</placeName>
+                </place>
+                <place xml:id="greifswald">
+                    <placeName ref="https://www.geonames.org/2917788/greifswald.html">Greifswald</placeName>
+                </place>
+                <place xml:id="groenland_island">
+                    <placeName ref="https://www.geonames.org/3422723/greenland.html">Grönland, Insel</placeName>
+                </place>
+                <place xml:id="groningen">
+                    <placeName ref="https://www.geonames.org/2755251/groningen.html">Groningen</placeName>
+                </place>
+                <place xml:id="gudensberg">
+                    <placeName ref="https://www.geonames.org/2913890/gudensberg.html">Gudensberg</placeName>
+                </place>
+                <place xml:id="guemmenen">
+                    <placeName ref="https://www.geonames.org/2660446/guemmenen.html">Gümmenen</placeName>
+                </place>
+                <place xml:id="haguenau">
+                    <placeName ref="https://www.geonames.org/3014078/haguenau.html">Haguenau</placeName>
+                </place>
+                <place xml:id="hamburg">
+                    <placeName ref="https://www.geonames.org/2911298/hamburg.html">Hamburg</placeName>
+                </place>
+                <place xml:id="harz">
+                    <placeName ref="https://www.geonames.org/2909965/harz.html">Harz</placeName>
+                </place>
+                <place xml:id="heide">
+                    <placeName ref="https://www.geonames.org/2908032/heide.html">Heide</placeName>
+                </place>
+                <place xml:id="heidelberg">
+                    <placeName ref="https://www.geonames.org/2907911/heidelberg.html">Heidelberg</placeName>
+                </place>
+                <place xml:id="heiligenbeil">
+                    <placeName ref="https://www.geonames.org/2609901/mamonovo.html">Heiligenbeil (Mamonovo)</placeName>
+                </place>
+                <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="https://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich (deutscher Nation)</placeName>
+                </place>
+                <place xml:id="heitersheim">
+                    <placeName ref="https://www.geonames.org/2907068/heitersheim.html">Heitersheim</placeName>
+                </place>
+                <place xml:id="helmstedt">
+                    <placeName ref="https://www.geonames.org/2906676/helmstedt.html">Helmstedt</placeName>
+                </place>
+                <place xml:id="hessen_landgrafschaft">
+                    <placeName ref="https://d-nb.info/gnd/4072471-2">Landgrafschaft Hessen-Darmstadt</placeName>
+                </place>
+                <place xml:id="hildesheim">
+                    <placeName ref="https://www.geonames.org/2904789/hildesheim.html">Hildesheim</placeName>
+                </place>
+                <place xml:id="hoechst">
+                    <placeName ref="https://www.geonames.org/2903019/hoechst.html">Höchst</placeName>
+                </place>
+                <place xml:id="holstein_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/112347-6">Holstein, Herzogtum</placeName>
+                </place>
+                <place xml:id="husum">
+                    <placeName ref="https://www.geonames.org/2897132/husum.html">Husum</placeName>
+                </place>
+                <place xml:id="ill_river">
+                    <placeName ref="https://www.geonames.org/3012855/ill.html">Ill, Fluss</placeName>
+                </place>
+                <place xml:id="indien">
+                    <placeName ref="https://www.geonames.org/1269750/republic-of-india.html">Indien</placeName>
+                </place>
+                <place xml:id="italien">
+                    <placeName ref="https://d-nb.info/gnd/4027833-5">Italien</placeName>
+                </place>
+                <place xml:id="itzehoe">
+                    <placeName ref="https://www.geonames.org/2895569/itzehoe.html">Itzehoe</placeName>
+                </place>
+                <place xml:id="ijsselmeer">
+                    <placeName ref="https://www.geonames.org/2753361/ijsselmeer.html">Ijsselmeer</placeName>
+                </place>
+                <place xml:id="japan">
+                    <placeName ref="https://d-nb.info/gnd/4028495-5">Japan</placeName>
+                </place>
+                <place xml:id="jasmund">
+                    <placeName ref="https://www.geonames.org/2895140/jasmund.html">Jasmund</placeName>
+                </place>
+                <place xml:id="jorat">
+                    <placeName ref="https://www.geonames.org/2660218/jorat.html">Jorat</placeName>
+                </place>
+                <place xml:id="jura_mountains">
+                    <placeName ref="https://www.geonames.org/3012052/jura.html">Jura, Gebirge</placeName>
+                </place>
+                <place xml:id="kaschubei">
+                    <placeName ref="https://d-nb.info/gnd/4284575-0">Kaschubei (Kaszuby)</placeName>
+                </place>
+                <place xml:id="kassel">
+                    <placeName ref="https://www.geonames.org/2892518/kassel.html">Kassel</placeName>
+                </place>
+                <place xml:id="kehl">
+                    <placeName ref="https://www.geonames.org/2891951/kehl.html">Kehl</placeName>
+                </place>
+                <place xml:id="kellinghusen">
+                    <placeName ref="https://www.geonames.org/2891750/kellinghusen.html">Kellinghusen</placeName>
+                </place>
+                <place xml:id="koerlin">
+                    <placeName ref="https://www.geonames.org/3096630/karlino.html">Körlin (Karlino)</placeName>
+                </place>
+                <place xml:id="koeslin">
+                    <placeName ref="https://www.geonames.org/3095049/koszalin.html">Köslin (Koszalin)</placeName>
+                </place>
+                <place xml:id="koenigsberg">
+                    <placeName ref="https://www.geonames.org/554234/kaliningrad.html">Königsberg (Kaliningrad)</placeName>
+                </place>
+                <place xml:id="krozingen">
+                    <placeName ref="https://www.geonames.org/2953414/bad-krozingen.html">Krozingen (Bad Krozingen)</placeName>
+                </place>
+                <place xml:id="la_boisse">
+                    <placeName ref="https://www.geonames.org/3011008/la-boisse.html">La Boisse</placeName>
+                </place>
+                <place xml:id="lac_de_natua">
+                    <placeName ref="https://www.geonames.org/2990930/lac-de-nantua.html">Lac de Nantua</placeName>
+                </place>
+                <place xml:id="la_duchere">
+                    <placeName ref="https://www.geonames.org/12047865/la-duchere.html">La Duchère</placeName>
+                    <note>Früher Meierhof vor den Toren Lyons; heute zum Stadtgebiet gehörig.</note>
+                </place>
+                <place xml:id="langgoens">
+                    <placeName ref="https://www.geonames.org/2880672/langgoens.html">Langgöns</placeName>
+                </place>
+                <place xml:id="langenbruck">
+                    <placeName ref="https://www.geonames.org/7286257/langenbruck.html">Langenbruck</placeName>
+                </place>
+                <place xml:id="lauenburg">
+                    <placeName ref="https://www.geonames.org/3093739/lebork.html">Lauenburg (Lębork)</placeName>
+                </place>
+                <place xml:id="lausanne">
+                    <placeName ref="https://www.geonames.org/2659994/lausanne.html">Lausanne</placeName>
+                </place>
+                <place xml:id="la_valbonne">
+                    <placeName ref="https://www.geonames.org/3005852/la-valbonne.html">La Valbonne</placeName>
+                </place>
+                <place xml:id="liestal">
+                    <placeName ref="https://www.geonames.org/2659891/liestal.html">Liestal</placeName>
+                </place>
+                <place xml:id="litauen_grossfuerstentum">
+                    <placeName ref="https://d-nb.info/gnd/4499060-1">Litauen, Großfürstentum</placeName>
+                </place>
+                <place xml:id="loitz">
+                    <placeName ref="https://www.geonames.org/2876043/loitz.html">Loitz</placeName>
+                </place>
+                <place xml:id="lucens">
+                    <placeName ref="https://www.geonames.org/2659840/lucens.html">Lucens</placeName>
+                </place>
+                <place xml:id="luebeck">
+                    <placeName ref="https://www.geonames.org/2875601/luebeck.html">Lübeck</placeName>
+                </place>
+                <place xml:id="lueneburg">
+                    <placeName ref="https://www.geonames.org/2875115/lueneburg.html">Lüneburg</placeName>
+                </place>
+                <place xml:id="lyon">
+                    <placeName ref="https://www.geonames.org/2996944/lyon.html">Lyon</placeName>
+                </place>
+                <place xml:id="lyonnais">
+                    <placeName ref="https://d-nb.info/gnd/4099957-9">Lyonnais</placeName>
+                </place>
+                <place xml:id="magdeburg">
+                    <placeName ref="https://www.geonames.org/2874545/magdeburg.html">Magdeburg</placeName>
+                </place>
+                <place xml:id="main_river">
+                    <placeName ref="https://www.geonames.org/2874265/main.html">Main, Fluss</placeName>
+                </place>
+                <place xml:id="marburg">
+                    <placeName ref="https://www.geonames.org/2873759/marburg-an-der-lahn.html">Marburg</placeName>
+                </place>
+                <place xml:id="marckolsheim">
+                    <placeName ref="https://www.geonames.org/2995936/marckolsheim.html">Marckolsheim</placeName>
+                </place>
+                <place xml:id="marienburg">
+                    <placeName ref="https://www.geonames.org/3092472/malbork.html">Marienburg (Malbork)</placeName>
+                </place>
+                <place xml:id="mecklenburg_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/16219083-9">Mecklenburg, Herzogtum</placeName>
+                </place>
+                <place xml:id="megemont_abtei">
+                    <placeName ref="https://www.geonames.org/11184288/abbaye-de-megemont.html">Mègemont, Abtei</placeName>
+                </place>
+                <place xml:id="meldorf">
+                    <placeName ref="https://www.geonames.org/2872100/meldorf.html">Meldorf</placeName>
+                </place>
+                <place xml:id="mewe">
+                    <placeName ref="https://www.geonames.org/3099127/gniew.html">Mewe (Gniev)</placeName>
+                </place>
+                <place xml:id="minde">
+                    <placeName>Minde</placeName>
+                    <note>Vermutlich ORtsteil von <rs type="place" ref="#gemuenden_wohra">Gemünden an der Wohra</rs>.</note>
+                </place>
+                <place xml:id="mittelmeer">
+                    <placeName ref="https://www.geonames.org/363196/mediterranean-sea.html">Mittelmeer</placeName>
+                </place>                
+                <place xml:id="morges">
+                    <placeName ref="https://www.geonames.org/2659587/morges.html">Morges</placeName>
+                </place>
+                <place xml:id="moskauer_reich">
+                    <placeName ref="https://d-nb.info/gnd/4301291-7">Moskauer Reich</placeName>
+                </place>
+                <place xml:id="moudon">
+                    <placeName ref="https://www.geonames.org/2659569/moudon.html">Moudon</placeName>
+                </place>
+                <place xml:id="muenden">
+                    <placeName ref="https://www.geonames.org/2867613/hannoversch-muenden.html">Hannoversch Münden</placeName>
+                </place>
+                <place xml:id="murten">
+                    <placeName ref="https://www.geonames.org/2659529/murten-morat.html">Murten (Morat)</placeName>
+                </place>
+                <place xml:id="murtensee">
+                    <placeName ref="https://www.geonames.org/2659528/murtensee.html">Murtensee</placeName>
+                </place>
+                <place xml:id="nantua">
+                    <placeName ref="https://www.geonames.org/2990932/nantua.html">Nantua</placeName>
+                </place>
+                <place xml:id="naugard">
+                    <placeName ref="https://www.geonames.org/3090558/nowogard.html">Naugard (Nowogard)</placeName>
+                </place>
+                <place xml:id="neckar_river">
+                    <placeName ref="https://www.geonames.org/2866784/neckar.html">Neckar, Fluss</placeName>
+                </place>
+                <place xml:id="neu-falkenstein_burg">
+                    <placeName ref="https://d-nb.info/gnd/4804773-9">Neu-Falkenstein, Burg</placeName>
+                </place>
+                <place xml:id="neustadt">
+                    <placeName ref="https://www.geonames.org/3082473/wejherowo.html">Neustadt (Wejherowo)</placeName>
+                </place>
+                <place xml:id="neuville-sur-saone">
+                    <placeName ref="https://www.geonames.org/2990516/neuville-sur-saone.html">Neuville-sur-Saône</placeName>
+                </place>
+                <place xml:id="niederbipp">
+                    <placeName ref="https://www.geonames.org/2659470/niederbipp.html">Niederbipp</placeName>
+                </place>
+                <place xml:id="niederlande_vereinigte">
+                    <placeName ref="https://d-nb.info/gnd/5210337-7">Niederlande, Vereinigte (Republik der Sieben Vereinigten Provinzen)</placeName>
+                </place>
+                <place xml:id="nogat_river">
+                    <placeName ref="https://www.geonames.org/3090832/nogat.html">Nogat, Fluss</placeName>
+                </place>
+                <place xml:id="nuernberg">
+                    <placeName ref="https://www.geonames.org/2861650/nuernberg.html">Nürnberg</placeName>
+                </place>
+                <place xml:id="nyon">
+                    <placeName ref="https://www.geonames.org/2659422/nyon.html">Nyon</placeName>
+                </place>
+                <place xml:id="oberbipp">
+                    <placeName ref="https://www.geonames.org/2659408/oberbipp.html">Oberbipp</placeName>
+                </place>
+                <place xml:id="oberer_hauenstein_pass">
+                    <placeName ref="https://www.geonames.org/11075205/oberer-hauenstein.html">Oberer Hauenstein, Pass</placeName>
+                </place>
+                <place xml:id="oldenburg">
+                    <placeName ref="https://www.geonames.org/2857458/oldenburg.html">Oldenburg</placeName>
+                </place>
+                <place xml:id="orleans">
+                    <placeName ref="https://www.geonames.org/2989317/orleans.html">Orléans</placeName>
+                </place>
+                <place xml:id="osmanisches_reich">
+                    <placeName ref="https://d-nb.info/gnd/4075720-1">Osmanisches Reich</placeName>
+                </place>
+                <place xml:id="osterode">
+                    <placeName ref="https://www.geonames.org/2856405/osterode-am-harz.html">Osterode am Harz</placeName>
+                </place>
+                <place xml:id="ostindien">
+                    <placeName ref="https://d-nb.info/gnd/4116816-1">Ostindien</placeName>
+                    <note>Vorder- und Hinterindien sowie Malaiischer Archipel.</note>
+                </place>
+                <place xml:id="ostsee">
+                    <placeName ref="https://www.geonames.org/2633321/baltic-sea.html">Ostsee</placeName>
+                </place>
+                <place xml:id="paris">
+                    <placeName ref="https://www.geonames.org/2988507/paris.html">Paris</placeName>
+                </place>
+                <place xml:id="passefern">
+                    <placeName>Passefern ("Gehe fort")</placeName>
+                    <note>Dorf zwischen Murten und Peterlingen. Nicht näher zu identifizieren.</note>
+                </place>
+                <place xml:id="persien">
+                    <placeName ref="https://d-nb.info/gnd/4027653-3">Persien (Iran)</placeName>
+                </place>
+                <place xml:id="perte_du_rhone">
+                    <placeName ref="https://www.wikidata.org/wiki/Q3376149">Perte du Rhône</placeName>
+                </place>
+                <place xml:id="peterlingen">
+                    <placeName ref="https://www.geonames.org/2659243/payerne.html">Peterlingen (Payerne)</placeName>
+                </place>
+                <place xml:id="pinneberg">
+                    <placeName ref="https://www.geonames.org/2853658/pinneberg.html">Pinneberg</placeName>
+                </place>
+                <place xml:id="plathe">
+                    <placeName ref="https://www.geonames.org/3088788/ploty.html">Plathe (Płoty)</placeName>
+                </place>
+                <place xml:id="polen_koenigreich">
+                    <placeName ref="https://d-nb.info/gnd/1060577984">Polen, Königreich</placeName>
+                </place>
+                <place xml:id="pommern_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/17241-8">Pommern, Herzogtum</placeName>
+                </place>
+                <place xml:id="prag">
+                    <placeName ref="https://www.geonames.org/3067696/prague.html">Prag</placeName>
+                </place>
+                <place xml:id="preussen_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/4137053-3">Preußen, Herzogtum</placeName>
+                </place>
+                <place xml:id="preussisch_holland">
+                    <placeName ref="https://www.geonames.org/3089392/paslek.html">Preußisch Holland (Pasłęk)</placeName>
+                </place>
+                <place xml:id="reselkow">
+                    <placeName ref="https://www.geonames.org/2983362/roanne.html">Reselkow (Rzesznikowo)</placeName>
+                </place>
+                <place xml:id="rhein_river">
+                    <placeName ref="https://www.geonames.org/10347650/rhein.html">Rhein, Fluss</placeName>
+                </place>
+                <place xml:id="rhone_river">
+                    <placeName ref="https://www.geonames.org/2983752/rhone.html">Rhône, Fluss</placeName>
+                </place>
+                <place xml:id="roanne">
+                    <placeName ref="https://www.geonames.org/2983362/roanne.html">Roanne</placeName>
+                </place>   
+                <place xml:id="rolle">
+                    <placeName ref="https://www.geonames.org/2658989/rolle.html">Rolle</placeName>
+                </place>
+                <place xml:id="rom">
+                    <placeName ref="https://www.geonames.org/3169070/rome.html">Rom</placeName>
+                </place>
+                <place xml:id="ruegen_island">
+                    <placeName ref="https://www.geonames.org/2843325/ruegen-island.html">Rügen, Insel</placeName>
+                </place>
+                <place xml:id="saane_river">
+                    <placeName ref="https://www.geonames.org/2658790/sarine.html">Saane (Sarine), Fluss</placeName>
+                </place>
+                <place xml:id="saint-aubin">
+                    <placeName ref="https://www.geonames.org/2658879/saint-aubin.html">Saint Aubin</placeName>
+                </place>
+                <place xml:id="saint-prex">
+                    <placeName ref="https://www.geonames.org/2658862/saint-prex.html">Saint-Prex</placeName>
+                </place>
+                <place xml:id="saone_river">
+                    <placeName ref="https://www.geonames.org/2976083/saone.html">Saône, Fluss</placeName>
+                </place>
+                <place xml:id="savoyen_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/4051850-4">Savoyen, Herzogtum</placeName>
+                </place>
+                <place xml:id="schlawe">
+                    <placeName ref="https://www.geonames.org/3085610/slawno.html">Schlawe (Sławno)</placeName>
+                </place>
+                <place xml:id="schlesien">
+                    <placeName ref="https://www.geonames.org/3066138/silesia.html">Schlesien</placeName>
+                </place>
+                <place xml:id="schleswig">
+                    <placeName ref="https://www.geonames.org/2838634/schleswig.html">Schleswig</placeName>
+                </place>
+                <place xml:id="schliengen">
+                    <placeName ref="https://www.geonames.org/2838534/schliengen.html">Schliengen</placeName>
+                </place>
+                <place xml:id="schweden_koenigreich">
+                    <placeName ref="https://d-nb.info/gnd/4077258-5">Schweden, Königreich</placeName>
+                </place>
+                <place xml:id="schweiz">
+                    <placeName ref="https://www.geonames.org/2658434/switzerland.html">Schweiz</placeName>
+                </place>
+                <place xml:id="schweizer_alpen_mountains">
+                    <placeName ref="https://d-nb.info/gnd/4077275-5">Schweizer Alpen, Gebirger</placeName>
+                </place>
+                <place xml:id="segeberg">
+                    <placeName ref="https://www.geonames.org/2953341/bad-segeberg.html">Segeberg (Bad Segeberg)</placeName>
+                </place>
+                <place xml:id="seyssel">
+                    <placeName ref="https://www.geonames.org/2974649/seyssel.html">Seyssel</placeName>
+                </place>
+                <place xml:id="solothurn">
+                    <placeName ref="https://www.geonames.org/2658564/solothurn.html">Solothurn</placeName>
+                </place>
+                <place xml:id="speyer">
+                    <placeName ref="https://www.geonames.org/2830582/speyer.html">Speyer</placeName>
+                </place>
+                <place xml:id="stettin">
+                    <placeName ref="https://www.geonames.org/3083829/szczecin.html">Stettin (Szczecin)</placeName>
+                </place>
+                <place xml:id="stollhofen">
+                    <placeName ref="https://www.geonames.org/2826555/stollhofen.html">Stollhofen</placeName>
+                </place>
+                <place xml:id="stolpe">
+                    <placeName ref="https://www.geonames.org/3085450/slupsk.html">Stolpe (Słupsk)</placeName>
+                </place>
+                <place xml:id="stralsund">
+                    <placeName ref="https://www.geonames.org/2826287/stralsund.html">Stralsund</placeName>
+                </place>
+                <place xml:id="strassburg">
+                    <placeName ref="https://www.geonames.org/2973783/strasbourg.html">Straßburg (Strasbourg)</placeName>
+                </place>
+                <place xml:id="strukdorf">
+                    <placeName ref="https://www.geonames.org/2825641/strukdorf.html">Strukdorf</placeName>
+                </place>
+                <place xml:id="stuttgart">
+                    <placeName ref="https://www.geonames.org/2825297/stuttgart.html">Stuttgart</placeName>
+                </place>
+                <place xml:id="surpierre_castle">
+                    <placeName ref="https://www.geonames.org/11540775/le-chateau.html">Surpierre, Schloss (früher auch: Schloss Überstein)</placeName>
+                </place>
+                <place xml:id="tatarei">
+                    <placeName ref="https://www.wikidata.org/wiki/Q83971">Tatarei</placeName>
+                </place>
+                <place xml:id="trave_river">
+                    <placeName ref="https://www.geonames.org/2821483/trave.html">Trave, Fluss</placeName>
+                </place>                
+                <place xml:id="travemuende">
+                    <placeName ref="https://www.geonames.org/2821480/travemuende.html">Travemünde</placeName>
+                </place>
+                <place xml:id="trent">
+                    <placeName ref="https://www.geonames.org/2821319/trent.html">Trent</placeName>
+                </place>
+                <place xml:id="trier">
+                    <placeName ref="https://www.geonames.org/2821164/trier.html">Trier</placeName>
+                </place>
+                <place xml:id="ueckermuende">
+                    <placeName ref="https://www.geonames.org/6550738/ueckermuende.html">Ueckermünde</placeName>
+                </place> 
+                <place xml:id="ungarn">
+                    <placeName ref="https://www.wikidata.org/wiki/Q253094">Ungarn, Königliches</placeName>
+                </place>
+                <place xml:id="vesuv">
+                    <placeName ref="https://www.geonames.org/2727909/vesuv.html">Vesuv</placeName>
+                </place>
+                <place xml:id="vogesen_mountains">
+                    <placeName ref="https://www.geonames.org/2967682/vosges.html">Vogesen, Gebirge</placeName>
+                </place>
+                <place xml:id="vorderoesterreich">
+                    <placeName ref="https://d-nb.info/gnd/4063961-7">Vorderösterreich</placeName>
+                </place>
+                <place xml:id="waldenburg">
+                    <placeName ref="https://www.geonames.org/2658071/waldenburg.html">Waldenburg</placeName>
+                </place>
+                <place xml:id="weichsel_river">
+                    <placeName ref="https://www.geonames.org/3081873/vistula.html">Weichsel (Vistula), Fluss</placeName>
+                </place>
+                <place xml:id="weingarten">
+                    <placeName ref="https://www.geonames.org/2812204/weingarten.html">Weingarten</placeName>
+                </place>
+                <place xml:id="weinheim">
+                    <placeName ref="https://www.geonames.org/2812174/weinheim.html">Weinheim</placeName>
+                </place>
+                <place xml:id="westindien">
+                    <placeName ref="https://d-nb.info/gnd/4079228-6">Westindien</placeName>
+                    <note>Karibische Inseln, im weiteren Sinne Mittel- und Südamerika.</note>
+                </place>
+                <place xml:id="wetterau">
+                    <placeName ref="https://www.geonames.org/2809977/wetterau.html">Wetterau</placeName>
+                </place>
+                <place xml:id="wiedlisbach">
+                    <placeName ref="https://www.geonames.org/2658006/wiedlisbach.html">Wiedlisbach</placeName>
+                </place>
+                <place xml:id="wiesental">
+                    <placeName ref="https://www.geonames.org/2809207/wiesental.html">Wiesental</placeName>
+                </place>
+                <place xml:id="wilda">
+                    <placeName ref="https://www.geonames.org/3081969/wilda.html">Wilda</placeName>
+                </place>
+                <place xml:id="wildungen">
+                    <placeName ref="https://www.geonames.org/2953317/bad-wildungen.html">Bad Wildungen</placeName>
+                </place>
+                <place xml:id="winsen">
+                    <placeName ref="https://www.geonames.org/6552157/winsen.html">Winsen</placeName>
+                </place>
+                <place xml:id="wohra_river">
+                    <placeName ref="https://www.geonames.org/2807004/wohra.html">Wohra, Fluss</placeName>
+                </place>
+                <place xml:id="wolfenbuettel">
+                    <placeName ref="https://www.geonames.org/2806914/wolfenbuettel.html">Wolfenbüttel</placeName>
+                </place>
+                <place xml:id="wolfenweiler">
+                    <placeName ref="https://www.geonames.org/2806903/wolfenweiler.html">Wolfenweiler</placeName>
+                </place>
+                <place xml:id="worms">
+                    <placeName ref="https://www.geonames.org/2806142/worms.html">Worms</placeName>
+                </place>
+                <place xml:id="zanow">
+                    <placeName ref="https://www.geonames.org/3086134/sianow.html">Zanow (Sianów)</placeName>
+                </place>  
+                <place xml:id="zuerich">
+                    <placeName ref="https://www.geonames.org/2657896/zuerich.html">Zürich</placeName>
+                </place>
+                <place xml:id="zuerich_stadtrepublik">
+                    <placeName ref="https://d-nb.info/gnd/1086246462">Zürich, Stadtrepublik</placeName>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

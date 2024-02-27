@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+   <folder>
+      <Placemark>
+         <name>Aken
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#aken"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>12.04461,51.85274</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Aleppo
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#aleppo"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>37.16117,36.20124</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Alfeld
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#alfeld"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.81989,51.98382</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Aller; Fluss
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#aller_river"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.18439,52.94632</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Altona
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#altona"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.93333,53.55</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ampleben
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ampleben"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.74703,52.17825</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Amsterdam
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#amsterdam"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>4.88969,52.37403</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Angers
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#angers"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>-0.55202,47.47156</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Antwerpen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#antwerpen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>4.40026,51.22047</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Arnstadt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#arnstadt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.95198,50.84048</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Aschaffenburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#aschaffenburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.15214,49.97704</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schloss Johannisburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#aschaffenburg_schloss_johannisburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.14168,49.97604</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Augsburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#augsburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.89851,48.37154</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Aurich
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#aurich"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.48232,53.46919</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bacharach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bacharach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.76948,50.05725</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bamberg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bamberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.90067,49.89873</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Berlin
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#berlin"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>13.41053,52.52437</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bevern
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bevern"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.49408,51.85826</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Biebrich
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#biebrich"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.24878,50.0415</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bingen; Mäuseturm
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bingen_maeuseturm"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.88008,49.972</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Binger Loch
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#binger_loch"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.87711,49.97353</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bissingen (Bayern)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bissingen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.61766,48.71694</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Blankenburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#blankenburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.95509,51.79025</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bockelskamp (Wienhausen)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bockelskamp"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.14845,52.57849</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Boppard
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#boppard"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.58992,50.23085</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Boxtal
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#boxtal"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.40205,49.7636</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Braubach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#braubach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.64508,50.2736</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Braunlage
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#braunlage"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.6109,51.72651</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Braunschweig
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#braunschweig"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.52673,52.26594</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bremen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bremen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.80717,53.07582</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Broistedt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#broistedt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.33058,52.18656</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bruchhausen (Bruchhausen-Vilsen)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bruchhausen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.99066,52.82931</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Brüggen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#brueggen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.7745,52.0425</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Brüssel
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bruessel"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>4.34878,50.85045</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bückeburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#bueckeburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.04939,52.26065</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Burgdorf
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#burgdorf"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.0064,52.44628</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Bürgstadt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#buergstadt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.26916,49.71476</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Butzbach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#butzbach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.67122,50.43395</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Celle
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#celle"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.08047,52.62264</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Châtelet
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#châtelet"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>4.52826,50.40338</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Coburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#coburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.96384,50.25937</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Cornberg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#cornberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.86051,51.0416</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Corvey; Kloster
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#corvey_kloster"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.41043,51.77819</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Cramme
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#cramme"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.44671,52.11331</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Darmstadt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#darmstadt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.65027,49.87167</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Delmenhorst
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#delmenhorst"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.63091,53.0511</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Delitzsch
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#delitzsch"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>12.34284,51.52546</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Dinkelsbühl
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#dinkelsbuehl"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.31985,49.06942</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Dorfprozelten
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#dorfprozelten"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.38028,49.78056</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Dresden
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#dresden"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>13.73832,51.05089</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Duderstadt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#duderstadt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.25951,51.51312</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Eisenach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#eisenach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.31522,50.9807</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Eisfeld
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#eisfeld"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.90695,50.42648</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Elm; Höhenzug
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#elm"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.81186,52.18015</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Elsenfeld
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#elsenfeld"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.16355,49.84289</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ems (Bad Ems)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ems"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.71369,50.33544</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Erfurt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#erfurt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.03283,50.9787</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Erlangen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#erlangen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.00783,49.59099</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Erlenbach am Main
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#erlenbach_am_main"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.16311,49.80341</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Esens
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#esens"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.61267,53.64866</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Etsch (Adige); Fluss
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#etsch_river"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>12.32806,45.16278</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Europa
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#europa"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.14062,48.69096</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Faulbach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#faulbach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.44417,49.78528</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Königstein; Festung
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#festung_koenigstein"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>14.05581,50.91911</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ferrara
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ferrara"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.62071,44.82678</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Frankfurt (Main)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#frankfurt_main"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.68417,50.11552</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Frauenwald
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#frauenwald"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.85841,50.5843</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Fraustadt (Wschowa)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#fraustadt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>16.31663,51.80705</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Freudenberg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#freudenberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.32917,49.745</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Friedberg (Hessen)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#friedberg_hessen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.75591,50.33739</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Friedeburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#friedeburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.83333,53.45</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Fritzlar
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#fritzlar"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.27557,51.13181</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>(Bad) Gandersheim
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gandersheim"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.02537,51.87167</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Geesthacht
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#geesthacht"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.3779,53.43575</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Gießen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#giessen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.67554,50.58727</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Gilserberg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gilserberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.06667,50.95</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Gleußen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gleussen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.89836,50.13493</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Gotha
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gotha"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.70193,50.94823</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Gottorf
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gottorf"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.54082,54.51188</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Großdahlum (Voigtsdahlum)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gross_dahlum"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.85072,52.13981</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Groß Flöthe
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gross_floethe"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.46946,52.08763</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Großheubach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#grossheubach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.2228,49.72834</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Groß Vahlberg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gross_vahlberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.69811,52.1376</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Großwallstadt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#grosswallstadt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.15338,49.87936</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Grünenwört
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gruenenwoert"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.46925,49.77024</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Gunzenhausen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#gunzenhausen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.75971,49.11663</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hademstorf
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hademstorf"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.6314,52.71373</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hahnenklee
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hahnenklee"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.33925,51.85969</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Halberstadt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#halberstadt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.05622,51.89562</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Halchter
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#halchter"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.54548,52.14302</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hamburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hamburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.99302,53.55073</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hanau
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hanau"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.91418,50.13423</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hannover
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hannover"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.73322,52.37052</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Harz
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#harz"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.63462,51.75619</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Heute Bad Harzburg; am nördlichen Harzrand gelegen; Standort einer einst kaiserlichen Reichsburg auf dem Burgberg; später Sitz des nach der Harzburg benannten Amtes im Fürstentum Braunschweig-Wolfenbüttel; die benachbarte Neustadt hatte seit dem 16. Jahrhundert vom fürstlichen Salinenbetrieb prosperiert und sich anschließend zu einer bedeutenden Kur- und Badestadt entwickelt; die sich seit 1892 Bad Harzburg nennen darf.
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#harzburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.56157,51.88268</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hasloch
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hasloch"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.49361,49.79194</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hedwigsburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hedwigsburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.58327,52.10953</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hehlen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hehlen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.47004,51.98858</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Helmstedt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#helmstedt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.00985,52.2279</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Henriettenthal
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#henriettenthal"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.24367,50.26133</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Herrenhausen; Schloss
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#herrenhausen_schloss"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.69698,52.39184</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hessen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hessen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.779,52.01702</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hildesheim
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hildesheim"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.95112,52.15077</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hils
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hils"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.83139,51.8966</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hirschaid
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hirschaid"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.98918,49.81789</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Höchstädt an der Donau
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hoechstaedt_an_der_donau"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.56816,48.61124</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Hohenaltheim
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hohenaltheim"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.53486,48.78402</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Holzminden
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#holzminden"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.4455,51.82798</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>(Bad) Homburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#homburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.61816,50.22683</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Höchst am Main
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#hoechst_am_main"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.53861,50.09581</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ichtershausen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ichtershausen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.97028,50.87602</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Idstein
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#idstein"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.26679,50.21773</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ilmenau
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ilmenau"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.91858,50.68322</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ilsenburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ilsenburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.67817,51.86695</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Isny
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#isny"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.03857,47.6926</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Kastel
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#kastel"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.28291,50.00994</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Kassel
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#kassel"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.5,51.31667</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Kelsterbach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#kelsterbach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.52916,50.06135</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Kirtorf
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#kirtorf"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.10389,50.76942</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Kleinheubach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#kleinheubach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.21346,49.72109</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Klein Vahlberg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#klein_vahlberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.71836,52.12337</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Kleinwallstadt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#kleinwallstadt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.16927,49.87464</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Klingenberg am Main
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#klingenberg_main"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.18025,49.78507</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Koblenz
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#koblenz"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.57883,50.35357</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Kölleda
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#koelleda"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.24488,51.18745</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Köln
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#koeln"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>6.95,50.93333</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Königslutter
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#koenigslutter"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.81683,52.25116</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Königshofen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#koenigshofen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.73482,49.54618</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Konstantinopel (İstanbul)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#konstantinopel"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>28.94966,41.01384</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Kopenhagen (København)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#kopenhagen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>12.56553,55.67594</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Küblingen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#kueblingen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.78737,52.14603</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Kulmbach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#kulmbach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.45032,50.10068</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lahn; Fluss
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#lahn_river"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.59827,50.30789</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lahnstein
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#lahnstein"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.61667,50.3</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Langeleben
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#langeleben"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.81436,52.20783</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Langlingen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#langlingen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.28291,52.55593</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Langelsheim
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#langelsheim"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.33264,51.93789</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Langwedel
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#langwedel"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.18542,52.97864</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Laudenbach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#laudenbach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.17611,49.74583</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Leipzig
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#leipzig"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>12.37129,51.33962</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lichtenberg (Salzgitter)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#lichtenberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.29058,52.12875</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lucklum
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#lucklum"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.68942,52.20517</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lüneburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#lueneburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.41409,53.2509</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lutter am Barenberge
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#lutter_am_barenberge"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.2693,51.98943</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Magdeburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#magdeburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.62916,52.12773</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mailand
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#mailand"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.14586,45.45186</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Main; Fluss
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#main_river"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.29447,49.99427</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mainz
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#mainz"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.2791,49.98419</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mansfeld
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#mansfeld"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.45223,51.59234</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Marburg an der Lahn
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#marburg_lahn"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.77069,50.80904</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Meiningen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#meiningen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.41521,50.56787</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Merseburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#merseburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.98923,51.35478</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Milet
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#milet"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>27.27937,37.53066</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Miltenberg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#miltenberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.2606,49.7036</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Minden
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#minden"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.91455,52.28953</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Modena
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#modena"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.9192,44.65587</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mondfeld
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#mondfeld"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.41731,49.78229</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Montpellier
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#montpellier"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>3.87635,43.61093</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mosel; Fluss
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#mosel_river"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.6,50.3638</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mönchdeggingen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#moenchsdeggingen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.58043,48.77605</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Mönchsroth;
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#moenchsroth"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.35856,49.01851</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Münster
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#muenster"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.62571,51.96236</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Namur
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#namur"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>4.86746,50.4669</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Narva
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#narva"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>28.19028,59.37722</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Nassau (Lahn)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#nassau_lahn"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.80025,50.31453</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Neapel
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#neapel"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>14.41667,40.88333</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Neuburg an der Donau
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#neuburg_donau"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.18709,48.73218</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Niedernberg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#niedernberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.13694,49.91222</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Niederrimbach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#niederrimbach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.99661,49.47469</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Northeim
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#northeim"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.99997,51.70662</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Nördlingen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#noerdlingen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.48868,48.85122</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Nürnberg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#nuernberg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.07752,49.45421</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Obernburg am Main
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#obernburg_am_main"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.13101,49.83577</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Obernau
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#obernau"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.13177,49.93694</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Oberwerth
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#oberwerth"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.58974,50.33684</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Oderwald
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#oderwald"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.51553,52.10925</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Oettingen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#oettingen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.60465,48.95274</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ohof
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ohof"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.30865,52.45095</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Ohrum
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ohrum"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.56284,52.12084</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Oker; Fluss
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#oker_river"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.35873,52.52144</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Oldenburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#oldenburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.21467,53.14118</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Olmütz (Olomouc)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#olmuetz"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>17.25175,49.59552</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Orléans
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#orleans"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>1.90389,47.90289</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Osnabrück
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#osnabrueck"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.0498,52.27264</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Paderborn
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#paderborn"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.75439,51.71905</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Paris
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#paris"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>2.3488,48.85341</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Peine
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#peine"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.2352,52.31928</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Plön
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ploen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.42333,54.16241</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Poznan
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#posen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>16.92993,52.40692</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pyrmont (Bad Pyrmont)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#pyrmont"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.25246,51.98589</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Quedlinburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#quedlinburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.15006,51.78843</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rastatt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#rastatt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.20965,48.85851</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Reistenhausen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#reistenhausen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.31752,49.77294</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Regensburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#regensburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>12.10161,49.01513</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rendsburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#rendsburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.66313,54.30663</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rhein; Fluss
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#rhein_river"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>5.91545,51.97198</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rheinfels; Festung
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#rheinfels_festung"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.70458,50.15422</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Riddagshausen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#riddagshausen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.57216,52.26924</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Röllfeld
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#roellfeld"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.18918,49.76727</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rudolstadt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#rudolstadt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.34046,50.72043</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rüdesheim
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ruedesheim_rhein"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.92442,49.9789</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Rüsselsheim
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#ruesselsheim"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.42251,49.98955</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Saint-Cloud
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#saint-cloud"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>2.20289,48.84598</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Saint-Germain-en-Laye; Schloss
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#saint-germain-en-laye_schloss"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>2.09592,48.8979</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Salder
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#salder"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.33732,52.1364</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Salzdahlum
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#salzdahlum"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.58541,52.19603</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sangerhausen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#sangerhausen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.29533,51.47221</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schaumburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schaumburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.19496,52.20072</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Scheuern (Nassau)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#scheuern"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.78909,50.30776</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schierstein
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schierstein"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.19788,50.04457</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schlangenbad
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schlangenbad"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.10312,50.09322</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schöningen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schoeningen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.96745,52.13802</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schöppenstedt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schoeppenstedt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.7745,52.14308</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schrattenhofen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schrattenhofen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.64592,48.81811</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schwabach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schwabach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.02346,49.33047</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>(Bad) Schwalbach
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schwalbach"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.06964,50.14196</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schwalbach am Taunus
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schwalbach_taunus"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.53333,50.15</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Schwerin
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#schwerin"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.41316,53.62937</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Seesen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#seesen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.17847,51.89095</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sindlingen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#sindlingen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.51629,50.08468</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sluis
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#sluis"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>3.38611,51.30833</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Söhlde
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#soehlde"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.23239,52.18898</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Stadtprozelten
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#stadtprozelten"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.41184,49.78466</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Staffelstein (Bad Staffelstein)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#staffelstein"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.00128,50.10199</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Steterburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#steterburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.47253,52.19027</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Stettin (Szczecin)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#stettin"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>14.55302,53.42894</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Stiege (Harz)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#stiege"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.88322,51.66517</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Straßburg (Strasbourg)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#strassburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.74553,48.58392</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Strelitz-Alt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#strelitz_alt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>13.09548,53.33235</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Neustrelitz
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#strelitz_neu"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>13.07292,53.3613</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Stuttgart
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#stuttgart"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.17702,48.78232</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Sulzbach am Main
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#sulzbach_am_main"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.15315,49.91149</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Südkampen (Walsrode)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#suedkampen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.42342,52.84672</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Süpplingenburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#suepplingenburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.91011,52.25072</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Tannhausen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#tannhausen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.36129,48.9787</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Thurneck
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#thurneck"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.63305,48.74651</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Toulouse
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#toulouse"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>1.44367,43.60426</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Trennfurt
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#trennfurt"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.1738,49.77759</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Trient (Trento)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#trient"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.12108,46.06787</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Trochtelfingen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#trochtelfingen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.3975,48.84375</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Turin (Torino)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#turin"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>7.68682,45.07049</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Venedig (Venezia)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#venedig"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>12.33265,45.43713</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Verden
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#verden"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.23491,52.92343</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Volkersheim
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#volkersheim"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.14965,52.01806</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wallonien
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wallonien"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>4.75,50.5</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Warschau (Warszawa)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#warschau"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>21.01178,52.22977</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wassermungenau
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wassermungenau"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.88489,49.21762</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Weferlingen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#weferlingen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>11.05791,52.31205</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wendefurth
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wendefurth"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.92101,51.73864</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wenzen
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wenzen"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.81293,51.87072</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wertheim
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wertheim"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.50852,49.759</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Westerburg; Burg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#westerburg_burg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.8669,52.01634</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wetzlar
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wetzlar"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.50495,50.56109</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wien
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wien"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>16.37208,48.20849</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wiesbaden
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wiesbaden"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.24932,50.08258</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Winsen (Aller)
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#winsen_aller"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.91362,52.68301</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wörth am Main
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#woerth_am_main"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.15389,49.7972</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Wolfenbüttel
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wolfenbuettel"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>10.54095,52.16442</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Würzburg
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#wuerzburg"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>9.95121,49.79391</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Zürich
+                                &lt;br/&gt;
+                                [&lt;a href="http://selbstzeugnisse.hab.de/sz2/orte#zuerich"&gt;↗Zum Registereintrag&lt;/a&gt;]</name>
+         <Point>
+            <coordinates>8.55,47.36667</coordinates>
+         </Point>
+      </Placemark>
+   </folder>
+</kml>

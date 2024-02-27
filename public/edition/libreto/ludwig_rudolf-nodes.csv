@@ -1,0 +1,526 @@
+ID,Label,Type
+gnd_124700470,"Ludwig Rudolph von Braunschweig-Wolfenbüttel",Person
+beacon_ddb,"Deutsche Digitale Bibliothek",Personendatenbank
+beacon_apd,"Archivportal D",Personendatenbank
+beacon_wkp,Wikipedia,Personendatenbank
+beacon_db,"Deutsche Biographie",Personendatenbank
+beacon_dbi,"Dizionario Biografico degli Italiani",Personendatenbank
+beacon_hls,"Historisches Lexikon der Schweiz",Personendatenbank
+beacon_blko,"Biographisches Lexikon des Kaiserthums Oesterreich",Personendatenbank
+beacon_blgs,"Biographisches Lexikon zur Geschichte Südosteuropas",Personendatenbank
+beacon_phoh,"Personendatenbank der Höflinge der österreichischen Habsburger",Personendatenbank
+beacon_pbbl,"Personen in bayrischen historischen biographischen Lexika",Personendatenbank
+beacon_bwbio,"Biografische Sammelwerke Baden-Württemberg",Personendatenbank
+beacon_hbio,"Hessische Biografie",Personendatenbank
+beacon_rpbio,"Rheinland-Pfälzische Personendatenbank",Personendatenbank
+beacon_saebi,"Sächsische Biographie",Personendatenbank
+beacon_wfg,"Westfälische Geschichte",Personendatenbank
+beacon_fpl,"Frankfurter Personenlexikon",Personendatenbank
+beacon_gqdm,"Geschichtsquellen des deutschen Mittelalters",Personendatenbank
+beacon_trithemius,"Trithemius: De scriptoribus ecclesiasticis",Personendatenbank
+beacon_fabricius,"Fabricius: Bibliotheca latina",Personendatenbank
+beacon_mav,"Melchior Adam: Vitae",Personendatenbank
+beacon_jen,"Jewish Encyclopedia 1906",Personendatenbank
+beacon_dpr,"Digitales Portal der Rabbiner",Personendatenbank
+beacon_bdjg,"Bibliografie deutsch-jüdische Geschichte Nordrhein-Westfalen",Personendatenbank
+beacon_gspd,"Germania Sacra Personendatenbank",Personendatenbank
+beacon_biocist,"Biographia Cisterciensis",Personendatenbank
+beacon_hpk,"Hamburger Professorinnen- und Professorenkatalog",Personendatenbank
+beacon_cph,"Helmstedter Professorenkatalog",Personendatenbank
+beacon_cpr,"Rostocker Professorenkatalog",Personendatenbank
+beacon_cpl,"Leipziger Professorenkatalog",Personendatenbank
+beacon_cpm,"Catalogus Professorum der Universität Mainz",Personendatenbank
+beacon_mpo,"Marburger Professorenkatalog online",Personendatenbank
+beacon_cprm,"Matrikel der Universität Rostock",Personendatenbank
+beacon_hvuz,"Historische Vorlesungsverzeichnisse der Universität Zürich 1833–1900",Personendatenbank
+beacon_mabk,"Matrikel der Akademie der Bildenden Künste München",Personendatenbank
+beacon_gesa,"Gesamtkatalog deutschsprachiger Leichenpredigten",Personendatenbank
+beacon_thulp,"Digitale Edition autobiographischer Texte aus Thüringer Leichenpredigten",Personendatenbank
+beacon_fruchtbringer,"Fruchtbringende Gesellschaft",Personendatenbank
+beacon_apw,"Acta Pacis Westfalicae",Personendatenbank
+beacon_coco,"Controversia et Confessio",Personendatenbank
+beacon_mmlo,"Biographisches Lexikon der Münzmeister, Wardeine, Stempelschneider und Medailleure (MMLO)",Personendatenbank
+beacon_sandrart,Sandrart.net,Personendatenbank
+beacon_kall,"Kalliope Verbundkatalog",Personendatenbank
+beacon_zdn,"Zentrale Datenbank Nachlässe",Personendatenbank
+beacon_sf2,"Schatullrechnungen Friedrichs des Großen",Personendatenbank
+beacon_rarp,"Registres Académie Royale de Prusse 1746 à 1786",Personendatenbank
+beacon_berlin1800,"Briefe und Texte aus dem intellektuellen Berlin um 1800",Personendatenbank
+beacon_dta,"Deutsches Textarchiv",Personendatenbank
+beacon_cors,"correspSearch – Verzeichnisse von Briefeditionen",Personendatenbank
+beacon_bahnsen,"Briefwechsel Benedikt Bahnsen",Personendatenbank
+beacon_humbdig,"edition humboldt digital",Personendatenbank
+beacon_cfgb,"Carl Friedrich Gauss Briefwechsel",Personendatenbank
+beacon_gauss,"Briefwechsel von Carl Friedrich Gauß - Korrespondenten",Personendatenbank
+beacon_muenz,"Katalog des Münzkabinetts Staatliche Museen zu Berlin",Personendatenbank
+beacon_dpi,"Digitaler Portraitindex",Personendatenbank
+beacon_vkk,"Virtuelles Kupferstichkabinett",Personendatenbank
+beacon_gpa,"Graphikportal – Akteure",Personendatenbank
+beacon_gpd,"Graphikportal – Dargestellte",Personendatenbank
+beacon_khmw,"Kunsthistorisches Museum Wien",Personendatenbank
+beacon_albw,"Albertina Wien",Personendatenbank
+beacon_archinf,"archINFORM Architecture Database",Personendatenbank
+beacon_imslp,"International Music Score Library Project",Personendatenbank
+beacon_cmvw,"Carl Maria von Weber Gesamtausgabe (WeGA)",Personendatenbank
+beacon_bach,"Bach Digital",Personendatenbank
+beacon_vd16,"Verzeichnis der Drucke 16. Jahrhunderts (VD 16)",Personendatenbank
+beacon_ecod,"e-codices Virtuelle Handschriftenbibliothek der Schweiz",Personendatenbank
+beacon_jdg,"Jahresberichte für deutsche Geschichte",Personendatenbank
+beacon_aqhab,"Alchemische Bestände der HAB",Personendatenbank
+K10plus_237048752,"Les Caractères De Theophraste, Traduits du Grec. Avec Les Caracteres Ou Les Moeurs De Ce Siecle, Par M. De La Bruyere de l'Academie Franço (1720)",Buch
+gnd_118621793,Theophrastus,Person
+gnd_118725785,"La Bruyère, Jean",Person
+gnd_11900478X,"Coste, Pierre",Person
+Wetstein,Wetstein,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+VD18_14376083,"Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Nie (1712)",Buch
+[S.l.],[S.l.],Ort
+Streitschrift:jur.,Streitschrift:jur.,Inhalt_Gattung
+K10plus_595406939,"Alix de France. nouvelle historique (1712)",Buch
+"Montfort, Louis","Montfort, Louis",Person
+Roger,Roger,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+K10plus_250753391,"Les Mille & Un Jour Tome Troisiéme (1712)",Buch
+gnd_117702269,"Pétis de la Croix, François",Person
+Coup,Coup,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+K10plus_250752980,"Les Mille & Un Jour Tome Second (1712)",Buch
+gnd_117702269,"Pétis de la Croix, François",Person
+Coup,Coup,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+K10plus_23610506X,"La Vie De Cesar Borgia, appellé du depuis Le Duc De Valentinois. Enrichi de belles figures en Taille douce (1712)",Buch
+gnd_121889556,"Tomasi, Tomaso",Person
+gnd_128597771,"Freschot, Casimir",Person
+Haak,Haak,Druckende_Verlegende
+Leide,Leide,Ort
+K10plus_150965478,"Résolution de leurs Hautes Puissances. Memoire & Documents Servant a montrer, que c'est a tort que les Estats Generaux des Provinces Unies  (1712)",Buch
+Scheltus,Scheltus,Druckende_Verlegende
+[s'Gravenhage],[s'Gravenhage],Ort
+VD18_10221069-004,"Alethophili Sendschreiben an Herrn M. R. O. Von unterschiedlichen Etliche Jahre her vorgegebenen Neuen Propheten und Prophezeyungen. Worinne (1712)",Buch
+gnd_1055513329,"Kaiser, Johann",Person
+Cölln,Cölln,Ort
+K10plus_150381794,"Tratté de l'amour de Dieu (1712)",Buch
+gnd_1055323457,"Saurin, Élie",Person
+Roger,Roger,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+K10plus_14765842X,"Memoires Anecdotes De La Cour Et Du Clergé De France. Avec L'Histoire du Différend du Cardinal de Noailles ; avec les Evêques de Luc̜on  (1712)",Buch
+gnd_1055469648,"Denis, Jean Baptiste",Person
+Londres,Londres,Ort
+VD18_11405236-001,"Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät .. Regierung vorgefallenen Reichs-Historie. Alles mit behöri (1712)",Buch
+gnd_117014931,"Zschackwitz, Johann Ehrenfried",Person
+Gleditsch,Gleditsch,Druckende_Verlegende
+Weidmann,Weidmann,Druckende_Verlegende
+Leipzig,Leipzig,Ort
+Leipzig,Leipzig,Ort
+K10plus_829182470,"La Communion Sainte, Ou Traité sur la nécessité & les moyens de communier dignement (1711)",Buch
+gnd_120538253,"Basnage de Beauval, Jacques",Person
+Acher,Acher,Druckende_Verlegende
+Rotterdam,Rotterdam,Ort
+K10plus_360588395,"L'Espion Dans Les Cours Des Princes Chrétiens, Ou Lettres Et Memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe.̤ T. 2 (1711)",Buch
+gnd_119080370,"Marana, Giovanni Paolo",Person
+Kinkius,Kinkius,Druckende_Verlegende
+Cologne,Cologne,Ort
+K10plus_243633238,"Les Campagnes de Charles XII. Roi de Suède T. 4 (1711)",Buch
+gnd_100144489,"Grimarest, Jean-Léonor le Gallois",Person
+"De Voys","De Voys",Druckende_Verlegende
+LaHaye,LaHaye,Ort
+K10plus_236485989,"L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 6 (1711)",Buch
+gnd_119080370,"Marana, Giovanni Paolo",Person
+Kenkus,Kenkus,Druckende_Verlegende
+Cologne,Cologne,Ort
+K10plus_236483579,"L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 1 (1711)",Buch
+gnd_119080370,"Marana, Giovanni Paolo",Person
+Kenkus,Kenkus,Druckende_Verlegende
+Cologne,Cologne,Ort
+VD18_10453261,"Send-Schreiben an einen S. Theologum, Jn welchem die 50. Motiven/ dadurch eine Erlauchte Person zum Abtritte von der Evangelisch-Lutherische (1711)",Buch
+gnd_117653713,"Schwedler, Johann Christoph",Person
+gnd_116912731,"Günther, Johann",Person
+Braun,Braun,Druckende_Verlegende
+Leipzig,Leipzig,Ort
+Streitschrift:theol.,Streitschrift:theol.,Inhalt_Gattung
+K10plus_215076435,"Le grand Scanderberg. Nouvelle (1711)",Buch
+gnd_119462222,"La Roche-Guilhem, Anne",Person
+Swart,Swart,Druckende_Verlegende
+"La Haye","La Haye",Ort
+K10plus_186712855,"L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 5 (1711)",Buch
+gnd_119080370,"Marana, Giovanni Paolo",Person
+Kinkius,Kinkius,Druckende_Verlegende
+Cologne,Cologne,Ort
+K10plus_186712839,"L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 4 (1711)",Buch
+gnd_119080370,"Marana, Giovanni Paolo",Person
+Kinkius,Kinkius,Druckende_Verlegende
+Cologne,Cologne,Ort
+K10plus_186712804,"L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 3 (1711)",Buch
+gnd_119080370,"Marana, Giovanni Paolo",Person
+Kinkius,Kinkius,Druckende_Verlegende
+Cologne,Cologne,Ort
+K10plus_151704813,"Les Oeuvres (1711)",Buch
+gnd_118677284,"Crébillon, Prosper Jolyot",Person
+Johnson,Johnson,Druckende_Verlegende
+"La Haye","La Haye",Ort
+K10plus_151681449,"Le nouveau Gentilhomme bourgeois ou les fées à la mode (1711)",Buch
+gnd_118808788,"Aulnoy, Marie Catherine Le Jumel de Barneville",Person
+Roger,Roger,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+VD18_12838306,"Heilsahme Seelen-Artzeney. Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzo (1711)",Buch
+gnd_12131412X,"Finen, Eberhard",Person
+gnd_138517894,"Zilliger, Johann Georg",Person
+gnd_124700470,"Ludwig Rudolf Braunschweig-Lüneburg, Herzog",Person
+"Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr.","Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr.",Druckende_Verlegende
+gnd_4008065-1,Braunschweig,Ort
+Erbauungsliteratur,Erbauungsliteratur,Inhalt_Gattung
+K10plus_150881991,"[Satirae] (1711)",Buch
+gnd_118556126,"Iuvenalis, Decimus Iunius",Person
+gnd_1012625001,"Silvestri, Camillo",Person
+"^[Drucker:] Stamperia del Seminario","^[Drucker:] Stamperia del Seminario",Druckende_Verlegende
+Padova,Padova,Ort
+K10plus_150600720,"L'Histoire [et la religion] des Juifs, réclamée et retablie par son véritable auteur Basnage, contre l'édition anonyme et tronquée, qui (1711)",Buch
+gnd_120538253,"Basnage de Beauval, Jacques",Person
+"Fritsch & Böhm","Fritsch & Böhm",Druckende_Verlegende
+Rotterdam,Rotterdam,Ort
+K10plus_150346719,"L'Amant Oisif. Contenant Cinquante Nouvelles Espagnoles. Divisé En Trois Parties (1711)",Buch
+gnd_100140858,"Riflé de Garouville, Savinien",Person
+Backer,Backer,Druckende_Verlegende
+Brusselles,Brusselles,Ort
+K10plus_150342829,"État Ancien Et Moderne Des Duchés De Florence, Modene, Mantoue, & Parme. Avec l'Histoire Anecdote des Intrigues des Cours de leurs dernier (1711)",Buch
+gnd_128597771,"Freschot, Casimir",Person
+"Vitriarius, Jean Jacques","Vitriarius, Jean Jacques",Person
+Broedelet,Broedelet,Druckende_Verlegende
+Poolsum,Poolsum,Druckende_Verlegende
+Utrecht,Utrecht,Ort
+Utrecht,Utrecht,Ort
+VD18_12955116,"Curioser Staats-Discurs Nebst Einiger politischen Erleuterung über von Ihrer Königl. Majestät Von Groß-Britannien, [et]c. [et]c. An das  (1710)",Buch
+[S.l.],[S.l.],Ort
+Gelegenheitsschrift,Gelegenheitsschrift,Inhalt_Gattung
+K10plus_151586829,"Les Pensées ingénieuses ou les Épigrammes d'Owen (1710)",Buch
+gnd_118787446,"Owen, John",Person
+gnd_172224861,"LeBrun, Antoine Louis",Person
+Ribou,Ribou,Druckende_Verlegende
+Paris,Paris,Ort
+VD18_12838292,"Eberhard Finens Erbauliche Reden über die Paßions-Geschicht/ und andere Sprüche Heiliger Schrifft Wie auch Einige Stücke des Catechismi. (1710)",Buch
+gnd_12131412X,"Finen, Eberhard",Person
+Zilliger,Zilliger,Druckende_Verlegende
+Braunschweig,Braunschweig,Ort
+K10plus_150789556,"Histoire politique et amoureuse du Cardinal Louis ^[Louis ^Manuel] Portocarrero Archevêque de Toledo (1710)",Buch
+LeSincere,LeSincere,Druckende_Verlegende
+o.O.,o.O.,Ort
+VD18_10222405-009,"Unvorgreiffliche Gedancken eines schwedischen Unterthanen über das jüngst heraus gegebene Dänische Manifest, so hiebey mit angedruckt (1710)",Buch
+gnd_116021675,"Palthen, Johann Philipp",Person
+[S.l.],[S.l.],Ort
+K10plus_146978870,"Considération sur l'éternité (1710)",Buch
+gnd_12232319X,"Abelly, Louis",Person
+"de Backer","de Backer",Druckende_Verlegende
+Brusselles,Brusselles,Ort
+VD18_14631520-004,"Sendschreiben an Mylord [et]c. [et]c.Betreffende die Nothwendigkeit Gerechtsame/ der völligen Restitution der Spanischen Monarchie. Aus dem (1710)",Buch
+Lorber,Lorber,Druckende_Verlegende
+Erlangen,Erlangen,Ort
+K10plus_134055551,"Oeuvres Diverses De Monsieur Jean Locke. (1710)",Buch
+gnd_118573748,"Locke, John",Person
+"Fritsch & Böhm","Fritsch & Böhm",Druckende_Verlegende
+Rotterdam,Rotterdam,Ort
+VD18_11261765-001,"Petrone Latin Et François. Traduction Entiere, Suivant Le Manuscrit Trouvé A Belgrade en 1688. ; Avec plusieurs Remarques & Additions, qui (1709)",Buch
+gnd_118593293,"Petronius Arbiter",Person
+gnd_118831917,"Nodot, François",Person
+[S.l.],[S.l.],Ort
+K10plus_151090645,"Sonnets chrétiens sur divers sujets (1709)",Buch
+gnd_130060836,"Drelincourt, Laurent",Person
+Desbordes,Desbordes,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+VD18_13349112,"Rechte Anwendung der jetzigen kurtzen Lebens-Zeit/ und Christliche Vorbereitung zu der künfftigen Seeligen Ewigkeit. Nach Anleitung derer a (1708)",Buch
+gnd_133492966,"Toppe, Philipp Julius",Person
+gnd_116996501,"Liebernickel, Gottfried",Person
+gnd_1037506340,"Liebernickel, Gottfried",Person
+"bey Gottfried Liebernickel","bey Gottfried Liebernickel",Druckende_Verlegende
+Hamburg,Hamburg,Ort
+"Ars moriendi","Ars moriendi",Inhalt_Gattung
+K10plus_330455036,"L'Homme De Trompé Ou Le Criticon T. 3 (1708)",Buch
+gnd_118696874,"Gracián y Morales, Baltasar",Person
+Ellinckhuysen,Ellinckhuysen,Druckende_Verlegende
+"La Haye","La Haye",Ort
+K10plus_33045501X,"L'Homme De Trompé Ou Le Criticon T. 2 (1708)",Buch
+gnd_118696874,"Gracián y Morales, Baltasar",Person
+Ellinckhuysen,Ellinckhuysen,Druckende_Verlegende
+"La Haye","La Haye",Ort
+K10plus_237690055,"Histoire D'Hypolite, Comte de Duglas (1708)",Buch
+gnd_118808788,"Aulnoy, Marie Catherine Le Jumel de Barneville",Person
+"De Backer","De Backer",Druckende_Verlegende
+Brusselle,Brusselle,Ort
+K10plus_235847062,"L'Homme De Trompé Ou Le Criticon T. 1 (1708)",Buch
+gnd_118696874,"Gracián y Morales, Baltasar",Person
+Ellinckhuysen,Ellinckhuysen,Druckende_Verlegende
+"La Haye","La Haye",Ort
+K10plus_150292511,"Nouveau Traité De La Civilité Qui Se Pratique En France Parmi Les Honnestes Gens (1708)",Buch
+gnd_120374307,"Courtin, Antoine",Person
+"Chevreuse, ...","Chevreuse, ...",Person
+Schelte,Schelte,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+Handbuch,Handbuch,Inhalt_Gattung
+K10plus_25375111X,"Qui comprend depuis Auguste jusqu'à Galba. Histoire des empereurs et des autres princes, qui ont régné durant les six premiers siècles d (1707)",Buch
+gnd_128681667,"Le Nain de Tillemont, Sébastien",Person
+Fricx,Fricx,Druckende_Verlegende
+Bruxelles,Bruxelles,Ort
+VD18_12388920-004,"Joh. Wolffgang Triers kurtze Fragen von den menschlichen Neigungen. darinnen von deren Ursprung und Würckungen auf eine besondere Art gehan (1707)",Buch
+gnd_104043806,"Trier, Johann Wolfgang",Person
+Gleditsch,Gleditsch,Druckende_Verlegende
+Leipzig,Leipzig,Ort
+VD18_10239014-003,"Das grosse Dessein des Louis von Baaden. Welches Er An seinem Sterbe-Tage den 4. Januarii dieses 1707. Jahres glücklich hinaus geführt. in (1707)",Buch
+Rastatt,Rastatt,Ort
+K10plus_151605971,"L'Usage Du Monde Ou Le Parfait Modele D'Un Honneste Homme (1707)",Buch
+gnd_120006294,"Goussault, Jacques",Person
+"Brunet & Rigaut","Brunet & Rigaut",Druckende_Verlegende
+Leonard,Leonard,Druckende_Verlegende
+Paris,Paris,Ort
+Bruxelles,Bruxelles,Ort
+VD18_14373211-005,"Warhafftige Abbildung Aller itzo im Krieg begriffenen Hohen Potentaten und dero Generals. Durch Beibringung verschiedener aus Betrachtung de (1707)",Buch
+Marteau,Marteau,Druckende_Verlegende
+Cöln,Cöln,Ort
+K10plus_14680340X,"Histoire du Vieux et du Nouveau Testament. enrichie de Figures .. etc. (1706)",Buch
+gnd_120538253,"Basnage de Beauval, Jacques",Person
+"Pierre Mortier","Pierre Mortier",Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+VD18_10885366-ddd,"Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich (1705)",Buch
+[S.l.],[S.l.],Ort
+Flugschrift,Flugschrift,Inhalt_Gattung
+Satire,Satire,Inhalt_Gattung
+K10plus_151033234,"Réflexions Ou Sentences Et Maximes Morales. De Monsieur De La Rochefoucault .. (1705)",Buch
+gnd_118569775,"La Rochefoucauld, François",Person
+Mortier,Mortier,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+VD18_10885366-ddd,"Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich (1705)",Buch
+[S.l.],[S.l.],Ort
+Satire,Satire,Inhalt_Gattung
+Flugschrift,Flugschrift,Inhalt_Gattung
+VD18_11525770,"Instructions Secretes Des Jesuites. Suivant l'original (1704)",Buch
+Sincere,Sincere,Druckende_Verlegende
+gnd_4031483-2,Köln,Ort
+Ordensliteratur:Jesuiten,Ordensliteratur:Jesuiten,Inhalt_Gattung
+VD18_14580349,"Suite Des Mazarinischen Reverence (1704)",Buch
+[S.l.],[S.l.],Ort
+Flugschrift,Flugschrift,Inhalt_Gattung
+Satire,Satire,Inhalt_Gattung
+VD18_10093591,"Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich (1704)",Buch
+[S.l.],[S.l.],Ort
+Flugschrift,Flugschrift,Inhalt_Gattung
+Satire,Satire,Inhalt_Gattung
+Brief,Brief,Inhalt_Gattung
+VD18_11086432,"Mazarini Abschieds-Compliment (1704)",Buch
+[S.l.],[S.l.],Ort
+Flugschrift,Flugschrift,Inhalt_Gattung
+Satire,Satire,Inhalt_Gattung
+K10plus_134957520,"Traité du mérite (1704)",Buch
+gnd_1055126783,"Vassetz abbé",Person
+Voys,Voys,Druckende_Verlegende
+"La Haye","La Haye",Ort
+VD18_12836362,"Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet (1701)",Buch
+gnd_12348796X,"Schweinitz, David",Person
+Rohrlach,Rohrlach,Druckende_Verlegende
+Ehrich,Ehrich,Druckende_Verlegende
+"Frankfurt, Main","Frankfurt, Main",Ort
+Leipzig,Leipzig,Ort
+Jena,Jena,Ort
+VD18_14611392-003,"Bouclier D'Estat Et De Justice, Contre le dessein de la France .. (1701)",Buch
+gnd_11878014X,"Lisola, François Paul",Person
+[S.l.],[S.l.],Ort
+K10plus_136951821,"Instructions de l'empereur Charles V. à Philippe II. Roi d'Espagne et de Philippe II. au prince Philippe son fils. Mises en François par A (1700)",Buch
+gnd_118560093,"Karl Heiliges Römisches Reich, Kaiser",Person
+gnd_129426024,"Teissier, Antoine",Person
+Dole,Dole,Druckende_Verlegende
+"A la Haye","A la Haye",Ort
+K10plus_135733421,"Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D'Albe (1699)",Buch
+gnd_137527616,"Osorio, Antonio",Person
+Guignard,Guignard,Druckende_Verlegende
+Paris,Paris,Ort
+Biographie,Biographie,Inhalt_Gattung
+K10plus_236361856,"Le triomphe de la deesse monas ou l'histoire du portrait de madame la princesse de Conti fille du roi (1698)",Buch
+duVal,duVal,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+K10plus_184827981,"Practicarum Observationum, tam ad processum iudiciarium, praesertim Imperialis Camerae, quam causarum decisionis pertinentium, libri 2. De P (1698)",Buch
+gnd_11884296X,"Gail, Andreas",Person
+gnd_124408389,"Gymnich, Walter",Person
+Metternich,Metternich,Druckende_Verlegende
+"Coloniae Agrippina","Coloniae Agrippina",Ort
+K10plus_620058943,"Histoire Des Controverses Et Des Matieres Ecclesiastiques .. (1697)",Buch
+gnd_100115993,"Du Pin, Louis Ellies",Person
+Pralard,Pralard,Druckende_Verlegende
+Paris,Paris,Ort
+K10plus_149903561,"Traité de la dévotion. (1697)",Buch
+gnd_118558900,"Jurieu, Pierre",Person
+Troyel,Troyel,Druckende_Verlegende
+"La Haye","La Haye",Ort
+VD17_3:614050Y,"Suscitabulum Poenitentiae Catecheticum, Das ist: Catechetischer Buß-Wecker/ Oder Eine richtige Anweisung zu den wesentlichen Stücken der w (1696)",Buch
+gnd_12348796X,"Schweinitz, David",Person
+Schrey,Schrey,Druckende_Verlegende
+Meyer,Meyer,Druckende_Verlegende
+"Frankfurt, Oder","Frankfurt, Oder",Ort
+K10plus_223556645,"Conduite pour se taire et pour parles principalement en matière de religion. suivant la copie imprimée à Paris (1696)",Buch
+gnd_101503660,"Morvan de Bellegarde, Jean-Baptiste",Person
+Broncart,Broncart,Druckende_Verlegende
+Liege,Liege,Ort
+K10plus_719560519,"Danielis Georgi[i] Morhofi[i] Polyhistor. Sive De Notitia Auctorum Et Rerum Commentarii [1] (1695)",Buch
+gnd_118784919,"Morhof, Daniel Georg",Person
+"Alefeld, Joachimus","Alefeld, Joachimus",Person
+Böckmannus,Böckmannus,Druckende_Verlegende
+Lübeck,Lübeck,Ort
+K10plus_15086812X,"Penta-decas fidium cordialium .. Das Ist: Geistlicher Hertzens-Harffen von fünffmahl-zehen Seiten .. Theil (1694)",Buch
+gnd_12348796X,"Schweinitz, David",Person
+Fellgiebel,Fellgiebel,Druckende_Verlegende
+Breßlau,Breßlau,Ort
+K10plus_147204798,"Le Monde Enchanté Ou Examen des communs sentimens touchant les Esprits, leur nature, leur pouvoir, leur administration, & leurs opérations (1694)",Buch
+gnd_119016915,"Bekker, Balthasar",Person
+Rotterdam,Rotterdam,Druckende_Verlegende
+Amsterdam,Amsterdam,Ort
+VD17_7:694881V,"Novellen Aus Der gelehrten und curiösen Welt 1692 (1692)",Buch
+gnd_104217650,"Zenner, Gottfried",Person
+Boetius,Boetius,Druckende_Verlegende
+Groschuff,Groschuff,Druckende_Verlegende
+Frankfurt,Frankfurt,Ort
+Gotha,Gotha,Ort
+Leipzig,Leipzig,Ort
+K10plus_150211236,"L' Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale (1692)",Buch
+gnd_100002307,"Abbadie, Jacques",Person
+Slaart,Slaart,Druckende_Verlegende
+Rotterdam,Rotterdam,Ort
+Traktat,Traktat,Inhalt_Gattung
+K10plus_486368920,"Vocabolario degli Accademici della Crusca. In questa 3. impressione Nuovamente corr. e copiosamente accresciuto (1691)",Buch
+"Stamp. d. Accademia della Crusca","Stamp. d. Accademia della Crusca",Druckende_Verlegende
+Firenze,Firenze,Ort
+K10plus_251813266,"Francisci Sanctii Minerva, Sive De Causis Latinæ linguæ Commentarius (1687)",Buch
+gnd_118751123,"Sánchez de las Brozas, Francisco",Person
+gnd_119298600,"Schoppe, Caspar",Person
+gnd_119019914,"Perizonius, Jacobus",Person
+Strickius,Strickius,Druckende_Verlegende
+Franequera,Franequera,Ort
+VD17_3:604602L,"L' Unico Mezzo, Che ci fà trovar la felicità in questo Mondo .. con brevità e Chiarezza si dimostra nel presente libretto, in todesco, fr (1685)",Buch
+gnd_116400684,"Caffa, Karl",Person
+Gollner,Gollner,Druckende_Verlegende
+Jena,Jena,Ort
+VD17_1:008798Z,"De Legibus Naturae Disquisitio Philosophica. In qua Earum Forma, Summa Capita, Ordo, Promulgatio, & Obligatio e rerum Natura investigantur ; (1683)",Buch
+gnd_121534006,"Cumberland, Richard",Person
+"Bridgeman, Orlandus","Bridgeman, Orlandus",Person
+"Parker, Sam.","Parker, Sam.",Person
+Otto,Otto,Druckende_Verlegende
+Wiedemeyerus,Wiedemeyerus,Druckende_Verlegende
+Lübeck,Lübeck,Ort
+"Frankfurt, Main","Frankfurt, Main",Ort
+K10plus_150019556,"Geographia ordine litterarum disposita (1681)",Buch
+gnd_124639089,"Baudrand, Michel-Antoine",Person
+Michalet,Michalet,Druckende_Verlegende
+Parisiis,Parisiis,Ort
+K10plus_151714266,"Examen ratiociniorum Danicorum super naufragio militum Suecicorum ad Bornholmiam, eorundemque detentione (1680)",Buch
+[S.l.],[S.l.],Ort
+VD17_1:072956R,"Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königl (1675)",Buch
+gnd_128616385,"Sperber, Julius",Person
+Betkius,Betkius,Druckende_Verlegende
+"Frankfurt, Main","Frankfurt, Main",Ort
+Amsterdam,Amsterdam,Ort
+Gebetbuch,Gebetbuch,Inhalt_Gattung
+K10plus_369886046,"Henrici Glareani In Cornelii Taciti de situ .. Germaniae libellum commentariolus (1673)",Buch
+gnd_11905339X,"Glareanus, Henricus Loriti",Person
+gnd_117106178,"Schardius, Simon",Person
+Giessae,Giessae,Ort
+K10plus_553173561,"The voyage of Italy, or, A compleat journey through Italy. in two parts : with the characters of the people, and the description of the chie (1670)",Buch
+"Lassels, Richard","Lassels, Richard",Person
+"Simon Wilson","Simon Wilson",Person
+"[s.n.], and are to be sold in London, by John Starkey","[s.n.], and are to be sold in London, by John Starkey",Druckende_Verlegende
+"Newly printed at Paris","Newly printed at Paris",Ort
+K10plus_151871949,"Jetztlebendes Europa, Oder Neue Historische und Politische Erzehlung aller seiner Stände, wie solche gegen dem Ende deß Jahrs 1666. ihr We (1670)",Buch
+gnd_124861075,"Chappuzeau, Samuel",Person
+Schiele,Schiele,Druckende_Verlegende
+"Franckfurt am Mayn","Franckfurt am Mayn",Ort
+Geographie,Geographie,Inhalt_Gattung
+K10plus_246014911,"L'imitation de Jesus Christ (1665)",Buch
+gnd_118642766,"Thomas von Kempen",Person
+gnd_118522175,"Corneille, Pierre",Person
+Ballard,Ballard,Druckende_Verlegende
+Paris,Paris,Ort
+VD17_23:269676U,"Character Virtutum variis, aliorum etiam, qua veterum, qua recentium Autorum coloribus adumbratus (1664)",Buch
+gnd_121895610,"Pastorius, Joachim",Person
+"Guldensternius, Sigismundus","Guldensternius, Sigismundus",Person
+[S.l.],[S.l.],Ort
+VD17_1:065794A,"Scrutinium Ingeniorum pro iis, qui excellere cupiunt (1663)",Buch
+gnd_119456222,"Huarte de San Juan, Juan",Person
+gnd_122503279,"Caesar, Joachim",Person
+"Albrecht Sachsen-Jülich-Cleve-Berg, Herzog","Albrecht Sachsen-Jülich-Cleve-Berg, Herzog",Person
+"Ludwig Anhalt-Köthen, Fürst","Ludwig Anhalt-Köthen, Fürst",Person
+Neuenhahn,Neuenhahn,Druckende_Verlegende
+Krebs,Krebs,Druckende_Verlegende
+Jena,Jena,Ort
+Pädagogik,Pädagogik,Inhalt_Gattung
+K10plus_140235191,"Venetia città nobilissima et singolare (1663)",Buch
+gnd_119255901,"Sansovino, Francesco",Person
+gnd_1055727280,"Martinioni, Giustiniano",Person
+gnd_1024756335,"Curti, Stefano",Person
+Curti,Curti,Druckende_Verlegende
+Venedig,Venedig,Ort
+VD17_39:156875D,"Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David. Gerichtet Auf unterschiedener Personen/ und Stände Anli (1662)",Buch
+gnd_12348796X,"Schweinitz, David",Person
+Fellgiebel,Fellgiebel,Druckende_Verlegende
+Breslau,Breslau,Ort
+Gebetbuch,Gebetbuch,Inhalt_Gattung
+VD17_23:232961A,"Genealogia. Derer von Schweinitz/ Vor der Zeit Vom Swentze Genennet (1661)",Buch
+gnd_12348796X,"Schweinitz, David",Person
+"Christian Hertzog in Schlesien, zur Liegnitz, Brieg und Wohlau","Christian Hertzog in Schlesien, zur Liegnitz, Brieg und Wohlau",Person
+"Ludwig Hertzog in Schlesien, zur Liegnitz, Brieg und Goldberg","Ludwig Hertzog in Schlesien, zur Liegnitz, Brieg und Goldberg",Person
+"Georg Hertzog in Schlesien zur Liegnitz und Brieg","Georg Hertzog in Schlesien zur Liegnitz und Brieg",Person
+Schneider,Schneider,Druckende_Verlegende
+Liegnitz,Liegnitz,Ort
+Genealogie,Genealogie,Inhalt_Gattung
+K10plus_141633042,"Tractatus politico-historico-juridicus de Juribus et Privilegiis Civitatum Imperialium, tam generalibus, quam specialibus et de earundem Mag (1657)",Buch
+gnd_124429254,"Knipschildt, Philipp",Person
+Kühne,Kühne,Druckende_Verlegende
+"Ulmae Suevorum","Ulmae Suevorum",Ort
+K10plus_147802350,"Specvlvm Natvrae Hvmanæ, Siue Mores Et Temperamenta Hominvm Vsqve Ad Intimos Animorum sensus cognoscendi. Omnibus maxime vtile, & lectu iuc (1649)",Buch
+gnd_122674391,"Follin, Hermann",Person
+gnd_122674332,"Follin, Johann",Person
+Kalcovius,Kalcovius,Druckende_Verlegende
+"Coloniae Agrippinae","Coloniae Agrippinae",Ort
+K10plus_150731884,"Theatrum ingenii humani Liber 1-2 (1648)",Buch
+gnd_128500751,"Neuhusius, Edo",Person
+gnd_132103885,"Neuhusius, Reinerus",Person
+Jansonius,Jansonius,Druckende_Verlegende
+Amstelodami,Amstelodami,Ort
+K10plus_151490759,"Arcadia der Gräffin von Pembrock (1643)",Buch
+gnd_11861391X,"Sidney, Philip",Person
+gnd_117080632,"Mögling, Daniel",Person
+gnd_118590111,"Opitz, Martin",Person
+gnd_118581090,"Merian, Matthaeus",Person
+"Sophia Leonora Hessen, Landgräfin","Sophia Leonora Hessen, Landgräfin",Person
+Humm,Humm,Druckende_Verlegende
+Franckfurt,Franckfurt,Ort
+Roman,Roman,Inhalt_Gattung
+K10plus_190912367,"Nikēphoru Kallistu Tu Xanthopulu Ekklēsiastikēs Historias Biblia 18 Tomvs Prior (1630)",Buch
+gnd_10095443X,"Nicephorus Callistus Xanthopulus",Person
+gnd_124677320,"Du Duc, Fronton",Person
+gnd_136285422,"Lange, Johann",Person
+"Richelieu, Armandus Joannes","Richelieu, Armandus Joannes",Person
+Cramoisy,Cramoisy,Druckende_Verlegende
+"Lutetiae Parisiorum","Lutetiae Parisiorum",Ort
+Ordensliteratur:Jesuiten,Ordensliteratur:Jesuiten,Inhalt_Gattung
+K10plus_513708979,"La Secchia Rapita. Poema Eroicomico, e'l Canto Dell'Oceano (1625)",Buch
+gnd_118753959,"Tassoni, Alessandro",Person
+gnd_122970470,"Barberini, Antonio",Person
+Sarzina,Sarzina,Druckende_Verlegende
+Venetia,Venetia,Ort
+Verserzählung,Verserzählung,Inhalt_Gattung
+K10plus_151756309,"La Biblia. Que es, Los sacros libros del Vieio y Nuevo Testamento. : Trasladada en español. (1622)",Buch
+"Aubrius & Schleich","Aubrius & Schleich",Druckende_Verlegende
+[Basel],[Basel],Ort
+K10plus_394766091,"Andreæ Althameri Commentaria: In P. Cornelii Taciti equitis Romani libellum De Situ, Moribus Et Populis Germaniæ (1609)",Buch
+gnd_118620452,"Tacitus, Cornelius",Person
+gnd_100010423,"Althamer, Andreas",Person
+Forster,Forster,Druckende_Verlegende
+Ambergae,Ambergae,Ort
+K10plus_567283895,"Matthaei Dresseri  ORATIO  DE ORDINE, VERITATE ET VSV  in historiarum lectione  spectando. Habita in Academia Lipsi-ca, XVII Januarij,anno 8 (1582)",Buch
+gnd_116218363,"Dresser, Matthaeus",Person
+"Gronenberg, Simon","Gronenberg, Simon",Druckende_Verlegende
+Wittenberg,Wittenberg,Ort
+Rede,Rede,Inhalt_Gattung
+K10plus_223457167,"Cosmographiae Vniversalis Lib. VI. In Qvibvs Ivxta Certioris Fidei Scriptores .. describuntur, Omnium habitabilis Orbis partium situs propri (1572)",Buch
+gnd_118585517,"Münster, Sebastian",Person
+Henricpetri,Henricpetri,Druckende_Verlegende
+Basileae,Basileae,Ort
+Geographie,Geographie,Inhalt_Gattung
+K10plus_389070084,"Teutsch Passional vnsers [unsers] Herren Jesu Christi. Mit schönen tröstlichen Gebetlein (1547)",Buch
+"Schwenckfeld, Caspar","Schwenckfeld, Caspar",Person
+[s.n.],[s.n.],Druckende_Verlegende
+Nürnberg,Nürnberg,Ort

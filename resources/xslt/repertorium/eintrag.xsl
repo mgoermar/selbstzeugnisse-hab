@@ -20,16 +20,18 @@
   </xsl:variable>
 
   <xsl:template match="tei:teiHeader">
-    <div class="navigation">
+    <nav role="navigation">
       <xsl:call-template name="navigation"/>
-    </div>
-    <div class="mainpage repertorium">
-      <table>
-        <tbody>
+    </nav>
+    <a class="printer" href="javascript:print()"></a>
+    <div class="content">
+      <div class="pageWrap">
+        <div class="repertorium">
+          <div class="rep_list">
 
-          <tr>
-            <th>Verfasser</th>
-            <td>
+          <dl>
+            <dt>Verfasser</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:author[normalize-space()]">
                   <xsl:for-each select="//tei:author[normalize-space()]">
@@ -41,12 +43,12 @@
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
+            </dd>
+          </dl>
 
-          <tr>
-            <th>Schreiber/Redaktor</th>
-            <td>
+          <dl>
+            <dt>Schreiber/Redaktor</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:respStmt[ancestor::sourceDesc]">
                   <xsl:value-of select="//tei:respStmt[ancestor::sourceDesc]"/>
@@ -54,40 +56,39 @@
 
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
+            </dd>
+          </dl>
 
-          <tr>
-            <th>Sachtitel</th>
-            <td>
+          <dl>
+            <dt>Sachtitel</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:title[@type = 'uniform']">
                   <xsl:value-of select="//tei:title[@type = 'uniform']"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
+            </dd>
+          </dl>
 
-          <tr>
-            <th>Titel in Vorlageform</th>
-            <td>
+          <dl>
+            <dt>Titel in Vorlageform</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:rubric">
                   <xsl:value-of select="//tei:rubric"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
+            </dd>
+          </dl>
 
-        </tbody>
-      </table>
-      <table>
-        <tbody>
-          <tr>
-            <th>Berichtszeitraum</th>
-            <td>
+        </div>
+      
+        <div class="rep_list">
+          <dl>
+            <dt>Berichtszeitraum</dt>
+            <dd>
               <xsl:variable name="zeitraum">
                 <xsl:call-template name="zeitraum">
                   <xsl:with-param name="element" select="//tei:date[@type = 'coverage']"/>
@@ -99,13 +100,12 @@
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
+            </dd>
+          </dl>
 
-          <tr>
-            <tr>
-              <th>Entstehungszeit</th>
-              <td>
+            <dl>
+              <dt>Entstehungszeit</dt>
+              <dd>
                 <xsl:variable name="zeitraum">
                   <xsl:call-template name="zeitraum">
                     <xsl:with-param name="element" select="//tei:origDate"/>
@@ -117,60 +117,57 @@
                   </xsl:when>
                   <xsl:otherwise>-</xsl:otherwise>
                 </xsl:choose>
-              </td>
-            </tr>
-          </tr>
+              </dd>
+            </dl>
+          
 
-          <tr>
-            <th>Entstehungsort</th>
-            <td>
+          <dl>
+            <dt>Entstehungsort</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:origPlace">
                   <xsl:value-of select="//tei:origPlace"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
+            </dd>
+          </dl>
 
-        </tbody>
-      </table>
-      <table>
-        <tbody>
-          <tr>
-            <th>Aufbewahrungsort</th>
-            <td>
+        </div>
+      
+        <div class="rep_list">
+          <dl>
+            <dt>Aufbewahrungsort</dt>
+            <dd>
               Herzog August Bibliothek Wolfenbüttel,
               <xsl:value-of select="//tei:collection"/>
-            </td>
-          </tr>
-          <tr>
-            <th>Signatur</th>
-            <td>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Signatur</dt>
+            <dd>
               <xsl:value-of select="//tei:msDesc/tei:msIdentifier/tei:idno"/>
               <xsl:if test="//tei:msItem/tei:locus/@from">
                 <xsl:text>, beginnt auf </xsl:text>
                 <xsl:value-of select="//tei:msItem/tei:locus/@from"/>
               </xsl:if>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      <table>
-        <tbody>
-          <tr>
-            <th>Zusammenfassung</th>
-            <td>
+            </dd>
+          </dl>
+        </div>
+      
+        <div class="rep_list">
+          <dl>
+            <dt>Zusammenfassung</dt>
+            <dd>
               <xsl:apply-templates select="//tei:summary/node()"/>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      <table>
-        <tbody>
-          <tr>
-            <th>Sprache</th>
-            <td>
+            </dd>
+          </dl>
+        </div>
+      
+        <div class="rep_list">
+          <dl>
+            <dt>Sprache</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:textLang">
                   <xsl:call-template name="label-sprache">
@@ -185,33 +182,33 @@
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-          <tr>
-            <th>Beschreibstoff</th>
-            <td>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Beschreibstoff</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:material">
                   <xsl:value-of select="//tei:material"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-          <tr>
-            <th>Umfang</th>
-            <td>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Umfang</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:measure">
                   <xsl:value-of select="//tei:measure"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-          <tr>
-            <th>Maße des Buchblocks</th>
-            <td>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Maße des Buchblocks</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:dimensions">
                           <xsl:value-of select="translate(//tei:dimensions/tei:width/@quantity, '.', ',')"/>
@@ -221,86 +218,84 @@
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-          <tr>
-            <th>Seitenzählung</th>
-            <td>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Seitenzählung</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:foliation">
                   <xsl:apply-templates select="//tei:foliation/tei:p"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-          <tr>
-            <th>Seitenaufbau</th>
-            <td>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Seitenaufbau</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:layout">
                   <xsl:apply-templates select="//tei:layout/tei:p"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-          <tr>
-            <th>Einband</th>
-            <td>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Einband</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:bindingDesc">
                   <xsl:apply-templates select="//tei:bindingDesc/node()"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-          <tr>
-            <th>Illustrationen</th>
-            <td>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Illustrationen</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:decoNote">
                   <xsl:apply-templates select="//tei:decoNote/node()"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-          <tr>
-            <th>Beigaben</th>
-            <td>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Beigaben</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:accMat">
                   <xsl:apply-templates select="//tei:accMat/*"/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-      <table>
-        <tbody>
-          <tr>
-            <th>Besitzgeschichte</th>
-            <td>
+            </dd>
+          </dl>
+        </div>
+      
+        <div class="rep_list">
+          <dl>
+            <dt>Besitzgeschichte</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:provenance or //tei:acquisition">
                   <xsl:apply-templates select="//tei:p[parent::tei:provenance or parent::tei:acquisition]/.."/>
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+            </dd>
+          </dl>
+        </div>
+      
 
-      <table>
-        <tbody>
-          <tr>
-            <th>Bibliographische Verweise</th>
-            <td>
+        <div class="rep_list">
+          <dl>
+            <dt>Bibliographische Verweise</dt>
+            <dd>
               <xsl:choose>
                 <xsl:when test="//tei:additional[tei:listBibl]">
                   <ul>
@@ -322,10 +317,10 @@
                 </xsl:when>
                 <xsl:otherwise>-</xsl:otherwise>
               </xsl:choose>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+            </dd>
+          </dl>
+        </div>
+      
 
       <xsl:variable name="shelfmark" select="substring-after(.//tei:msDesc/tei:msIdentifier/tei:idno, 'Cod. Guelf. ')"/>
       <xsl:variable name="ident">
@@ -333,11 +328,10 @@
           <xsl:with-param name="shelfmark" select="$shelfmark"/>
         </xsl:call-template>
       </xsl:variable>
-      <table>
-        <tbody>
-          <tr>
-            <th>Weitere Informationen</th>
-            <td>
+        <div class="rep_list">
+          <dl>
+            <dt>Weitere Informationen</dt>
+            <dd>
               <ul>
                 <li>
                   Suche nach Literatur im <a href="{concat($opacUrl, 'lde %22cod. guelf. ', $shelfmark, '%22')}" target="_blank">OPAC</a>
@@ -346,18 +340,21 @@
                   Suche nach Informationen in der <a href="{concat($mssUrl, $ident)}" target="_blank">Handschriftendatenbank</a>
                 </li>
               </ul>
-            </td>
-          </tr>
-        </tbody>
-      </table>
+            </dd>
+          </dl>
+        </div>
+      
     </div>
-    <div class="infopanel">
+      </div>
+    </div>
+    
+    <!--<div class="infopanel">
       <ul class="controls">
         <li>
           <a class="fa fa-print" href="javascript:print()"> Drucken</a>
         </li>
       </ul>
-    </div>
+    </div>-->
   </xsl:template>
 
   <xsl:template match="tei:p[normalize-space()]">

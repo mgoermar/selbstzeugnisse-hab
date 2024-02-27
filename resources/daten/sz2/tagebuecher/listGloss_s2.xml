@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sz2.register.glossar">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Glossar</title> 
+                <respStmt>
+                    <resp>erstellt und bearbeitet von</resp>                    
+                    <name>Alexander Zirr</name>
+                    <name>Andreas Herz</name>
+                    <name>Jan-Hendrik Hütten</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                    <address>
+                        <street>Lessingplatz 1</street>
+                        <name type="city">Wolfenbüttel</name>
+                        <postCode>D-38299</postCode>
+                        <name type="country">Germany</name>
+                    </address>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><!--Max: Links in Fenstern d. Glossars, z.B. Libretti-->
+            <list type="gloss" xml:id="glossar" xmlns:tei="http://www.tei-c.org/ns/1.0">
+                <item xml:id="ablagergeld">
+                    <label>Ablagergeld</label>
+                    <list>
+                        <item>Abgabe wegen des Rechts des Ablagers, der Verpflichtung der Untertanen zur Verpflegung und Beherbergung des Landesherrn mit seinem Gefolge auf Reisen.</item>
+                    </list>
+                </item>
+                <item xml:id="alonge">
+                    <label>Alonge</label>
+                    <list>
+                        <item>Verlängerung einer Perücke</item>
+                    </list>
+                </item>
+                <item xml:id="accompagnieren">
+                    <label>accompagnieren</label>
+                    <list>
+                        <item>begleiten</item>
+                    </list>
+                </item>
+                <item xml:id="atlas">
+                    <label>Atlas</label>
+                    <list>
+                        <item>Satinstoff</item>
+                    </list>
+                </item>
+                <!--<item xml:id="ambassadeur">
+                    <label>Ambassadeur</label>
+                    <list>
+                        <item>Gesandter ersten Ranges, in der Regel nur von souveränen Herrschern entsandt; vgl. Envoyé</item>
+                    </list>
+                </item>-->
+                <item xml:id="amourette">
+                    <label>Amourette</label>
+                    <list>
+                        <item>Liebschaft</item>
+                    </list>
+                </item>
+                <item xml:id="appartement">
+                    <label>Appartement</label>
+                    <list>
+                        <item>Ein besonderes Zimmer, auch Zusammenkunft zu Spiel und Vergnügen</item>
+                    </list>
+                </item>
+                <item xml:id="arendator">
+                    <label>Arendator</label>
+                    <list>
+                        <item>Gutsverwalter, Pächter</item>
+                    </list>
+                </item>
+                <item xml:id="armatur">
+                    <label>Armatur</label>
+                    <list>
+                        <item>Soldaten-Ausrüstung, Bewaffnung</item>
+                    </list>
+                </item>
+                <item xml:id="artig">
+                    <label>artig</label>
+                    <list>
+                        <item>kunstgerecht, sachgemäß, einem Gegenstand oder Verhältnis angemessen</item>
+                    </list>
+                </item>
+                <item xml:id="assemblee">
+                    <label>Assemblée</label>
+                    <list>
+                        <item>Höfische Zusammenkunft von adligen Herren und Damen mit Spielen, Tanz und ähnlicher Zerstreuung, tw. unterschieden in einfache/gewöhnliche ("ordinaire") und besondere/große ("grande")</item>
+                    </list>
+                </item>
+                <item xml:id="assembliren">
+                    <label>assembliren</label>
+                    <list>
+                        <item>versammeln</item>
+                    </list>
+                </item>
+                <item xml:id="attollerie">
+                    <label>Attollerie</label>
+                    <list>
+                        <item>Artillerie</item>
+                    </list>
+                </item>
+                <item xml:id="auflehnen">
+                    <label>auflehnen</label>
+                    <list>
+                        <item>Ein Darlehen aufnehmen, (Geld) leihen</item>
+                    </list>
+                </item>
+                <item xml:id="aufleinen">
+                    <label>aufleinen</label>
+                    <list>
+                        <item>Ein Darlehen aufnehmen, (Geld) leihen</item>
+                    </list>
+                </item>
+                <item xml:id="bassette">
+                    <label>Bassette</label>
+                    <list>
+                        <item>Karten-Glücksspiel, wohl in Venedig erfunden, seit der 2. Hälfte des 17. Jahrhunderts in Frankreich bekannt; Vorläufer des späteren Pharaon/Faro. Vgl. Vabanque</item>
+                    </list>
+                </item>
+                <item xml:id="bauernhochzeit">
+                    <label>Bauernhochzeit</label>
+                    <list>
+                        <item>Nachahmung einer bäuerlichen Hochzeit als Rollenspiel, bei dem die jeweilig durch die Teilnehmer eingenommenen Ämter und Rollen, die variieren können, vorher ausgelost werden. Daneben existieren zahlreiche Abwandlungen des Spiels, immer aber die Rollenvergabe durch das Los erfolgt. Vgl. "Königsspiel"</item>
+                    </list>
+                </item>
+                <item xml:id="boucle">
+                    <label>Boucle</label>
+                    <list>
+                        <item>Schleife, Schnalle (deutsche Flexion, pl. die Bouclen, aus dem Französischen)</item>
+                    </list>
+                </item>
+                <item xml:id="bunte_reihe">
+                    <label>Bunte Reihe</label>
+                    <list>
+                        <item>Höfisches Gesellschaftsspiel, bei dem die Kavalliere und Damen des Hofes ausnahmsweise sowie mitunter verkleidet an der fürstlichen Tafel speisen, wobei die Sitzordnung ausgelost wird und jeweils ausgeloste Paare (Mann und Frau) zusammensitzen, aber diverse Variationen möglich sind</item>
+                    </list>
+                </item>
+                <item xml:id="campagne">
+                    <label>Campagne</label>
+                    <list>
+                        <item>Feldzug</item>
+                    </list>
+                </item>
+                <item xml:id="caponir">
+                    <label>Caponir, Capunir</label>
+                    <list>
+                        <item n="1">Koffer</item>
+                        <item n="2">(im Festungswesen) Schießgrube, -hütte</item>
+                    </list>
+                </item>
+                <item xml:id="caravine">
+                    <label>Caravine</label>
+                    <list>
+                        <item>Karaffine, kleine Karaffe, d. i. runde Flasche mit langem Hals</item>
+                    </list>
+                </item>
+                <item xml:id="caschou">
+                    <label>Caschou</label>
+                    <list>
+                        <item>Exotischer, aus Ostindien stammender dicklicher, gummi- oder harzartiger Saft, zu würzigen Bonbons verarbeitet</item>
+                    </list>
+                </item>
+                <item xml:id="cediren">
+                    <label>cediren</label>
+                    <list>
+                        <item>abtreten, übereignen</item>
+                    </list>
+                </item>
+                <item xml:id="cessation">
+                    <label>Cessation</label>
+                    <list>
+                        <item>Abtreten einer Forderung an einen Dritten; Überlassung</item>
+                    </list>
+                </item>
+                <item xml:id="chagriniren">
+                    <label>chagriniren</label>
+                    <list>
+                        <item>bekümmern, grämen</item>
+                    </list>
+                </item>
+                <item xml:id="chaise">
+                    <label>Chaise</label>
+                    <list>
+                        <item>Zweisitzige Kutsche in leichter Bauweise</item>
+                    </list>
+                </item>
+                <item xml:id="chargiren">
+                    <label>chargiren</label>
+                    <list>
+                        <item>(Waffen) laden und feuern</item>
+                    </list>
+                </item>
+                <item xml:id="chociren">
+                    <label>chociren</label>
+                    <list>
+                        <item>beleidigen</item>
+                    </list>
+                </item>
+                <item xml:id="cinq_et_neuf">
+                    <label>Cinq et neuf</label>
+                    <list>
+                        <item>Würfel-Glücksspiel</item>
+                    </list>
+                </item>
+                <item xml:id="cinquille">
+                    <label>Cinquille</label>
+                    <list>
+                        <item>Kartenspiel; Variante des Lombre-Spiels für fünf Personen</item>
+                    </list>
+                </item>
+                <item xml:id="collation">
+                    <label>Collation</label>
+                    <list>
+                        <item>(Zwischen-)Mahlzeit, Imbiss</item>
+                    </list>
+                </item>
+                <item xml:id="collationiren">
+                    <label>collationiren</label>
+                    <list>
+                        <item>(Zwischen-)Mahlzeit halten, Imbiss einnehmem</item>
+                    </list>
+                </item>
+                <item xml:id="comitat">
+                    <label>Comitat</label>
+                    <list>
+                        <item>größeres Gefolge</item>
+                    </list>
+                </item>
+                <item xml:id="commission">
+                    <label>Commission</label>
+                    <list>
+                        <item>Auftrag, Anweisung</item>
+                    </list>
+                </item>
+                <item xml:id="compagnie">
+                    <label>Compagnie</label>
+                    <list>
+                        <item>Gesellschaft</item>
+                    </list>
+                </item>
+                <item xml:id="condemniren">
+                    <label>condemniren</label>
+                    <list>
+                        <item>verurteilen, verdammen</item>
+                    </list>
+                </item>
+                <item xml:id="contrescarpe">
+                    <label>Contrescarpe</label>
+                    <list>
+                        <item>Äußere Mauer oder Böschung vor dem Hauptgraben einer Festung</item>
+                    </list>
+                </item>
+                <item xml:id="cornet">
+                    <label>Cornet</label>
+                    <list>
+                        <item>Haube</item>
+                    </list>
+                </item>
+                <item xml:id="curieuse">
+                    <label>curieuse</label>
+                    <list>
+                        <item>neugierig</item>
+                    </list>
+                </item>
+                <item xml:id="creditiv">
+                    <label>Creditiv</label>
+                    <list>
+                        <item>Beglaubigungsdokument</item>
+                    </list>
+                </item>
+                <item xml:id="crepine">
+                    <label>Crepine</label>
+                    <list>
+                        <item>Franse</item>
+                    </list>
+                </item>
+                <item xml:id="daffet">
+                    <label>Daffet</label>
+                    <list>
+                        <item>Taft</item>
+                    </list>
+                </item>
+                <item xml:id="defrayiren">
+                  <label>defrayiren</label>  
+                    <list>
+                        <item>die Kosten während einer Reise übernehmen</item>
+                    </list>
+                </item>
+                <item xml:id="devotion">
+                    <label>Devotion</label>
+                    <list>
+                        <item>Frömmigkeit, Andacht</item>
+                    </list>
+                </item>
+                <item xml:id="dimittiren">
+                    <label>dimittiren</label>
+                    <list>
+                        <item>entlassen, beurlauben</item>
+                    </list>
+                </item>
+                <item xml:id="demiliren">
+                    <label>demilieren</label>
+                    <list>
+                        <item>sich einlassen, ein-, vermischen, streiten</item>
+                    </list>
+                </item>
+                <item xml:id="dubliren">
+                    <label>dubliren</label>
+                    <list>
+                        <item>marschieren in beschleunigtem Gleichschritt (Doublier-Schritt)</item>
+                    </list>
+                </item>
+                <item xml:id="duerfen">
+                    <label>dürfen</label>
+                    <list>
+                        <item n="1">müssen, brauchen (vor allem in der Verneinung)</item>
+                        <item n="2">können</item>
+                    </list>
+                </item>
+                <item xml:id="echappieren">
+                    <label>echappieren</label>
+                    <list>
+                        <item>entweichen, entwischen</item>
+                    </list>
+                </item>
+                <item xml:id="elatiren">
+                    <label>elatiren</label>
+                    <list>
+                        <item>Als Verb nicht nachgewiesen; wohl Ableitung von Elation, d. i. Hochstimmung, Begeisterung, Stolz</item>
+                    </list>
+                </item>
+                <item xml:id="elfenbein">
+                   <label>Helfenbein</label>     
+                   <list>
+                       <item>Elfenbein</item>
+                   </list>
+                </item>
+                <item xml:id="employiren">
+                    <label>employiren</label>
+                    <list>
+                        <item>einstellen, in Dienst nehmen</item>
+                    </list>
+                </item>
+                <item xml:id="entreteniren">
+                    <label>entreteniren</label>
+                    <list>
+                        <item>jmd. oder etwas unterhalten; warten, pflegen</item>
+                    </list>
+                </item>
+                <item xml:id="envoye">
+                    <label>Envoy&#xE9;</label>
+                    <list>
+                        <item>Gesandter zweiten Ranges<!--; vgl. Ambassadeur--></item>
+                    </list>
+                </item>
+                <item xml:id="esquadron">
+                    <label>Esquadron</label>
+                    <list>
+                        <item>Unterabteilung eines Kavallerie- oder Dragonerregiments für eigenständige Operationen; Anfang des 18. Jahrhunderts i. d. R. zwei Kompanien (ca. 100 Berittene) umfassend; tw. auch Schwadron genannt</item>
+                    </list>
+                </item>
+                <item xml:id="evituiren">
+                    <label>evituiren</label>
+                    <list>
+                        <item>vermeiden, abwehren</item>
+                    </list>
+                </item>
+                <item xml:id="excelliren">
+                    <label>excelliren</label>
+                    <list>
+                        <item>herausragen, sich hervortun oder auszeichnen</item>
+                    </list>
+                </item>
+                <item xml:id="exequiren">
+                    <label>exequiren</label>
+                    <list>
+                        <item>(eine gerichtliche Anordnung, Urteil) vollziehen, vollstrecken</item>
+                    </list>
+                </item>
+                <item xml:id="favor">
+                    <label>Favor</label>
+                    <list>
+                        <item>Gunst, Gunsterweis</item>
+                    </list>
+                </item>
+                <item xml:id="favorabel">
+                    <label>favorabel</label>
+                    <list>
+                        <item>vorteilhaft, günstig</item>
+                    </list>
+                </item>
+                <item xml:id="fendrich">
+                    <label>Fendrich</label>
+                    <list>
+                        <item>Fähnrich (unterster Offiziers-Dienstgrad), auch Cornett; führte die Standarte der Einheit</item>
+                    </list>
+                </item>
+                <item xml:id="fontange">
+                    <label>Fontange</label>
+                    <list>
+                        <item>Haube, benannt nach der Mätresse Ludwigs XIV. Marie Ang&#xE9;lique de Scorailles, Herzogin de Fontanges</item>
+                    </list>
+                </item>
+                <item xml:id="furierzettel">
+                    <label>Furierzettel</label>
+                    <list>
+                        <item>Verzeichnis über die zu erwartenden Personen und ihrem Gefolge für die Vorbereitung von Quartier und Verpflegung.</item>
+                    </list>
+                </item>
+                <item xml:id="galanteries">
+                    <label>Galanteries</label>
+                    <list>
+                        <item>Galanteriewaren, modische Accessoires</item>
+                    </list>
+                </item>
+                <item xml:id="gallone">
+                    <label>Gal(l)one, auch Gallune</label>
+                    <list>
+                        <item>Tresse, Spitze, Borte</item>
+                    </list>
+                </item>
+                <item xml:id="garde_du_corps">
+                    <label>Garde du Corps</label>
+                    <list>
+                        <item>Leibgarde</item>
+                    </list>
+                </item>
+                <item xml:id="geding">
+                    <label>Geding</label>
+                    <list>
+                        <item>(Ehe-)Vertrag, rechtliche Übereinkunft</item>
+                    </list>
+                </item>
+                <item xml:id="geridon">
+                    <label>Geridon</label>
+                    <list>
+                        <item>Frz.Guéridon, kleiner Beistelltisch mit einem Fuß</item>
+                    </list>
+                </item>
+                <item xml:id="orden_vom_goldenen_vlies">
+                    <label>Orden vom Goldenen Vlies (Ordre de la Toison d'Or)</label>
+                    <list>
+                        <item>Ritterorden, 1430 vom Herzog von Burgund gegründet, seit 1477 durch Erbgang an die Habsburger gefallen, bedeutendster Orden des Hauses Habsburg</item>
+                    </list>
+                </item>
+                <item xml:id="granadier">
+                    <label>Granadier</label>
+                    <list>
+                        <item>Auch Granadirer, Granatier, Grenadier; meist bewährte, ältere Soldaten, die bei schwierigen Angriffen Granaten warfen</item>
+                    </list>
+                </item>
+                <item xml:id="grand_mousquetier">
+                    <label>grand mousquetier</label>
+                    <list>
+                        <item>Mitglied der 1. Kompanie der königlich-französischen Gardemusketiere</item>
+                    </list>
+                </item>
+                <item xml:id="haendsch">
+                    <label>Händsch</label>
+                    <list>
+                        <item>Handschuh</item>
+                    </list>
+                </item> 
+                <item xml:id="hauptfluss">
+                    <label>Hauptfluss</label>
+                    <list>
+                        <item>Schnupfen, Erkältung</item>
+                    </list>
+                </item>
+                <item xml:id="heimliche_frage">
+                    <label>Heimliche Frage</label>
+                    <list>
+                        <item>Sprach- und Rätselspiel für mindestens drei Personen mit dem Ziel, durch aneinander gereihtes heimliches Fragen und Antworten eine zutreffende Antwort auf die Anfangsfrage zu erhalten</item>
+                    </list>
+                </item>
+                <item xml:id="hundert_und_eins">
+                    <label>Hundert und Eins</label>
+                    <list>
+                        <item>Karten-Glücksspiel</item>
+                    </list>
+                </item>
+                <item xml:id="importiren">
+                    <label>importiren</label>
+                    <list>
+                        <item>von Belang sein, wert sein</item>
+                    </list>
+                </item>
+                <item xml:id="intercession">
+                    <label>Intercession</label>
+                    <list>
+                        <item>Fürsprache, Vermittlung</item>
+                    </list>
+                </item>
+                <item xml:id="invention">
+                    <label>Invention</label>
+                    <list>
+                        <item>Erfindung</item>
+                    </list>
+                </item>
+                <item xml:id="johannistag">
+                    <label>Johannistag</label>
+                    <list>
+                        <item>Gedenktag für Sankt Johannes den Täufer (24. Juni)</item>
+                    </list>
+                </item>
+                <item xml:id="kinderblattern">
+                    <label>Kinderblattern</label>
+                    <list>
+                        <item>Windpocken</item>
+                    </list>
+                </item>
+                <item xml:id="koenigsspiel">
+                    <label>Königsspiel</label>
+                    <list>
+                        <item>Das Königsspiel steht im Zusammenhang der Spiele um den Tag der Heiligen Drei Könige (6. Januar). Dabei wurde ein ganzer königlicher Hof in einem Rollenspiel abgebildet, wobei die jeweilig durch die Teilnehmer eingenommenen Ämter und Rollen, die variieren konnten, vorher ausgelost wurden. Es existierten zahlreiche, auch volkstümliche Abwandlungen des Spiels, wie der "Bohnenkönig", wo eine in einen Kuchen eingebackene Bohne und das Finden derselben im eigenen Kuchenstück darüber entschieden, wer aus Familie oder Haus König für einen Tag sein durfte. Vgl. hierzu auch "Bauernhochzeit".</item>
+                    </list>
+                </item>
+                <item xml:id="kohlhay">
+                    <label>Kohlhay</label>
+                    <list>
+                        <item>Bezirk für einen (Holz-)Kohlenmeiler im Wald</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_amphitrion">
+                    <label>Komödie "Amphitrion"</label>
+                    <list>
+                        <item>Komödie von Jean-Baptiste Poquelin dit "Moli&#232;re" (1622-1673) in drei Akten, 1668 uraufgeführt.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_attendez_mois_sous_lorme"><!-- Infos ausführen - Komödien bei Gottsched -->
+                    <label>Komödie "Attendez-moi sous l&#39;orme"</label>
+                    <list>
+                        <item>Komödie von Jean Fran&#231;ois Regnard (1655-1709) von 1694.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_democrite"><!-- Infos ausführen -->
+                    <label>Komödie "D&#233;mocrite amoureux"</label>
+                    <list>
+                        <item>Komödie von Jean Fran&#231;ois Regnard (1655-1709) von 1700.</item>
+                    </list>
+                </item>                
+                <item xml:id="komoedie_il_principe_finto">
+                    <label>Komödie "Il Principe finto"</label>
+                    <list>
+                        <item>Vermutlich Carlo Ambrosi: IL FINTO PRINCIPE COMEDIA Non meno ridicula, che honesta. Bologna 1687. Die 12°-Ausgabe Venezia 1692 (75 S.) in der HAB: Lk 23. Der Stoff des falschen Fürsten wurde oft literarisch gestaltet, von Ferrante Pallavicino, Kaspar Stieler (Lustspiel "Der vermeinte Printz", 1665), Carlo Goldoni u. a. Ambrosis Komödie mit dem typischen Commedia dell'Arte Personal: Pantalone, Dottore, Zanni, Flamina usw. Vgl. Helmut G. Asper: Spieltexte der Wanderbühne. Ein Verzeichnis der Dramenmanuskripte des 17. und 18. Jahrhunderts in Wiener Bibliotheken. Wien 1975, S. 21; Martino, 396.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_jodelet_ou_le_maitre_valet">
+                    <label>Komödie "Jodelet ou le Ma&#238;tre valet"</label>
+                    <list>
+                        <item>Komödie in fünf Akten von Paul Scarron (1610-1660), die erstmals 1643 in Paris aufgeführt wurde.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_la_baguette_de_vulcain"><!-- Infos ausführen -->
+                    <label>Komödie "La Baguette de Vulcain"</label>
+                    <list>
+                        <item>Komödie von Jean Fran&#231;ois Regnard (1655-1709) und Rivi&#232;re de Dufresny (1657-1724) von 1692/1693.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_la_coquette"><!-- Infos ausführen -->
+                    <label>Komödie "La Coquette ou L&#39;Acad&#233;mie des dames"</label>
+                    <list>
+                        <item>Komödie von Jean Fran&#231;ois Regnard (1655-1709) von 1691.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_la_tapisserie_vivante">
+                    <label>Komödie "La Tapisserie Vivante. Comedie, Tirée Des Italiens, Et ajustée au Theatre Fran&#231;ois"</label>
+                    <list>
+                        <item>Komödie von Le Sieur de Romagnesy, La Haye 1696. HAB: Lm Kapsel 5 (11). Als Verfasser wird allgemein Jean-Antoine Romagnesi (1690-1742) angegeben. Aufgrund des Erscheinungsjahres ist entweder ein Namensvetter als Autor oder ein früheres Geburtsdatum anzunehmen. Die Widmungsepistel ist jedenfalls nur mit "DE ROMAGNESY" unterzeichnet. Eine Übersetzung ins Deutsche durch Friedrich Christian Bressand (1670-1699), wie von Herzogin Christine Luise am 18. 6. 1698 in ihrem Tagebuch (Cod. Guelf. 211.1 Extrav.) angegeben, konnten wir im Druck nicht nachweisen.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_le_distrait">
+                    <label>Komödie "Le Distrait. Comedie"</label>
+                    <list>
+                        <item>Komödie von Jean Fran&#231;ois Regnard (1655-1709), uraufgeführt am 2. 12. 1697 und im folgenden Jahr in Paris gedruckt bei Pierre Ribou. Einführung und Text in: Sabine Chaouche: Relevés de mise en scène (1686-1823). L'Homme à bonne fortune, Le Joueur, Le Distrait (Comédie-Fran&#231;aise). Paris 2015, S. 425-597.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_les_menechmes">
+                    <label>Komödie "Les Menechmes, ou les Jumeaux, Comedie"</label>
+                    <list>
+                        <item>Doppelgänger-Komödie von Jean Fran&#231;ois Regnard (1655-1709), im Dezember 1705 erstmals auf die Bühne gebracht in der Comédie-Fran&#231;aise und 1706 in Paris bei P. Ribou im Druck erschienen (BN Paris); zahlreiche weitere Ausgaben. Kein Nachweis in der HAB. Der Theaterzettel einer deutschen Aufführung am 19. 6. 1741 in SUB Göttingen: DD99 D2. Eine französische Ausgabe (Wien: Ghelen 1752) in der ULB Halle/S.; eine französische Ausgabe (Paris: Vve. Duchesne 1774) einst in der SB Berlin - PK (Kriegsverlust).</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_les_vacances">
+                    <label>Komödie "Les Vacances"</label>
+                    <list>
+                        <item>Florent Carton Dancourt (1661-1725, Schauspieler und Verfasser meist kurzer Bühnen-Einakter an der Comédie-Fran&#231;aise): Les Vacances, Comedie. Paris: Thomas Guillain 1697, mit Musik; auch La Haye: Foulque 1705. Erstaufführung wohl 1696.<!-- Nicht in der HAB --></item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_lecole_des_femmes"><!-- Infos ausführen -->
+                    <label>Komödie "L&#39;&#233;cole des Femmes"</label>
+                    <list>
+                        <item>Komödie in fünf Akten von Jean-Baptiste Poquelin dit "Moli&#232;re" (1622-1673), die 1662 in Paris uraufgeführt wurde.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_le_deuil">
+                    <label>Komödie "Le deuil"</label>
+                    <list>
+                        <item>Komödie in einem Akt von Noël Lebreton, Sieur de Hauteroche, die 1672 uraufgeführt wurde.</item><!--Infos ausführen-->
+                    </list>
+                </item>
+                <item xml:id="komoedie_letourdi"><!-- Infos ausführen -->
+                    <label>Komödie "L&#39;&#201;tourdi ou les Contretemps, das ist der Dumme, oder die Klugheit zur Unzeit"</label>
+                    <list>
+                        <item>Komödie in fünf Akten von Jean-Baptiste Poquelin dit "Moli&#232;re" (1622-1673), die 1655 in Lyon uraufgeführt wurde.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_le_grondeur">
+                    <label>Komödie "Le Grondeur"</label>
+                    <list>
+                        <item>Komödie in drei Akten von David-Augustin de Brueys (1641-1723), wohl im Januar 1691 uraufgeführt; in der HAB zwei unterschiedliche Ausgaben La Haye 1694, PPN: 153412410 und 151293724.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_lhomme_a_bonne_fortune">
+                    <label>Komödie "L&#39;homme &#224; bonne fortune"</label>
+                    <list>
+                        <item>Komödie in fünf Akten von Michel Baron (Boyron) (1653-1729), 1686 uraufgeführt und gedruckt bei Thomas Guillain in Paris. Einführung und Text in Sabine Chaouche: Relevés de mise en scène (1686-1823). L'Homme à bonne fortune, Le Joueur, Le Distrait (Comédie-Fran&#231;aise). Paris 2015, S. 21-226.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_le_joueur">
+                    <label>Komödie "Le Joueur"</label>
+                    <list>
+                        <item>Komödie in fünf Akten von Jean Fran&#231;ois Regnard (1655-1709), uraufgeführt im Dezember 1696, im Jahr darauf gedruckt bei Thomas Guillain in Paris. Einführung und Text in Sabine Chaouche: Relevés de mise en scène (1686-1823). L'Homme à bonne fortune, Le Joueur, Le Distrait (Comédie-Fran&#231;aise). Paris 2015, S. 227-424.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_le_mariage_force">
+                    <label>Komödie "Le mariage forc&#233;"</label>
+                    <list>
+                        <item>Komödie von Jean-Baptiste Poquelin dit "Moli&#232;re" (1622-1673), die im Januar 1664 von Jean Baptiste Lully (1632-1687) als Ballettkomödie auf die Bühne gebracht wurde: Le Mariage Force Ballet Dv Roy, Dansé par sa Majesté. Paris: Ballard 1664. HAB: Lm 2576 (1); vgl. Thiel, Eberhard und Gisela Rohr: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14), Nr. 1057. Moli&#232;res Komödie ist in verschiedenen Werkausagaben in der HAB enthalte; aus dem einstigen Besitz Herzog Ludwig Rudolphs stammt die mit Radierungen versehene Edition Nouvelle, Teil 3 (Amsterdam 1684), der die Mariage Forcé enthält. HAB: Lm 2548 (3).</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_le_medecin_malgre_lui"><!-- Infos ausführen -->
+                    <label>Komödie "Le m&#233;decin malgre lui"</label>
+                    <list>
+                        <item>Komödie in drei Akten und Prosa von Jean-Baptiste Poquelin dit "Moli&#232;re" (1622-1673), am 6. August 1666 in Paris uraufgeführt; deutsch: "Der Arzt wider willen".</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_le_negligent"><!-- Infos ausführen -->
+                    <label>Komödie "Le N&#233;gligent"</label>
+                    <list>
+                        <item>Komödie in drei Akten von Rivi&#232;re de Dufresny (1657-1724) von 1686.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_le_tombeau_de_maitre_andre"><!-- Link nachverfolgbar machen -->
+                    <label>Komödie "Le Tombeau de Ma&#238;tre Andr&#233;"</label>
+                    <list>
+                        <item>Komödie von Claude-Ignace Brugi&#232;re de Barante (1669/70-1745), erstmals am 29. Januar 1695 im Th&#233;&#xE2;tre de l'hôtel de Bourgogne, Vorgänger der Comédie-Fran&#231;aise, aufgeführt; vgl. die Online-Dokumentation: https://théâtre-documentation.com/content/le-tombeau-de-ma&#238;tre-andré-claude-ignace-brugière-de-barante.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_streit_der_liebe_und_ehre">
+                    <label>Komödie "Streit der Ehre und Liebe, oder Celion und Bellinde"</label>
+                    <list>
+                        <item>Komödie von Friedrich Christian Bressand (1670-1699) mit Gesangsstücken, die mutmaßlich von Reinhard Keiser (1674-1739) komponiert wurden (vgl. auch Pegah: Und abends war opera, S. 188): Schäfer-Spiel/ Streit der Ehre und der Liebe/ Oder CELION und BELINDE, genannt/ Vorgestellet auf dem kleinern THEATRO Des Fürstlichen Lust-Hauses zu Saltzthalen. Wolfenbüttel: Christian Bartsch [1707]. <ref target="http://diglib.hab.de/drucke/textb-116/start.htm">HAB: Textb. 116</ref>; Gustav Friedrich Schmidt: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele (Komödien) mit Musik bis zur Mitte des 18. Jahrhunderts. München 1920, Nr. 176.</item>
+                    </list>
+                </item>
+                <item xml:id="komoedie_tartuffe">
+                    <label>Komödie "Der Tartuffe oder Der Betrüger"</label>
+                    <list>
+                        <item>Komödie in fünf Akten von Jean-Baptiste Poquelin dit "Moli&#232;re" (1622-1673), 1669 (nach zwei von der Zensur verbotenenen Versionen 1664 bzw. 1667) uraufgeführt (Originaltitel: Tartuffe ou L’Imposteur).</item>
+                    </list>
+                </item>
+                <item xml:id="kompetenzgeld">
+                    <label>Kompetenzgeld</label>
+                    <list>
+                        <item>aus einem Amt zustehende Einkünfte</item>
+                    </list>
+                </item>
+                <item xml:id="kotsasse">
+                        <label>Kotsasse</label>
+                        <list>
+                            <item>Kleinbauer</item>
+                        </list>
+                </item>
+                <item xml:id="labet">
+                    <label>Labet (La Bête)</label>
+                    <list>
+                        <item>Kartenspiel</item>
+                    </list>
+                </item>
+                <item xml:id="laermplatz">
+                    <label>Lärmplatz</label>
+                    <list>
+                        <item>Alarmposten, -stellung</item>
+                    </list>
+                </item>
+                <item xml:id="levade">
+                    <label>Levade</label>
+                    <list>
+                        <item>Übung der Reitkunst, ähnlich der Kapriole, bei der das Pferd die Hinterbeine beugen und den Rumpf mit angezogenen Vorderbeinen anheben muss; gern angewendet zum Gruß des Reiters an Höherstehende</item>
+                    </list>
+                </item>
+                <item xml:id="liverey">
+                    <label>Liverey</label>
+                    <list>
+                        <item>Livree</item>
+                    </list>
+                </item>
+                <item xml:id="lombre">
+                    <label>Lombre (L'Hombre)</label>
+                    <list>
+                        <item>Kartenspiel für meist drei Personen, ursprünglich aus Spanien stammend, doch v. a. am französischen Hof verbreitet</item>
+                    </list>
+                </item>
+                <item xml:id="maenich">
+                    <label>Mänich</label>
+                    <list>
+                        <item>Auch Männisch; kleiner Mensch, Menschlein <!-- Stieler WB, 1239 --></item>
+                    </list>
+                </item>
+               <item xml:id="manquiren">
+                    <label>manquiren</label>
+                    <list>
+                        <item>aufhören, unterlassen, verweigern</item>
+                    </list>
+                </item>
+                <item xml:id="messe_braunschweig">
+                    <label>Braunschweiger Messe</label>
+                    <list>
+                        <item>1498 landesherrlich, 1505 und 1521 kaiserlich privilegierte Messen in der Stadt Braunschweig, zweimal im Jahr, für jeweils 10 Tage im Sommer (um Laurentii, 10. August) bzw. im Winter (um Mariae Lichtmeß, 2. Februar), stattfindend; Niedergang im 16. und 17. Jahrhundert; nach der Eroberung der Stadt Braunschweig 1671 durch Herzog Rudolph August von Braunschweig-Wolfenbüttel neu belebt und offiziell beginnen lassend mit dem Montag nach Mariae Lichtmess (2. Februar) bzw. Laurentius (10. August) für jeweils 18 Tage; gehörten bis Anfang des 19. Jahrhunderts neben den Messen in Leipzig und Frankfurt am Main zu den größten und frequentiertesten in Deutschland</item>
+                    </list>
+                </item>   
+                <item xml:id="messe_leipzig">
+                    <label>Leipziger Messe</label>
+                    <list>
+                        <item>Seit 1497 kaiserlich privilegierte Messe in der Stadt Leipzig, die dreimal im Jahr (Neujahr, Ostern, Michaelistag (29.09)) für jeweils mehrere Tage stattfand; die Messen gehörten bis ins 19. Jahrhundert zu größten und frequentiertesten in Deutschland</item>
+                    </list>
+                </item>    
+                <item xml:id="mondiren">
+                    <label>mondiren</label>
+                    <list>
+                       <item>(Bedienstete, insbes. einfache Soldaten) ausstatten (vorzugsweise mit Kleidung: Livree, Uniform versehen)</item>
+                    </list>
+                </item>
+                <item xml:id="mondirung">
+                    <label>Mondierung</label>
+                    <list>
+                        <item>Ausstattung (insbes. einfacher Soldaten), vorzugsweise mit Kleidung: Livree, Uniform</item>
+                    </list>
+                </item>
+                <item xml:id="mortier">
+                    <label>mortier (pl. mortieren)</label>
+                    <list>
+                        <item>Mörser</item>
+                    </list>
+                </item>
+                <item xml:id="nachen">
+                    <label>Nachen</label>
+                    <list>
+                        <item>flaches Boot für die Binnenschifffahrt</item>
+                    </list>
+                </item>
+                <item xml:id="negotiieren">
+                    <label>negotiieren</label>
+                    <list>
+                        <item>(Geschäfte) betreiben, verhandeln</item>
+                    </list>
+                </item>
+                <item xml:id="nesseltuch">
+                    <label>Neßel-Tuch</label>
+                    <list>
+                        <item>ursprünglich aus den Stängeln der Brennnessel gefertigter Stoff, später auch aus Baumwolle gefertigt</item>
+                    </list>
+                </item>
+                <item xml:id="nouvelle">
+                    <label>Nouvelle</label>
+                    <list>
+                        <item>Neuigkeit</item>
+                    </list>
+                </item>                
+                <item xml:id="obligiren">
+                    <label>obligieren</label>
+                    <list>
+                        <item>zwingen, von frz. obliger</item>
+                    </list>
+                </item>
+                <item xml:id="ohm">
+                    <label>Ohm</label>
+                    <list>
+                        <item>Hohlmaß für Flüssigkeiten, speziell für Wein, ca. 134 bis 175 Liter</item>
+                    </list>  
+                </item>
+                <item xml:id="oper_attalante"><!-- Infos ausführen -->
+                    <label>Oper "Atalanta"</label>
+                    <list>
+                        <item>Oper von Friedrich Christian Bressand (1670-1699) in drei Akten, die 1698 in Braunschweig uraufgeführt wurde. Die Musik stammt vermutlich von Antonio Caldara. Vgl. Thiel: Libretti, Nr. 249, <ref target="http://diglib.hab.de/drucke/textb-24/start.htm">HAB: Textb. 24</ref>.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_basilius">
+                    <label>Oper "Basilius"</label>
+                    <list>
+                        <item>Flaminio Parisetti (Text) und Giovanni Battista Alveri (Komp.): Il Rè Pastore, overo Il Basilio in Arcadia. Drama per musica an. 1691 (Wolfenbüttel: Bißmarck); deutsch von Friedrich Christian Bressand (1670-1699): Der Königliche Schäfer/ oder BASILIUS in Arcadien/ in einer Jtaliänischen OPERA auf dem Braunschweiguischen Schauplatze vorgestellet/ im Jahr 1691. und daraus in das Teusche übersetzet. Wolfenbüttel: Bißmarck o. J. <ref target="http://diglib.hab.de/drucke/textb-530/start.htm">HAB: Textb. 530</ref>. VD17 23:251822D. Der Stoff zu dieser Oper war Philipp Sidneys höfischem Roman "Arcadia" entnommen. Eine Aufführung des italienischen Originals ist für den Februar 1691 in Braunschweig bezeugt, die deutsche Fassung wurde im Februar 1696 und im Februar 1699 geboten. Letztere deckt sich mit dem Eintrag Herzogin Christine Luise vom 6. 2. 1699 (Cod. Guelf. 211.1 Extrav.). Vgl. Friedrich Chrysander: Geschichte der braunschweig-wolfenbüttelschen Capelle und Oper vom 16. bis zum 18. Jahrhundert: In: Ders. (Hg.): Jahrbücher für Musikalische Wissenschaft 1 (1863), S. 147-286, S. 255; Gustav Friedrich Schmidt: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele (Komödien) mit Musik bis zur Mitte des 18. Jahrhunderts. München 1920, Nr. 68 (ital. Orig. 1691 in Braunschweig) u. 108 (dt. Fassung, 1696 in Braunschweig). Als Nr. 134 erscheint das Singspiel "Arcadia, oder die Königliche Schäferey", Braunschweig, Febr. 1699; Thiel, Eberhard und Gisela Rohr: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14), Nr. 988 u. 1364.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_daniel">
+                    <label>Oper "Daniel"</label>
+                    <list>
+                        <item>Johann Christian Knorr von Rosenroth (Text), Georg Caspar Schürmann (Komp.): Daniel. Jn einem Sing-Spiel vorgestellet auf dem grossen Braunschweigischen Schau-Platz. Braunschweig [1701]. Das Libretto in HAB: Textb. 157; auch in Stadtbibliothek Braunschweig: Brosch. I 20.612; Universitäts- und Landesbibliothek Halle a. d. S.: 67 A 4344 (digit.: http://nbn-resolving.de/urn:nbn:de:gbv:3:1-343741). Die Oper wurde zur Sommermesse am 15. August 1701 in Braunschweig uraufgeführt, am 21. 8. wiederholt. Auch 1706 soll sie dargeboten worden sein. Vgl. Friedrich Chrysander: Geschichte der braunschweig-wolfenbüttelschen Capelle und Oper vom 16. bis zum 18. Jahrhundert: In: Ders. (Hg.): Jahrbücher für Musikalische Wissenschaft 1 (1863), S. 147-286, S. 204 (ital. Orig. 1691); Gustav Friedrich Schmidt: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele (Komödien) mit Musik bis zur Mitte des 18. Jahrhunderts. München 1920, Nr. 158 u. 172; Thiel, Eberhard und Gisela Rohr: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14), Nr. 516.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_di_cestra">
+                    <label>Oper "Di Cestra"</label>
+                    <list>
+                        <item>Italienische Oper. Von uns nicht ermittelt.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_endimione">
+                    <label>Oper "Endimione"</label>
+                    <list>
+                        <item>Früherer Druck (Aufführung am 5./ 15. 10. 1700): ENDIMIONE FAVOLA PER MUSICA da rappresentarsi NEL TEATRO DI WOLFENBUTTEL. Endimion in einem singenden Schäfer-Spiel/ vorgestellet Auf dem Fürstl. Wolffenbüttelischen THEATRO. Wolfenbüttel: Bißmarck [um 1700]. <ref target="http://diglib.hab.de/drucke/textb-291-1/start.htm">HAB: Textb. 291.1</ref>. VD17 23:251605C; Chrysander, S. 254f.; Schmidt (1929), S. 8 Nr. 154; Thiel: Libretti, Nr. 627. Das Stück war bereits am 24. 5./ 3. 6. 1700 im Schloss Salzdahlum aufgeführt worden: ENDIMIONE ... NEL TEATRO Di SALTHAL. Endymion ... auf dem kleinern Theatro des Fürstlichen Lust-Hauses zu Saltzthalen. Wolfenbüttel: Bißmarck 1700. HAB: Textb. 291. VD17 23:251603N; Schmidt (1929), S. 8 Nr. 150; Thiel: Libretti, Nr. 626. Eine von beiden Drucken abweichende Fassung in HAB: Textb. Sammelbd. 3 (4). VD17 23: 252016P. Komp.: Georg Caspar Schürmann (1672-1751); Libretto: Francesco Lemwene (1634-1674). Spätere Aufführungen sind für den 21. 2. und 17. 5. 1701 - letztere in Wolfenbüttel und auf Italienisch (Tagebuch Herzog Ludwig Rudolphs, Cod. Guelf. 28 Blank., S. 13 und S. 39) -, den 20. und 23. 9. 1707 in Salzdahlum (vgl. Pegah, S. 184 u. 188) und für den März 1720 in Wolfenbüttel bezeugt: Endimione. Pastorale con Prologo rappresentato Nel Giorno Natalizo Del ... Duca Augusto Guilelmo, Duca regnante di Brunsviga e Luneburgo Per Commando ... di Elisab. Sophia Maria, Duchessa regnante ... Nel Teatro Ducale di Wolffenbüttel. Endimion. Schäffer-Spiel nebst einem Prologo ... an dem höchst-erfreulichen Geburts-Tage ... Herrn August Wilhelms ... Als solcher den 8. Mertz 1720 zu Wolffenbüttel celebriret wurde ... Auf dem Hertzoglichen Theatro zu Wolffenbüttel vorgestellet. Wolfenbüttel: Bartsch [1720]. HAB: Textb. 645; Schmidt (1929), S. 13 Nr. 247; Thiel: Libretti, Nr. 628. Lit.: Rashid Sascha Pegah: Und abends war "opera". Tagebuchnotizen aus dem Jahre 1707. In: Wolfenbütteler Notizen zur Buchgeschichte 23.2 (1998), S. 182-190, hier S. 184 u. 188; Gustav Friedrich Schmidt: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele ... mit Musik bis zur Mitte des 18. Jahrhunderts. München 1929, S. 8 u. 12; E. Thiel: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14).</item>
+                    </list>
+                </item>
+                <item xml:id="oper_giasone">
+                    <label>Oper "Giasone, Over&#242; Il conquisto de vello d&#39;oro."</label>
+                    <list>
+                        <item>Giasone, Over&#242; Il conquisto de vello d&#39;oro. Drama per Musica da rappresantarsi nel famosissimo Teatro di Brunsveig. Jason. Oder Die Eroberung des Güldenen Flüsses... Printzeßinnen Elisabeth, Christinen, Amalien, Hertzoginnen zu Braunsch. und Lüneb. unterthänigst gewidmet; Musik und Übersetzung: Georg Kaspar Schürmann; Text: Flaminio Parisetti; Aufführung in Braunschweig am 15. und wohl auch am 18. und 19. August 1707. <ref target="http://diglib.hab.de/drucke/textb-665/start.htm">HAB: Textb. 665</ref>; Thiel: Libretti, Nr. 812, vgl. auch Pegah: Und abends war opera, S. 183.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_heinrich_d_loewe">
+                    <label>Oper "Heinrich der Löwe"</label>
+                    <list>
+                        <item>Hertzog HENRICH der Löwe/ Jn einem Sing-Spiel Auf dem Braunschweigischen Schau-Platz vorgestellet [Komp.: Agostino Steffani. Textverf.: Hortensio Mauro. Übers: Gottlieb Fiedler] Braunschweig: Gruber; Kesler, 1699. HAB: Textb. 135.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_helena">
+                    <label>Oper "Helena rapita da Paride"</label>
+                    <list>
+                        <item>HELENA RAPITA DA PARIDE: Drama per Musica da rappresantarsi nel Famosissimo Theatro di Bronsvic. Oder Die vom Paris geraubte Helena. In einem Singespiel fürgestellet...; Musik: Pietro Antonio Fiocco; Text: Aurelio Aureli, neu bearbeitet von Valente; Aufführung in Braunschweig am 7. Februar 1707 in der hannoverschen Fassung von 1681 (<ref target="http://diglib.hab.de/drucke/textb-23/start.htm">HAB: Textb. 23</ref>; Thiel: Libretti, Nr. 857 (hier Aufführungsjahr 1708), <ref target="http://diglib.hab.de/drucke/textb-178/start.htm">HAB: Textb. 178</ref>, Vgl. auch Pegah: Und abends war opera, S. 183; Uraufführung der Oper 1677 in Venedig mit musikalischer Untermalung von Dominico Freschi.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_il_figlio">
+                    <label>Oper "Il figlio delle Selve"</label>
+                    <list>
+                        <item>IL FIGLIO DELLE SELVE Drama per Musica da recitarsi Nel Teatro di Wolfemb. Der in der Wildniß Erwachsene und erzogene Sohn/ Jn einem Sing-Spiel/ vorgestellet Auff dem Fürstl. Braunschweig-Wolffenb. Theatro. [Wolfenbüttel: Bismarck] Jm Jahr 1700. <ref target="http://diglib.hab.de/drucke/textb-682-2/start.htm">HAB: Textb. 682 (2)</ref>; weiteres Ex.: Textb. Slbd. 3 (5). Italienische Oper mit deutschen Szenen-Zusammenfassungen. Libretto: Carlo Sigismondo Capece (1652-1728); Komponist: vermutlich Alessandro Scarlatti (1660-1725). Das Singspiel war bereits am 4. 10. 1700 in Wolfenbüttel anlässlich des Geburtstages Herzog Anton Ulrichs von Braunschweig-Wolfenbüttel aufgeführt worden. 1753 wurde dieses die Grundlage für eine Oper von Ignaz Holzbauer (1711-1783). Vgl. Friedrich Chrysander: Geschichte der braunschweig-wolfenbüttelschen Capelle und Oper vom 16. bis zum 18. Jahrhundert: In: Ders. (Hg.): Jahrbücher für Musikalische Wissenschaft 1 (1863), S. 147-286, S. 255; Gustav Friedrich Schmidt: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele ... mit Musik bis zur Mitte des 18. Jahrhunderts. München 1929, S. 8; E. Thiel: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14), S. 146 Nr. 720.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_il_pastore_d_anfriso">
+                    <label>Oper "Il Pastore d'Anfriso"</label>
+                    <list>
+                        <item>IL PASTORE D'ANFRISO. TRAGEDIA PASTORALE Per Musica Da rapprensentarsi nel Teatro di Brauncveig L'ANNO M DC XCVII. Der Schäfer An dem Fluß Amphriso, Singe-Spiel auf dem Braunschweigischen Schauplatz vorzustellen im Jahr 1697. Braunschweig: Caspar Grubers Witwe [1697]. <ref target="http://diglib.hab.de/drucke/textb-348/start.htm">HAB: Textb. 348</ref>. VD17 39:157875H; Schmidt (1929), S. 6 Nr. 113 (gibt den Februar 1697 als Aufführungszeit an); Thiel: Libretti, Nr. 1240. Komp.: Carlo Francesco Pollarolo (1653-1723), Libretto: Girolamo Frigimelica Roberti (1653-1732). Schmidt (1929), S. 5 Nr. 92, nennt eine frühere Aufführung in Braunschweig für 1694 und eine Wiederholung in Salzdahlum 1699 (S. 8, Nr. 140). Dem Tagebuch Herzog Ludwig Rudolphs nach (Cod. Guelf. 28 Blank.) wurde die Oper also auch im Februar 1701 in Wolfenbüttel wiederholt, ohne dass sich ein Textbuch erhalten zu haben scheint. Ein solches liegt vor für die ungefähr ins Jahr 1703 zu datierende Aufführung: Il PASTORE D'ANFRISO ... nel TEATRO di WOLFFENBUTTEL. Der Schäfer An dem Fluß AMPHRISO ... Auf dem Wolffenbüttelschen Schau-Platz vorzustellen. Wolfenbüttel: Christian Bartsch [ca. 1703]. <ref target="http://diglib.hab.de/drucke/textb-711/start.htm">HAB: Textb. 711</ref>. VD18 12818720; Schmidt (1929), S. 9 Nr. 162; Thiel: Libretti, Nr. 1241. Lit.: Friedrich Chrysander: Geschichte der braunschweig-wolfenbüttelschen Capelle und Oper vom 16. bis zum 18. Jahrhundert: In: Ders. (Hg.): Jahrbücher für Musikalische Wissenschaft 1 (1863), S. 147-286, S. 243; Gottfried Christian Freiesleben: Kleine Nachlese zu ... Professor Gottscheds nöthigem Vorrathe zur Geschichte der deutschen dramatischen Dichtkunst. Leipzig 1760 (Ndr. Hildesheim, New York 1970), S. 62; Johann Christoph Gottsched: Nöthiger Vorrath zur Geschichte der deutschen Dramatischen Dichtkunst. 2 Tle., Leipzig 1757 u. 1765 (Ndr. Hildesheim, New York 1970), I, S. 257 u. 264; Hans-Henning Grote, Rolf Hagen (Hg.): Vom herzoglichen Hoftheater zum bürgerlichen Tourneetheater. Ausstellung des Schloßmuseums Wolfenbüttel vom 24. Oktober 1992 bis zum 10. Januar 1993. Wolfenbüttel 1992, S. 81; Gustav Friedrich Schmidt: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele ... mit Musik bis zur Mitte des 18. Jahrhunderts. München 1929, S. 5f. u. 8f.; E. Thiel: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14).</item>
+                    </list>
+                </item>
+                <item xml:id="oper_leonilde">
+                    <label>Oper "Leonilde oder: Die siegende Beständigkeit"</label>
+                    <list>
+                        <item>LEONILDE Oder: Die siegende Beständigkeit/ Jn einer OPERA vorgestellet auf dem Grossen Braunschweigischen THEATRO In der Winter-Messe 1728. Wolfenbüttel (1728). HAB: Textbuch 691 (dig.: http://diglib.hab.de/drucke/textb-691/start.htm); Oper mit dem Libretto von Gottlieb Fiedler, in der Vertonung durch Georg Kaspar Schürmann (1672-1751). Ein früheres Textbuch gibt nach dem gleichlautenden Haupttitel an: Jn einem Singenden Schau-Spiele Auf dem Braunschweigischen Theatro vorgestellet. Braunschweig: Fickel (ca. 1704). HAB: Textb. 529. Zwischen 1704 (Thiel: Libretti, Nr. 998) und 1728 (Thiel: Libretti, Nr. 999) bezeugt das Tagebuch 286a Blank. also zumindest eine weitere Aufführung im Hagenmarkt-Theater zur Zeit der Braunschweiger Frühjahrsmesse (Februar) 1707.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_leurope_galante"><!-- Beachte die unvollständigen Notes -->
+                    <label>Oper "L&#39;Europe galante"</label>
+                    <list>
+                        <item>Oper in vier Akten und einem Prolog, komponiert von Andr&#233; Campra (1660-1744), Text von ??. Uraufführung 1697 in Paris. Vgl.noch Chrysander, Schmidt, Thiel und Pegah.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_lucius_verus">
+                    <label>Oper "Lucius Verus"</label>
+                    <list>
+                        <item>Lucius Verus, Jn einem singenden Schau-Spiele Auf dem grossen Braunschweigischen Schau-Platze vorgestellet. Wolfenbüttel: Bißmarck [ca. 1699]. HAB: Textb. 211. Vgl. Chrysander, S. 253. Von den Aufführungen am 8. 2. und 19. 8. 1701 hat sich kein Textbuch in der HAB erhalten. Vgl. Schmidt (1929), S. 8 Nr. 156. Deutsche Oper über den römischen Kaiser Lucius Aurelius Verus (130-169); vermutlich Übersetzung des vielfach vertonten, ursprünglich italienischen Opern-Librettos "Lucio Vero" von Apostolo Zeno (1668-1750). Deutsches Libretto: Gottlieb Fiedler; mutmaßlicher Komp.: Carlo Francesco Pollarolo (1653-1723). Die Oper soll bereits während der Sommermesse 1699 aufgeführt worden sein. Vgl. Schmidt (1929), S. 8 Nr. 138; Thiel: Libretti, Nr. 1023. Spätere Aufführungen: Lucius Verus in einer Opera vorgestellet auf dem grossen Braunschweigischen Theatro in der Laurentii Messe Anno 1746. Wolfenbüttel: Bartsch 1746. <ref target="http://diglib.hab.de/drucke/textb-184/start.htm">HAB: Textb. 184</ref>. Hier war der Komponist der Arien und Symphonien Carl Heinrich Graun (1704-1759). Vgl. VD18 1284960X; Thiel: Libretti, Nr. 1022. Aufführung 1756: Lucio Vero. Dramma per musica da rappresentarsi nel famoso Ducal Theatro di Bronsevico nella fiera d’inverno dell’anno 1756 [zur Wintermesse]. Braunschweig: Keitel 1756. HAB: Textb. 552. Vgl. VD18 12849596. Komp. vermutlich Paolo Scalabrini (1713-1806). Vgl. Thiel: Libretti, Nr. 1021. Aus dem Jahr 1731 ist ein Einladungs-Einblattdruck überliefert. "Heute Sonnabend den 25ten Augusti 1731. Werden Die Hoch-Fürstl. Braunschw. Lüneb. Wolffenb. Teutschen Hof-Acteurs Denen ... Liebhabern theatralischer Schau-Spiele Auf dem Braunschweigischen Comödien-Theatro am Caffee-Hause Eine gantz neue und hier niemahlen gesehene Haupt- und Staats-Action aufführen, Welche genannt wird: Lucius Verus. Nebst einen vorhergehenden Prologo, Auf Den Hohen-Tag Der Durchlauchtigsten Regierden Herrschafften ... : Wobey auch folgende Auszierungen des Theatri werden zu sehen seyn: Eine gantz illuminirte Ehren-Pforte mit 6. Sinn-Bildern ausgezieret, unter der Pforten stehet des Herzogs verzogner Nahme. Braunschweig [1731]. HAB: G2:M6. Es ist ein Werbeplakat für einen Theaterabend zu Ehren des Namenstages von Herzog Ludwig Rudolph im Komödien-Theatersaal im Kaffeehaus des Franz Heinrich Wegener, das 1714 etabliert worden war. Die "Hof-Acteurs" waren die Truppe von Johann und Friederike Caroline Neuber. Lit.: Friedrich Chrysander: Geschichte der braunschweig-wolfenbüttelschen Capelle und Oper vom 16. bis zum 18. Jahrhundert: In: Ders. (Hg.): Jahrbücher für Musikalische Wissenschaft 1 (1863), S. 147-286, S. 253f.; Gustav Friedrich Schmidt: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele ... mit Musik bis zur Mitte des 18. Jahrhunderts. München 1929, S. 8; E. Thiel: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14), Nr. 1021-1023.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_pharamond">
+                    <label>Oper "Pharamond"</label>
+                    <list>
+                        <item>PHARAMOND, in einem singenden Schau-Spiele vorgestellet auf dem grossen Braunschweigischen THEATRO. Wolfenbüttel: Bißmarck [1701]. HAB: Textb. 338. VD18 10064397. Vgl. Schmidt (1929), S. 8 Nr. 157; Thiel: Libretti, Nr. 1270. Deutsche Oper über den mythischen Frankenkönig Faramund, den angeblichen Stammvater der Merowinger. Deutsches Libretto nach dem italienischen Original "Il Faramondo" des Apostolo Zeno 1668-1750): Gottlieb Fiedler; mutmaßlicher Komp.: Carlo Francesco Pollarolo (1653-1723). Die Oper soll bereits während der Braunschweiger Sommermesse 1699 gegeben worden sein, vgl. Schmidt (1929), S. 7 Nr. 136, oder sogar "um 1695" (Chrysander, S. 241). Lit.: Friedrich Chrysander: Geschichte der braunschweig-wolfenbüttelschen Capelle und Oper vom 16. bis zum 18. Jahrhundert: In: Ders. (Hg.): Jahrbücher für Musikalische Wissenschaft 1 (1863), S. 147-286; Gustav Friedrich Schmidt: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele ... mit Musik bis zur Mitte des 18. Jahrhunderts. München 1929, S. 7f.; E. Thiel: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14). Vgl. auch Johann Christoph Gottsched: Nöthiger Vorrath zur Geschichte der deutschen Dramatischen Dichtkunst. 2 Tle., Leipzig 1757 u. 1765 (Ndr. Hildesheim, New York 1970), I, S. 269.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_phaeton">
+                    <label>Oper "Phaeton"</label>
+                    <list>
+                        <item>Phaeton. Tragédie en musique (Textbuch Brüssel o. J. in der HAB: Lm Sammelbd. 114 [2]; Thiel: Libretti, Nr. 1267 von 1683; Nr. 1268 von 1683 und Nr. 1269 von 1690.), Oper von Jean Baptiste Lully (1632-1687) nach dem Text von Philippe Quinault (1635-1688) in fünf Akten und einem Prolog. Das Stück verarbeitet eine Geschichte aus den Metamorphosen des römischen Dichters Ovid. Die Uraufführung fand 1683 in Versailles statt.</item>
+                    </list>
+                </item>
+                <item xml:id="oper_psyche">
+                    <label>Oper "Die schöne Psyche"</label>
+                    <list>
+                        <item>Die schöne PSYCHE. Jn einem Singe Spiel Auf dem Braunschweigischen Theatro vorgestellet...; Musik: Georg Kaspar Schürmann (1672-1751) und vermutlich Reinhard Keiser (1674-1739); Text: Georg Kaspar Schürmann nach Christian Heinrich Postel: Die wunderschöne Psyche; Aufführung in Braunschweig am 8. Februar 1707. <ref target="http://diglib.hab.de/drucke/textb-366/start.htm">HAB: Textb. 366</ref>; Thiel: Libretti, Nr. 1452 (hier als Aufführungsjahr 1708 angegeben).</item>
+                    </list>
+                </item>
+                <item xml:id="oper_salomon">
+                    <label>Oper "Salomon"</label>
+                    <list>
+                        <item>SALOMON, Jn einem Singe-Spiel vorgestellet auf dem grossen Braunschweigischen Schau-Platz. Wolfenbüttel: Bißmarck [1701]. HAB: Textb. 489. Vgl. VD18 11140844. Komp.: Georg Caspar Schürmann (1672-1751); Libretto: Johann Christian Knorr von Rosenroth (1671-1716) [Als Autor oder Koautor des Librettos wird zuweilen auch Herzog Anton Ulrich von Braunschweig-Wolfenbüttel vermutet.] Das HAB-Textbuch 489 gibt das Libretto der Erstaufführung wieder. Diese fand am 7. Februar 1701 zur Braunschweiger Wintermesse statt, wiederholt am 10. und 14. Februar und während der Sommermesse am 16. und 18. August 1701. Vgl. Thiel: Libretti, Nr. 1432. Beim Textbuch 733 der HAB, gedruckt in Braunschweig bei Christoph Friedrich Fickel o. J., wird das Erscheinungsjahr "um 1706" vermutet (Schmidt [1920], Nr. 171; Thiel, Rohr: Libretti, Nr. 1433), Pegah, S. 187 bezieht es auf eine in Herzog Ludwig Rudolfs Selbstzeugnis Cod. Guelf. 286a Blankenburg bezeugte Aufführung am 16. August 1707, Rode-Breymann datiert es auf 1716. Zu einer noch späteren Wiederholung der Oper im Braunschweiger Opernhaus zur Sommermesse 1724, s. das Textbuch 732 (1) in der HAB, gedruckt in Wolfenbüttel bei Christian Bartsch o. J. Musikalisch haben sich aus der Oper nur 4 Arien im Tonsatz in einem handschriftlichen Sammelband mit italienischen, deutschen und französischen Arien und Duetten verschiedener Komponisten erhalten. HAB: 266 Musik-Handschrift. Der Band weist einen Eintrag von Herzog Ludwig Rudolf und eine Datierung von 1705 auf. Vgl. Friedrich Chrysander: Geschichte der braunschweig-wolfenbüttelschen Capelle und Oper vom 16. bis zum 18. Jahrhundert: In: Ders. (Hg.): Jahrbücher für Musikalische Wissenschaft 1 (1863), S. 147-286, S. 255-257; Rashid Sascha Pegah: Und abends war 'opera'. Tagebuchnotizen aus dem Jahre 1707, in: Wolfenbütteler Notizen zur Buchgeschichte 23.2 (1998), S. 182–190, hier S. 183 u. 187; Susanne Rode-Breymann in: 'verklingend und ewig'. Tausend Jahre Musikgedächtnis 800–1800. Hg. von S. R.-B. und Sven Limbeck. Wiesbaden 2011 (Ausstellungskataloge der Herzog August Bibliothek, 94), S. 250; Gustav Friedrich Schmidt: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele (Komödien) mit Musik bis zur Mitte des 18. Jahrhunderts. München 1920, Nr. 155 u. 171; Eberhard Thiel und Gisela Rohr: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14), Nr. 1432f.</item>
+                    </list>
+                </item>
+                <item xml:id="ordonniren">
+                    <label>ordonnieren</label>
+                    <list>
+                        <item>an-, verordnen</item>
+                    </list>
+                </item>
+                <item xml:id="pariren">
+                    <label>parieren</label>
+                    <list>
+                        <item>jemanden schmücken, zieren, ihm/ ihr passen, gut stehen</item>
+                    </list>
+                </item>
+                <item xml:id="partagiren">
+                    <label>partagieren</label>
+                    <list>
+                        <item>(ver-)teilen</item>
+                    </list>
+                </item>
+                <item xml:id="parthey">
+                    <label>Parthey</label>
+                    <list>
+                        <item>Partie beim Spiel</item>
+                    </list>
+                </item>
+                <item xml:id="passe_dit">
+                    <label>Passe-dit</label>
+                    <list>
+                        <item>AH:?? Vgl. LaMarinière: La Maison académique; Contenant les jeux du picquet ..et autres jeux facessieux et divertissant, 1659, HAB: Hn 142; Manfred Zollinger: Bibliographie der Spielbücher, Bd. 1:1473-1700. Stuttgart 1996. HAB: KA 43-7800; (Katalog:) Spielerische Seiten ..., 1992, HAB: BB 25-4300.</item><!--überprüfen-->
+                    </list>
+                </item>
+                <item xml:id="peroriren">
+                    <label>Peroriren</label>
+                    <list>
+                        <item>eine (eifrige) Rede halten, Schulrede</item>
+                    </list>
+                </item>
+                <item xml:id="piquet">
+                    <label>Piquet</label>
+                    <list>
+                        <item>Kartenspiel für zwei Personen, ursprünglich aus Frankreich stammend, jedoch in Europa weitverbreitet</item>
+                    </list>
+                </item>
+                <item xml:id="pistole">
+                    <label>Pistole</label>
+                    <list>
+                        <item>Ursprünglich eine spanische Goldmünze, im 17. und 18. Jahrhundert auch Bezeichnung für andere Goldmünzen, z. B. den Louis d'or; in Deutschland geprägte Pistolen hatten einen Wert von 5 Talern</item>
+                    </list>
+                </item>
+                <item xml:id="postchaise">
+                    <label>Postchaise</label>
+                    <list>
+                        <item>Schnelle, leichte Kutsche für Postreiseverkehr</item>
+                    </list>
+                </item>
+                <item xml:id="prigge">
+                    <label>Prigge, Prieche, Priegel</label>
+                    <list>
+                        <item>Vom Gestühl der Allgemeinheit abgesonderter, herausgehobenen Personen vorbehaltener Sitzplatz in einer Kirche; auch Empore</item>
+                    </list>
+                </item>
+                <item xml:id="prima_plana">
+                    <label>Prima Plana (Erstes Blatt)</label>
+                    <list>
+                        <item>Stab einer Kompanie bzw. eines Regiments (in Musterungslisten ursprünglich auf dem ersten Blatt verzeichnet)</item>
+                    </list>
+                </item>
+                <item xml:id="raillerie">
+                    <label>Raillerie</label>
+                    <list>
+                        <item>Spott, Gespött</item>
+                    </list>
+                </item>
+                <item xml:id="ravelin">
+                    <label>Ravelin</label>
+                    <list>
+                        <item>Außenwerk des bastionären Befestigungswerks, niedrigere vorgelagerte Wehrbauten als Schutz der dahinterliegenden Mauern (Kurtinen) zwischen zwei Bastionen oder Bollwerken</item>
+                    </list>
+                </item>
+                <item xml:id="recommendation">
+                    <label>Recommendation</label>
+                    <list>
+                        <item>Empfehlung</item>
+                    </list>
+                </item>
+                <item xml:id="refugirter">
+                    <label>Refugirter</label>
+                    <list>
+                        <item>(Glaubens-)Flüchtling</item>
+                    </list>
+                </item>
+                <item xml:id="regaliren">
+                    <label>regalieren</label>
+                    <list>
+                        <item>jemanden bewirten, versorgen, erfreuen</item>
+                    </list>
+                </item>
+                <item xml:id="remarquable">
+                    <label>remarquable</label>
+                    <list>
+                        <item>bemerkenswert</item>
+                    </list>
+                </item>
+                <item xml:id="rencontriren">
+                    <label>recontriren</label>
+                    <list>
+                        <item>jemanden (an)treffen</item>
+                    </list>
+                </item>
+               <item xml:id="resolviren">
+                    <label>resolviren</label>
+                    <list>
+                        <item n="1">entschließen, beschließen</item>
+                        <item n="2">auflösen</item>
+                    </list>
+                </item>
+                <item xml:id="retirade">
+                    <label>Retirade</label>
+                    <list>
+                        <item>privates Rückzugszimmer</item>
+                    </list>
+                </item>
+                <item xml:id="retiriren">
+                    <label>retiriren</label>
+                    <list>
+                        <item>zurückziehen</item>
+                    </list>
+                </item>
+                <item xml:id="ridotte">
+                    <label>Ridotte (Redoute)</label>
+                    <list>
+                        <item>Maskenball</item>
+                    </list>
+                </item>
+                <item xml:id="salviren">
+                    <label>salviren</label>
+                    <list>
+                        <item>retten</item>
+                    </list>
+                </item>
+                <item xml:id="scaramouche">
+                    <label>Scaramouche, Skaramuz</label>
+                    <list>
+                        <item>Figur aus der Commedia dell'arte, stets schwarz gekleidet</item>
+                    </list>
+                </item>
+                <item xml:id="schacht">
+                    <label>Schacht</label>
+                    <list>
+                        <item>Schachspiel</item>
+                    </list>
+                </item>
+                <item xml:id="schamlock">
+                    <label>Schamlock (Ciamberluc)</label>
+                    <list>
+                        <item>Prachtgewand des osmanischen Sultans</item>
+                    </list>
+                </item>
+                <item xml:id="schammerirt">
+                    <label>scham(m)eriert</label>
+                    <list>
+                        <item>(Bei Kleidungsstücken) mit Bordüren verbrämt, bunt aufgeputzt, verziert</item>
+                    </list>
+                </item>
+                <item xml:id="schlecht">
+                    <label>schlecht</label>
+                    <list>
+                        <item>schlicht, einfach</item>
+                    </list>
+                </item>
+                <item xml:id="schmutzerlachen">
+                    <label>schmutzerlachen</label>
+                    <list>
+                        <item>verschmitzt lächeln, schmunzeln</item>
+                    </list>
+                </item>
+                <item xml:id="selbsechst">
+                    <label>selbsechst</label>
+                    <list>
+                        <item>eine Person mit noch fünf anderen, zu sechst</item>
+                    </list>
+                </item>
+                <item xml:id="serviren">
+                    <label>serviren</label>
+                    <list>
+                        <item>bedienen</item>
+                    </list>
+                </item>
+                <item xml:id="sieder">
+                    <label>sieder</label>
+                    <list>
+                        <item>seit</item>
+                    </list>
+                </item> 
+                <item xml:id="silbermohr">
+                    <label>Silbermohr</label>
+                    <list>
+                        <item>mit Silberfäden durchzogener Seidenstoff mit Moiré-Muster</item>
+                    </list>
+                </item>
+                <item xml:id="sollenn">
+                    <label>sollenn</label>
+                    <list>
+                        <item>feierlich</item>
+                    </list>
+                </item>
+                <item xml:id="sollicitiren">
+                    <label>sollicitiren</label>
+                    <list>
+                        <item n="1">etwas gerichtlich betreiben, um Rechtshilfe ersuchen</item>
+                        <item n="2">ersuchen, verhandeln</item>
+                    </list>
+                </item>
+                <item xml:id="spanische_fliege">
+                    <label>Spanische Fliege</label>
+                    <list>
+                        <item>Spanische Fliege (Lytta vesicatoria oder Cantharis vesicatoria), in Südeuropa und Nordafrika vorkommender Käfer, der als Medizin- und Potenzmittel Anwendung findet</item>
+                    </list>
+                </item>
+                <item xml:id="spann">
+                    <label>Spann</label>
+                    <list>
+                        <item>(Pferde-)Gespann</item>
+                    </list>
+                </item>
+                <item xml:id="speziesdukaten">
+                    <label>Speziesdukaten</label>
+                    <list>
+                        <item>Münze; tatsächlich ausgemünzte Dukaten</item>
+                    </list>
+                </item>
+                <item xml:id="sporer">
+                    <label>Sporer</label>
+                    <list>
+                        <item>Spornmacher, Hersteller von Sporen, auch von Striegeln und Pferdegeschirr</item>
+                    </list>
+                </item>
+                <item xml:id="stockhaus">
+                    <label>Stockhaus</label>
+                    <list>
+                        <item>Schwerer Kerker, Gefängnis</item>
+                    </list>
+                </item>
+                <item xml:id="stueck">
+                    <label>Stück</label>
+                    <list>
+                        <item>Geschütz</item>
+                    </list>
+                </item>
+                <item xml:id="tabatiere">
+                    <label>Tabatiere</label>
+                    <list>
+                        <item>Schnupftabaksdose</item>
+                    </list>
+                </item>
+                <item xml:id="toppiren">
+                    <label>toppiren</label>
+                    <list>
+                        <item>mit Gläsern anstoßen</item>
+                    </list>
+                </item>
+                <item xml:id="tractiren">
+                    <label>tractiren</label>
+                    <list>
+                        <item n="1">bewirten</item>
+                        <item n="2">(verhandeln)</item>
+                    </list>
+                </item>
+                <item xml:id="tragoedie_cyrus">
+                    <label>Tragödie "Cyrus"</label>
+                    <list>
+                        <item>Nach einem im 17. Jahrhundert häufig literarisierten Geschichtsstoff, den Herodot, Berossos und andere überliefert hatten. Antoine Danchet (1671-1748): CYRUS, TRAGEDIE. Par Mr. Danchet de l'Academie Royale des Medailles, &amp; des Inscriptions, zuerst Paris 1706, hier La Haye: Louis &amp; Henri van Dole 1706. Das HAB-Exemplar Lm Sammelband 110 (1) trägt das Exlibris Herzog Ludwig Rudolphs.</item>
+                    </list>
+                </item>
+                <item xml:id="tragoedie_heraclius">
+                    <label>Tragödie "Héraclius"</label>
+                    <list>
+                        <item>Tragögie von Pierre Corneille (1606-1684), 1647 uraufgeführt; handelt von den Ereignissen nach dem durch seinen Nachfolger Phokas initiierten Sturz und der Ermordung des oströmischen Kaisers Maurikios (602) um dessen (fiktiven) überlebenden Sohn Herakleios.</item>
+                    </list>
+                </item>
+                <item xml:id="tragoedie_rodogune">
+                    <label>Tragödie "Rodogune"</label>
+                    <list>
+                        <item>Tragögie in fünf Akten von Pierre Corneille (1606-1684), 1644/45 uraufgeführt; an historische Stoffe des römischen Geschichtsschreibers Appian (gest. um 160) angelehnt, handelt von der parthischen Prinzessin Rodogune, gegen die die eifersüchtige syrische Königin Kleopatra ein Mordkomplott ersinnt, nach dessen Scheitern letztere Selbstmord verübt.</item>
+                    </list>
+                </item>
+                <item xml:id="trente_et_quarante">
+                    <label>Trente et Quarante ("30 und 40")</label>
+                    <list>
+                        <item>Karten-Glücksspiel</item>
+                    </list>
+                </item>
+                <item xml:id="trictrac">
+                    <label>(Grand) Trictrac</label>
+                    <list>
+                        <item>Brettspiel, ähnlich dem heutigen Backgammon, wohl in Frankreich erfunden Anfang des 16. Jahrhunderts</item>
+                    </list>
+                </item>
+                <item xml:id="trinitatis">
+                    <label>Trinitatis</label>
+                    <list>
+                        <item>Fest der Heiligen Dreifaltigkeit (erster Sonntag nach Pfingsten)</item>
+                    </list>
+                </item>
+                <item xml:id="vabanque">
+                    <label>Vabanque (Bank-Halten)</label>
+                    <list>
+                        <item>Karten-Glücksspiel, wohl in Venedig erfunden, seit der 2. Hälfte des 17. Jahrhunderts in Frankreich bekannt; Vorläufer des späteren Pharaon/Faro. Vgl. Bassette</item>
+                    </list>
+                </item>
+                <item xml:id="verkehren">
+                    <label>Verkehren</label>
+                    <list>
+                        <item>Brettspiel</item>
+                    </list>
+                </item>
+                <item xml:id="verhypotheciren">
+                    <label>verhypotheciren</label>
+                    <list>
+                        <item>verpfänden, belasten, mit Pfandsicherheit ausstatten</item>
+                    </list>
+                </item>
+                <item xml:id="vertiren">
+                    <label>vertiren</label>
+                    <list>
+                        <item>übersetzen, übertragen</item>
+                    </list>
+                </item>
+                <item xml:id="vomitiv">
+                    <label>Vomitiv</label>
+                    <list>
+                        <item>Brechmittel</item>
+                    </list>
+                </item>
+                <item xml:id="vorspann">
+                    <label>Vorspann</label>
+                    <list>
+                        <item>Im übertragenen Sinne Reisegeld, Zehrung, Speise und Trank auf der Fahrt <!-- die eigentliche Bedeutung: Zuggespann vor Kutschen, Wagen, Pflügen ist noch heute im Duden angegeben --></item>
+                    </list>
+                </item>
+                <item xml:id="warschauen">
+                    <label>warschauen</label>
+                    <list>
+                        <item>achtgeben, benachrichtigen, warnen</item>
+                    </list>
+                </item>
+                <item xml:id="wehrhaft_machen">
+                    <label>wehrhaft machen</label>
+                    <list>
+                         <item>Im Mittelalter die ritterliche Schwertleite, das Recht des Knappen, selbst ein Schwert bzw. Waffen zu tragen und für mündig zu gelten; später das meist mit einer symbolischen Ohrfeige beschlossene Ritual, einen Hofpagen mit dem Recht auf Bewaffnung zum Junker zu machen.</item>
+                    </list>
+                </item>
+                <item xml:id="wurst">
+                    <label>Wurst(wagen)</label>
+                    <list>
+                        <item>Wagen mit gepolsterten Balken (Wurst), auf dem mehrere Mitfahrer hintereinander sitzen konnten, gerne für Jagdgesellschaften genutzt</item><!--überpüfen-->
+                    </list>
+                </item>
+                <item xml:id="zeitung">
+                    <label>Zeitung</label>
+                    <list>
+                        <item>Nachricht</item>
+                    </list>
+                </item>
+            </list>
+        </body>
+    </text>
+</TEI>

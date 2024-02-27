@@ -32,7 +32,7 @@
             
             <div xml:id="E1627-12-09"><head><date when="1627-12-09">d<ex>e</ex>n 9 Xbris <c>☉</c></date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>.</p></div>
             
-            <div xml:id="E1627-12-10"><head><date when="1627-12-10">den 10 Xbris <c>☽</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1627-12-10"><head><date when="1627-12-10">den 10 Xbris <c>☽</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> e<ex>tcetera</ex></p></div>
             
             <div><head><foreign xml:lang="lat">Eodem anno</foreign><note type="translation">Im selben Jahr</note></head></div>
             

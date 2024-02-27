@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="statisch" xml:id="editionen_start.xml">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek - Editionen</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek
+                        Wolfenbüttel</name>
+                </publisher>
+                <pubPlace>
+                    <name>Wolfenbüttel, Germany</name>
+                </pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <p>born digital</p>
+            </sourceDesc>            
+        </fileDesc>        
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Editionen</head>
+                <p> 
+                    Neben dem <ref target="http://selbstzeugnisse.hab.de/repertorium/">digitalen Selbstzeugnisrepertorium</ref> werden im Portal momentan zwei digitale Editionen ausgewählter Selbstzeugnisse aus dem Bestand der Herzog August Bibliothek (HAB) angeboten: die <ref target="http://selbstzeugnisse.hab.de/edition/">Edition des Tagebuchs von Herzog August dem Jüngeren von Braunschweig-Wolfenbüttel</ref> und die <ref target="http://selbstzeugnisse.hab.de/sz2/projektbeschreibung">Edition der Tagebücher von Herzog Ludwig Rudolph und Herzogin Christine Luise von Braunschweig-Wolfenbüttel</ref>. Vorbehaltlich weiterer Förderung sollen in den nächsten Jahren weitere digitale Editionen exemplarischer Selbstzeugnisse folgen, um so Stück für Stück ein repräsentatives digitales Korpus an frühneuzeitlichen Selbstzeugnissen für weitere Forschungen bereitzustellen.
+                </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

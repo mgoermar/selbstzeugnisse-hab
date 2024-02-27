@@ -24,7 +24,7 @@
                 <c>♃</c></date></head><p> biß <rs ref="register.xml#Wolfenbuettel" type="place">Wolfenbüttel</rs>, 4. m<ex>eill</ex>.</p></div>
             
             <div xml:id="E1619-02-07"><head><date when="1619-02-07">den 7. Februar<ex>ÿ</ex> <c>☉</c></date></head><p> die Hochzeit angestellet worden, zwischen
-                H<ex>errn</ex> <rs ref="register.xml#Ulrich_Pommern" type="person">Ulrichen zu S<ex>anc</ex>t Pommern</rs>, und F&lt;<ex>raw&gt;</ex> <rs ref="register.xml#Hedwig_Br_Wb" type="person">Hedewigen, zu Br<ex>aunschweig</ex> und
+                H<ex>errn</ex> <rs ref="register.xml#Ulrich_Pommern" type="person">Ulrichen zu St<ex>ettin</ex> Pommern</rs>, und F&lt;<ex>raw&gt;</ex> <rs ref="register.xml#Hedwig_Br_Wb" type="person">Hedewigen, zu Br<ex>aunschweig</ex> und
                     Lüneburgk</rs></p></div>
             
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00099.jpg" n="48r"/>
@@ -42,7 +42,7 @@
             <div xml:id="E1619-02-23"><head><date when="1619-02-23">den 23. Februar<ex>ÿ</ex>
                 <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
                                
-            <div><head><foreign xml:lang="lat">Eodem anni</foreign><note type="translation">Im selben Jahr</note></head></div>
+            <div><head><foreign xml:lang="lat">E<ex>ius</ex>dem anni p<ex>erge</ex></foreign><note type="translation">Desseleben Jahres usw.</note></head></div>
             
             <div xml:id="E1619-10-28"><head><date when="1619-10-28">d<ex>e</ex>n 28. 8bris, <c>♃</c></date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs> 5 m<ex>eill</ex>.</p></div>
             
@@ -51,7 +51,7 @@
             
             <div xml:id="E1619-10-30"><head><date when="1619-10-30">den 30. <c>♄</c> 8bris,</date></head><p> biß <rs ref="register.xml#Langwedel" type="place">Langwede</rs>l, 
                 4. m<ex>eill</ex>. biß vor <rs ref="register.xml#Bremen" type="place">Bremen</rs>, 3
-                m<ex>eill</ex>. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+                m<ex>eill</ex>. <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
             <div xml:id="E1619-10-31"><head><date when="1619-10-31">den 31 8bris <c>☉</c></date></head><p> biß <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>. 1. m<ex>eill</ex>.</p></div>
             
@@ -66,7 +66,7 @@
             
             <div xml:id="E1619-11-13"><head><date when="1619-11-13">den 13. 9bris <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>. 5 m<ex>eill</ex>.</p></div>
             
-            <div><head><foreign xml:lang="lat">Eodem anno</foreign><note type="translation">Im selben Jahr</note></head></div>
+            <div><head><foreign xml:lang="lat">Eodem anno p<ex>erge</ex></foreign><note type="translation">Im selben Jahr usw.</note></head></div>
             
             <div xml:id="E1619-12-28"><head><date when="1619-12-28">den 28 1Xbris <c>☉</c></date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>, 5 m<ex>eill</ex>.</p></div>
             
@@ -75,7 +75,7 @@
             
             <div xml:id="E1619-11-30"><head><date when="1619-11-30">d<ex>e</ex>n 30. 9bris <c>♂</c></date></head><p> biß <rs ref="register.xml#Langwedel" type="place">Langwedel</rs>, 5. m<ex>eill</ex>.</p></div>
             
-            <div xml:id="E1619-12-01"><head><date when="1619-12-01">d<ex>e</ex>n 1. Xbris, <c>☿</c></date></head><p> biß <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>, 4 meill. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1619-12-01"><head><date when="1619-12-01">d<ex>e</ex>n 1. Xbris, <c>☿</c></date></head><p> biß <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>, 4 meill. <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
             <div xml:id="E1619-11-08"><head><date when="1619-11-08">d<ex>e</ex>n 8 9bris <c>☿</c>,</date></head><p> mein f<ex>ürstlich</ex> l<ex>ieber</ex> Schwager, H<ex>err</ex> <rs ref="register.xml#Anton_II." type="person">Anthonius Grafe zu
                 Oldenb<ex>urg</ex></rs> zu <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs> begrab<ex>en</ex> word<ex>e</ex>n.</p></div>

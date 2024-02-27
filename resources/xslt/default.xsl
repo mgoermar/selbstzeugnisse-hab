@@ -31,26 +31,51 @@
   <xsl:template match="/tei:TEI">
     <html>
       <head>
-        <meta charset="utf-8"/>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <xsl:apply-templates mode="header"/>
+<!--        <xsl:apply-templates mode="header"/>-->
         <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
         <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
         <!-- Assets -->
+        <link rel="shortcut icon" href="favicon_hdk.ico"/>         
+        <link rel="preconnect" href="https://fonts.gstatic.com"/> 
+          <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&amp;display=swap" rel="stylesheet"/>
+            
+        <link href="/assets/selbstzeugnisse/css/reset.css" type="text/css" rel="stylesheet"/>
+            <link href="/assets/font-awesome/css/font-awesome.min.css" media="screen" rel="stylesheet"/>
+              
+        <link href="/assets/selbstzeugnisse/css/styles.css" type="text/css" rel="stylesheet"/>
+        <link href="/assets/selbstzeugnisse/css/diarium.css" type="text/css" rel="stylesheet"/>
+              
+              <script type="text/javascript" src="/assets/jquery/jquery.min.js"></script>
+              <script type="text/javascript" src="/assets/jquery-zoom/jquery.zoom.min.js"></script>
+              <script type="text/javascript" src="/assets/js/selbstzeugnisse2.js"></script>
+              <noscript><style type="text/css">.js-toggle { display: inherit; }</style></noscript><!--
         <link rel="stylesheet" href="/assets/selbstzeugnisse/css/reset.css" media="screen"/>
         <link rel="stylesheet" href="/assets/font-awesome/css/font-awesome.min.css" media="screen"/>
         <link rel="stylesheet" href="/assets/selbstzeugnisse/css/selbstzeugnisse.css" media="screen"/>
         <link rel="stylesheet" href="/assets/selbstzeugnisse/css/print.css" media="print"/>
         <script type="text/javascript" src="/assets/jquery/jquery.min.js"></script>
         <script type="text/javascript" src="/assets/jquery-zoom/jquery.zoom.min.js"></script>
-        <script type="text/javascript" src="/assets/selbstzeugnisse/js/selbstzeugnisse.js"></script>
-        <noscript>
+        <script type="text/javascript" src="/assets/selbstzeugnisse/js/selbstzeugnisse.js"></script>-->
+        <!--<noscript>
           <style type="text/css">.js-toggle { display: inherit; }</style>
-        </noscript>
+        </noscript>-->
       </head>
       <body>
-        <div class="banner">
+        <div id="mainConti">
+          <header>
+            
+            <div id="bgTop"></div>
+            <a href="http://selbstzeugnisse.hab.de" id="logo"></a>
+            
+            <div id="m_titleConti">
+              <span id="m_title1">Selbstzeugnisse&#160;</span><span id="m_title2">der frühen Neuzeit</span><br/>
+              <span id="m_subTitle">in der Herzog August Bibliothek</span>
+            </div>            
+            <a href="http://www.hab.de" target="_blank" id="habLogo"></a>            
+          </header>
+        <!--<div class="banner">
           <img src="/assets/selbstzeugnisse/images/banner_logo.png" class="brand"/>
           <div class="banner-logo">
             <img src="/assets/selbstzeugnisse/images/banner_logo_hab.png"/>
@@ -61,30 +86,65 @@
           <div class="banner-slogan">
             <h1>Selbstzeugnisse <small>der Frühen Neuzeit</small></h1>
             <h2>in der Herzog August Bibliothek</h2>
-            <h3>Digitale Edition des Diariums von Herzog August dem Jüngeren · Selbstzeugnis-Repertorium · Forschungsportal</h3>
           </div>
-        </div>
-        <div class="content">
+        </div>-->
+        
           <xsl:apply-templates/>
         </div>
       </body>
     </html>
   </xsl:template>
+  
+  <xsl:template name="annumber">
+<!--    <xsl:number level="any" format="a" count="//tei:note[@type='annotation'] | //tei:handShift | //tei:choice | //tei:restore | //tei:surplus"/>-->
+    <xsl:number level="any" format="a" count="//tei:note[@type='annotation']"/>
+  </xsl:template>
 
   <xsl:template match="tei:text/tei:body">
-    <div class="navigation">
+    <nav role="navigation">
       <xsl:call-template name="navigation"/>
+    </nav>
+    <a class="printer" href="javascript:print()"></a>
+    <div class="content">
+      <div class="contentWrap">
+        <xsl:apply-templates/>
+        <div id="annotation">
+          
+          <xsl:if test="//tei:note[@type='footnote']">
+            <hr/>
+            <b>Anmerkungen</b>
+          </xsl:if>
+          <div>							
+            <xsl:for-each select="//tei:note[@type='footnote']">
+              <xsl:variable name="footnotenumber">
+                <xsl:number level="any" count="tei:note[@type ='footnote']"/>
+              </xsl:variable>
+              <div style="padding-left: 1em; text-indent: -1em;">
+                <a name="fn{$footnotenumber}" href="#fna{$footnotenumber}">
+                  <!--<xsl:attribute name="style">
+                    <xsl:text>color: blue; font-size: 0.7em; margin-right: 0.3em; vertical-align: super;</xsl:text>
+                  </xsl:attribute>-->
+                  <span class="note"><xsl:value-of select="$footnotenumber"/><xsl:text> </xsl:text></span>                  
+                </a>
+                <xsl:apply-templates/>										
+              </div>
+            </xsl:for-each>
+          </div>
+          </div>
+      </div>
+      
+      
     </div>
-    <div class="mainpage">
-      <xsl:apply-templates/>
-    </div>
-    <div class="infopanel facet">
+    <!--<div class="infopanel facet">
       <ul class="controls">
         <li>
           <a class="fa fa-print" href="javascript:print()"> Drucken</a>
         </li>
       </ul>
-    </div>
+    </div>-->
+    <footer>
+      
+    </footer>
   </xsl:template>
 
   <xsl:template match="tei:teiHeader"/>
@@ -102,9 +162,34 @@
       <xsl:apply-templates/>
     </xsl:element>
   </xsl:template>
+  
+  <xsl:template match="tei:hi[@rend='bold']">
+    <b><xsl:apply-templates/></b>
+  </xsl:template>
+  
+  <xsl:template match="tei:hi[@rend='italic']">
+    <i><xsl:apply-templates/></i>
+  </xsl:template>
+  
+  <xsl:template match="tei:hi[@rend='smaller']">
+    <span style="font-size:80%; line-height:1.5em"><xsl:apply-templates/></span>
+  </xsl:template>
 
   <xsl:template match="tei:label[parent::tei:div]">
     <h2><xsl:apply-templates/></h2>
+  </xsl:template>
+  
+  <xsl:template match="tei:lb[preceding-sibling::tei:lb]">
+    <br/>
+  </xsl:template>
+  
+  <xsl:template match="tei:note[@type='footnote']">
+    <xsl:variable name="footnotenumber">
+      <xsl:number level="any" count="tei:note[@type ='footnote']"/>
+    </xsl:variable>
+    <a class="note" id="fna{$footnotenumber}" href="#fn{$footnotenumber}" title="{.}">
+      <xsl:value-of select="$footnotenumber"/>
+    </a>
   </xsl:template>
 
   <xsl:template match="tei:ref[@target]">
@@ -125,11 +210,11 @@
     <xsl:apply-templates select="tei:head"/>
     <xsl:for-each select="tei:item">
       <h3><xsl:apply-templates select="tei:label"/></h3>
-      <ul>
+      <p>
         <xsl:for-each select="tei:desc">
-          <li><xsl:apply-templates/></li>
+          <xsl:apply-templates/>
         </xsl:for-each>
-      </ul>
+      </p>
     </xsl:for-each>
   </xsl:template>
 
@@ -138,9 +223,9 @@
     <xsl:for-each select="tei:item">
       <h3><xsl:apply-templates select="tei:ref"/></h3>
       <xsl:for-each select="tei:desc">
-        <div>
+        <p>
           <xsl:apply-templates/>
-        </div>
+        </p>
       </xsl:for-each>
     </xsl:for-each>
   </xsl:template>
@@ -155,35 +240,78 @@
       </xsl:for-each>
     </ul>
   </xsl:template>
+  
+  <xsl:template match="tei:figure[not(@rend='iframe')]">
+    <figure class="{@rend}">
+      <xsl:apply-templates/>			
+    </figure>
+  </xsl:template>
+  
+  <xsl:template match="tei:figure[@rend='iframe']">
+    <div id="iframe_container">
+      <iframe src="{tei:graphic/@url}" height="1000" width="150%"></iframe>
+    </div>
+  </xsl:template>
+  
+  <xsl:template match="tei:graphic">
+    <img src="{@url}"/>
+  </xsl:template>
+  
+  <xsl:template match="tei:figDesc">
+    <figcaption>
+      <xsl:apply-templates/>
+    </figcaption>
+  </xsl:template>
 
-  <xsl:template match="mets:div[not(@TYPE)][@LABEL]">
-    <li>
-      <a href="/{translate(@ID, '.', '/')}">
-        <xsl:if test="mets:fptr/@FILEID = $fileId"><xsl:attribute name="class">active</xsl:attribute></xsl:if>
-        <xsl:value-of select="@LABEL"/>
-      </a>
-      <xsl:if test="mets:div">
-        <ul>
-          <xsl:apply-templates select="mets:div"/>
+  <xsl:template match="mets:div[not(@TYPE)][@LABEL]">    
+        <li>
+          <xsl:choose>
+            <xsl:when test="@ID='edition'">
+              <a href="/{translate(@ID, '.', '/')}_august">
+                <xsl:if test="mets:fptr/@FILEID = $fileId"><xsl:attribute name="class">active</xsl:attribute></xsl:if>
+                <xsl:value-of select="@LABEL"/>
+              </a>
+            </xsl:when>
+            <xsl:otherwise>
+              <a href="/{translate(@ID, '.', '/')}">
+                <xsl:if test="mets:fptr/@FILEID = $fileId"><xsl:attribute name="class">active</xsl:attribute></xsl:if>
+                <xsl:value-of select="@LABEL"/>
+              </a>
+            </xsl:otherwise>
+          </xsl:choose>          
+          <xsl:if test="mets:div[@LABEL]">
+        <ul id="subMen">
+          <div style="padding-top:10px;">
+            <xsl:apply-templates select="mets:div"/>
+          </div>          
         </ul>
       </xsl:if>
-    </li>
+        </li>
   </xsl:template>
 
   <xsl:template name="navigation">
-    <ul>
-      <li>
-        <a href="/">
-          <xsl:if test="$fileId = 'index.xml'"><xsl:attribute name="class">active</xsl:attribute></xsl:if>
-          Startseite
-        </a>
-      </li>
-      <xsl:apply-templates select="$metsFile/mets:mets/mets:structMap/mets:div/*"/>
-    </ul>
+    <div id="menuToggle">    
+      
+      <input type="checkbox"/>   
+      
+      <span></span>
+      <span></span>
+      <span></span>
+      
+      <ul id="menu">
+        <li>
+          <a href="/">
+            <xsl:if test="$fileId = 'index.xml'"><xsl:attribute name="class">active</xsl:attribute></xsl:if>
+            Startseite
+          </a>
+        </li>
+        <xsl:apply-templates select="$metsFile/mets:mets/mets:structMap/mets:div/*"/>
+      </ul>
+    </div>
   </xsl:template>
 
   <xsl:template match="tei:address">
-    <address>
+    <p>
       <ul>
         <xsl:for-each select="*">
           <li>
@@ -191,7 +319,7 @@
           </li>
         </xsl:for-each>
       </ul>
-    </address>
+    </p>
   </xsl:template>
 
   <!-- === Dynamische Inhalte ==================================================================== -->
@@ -240,11 +368,12 @@
 
     <xsl:if test="string-length($datum) = 10">
       <xsl:value-of select="$d"/>
-      <xsl:text>. </xsl:text>
+      <xsl:text>.</xsl:text>
     </xsl:if>
     <xsl:if test="string-length($datum) > 4">
-      <xsl:value-of select="document('')//map:entry[@key = $m]/@value"/>
-      <xsl:text> </xsl:text>
+      <!--<xsl:value-of select="document('')//map:entry[@key = $m]/@value"/>-->
+      <xsl:value-of select="$m"/>
+      <xsl:text>.</xsl:text>
     </xsl:if>
     <xsl:value-of select="$j"/>
   </xsl:template>

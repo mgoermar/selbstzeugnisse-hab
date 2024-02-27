@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.register.geobrowser">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Kartographisches Ortsregister</title>
+                <respStmt>
+                    <resp>erstellt von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>                        
+                    </persName>                   
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Kartographisches Ortsregister</head>
+                <p>
+                    Das mit dem <ref target="https://de.dariah.eu/geobrowser">DARIAH-DE Geo-Browser</ref> visualisierte kartographische Ortsregister enthält die in den Quellen erwähnten Orte, zu denen ein Identifier bei <ref target="http://www.geonames.org/">GeoNames</ref> zu finden war. Für ein vollständiges Ortsregister siehe die <ref target="http://selbstzeugnisse.hab.de/sz2/orte">tabellarische Übersicht</ref>, die auch mit den einzelnen Einträgen in der Karte verlinkt ist. Eine eigenständige Visualisierung über den Geo-Browser ist <ref target="https://geobrowser.de.dariah.eu/index.html?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-47B5-8B5E-5D70-0">hier</ref> zu finden, gesonderte Visusalisierungen für die einzelnen Quellen hier: Tagebücher Ludwig Rudolphs: <ref target="https://geobrowser.de.dariah.eu/index.html?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-960B-78B5-D859-0">Cod. Guelf. 28 Blank.</ref> (1701), <ref target="https://geobrowser.de.dariah.eu/index.html?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-0218-0228-50FF-0">Cod. Guelf. 286 Blank.</ref> (1706-1724), <ref target="https://geobrowser.de.dariah.eu/index.html?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-14BB-52C2-B076-0">Cod. Guelf. 286a Blank.</ref> (1707); Tagebuch Christine Luises: <ref target="https://geobrowser.de.dariah.eu/?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-1594-5C1F-AC61-0">Cod. Guelf. 211.1 Extrav.</ref> (1698/99).
+                </p>
+                <figure rend="iframe">
+                    <!--<graphic url="/edition/libreto/ludwig_rudolf-persName.html"/>-->
+                    <graphic url="https://geobrowser.de.dariah.eu/embed/?csv1=https://cdstar.de.dariah.eu/dariah/EAEA0-47B5-8B5E-5D70-0"/>
+                    <figDesc>Kartographische Darstellung des Ortsregisters.</figDesc>
+                </figure>                
+            </div>  
+        </body>
+    </text>
+</TEI>

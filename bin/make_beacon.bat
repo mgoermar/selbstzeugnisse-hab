@@ -1,0 +1,2 @@
+calabash.cmd -i resources/daten/edition/diarium/diarium.xml -o resources/daten/edition/diarium/linkmap.xml resources/xproc/edition/linkmap.xpl
+transform.cmd -o:public/beacon.txt -xsl:resources/xproc/edition/beacon.xsl resources/daten/edition/diarium/linkmap.xml

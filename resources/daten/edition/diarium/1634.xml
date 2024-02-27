@@ -47,8 +47,7 @@
                 <note place="margin-left">Rayse nach <rs ref="register.xml#Halberstadt" type="place"
                             >Halberst<ex>stadt</ex></rs> und <rs ref="register.xml#Magdeburg"
                         type="place">Magdeb<ex>urg</ex></rs>
-                    <c type="accent">x</c><note type="annotation">Schluss- oder
-                        Betonungszeichen</note></note>
+                    <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></note>
                 <head><date when="1634-01-23">den 23. Januar<ex>is</ex>
                         <c>♃</c></date></head>
                 <p> biß <rs ref="register.xml#Bergen_an_der_Dumme" type="place">Bergen</rs>.</p>
@@ -64,9 +63,7 @@
                 <head><date when="1634-01-25">den 25. Jan<ex>uaris</ex>
                         <c>♄</c>.</date></head>
                 <p> biß <rs ref="register.xml#Wolmirstedt" type="place">Wolmerstede</rs>, und <rs
-                        ref="register.xml#Magdeburg" type="place">Magdeburgk</rs>
-                    <c type="accent">x</c><note type="annotation">Schluss- oder
-                        Betonungszeichen</note></p>
+                    ref="register.xml#Magdeburg" type="place">Magdeburgk</rs> <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p>
             </div>
 
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00121.jpg" n="59r"/>
@@ -82,15 +79,8 @@
             <div xml:id="E1634-01-30">
                 <head><date when="1634-01-30">d<ex>en</ex> 30. Jan<ex>uaris</ex>
                         <c>♃</c></date></head>
-                <p> biß <rs ref="register.xml#Groeningen" type="place">Gruningen</rs>, bey <seg><rs
-                            type="person">Bere<ex>n</ex>dt Geisten</rs></seg><note type="annotation"
-                        >Siehe <ref
-                            target="http://www.30jaehrigerkrieg.de/geist-von-hagen-geistes-geest-gest-gos-berendt/"
-                            >Der Dreißigjährige Krieg in Selbstzeugnissen, Chroniken und
-                            Berichten</ref>: Geist „von Hagen“ [Geistes, Geest, Gest, Gos], Berendt;
-                        Obrist [ -um 1646 ?] Berendt Geist „von Hagen“ [Geistes, Geest, Gest, Gos] [
-                        -um 1646 ?] war kurbrandenburgischer Rat und Hofmarschall gewesen, bevor er
-                        in dänische Dienste trat, Hofmarschall und Obrist wurde</note> d<ex>en</ex>
+                <p> biß <rs ref="register.xml#Groeningen" type="place">Gruningen</rs>, bey <rs
+                            type="person" ref="register.xml#geist_berendt">Bere<ex>n</ex>dt Geisten</rs> d<ex>em</ex>
                     Obersten: seynd 5. m<ex>eill</ex></p>
             </div>
 
@@ -98,17 +88,8 @@
                 <head><date when="1634-01-31">d<ex>en</ex> 31. Jan<ex>uaris</ex>
                         <c>♀</c></date></head>
                 <p> daselbsten besehen das schöne schloß, die Capelle: d<ex>a</ex>z grosse Faß
-                        d<ex>az</ex> in sich hält 162 <w>fud<ex>er</ex></w><note type="annotation"
-                        >Im Herzogtum Braunschweig 1 Fuder = 881 ⅜ Liter. <ref
-                            target="https://de.wikipedia.org/wiki/Fuder#Fl.C3.BCssigkeitsma.C3.9F_.28Wein.29"
-                            >Wikipedia</ref></note> weins: und also 28 fud<ex>er</ex><note
-                        type="annotation">Im Herzogtum Braunschweig 1 Fuder = 881 ⅜ Liter. <ref
-                            target="https://de.wikipedia.org/wiki/Fuder#Fl.C3.BCssigkeitsma.C3.9F_.28Wein.29"
-                            >Wikipedia</ref></note> mehr als d<ex>a</ex>z
-                        <w>Heidelbergische:</w><note type="annotation">Gemeint ist das große Fass
-                        des Heidelberger Schlosses. <ref
-                            target="https://de.wikipedia.org/wiki/Gro%C3%9Fes_Fass_des_Heidelberger_Schlosses"
-                            >Wikipedia</ref></note> gegen d<ex>en</ex> Abendt biß <rs
+                        d<ex>az</ex> in sich hält 162 fud<ex>er</ex> weins: und also 28 fud<ex>er</ex> mehr als d<ex>a</ex>z
+                        Heidelbergische: gegen d<ex>en</ex> Abendt biß <rs
                         ref="register.xml#Halberstadt" type="place">Halberstadt</rs>,
                         1.m<ex>eill</ex></p>
             </div>
@@ -117,14 +98,14 @@
                 <head><date when="1634-02-02">d<ex>en</ex> 2. Febr<ex>uari</ex>
                         <c>☉</c></date></head>
                 <p> Predigt gehöret beym <rs ref="register.xml#Georg_Br_Lb" type="person">hertzoge
-                        zu Brunschwieg</rs>: Bey dessen <unclear>L<ex>ieb</ex>d<ex>en</ex></unclear>
+                        zu Brunschwieg</rs>: Bey dessen L<ex>ieb</ex>d<ex>en</ex>
                     wir die gantze Zeit über, Taffel gehalten, biß zu unserm wegkraysen.</p>
             </div>
 
             <div xml:id="E1634-02-05">
                 <head><date when="1634-02-05">d<ex>en</ex> 5. Febr<ex>uari</ex>
                         <c>☿</c></date></head>
-                <p> beym <rs ref="register.xml#Axel_Oxenstierna" type="person">Reichs Cantzlern</rs>
+                <p> beym <rs ref="register.xml#Axel_Oxenstierna" type="person">ReichsCantzlern</rs>
                     gewesen, und auf d<ex>en</ex> Abendt zur mahlzeit geblieben.</p>
             </div>
 
@@ -133,18 +114,17 @@
                         <c>♂</c>.</date></head>
                 <p> der <rs ref="register.xml#Georg_Br_Lb" type="person">Hertzog v<ex>on</ex>
                         Brunschwieg</rs> den <rs ref="register.xml#Axel_Oxenstierna" type="person"
-                        >Reichscantzlern</rs> zu gaste gehabt.</p>
+                        >ReichsCantzlern</rs> zu gaste gehabt.</p>
             </div>
 
             <div xml:id="E1634-02-16">
                 <head><date when="1634-02-16">d<ex>en</ex> 16. Febr<ex>uari</ex>
                         <c>☉</c></date></head>
                 <p> bey <rs ref="register.xml#Georg_Br_Lb" type="person">Hertzog Georg</rs>
-                    <unclear>L<ex>ieb</ex>d<ex>en</ex></unclear> den morgen gewesen: Folgends nach
-                        d<ex>en</ex>
-                    <rs ref="register.xml#Axel_Oxenstierna" type="person">Reichscantzlern</rs>, mit
-                        einand<ex>er</ex> gefahren, und daselbstn mit ihm gegessen: Auf den
-                        Abe<ex>n</ex>d hinwied<ex>er</ex> bey H<ex>err</ex>
+                    L<ex>ieb</ex>d<ex>en</ex> den morgen gewesen: Folgends nach
+                        d<ex>em</ex>
+                    <rs ref="register.xml#Axel_Oxenstierna" type="person">ReichsCantzlern</rs>, miteinand<ex>er</ex> gefahren, und daselbstn mit ihm gegessen: Auf den
+                        Abe<ex>n</ex>d hinwied<ex>er</ex> bey H<ex>erzog</ex>
                     <rs ref="register.xml#Georg_Br_Lb" type="person">Georgen</rs> zu gaste
                     verblieben.</p>
             </div>
@@ -159,7 +139,7 @@
                 <head><date when="1634-02-22">d<ex>en</ex> 22. Febr<ex>uari</ex>
                         <c>♄</c>.</date></head>
                 <p> biß <rs ref="register.xml#Flechtingen" type="place">Flechtingen</rs>, 4.
-                        m<ex>eill</ex></p>
+                    m<ex>eill</ex> biß <rs type="place" ref="register.xml#Calvoerde">Calvörde</rs>: biß <rs type="place" ref="register.xml#Gardelegen">Gardeleben</rs>.</p>
             </div>
 
             <div xml:id="E1634-02-23">
@@ -179,11 +159,9 @@
             <div xml:id="E1634-08-15">
                 <note place="margin-right">Braunschweigische Rayse</note>
                 <head><date when="1634-08-15">den 15. Aug<ex>usti</ex>
-                        <seg><foreign xml:lang="lat">Nativ<ex>itatis</ex>
+                        <foreign xml:lang="lat">Nativ<ex>itas</ex>
                                 Mar<ex>iae</ex></foreign><note type="translation">Geburt
-                                Marias</note></seg><note type="annotation">Anders im
-                            Heiligenkalender, dort ist der 15. August der Tag von "Mariä Aufnahme in
-                            den Himmel" und "Mariä Geburt" hingegen am 08. September</note>
+                                Marias</note><note type="footnote" resp="mg">Verwechslung Augusts: Am 15. August ist Mariä Himmelfahrt (Ascensio Mariae virginis). Mariä Geburt ist der 8. September.</note>
                         <c>♀</c>,</date></head>
                 <p> biß <rs ref="register.xml#Warpke" type="place">Warpeke</rs>, 5.m<ex>eill</ex>
                     biß <rs ref="register.xml#Wittingen" type="place">Witingen</rs>,
@@ -201,10 +179,10 @@
             <div xml:id="E1634-08-17">
                 <head><date when="1634-08-17">d<ex>en</ex> 17. Aug<ex>usti</ex>
                         <c>☉</c></date></head>
-                <p> in d<ex>en</ex> Thumb, d<ex>er</ex> ersten ClagPredigten beygewohnet: Auf
+                <p> in d<ex>en</ex> Thumb<note resp="mg" type="footnote">Lies: Dom.</note>, d<ex>er</ex> ersten ClagPredigten beygewohnet: Auf
                         d<ex>en</ex> nachmittag in d<ex>er</ex> frater-kirchen; d<ex>en</ex>
                     <rs ref="register.xml#Daniel_Moenchmeier" type="person">Munchmayer
-                            Sup<ex>erintendent</ex></rs> gehöret.</p>
+                            Sup<ex>erintendent</ex></rs> gehöret. <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p>
             </div>
 
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00122.jpg" n="59v"/>
@@ -213,8 +191,7 @@
                 <head><date when="1634-08-24">den 24. Aug<ex>usti</ex>
                         <c>☉</c></date></head>
                 <p> biß <rs ref="register.xml#Koeningslutter" type="place">Kaysers Luttern</rs>:
-                        daselbst<ex>en</ex> die <w>Possession</w><note type="translation"
-                        >Besitznahme</note> genommen; biß <rs ref="register.xml#Schoeningen"
+                        daselbst<ex>en</ex> die Possession genommen; biß <rs ref="register.xml#Schoeningen"
                         type="place">Scheningen</rs>, 5.m<ex>eill</ex></p>
             </div>
 
@@ -224,7 +201,7 @@
                 <p> hat d<ex>er</ex>
                     <rs ref="register.xml#Martin_Gosky" type="person">Gosky</rs> zu <rs
                         ref="register.xml#Helmstedt" type="place">Helmstädte</rs> die
-                        <w>possession</w><note type="translation">Besitznahme</note> ergriffen.</p>
+                        possession ergriffen.</p>
             </div>
 
             <div xml:id="E1634-08-26">
@@ -235,54 +212,43 @@
             </div>
 
             <div xml:id="E1634-09-01">
-                <note type="margin-right"><foreign xml:lang="lat">N<ex>ota</ex>
-                        B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt,
-                        übrigens</note></note>
+                <note place="margin-right"><foreign xml:lang="lat"><unclear>N<ex>ota </ex>B<ex>ene</ex></unclear> p<ex>erge</ex></foreign><note type="translation" resp="mg">Beachte wohl usw.</note></note>
                 <head><date when="1634-09-01">den 1. 7bris <c>☽</c>.</date></head>
                 <p>
                     <foreign xml:lang="lat">hora 4. a<ex>nte</ex> m<ex>eridiem</ex> Lectus incensus
-                        in quo decubui, ex incuria cubicularii nobilis, <rs type="person">Wolfgangi
-                            ab Hohenfeld</rs>, q<ex>ue</ex> candelam propius solito admoverat
+                        in quo decubui, ex incuria cubicularii nobilis, <rs type="person" ref="register.xml#hohenfeld_wolfgang">Wolfgangi
+                            ab Hohenfeld</rs>, q<ex>ui</ex> candelam propius solito admoverat
                         Linteolis lecti: Sed Dei gra<ex>tia</ex> extinctus; atque sic ipsius
-                            p<ex>ate</ex>rna<ex>m</ex> custodia<ex>m</ex> adjutus; illud periculum
-                        evasi. Deus ulterius omne malum avertat.</foreign><note type="translation"
-                        >Heute um 4 Uhr wurde das Bett angezündet, darauf ich mich niedergelegt
-                        hatte. Aus Leichtsinn hatte der Kammerdiener des Adeligen Wolfgang von
-                        Hohenfeld die Kerze mehr als üblich mit den Lampendochten an die Betten
-                        herangebracht: Aber Gott sei Dank ausgelöscht; und so ist mir durch die
-                        väterliche Wache geholfen worden, jener Gefahr bin ich entronnen. Gott wende
-                        weiter alle Übel ab</note></p>
+                            p<ex>ate</ex>rna custodia adjutus, illud periculum
+                        evasi. Deus ulterius omne malum avertat.</foreign><note type="translation" resp="mg"
+                        >Heute um 4 Uhr morgens wurde das Bett angezündet, darauf ich mich niedergelegt
+                        hatte, durch die fehlende Sorgsamkeit des Kammerjunkers, Wolfgang von
+                        Hohenfeld, der die Kerze näher als üblich an das leinene Bettzeug
+                        heranbewegt hatte: Aber durch Gottes Gnade wurde sie gelöscht; und so entging ich, durch den Schutz seiner Selbst als Hilfe, jener Gefahr. Gott wende
+                        weiter alles Übel ab.</note></p>
             </div>
 
             <div xml:id="E1634-09-03">
                 <head><date when="1634-09-03">d<ex>en</ex> 3. 7bris <c>☿</c></date></head>
                 <p> seynd die Rähte nacher <rs ref="register.xml#Meinersen" type="place"
-                        >Meinersen</rs>, Auf die Tagefahrt gezog<ex>en.</ex></p>
-                <note type="annotation">Vergleich und Vertrag zu Meinersen und Beilegung des
-                    Erbfolgestreits. Darauf folgt 1635 die welfische Erbteilung, bei der Herzog
-                    Georg zu Braunschweig-Lüneburg das Fürstentum Calenberg-Göttingen sowie Herzog
-                    August dem Jüngeren das Fürstentum Braunschweig-Wolfenbüttel zugesprochen
-                    wurden</note>
+                    >Meinersen</rs>, Auf die Tagefahrt<note type="footnote" resp="mg">Versammlung. Gemeint ist die Konferenz der Räte Augusts und seiner Celler Vettern, auf der letztere Augusts Herrschaft über das Fürstentum Wolfenbüttel am 5. September 1634 zunächst provisorisch anerkannten. Am 14. Dezember 1635 erfolgte in Braunschweig dann die endgültige Anerkennung. Vgl. <ref target="http://opac.lbs-braunschweig.gbv.de/DB=2/PPN?PPN=023685956">Raabe/Schinkel: Sammler Fürst Gelehrter</ref>, S. 115.</note> gezog<ex>en.</ex></p>
             </div>
 
             <div xml:id="E1634-09-26">
                 <note place="margin-left"><foreign xml:lang="lat">N<ex>ota</ex>
-                        B<ex>ene</ex></foreign><note type="translation" resp="as">wohlgemerkt,
-                        übrigens</note></note>
+                        B<ex>ene</ex></foreign><note type="translation" resp="mg">Beachte wohl</note></note>
                 <head><date when="1634-09-26">d<ex>en</ex> 26. 7bris <c>♀</c>,</date></head>
                 <p>
-                    <foreign xml:lang="lat">obit Conjuex mea dilectissima,
-                        obsequentissima</foreign><note type="translation">Stirbt meine geliebte,
-                        folgsame Braut</note>, <rs ref="register.xml#Dorothea_von_Anhalt_Zerbst"
-                        type="person">Dorothea Anhaldia</rs>.</p>
-                <note type="annotation">August vermerkt hier den Todestag seiner zweiten Ehefrau
-                    Dorothea von Anhalt-Zerbst</note>
+                    <foreign xml:lang="lat">obiit Conjunx mea dilectissima,
+                        obsequentissima, <rs ref="register.xml#Dorothea_von_Anhalt_Zerbst"
+                        type="person">Dorothea Anhaldina</rs></foreign><note type="translation" resp="mg">starb meine liebste,
+                        gnädigste Ehefrau Dorothea von Anhalt</note>.</p>
             </div>
 
             <div xml:id="E1634-09-28">
                 <head><date when="1634-09-28">d<ex>en</ex> 28. 7bris <c>☉</c></date></head>
                 <p> biß <rs ref="register.xml#Hankensbuettel" type="place">Hanningsbüttell</rs>:
-                        7.m<ex>eill</ex>
+                        7 m<ex>eill</ex>
                 </p>
             </div>
 
@@ -290,7 +256,7 @@
                 <head><date when="1634-09-29">d<ex>en</ex> 29. 7bris <c>☽</c></date></head>
                 <p> biß <rs ref="register.xml#Bodenteich" type="place">Bodenteich</rs>, <rs
                         ref="register.xml#Dalldorf" type="place">daldorf</rs>
-                    <rs ref="register.xml#Hitzacker" type="place">hitzger.</rs> x</p>
+                    <rs ref="register.xml#Hitzacker" type="place">hitzger.</rs> <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p>
             </div>
 
             <div xml:id="E1634-11-01">
@@ -307,22 +273,15 @@
             </div>
 
             <div xml:id="E1634-11-03">
-                <head><date when="1634-11-03">d<ex>en</ex> 3 9bris <c>☽</c>.</date></head>
+                <head><date when="1634-11-03">d<ex>en</ex> 3. 9bris <c>☽</c>.</date></head>
                 <p> biß <rs ref="register.xml#Hamburg" type="place">Hamburgk</rs>. Diesen tagk hat
-                    ein Ehrenw<ex>ürdiger</ex> hochw<ex>erter</ex> Raht d<ex>er</ex> stadt hamburgk
+                    ein Ehrenw<ex>ürdiger</ex> hochw<ex>erter</ex> Raht d<ex>er</ex> Stadt hamburgk
                     durch doctor <rs ref="register.xml#Johann_Christoph_Meurer" type="person"
-                        >Mäwrern</rs>, und d<ex>em</ex> Senatorem <rs
+                        >Mäwrern</rs>, und d<ex>en</ex> <foreign xml:lang="lat">Senatorem</foreign><note type="translation" resp="mg">Ratsherrn</note> <rs
                         ref="register.xml#Barthold_Twestreng" type="person">zweystrang</rs>,
-                        <ex>ver</ex>ehren lassen, 1. <unclear>v<ex>er</ex></unclear> habern, 2.
-                    Tonnen stadt Biers: 2 schaffe, 1. Kalb. ¼ vom Ochsen. 1. <w>Ohme</w><note
-                        type="annotation">Im Herzogtum Braunschweig rechnete man: 1 Ohm = 4 Anker =
-                        40 Stübchen = 80 Maß = 160 Quartier. <ref
-                            target="https://de.wikipedia.org/wiki/Ohm_(Fl%C3%BCssigkeitsma%C3%9F)"
-                            >Wikipedia</ref></note> Weins; und einen verguldeten
-                        <unclear>Sch[…]eer</unclear>, a 155. <w>loht</w><note type="annotation">Das
-                        Lot war eine Maßeinheit der Masse. <ref
-                            target="https://de.wikipedia.org/wiki/Lot_(Einheit)"
-                        >Wikipedia</ref></note>.</p>
+                        <ex>ver</ex>ehren lassen, 1. w<ex>ispel</ex> habern, 2
+                    Tonnen Stadt Biers: 2 Schaffe, 1 Kalb. ¼ vom Ochsen. 1 Ohme Weins; und einen verguldeten
+                        Schawer<note type="footnote" resp="mg">Schaumünze oder Medaille.</note>, a 155. loht.</p>
             </div>
 
             <div xml:id="E1634-11-05">
@@ -340,24 +299,24 @@
             <div xml:id="E1634-11-26">
                 <note place="margin-right">Holsteinische Rayse nach <rs ref="register.xml#Flensburg"
                         type="place">Flenßburg</rs>; <foreign xml:lang="lat">ad Regem
-                        Daniae</foreign><note type="translation">Zum König der Dänen</note></note>
+                        Daniae</foreign><note type="translation" resp="mg">zum König von Dänemark</note> [...]<note type="annotation" resp="mg">Buchstabenartige Zeichen ohne erkennbare Bedeutung.</note></note>
                 <head><date when="1634-11-26">den 26. 9bris <c>☿</c></date></head>
-                <p> biß <del>Möllen 6.m<ex>eill</ex></del>
-                    <rs type="place">zarnstorff</rs> 3.m<ex>eill</ex> biß <rs
-                        ref="register.xml#Gudow" type="place">Godaw</rs>, 3.m<ex>eill</ex>
+                <p> biß <del>Möllen 6. m<ex>eill</ex></del>
+                    <rs type="place">zarnstorff</rs> 3. m<ex>eill</ex> biß <rs
+                        ref="register.xml#Gudow" type="place">Godaw</rs>, 3 m<ex>eill</ex>
                 </p>
             </div>
 
             <div xml:id="E1634-11-27">
                 <head><date when="1634-11-27">d<ex>en</ex> 27. 9bris, <c>♃</c></date></head>
                 <p> biß <rs ref="register.xml#Gross_Sarau" type="place">Zarow</rs>, <rs
-                        ref="register.xml#Luebeck" type="place">Lübeck</rs> 5.m<ex>eill</ex></p>
+                        ref="register.xml#Luebeck" type="place">Lübeck</rs> 5. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-11-28">
                 <head><date when="1634-11-28">d<ex>en</ex> 28. 9bris <c>♀</c></date></head>
                 <p> biß <rs ref="register.xml#Curau" type="place">Gronaw</rs>, <rs
-                        ref="register.xml#Eutin" type="place">Enthyn</rs>, 5.m<ex>eill</ex></p>
+                        ref="register.xml#Eutin" type="place">Enthyn</rs>, 5. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-11-29">
@@ -368,7 +327,7 @@
 
             <div xml:id="E1634-11-30">
                 <head><date when="1634-11-30">d<ex>en</ex> 30. 9bris <c>☉</c></date></head>
-                <p> biß <rs ref="register.xml#Eckernfoerde" type="place">Ecklenvoerde</rs>, zu
+                <p> biß <rs ref="register.xml#Eckernfoerde" type="place">Ecklenvoerde</rs>, An
                         d<ex>er</ex> See, biß <rs ref="register.xml#Fleckeby" type="place"
                         >Fleckebühe</rs>. 4 m<ex>eill</ex></p>
             </div>
@@ -377,26 +336,26 @@
                 <head><date when="1634-12-01">d<ex>en</ex> 1. xbr. <c>☽</c>.</date></head>
                 <p> durch <rs ref="register.xml#Schleswig" type="place">Schleswig</rs> od<ex>er</ex>
                     <rs ref="register.xml#Goltoft" type="place">Gottorff</rs>, nach <rs
-                        ref="register.xml#Stenderupau" type="place">Stenderpaw</rs>,
-                        4.m<ex>eill</ex></p>
+                        ref="register.xml#Stenderupau" type="place">StenderPaw</rs>,
+                        4. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-12-02">
                 <head><date when="1634-12-02">d<ex>en</ex> 2. xbris <c>♂</c>.</date></head>
                 <p> biß <rs ref="register.xml#Flensburg" type="place">Flensburg</rs>,<add
-                        place="above">2.</add>m<ex>eill</ex> Aufs Königliche Schloß.</p>
+                        place="above">2.</add> m<ex>eill</ex> Aufs Königliche Schloß.</p>
             </div>
 
             <div xml:id="E1634-12-09">
                 <head><date when="1634-12-09">d<ex>en</ex> 9 xbirs <c>♂</c>,</date></head>
                 <p> biß <rs ref="register.xml#Sonderburg" type="place">Sunderbourgk</rs>:
-                        5.m<ex>eill</ex></p>
+                        5. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-12-11">
                 <head><date when="1634-12-11">d<ex>en</ex> 11. xbris, <c>♃</c></date></head>
                 <p> biß <rs ref="register.xml#Nordborg" type="place">Norburgk</rs>,
-                    2.m<ex>eill</ex></p>
+                    2. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-12-13">
@@ -408,42 +367,42 @@
             <div xml:id="E1634-12-14">
                 <head><date when="1634-12-14">d<ex>en</ex> 14. xbris <c>☉</c></date></head>
                 <p> biß <rs ref="register.xml#Grasten" type="place">Quastorff</rs>,
-                    2.m<ex>eill</ex></p>
+                    2. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-12-15">
                 <head><date when="1634-12-15">d<ex>en</ex> 15. xbris <c>☽</c></date></head>
                 <p> durch <rs ref="register.xml#Flensburg" type="place">Flenßburg</rs>,
-                        2.m<ex>eill</ex>
+                        2. m<ex>eill</ex>
                     <rs ref="register.xml#Suederfahrenstedt" type="place">varenstede</rs>
-                        3.m<ex>eill</ex>
-                    <foreign xml:lang="lat">ubi <rs type="place">Lange<ex>n</ex>b.</rs> ex limites
+                        3. m<ex>eill</ex>
+                    <foreign xml:lang="lat">ubi <rs type="person" ref="register.xml#langenbeck_heinrich">Lange<ex>n</ex>b<ex>eck</ex></rs> ex limites
                             verecu<ex>n</ex>di<ex>ae</ex> ivit</foreign><note type="translation">wo
-                        Langenb. aus den Grenzen der Ehrfurcht gegangen ist</note>.</p>
+                        Langenbeck die Grenzen des Anstands verlassen hat</note>.</p>
             </div>
 
             <div xml:id="E1634-12-16">
                 <head><date when="1634-12-16">d<ex>en</ex> 16 xbris <c>♂</c></date></head>
-                <p> biß <rs type="place">Meßsundt</rs> 1 ½m<ex>eill</ex> biß <rs
+                <p> biß <rs type="place">Meßsundt</rs> 1½ m<ex>eill</ex> biß <rs
                         ref="register.xml#Eckernfoerde" type="place">Ecklenvoerde</rs>.
-                        1.m<ex>eill</ex></p>
+                        1. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-12-17">
                 <head><date when="1634-12-17">den 17. xbris, <c>☿</c></date></head>
                 <p> durch den <rs ref="register.xml#Kiel" type="place">Kyhl</rs> biß <rs
-                        ref="register.xml#Preetz" type="place">Pretsche</rs> 5.m<ex>eill</ex></p>
+                        ref="register.xml#Preetz" type="place">Pretsche</rs> 5. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-12-18">
                 <head><date when="1634-12-18">d<ex>en</ex> 18. xbris, <c>♃</c>.</date></head>
-                <p> biß <rs ref="register.xml#Ahrensboek" type="place">Arentslöcke</rs>, biß <rs
-                        ref="register.xml#Luebeck" type="place">Lübeck</rs>, 7.m<ex>eill</ex></p>
+                <p> biß <rs ref="register.xml#Ahrensboek" type="place">Arentsböke</rs>, biß <rs
+                        ref="register.xml#Luebeck" type="place">Lübeck</rs>, 7. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-12-19">
                 <head><date when="1634-12-19">d<ex>en</ex> 19. xbris <c>♀</c></date></head>
-                <p> biß <rs ref="register.xml#Moelln" type="place">Müllen</rs>, 4.m<ex>eill</ex></p>
+                <p> biß <rs ref="register.xml#Moelln" type="place">Müllen</rs>, 4. m<ex>eill</ex></p>
             </div>
 
             <div xml:id="E1634-12-20">

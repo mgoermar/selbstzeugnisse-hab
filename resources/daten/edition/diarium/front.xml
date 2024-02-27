@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" type="edition" n="Titelseite" next="1594.xml" xml:id="edition.diarium.front.xml">
-    <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+    xmlns:xi="http://www.w3.org/2001/XInclude" 
+    type="edition" n="Titelseite" next="1594.xml" xml:id="edition.diarium.front.xml">
+    <teiHeader type="text">
         <fileDesc><titleStmt><title>
           Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
            – Titelseite</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
           Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
           August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
-        </bibl></sourceDesc></fileDesc>
+        </bibl>
+           </sourceDesc></fileDesc>
     </teiHeader>
     <text>
         <body>
@@ -16,18 +20,18 @@
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00004.jpg" n="Iv"/>
             <div>
                 <list>
-                <item><rs type="person">Sophia Ursula</rs></item>
-                <item><rs type="person">Catharina Elisabeta</rs></item>
-                <item><rs type="person">Antonius Heinrich</rs></item>
-                <item><rs type="person">Anna</rs></item> 
-                <item><rs type="person">Clara</rs></item> 
-                <item><rs type="person">Sibilla Maria</rs></item> 
-                <item><rs type="person">Dorothea.</rs></item> 
-                <item><rs ref="register.xml#Sidonia_von_Oldenburg_Delmenhorst" type="person">Sidonia.</rs></item> 
-                <item><rs ref="register.xml#Christian_von_Oldenburg_Delmenhorst" type="person">Christianus</rs></item>                                                
-                <item><rs ref="register.xml#Emilie_von_Schwarzburg_Rudolstadt" type="person">Aemilia</rs></item>
-                <item><rs ref="register.xml#Juliana_von_Wuerttemberg_Weiltingen" type="person">Juliana</rs></item>               
-                </list><note type="annotation">Von August notierte Liste der Nachkommen seiner Schwester Sibylle Elisabeth von Braunschweig-Dannenberg (1576-1630) und Graf Anton II. von Oldenburg-Delmenhorst (1550-1619)</note>
+                    <item><rs type="person" ref="register_personen.xml#barby_sophia_ursula">Sophia Ursula</rs></item>
+                    <item><rs type="person" ref="register_personen.xml#oldenburg-delmenhorst_katharina_elisabeth">Catharina Elisabeta</rs></item>
+                    <item>&#x2013; <rs type="person" ref="register_personen.xml#oldenburg-delmenhorst_anton-heinrich">Antonius Heinrich</rs>.</item>
+                    <item><rs type="person" ref="register_personen.xml#schleswig-holstein-sonderburg_anna">Anna</rs></item> 
+                    <item><rs type="person" ref="register_personen.xml#schleswig-holstein-sonderburg-beck_clara">Clara</rs></item> 
+                    <item>&#x2013; <rs type="person" ref="register_personen.xml#oldenburg-delmenhorst_sibylla_maria">Sibilla Maria</rs></item> 
+                    <item><rs type="person" ref="register_personen.xml#oldenburg-delmenhorst_dorothea">Dorothea.</rs></item> 
+                    <item><rs ref="register_personen.xml#oldenburg-delmenhorst_sidonia" type="person">Sidonia.</rs></item> 
+                    <item>&#x2013; <rs ref="register_personen.xml#oldenburg-delmenhorst_christian" type="person">Christian<ex>us</ex></rs>. e<ex>tcetera</ex></item>                                                
+                    <item><rs ref="register_personen.xml#schwarzburg-rudolstadt_emilie" type="person">Aemilia</rs></item>
+                    <item><rs ref="register_personen.xml#wuerttemberh-weiltingen_juliana" type="person">Juliana</rs> <foreign xml:lang="lat">p<ex>erge </ex>p<ex>erge</ex></foreign><note type="translation" resp="mg">usw. usw.</note><note type="footnote">Von August notierte Liste der Kinder seiner Schwester <rs type="person" ref="register_personen.xml#oldenburg-delmenhorst_sibylla_elisabeth">Sibylle Elisabeth</rs> und <rs type="person" ref="register_personen.xml#oldenburg-delmenhorst_anton_ii">Graf Anton II. von Oldenburg-Delmenhorst</rs>.</note></item>               
+                </list>
             </div>
             
         </body>

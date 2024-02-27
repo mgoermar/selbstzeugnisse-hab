@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Register">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" n="Register" xml:id="edition.register.xml">
     <teiHeader>
         <fileDesc><titleStmt><title>
           Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
@@ -1059,10 +1059,6 @@
                     <idno type="URI">http://d-nb.info/gnd/135930766</idno>
                     <persName type="display">Twestreng, Barthold</persName>
                 </person>
-                <person xml:id="Sophia_Ursula_zu_Barby">
-                    <idno type="URI">http://d-nb.info/gnd/104369477</idno>
-                    <persName type="display">Barby, Sophia Ursula zu</persName>
-                </person>
                 <person xml:id="Martin_Gosky">
                     <idno type="URI">http://d-nb.info/gnd/124681298</idno>
                     <persName type="display">Gosky, Martin</persName>
@@ -1286,6 +1282,41 @@
                 <person xml:id="Agrippina">
                     <idno type="URI">http://d-nb.info/gnd/11864405X</idno>
                     <persName type="display">Agrippina, die Jüngere</persName>
+                </person>
+                <person xml:id="bruening_johann">
+                    <idno type="URI">https://d-nb.info/gnd/121819620</idno>
+                    <persName type="display">Brüning, Johann</persName>
+                </person>
+                <person xml:id="kardorff_anon_1">
+                    <persName type="display">Kardorf, N. N.</persName>
+                    <note>Angehöriger des mecklenburgischen Uradelsgeschlechts.</note>
+                </person>
+                <person xml:id="geist_berendt">
+                    <idno type="URI">https://d-nb.info/gnd/1046140124</idno>
+                    <persName type="display">Hagen (gen. Geist), Bernhard von</persName>
+                </person>
+                <person xml:id="hohenfeld_wolfgang">
+                    <idno type="URI">https://d-nb.info/gnd/1065821964</idno>
+                    <persName type="display">Hohenfeld, Wolfgang von</persName>
+                </person>
+                <person xml:id="langenbeck_heinrich">
+                    <persName type="display">Langenbeck, Heinrich</persName>
+                    <idno type="URI">https://d-nb.info/gnd/123976685</idno>
+                </person>
+                <person xml:id="Sophia_Ursula_Barby">
+                    <idno type="URI">https://d-nb.info/gnd/104369477</idno>
+                    <persName type="display">Barby, Sophia Ursula, Gräfin zu, geb. Gräfin von Oldenburg-Delmenhorst</persName>
+                </person>
+                <person xml:id="heinrich_1">
+                    <persName type="display">N. N., Heinrich</persName>
+                    <note>Reitschmied Augusts d. J.</note>
+                </person>
+                <person xml:id="alvensleben_anon_1">
+                    <persName type="display">Alvensleben, N. N. von</persName>
+                    <note>Angehöriger des altmärkischen Adelsgeschlechts.</note>
+                </person>
+                <person xml:id="kropf_friedrich">
+                    <persName type="display">Kropf, Friedrich</persName>
                 </person>
             </listPerson>
      <listPlace>

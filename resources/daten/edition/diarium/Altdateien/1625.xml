@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" next="1626.xml" n="1625" prev="1624.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1625</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00105.jpg" n="51r">Anno 1625.</head></div>
+            
+            <div xml:id="E1625-04-28"><head><date when="1625-04-28">den 28 Aprilis <c>♃</c>,</date></head><p> ist mein <rs ref="register.xml#Heinrich_August_von_Braunschweig_Lueneburg" type="person">Sohn
+                hertzog Heinrich August</rs> gebohren umb 12 uhr und 30 min. am hellen <add place="above">mit</add>
+                tage; d<ex>er</ex> Allmechtige erhalte ihn nach seinem Väterlichen
+                willen.</p></div>
+           
+            <div xml:id="E1625-07-03"><head><date when="1625-07-03">den 3. Julii. <c>☉</c>.</date></head><p> ist gedachter mein <rs ref="register.xml#Heinrich_August_von_Braunschweig_Lueneburg" type="person">Sohn</rs> getauffet word<ex>e</ex>n. </p></div>
+                                   
+            <div xml:id="E1625-08-05"><head><date when="1625-08-05">den 5 Augusti, <c>♀</c></date></head><p> biß
+                <rs ref="register.xml#Oldenstadt" type="place">Altenstadt</rs>.</p></div>
+            
+            <div xml:id="E1625-08-06"><head><date when="1625-08-06">d<ex>e</ex>n 6. Aug<ex>usti</ex> <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Dreilingen" type="place">Dreyling</rs>, biß
+                <rs ref="register.xml#Bergen" type="place">Bergen</rs>.</p></div>
+            
+            <div xml:id="E1625-08-07"><head><date when="1625-08-07">d<ex>e</ex>n 7. Aug<ex>usti</ex> <c>☉</c></date></head><p> biß <rs ref="register.xml#Dueshorn" type="place">Düßhorn</rs>, biß zur
+                <rs ref="register.xml#Hoya" type="place">Hoyer</rs>.</p></div>
+            
+            <div xml:id="E1625-08-08"><head><date when="1625-08-08">den 8 Aug<ex>usti</ex>
+                <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Syke" type="place">Sike</rs>; biß
+                <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>.</p></div>
+            
+            <div xml:id="E1625-08-31"><head><date when="1625-08-31">den 31. Aug<ex>usti</ex>
+                <c>☿</c></date></head><p> biß <rs ref="register.xml#Achim" type="place">Achim</rs>: biß <rs ref="register.xml#Walsrode" type="place">Walßrade</rs>, 8.
+                m<ex>eill</ex>.</p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00106.jpg" n="51v"/>
+            
+            <div xml:id="E1625-09-01"><head><date when="1625-09-01">den 1. 7bris. <c>♃</c></date></head><p> biß <rs ref="register.xml#Oerrel" type="place">Orle</rs>, biß
+                <rs ref="register.xml#Ebstorf" type="place">Ebstorff</rs> 6 m<ex>eill</ex>. </p></div>
+            
+            <div xml:id="E1625-09-02"><head><date when="1625-09-02">d<ex>e</ex>n 2 7bris, <c>♀</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
+                 
+        </body>
+    </text>
+</TEI>

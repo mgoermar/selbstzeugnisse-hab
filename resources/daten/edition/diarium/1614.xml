@@ -22,7 +22,7 @@
             <div xml:id="E1614-01-05"><note place="margin-right">20</note> <head><date when="1614-01-05">den 5. Januarÿ <c>☿</c></date></head><p> biß <rs ref="register.xml#Heiligengrabe" type="place">heiligen grabe</rs>
                 <rs ref="register.xml#Wolfshagen" type="place">Wolfshagen</rs>, <rs ref="register.xml#Steesow" type="place">Boocholt dorf</rs> 4. m<ex>eill</ex>. biß <rs ref="register.xml#Lenzen" type="place">Lentzen</rs> 3 m<ex>eill</ex>. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p></div>
             
-            <div xml:id="E1614-01-06"><note place="margin-right">24.</note> <head><date when="1614-01-06">d<ex>e</ex>n <del rend="overstrike">6</del><add>7</add> Januarÿ <c>♀</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> 4. m<ex>eill</ex>. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1614-01-06"><note place="margin-right">24.</note> <head><date when="1614-01-06">d<ex>e</ex>n <del rend="overstrike">6</del><add>7</add> Januarÿ <c>♀</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs> 4. m<ex>eill</ex>. <foreign xml:lang="">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
             <div xml:id="E1614-01-20"><head><date when="1614-01-20">den 20. Januarÿ <c>♃</c>,</date></head><p> biß <rs ref="register.xml#Uelzen" type="place">Ultzen</rs>, 5.
                 m<ex>eill</ex>.</p></div>
@@ -36,15 +36,17 @@
                 <rs ref="register.xml#Harburg" type="place">Harburgk</rs>, 7. m<ex>eill</ex>.</p></div>
             
             <div xml:id="E1614-01-31"><head><date when="1614-01-31">den 31 Januar<ex>ÿ</ex>
-                <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>, 6 m<ex>eill</ex> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+                <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>, 6 m<ex>eill</ex> <foreign xml:lang="">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
+            
+            <div><p><add place="margin-right"><del>d</del><note type="annotation" resp="mg">Im Original verwischt.</note></add></p></div>
             
             <div xml:id="E1614-05-06"><head><date when="1614-05-06">den 6 Maÿ <c>☿</c>,</date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>, mit
-                meinem f<ex>ürstlichen</ex> l<ex>ieben</ex> <rs ref="register.xml#Julius_Ernst_Br-Db" type="person">brudern</rs>.</p></div>
+                meinem f<ex>ürstlichen</ex> l<ex>iebden</ex> <rs ref="register.xml#Julius_Ernst_Br-Db" type="person">brudern</rs>.</p></div>
             
-            <div xml:id="E1614-05-07"><head><date when="1614-05-07">den 7. Maÿ <c>♄</c>,</date></head><p> wieder zu rücke: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1614-05-07"><head><date when="1614-05-07">den 7. Maÿ <c>♄</c>,</date></head><p> wieder zu rücke: <foreign xml:lang="">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
            
-            <div xml:id="E1614-06-15"><head type="margin-right"><date when="1614-06-15">den 15. Junÿ. <c>☿</c></date></head><p>
-                <foreign xml:lang="lat">hor<ex>am</ex> 7. m. 45. p<ex>ost</ex> m<ex>eridiem</ex> Nata est 8va filia, <seg><rs ref="register.xml#Emilie_von_Schwarzburg_Rudolstadt" type="person">Aemilia. Delmenhorstica</rs></seg></foreign><note type="translation">Um 19:45 Uhr ist die achte Tochter <rs ref="register.xml#Emilie_von_Schwarzburg_Rudolstadt" type="person">Aemilia. Delmenhorstica</rs> geboren.</note></p><note type="annotation">Emilie von Schwarzburg Rudolstadt ist die achte Tochter von <rs ref="register.xml#Sibylle_El_Ol" type="person">Sibylle Elisabeth von Braunschweig-Dannenberg</rs> und <rs ref="register.xml#Anton_II." type="person">Anton II. von Oldenburg-Delmenhorst</rs></note></div>
+            <div xml:id="E1614-06-15"><add place="margin-right"><head><date when="1614-06-15">den 15. Junÿ. <c>☿</c></date></head><p>
+                <foreign xml:lang="lat">hor<ex>a</ex> 7. m<ex>inutae</ex> 45. p<ex>ost</ex> m<ex>eridiem</ex> Nata est 8va filia, <rs ref="register.xml#Emilie_von_Schwarzburg_Rudolstadt" type="person">Aemilia. Delmenhorstica</rs> p<ex>erge</ex></foreign><note type="translation">Zur 7. Stunde, 45 Minuten nachmittags ist die achte Tochter von Delmenhorst, Emilie, geboren usw.</note></p></add></div>
         </body>
     </text>
 </TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.introduction_cod_guelf_211_1_extrav" n="Einleitung">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 211.1 Extrav.</title>
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Miriam</forename>
+                        <surname>Mulzer</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>auf Grundlage von Vorarbeiten von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                    <persName>
+                        <forename>Alexander</forename>
+                        <surname>Zirr</surname>                        
+                    </persName>                    
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 211.1 Extrav.: Tagebuch Herzogin Christine Luises von Braunschweig-Wolfenbüttel, 1698–99</head>
+                <p>
+                    <hi rend="smaller"><lb/>Vorsatzblatt recto: Journal weyl. Christinen Louise, geb. Fürstin v. Oettingen, Ludwig Rudolfs Herzogs zu Braunschweig Luneb. Gemahlin. n. 20. Mart. 1671. den. 12. Nov. 1747. Vom 9. Mart. 1698 biß 19. Jul. 1699.
+                    <lb/>2, 70 Bl. teils eigenh., teils andere Schreiberhände. Mit Marmorpapier überzogener Pappband des 18. Jahrhunderts. Vgl. <ref target="https://diglib.hab.de/?db=mss&amp;list=ms&amp;id=211-1-extrav&amp;catalog=Butzmann">Wolf-Dieter Otte: Die neueren Handschriften der Gruppe Extravagantes, Bd. 2. Frankfurt a. M. 1987 (Kataloge der Herzog August Bibliothek, Neue Reihe Bd. 18), S. 202.</ref>
+                    <lb/>Links: <ref target="http://diglib.hab.de/mss/211-1-extrav/start.htm">Digitalisat</ref>, <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav">edierter Text</ref>, <ref target="http://selbstzeugnisse.hab.de/repertorium/eintrag/211-1-extrav">Selbstzeugnisrepertorium</ref></hi>
+                </p>
+                <p>
+                    <lb/>Bei dem Selbstzeugnis, das als Band 211.1 im Bestand „Extravagantes“ verzeichnet ist, handelt es sich um das Fragment eines Tagebuchs der 28-jährigen Herzogin Christine Luise von Braunschweig-Wolfenbüttel (1671–1747), das auf 140 Seiten den Zeitraum vom März 1698 bis Juli 1699 (julian.) umfasst und in der überlieferten Form eine Art Reisetagebuch darstellt. Der mit <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1r">Blatt 1</ref> einsetzende Tagebuchtext ist anfangs in einer Schreiberhand verfasst, der auf dem vorhergehenden Blatt stehende Titel in einer anderen Schreiberhand; auf etwa der Mitte von <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#9r">Blatt 9</ref> beginnt (mit dem Tageseintrag zum <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1698-07-12_9r">12. Juli 1698</ref>) der autograph verfasste Teil. Einem Diarium entsprechend existiert in der Regel pro Tag ein Eintrag. Nahezu ausschließlich sind es sehr kurze Einträge, die selten über zwei, drei Zeilen hinausgehen. Zwischen den einzelnen Tageseinträgen gibt es keine erkennbaren Absätze, vielmehr ist der Text fortlaufend geschrieben. Die Orthographie und die Zeichensetzung sind teils recht frei, die Schreibung folgt stark dem phonematischen Prinzip (d. h. schreiben, wie man spricht).
+                </p>
+                <p>
+                    <lb/>Der Wirkungskreis der jungen Herzogin erstreckt sich auf den Bereich des Hofes zwischen Wolfenbüttel, Salzdahlum und Braunschweig und wird unterbrochen durch Reisen zu ihrem Bruder Albrecht Ernst nach Oettingen und Schrattenhofen (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1698-03-09_1r">März</ref> bis <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1698-05-28_5r">Mai 1698</ref>), zu ihrer Tante Christine Charlotte und ihrer Schwester Eberhardine Sophie nach Ostfriesland (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1699-02-23_37r">Februar</ref> bis <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1699-04-01_40v">April 1699</ref>) und zu einer Reise nach (Bad) Ems und ins Fürstentum Nassau-Idstein zu ihrer Schwester Henriette Dorothea (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1699-05-02_46v">Mai</ref> bis <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1699-07-10_68r">Juli 1699</ref>). 
+                </p>
+                <p>
+                    <lb/>Thematisiert werden Reiserouten, getätigte und empfangene Besuche, Mahlzeiten, Zeitvertreib beim Spiel auf den höfischen Assembleen oder im Privaten, der Besuch von Komödien, Schauspielen, Opern und Marionettenspielen, Maskeraden und Tanz, Kutschfahrten, aber auch Jagden. Bisweilen vermerkt die Herzogin Unwohlsein. Reflexionen, Wertungen oder Expression emotionaler Befindlichkeit finden sich hingegen nicht.
+                </p>
+                <p>
+                    <lb/>Mit dem Ende von Blatt 70 bricht die Textüberlieferung kurz nach der Rückkehr nach Wolfenbüttel (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1699-07-15_69r">15. 7. 1699</ref>) unvermittelt ab, mitten im Satz im Eintrag zum <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav#1699-07-19_70v">19. Juli 1699</ref>.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

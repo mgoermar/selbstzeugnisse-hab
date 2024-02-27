@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sz2.register.orte">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ortsregister</title> 
+                <respStmt>
+                    <resp>erstellt und bearbeitet von</resp>                    
+                    <name>Alexander Zirr</name>
+                    <name>Andreas Herz</name>
+                    <name>Jan-Hendrik Hütten</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                    <address>
+                        <street>Lessingplatz 1</street>
+                        <name type="city">Wolfenbüttel</name>
+                        <postCode>D-38299</postCode>
+                        <name type="country">Germany</name>
+                    </address>
+                </publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace xml:id="place">
+                <place xml:id="aachen">
+                    <placeName ref="https://www.geonames.org/3247449/aachen.html">Aachen</placeName>
+                </place>
+                <place xml:id="aleppo">
+                    <placeName ref="http://www.geonames.org/170063/aleppo.html">Aleppo</placeName>
+                </place>
+                <place xml:id="alfeld">
+                    <placeName ref="http://www.geonames.org/2958533/alfeld.html">Alfeld</placeName>
+                </place>
+                <place xml:id="aller_river">
+                    <placeName ref="http://www.geonames.org/2958425/aller.html">Aller, Fluss</placeName>
+                </place>
+                <place xml:id="altona">
+                    <placeName ref="http://www.geonames.org/2911296/altona.html">Altona</placeName>
+                </place>
+                <place xml:id="ampleben">
+                    <placeName ref="http://www.geonames.org/2956372/ampleben.html">Ampleben</placeName>
+                </place>
+                <place xml:id="amsterdam">
+                    <placeName ref="http://www.geonames.org/2759794/amsterdam.html">Amsterdam</placeName>
+                </place>
+                <place xml:id="angers">
+                    <placeName ref="http://www.geonames.org/3037656/angers.html">Angers</placeName>
+                </place>
+                <place xml:id="anhalt_fuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4002060-5">Anhalt, Fürstentum</placeName>
+                </place>
+                <place xml:id="antwerpen">
+                    <placeName ref="https://www.geonames.org/2803138/antwerpen.html">Antwerpen</placeName>
+                </place>
+                <place xml:id="arnstadt">
+                    <placeName ref="http://www.geonames.org/2955439/arnstadt.html">Arnstadt</placeName>
+                </place>
+                <place xml:id="aschaffenburg">
+                    <placeName ref="http://www.geonames.org/2955272/aschaffenburg.html">Aschaffenburg</placeName>
+                </place>
+                <place xml:id="aschaffenburg_schloss_johannisburg">
+                    <placeName ref="http://www.geonames.org/6943340/schloss-johannisburg.html">Schloss Johannisburg</placeName>
+                    <note>Nebenresidenz der Mainzer Kurfürsten.</note>
+                </place>
+                <place xml:id="augsburg">
+                    <placeName ref="http://www.geonames.org/2954172/augsburg.html">Augsburg</placeName>
+                </place>
+                <place xml:id="aurich">
+                    <placeName ref="http://www.geonames.org/2954006/aurich.html">Aurich</placeName>
+                </place>
+                <place xml:id="bacharach">
+                    <placeName ref="http://www.geonames.org/2953702/bacharach.html">Bacharach</placeName>
+                </place>
+                <place xml:id="bamberg">
+                    <placeName ref="http://www.geonames.org/2952984/bamberg.html">Bamberg</placeName>
+                </place>
+                <place xml:id="berlin">
+                    <placeName ref="http://www.geonames.org/2950159/berlin.html">Berlin</placeName>
+                </place>
+                <place xml:id="bevern">
+                    <placeName ref="http://www.geonames.org/2949489/bevern.html">Bevern</placeName>
+                </place>
+                <place xml:id="biebrich">
+                    <placeName ref="http://www.geonames.org/2949235/biebrich.html">Biebrich</placeName>
+                </place>
+                <place xml:id="bingen_maeuseturm">
+                    <placeName ref="http://www.geonames.org/11886814/binger-maeuseturm.html">Bingen, Mäuseturm</placeName>
+                    <note>Wehr- und Wachturm auf einer Rheininsel nahe Bingen.</note>
+                </place>
+                <place xml:id="binger_loch">
+                    <placeName ref="http://www.geonames.org/2948820/binger-loch.html">Binger Loch</placeName>
+                    <note>Engstelle im Rhein.</note>
+                </place>
+                <place xml:id="bissingen">
+                    <placeName ref="https://www.geonames.org/2948204/bissingen.html">Bissingen (Bayern)</placeName>
+                </place>
+                <place xml:id="blankenburg">
+                    <placeName ref="http://www.geonames.org/2948071/blankenburg.html">Blankenburg</placeName>
+                </place>
+                <place xml:id="blankenburg_fuerstentum"><!-- jhh -->
+                    <placeName>Blankenburg, Grafschaft bzw. Fürstentum</placeName>
+                    <note>Bis 1707 Grafschaft Blankenburg, im genannten Jahr erfolgte die Erhebung Blankenburgs zu einem Fürstentum anlässlich der Hochzeit Elisabeth Christines (1691-1750), Tochter Herzog Ludwig Rudolphs (1671-1735), mit dem späterem Kaiser Karl. VI (1685-1740).</note>
+                </place>
+                <place xml:id="blankenburg_schloss"><!-- jhh -->
+                    <placeName>Blankenburg, Schloss</placeName>
+                    <note>Seit dem Mittelalter als Burganlage genutzt; ein größerer Umbau im Renaissancestil erfolgte in der Mitte des 16. Jahrhunderts, eine neuerlichee repräsentative Umgestaltung der Schlossanlage wurde durch Herzog Ludwig Rudolph (1671-1735) ab 1705 angestrengt und durch den durch den Landbaumeister Hermann Korb ausgeführt.</note>
+                </place>
+                <place xml:id="bockelskamp">
+                    <placeName ref="http://www.geonames.org/2947375/bockelskamp.html">Bockelskamp (Wienhausen)</placeName>
+                </place>
+                <place xml:id="boppard">
+                    <placeName ref="http://www.geonames.org/2946366/boppard.html">Boppard</placeName>
+                </place>
+                <place xml:id="boxtal">
+                    <placeName ref="https://www.geonames.org/2945682/boxtal.html">Boxtal</placeName>
+                </place>
+                <place xml:id="brabant_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4089892-1">Brabant, Herzogtum</placeName>
+                </place>
+                <place xml:id="brandenburg-preussen">
+                    <placeName ref="http://d-nb.info/gnd/4047194-9">Das Herzogtum Preußen war 1618 als Erbanfall an das hohenzollersche Kurfürstentum Brandenburg gegangen, seit 1701 führten die Kurfürsten den Titel eines Königs in Preußen.</placeName>
+                </place>
+                <place xml:id="brandenburg-ansbach_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4371198-4">Brandenburg-Ansbach, Markgrafschaft</placeName>
+                </place>
+                <place xml:id="braubach">
+                    <placeName ref="http://www.geonames.org/2945136/braubach.html">Braubach</placeName>
+                </place>
+                <place xml:id="braunlage"><!-- jhh -->
+                    <placeName ref="http://www.geonames.org/2945055/braunlage.html">Braunlage</placeName>
+                </place>
+                <place xml:id="braunschweig">
+                    <placeName ref="http://www.geonames.org/2945024/braunschweig.html">Braunschweig</placeName>
+                </place>
+                <place xml:id="braunschweig_aegidientor">
+                    <placeName>Braunschweig, Aegidientor</placeName>
+                    <note>Stadttor in Braunschweig; südwestlicher Ausgang aus dem Weichbild Altstadt, 1728 durch das wenige Meter entfernte Augusttor ersetzt. Dessen Portalruine mit einer Inschrift auf den Erbauer Herzog August Wilhelm von Braunschweig-Wolfenbüttel heute im Bürgerpark in Braunschweig.</note>
+                </place>
+                <place xml:id="braunschweig_altstadt_rathaus">
+                    <placeName>Braunschweig, Altstadt-Rathaus</placeName>
+                    <note>Das gotische Rathaus des Weichsbildes "Altstadt" in Braunschweig mit dem alten, noch erhaltenen Sitzungs- und Veranstaltungssaal der "Großen Dornse".</note>
+                </place>
+                <place xml:id="braunschweig_augustbollwerk"><!-- jhh -->
+                    <placeName>Braunschweig, Augustbolwerk</placeName>
+                    <note>Bollwerk der Stadtbefestigung in Braunschweig; im Weichbild Hagen gelegen</note>
+                </place>
+                <place xml:id="braunschweig_bruedernkirche">
+                    <placeName>Braunschweig, Brüdernkirche St. Ulrici</placeName>
+                    <note>Kirche in Braunschweig; ein ehemaliges Franziskanerkloster, 1544 für den evangelisch-lutherischen Gottesdienst eingeweiht.</note>
+                </place>
+                <place xml:id="braunschweig_cyriacusstift">
+                    <placeName>Braunschweig, Stift St. Cyriacus</placeName>
+                    <note>Klosterstiftung des 11. Jahrhunderts südwestlich vor den Toren der Stadt Braunschweig. Das Stiftskapitel trat 1542 der Reformation bei; 1545 wurden die Stiftsgebäude niedergerissen; der Stiftskonvent ging in das Stift St. Blasii (s. Dom) über, behielt aber bis ins 19. Jahrhundert seine körperschaftliche Selbständigkeit.</note>
+                </place>
+                <place xml:id="braunschweig_dom">
+                    <placeName>Braunschweig, Dom St. Blasii</placeName>
+                    <note>Kirche des Stiffts St. Blasii in Braunschweig, direkt am Burgplatz gelegen, meist an sich falsch vereinfachend "Dom" genannt.</note>
+                </place>
+                <place xml:id="braunschweig_dompropstei"> <!-- jhh -->
+                    <placeName>Braunschweig, Dompropstei</placeName>
+                    <note>Von 1707 bis 1709 südlich des Doms errichtetes Gebäude, das auch "Bevernsches Schloss" genannt wurde. Der Abriss erfolgte 1879.</note>
+                </place>
+                <place xml:id="braunschweig_grauer_hof">
+                    <placeName>Braunschweig, Grauer Hof</placeName>
+                    <note>Ursprünglich städtischer Hof der Zisterzienser von Riddagshausen am Bohlweg in Braunschweig. Vor 1671 Quartier der Herzöge bei Besuchen in Braunschweig, Pläne für einen Ausbau zur herzoglichen Stadtresidenz schon unter Herzog Anton Ulrich, fortgeführt unter dessen Sohn und Nachfolger Herzog August Wilhelm; seit dem Umzug des Hofes aus Wolfenbüttel 1753 Residenz der Herzöge von Braunschweig-Wolfenbüttel. Im Volksaufstand im Zuge der Julirevolution 1830 durch Brand zerstört.</note>
+                </place>
+                <place xml:id="braunschweig_katharinenkirche">
+                    <placeName>Braunschweig, St. Katharinen</placeName>
+                    <note>Kirche in Braunschweig an der Ostseite des Hagenmarktes; Pfarrkirche des Stadtteils Hagen, einem der fünf Weichbilde der Stadt.</note>
+                </place>
+                <place xml:id="braunschweig_lusthaus_augustbollwerk">
+                    <placeName>Braunschweig, Lusthaus auf dem Augustbollwerk</placeName>
+                    <note>Herzogliches Lusthaus auf dem Augustbollwerk im Stadtteil Hagen.</note>
+                </place>
+                <place xml:id="braunschweig_martinikirche">
+                    <placeName>Braunschweig, St. Martini</placeName>
+                    <note>Kirche in Braunschweig; Hauptkirche der Altstadt, einem der fünf Weichbilde der Stadt, dem Quartier wohlhabender Kaufleute.</note>
+                </place>
+                <place xml:id="braunschweig_masch">
+                    <placeName>Braunschweig, Masch</placeName>
+                    <note>Wiesengelände an der Oker, unmittelbar nordwestlich der wallumschlossenen Braunschweiger Innenstadt; bis Ende des 19. Jahrhunderts Festgelände und Standort des Schützenhauses der städtischen Schützengilde.</note>
+                </place>
+                <place xml:id="braunschweig_mosthaus">
+                    <placeName>Braunschweig, Mosthaus</placeName>
+                    <note>Seit der Eroberung der Stadt Braunschweig durch Herzog Rudolph August 1671 Residenz der Herzöge in der Stadt, am Burgplatz gelegen; der Palas der seit dem 11. Jahrhundert bezeugten Burg Dankwarderode, seit 1160 Pfalz Heinrichs des Löwen, wurde seit dem 17. Jahrhundert "Mosthaus" oder "-hof" genannt. 1616 wurde der Palas im Renaissancestil umgebaut; die übrigen Bauwerke der Burg verfielen oder wurden abgetragen. Nach der kaiserlichen Besetzung der Residenz und Festung Wolfenbüttel wurde das "Mosthaus" 1635-1643 zum Exilsitz Herzog Augusts d. J. von Braunschweig-Wolfenbüttel. Sein Sohn Anton Ulrich ließ zwischen
+1690 und 1700 Anbauten errichten. Auffällig waren vor allem die drei Zwerchhäuser und der die ganze Länge einnehmende säulengetragene Galerie-Vorbau zum Burgplatz hin. Auch ein großer Garten beim Mosthaus wird im Tagebuch Herzog Ludwig Rudolphs (28 Blank.) erwähnt. Später (286a Blank.) ist von einem "kleinen garten" beim Mosthaus die Rede.</note>
+                </place>
+                <place xml:id="braunschweig_mosthaus_grosser_saal">
+                    <placeName>Braunschweig, Mosthaus, Großer Saal</placeName>
+                    <note>1642 war Justus Georg Schottelius' "Neu erfundenes FreudenSpiel genandt FriedensSieg" im Burgsaal aufgeführt worden. Der Druck (Wolfenbüttel 1648) gibt in mehreren Abbildungen einen Eindruck vom damaligen Saal in seiner Nutzung für theatralische Aufführungen.</note>
+                </place>
+                <place xml:id="braunschweig_neustadttor">
+                    <placeName>Braunschweig, Neustadttor</placeName>
+                    <note>Ehemaliges Stadttor in Braunschweig; nordwestlicher Ausgang aus dem Weichbild Neustadt, 1693 geschlossen.</note>
+                </place>
+                <place xml:id="braunschweig_opernhaus">
+                    <placeName>Braunschweig, Opernhaus</placeName>
+                    <note>Das 1689 errichtete und im Februar 1690 eröffnete herzogliche Opernhaus am Hagenmarkt, im umgebauten ehemaligen Rathaus des Braunschweiger Weichbilds "Hagen". Es stand während der Braunschweiger Messen dem allgemeinen Publikum offen, während es sonst auf die Hofkreise beschränkt war. Es blieb der Aufführung von Opern und Singspielen vorbehalten, während die "Comödien" wegen des Mangels an Repräsentativität an anderen Spielstätten gegeben worden, etwa dem Saal im sog. Mosthaus, den Sälen der städtischen Rathäuser, des Grauen Hofs, später auch Wegeners Kaffeehaus usw.</note>
+                </place>
+                <place xml:id="braunschweig_opernhaus_redoutensaal">
+                    <placeName>Braunschweig, Festsaal im Opernhaus</placeName>
+                    <note>Das 1690 eröffnete herzogliche Opernhaus am Hagenmarkt war auf dem neuesten Stand der Theaterarchitektur und Bühnentechnik und verfügte über einen vor dem eigentlichen Bühnensaal situierten Festsaal.</note>
+                </place>
+                <place xml:id="braunschweig_paulinerkloster">
+                    <placeName>Braunschweig, Zeughaus (Paulinerkloster)</placeName>
+                    <note>Ursprünglich war das Paulinerkloster in Braunschweig Sitz der Dominikaner. Nach der Reformation wurde das Gebäude als Bauholz- und Getreidespeicher genutzt sowie als Zeughaus. Seit Beginn des 18. Jahrhunderts wurde das ehemalige Kloster auf Veranlassung von Herzog Anton Ulrich von Braunschweig-Wolfenbüttel (1633-1714) endgültig zum Zeughaus umgebaut. Eine erneute Umnutzung erfolgte in der zweiten Hälfte des 18. Jahrhunderts als Kunst- und Naturalienkammer, bevor der Klosterkomplex zu Beginn des 20. Jahrhunderts abgerissen wurde.</note>
+                </place>
+                <place xml:id="braunschweig_petritor_alt">
+                    <placeName>Braunschweig, altes Petritor</placeName>
+                    <note>Stadttor in Braunschweig; nordwestlicher Ausgang aus dem Weichbild Altstadt, 1707 durch das wenige Meter nordöstlich gelegene neue Petritor ersetzt.</note>
+                </place>
+                <place xml:id="braunschweig_petritor_neu">
+                    <placeName>Braunschweig, neues Petritor</placeName>
+                    <note>Stadttor in Braunschweig; nordwestlicher Ausgang aus dem Weichbild Altstadt, 1707 ersetzte es das alte Petritor, das wenige Meter südwestlich lag.</note>
+                </place>
+                <place xml:id="braunschweig_steintor">
+                    <placeName>Braunschweig, Steintor</placeName>
+                    <note>Stadttor in Braunschweig; östlicher Ausgang aus dem Weichbild Hagen, 1667 erneuert.</note>
+                </place>
+                <place xml:id="braunschweig_wendentor">
+                    <placeName>Braunschweig, Wendentor</placeName>
+                    <note>Stadttor in Braunschweig; nördlicher Ausgang aus dem Weichbild Hagen</note>
+                </place>
+                <place xml:id="braunschweig-lueneburg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/17444-0">Braunschweig-Lüneburg, Herzogtum</placeName>
+                </place>
+                <place xml:id="braunschweig-wolfenbuettel_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4089993-7">Braunschweig-Wolfenbüttel, Herzogtum</placeName>
+                </place>                
+                <place xml:id="bremen">
+                    <placeName ref="http://www.geonames.org/2944388/bremen.html">Bremen</placeName>
+                </place>
+                <place xml:id="broistedt">
+                    <placeName ref="https://www.geonames.org/2943856/broistedt.html">Broistedt</placeName>
+                </place>
+                <place xml:id="bruchhausen">
+                    <placeName ref="http://www.geonames.org/2943587/bruchhausen-vilsen.html">Bruchhausen (Bruchhausen-Vilsen)</placeName>
+                </place>
+                <place xml:id="brueggen">
+                    <placeName ref="http://www.geonames.org/2943335/brueggen.html">Brüggen</placeName>
+                    <note>Nördlich von Alfeld an der Leine gelegen; Stammsitz der von Steinberg.</note>
+                </place>
+                <place xml:id="bruessel">
+                    <placeName ref="http://www.geonames.org/2800866/brussels.html">Brüssel</placeName>
+                </place>
+                <place xml:id="bueckeburg">
+                    <placeName ref="http://www.geonames.org/2942159/bueckeburg.html">Bückeburg</placeName>
+                </place>     
+                <place xml:id="burg_collenberg">
+                    <placeName>Burg Collenberg</placeName>
+                </place>
+                <place xml:id="burgdorf">
+                    <placeName ref="http://www.geonames.org/2941405/burgdorf.html">Burgdorf</placeName>
+                </place>
+                <place xml:id="buergstadt">
+                    <placeName ref="http://www.geonames.org/2941151/buergstadt.html">Bürgstadt</placeName>
+                </place>
+                <place xml:id="burgund_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/1099478-6">Burgund, Herzogtum</placeName>
+                </place>
+                <place xml:id="butjadingen_landschaft">
+                    <placeName>Butjadingen, Landschaft</placeName>
+                    <note>Landschaft an der deutschen Nordseeküste.</note>
+                </place>
+                <place xml:id="butzbach">
+                    <placeName ref="http://www.geonames.org/2940512/butzbach.html">Butzbach</placeName>
+                </place>
+                <place xml:id="campen_amt">
+                    <placeName>Campen, Amt</placeName><!--Kein Identifier!-->
+                    <note>Verwaltungseinheit des <rs type="place" ref="#braunschweig-wolfenbuettel_herzogtum">Herzogtums Braunschweig-Wolfenbüttel</rs>.</note> <!-- jhh -->
+                </place>
+                <place xml:id="celle">
+                    <placeName ref="http://www.geonames.org/2940213/celle.html">Celle</placeName>
+                    <note>Bis 1705 Residenz der Herzöge von Braunschweig und Lüneburg.</note>
+                </place>
+                <place xml:id="châtelet">
+                    <placeName ref="http://www.geonames.org/2800448/chatelet.html">Châtelet</placeName>
+                </place>
+                <place xml:id="china_kaiserreich">
+                    <placeName ref="http://d-nb.info/gnd/4088875-7">China, Kaiserreich (Quingdynastie)</placeName><!-- jhh -->
+                </place>
+                <place xml:id="clingenburg">
+                    <placeName>Clingenburg</placeName>
+                </place>
+                <place xml:id="coburg">
+                    <placeName ref="http://www.geonames.org/2939951/coburg.html">Coburg</placeName>
+                </place>
+                <place xml:id="corvey_kloster">
+                    <placeName ref="http://www.geonames.org/10942877/imperial-abbey-of-corvey.html">Corvey, Kloster</placeName>
+                </place>
+                <place xml:id="cramme">
+                    <placeName ref="http://www.geonames.org/2939788/cramme.html">Cramme</placeName>
+                </place>
+                <place xml:id="daenemark_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4010877-6">Dänemark, Königreich</placeName>
+                </place>
+                <place xml:id="darmstadt">
+                    <placeName ref="http://www.geonames.org/2938913/darmstadt.html">Darmstadt</placeName>
+                </place>
+                <place xml:id="delmenhorst">
+                    <placeName ref="https://www.geonames.org/2938323/delmenhorst.html">Delmenhorst</placeName>
+                </place>
+                <place xml:id="delitzsch">
+                    <placeName ref="http://www.geonames.org/2938376/delitzsch.html">Delitzsch</placeName>
+                </place>
+                <place xml:id="dinkelsbuehl">
+                    <placeName ref="http://www.geonames.org/2936886/dinkelsbuehl.html">Dinkelsbühl</placeName>
+                </place>
+                <place xml:id="ditfurt">
+                    <placeName ref="https://www.geonames.org/2936766/ditfurt.html">Ditfurt</placeName>
+                </place>
+                <place xml:id="dorfprozelten">
+                    <placeName ref="https://www.geonames.org/2936040/dorfprozelten.html">Dorfprozelten</placeName>
+                </place>
+                <place xml:id="dresden">
+                    <placeName ref="http://www.geonames.org/2935022/dresden.html">Dresden</placeName>
+                </place>
+                <place xml:id="duderstadt">
+                    <placeName ref="http://www.geonames.org/2934728/duderstadt.html">Duderstadt</placeName>
+                </place>
+                <place xml:id="eisenach">
+                    <placeName ref="http://www.geonames.org/2931574/eisenach.html">Eisenach</placeName>
+                </place>
+                <place xml:id="eisfeld">
+                    <placeName ref="http://www.geonames.org/2931433/eisfeld.html">Eisfeld</placeName>
+                </place>
+                <place xml:id="elm">
+                    <placeName ref="http://www.geonames.org/2930878/elm.html">Elm, Höhenzug</placeName>
+                </place>
+                <place xml:id="elsenfeld">
+                    <placeName ref="http://www.geonames.org/2930747/elsenfeld.html">Elsenfeld</placeName>
+                </place>
+                <place xml:id="ems">
+                    <placeName ref="http://www.geonames.org/2953507/bad-ems.html">Ems (Bad Ems)</placeName>
+                </place>
+                <place xml:id="ems_karlsburg">
+                    <placeName>Ems (Bad Ems), Karlsburg</placeName>
+                    <note>Seit 1696 in (Bad) Ems errichtetes Schloss des Generalfeldmarschalls bzw. Reichszeugmeisters (Graf) Johann Karl von Thüngen (1648-1709) für dessen häufige Kuraufenthalte.</note>
+                </place>
+                <place xml:id="england_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4014770-8">England, Königreich</placeName>
+                </place>
+                <place xml:id="engelberg_kloster">
+                    <placeName>Kloster Engelberg</placeName>
+                </place>
+                <place xml:id="erbach_grafschaft">
+                    <placeName>Erbach, Gafschaft</placeName>
+                </place>
+                <place xml:id="erf_river">
+                    <placeName>Erf, Fluss</placeName>
+                </place>
+                <place xml:id="erfurt">
+                    <placeName ref="http://www.geonames.org/2929670/erfurt.html">Erfurt</placeName>
+                </place>
+                <place xml:id="erlangen">
+                    <placeName ref="http://www.geonames.org/2929567/erlangen.html">Erlangen</placeName>
+                </place>
+                <place xml:id="erlenbach_am_main"> 
+                    <placeName ref="http://www.geonames.org/2929484/erlenbach-am-main.html">Erlenbach am Main</placeName>
+                </place>
+                <place xml:id="esens">
+                    <placeName ref="http://www.geonames.org/2928911/esens.html">Esens</placeName>
+                </place>
+                <place xml:id="etsch_river">
+                    <placeName ref="http://www.geonames.org/3183470/fiume-adige.html">Etsch (Adige), Fluss</placeName>
+                </place>
+                <place xml:id="europa">
+                    <placeName ref="http://www.geonames.org/6255148/europe.html">Europa</placeName>
+                </place>
+                <place xml:id="faulbach">
+                    <placeName ref="https://www.geonames.org/2927726/faulbach.html">Faulbach</placeName>
+                </place>
+                <place xml:id="festung_koenigstein">
+                    <placeName ref="http://www.geonames.org/2885766/festung-koenigstein.html">Königstein, Festung</placeName>
+                    <note>Festung im Elbsandsteingebirge auf dem gleichnamigen Berg oberhalb der gleichnamigen Stadt, die auch als Staatsgefängnis genutzt wurde, aus dem eine Flucht so gut wie ausgeschlossen war.</note>
+                </place>
+                <place xml:id="ferrara">
+                    <placeName ref="http://www.geonames.org/6542120/ferrara.html">Ferrara</placeName>
+                </place>
+                <place xml:id="finsternthal">
+                    <placeName ref="#https://www.geonames.org/2926675/finsternthal.html">Finsternthal</placeName>
+                </place>
+                <place xml:id="flandern_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4071249-7">Flandern, Grafschaft</placeName>
+                </place>
+                <place xml:id="frankfurt_main">
+                    <placeName ref="http://www.geonames.org/2925533/frankfurt-am-main.html">Frankfurt (Main)</placeName>
+                </place>
+                <place xml:id="frankreich_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4018145-5">Frankreich, Königreich</placeName>
+                </place>
+                <place xml:id="frauenwald">
+                    <placeName ref="http://www.geonames.org/2925286/frauenwald.html">Frauenwald</placeName>
+                </place>
+                <place xml:id="fraustadt">
+                    <placeName ref="https://www.geonames.org/3081300/wschowa.html">Fraustadt (Wschowa)</placeName>
+                </place>
+                <place xml:id="freudenberg">
+                    <placeName ref="http://www.geonames.org/6558012/freudenberg.html">Freudenberg</placeName>
+                </place>
+                <place xml:id="freudenberg_burg">
+                    <placeName>Burg Freudenberg</placeName>
+                </place>
+                <place xml:id="friedberg_hessen">
+                    <placeName ref="http://www.geonames.org/2924802/friedberg.html">Friedberg (Hessen)</placeName>
+                </place>
+                <place xml:id="friedeburg">
+                    <placeName ref="http://www.geonames.org/2924788/friedeburg.html">Friedeburg</placeName>
+                </place>
+                <place xml:id="fritzlar">
+                    <placeName ref="http://www.geonames.org/2924326/fritzlar.html">Fritzlar</placeName>
+                </place>
+                <place xml:id="gandersheim">
+                    <placeName ref="http://www.geonames.org/2953456/bad-gandersheim.html">(Bad) Gandersheim</placeName>
+                    <note>Gründung 852 als Stift Gandersheim, das seit 877 als reichsunmittelbar gilt und der Versorgung hochadliger unverheirateter Töchter diente</note><!-- jhh -->
+                </place>
+                <place xml:id="geesthacht">
+                    <placeName ref="https://www.geonames.org/2922102/geesthacht.html">Geesthacht</placeName>
+                </place>
+                <place xml:id="giessen">
+                    <placeName ref="http://www.geonames.org/2920512/giessen.html">Gießen</placeName>
+                </place>
+                <place xml:id="gilserberg">
+                    <placeName ref="http://www.geonames.org/2920389/gilserberg.html">Gilserberg</placeName>
+                </place>
+                <place xml:id="gleussen">
+                    <placeName ref="http://www.geonames.org/2919929/gleussen.html">Gleußen</placeName>
+                </place>
+                <place xml:id="gotha">
+                    <placeName ref="http://www.geonames.org/2918752/gotha.html">Gotha</placeName>
+                </place>
+                <place xml:id="gottorf">
+                    <placeName ref="http://www.geonames.org/2918605/schlesrf.html">Gottorf</placeName>
+                </place>
+                <place xml:id="gross_dahlum">
+                    <placeName ref="http://www.geonames.org/2916877/gross-dahlum.html">Großdahlum (Voigtsdahlum)</placeName>
+                </place>
+                <place xml:id="gross_floethe">
+                    <placeName ref="http://www.geonames.org/2915640/gross-floethe.html">Groß Flöthe</placeName>
+                </place>
+                <place xml:id="grossheubach">
+                    <placeName ref="http://www.geonames.org/2915511/grossheubach.html">Großheubach</placeName>
+                </place>
+                <place xml:id="gross_vahlberg">
+                    <placeName ref="http://www.geonames.org/2914925/gross-vahlberg.html">Groß Vahlberg</placeName>
+                </place>
+                <place xml:id="grosswallstadt">
+                    <placeName ref="http://www.geonames.org/2914890/grosswallstadt.html">Großwallstadt</placeName>
+                </place>
+                <place xml:id="gruenenwoert">
+                    <placeName ref="https://www.geonames.org/2914249/gruenenwoert.html">Grünenwört</placeName>
+                </place>
+                <place xml:id="gunzenhausen">
+                    <placeName ref="http://www.geonames.org/2913537/gunzenhausen.html">Gunzenhausen</placeName>
+                </place>
+                <place xml:id="hademstorf">
+                    <placeName ref="http://www.geonames.org/2912811/hademstorf.html">Hademstorf</placeName>
+                </place>
+                <place xml:id="hahnenklee">
+                    <placeName ref="http://www.geonames.org/11608633/hahnenklee.html">Hahnenklee</placeName>
+                </place>
+                <place xml:id="halberstadt">
+                    <placeName ref="http://www.geonames.org/2911665/halberstadt.html">Halberstadt</placeName>
+                </place>
+                <place xml:id="halchter">
+                    <placeName ref="http://www.geonames.org/2911639/halchter.html">Halchter</placeName>
+                </place>
+                <place xml:id="hamburg">
+                    <placeName ref="http://www.geonames.org/2911298/hamburg.html">Hamburg</placeName>
+                </place>
+                <place xml:id="hanau">
+                    <placeName ref="http://www.geonames.org/2911007/hanau-am-main.html">Hanau</placeName>
+                </place>
+                <place xml:id="hannover">
+                    <placeName ref="https://www.geonames.org/2910831/hannover.html">Hannover</placeName>
+                </place>
+                <place xml:id="hannover_altes_rathaus"> <!-- jhh -->
+                    <placeName>Hannover, altes Rathaus</placeName>
+                    <note>Ältester Profanbau Hannovers, am Alten Markt gelegen.</note>
+                </place>
+                <place xml:id="hannover_komoedienhaus"> <!-- jhh -->
+                    <placeName>Hannover, Komödienhaus</placeName>
+                    <note>Im/am Leineschloss gelegenes Komödienhaus. <!-- Hannover, kleine Stadtgeschichte, Kap. Hof und Regierung bauen AH Das kl. Komödienhaus wurde 1678 über dem Küchenpavillon des Residenzschlosses (Leineschloss) errichtet. Es soll 1687 durch das Schlossopernhaus ersetzt worden sein. Bestätigt?? --></note>
+                </place>
+                <place xml:id="hannover_kurfuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4094703-8">Hannover, Kurfürstentum</placeName>
+                </place>
+                <place xml:id="hannover_reformierte_kirche"> <!-- jhh -->
+                    <placeName>Hannover, Reformierte Kirche</placeName>
+                    <note>Reformierte Kirche in der Calenberger Neustadt, die 1705 eingeweiht und maßgeblich durch die Kurfürstin Sophie von Braunschweig-Lüneburg (1630-1714) gefördert wurde.</note>
+                </place>
+                <place xml:id="hannover_schloss_kirche">
+                    <placeName>Hannover, Schlosskirche</placeName>
+                    <note>Hervorgegangen aus dem mittelalterlichen, in der Reformation säkularisierten Minoritenkloster St. Maria, das 1636 zur Residenz der Herzöge von Braunschweig-Calenberg ausgebaut wurde. Die ehemalige Klosterkirche wurde 1642 zur evangel.-luther. Hof- und Schlosskirche geweiht; Standort von Fürstengruft und "Welfenschatz". Zweimal umgebaut, wurde die Kirche im 2. Weltkrieg stark zerstört und nicht wieder aufgebaut, so dass heute keine baulichen Überreste mehr sichtbar sind.</note>
+                </place>
+                <place xml:id="hannover_schlossopernhaus"> <!-- jhh -->
+                    <placeName>Hannover, Schlossopernhaus</placeName>
+                    <note>Direkt neben dem Leineschloss gelegenes Opernhaus, mit dessen Errichtung 1687 begonnen wurde; Eröffnung 1689; 1714 wurde der Opernbetrieb für 70 Jahre eingestellt. Die letzte Vorstellung 1852, danach Abriss und Bau eines neuen Opernhauses.</note>
+                </place>
+                <place xml:id="hannoversch_muenden">
+                    <placeName ref="https://www.geonames.org/2867613/hannoversch-muenden.html">Hannoversch Münden</placeName>
+                </place>
+                <place xml:id="harste">
+                    <placeName ref="https://www.geonames.org/2910271/harste.html">Harste</placeName>
+                </place>
+                <place xml:id="harz">
+                    <placeName ref="http://www.geonames.org/2909965/harz.html">Harz</placeName>
+                </place>
+                <place xml:id="harzburg">
+                    <placeName ref="http://www.geonames.org/2953449/bad-harzburg.html">Heute Bad Harzburg, am nördlichen Harzrand gelegen; Standort einer einst kaiserlichen Reichsburg auf dem Burgberg, später Sitz des nach der Harzburg benannten Amtes im Fürstentum Braunschweig-Wolfenbüttel; die benachbarte Neustadt hatte seit dem 16. Jahrhundert vom fürstlichen Salinenbetrieb prosperiert und sich anschließend zu einer bedeutenden Kur- und Badestadt entwickelt, die sich seit 1892 Bad Harzburg nennen darf.</placeName>
+                </place>
+                <place xml:id="harz_garten"><!-- jhh -->
+                    <placeName>Schlossgärten in Blankenburg</placeName><!--AH: ich bin mir nicht sicher, ob das hier (286a xml Zeile 1668), gemeint ist. Gabs damals schon Mon Plaisir im Süden WFs, vor dem Harz-Tor? Ob es vielleicht auch das sein könnte? Blankenburg ist ja von WF rund 70 km entfernt.-->
+                </place>
+                <place xml:id="hasloch">
+                    <placeName ref="http://www.geonames.org/2909491/hasloch.html">Hasloch</placeName>
+                </place>
+                <place xml:id="hedwigsburg">
+                    <placeName ref="http://www.geonames.org/2908363/hedwigsburg.html">Hedwigsburg</placeName>
+                </place>
+                <place xml:id="hehlen">
+                    <placeName ref="http://www.geonames.org/2908165/hehlen.html">Hehlen</placeName>
+                </place>
+                <place xml:id="heideck">
+                    <placeName ref="http://d-nb.info/gnd/4023991-3">Heideck</placeName>
+                </place>
+                <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="http://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich (deutscher Nation)</placeName>
+                </place>
+                <place xml:id="helmstedt">
+                    <placeName ref="http://www.geonames.org/2906676/helmstedt.html">Helmstedt</placeName>
+                </place>
+                <place xml:id="henneburg">
+                    <placeName>Henneburg</placeName>
+                    <note>Höhenburg am rechten Ufer des Mains in der Gemeinde Stadtprozelten.</note>
+                </place>
+                <place xml:id="henriettenthal">
+                    <placeName ref="http://www.geonames.org/2906303/henriettenthal.html">Henriettenthal</placeName>
+                </place>
+                <place xml:id="herrenhausen_schloss">
+                    <placeName ref="http://www.geonames.org/2905801/herrenhausen.html">Herrenhausen, Schloss</placeName>
+                    <note>In der 2. Hälfte des 17. Jahrhunderts errichtete Sommerresidenz der welfischen Herzöge aus der Linie Calenberg-Hannover, den späteren Kurfürsten von Hannover.</note>
+                </place>
+                <place xml:id="hessen">
+                    <placeName ref="http://www.geonames.org/2905331/hessen.html">Hessen</placeName>
+                    <note>Ort auf halber Strecke zwischen Wolfenbüttel und Halberstadt; das dortige Schloss, seit 1560 im Renaissancestil umgestaltet, wurde im späten 16. und frühen 17. Jahrhundert von den braunschweig-wolfenbüttelschen Herzögen als Sommerresidenz und später als Jagsdschloss genutzt; umgebaut ab 1726 durch den herzoglichen Landbaumeister Hermann Korb (1656-1735).</note>
+                </place>                
+                <place xml:id="hessen-kassel_landgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/17226-1">Hessen-Kassel, Landgrafschaft</placeName>
+                </place>
+                <place xml:id="hildesheim">
+                    <placeName ref="http://www.geonames.org/2904789/hildesheim.html">Hildesheim</placeName>
+                </place>
+                <place xml:id="hildesheim_hochstift">
+                    <placeName ref="http://d-nb.info/gnd/4095261-7">Hildesheim, Hochstift</placeName>
+                </place>
+                <place xml:id="hils"><!-- jhh -->
+                    <placeName ref="http://www.geonames.org/2904636/hils.html">Hils</placeName>
+                    <note>Mittelgebirgszug im Niedersächsischen Bergland.</note>
+                </place>
+                <place xml:id="hirschaid">
+                    <placeName ref="http://www.geonames.org/2903810/hirschaid.html">Hirschaid</placeName>
+                </place>
+                <place xml:id="hoechstaedt_an_der_donau"><!-- jhh -->
+                    <placeName ref="https://www.geonames.org/2903012/hoechstaedt-an-der-donau.html">Höchstädt an der Donau</placeName>
+                </place>
+                <place xml:id="hohenaltheim">
+                    <placeName ref="http://www.geonames.org/2901986/hohenaltheim.html">Hohenaltheim</placeName>
+                </place>
+                <place xml:id="hohenlohe_fuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4025557-8">Hohenlohe, Fürstentum</placeName>
+                </place>
+                <place xml:id="holland">
+                    <placeName ref="http://d-nb.info/gnd/4133959-9">Holland</placeName>
+                    <note>Wichtigste Provinz der Republik der Vereinigten Niederlande.</note>
+                </place>
+                <place xml:id="holzminden">
+                    <placeName ref="http://www.geonames.org/2899601/holzminden.html">Holzminden</placeName>
+                </place>
+                <place xml:id="homburg">
+                    <placeName ref="http://www.geonames.org/2953436/bad-homburg-vor-der-hoehe.html">(Bad) Homburg</placeName>
+                </place>
+                <place xml:id="hoechst_am_main">
+                    <placeName ref="http://www.geonames.org/2903019/hoechst.html">Höchst am Main</placeName>
+                </place>
+                <place xml:id="ichtershausen">
+                    <placeName ref="http://www.geonames.org/2896768/ichtershausen.html">Ichtershausen</placeName>
+                </place>
+                <place xml:id="idstein">
+                    <placeName ref="http://www.geonames.org/2896736/idstein.html">Idstein</placeName>
+                </place>
+                <place xml:id="ilmenau">
+                    <placeName ref="http://www.geonames.org/2896514/ilmenau.html">Ilmenau</placeName>
+                </place>
+                <place xml:id="ilsenburg">
+                    <placeName ref="http://www.geonames.org/2896483/ilsenburg.html">Ilsenburg</placeName>
+                </place>
+                <place xml:id="isny">
+                    <placeName ref="http://www.geonames.org/2895638/isny.html">Isny</placeName>
+                </place>
+                <place xml:id="italien">
+                    <placeName ref="http://d-nb.info/gnd/4027833-5">Italien</placeName>
+                </place>
+                <place xml:id="jerxheim_amt">
+                    <placeName>Jerxheim, Amt</placeName>
+                    <note>Verwaltungseinheit des <rs type="place" ref="#braunschweig-wolfenbuettel_herzogtum">Herzogtums Braunschweig-Wolfenbüttel</rs>.</note>
+                </place>
+                <place xml:id="kampanien">
+                    <placeName>Kampanien (Campania)</placeName>
+                    <note>Region im Südwesten <rs type="person" ref="#italien">Italiens</rs>.</note>
+                </place>
+                <place xml:id="kastel">
+                    <placeName ref="http://www.geonames.org/2892488/kastel.html">Kastel</placeName>
+                </place>
+                <place xml:id="kastilien"><!-- richtige Gebietskörperschaft? jhh -->
+                    <placeName ref="http://d-nb.info/gnd/4073292-7">Kastilien</placeName>
+                </place>
+                <place xml:id="kassel">
+                    <placeName ref="http://www.geonames.org/2892518/kassel.html">Kassel</placeName>
+                </place>
+                <place xml:id="kelsterbach">
+                    <placeName ref="http://www.geonames.org/2891742/kelsterbach.html">Kelsterbach</placeName>
+                </place>
+                <place xml:id="kirtorf">
+                    <placeName ref="http://www.geonames.org/2890222/kirtorf.html">Kirtorf</placeName>
+                </place>
+                <place xml:id="kleinheubach">
+                    <placeName ref="http://www.geonames.org/2888751/kleinheubach.html">Kleinheubach</placeName>
+                </place>
+                <place xml:id="klein_vahlberg">
+                    <placeName ref="http://www.geonames.org/2888092/klein-vahlberg.html">Klein Vahlberg</placeName>
+                </place>
+                <place xml:id="kleinwallstadt">
+                    <placeName ref="http://www.geonames.org/2888053/kleinwallstadt.html">Kleinwallstadt</placeName>
+                </place>
+                <place xml:id="klingenberg_main">
+                    <placeName ref="http://www.geonames.org/2887736/klingenberg-am-main.html">Klingenberg am Main</placeName>
+                </place>
+                <place xml:id="koblenz">
+                    <placeName ref="http://www.geonames.org/2886946/koblenz.html">Koblenz</placeName>
+                </place>
+                <place xml:id="koelleda">
+                    <placeName ref="http://www.geonames.org/2886363/koelleda.html">Kölleda</placeName>
+                </place>
+                <place xml:id="koeln">
+                    <placeName ref="http://www.geonames.org/2886242/koeln.html">Köln</placeName>
+                </place>
+                <place xml:id="koenigslutter">
+                    <placeName ref="https://www.geonames.org/2885800/koenigslutter-am-elm.html">Königslutter</placeName>
+                </place>
+                <place xml:id="koenigshofen">
+                    <placeName ref="https://www.geonames.org/2885834/koenigshofen.html">Königshofen</placeName>
+                </place>
+                <place xml:id="konstantinopel">
+                    <placeName ref="http://www.geonames.org/745044/istanbul.html">Konstantinopel (İstanbul)</placeName>
+                </place>
+                <place xml:id="kopenhagen">
+                    <placeName ref="http://www.geonames.org/2618425/copenhagen.html">Kopenhagen (København)</placeName>
+                </place>
+                <place xml:id="kueblingen">
+                    <placeName ref="http://www.geonames.org/2883171/kueblingen.html">Küblingen</placeName>
+                </place>
+                <place xml:id="kulmbach">
+                    <placeName ref="https://www.geonames.org/2882588/kulmbach.html">Kulmbach</placeName>
+                </place>
+                <place xml:id="kurzes_holz">
+                    <placeName >Kurzes Holz</placeName>
+                    <note>Waldgebiet nordöstlich von Wolfenbüttel</note>
+                </place>
+                <place xml:id="lahn_river">
+                    <placeName ref="http://www.geonames.org/2881909/lahn.html">Lahn, Fluss</placeName>
+                </place>
+                <place xml:id="lahnstein">
+                    <placeName ref="http://www.geonames.org/2881889/lahnstein.html">Lahnstein</placeName>
+                </place>
+                <place xml:id="lamspringe_kloster">
+                    <placeName>Lamspringe, Kloster</placeName>
+                    <note>Kloster in Lamspringe, im 9. Jahrhundert als Kanonissenstift gegründet, im 12. Jahrhundert in ein Benediktinerinnenkloster umgewandelt, unter braunschweig-wolfenbüttelscher Herrschaft 1568 reformiert, nach 1643 Restitution an des Hochstift Hildesheim rekatholisiert und mit Benediktinermönchen aus England neu besetzt.</note>
+                </place>
+                <place xml:id="langeleben">
+                    <placeName ref="http://www.geonames.org/2881305/langeleben.html">Langeleben</placeName>
+                </place>
+                <place xml:id="langehorn">
+                    <placeName>Langehorn</placeName>
+                    <note>Langehorn oder auch Langenhorn, zwischen Altenbrak und Stiege gelegener Forstort im Harz.</note>
+                </place>
+                <place xml:id="langlingen">
+                    <placeName ref="http://www.geonames.org/2880613/langlingen.html">Langlingen</placeName>
+                </place>
+                <place xml:id="langelsheim">
+                    <placeName ref="http://www.geonames.org/2881291/langelsheim.htmll">Langelsheim</placeName>
+                </place>
+                <place xml:id="langwedel">
+                    <placeName ref="http://www.geonames.org/2880547/langwedel.html">Langwedel</placeName>
+                </place>
+                <place xml:id="laudenbach">
+                    <placeName ref="http://www.geonames.org/2880203/laudenbach.html">Laudenbach</placeName>
+                </place>
+                <place xml:id="lechlumer_holz">
+                    <placeName>Lechlumer Holz</placeName> <!--keine Geo-Referenz-->
+                    <note>Früher Lecheln-Holtz nach einem wüstgefallenen Dorf Lechede; Waldgebiet im Norden von Wolfenbüttel; Standort der herzoglichen Richtstätte ("Hohes Gericht") vom 16. bis 18. Jahrhundert.</note>
+                </place>
+                <place xml:id="leipzig">
+                    <placeName ref="http://www.geonames.org/2879139/leipzig.html">Leipzig</placeName>
+                </place>
+                <place xml:id="lichtenberg"> <!-- jhh -->
+                    <placeName ref="https://www.geonames.org/2878108/lichtenberg.html">Lichtenberg (Salzgitter)</placeName>
+                </place>
+                <place xml:id="linden"> <!-- jhh -->
+                    <placeName>Linden</placeName>
+                    <note>Das Dorf Linden entwickelte sich im 11. Jahrhundert und wuchs ab dem 19. Jahrhundert zu einer Industriestadt heran, die 1920 nach Hannover eingemeindet wurde.</note>
+                </place>
+                <place xml:id="livland_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4036075-1">Livland, Herzogtum</placeName>
+                </place>
+                <place xml:id="lothringen_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4036377-6">Lothringen, Herzogtum</placeName>
+                </place>
+                <place xml:id="loewenstein-wertheim_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4119069-5">Löwenstein-Wertheim, Grafschaft</placeName>
+                </place>
+                <place xml:id="lucklum"><!-- jhh -->
+                    <placeName ref="http://www.geonames.org/2875477/lucklum.html">Lucklum</placeName>
+                    <note>Sitz einer Deutschordenskommende, von der ein Landkomtur die Ballei Ober- und Niedersachsen verwaltete.</note>
+                </place>
+                <place xml:id="lueneburg">
+                    <placeName ref="http://www.geonames.org/2875115/lueneburg.html">Lüneburg</placeName>
+                </place>
+                <place xml:id="lutter_am_barenberge">
+                    <placeName ref="http://www.geonames.org/2874832/lutter-am-barenberge.html">Lutter am Barenberge</placeName>
+                </place>
+                <place xml:id="magdeburg">
+                    <placeName ref="http://www.geonames.org/2874545/magdeburg.html">Magdeburg</placeName>
+                </place>
+                <place xml:id="mailand">
+                    <placeName ref="http://www.geonames.org/3173434/citta-metropolitana-di-milano.html">Mailand</placeName>
+                </place>
+                <place xml:id="main_river">
+                    <placeName ref="http://www.geonames.org/2874265/main.html">Main, Fluss</placeName>
+                </place>
+                <place xml:id="mainz">
+                    <placeName ref="http://www.geonames.org/2874225/mainz.html">Mainz</placeName>
+                </place>
+                <place xml:id="mainz_festung">
+                    <placeName ref="http://d-nb.info/gnd/4298330-7">Festung Mainz</placeName>
+                    <note>Festungswerke, die um die Stadt Mainz gebaut wurden.</note>
+                </place>
+                <place xml:id="mainz_kurfuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4100026-2">Mainz, Kurfürstentum (Erzstift)</placeName>
+                </place>
+                <place xml:id="mainz_kurfuerstliches_schloss">
+                    <placeName ref="http://d-nb.info/gnd/4206936-1">Kurfürstliches Schloss Mainz</placeName>
+                </place>
+                <place xml:id="mansfeld">
+                    <placeName ref="http://www.geonames.org/2873852/mansfeld.html">Mansfeld</placeName>
+                </place>
+                <place xml:id="marburg_lahn">
+                    <placeName ref="http://www.geonames.org/2873759/marburg-an-der-lahn.html">Marburg an der Lahn</placeName>
+                </place>
+                <place xml:id="marienthal_kloster">
+                    <placeName ref="http://d-nb.info/gnd/4199056-0">Marienthal, Kloster</placeName>
+                </place>
+                <place xml:id="mecklenburg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/16219083-9">Mecklenburg, Herzogtum</placeName>
+                </place>
+                <place xml:id="mecklenburg_schwerin_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4281380-3">Mecklenburg-Schwerin, Herzogtum</placeName>
+                    <note>Teilherzogtum des Herzogtums Mecklenburg, das 1701 in Mecklenburg-Schwerin und Mecklenburg-Strelitz geteilt wurde.</note>
+                </place>
+                <place xml:id="meiningen">
+                    <placeName ref="http://www.geonames.org/2872225/meiningen.html">Meiningen</placeName>
+                </place>
+                <place xml:id="merseburg">
+                    <placeName ref="http://www.geonames.org/2871736/merseburg.html">Merseburg</placeName>
+                </place>
+                <place xml:id="milet">
+                    <placeName ref="https://www.geonames.org/10182607/milet-harabeleri.html">Milet</placeName>
+                    <note>Antike Stadt an der Westküste Kleinasiens, in der heutigen Türkei gelegen.</note>
+                </place>
+                <place xml:id="sankt_michaelis_grubingen">
+                    <placeName>St. Michaelis (Grubingen)</placeName>
+                    <note>1778 abgerissene Kirche in der Wüstung Grubingen</note>
+                </place>
+                <place xml:id="michelbach_luecke">
+                    <placeName ref="https://www.geonames.org/2871340/michelbach.html">Michelbach an der Lücke</placeName>
+                </place>
+                <place xml:id="mildenburg">
+                    <placeName>Mildenburg</placeName>
+                </place>
+                <place xml:id="miltenberg">
+                    <placeName ref="http://www.geonames.org/6558388/miltenberg.html">Miltenberg</placeName>
+                </place>
+                <place xml:id="minden">
+                    <placeName ref="http://www.geonames.org/2871039/minden.html">Minden</placeName>
+                </place><!--evtl. löschen nach Überprüfung Minden vs. Hannoversch Muenden-->
+                <place xml:id="modena">
+                    <placeName ref="http://www.geonames.org/6541461/modena.html">Modena</placeName>
+                </place>
+                <place xml:id="mondfeld">
+                    <placeName ref="https://www.geonames.org/2869805/mondfeld.html">Mondfeld</placeName>
+                </place>
+                <place xml:id="montpellier">
+                    <placeName ref="http://www.geonames.org/2992166/montpellier.html">Montpellier</placeName>
+                </place>
+                <place xml:id="mosel_river">
+                    <placeName ref="http://www.geonames.org/2869073/moselle-river.html">Mosel, Fluss</placeName>
+                </place>
+                <place xml:id="moenchsdeggingen"><!-- jhh -->
+                    <placeName ref="https://www.geonames.org/2869847/moenchsdeggingen.html">Mönchdeggingen</placeName>
+                </place>
+                <place xml:id="moenchsroth"><!-- jhh -->
+                    <placeName ref="https://www.geonames.org/2869823/moenchsroth.html">Mönchsroth,</placeName>                
+                </place>
+                <place xml:id="moenchsroth_amt"><!-- jhh -->
+                    <placeName>Mönchsroth, Amt</placeName>
+                    <note>Verwaltungseinheit des <rs type="place" ref="#oettingen_fuerstentum">Fürstentums Oettingen-Oettingen</rs>.</note>
+                </place>
+                <place xml:id="muenster">
+                    <placeName ref="http://www.geonames.org/2867543/muenster.html">Münster</placeName>
+                </place>
+                <place xml:id="muenster_hochstift">
+                    <placeName ref="http://d-nb.info/gnd/4279480-8">Münster, Hochstift</placeName>
+                </place>
+                <place xml:id="namur">
+                    <placeName ref="http://www.geonames.org/2790471/namur.html">Namur</placeName>
+                </place>
+                <place xml:id="narva">
+                    <placeName ref="http://www.geonames.org/590031/narva.html">Narva</placeName>
+                </place>
+                <place xml:id="nassau_lahn">
+                    <placeName ref="http://www.geonames.org/2867037/nassau.html">Nassau (Lahn)</placeName>
+                </place>
+                <place xml:id="nassau-siegen_fuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4291595-8">Nassau-Siegen, Grafschaft, seit 1652 Fürstentum</placeName>
+                </place>
+                <place xml:id="neapel">
+                    <placeName ref="http://www.geonames.org/3172391/napoli.html">Neapel</placeName>
+                </place>
+                <place xml:id="neuburg_donau">
+                    <placeName ref="http://www.geonames.org/2866070/neuburg-an-der-donau.html">Neuburg an der Donau</placeName>
+                </place>
+                <place xml:id="niederlande_vereinigte">
+                    <placeName ref="http://d-nb.info/gnd/5210337-7">Niederlande, Vereinigte (Generalstaaten)</placeName>
+                </place>
+                <place xml:id="niedernberg">
+                    <placeName ref="http://www.geonames.org/2863088/niedernberg.html">Niedernberg</placeName>
+                </place>     
+                <place xml:id="niedersaechsischer_reichskreis">
+                    <placeName ref="http://d-nb.info/gnd/4042231-8">Niedersächsischer Reichskreis</placeName>
+                </place>
+                <place xml:id="northeim">
+                    <placeName ref="http://www.geonames.org/2861814/northeim.html">Northeim</placeName>
+                </place>
+                <place xml:id="noerdlinger_ries">
+                    <placeName>Nördlinger Ries</placeName>
+                    <note>Naturraum im Grenzgebiet zwischen Fränkischer und Schwäbischer Alb, der durch einen Asteroideneinschlag vor ungefähr 15 Millionen Jahren erschaffen wurde.</note>
+                </place>
+                <place xml:id="nuernberg">
+                    <placeName ref="http://www.geonames.org/2861650/nuernberg.html">Nürnberg</placeName>
+                </place>
+                <place xml:id="obernburg_am_main">
+                    <placeName ref="http://www.geonames.org/2859675/obernburg-am-main.html">Obernburg am Main</placeName>
+                </place>
+                <place xml:id="obernau">
+                    <placeName ref="http://www.geonames.org/2859692/obernau.html">Obernau</placeName>
+                </place>
+                <place xml:id="oberwerth">
+                    <placeName ref="https://www.geonames.org/2858564/oberwerth.html">Oberwerth</placeName>
+                    <note>Heute Stadtteil von Koblenz.</note>
+                </place>
+                <place xml:id="odenwald">
+                    <placeName ref="http://d-nb.info/gnd/4043107-1">Odenwald</placeName>
+                </place>
+                <place xml:id="oderwald">
+                    <placeName ref="https://www.geonames.org/2858052/oderwald.html">Oderwald</placeName>
+                </place>
+                <place xml:id="oettingen">
+                    <placeName ref="http://www.geonames.org/2857847/oettingen-in-bayern.html">Oettingen</placeName>
+                </place>
+                <place xml:id="oettingen_fuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4043335-3">Oettingen, Fürstentum</placeName>
+                </place>
+                <place xml:id="oesterreich_erzherzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4075601-4">Österreich, Erzherzogtum</placeName>
+                    <note>Bis 1453 Herzogtum Österreich, Reichslehen des Heiligen Römischen Reichs</note>
+                </place>
+                <place xml:id="ohof">
+                    <placeName ref="http://www.geonames.org/2857606/ohof.html">Ohof</placeName>
+                    <note>Ohof, auch Mohoff genannt.</note>
+                </place>
+                <place xml:id="ohrum">
+                    <placeName ref="http://www.geonames.org/2857547/ohrum.html">Ohrum</placeName>
+                </place>
+                <place xml:id="oker_river">
+                    <placeName ref="http://www.geonames.org/2857520/oker.html">Oker, Fluss</placeName>
+                </place>
+                <place xml:id="oldenburg">
+                    <placeName ref="http://www.geonames.org/2857458/oldenburg.html">Oldenburg</placeName>
+                </place>
+                <place xml:id="olmuetz">
+                    <placeName ref="http://www.geonames.org/3069011/olomouc.html">Olmütz (Olomouc)</placeName>
+                </place>
+                <place xml:id="orange_fuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4116772-7">Orange, Fürstentum</placeName>
+                </place>
+                <place xml:id="orleans">
+                    <placeName ref="http://www.geonames.org/2989317/orleans.html">Orléans</placeName>
+                </place>
+                <place xml:id="osnabrueck">
+                    <placeName ref="http://www.geonames.org/2856883/osnabrueck.html">Osnabrück</placeName>
+                </place>
+                <place xml:id="ostfriesland_fuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4044067-9">Ostfriesland, Fürstentum</placeName>
+                </place>
+                <place xml:id="otterbach">
+                    <placeName>Otterbach (Mud, Amorbach)</placeName>
+                </place>
+                <place xml:id="paderborn">
+                    <placeName ref="http://www.geonames.org/2855745/paderborn.html">Paderborn</placeName>
+                </place>
+                <place xml:id="paderborn_hochstift">
+                    <placeName ref="http://d-nb.info/gnd/6008758-4">Paderborn, Hochstift</placeName>
+                </place>
+                <place xml:id="paris">
+                    <placeName ref="http://www.geonames.org/2988507/paris.html">Paris</placeName>
+                </place>
+                <place xml:id="peine"><!-- jhh -->
+                    <placeName ref="http://www.geonames.org/2855047/peine.html">Peine</placeName>
+                </place>
+                <place xml:id="pfalz_kurfuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4076031-5">Pfalz, Kurfürstentum</placeName>
+                </place>
+                <place xml:id="pfalz_neuburg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4045461-7">Pfalz-Neuburg, Herzogtum</placeName>
+                </place>
+                <place xml:id="ploen">
+                    <placeName ref="http://www.geonames.org/2853162/ploen.html">Plön</placeName>
+                </place>
+                <place xml:id="polen_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/36365-0">Polen, Königreich</placeName>
+                </place>
+                <place xml:id="portugal_koenigreich"><!-- jhh -->
+                    <placeName ref="http://d-nb.info/gnd/4046843-4">Portugal, Königreich</placeName>
+                </place>
+                <place xml:id="posen"><!-- jhh -->
+                    <placeName ref="https://www.geonames.org/3088171/poznan.html">Poznan</placeName>
+                </place>
+                <place xml:id="pyrbaum">
+                    <placeName ref="https://www.geonames.org/2851543/pyrbaum.html">Pyrbaum</placeName>
+                </place>
+                <place xml:id="pyrmont">
+                    <placeName ref="http://www.geonames.org/2953379/bad-pyrmont.html">Pyrmont (Bad Pyrmont)</placeName>
+                </place>
+                <place xml:id="quedlinburg">
+                    <placeName ref="http://www.geonames.org/2851465/quedlinburg.html">Quedlinburg</placeName>
+                </place>
+                <place xml:id="rastatt"><!-- jhh -->
+                    <placeName ref="http://www.geonames.org/2850257/rastatt.html">Rastatt</placeName>
+                </place>
+                <place xml:id="reistenhausen">
+                    <placeName ref="http://www.geonames.org/2848514/reistenhausen.html">Reistenhausen</placeName>
+                </place>
+                <place xml:id="reistenhausen_steinbruch">
+                    <placeName>Buntsandsteinbruch Reistenhausen</placeName>
+                </place>
+                <place xml:id="regensburg"><!-- jhh -->
+                    <placeName ref="http://www.geonames.org/2849483/regensburg.html">Regensburg</placeName>
+                </place>
+                <place xml:id="rendsburg"><!-- jhh -->
+                    <placeName ref="http://www.geonames.org/2848245/rendsburg.html">Rendsburg</placeName>
+                </place>
+                <place xml:id="rhein_river">
+                    <placeName ref="http://www.geonames.org/2748179/rhine-river.html">Rhein, Fluss</placeName>
+                </place>
+                <place xml:id="rheinfels_festung">
+                    <placeName ref="http://www.geonames.org/2847637/ruine-rheinfels.html">Rheinfels, Festung</placeName>
+                </place>
+                <place xml:id="riddagshausen">
+                    <placeName ref="http://www.geonames.org/2847423/riddagshausen.html">Riddagshausen</placeName>
+                </place>
+                <place xml:id="riddagshausen_kloster">
+                    <placeName>Riddagshausen, Kloster</placeName>
+                    <note>Zisterzienserkloster, um 1145 gegründet, 1147 päpstliche Bestätigung, 1568 Reformation, 1690 Errichtung eines Predigerseminars im Kloster. </note>
+                </place>
+                <place xml:id="riedbach">
+                    <placeName ref="https://www.geonames.org/2847296/riedbach.html">Riedbach</placeName>
+                </place>
+                <place xml:id="roellfeld">
+                    <placeName ref="http://www.geonames.org/2845412/roellfeld.html">Röllfeld</placeName>
+                </place>
+                <place xml:id="rudolstadt">
+                    <placeName ref="http://www.geonames.org/2843355/rudolstadt.html">Rudolstadt</placeName>
+                </place>
+                <place xml:id="ruedesheim_rhein">
+                    <placeName ref="http://www.geonames.org/2843395/ruedesheim-am-rhein.html">Rüdesheim</placeName>
+                </place>
+                <place xml:id="ruesselsheim">
+                    <placeName ref="http://www.geonames.org/2842884/ruesselsheim.html">Rüsselsheim</placeName>
+                </place>
+                <place xml:id="sachsen-eisenach_herzogtum">
+                    <placeName ref="https://d-nb.info/gnd/4579381-5">Sachsen-Eisenach, Herzogtum</placeName>
+                </place>
+                <place xml:id="sachsen_kurfuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4051176-5">Sachsen, Kurfürstentum</placeName>
+                </place>
+                <place xml:id="sachsen-gotha-altenburg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4051180-7">Sachsen-Gotha-Altenburg, Herzogtum</placeName>
+                </place>
+                <place xml:id="sachsen-meiningen_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4116307-2">Sachsen-Meiningen, Herzogtum</placeName>
+                </place>
+                <place xml:id="sachsen-merseburg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4473331-8">Sachsen-Merseburg, Herzogtum</placeName>
+                </place>
+                <place xml:id="saint-cloud">
+                    <placeName ref="http://www.geonames.org/2981041/saint-cloud.html">Saint-Cloud</placeName>
+                </place>
+                <place xml:id="saint-germain-en-laye_schloss">
+                    <placeName ref="http://www.geonames.org/6615526/chateau-de-saint-germain-en-laye.html">Saint-Germain-en-Laye, Schloss</placeName>
+                </place>
+                <place xml:id="salder">
+                    <placeName ref="http://www.geonames.org/2842310/salder.html">Salder</placeName>
+                    <note>Das dortige Schloss war 1695 als Domizil für den Erbprinzen August Wilhelm von Braunschweig-Wolfenbüttel (1662-1731) umgebaut worden.</note>
+                </place>
+                <place xml:id="salzdahlum">
+                    <placeName ref="http://www.geonames.org/2842163/salzdahlum.html">Salzdahlum</placeName>
+                    <note>Dorf zwischen Braunschweig und Wolfenbüttel, Standort eines unter Herzog Anton Ulrich von Braunschweig-Wolfenbüttel 1688 bis 1694 erbauten und danach weiter ausgestalteten Lustschlosses als Sommerresidenz in kaschierter Fachwerkbauweise mit ausgedehntem Barockgarten, bereits zwischen 1811 und 1813 wegen Baufälligkeit abgerissen.</note>
+                </place>
+                <place xml:id="salzdahlum_kirche_sankt_juergen">
+                    <placeName>Salzdahlum, St. Jürgen</placeName>
+                </place>
+                <place xml:id="salzdahlum_schloss">
+                    <placeName>Salzdahlum, Schloss</placeName>
+                </place>
+                <place xml:id="salzdahlum_schloss_essgemach"><!-- jhh -->
+                    <placeName>Salzdahlum, Schloss, Essgemach</placeName>
+                    <note>Im Corps de Logis und wahscheinlich im ersten Stock gelegenes Esszimmer.</note><!--überprüfen-->
+                </place>
+                <place xml:id="salzdahlum_schloss_garten">
+                    <placeName>Salzdahlum, Schloss, Garten</placeName>
+                    <note>Der Garten des Schlosses Salzdahlum gehörte zu den ältesten Gartenanlagen im klassisch französischen Stil auf deutschem Boden. In der Anlage gleichen sich der Salzdahlumer und Herrenhäuser Garten in Teilen und haben sich offensichtlich gegenseitig beeinflusst, wobei beide Gärten auf andere fürstliche Gartenschöpfungen stilbildend wirkten. Unklar ist, wann mit dem Bau des Salzdahlumer Gartens begonnen wurde. Ob Schloss und Garten zeitgleich gebaut wurden, lässt sich heute nicht mehr klären. Prägenden Einfluss auf die Gestaltung nahm jedenfalls Herzog Anton Ulrich. In der sich hinter dem Schloss befindlichen Anlage befanden sich eine Eremitage, mehrere Wasserspiele, ein Heckentheater, ein Irrgarten, einige Teiche und ungefähr 160 Plastiken.</note>
+                </place>
+                <place xml:id="salzdahlum_schloss_grosse_galerie"><!-- jhh -->
+                    <placeName>Salzdahlum, Schloss, Große Galerie</placeName>
+                    <note>Eineinhalbstöckiges Gebäude an der Nordseite <!-- ? jhh --> des Schlosskomplexes, das als erstes eigenständiges Galeriegebäude in Europa gilt und antike sowie zeitgenössische Statuen und Gemälde der herzoglichen Kunstsammlungen beherbergte.</note>
+                </place>
+                <place xml:id="salzdahlum_schloss_grotte"><!-- jhh -->
+                    <placeName>Salzdahlum, Schloss, Grotte</placeName>
+                    <note>Grottenraumensemble mit Wasserspielen im Corps des Logis.</note>
+                </place>
+                <place xml:id="salzdahlum_schloss_grosser_saal"><!-- jhh -->
+                    <placeName>Salzdahlum, Schloss, Großer Saal</placeName>
+                    <note>Im 1. Stock des Corps des Logis gelegener großer Festsaal.</note>
+                </place>
+                <place xml:id="salzdahlum_schloss_kleine_galerie"><!-- jhh -->
+                    <placeName>Salzdahlum, Schloss, Kleine Galerie</placeName>
+                    <note>Vom Corps de Logis Richtung Garten verlaufender Galerietrakt in der Nähe des Orangengartens, in dem Gemälde unterschiedlichster Herkunft ausgestellt wurden.</note>
+                </place>
+                <place xml:id="salzdahlum_schloss_komoediensaal">
+                    <placeName>Salzdahlum, Schloss, Komödiensaal</placeName>
+                    <note>Das 1688 bis 1694 erbaute Lustschloss der Herzöge von Braunschweig-Wolfenbüttel in Salzdahlum wurde noch jahrelang weiter ausgestaltet. Wohl nach Mai 1694 entstand der Anbau eines Komödienhauses, das 1697 und 1699 explizit erwähnt wird.</note>
+                </place>
+                <place xml:id="salzdahlum_kloster_ehre_gottes">
+                    <placeName>Salzdahlum, Kloster zur Ehre Gottes</placeName>
+                    <note>1701 eingeweihtes evangelisches Frauenkloster, in der Großen Orangerie an der Südseite des Schlosskomplexes untergebracht; 1791 Umzug nach Wolfenbüttel.</note>
+                </place>
+                <place xml:id="salzdahlum_schloss_oper"><!-- jhh -->
+                    <placeName>Salzdahlum, Schloss, Oper</placeName>
+                    <note>Im nördlichen Hauptflügel des Schlosses befindlicher Opern- und Theatersaal.</note>
+                </place>
+                <place xml:id="salzdahlum_schloss_orangerie"><!-- jhh -->
+                    <placeName>Salzdahlum, Schloss, Orangerie</placeName>
+                    <note>1701 fertiggestellte Orangerie an der Südseite des Schlosskomplexes, die exotische Pflanzen beherbergte.</note>
+                </place>
+                <place xml:id="salzdahlum_schloss_spiegelgrotte"><!-- jhh -->
+                    <placeName>Salzdahlum, Schloss, Spiegelgrotte</placeName>
+                    <note>Kleiner viereckiger Raum in der Orangerie, der mit Spiegeln ausgekleidet war.</note>
+                </place>
+                <place xml:id="sangerhausen">
+                    <placeName ref="http://www.geonames.org/2841693/sangerhausen.html">Sangerhausen</placeName>
+                </place>
+                <place xml:id="savoyen_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4051850-4">Savoyen, Herzogtum</placeName>
+                </place>
+                <place xml:id="schaumburg">
+                    <placeName ref="http://www.geonames.org/2840134/schaumburg.html">Schaumburg</placeName>
+                </place>
+                <place xml:id="scheuern">
+                    <placeName ref="http://www.geonames.org/2950300/bergnassau-scheuern.html">Scheuern (Nassau)</placeName>
+                </place>
+                <place xml:id="schierstein">
+                    <placeName ref="http://www.geonames.org/2839380/schierstein.html">Schierstein</placeName>
+                </place>
+                <place xml:id="schlangenbad">
+                    <placeName ref="http://www.geonames.org/2838918/schlangenbad.html">Schlangenbad</placeName>
+                </place>
+                <place xml:id="schlesien_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/24372-3">Schlesien, Herzogtum</placeName>
+                </place>
+                <place xml:id="schleswig-holstein-gottorf_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/118759361">Schleswig-Holstein-Gottorf, Herzogtum; 1544-1773, Nebenlinie des Hauses Oldenburg</placeName>
+                </place>
+                <place xml:id="schleswig-holstein-sonderburg-norburg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/1075657695">Schleswig-Holstein-Sonderburg-Norburg, Herzogtum; 1622-1729 Nebenlinie des Hauses Schleswig-Holstein-Sonderburg</placeName>
+                </place>
+                <place xml:id="schleswig-holstein-sonderburg-ploen_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/107565694X">Schleswig-Holstein-Sonderburg-Plön, Herzogtum; 1623-1761 Nebenlinie des Hauses Schleswig-Holstein-Sonderburg</placeName>
+                </place>
+                <place xml:id="schoeningen">
+                    <placeName ref="http://www.geonames.org/2836543/schoeningen.html">Schöningen</placeName>                    
+                </place>
+                <place xml:id="schoeningen_amt">
+                    <placeName ref="http://d-nb.info/gnd/4053149-1">Schöningen, Amt</placeName>
+                    <note>Verwaltungseinheit des <rs type="place" ref="#braunschweig-wolfenbuettel_herzogtum">Herzogtums Braunschweig-Wolfenbüttel</rs>.</note>
+                </place>
+                <place xml:id="schoeppenstedt">
+                    <placeName ref="http://www.geonames.org/2836396/schoeppenstedt.html">Schöppenstedt</placeName>
+                </place>
+                <place xml:id="schrattenhofen">
+                    <placeName ref="http://www.geonames.org/2836174/schrattenhofen.html">Schrattenhofen</placeName>
+                    <note>Dort befand sich ein Schloss der Grafen bzw. Fürsten von Oettingen-Oettingen, Ende des 17. Jhd. erweitert und umgebaut, um 1750 abgebrochen.</note>
+                </place>
+                <place xml:id="schwabach">
+                    <placeName ref="http://www.geonames.org/2835537/schwabach.html">Schwabach</placeName>
+                </place>
+                <place xml:id="schwaben">
+                    <placeName ref="http://d-nb.info/gnd/4053668-3">Schwaben</placeName>
+                    <note>Historische Landschaft in Südwestdeutschland.</note>
+                </place>
+                <place xml:id="schwalbach">
+                    <placeName ref="http://www.geonames.org/2953348/bad-schwalbach.html">(Bad) Schwalbach</placeName>                    
+                </place><!--Ort überprüfen Schwalbach=Schwalbach am Taunus?-->
+                <place xml:id="schwalbach_taunus">
+                    <placeName ref="http://www.geonames.org/2835381/schwalbach-am-taunus.html">Schwalbach am Taunus</placeName>                    
+                </place>
+                <place xml:id="schwarzburg-rudolstadt"><!-- jhh -->
+                    <placeName ref="http://d-nb.info/gnd/4306884-4">Schwarzburg-Rudolstadt, Fürstentum</placeName>
+                    <note>Von 1599 bis 1710 Grafschaft und ab 1710 Fürstentum.</note>
+                </place>
+                <place xml:id="schweden_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4077258-5">Schweden, Königreich</placeName>
+                </place>
+                <place xml:id="schweiz_eidgenossenschaft">
+                    <placeName ref="http://d-nb.info/gnd/4053881-3">Schweiz, Eidgenossenschaft</placeName>
+                </place>
+                <place xml:id="schwerin">
+                    <placeName ref="https://www.geonames.org/2834282/schwerin.html">Schwerin</placeName>
+                </place>
+                <place xml:id="seesen">
+                    <placeName ref="http://www.geonames.org/2833592/seesen.html">Seesen</placeName>
+                </place>
+                <place xml:id="sindlingen">
+                    <placeName ref="http://www.geonames.org/7118086/sindlingen.html">Sindlingen</placeName>
+                </place>
+                <place xml:id="sluis">
+                    <placeName ref="http://www.geonames.org/2747117/sluis.html">Sluis</placeName>
+                </place>
+                <place xml:id="soehlde">
+                    <placeName ref="http://www.geonames.org/2831671/soehlde.html">Söhlde</placeName>
+                </place>
+                <place xml:id="spanien_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4055964-6">Spanien, Königreich</placeName>
+                </place>
+                <place xml:id="stadtprozelten">
+                    <placeName ref="https://www.geonames.org/2829751/stadtprozelten.html">Stadtprozelten</placeName>
+                </place>
+                <place xml:id="staffelstein">
+                    <placeName ref="http://www.geonames.org/2829701/bad-staffelstein.html">Staffelstein (Bad Staffelstein)</placeName>
+                </place>
+                <place xml:id="steterburg">
+                    <placeName ref="http://www.geonames.org/2827271/steterburg.html">Steterburg</placeName>
+                    <note>Seit ca. 1000 n. Chr. Standort eines Nonnenklosters, mit der Reformation seit 1568 ein evangelisches Frauenstift, 1691 ein adeliges Damenstift, 1939 aufgehoben.</note>
+                </place>
+                <place xml:id="steterburg_stiftskirche"><!-- jhh -->
+                    <placeName>Steterburg, Stiftskirche</placeName>
+                    <note>Stiftskirche des Damenstifts.</note>
+                </place>
+                <place xml:id="stettin">
+                    <placeName ref="http://www.geonames.org/3083829/szczecin.html">Stettin (Szczecin)</placeName>
+                </place>
+                <place xml:id="stiege"><!-- jhh -->
+                    <placeName ref="http://www.geonames.org/2827108/stiege.html">Stiege (Harz)</placeName>
+                </place>
+                <place xml:id="strassburg">
+                    <placeName ref="http://www.geonames.org/2973783/strasbourg.html">Straßburg (Strasbourg)</placeName>
+                </place>
+                <place xml:id="strelitz_alt">
+                    <placeName ref="https://www.geonames.org/2825922/strelitz-alt.html">Strelitz-Alt</placeName>
+                </place>
+                <place xml:id="strelitz_neu">
+                    <placeName ref="https://www.geonames.org/2864005/neustrelitz.html">Neustrelitz</placeName>
+                </place>
+                <place xml:id="stuttgart">
+                    <placeName ref="http://www.geonames.org/2825297/stuttgart.html">Stuttgart</placeName>
+                </place>
+                <place xml:id="sulzbach_am_main">
+                    <placeName ref="http://www.geonames.org/2824806/sulzbach-am-main.html">Sulzbach am Main</placeName>
+                </place>
+                <place xml:id="suedkampen">
+                    <placeName ref="http://www.geonames.org/2825006/suedkampen.html">Südkampen (Walsrode)</placeName>
+                </place>
+                <place xml:id="suepplingenburg">
+                    <placeName ref="http://www.geonames.org/2824602/suepplingenburg.html">Süpplingenburg</placeName>
+                    <note>Seit 1357 Sitz einer Johanniter-Komturei.</note>
+                </place>
+                <place xml:id="suepplingenburg_kommende">
+                    <placeName>Süpplingenburg, Kommende</placeName>
+                    <note>Gründung als Kollegiatstift um 1130; ab 1170 Kommende des Templerordens und nach deren Auflösung Kommende des Johanniterordens.</note>
+                </place>
+                <place xml:id="tannhausen">
+                    <placeName ref="http://www.geonames.org/2824055/tannhausen.html">Tannhausen</placeName>
+                </place>
+                <place xml:id="tiergarten_schloss">
+                    <placeName>Tiergarten, Schloss</placeName><!--kein Eintrag in GeoNames-->
+                    <note>Lustschloss mit Tiergarten der Fürsten von Oettingen-Oettingen auf dem Kratzberg zwischen Appetshofen und Schrattenhofen, ab 1689 erbaut, 1736 renoviert und umgebaut, um 1750 abgebrochen.</note>
+                </place>
+                <place xml:id="thurneck">
+                    <placeName ref="http://www.geonames.org/2822518/thurneck.html">Thurneck</placeName>
+                    <note>Dort befand sich ein Jagdschloss der Grafen bzw. Fürsten von Oettingen-Oettingen, ab 1664 erbaut, um 1730 erweitert, um 1835 abgebrochen.</note>
+                </place>
+                <place xml:id="toulouse">
+                    <placeName ref="http://www.geonames.org/2972315/toulouse.html">Toulouse</placeName>
+                </place>
+                <place xml:id="trennfurt">
+                    <placeName ref="http://www.geonames.org/2821324/trennfurt.html">Trennfurt</placeName>
+                </place>
+                    <place xml:id="trient">
+                        <placeName ref="http://www.geonames.org/3165243/trento.html">Trient (Trento)</placeName>
+                    </place>
+                <place xml:id="trochtelfingen">
+                    <placeName ref="http://www.geonames.org/2821064/trochtelfingen.html">Trochtelfingen</placeName>
+                </place>
+                <place xml:id="turin">
+                    <placeName ref="http://www.geonames.org/3165524/turin.html">Turin (Torino)</placeName>
+                </place>
+                <place xml:id="turin_accademia_reale"><!-- jhh -->
+                    <placeName>Turin, Accademia reale (Ritterakademie)</placeName>
+                    <note>1677/1678 gegründete Ritterakademie</note>
+                </place>
+                <place xml:id="turmhuegel_rosshof">
+                    <placeName>Turmhügel Roßhof</placeName>
+                </place>
+                <place xml:id="ungarn_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4078541-5">Ungarn, Königreich</placeName>
+                </place>
+                <place xml:id="varlosen">
+                    <placeName ref="https://www.geonames.org/2817850/varlosen.html">Varlosen</placeName>
+                </place>
+                <place xml:id="venedig">
+                    <placeName ref="http://www.geonames.org/3164603/venezia.html">Venedig (Venezia)</placeName>
+                </place>
+                <place xml:id="venedig_republik">
+                    <placeName ref="http://d-nb.info/gnd/4062501-1">Venedig, Republik (Repùblica de Venessia)</placeName>
+                </place>
+                <place xml:id="verden">
+                    <placeName ref="http://www.geonames.org/2817599/verden.html">Verden</placeName>
+                </place>
+                <place xml:id="volkersheim">
+                    <placeName ref="http://www.geonames.org/2816655/volkersheim.html">Volkersheim</placeName>
+                </place>
+                <place xml:id="wallonien">
+                    <placeName ref="http://www.geonames.org/3337387/wallonia.html">Wallonien</placeName>
+                </place>
+                <place xml:id="warschau">
+                    <placeName ref="http://www.geonames.org/756135/warsaw.html">Warschau (Warszawa)</placeName>
+                </place>
+                <place xml:id="wassermungenau">
+                    <placeName ref="http://www.geonames.org/2813719/wassermungenau.html">Wassermungenau</placeName>
+                </place>
+                <place xml:id="weferlingen">
+                    <placeName ref="https://www.geonames.org/2813405/weferlingen.html">Weferlingen</placeName>
+                </place>
+                <place xml:id="wellwart_burg">
+                    <placeName>Burg Wellwart</placeName>
+                    <note>südöstlich von Harburg (Schwaben) gelegen, auch Riesenburg genannt.</note>
+                </place>
+                <place xml:id="wendefurth">
+                    <placeName ref="http://www.geonames.org/2811314/wendefurth.html">Wendefurth</placeName>
+                </place>
+                <place xml:id="wendessen">
+                    <placeName ref="https://www.geonames.org/2811253/wendessen.html">Wendessen</placeName>
+                </place>
+                <place xml:id="wenzen">
+                    <placeName ref="http://www.geonames.org/2811016/wenzen.html">Wenzen</placeName>
+                </place>
+                <place xml:id="wertheim">
+                    <placeName ref="https://www.geonames.org/2810716/wertheim.html">Wertheim</placeName>
+                </place>
+                <place xml:id="weser_district">
+                    <placeName>Weser-District</placeName>
+                    <note>Verwaltungseinheit des <rs type="place" ref="#braunschweig-wolfenbuettel_herzogtum">Herzogtums Braunschweig-Wolfenbüttel</rs>.</note> 
+                </place>
+                <place xml:id="westerburg_burg">
+                    <placeName ref="http://www.geonames.org/2810412/westerburg.html">Westerburg, Burg</placeName>
+                </place>
+                <place xml:id="westfalen">
+                    <placeName ref="http://d-nb.info/gnd/4065781-4">Westfalen</placeName>
+                </place>
+                <place xml:id="wetzlar">
+                    <placeName ref="https://www.geonames.org/2809889/wetzlar.html">Wetzlar</placeName>
+                </place>
+                <place xml:id="wien">
+                    <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
+                </place>
+                <place xml:id="wiesbaden">
+                    <placeName ref="http://www.geonames.org/2809346/wiesbaden.html">Wiesbaden</placeName>
+                </place>
+                <place xml:id="winsen_aller">
+                    <placeName ref="http://www.geonames.org/2807846/winsen.html">Winsen (Aller)</placeName>
+                </place>
+                <place xml:id="woerth_am_main"> 
+                    <placeName ref="http://www.geonames.org/2806082/woerth-am-main.html">Wörth am Main</placeName>
+                </place>
+                <place xml:id="wolfenbuettel"> 
+                    <placeName ref="http://www.geonames.org/2806914/wolfenbuettel.html">Wolfenbüttel</placeName>
+                </place>
+                <place xml:id="wolfenbuettel_auguststadt"> 
+                    <placeName>Wolfenbüttel, Auguststadt</placeName>
+                    <note>Stadtteil von Wolfenbüttel; ab Mitte des 17. Jahrhunderts erfolgte Stadterweiterung nach Westen.</note>
+                </place>
+                <place xml:id="wolfenbuettel_augusttor"> 
+                    <placeName>Wolfenbüttel, Augusttor</placeName>
+                    <note>Stadttor in Wolfenbüttel; westlicher Durchgang aus der Auguststadt durch die Festungswälle; um 1652/54 errichtet.</note>
+                </place>
+                <place xml:id="wolfenbuettel_bastion_joachimsberg">
+                    <placeName>Wolfenbüttel, Bastion Joachimsberg</placeName>
+                    <note>Die westlich der Bastion Philippsberg benachbarte Bastion im Norden der Heinrichstadt; zwischen beiden führte das Herzogtor nach Norden, Richtung Braunschweig.</note>
+                </place>
+                <place xml:id="wolfenbuettel_bastion_philippsberg">
+                    <placeName>Wolfenbüttel, Bastion Philippsberg</placeName>
+                    <note>Zwischen 1606 und 1609 errichteter nordöstlicher Eckpunkt der Wolfenbütteler Stadtbefestigung (am Ziegenmarkt in der Heinrichstadt), das mächtigste Bollwerk der gesamten Befestigungsanlage.</note>
+                </place>
+                <place xml:id="wolfenbuettel_bibliothek"> 
+                    <placeName>Wolfenbüttel, Bibliothek</placeName>
+                    <note>Die herzogliche Bibliothek, von Herzog Julius von Braunschweig-Wolfenbüttel (1528-1569) begründete, von Herzog August d. J. von Braunschweig-Wolfenbüttel (1579-1666) zu einer der größten Büchersammlungen seiner Zeit ausgebaute herzogliche Bibliothek. Sie war von 1644 bis 1705 im Obergeschoss des Marstallgebäudes, danach in der neu erbauten Rotunde untergebracht (Abriss 1887).</note>
+                </place>
+                <place xml:id="wolfenbuettel_b_m_v">
+                    <placeName>Wolfenbüttel, Hauptkirche B. M. V.</placeName>
+                    <note>Die der Muttergottes ("Beatae Mariae Virginis") geweihte Hauptkirche der Heinrichstadt zu Wolfenbüttel, 1608-1624 anstelle einer älteren Marienkapelle errichtet, bis 1767 Grablege der herzoglichen Familie.</note>
+                </place>
+                <place xml:id="wolfenbuettel_dammtor"> 
+                    <placeName>Wolfenbüttel, Dammtor</placeName>
+                    <note>Stadttor in Wolfenbüttel; östlicher Durchgang aus der Dammfestung in die Heinrichstadt.</note>
+                </place>
+                <place xml:id="wolfenbuettel_freiheit"> 
+                    <placeName>Wolfenbüttel, Freiheit</placeName>
+                    <note>Kleiner Stadtbezirk östlich der Dammfestung, des Dammtores und des Festungsgrabens, also zwischen Schlossareal und der Heinrichstadt gelegen; wohl schon Mitte des 15. Jahrhunderts entstanden, Anfang des 17. Jahrhunderts als Händler- und Handwerkersiedlung ausgebaut; unterstand dem Residenzamt, nicht dem Stadtrat.</note>
+                </place>
+                <place xml:id="wolfenbuettel_forsthaus"> 
+                    <placeName>Wolfenbüttel, Forsthaus</placeName>
+                    <note>Das Forst- oder "Förster-Haus" vor Wolfenbüttel, das Herzog Ludwig Rudolph im Juli 1701 nennt, wurde auf Anordnung seines Onkels, Herzog Rudolph Augusts (1627-1704), von dessen Förster Christian Behrens, zuständig für das "Lecheln-Holz", vor dem Herzogtore an der Mündung der Heerstraße nach Braunschweig ("Alter Weg") und der herzoglichen Privatstraße des "Braunschweigischen Herrenwegs" (heute: Neuer Weg) als Wirtschaft errichtet. Es erhielt sich durchgehend bis heute als Gasthaus.</note>
+                </place>
+                <place xml:id="wolfenbuettel_garten_august_wilhelms"> 
+                    <placeName>Wolfenbüttel, Garten Herzog August Wilhelms</placeName>
+                    <note>Garten des Erbprinzen bzw. seiner Gattin; wie die übrigen Gärten der herzoglichen Familie vermutlich am Neuen Weg vor dem Herzogtor gelegen</note>
+                </place>
+                <place xml:id="wolfenbuettel_garten_christine_luises"> 
+                    <placeName>Wolfenbüttel, Garten Herzogin Christine Luises</placeName>
+                    <note>Eigener Garten der Herzogin Christine Luise. Er wird wie der Garten ihres Mannes Herzog Ludwig Rudolph und jener ihrer Schwiegermutter Elisabeth Juliane am Neuen Weg vor dem Herzogtor gelegen haben. Er wird in den Tagebüchern Ludwig Rudolphs von 1701 (28 Blank.) und 1707 (286a Blank.) mehrfach erwähnt, es werden sogar Einzelheiten wie eine neu angelegte Allee (Neuer Weg) und ein Lusthaus mit Saal genannt.</note>
+                </place>
+                <place xml:id="wolfenbuettel_garten_elisabeth_julianes"> 
+                    <placeName>Wolfenbüttel, Garten Herzogin Elisabeth Julianes</placeName>
+                    <note>Um 1690 angelegter Garten Herzogin Elisabeth Julianes (1634-1704), der Mutter Herzog Ludwig Rudolphs, westlich des Neuen Wegs vor dem Herzogtor. An der Ostseite des Neuen Wegs lag Ludwig Rudolphs Garten.</note>
+                </place>
+                <place xml:id="wolfenbuettel_garten_harztor"> 
+                    <placeName>Wolfenbüttel, Garten "Mon Plaisir"</placeName>
+                    <note>Herrschaftlicher Lustgarten mit Lusthaus und Tiergarten, vor dem Harztor gelegen, ab 1655 errichtet.</note>
+                </place>    
+                <place xml:id="wolfenbuettel_garten_ludwig_rudolphs"> 
+                    <placeName>Wolfenbüttel, Garten Herzog Ludwig Rudolphs</placeName>
+                    <note>Garten Herzog Ludwig Rudolphs, von ihm öfter als "mein Garten" oder "Ludovicusca" bezeichnet, vor dem Herzogtor zu Wolfenbüttel, östlich des Neuen Weges am südlichen Rand des Lechlumer Holzes gelegen und mit einem Lusthaus versehen; ungefähr auf Höhe des späteren Schlösschens Antoinettenruh.</note>
+                </place>                             
+                <place xml:id="wolfenbuettel_goldener_adler"> 
+                    <placeName>Wolfenbüttel, "Zum goldenen Adler"</placeName>
+                    <note>Wirtshaus und Gasthof, im Gotteslager zu Wolfenbüttel gelegen.</note>
+                </place>
+                <place xml:id="wolfenbuettel_harztor"> 
+                    <placeName>Wolfenbüttel, Harztor</placeName>
+                    <note>Stadttor in Wolfenbüttel; südlicher Durchgang aus der Heinrichstadt durch die Festungswälle; 1603 erbaut.</note>
+                </place>
+                <place xml:id="wolfenbuettel_herzogtor"> 
+                    <placeName>Wolfenbüttel, Herzogtor</placeName>
+                    <note>Stadttor in Wolfenbüttel; nördlicher Durchgang aus der Heinrichstadt durch die Festungswälle Richtung Braunschweig; 1660 erbaut.</note>
+                </place>
+                <place xml:id="wolfenbuettel_herzogappartements"><!-- jhh -->
+                    <placeName>Wolfenbüttel, Herzogappartments</placeName>
+                    <note>Im Obergeschoss des Schlosses gelegenes Raumensemble, das vom Herzog und der Herzogin bei Anwesenheit in Wolfenbüttel bewohnt wurde.</note>
+                </place>
+                <place xml:id="wolfenbuettel_holzhof"> 
+                    <placeName>Wolfenbüttel, Holzhof</placeName>
+                    <note>Zwischen der Dammveste (Residenzschloss) und der Heinrichstadt im Bereich der "Freiheit"; der heutige Straßenzug "Kleiner Zimmerhof" war der Sägemühlenbezirk; der "Große Zimmerhof" lag bei dem Einfluss des Okerhauptarmes in die befestigte Residenzstadt und einem kleinen Hafen für die vom Harz kommenden Flösse und Schiffe mit Baumatertial. Das Holz wurde auf dem Großen Zimmerhof von Zimmerleuten zu Bauholz verarbeitet.<!-- Arnold Beuermann: Die Grundrißentwicklung der Innenstadt von WF. In: Beiträge zur Geschichte der Stadt WF. Hrsg. J. König. WF 1970, S. 61-74, hier S. 68f.; Theodor Müller: Schiffahrt und Flößerei im Flussgebiet der Oker. BS 1968, 106-109. --></note>
+                </place>
+                <place xml:id="wolfenbuettel_johanniskirche"> 
+                    <placeName>Wolfenbüttel, Kirche St. Johannis</placeName>
+                    <note>Seit 1661 erbaute, 1663 geweihte Kirche in der Auguststadt zu Wolfenbüttel.</note>
+                </place>
+                <place xml:id="wolfenbuettel_lechlumer_holz">
+                    <placeName>Wolfenbüttel, Lechlumer Holz</placeName>
+                    <note>Früher "Lechelnholtz"; Waldstück zwischen Wolfenbüttel im Süden und Braunschweig im Norden; vom 16. Jahrhundert bis 1759 auch Standort des Hohen Gerichts, der Hauptrichtstätte im Herzogtum Braunschweig-Wolfenbüttel.</note>
+                </place>
+                <place xml:id="wolfenbuettel_liebeswinkel">
+                    <placeName>Wolfenbüttel, Liebeswinkel</placeName>
+                    <note>Garten auf dem Mühlenbollwerk</note>
+                </place>
+                <place xml:id="wolfenbuettel_muehlenbastion">
+                    <placeName>Wolfenbüttel, Mühlenbastion</placeName>
+                    <note>Bastei an der Nordwestecke der das Schlossareal umgebenden Dammveste</note>
+                </place>
+                <place xml:id="wolfenbuettel_muehlentor"> 
+                    <placeName>Wolfenbüttel, Mühlentor</placeName>
+                    <note>Stadttor in Wolfenbüttel; westlicher Durchgang aus der Dammfestung in die Auguststadt; 1605 anstelle eines Vorgängerbaus errichtet.</note>
+                </place>
+                <place xml:id="wolfenbuettel_neuer_weg"> 
+                    <placeName>Wolfenbüttel, Neuer Weg</placeName>
+                    <note>Ende des 17. Jahrhunderts angelegte, schnurgerade herzogliche Privatstraße, die, ausgehend vom Herzogtor im Norden der Heinrichstadt, östlich der alten Heerstraße nach Braunschweig ("Alter Weg"), durch das Lechlumer Holz nach Braunschweig führte: "Braunschweigischer Herrenwegs" (heute: Neuer Weg).</note>
+                </place>
+                <place xml:id="wolfenbuettel_ritterakademie"> 
+                    <placeName ref="https://d-nb.info/gnd/16011332-5">Wolfenbüttel, Ritterakademie "Rudolph-Antoniana"</placeName>
+                    <note>Ritterakademie, 1687 von den Herzögen <rs type="person" ref="#braunschweig-wolfenbuettel_rudolph_august">Rudolph August</rs> und <rs type="person" ref="#braunschweig-wolfenbuettel_anton_ulrich">Anton Ulrich</rs> von Braunschweig-Wolfenbüttel gegründet, im Kleinen Schloss in Wolfenbüttel untergebracht, 1715 aufgelöst.</note>
+                </place>
+                <place xml:id="wolfenbuettel_schloss"><!-- jhh -->
+                    <placeName>Wolfenbüttel, Schloss</placeName>
+                    <note>Ursprünglich eine Wasserburg, die nachweislich im 11. Jahrhundert errichtet und im 13. Jahrhundert erstmals zersört wurde. Seit Mitte des 14. Jahrhunderts Residenzanlage der Welfen und erneute Zerstörung im Schmalkaldischen Krieg, worauf allerdings ein abermaliger Wiederaufbau erfolgte. Größere Umbaumaßnahmen wurden im späten 17. und frühen 18. Jahrhundert durchgeführt, wobei die heutige Gestalt maßgeblich durch Hermann Korb geprägt wurde.</note>
+                </place>
+                <place xml:id="wolfenbuettel_schloss_audienzzimmer"><!-- jhh --> 
+                    <placeName>Wolfenbüttel, Audienzzimmer</placeName>
+                    <note>Audienzzimmer im Herzogappartement, das für besondere zeremonielle Anlässe genutzt wurde.</note>
+                </place>
+                <place xml:id="wolfenbuettel_schlossgarten"> 
+                    <placeName>Wolfenbüttel, Schlossgarten</placeName>
+                    <note>Nach dem 30jährigen Krieg war kein Lustgarten mehr im Wolfenbütteler Schlossbezirk angelegt worden, wohl aber bezeugt Herzog Ludwig Rudolph selbst am 11. Mai 1701 (Tagebuch Blank. 28) einen "kleinen Gartten bey dem Schloße". Häufiger spricht er von einemn Aufenthalt in "unserm Gartten", ohne dass dieser immer eindeutig zu identifizieren wäre. Neben seinem eigenen an der Ost- und dem Garten seiner Frau Luise Christine an der Westseite des Neuen Wegs gab es auch noch den Lustgarten, den Herzog August d. J. von Braunschweig-Wolfenbüttel (1579-1666) 1655 vor dem Harztor im Süden der Stadt als "Mon Plaisir" hatte anlegen lassen (das 1678 dort erbaute Lusthaus musste aber bereits 1709 abgerissen werden).</note>
+                </place>
+                <place xml:id="wolfenbuettel_schloss_gemaecher_anton_ulrich_elisabeth_juliane"><!-- jhh --> 
+                    <placeName>Wolfenbüttel, Schloss, Gemächer von Anton Ulrich und Elisabeth Juliane</placeName>
+                    <note>Wahrscheinlich lagen die Gemächer des Herzogpaares im zweiten Obergeschoss des Corps de Logis.</note>
+                </place>
+                <place xml:id="wolfenbuettel_schloss_gemaecher_ludwig_rudolph_christine_luise"><!-- jhh --> 
+                    <placeName>Wolfenbüttel, Schloss, Gemächer von Ludwig Rudolph und Christine Luise</placeName>
+                    <note>Wahrscheinlich lagen die Gemächer des Herzogpaares im Südflügel des Schlosses.</note>
+                </place>
+                <place xml:id="wolfenbuettel_schloss_grosser_saal"> 
+                    <placeName>Wolfenbüttel, Schloss, großer Saal bzw. Redoutensaal</placeName>
+                    <note>Festsaal, auch "Großer Saal" genannt, 1696/97 zwischen der Schlosskirche und dem Westflügel des Schlosses errichtet.</note>
+                </place>
+                <place xml:id="wolfenbuettel_schloss_hoftheater"> 
+                    <placeName>Wolfenbüttel, Hoftheater</placeName>
+                    <note>Im Februar 1688 eröffnetes Opernhaus in der Residenz Wolfenbüttel, ein längsrechteckiges freistehendes Gebäude zwischen dem Westflügel des Schlosses und der Bastionärsbefestigung "Krokodilberg"; kleiner und bühnentechnisch anspruchsloser als das zwei Jahre später eröffnete Hagenmarkt-Theater in Braunschweig. Unter dessen Konkurrenz verkümmerte das Wolfenbütteler Opernhaus schon zu Lebzeiten Herzog Anton Ulrichs, bis es 1748 wegen baulichen Verfalls abgerissen wurde. Aber auch der Speisesaal des Wolfenbütteler Schlosses, das 1655 erstmals genannte "Comödienhaus" (das ehemalige Ballspielhaus Herzog Heinrich Julius'), der Redoutensaal im Südflügel und das Vorzimmer von Herzog Anton Ulrichs Appartement wurden für theatralische Aufführungen am Wolfenbütteler Hof genutzt.</note>
+                </place>
+                <place xml:id="wolfenbuettel_schloss_kirche"> 
+                    <placeName>Wolfenbüttel, Schlosskirche</placeName>
+                    <note>Seit 1556 aus dem ehemaligen Wohnturm an der Südostflanke des Schlossareals unter Herzog Heinrich d. J. (1489-1568; reg. seit 1514) im Stil der Frührenaissance errichtet, immer wieder aus- und umgebaut, ab 1570 durch Herzog Julius (1528-1589) Renovierung und Umgestaltung zu einer evangelischen Kirche; 1796 abgerissen.</note>
+                </place>
+                <place xml:id="wolfenbuettel_schlossplatz">
+                    <placeName>Wolfenbüttel, Schlossplatz</placeName>
+                    <note>Freie Fläche vor dem herzoglichen Schloss. Der Schlossplatz erhielt seine bis heute beibehaltene bauliche Gestalt ab 1643 auf Veranlassung Herzog Augusts d. J. von Braunschweig-Wolfenbüttel, der das vom 30jährigen Krieg in Mitleidenschaft gezogene dichtbebaute Areal niederreißen ließ.</note>
+                </place>
+                <place xml:id="wolfenbuettel_tiergarten"> 
+                    <placeName>Wolfenbüttel, Tiergarten</placeName>
+                    <note>Tiergarten als Teil des vor dem Harztor gelegenenen herrschaftlichen Lustgartens "Mon Plaisir".</note>
+                </place> 
+                <place xml:id="wolfenbuettel_trinitatiskirche"> 
+                    <placeName>Wolfenbüttel, Trinitatiskirche</placeName>
+                    <note>Der Heiligen Dreifaltigkeit geweihte Kirche in der östlichen Vorstadt Gotteslager, am Standort des vormaligen Kaisertores; 1700 geweiht, kurz darauf 1705 abgebrannt, dann neu erbaut und 1719 neuerlich geweiht.</note>
+                </place>
+                <place xml:id="wolfenbuettel_zeughaus"> 
+                    <placeName>Wolfenbüttel, Zeughaus</placeName>
+                    <note>Herzogliches Waffenarsenal; 1618 errichteter Großbau im Stil der Spätrenaissance.</note>
+                </place>
+                <place xml:id="wuerzburg">
+                    <placeName ref="http://www.geonames.org/2805615/wuerzburg.html">Würzburg</placeName>
+                </place>
+                <place xml:id="wuerzburg_hochstift">
+                    <placeName ref="http://d-nb.info/gnd/4128539-6">Würzburg, Hochstift</placeName>
+                </place>
+                <place xml:id="wuerzburg_stein">
+                    <placeName>Würzburger Stein</placeName>
+                    <note>Weinbaulage</note>
+                </place>
+                <place xml:id="zuerich"> 
+                    <placeName ref="http://www.geonames.org/2657896/zuerich.html">Zürich</placeName>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

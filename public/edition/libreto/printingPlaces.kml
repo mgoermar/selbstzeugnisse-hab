@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+  <Folder>
+    <Placemark>
+      <address>Braunschweig</address>
+      <TimeStamp>
+        <when>1710</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>+010.526730,+052.265940</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <address>Braunschweig</address>
+      <TimeStamp>
+        <when>1711</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>+010.526730,+052.265940</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <address>Köln</address>
+      <TimeStamp>
+        <when>1704</when>
+      </TimeStamp>
+      <Point>
+        <coordinates>+006.950000,+050.933333</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.introduction_cod_guelf_286_blank" n="Einleitung">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 286 Blank.</title>
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Miriam</forename>
+                        <surname>Mulzer</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>auf Grundlage von Vorarbeiten von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                    <persName>
+                        <forename>Alexander</forename>
+                        <surname>Zirr</surname>                        
+                    </persName>                    
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 286 Blank.: Eigenhändige Aufzeichnungen Herzog Ludwig Rudolphs, 1712–1713/1724</head>
+                <p>
+                    <hi rend="smaller"><lb/>Herzog Ludwig Rudolph von Braunschweig-Wolfenbüttel (1671-1735): „Allerhand sachen so ich mir aufzeichnen wollen und angefangen in Münnichsrode so ein Oetingisches Ampt, d. 19. Jan. 1712. Ludewig Rudolff HZBUL.“
+                    <lb/>103 S., plus viele leere Seiten. Pappband mit dem Fragment einer kanonistischen Handschrift des 13. Jahrhunderts überzogen. Vgl. <ref target="https://diglib.hab.de/?db=mss&amp;list=ms&amp;id=286-blank&amp;catalog=Butzmann">Hans Butzmann: Die Blankenburger Handschriften. Frankfurt a. M. 1966 (Kataloge der Herzog August Bibliothek Wolfenbüttel, Neue Reihe Bd. 11), S. 265.</ref>
+                    <lb/>Links: <ref target="http://diglib.hab.de/mss/286-blank/start.htm">Digitalisat</ref>, <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286_blank">edierter Text</ref>, <ref target="http://selbstzeugnisse.hab.de/repertorium/eintrag/286-blank">Selbstzeugnisrepertorium</ref></hi>
+                </p>
+                <p>
+                    <lb/>Wie bereits das <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286_blank#Ir">Titelblatt</ref> verrät, handelt es sich bei der Handschrift Cod. Guelf. 286 Blank. um ein Notizbuch von Herzog Ludwig Rudolph aus den Jahren 1712 und 1713. Vorrangig finden sich darin tagebuchartige Aufzeichnungen zu Ludwig Rudolphs Lektüre, wie sie sich auch am Ende seines <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#135">Tagebuchs von 1701</ref> finden. Der notizhafte Charakter des Büchleins zeigt sich in den zahlreichen, höchst heterogenen Einträgen, die sich zwischen den Tageseinträgen befinden. Der Band beginnt am 9. 1. 1712 mit einer Liste derjenigen, die anlässlich der Kaiserkrönung Karls VI. in den Orden vom Goldenen Vlies aufgenommen wurden, darunter auch Ludwig Rudolphs Vater Herzog Anton Ulrich (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286_blank#1">S. 1–3</ref>). Es folgen tagebuchartige Aufzeichnungen zu Ludwig Rudolphs Lektüre vom <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286_blank#1712-01-28_4">28. Januar 1712</ref> bis <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286_blank#1712-09-20_61">20. September 1712</ref> in Mönchsroth, Schrattenhofen, Braunschweig und Wolfenbüttel, zwischen denen eine Vielzahl unterschiedlicher Notizen zu diesen Lektüren und vereinzelte Anekdoten und Kuriositäten über seinen Aufenthalt im Fürstentum Oettingen-Oettingen stehen (S. 4-61). Daran schließt sich eine Beschreibung der Reise von Mönnchsroth nach Langenschwalbach im Juni 1712 an (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286_blank#62">S. 62-76</ref>), auf welche wiederum eine Fortsetzung der Lektürenotizen vom 24. September 1712 bis 10. November 1713 erfolgt (S. <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286_blank#77">77-97</ref>). Die letzten Seiten füllen verschiedene Notizen aus dem Jahr 1724, darunter ein kurzer Verweis auf eine erneute Reise auf dem Main, die dem gleichen Reiseweg wie 1712 folgte, mit einigen Ergänzungen, die in der ersten Reisebeschreibung fehlten (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286_blank#97">S. 97-103</ref>).
+                </p>
+                <p>
+                    <lb/>Die Lektüre des Herzogs umfasste ein breites Repertoire, darunter Belles Lettres, Historica, Diplomatica (Akten, Urkunden-Ausgaben), zeittypisch „Curieuse und nützliche Reichsmaterien“, erbauliche Schriften, die zum Teil mehrfach konsultiert wurden, Gedichte, Symbola/Devisen, Kriegsgeschehen, Staatsdiskurse, Sidney’s Arcadia, Werke von Martin Opitz, teils auch Anekdoten und Kuriositäten, jeweils chronologisch festgehalten mit Vermerken der gelesenen Titel sowie tagesgenauen Angaben zu Beginn und Ende der Lektüre. Einige Bücher exzerpierte Ludwig Rudolph im Anschluss an seine erste Lektüre. Von dieser oft mehrere Wochen in Anspruch nehmende Tätigkeit zeugen die ebenfalls an der Herzog-August-Bibliothek überlieferten Exzerptbücher. Die Notizen sowie längere und kürzere Zitate, die sich Ludwig Rudolph in seinem Notizbuch machte, stammen z.T. aus dem ersten Lesedurchlauf, z.T. lassen sie sich auch den späteren Exzerptarbeiten zuordnen. Dies hat zur Folge, dass einzelne Notizen in der Handschrift aus Buchtiteln stammen, die bereits viele Seiten zuvor aufgeführt wurden. Soweit es möglich war, die Herkunft der Notizen aufzulösen, folgt die jeweilige Quellenangabe in den Fußnoten. Trotz des heterogenen Charakters der Notizen, deren Sinn sich in manchen Fällen wohl nur dem Autor selbst erschoss, zeigen sich einige Auffälligkeiten und Gemeinsamkeiten. Teilweise handelt es sich um längere und kürzere juristische Zitate, die Ludwig Rudolph sich notierte. In anderen Fällen hielt er Autoren und Werktitel fest, die er interessant fand und deren Werke er sich vermutlich in Zukunft besorgen wollte. Bei den fremdsprachlichen Wörtern und Redewendungen ist hingegen zu vermuten, dass es sich um ihm bisher nicht bekannte Ausdrücke handelte, die er sich zum Nachschlagen oder Einprägen notierte.
+                </p>                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,435 @@
+.diarium {
+    position: relative;
+    padding-left:3em;
+    padding-bottom: 4em;
+    width:60%;
+    font-family: "Junicode", "Symbola";
+    /*font-size: 1.5em;*/
+    font-size: 12pt;
+    line-height: 1.5;
+    color: #634e42;
+    padding-right: 2em;
+    border-right: 1px solid #666;
+}
+
+/* Einleitungstexte */
+
+.diarium .intro{
+    font-family: Lato, Symbole, Verdana, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    line-height: 1.8em;
+    margin-bottom: 2em;
+}
+
+/* LINKS ZU ORIGINALSEITEN LINKE SPALTE */
+
+.pagebreak{
+    position: absolute;
+    transform: translate(-3em, 0);
+    left: 3em;
+}
+
+/* ///////////////////////////////////////////////////////////// */
+
+.diarium h1 {
+    font-size: xx-large;
+}
+
+.diarium h2 {
+    font-size: x-large;
+}
+
+.diarium h1, .diarium h2, .diarium h3 {
+    margin: .5em 0;
+}
+
+.diarium h3 {
+    /* font-size: large; */
+    font-weight: bold;
+}
+
+.diarium h3 + div, .diarium h3 + ul {
+    margin-left: 1em;
+}
+
+.diarium p {
+    margin-top: 1em;
+    display: inline;
+}
+
+.diarium p + * {
+    margin-top: 1em;
+}
+
+.diarium blockquote {
+    margin-left: 1em; padding: 1em; border-left: 3px solid #ccc;
+}
+
+*[lang] {
+    border-bottom: thin dotted;
+    cursor: pointer;
+}
+
+.diarium a {
+    font-size: 1em;
+}
+
+.diarium td {
+    padding-right: 1em;
+}
+
+.diarium .note{
+    font-size:9pt;
+    vertical-align:super;
+    color:#3b5b7e;
+}
+
+/* PAGINATION /////////////////////////////////////////// */
+
+.diarium .pagination {
+    position: relative;
+    display: block;
+    height: auto;
+    font-family: Lato;
+    text-align: left;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    width:100%;
+    text-align: right;
+    border-top: 1px solid #634e42;
+    border-bottom: 1px solid #634e42;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.pWrap{
+    /* float: right;
+    margin-left: 2em; */
+    /* border: 1px solid red; */
+}
+
+.diarium .pagination a {
+    position: relative;
+    display: inline-block;
+    min-width: 90px;
+    min-height: 20px;
+    text-decoration: none;
+    color: inherit;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 1em;
+}
+
+.diarium .pagination .prev {
+    background-image: url('../../../assets/imgs/backarrow_1.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 30px;
+    /* padding-top: 0.5em; */
+}
+
+.diarium .pagination .next{
+    background-image: url('../../../assets/imgs/forearrow_1.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding-right: 30px;
+    /* padding-top: 0.5em; */
+    text-align: right;
+}
+
+.diarium .pagination h1 {
+    position: relative;
+    display: inline;
+    vertical-align: middle;
+    min-height: 20px;
+    font-size: xx-large;
+    border: none;
+}
+
+/* ///////////////////////////////////////////////////////// */
+
+.diarium h1, .diarium h2{ text-transform: none; }
+
+.diarium h2 {
+    font-size: large;
+    font-weight: bold;
+    display: inline;
+    border-bottom: none;
+}
+
+.diarium * + p {
+    display: inline;
+}
+
+.diarium p + p {
+    display: block;
+}
+
+
+.diarium div + div {
+    margin-top: 1em;
+}
+
+.diarium .margin-left {
+    /*position: absolute;*/
+    margin: 0.3rem 0.5rem 0.1rem -2.5rem;
+    max-width: 12rem;
+    font-size: 0.9rem !important;
+    float: left;
+}
+
+.diarium .unclear::after {
+    content: "[?]";
+}
+
+.ref {
+        text-decoration: none;
+/*    border-bottom: thin dashed;    */
+    display: inline;
+}
+
+.ref-place, .ref-person, .ref-org, .ref-gloss, .ref-bibl {
+    color: #3b5b7e;
+    text-decoration: none;
+}
+
+
+.ref-place-target, .ref-person-target, .ref-org-target, .ref-gloss-target, .ref-bibl-target {
+    position: absolute;
+    display: none;
+    background-color: #fff8dc;
+    border: thin solid #ffe4b5;
+    padding: .25em;
+    left: 105%;
+    width: 35%;
+    transform: translate(0, -1.5em);
+    /* max-width: 25rem; */
+    font-size: 1rem !important;
+    font-weight: normal !important;
+    text-indent: 0;
+    z-index: 100;
+}
+
+
+/*.ref-place, .ref-person {
+    color: #3b5b7e;
+    text-decoration: none;    
+}*/
+
+/*.ref-person:before, .ref-place:before {
+    content: " ⌘ ";
+}*/
+
+/* //////////////////////////////////////////////////////////////// */
+
+.annotation {
+    text-decoration: none;
+    /* border-bottom: thin dashed; */
+    display: inline;
+}
+
+.annotation a{
+    font-family: "Junicode", "Symbola";
+}
+
+.annotation:hover, .annotation a:hover ~ *, .annotation a:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.annotation a:hover ~ .annotation-target{
+    display: block;
+}
+
+.annotation-reference {
+    padding: 0 .25em;
+    text-decoration: none;
+    color: inherit;
+}
+
+.annotation-target + * {
+    display: inline;
+}
+
+.annotation-target {
+    position: absolute;
+    display: block;
+    background-color: #fff8dc;
+    border: thin solid #ffe4b5;
+    padding: .25em;
+    left: 105%;
+    width: 35%;
+    transform: translate(0, -1.5em);
+    /* max-width: 25rem; */
+    font-size: 1rem !important;
+    font-weight: normal !important;
+    z-index: 100;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.diarium .active, .diarium .active * {
+    font-weight: inherit;
+    background-color: yellow;
+}
+
+.diarium .visible, .diarium .visible *  {
+    font-weight: inherit;
+    /*background-color: #fffa9c;*/
+    z-index: 100;
+    display: inline;
+    text-align: left;
+}
+
+.margin-left .annotation-target {
+    margin-left: -1.5em;
+}
+
+.facsimile {
+    display: none;
+    background-color: black;
+    border: thin solid grey;
+    padding: .25em;
+    position: fixed;
+    left: 65em;
+    width: 25rem;
+    max-width: 25rem;
+    font-size: 1rem !important;
+    font-weight: normal !important;
+    z-index: 100;
+}
+
+.infopanel .visible {
+    z-index: 100;
+    display: inline-block;
+    text-align: left;
+}
+
+.facsimile a {
+    padding: .25em;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.facsimile img {
+    width: 100%;
+}
+
+#facsimile {
+    display: block;
+}
+
+.infopanel .facet {
+    display: inline-block;
+    padding: .25em;
+    position: fixed;
+    right: 20px;
+    top: 170px;
+    font-size: 1rem !important;
+    font-weight: normal !important;
+    z-index: 90;
+}
+
+.controls a {
+    text-decoration: none;
+}
+
+.controls {
+    text-align: right;
+    font-size: small;
+}
+
+.controls li {
+    display: inline;
+    padding: 0 1em;
+}
+
+@media all and (max-width:700px) {
+
+    .content{
+        max-width: 100%;
+        width:100%;
+    }
+
+    .diarium .pagination {
+        text-align: center;
+    }
+
+    .pageWrap{
+        margin: 0em;
+        width:100%;
+    }
+
+    .diarium{
+        padding-left: 0;
+        padding: 1em;
+        width:90%;
+        border-right: none;
+        min-width: 0;
+        max-width: 600px;
+        /* font-size: 0.8em; */
+        /* border:1px solid orange; */
+    }
+
+    .pagebreak{
+        position: relative;
+        display: block;
+        width:100%;
+        transform: none;
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+
+    .pagebreak ~ h1{
+        margin-top:0;
+        padding-top:0;
+    }
+
+    .annotation-target {
+        position: relative;
+        display: none;
+        background-color: #fff8dc;
+        border: thin solid #ffe4b5;
+        padding: .25em;
+        margin-top:1em;
+        margin-bottom:1em;
+        transform: none;
+        left: 0;
+        width: 100%;
+        /* max-width: 25rem; */
+        font-size: 1rem !important;
+        font-weight: normal !important;
+        z-index: 100;
+    }
+    
+    
+.ref-place-target, .ref-person-target, .ref-gloss-target, .ref-bibl-target {
+    position: relative;
+    display: none;
+    background-color: #fff8dc;
+    border: thin solid #ffe4b5;
+    padding: .25em;
+    margin-top:1em;
+    margin-bottom:1em;
+    transform: none;
+    left: 0;
+    width: 100%;
+    /* max-width: 25rem; */
+    font-size: 1rem !important;
+    font-weight: normal !important;
+    z-index: 100;
+}
+
+.diarium .visible, .diarium .visible *  {
+    font-weight: inherit;
+    /*background-color: #fffa9c;*/
+    z-index: 100;
+    display: inline-block;
+    text-align: left;
+}
+
+}

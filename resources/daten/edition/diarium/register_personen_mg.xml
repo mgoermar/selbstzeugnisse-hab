@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" n="Register" xml:id="edition.register_personen.xml">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+            Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+            – Register</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+                Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+                August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+            </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>Personen</head>
+            <listPerson xml:id="person">
+                <person xml:id="bocer_heinrich">
+                    <persName ref="http://d-nb.info/gnd/117608750">
+                        <forename>Heinrich</forename>
+                        <surname>Bocer</surname>
+                    </persName>
+                    <persName type="display">Bocer, Heinrich</persName>
+                    <birth>1561</birth>
+                    <death>1630</death>
+                    <note>Gebürtig aus Salzkotten in Ostwestfalen; ab 1577 Studium (Jura) in Marburg, Helmstedt, Heidelberg und Straßburg; 1585 Promotion zum Dr. jur. in Tübingen; ab 1587 Beisitzer des württembergischen Hofgerichts; ab 1595 Juraprofessor in Tübingen; 1608 Ernennung zum herzoglich-württembergischen Rat.</note>
+                </person>
+                <person xml:id="braunschweig-dannenberg_franz">
+                    <persName ref="http://d-nb.info/gnd/122575083">
+                        <roleName>Herzog</roleName>
+                        <forename>Franz</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Braunschweig-Dannenberg</surname>
+                    </persName>
+                    <persName type="display">Braunschweig-Dannenberg, Franz, Herzog von</persName>
+                    <birth>1572</birth>
+                    <death>1601</death>
+                    <note>Sohn von <rs type="person" ref="#braunschweig-dannenberg_heinrich">Herzog Heinrich von Braunschweig-Dannenberg</rs> (1533-1598) und älterer Bruder von August d. J.; Domherr oder Dompropst in Straßburg.; ertrank bei einem Reitunfall.</note>                   
+                </person>
+                <person xml:id="braunschweig-dannenberg_heinrich">
+                    <persName ref="http://d-nb.info/gnd/134198093">
+                        <roleName>Herzog</roleName>
+                        <forename>Heinrich</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Braunschweig-Dannenberg</surname>
+                    </persName>
+                    <persName type="display">Braunschweig-Dannenberg, Heinrich, Herzog von</persName>
+                    <birth>1533</birth>
+                    <death>1598</death>
+                    <note>Sohn von Herzog Ernst I. (dem Bekenner) von Braunschweig-Lünebürg (1497-1546); Vater von August d. J.; 1559-69 gemeinsame Regierung des Fürstentums Lüneburg mit seinem Bruder Wilhelm d. J. (1535-1592); ab 1569 Regent der Herrschaft Dannenberg.</note>                   
+                </person>
+                <person xml:id="braunschweig-dannenberg_julius_ernst">
+                    <persName ref="http://d-nb.info/gnd/121123553">
+                        <roleName>Herzog</roleName>
+                        <forename>Julius Ernst</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Braunschweig-Dannenberg</surname>
+                    </persName>
+                    <persName type="display">Braunschweig-Dannenberg, Julius Ernst, Herzog von</persName>
+                    <birth>1572</birth>
+                    <death>1601</death>
+                    <note>Sohn von <rs type="person" ref="#braunschweig-dannenberg_heinrich">Herzog Heinrich von Braunschweig-Dannenberg</rs> (1533-1598) und älterer Bruder von August d. J.; seit 1598 Regent der Herrschaft Dannenberg.</note>                   
+                </person>
+                <person xml:id="braunschweig-dannenberg_ursula">
+                    <persName ref="http://d-nb.info/gnd/13687679X">
+                        <roleName>Herzogin</roleName>
+                        <forename>Ursula</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Braunschweig-Dannenberg</surname>
+                    </persName>
+                    <persName type="display">Braunschweig-Dannenberg, Ursula, Herzogin von</persName>
+                    <persName type="birthName">
+                        <roleName>Herzogin</roleName>
+                        <forename>Ursula</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Sachsen-Lauenburg</surname>
+                    </persName>
+                    <persName>Sachsen-Lauenburg, Ursula, Herzogin von</persName>
+                    <birth>1545</birth>
+                    <death>1620</death>
+                    <note>Tochter des Herzogs Franz I. von Sachsen-Lauenburg (1510-1581); 1569-98 Ehe mit <rs type="person" ref="#braunschweig-dannenberg_heinrich">Herzog Heinrich von Braunschweig-Dannenberg</rs> (1533-1598); wohnte danach auf ihrem Witwensitz, dem ehemaligen Kloster Scharnebeck; Mutter von August d. J.</note>                   
+                </person>
+                <person xml:id="braunschweig-lueneburg_ernst_ii">
+                    <persName ref="http://d-nb.info/gnd/118018051">
+                        <roleName>Herzog</roleName>
+                        <forename>Ernst II.</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Braunschweig-Lüneburg</surname>
+                    </persName>
+                    <persName type="display">Braunschweig-Lüneburg, Ernst II., Herzog von</persName>
+                    <birth>1564/65</birth>
+                    <death>1611</death>
+                    <note>Sohn von Herzog Wilhelm d. J. von Braunschweig-Lüneburg (1535-1592) und Cousin von August d. J.; seit 1592 regierender Herzog des Fürstentums Lüneburg, bis 1600 mit seinem Bruder Christian (1566-1633) und den Ständen, danach allein.</note>
+                </person>
+                <person xml:id="chemnitz_martin">
+                    <persName ref="http://d-nb.info/gnd/118829157">
+                        <forename>Martin</forename>
+                        <surname>Chemnitz</surname>
+                    </persName>
+                    <persName type="display">Chemnitz, Martin</persName>
+                    <birth>1522</birth>
+                    <death>1586</death>
+                    <note>Sohn des Tuchmachers Paul Chemnitz (gest. 1533); 1543-48 Studium in Frankfurt (Oder), Wittenberg und Königsberg; ab 1550 herzoglicher Bibliothekar in Königsberg; ab 1553 Dozent in Wittenberg; ab 1554 Koadjutor des Superintendenten Joachim Mörlin (1514-1571) in Braunschweig; 1567-84 Superintendent in Braunschweig; 1568 Promotion zum Dr. theol. in Rostock; war unter anderem an der Einführung der Reformation im Herzogtum Braunschweig-Wolfenbüttel und 1576 an der Gründung der Universität Helmstedt beteiligt.</note>
+                </person>
+                <person xml:id="daenemark_christian_iv">
+                    <persName ref="http://d-nb.info/gnd/118676059">
+                        <forename>Christian IV.</forename>
+                        <surname type="toponymic">Dänemark und Norwegen</surname>
+                        <roleName>König</roleName>
+                        <nameLink>von</nameLink>
+                    </persName>
+                    <persName type="display">Christian IV., König von Dänemark und Norwegen</persName>
+                    <persName>
+                        <forename>Christian IV.</forename>
+                        <surname type="toponymic">Schleswig-Holstein</surname>
+                        <roleName>Herzog</roleName>
+                        <nameLink>von</nameLink>
+                    </persName>
+                    <persName>Schleswig-Holstein, Christian IV., Herzog von</persName>
+                    <birth>1577</birth>
+                    <death>1648</death>
+                    <note>Sohn des Königs Friedrich II.
+                        von Dänemark und Norwegen (1534-1588); ab 1588 König von Dänemark und
+                        Norwegen sowie regierender Herzog von Schleswig und Holstein (bis 1593/96 unter
+                        Vormundschaft).</note>
+                </person>
+                <person xml:id="diez_moritz">
+                    <persName><!--https://www.wikidata.org/wiki/Q75713973-->
+                        <forename>Moritz</forename>
+                        <roleName>Graf</roleName>
+                        <nameLink>zu</nameLink>
+                        <surname type="toponymic">Diez</surname>
+                    </persName>
+                    <persName type="display">Diez, Moritz, Graf zu</persName>
+                    <birth>1553</birth>
+                    <death>1575</death>
+                    <note>Sohn des Landgrafen Philipp I. von Hessen (1504-1567) aus dessen 1540 geschlossener Zweitehe mit Margarethe von der Saale (1522-1566); Studium in Marburg und Tübingen; kurz danach an einer Krankheit gestorben.</note>
+                </person>
+                <person xml:id="kurland_wilhelm">                    
+                    <persName ref="http://d-nb.info/gnd/130001961">
+                        <forename>Wilhelm</forename>
+                        <roleName>Herzog</roleName>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Kurland und Semgallen</surname>
+                    </persName>
+                    <persName type="display">Kurland, Wilhelm, Herzog von</persName>
+                    <persName>
+                        <forename>Wilhelm</forename>
+                        <surname>Kettler</surname>
+                    </persName>
+                    <persName>Kettler, Wilhelm</persName>
+                    <birth>1574</birth>
+                    <death>1640</death>
+                    <note>Sohn von Gotthard Kettler (1517-1587; ehemaliger Landmeister des Deutschen Ordens in Livland, ab 1561 Herzog von Kurland und Semgallen); Studium in Rostock (ab 1590/91) und Tübingen; ab 1587 Herzog von Kurland und Semgallen mit seinem Bruder Friedrich (1569-1542); 1596 Erbteilung, bei der Wilhelm Kurland erhält; 1616 Absetzung durch die kurländischen Landstände, denach Exil in Pommern; ab 1628 Dompropst von Kucklow.</note>
+                </person>
+                <person xml:id="melanchthon_philipp">
+                    <persName ref="http://d-nb.info/gnd/118580485">
+                        <forename>Philipp</forename>
+                        <surname>Melanchthon</surname>
+                    </persName>
+                    <persName type="display">Melanchthon, Philipp</persName>
+                    <birth>1497</birth>
+                    <death>1560</death>
+                    <note>Sohn des Brettener Waffenschmieds Georg Schwartzerdt (um 1459–1508); Studium in Heidelberg (1509-12) und Tübingen (1512-1518); ab 1518 Griechischprofessor in Wittenberg; darüberhinaus wirkte Melanchthon als enger Freund und Mitarbeiter Luthers als Humanist, Theologe sowie kirchlicher und pädagogischer Reformator.</note>
+                </person>
+                <person xml:id="mors_antonius">
+                    <persName>
+                        <forename>Antonius</forename>
+                        <surname>Mors</surname>
+                    </persName>
+                    <persName type="display">Mors, Antonius</persName>
+                    <birth>um 1555</birth>
+                    <death>1619</death>
+                    <note>Gebürtig aus Schwerin, stammte aus einer Antwerpener Orgelbauer- und Organistenfamilie; 1573-1613 Organist der Jakobikirche in Rostock und bis 1603 der Herzöge von Mecklenburg-Güstrow; Komponist geistlicher und weltlicher Lieder. Vgl. Bugenhagen, Beate: Die Musikgeschichte Stralsunds im 16. und 17. Jahrhundert, Köln/Weimar/Wien 2015, S. 209f.</note>
+                </person>
+                <person xml:id="musaeus_samuel">
+                    <persName>
+                        <forename>Samuel</forename>
+                        <surname>Musaeus</surname>
+                    </persName>
+                    <persName type="display">Musaeus, Samuel</persName>
+                    <birth>vermutlich 1563</birth>
+                    <note>Möglicherweise in Schwerin geborener Sohn des lutherischen Geistlichen und Theologen Simon Musaeus (1521-1576); sonst ist nichts über ihn bekannt.</note>
+                </person>
+                <person xml:id="peter_1">
+                    <persName>
+                        <forename>Peter</forename>
+                        <surname>N. N. (1)</surname>
+                    </persName>
+                    <persName type="display">N. N., Peter</persName>
+                    <note>Um 1596 vermutlich Fechtmeister in Tübingen.</note><!--Nachprüfen in: http://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=858641445-->
+                </person>                
+                <person xml:id="pommern-stettin_philipp_ii">
+                    <persName ref="http://d-nb.info/gnd/102120137">
+                        <roleName>Herzog</roleName>
+                        <forename>Philipp II.</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Pommern-Stettin</surname>
+                    </persName>
+                    <persName type="display">Pommern-Stettin, Philipp II., Herzog von</persName>
+                    <birth>1573</birth>
+                    <death>1618</death>
+                    <note>Sohn von Herzog Bogislaw XIII. von Pommern (1544-1606); ab 1594 Studium in Rostock (dort Rektor); 1595-97 Bildungsreise über Süddeutschland nach Italien und in die habsburgischen Lande; ab 1603 Statthalter, ab 1606 Herzog von Pommern-Stettin; tat sich besonders als Förderer von Kunst und Wissenschaften hervor.</note>                    
+                </person>
+                <person xml:id="sachsen-lauenburg_moritz">
+                    <persName ref="http://d-nb.info/gnd/137568517">
+                        <roleName>Herzog</roleName>
+                        <forename>Moritz</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Sachsen-Lauenburg</surname>
+                    </persName>
+                    <persName type="display">Sachsen-Lauenburg, Moritz, Herzog von</persName>
+                    <birth>1551</birth>
+                    <death>1612</death>
+                    <note>Sohn des Herzogs Franz I. von Sachsen-Lauenburg (1510–1581); ab 1581 regierender Herzog von Sachsen-Lauenburg zusammen mit seinen Brüdern.</note>
+                </person>
+                <person xml:id="sayn-wittgenstein_ludwig_i">
+                    <persName ref="http://d-nb.info/gnd/132988054">
+                        <roleName>Graf</roleName>
+                        <forename>Ludwig I.</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Sayn-Wittgenstein</surname>
+                    </persName>
+                    <persName type="display">Sayn-Wittgenstein, Ludwig I., Graf von</persName>
+                    <birth>1532</birth>
+                    <death>1605</death>
+                    <note>Sohn des Grafen Wilhelm I. von Sayn-Wittgenstein (1488-1570); ab 1558 regierender Graf von Wittgnstein; 1574-77 und 1592-94 kurpfälzischer Großhofmeister in Heidelberg.</note>
+                </person>
+                <person xml:id="schatz_friedrich">
+                    <persName>
+                        <forename>Friedrich</forename>
+                        <surname>Schatz</surname>
+                    </persName>
+                    <persName type="display">Schatz, Friedrich</persName>
+                    <note>Hammerschmied und um 1594 Besitzer einer wassergetriebenen Hammermühle in Parkentin. Vgl. <ref target="http://mvdok.lbmv.de/resolve/id/mvdok_document_00003488/fulltext#page165">Wilhelm Stieda: Mecklenburgische Papiermühlen, in: Jahrbücher des Vereins für Mecklenburgische Geschichte und Altertumskunde, Band 80 (1915), S. 115-184, hier S. 161</ref>.</note>                    
+                </person>
+                <person xml:id="senden_theodor">
+                    <persName>
+                        <forename>Theodor</forename>
+                        <nameLink>(von)</nameLink>
+                        <surname>Senden</surname>
+                    </persName>
+                    <persName type="display">Senden, Theodor (von)</persName>
+                    <note>Geboren in Lübeck; Studium (Jura) in Basel und um 1592 in Frankfurt (Oder); herzoglich-mecklenburgischer Rat.</note>                    
+                </person>
+                <person xml:id="wallmoden_theodul_burchard">
+                    <persName ref="http://d-nb.info/gnd/134008952">
+                        <forename>Theodul Burchard</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Wallmoden</surname>
+                    </persName>
+                    <persName type="display">Walmoden, Theodul Burchard von</persName>
+                    <birth>1577</birth>
+                    <death>1629</death>
+                    <note>Sohn des niedersächsischen Adligen Theodul (Thedel) von Wallmoden (1542-1610); 1595-1598 zusammen mit August d. J. Studium in Tübingen; Erbherr auf Wallmoden und Hohenrode.</note>
+                </person>
+                <person xml:id="walther_simon">
+                    <persName ref="http://d-nb.info/gnd/119863243">
+                        <forename>Simon</forename>
+                        <surname>Walther (Walder)</surname>
+                    </persName>
+                    <persName type="display">Walther (Walder), Simon</persName>
+                    <death>1638/39</death>
+                    <note>Geboren in Kolberg; ab 1574 Studium (Jura) in Helmstedt; später Rat des Herzogs Heinrich von Braunschweig-Dannenberg (1533-1598), des Vaters von August d. J., in Celle; im August 1594, unter dem Rektorat Augusts, Immatrikulation und Promotion zum Dr. iur. in Rostock.</note>                    
+                </person>
+                <person xml:id="watzdorf_volrat">
+                    <persName ref="http://d-nb.info/gnd/1082760331">
+                        <forename>Volrat</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Watzdorf</surname>
+                    </persName>
+                    <persName type="display">Watzdorf, Volrat von</persName>
+                    <birth>1559</birth>
+                    <death>1623</death>
+                    <note>Angehöriger des sächsisch-thüringischen Adelsgeschlechts; ab 1595 Hofmeister Augusts d. J.</note>
+                </person>
+                <person xml:id="willebrand_nicolaus">
+                    <persName ref="http://d-nb.info/gnd/102425108">
+                        <forename>Nicolaus</forename>
+                        <surname>Willebrand</surname>
+                    </persName>
+                    <persName type="display">Willebrand, Nicolaus</persName>
+                    <birth>1566</birth>
+                    <death>1613</death>
+                    <note>Sohn des mecklenburgischen Theologen Peter Willebrand; ab 1586 Jurastudium in Rostock, 1590 Wechsel nach Frankfurt (Oder); 1593 Dozent, ab 1594 Ethikprofessor in Rostock; 1596 Dr. iur.</note>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>

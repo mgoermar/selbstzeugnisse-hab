@@ -1,0 +1,1033 @@
+Source,Target,property,Date
+gnd_124700470,K10plus_237048752,owner,"1701, 1707"
+gnd_118621793,K10plus_237048752,creator,1720
+beacon_ddb,gnd_118621793,contains,2021
+beacon_apd,gnd_118621793,contains,2021
+beacon_wkp,gnd_118621793,contains,2021
+beacon_sandrart,gnd_118621793,contains,2021
+beacon_kall,gnd_118621793,contains,2021
+beacon_berlin1800,gnd_118621793,contains,2021
+beacon_humbdig,gnd_118621793,contains,2021
+beacon_dpi,gnd_118621793,contains,2021
+beacon_vkk,gnd_118621793,contains,2021
+beacon_gpd,gnd_118621793,contains,2021
+beacon_vd16,gnd_118621793,contains,2021
+beacon_ecod,gnd_118621793,contains,2021
+gnd_118725785,K10plus_237048752,creator,1720
+beacon_ddb,gnd_118725785,contains,2021
+beacon_apd,gnd_118725785,contains,2021
+beacon_wkp,gnd_118725785,contains,2021
+beacon_kall,gnd_118725785,contains,2021
+beacon_dpi,gnd_118725785,contains,2021
+beacon_vkk,gnd_118725785,contains,2021
+gnd_11900478X,K10plus_237048752,contributor,1720
+beacon_ddb,gnd_11900478X,contains,2021
+beacon_apd,gnd_11900478X,contains,2021
+beacon_wkp,gnd_11900478X,contains,2021
+beacon_kall,gnd_11900478X,contains,2021
+beacon_dpi,gnd_11900478X,contains,2021
+Wetstein,K10plus_237048752,publisher,1720
+Amsterdam,K10plus_237048752,place,1720
+gnd_124700470,VD18_14376083,owner,"1701, 1707"
+[S.l.],VD18_14376083,place,1712
+Streitschrift:jur.,VD18_14376083,subject,1712
+gnd_124700470,K10plus_595406939,owner,"1701, 1707"
+"Montfort, Louis",K10plus_595406939,creator,1712
+Roger,K10plus_595406939,publisher,1712
+Amsterdam,K10plus_595406939,place,1712
+gnd_124700470,K10plus_250753391,owner,"1701, 1707"
+gnd_117702269,K10plus_250753391,contributor,1712
+beacon_ddb,gnd_117702269,contains,2021
+beacon_wkp,gnd_117702269,contains,2021
+beacon_kall,gnd_117702269,contains,2021
+Coup,K10plus_250753391,publisher,1712
+Amsterdam,K10plus_250753391,place,1712
+gnd_124700470,K10plus_250752980,owner,"1701, 1707"
+gnd_117702269,K10plus_250752980,contributor,1712
+beacon_ddb,gnd_117702269,contains,2021
+beacon_wkp,gnd_117702269,contains,2021
+beacon_kall,gnd_117702269,contains,2021
+Coup,K10plus_250752980,publisher,1712
+Amsterdam,K10plus_250752980,place,1712
+gnd_124700470,K10plus_23610506X,owner,"1701, 1707"
+gnd_121889556,K10plus_23610506X,creator,1712
+beacon_ddb,gnd_121889556,contains,2021
+beacon_dpi,gnd_121889556,contains,2021
+gnd_128597771,K10plus_23610506X,contributor,1712
+beacon_ddb,gnd_128597771,contains,2021
+beacon_jdg,gnd_128597771,contains,2021
+Haak,K10plus_23610506X,publisher,1712
+Leide,K10plus_23610506X,place,1712
+gnd_124700470,K10plus_150965478,owner,"1701, 1707"
+Scheltus,K10plus_150965478,publisher,1712
+[s'Gravenhage],K10plus_150965478,place,1712
+gnd_124700470,VD18_10221069-004,owner,"1701, 1707"
+gnd_1055513329,VD18_10221069-004,creator,1712
+beacon_kall,gnd_1055513329,contains,2021
+Cölln,VD18_10221069-004,place,1712
+gnd_124700470,K10plus_150381794,owner,"1701, 1707"
+gnd_1055323457,K10plus_150381794,creator,1712
+beacon_ddb,gnd_1055323457,contains,2021
+Roger,K10plus_150381794,publisher,1712
+Amsterdam,K10plus_150381794,place,1712
+gnd_124700470,K10plus_14765842X,owner,"1701, 1707"
+gnd_1055469648,K10plus_14765842X,creator,1712
+Londres,K10plus_14765842X,place,1712
+gnd_124700470,VD18_11405236-001,owner,"1701, 1707"
+gnd_117014931,VD18_11405236-001,creator,1712
+beacon_ddb,gnd_117014931,contains,2021
+beacon_wkp,gnd_117014931,contains,2021
+beacon_db,gnd_117014931,contains,2021
+beacon_kall,gnd_117014931,contains,2021
+beacon_dta,gnd_117014931,contains,2021
+beacon_cors,gnd_117014931,contains,2021
+Gleditsch,VD18_11405236-001,publisher,1712
+Weidmann,VD18_11405236-001,publisher,1712
+Leipzig,VD18_11405236-001,place,1712
+Leipzig,VD18_11405236-001,place,1712
+gnd_124700470,K10plus_829182470,owner,"1701, 1707"
+gnd_120538253,K10plus_829182470,creator,1711
+beacon_ddb,gnd_120538253,contains,2021
+beacon_wkp,gnd_120538253,contains,2021
+beacon_hls,gnd_120538253,contains,2021
+beacon_jen,gnd_120538253,contains,2021
+beacon_kall,gnd_120538253,contains,2021
+beacon_dpi,gnd_120538253,contains,2021
+beacon_vkk,gnd_120538253,contains,2021
+Acher,K10plus_829182470,publisher,1711
+Rotterdam,K10plus_829182470,place,1711
+gnd_124700470,K10plus_360588395,owner,"1701, 1707"
+gnd_119080370,K10plus_360588395,creator,1711
+beacon_ddb,gnd_119080370,contains,2021
+Kinkius,K10plus_360588395,publisher,1711
+Cologne,K10plus_360588395,place,1711
+gnd_124700470,K10plus_243633238,owner,"1701, 1707"
+gnd_100144489,K10plus_243633238,creator,1711
+beacon_ddb,gnd_100144489,contains,2021
+beacon_kall,gnd_100144489,contains,2021
+beacon_dpi,gnd_100144489,contains,2021
+"De Voys",K10plus_243633238,publisher,1711
+LaHaye,K10plus_243633238,place,1711
+gnd_124700470,K10plus_236485989,owner,"1701, 1707"
+gnd_119080370,K10plus_236485989,creator,1711
+beacon_ddb,gnd_119080370,contains,2021
+Kenkus,K10plus_236485989,publisher,1711
+Cologne,K10plus_236485989,place,1711
+gnd_124700470,K10plus_236483579,owner,"1701, 1707"
+gnd_119080370,K10plus_236483579,creator,1711
+beacon_ddb,gnd_119080370,contains,2021
+Kenkus,K10plus_236483579,publisher,1711
+Cologne,K10plus_236483579,place,1711
+gnd_124700470,VD18_10453261,owner,"1701, 1707"
+gnd_117653713,VD18_10453261,creator,1711
+beacon_ddb,gnd_117653713,contains,2021
+beacon_wkp,gnd_117653713,contains,2021
+beacon_db,gnd_117653713,contains,2021
+beacon_saebi,gnd_117653713,contains,2021
+beacon_gesa,gnd_117653713,contains,2021
+beacon_kall,gnd_117653713,contains,2021
+beacon_dpi,gnd_117653713,contains,2021
+beacon_jdg,gnd_117653713,contains,2021
+gnd_116912731,VD18_10453261,contributor,1711
+beacon_ddb,gnd_116912731,contains,2021
+beacon_saebi,gnd_116912731,contains,2021
+beacon_gesa,gnd_116912731,contains,2021
+beacon_kall,gnd_116912731,contains,2021
+beacon_dta,gnd_116912731,contains,2021
+beacon_dpi,gnd_116912731,contains,2021
+Braun,VD18_10453261,publisher,1711
+Leipzig,VD18_10453261,place,1711
+Streitschrift:theol.,VD18_10453261,subject,1711
+gnd_124700470,K10plus_215076435,owner,"1701, 1707"
+gnd_119462222,K10plus_215076435,creator,1711
+beacon_ddb,gnd_119462222,contains,2021
+Swart,K10plus_215076435,publisher,1711
+"La Haye",K10plus_215076435,place,1711
+gnd_124700470,K10plus_186712855,owner,"1701, 1707"
+gnd_119080370,K10plus_186712855,contributor,1711
+beacon_ddb,gnd_119080370,contains,2021
+Kinkius,K10plus_186712855,publisher,1711
+Cologne,K10plus_186712855,place,1711
+gnd_124700470,K10plus_186712839,owner,"1701, 1707"
+gnd_119080370,K10plus_186712839,contributor,1711
+beacon_ddb,gnd_119080370,contains,2021
+Kinkius,K10plus_186712839,publisher,1711
+Cologne,K10plus_186712839,place,1711
+gnd_124700470,K10plus_186712804,owner,"1701, 1707"
+gnd_119080370,K10plus_186712804,contributor,1711
+beacon_ddb,gnd_119080370,contains,2021
+Kinkius,K10plus_186712804,publisher,1711
+Cologne,K10plus_186712804,place,1711
+gnd_124700470,K10plus_151704813,owner,"1701, 1707"
+gnd_118677284,K10plus_151704813,creator,1711
+beacon_ddb,gnd_118677284,contains,2021
+beacon_apd,gnd_118677284,contains,2021
+beacon_wkp,gnd_118677284,contains,2021
+beacon_kall,gnd_118677284,contains,2021
+beacon_dpi,gnd_118677284,contains,2021
+beacon_vkk,gnd_118677284,contains,2021
+Johnson,K10plus_151704813,publisher,1711
+"La Haye",K10plus_151704813,place,1711
+gnd_124700470,K10plus_151681449,owner,"1701, 1707"
+gnd_118808788,K10plus_151681449,creator,1711
+beacon_ddb,gnd_118808788,contains,2021
+beacon_wkp,gnd_118808788,contains,2021
+beacon_kall,gnd_118808788,contains,2021
+beacon_dpi,gnd_118808788,contains,2021
+Roger,K10plus_151681449,publisher,1711
+Amsterdam,K10plus_151681449,place,1711
+gnd_124700470,VD18_12838306,owner,"1701, 1707"
+gnd_12131412X,VD18_12838306,creator,1711
+beacon_ddb,gnd_12131412X,contains,2021
+beacon_wkp,gnd_12131412X,contains,2021
+beacon_gesa,gnd_12131412X,contains,2021
+beacon_dta,gnd_12131412X,contains,2021
+beacon_dpi,gnd_12131412X,contains,2021
+beacon_jdg,gnd_12131412X,contains,2021
+gnd_138517894,VD18_12838306,contributor,1711
+beacon_ddb,gnd_138517894,contains,2021
+beacon_db,gnd_138517894,contains,2021
+gnd_124700470,VD18_12838306,contributor,1711
+beacon_ddb,gnd_124700470,contains,2021
+beacon_wkp,gnd_124700470,contains,2021
+beacon_db,gnd_124700470,contains,2021
+beacon_gesa,gnd_124700470,contains,2021
+beacon_kall,gnd_124700470,contains,2021
+beacon_dpi,gnd_124700470,contains,2021
+beacon_vkk,gnd_124700470,contains,2021
+beacon_jdg,gnd_124700470,contains,2021
+beacon_aqhab,gnd_124700470,contains,2021
+"Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr.",VD18_12838306,publisher,1711
+gnd_4008065-1,VD18_12838306,place,1711
+Erbauungsliteratur,VD18_12838306,subject,1711
+gnd_124700470,K10plus_150881991,owner,"1701, 1707"
+gnd_118556126,K10plus_150881991,creator,1711
+beacon_ddb,gnd_118556126,contains,2021
+beacon_apd,gnd_118556126,contains,2021
+beacon_wkp,gnd_118556126,contains,2021
+beacon_sandrart,gnd_118556126,contains,2021
+beacon_kall,gnd_118556126,contains,2021
+beacon_berlin1800,gnd_118556126,contains,2021
+beacon_humbdig,gnd_118556126,contains,2021
+beacon_dpi,gnd_118556126,contains,2021
+beacon_vkk,gnd_118556126,contains,2021
+beacon_gpa,gnd_118556126,contains,2021
+beacon_cmvw,gnd_118556126,contains,2021
+beacon_ecod,gnd_118556126,contains,2021
+gnd_1012625001,K10plus_150881991,contributor,1711
+beacon_ddb,gnd_1012625001,contains,2021
+beacon_dpi,gnd_1012625001,contains,2021
+"^[Drucker:] Stamperia del Seminario",K10plus_150881991,publisher,1711
+Padova,K10plus_150881991,place,1711
+gnd_124700470,K10plus_150600720,owner,"1701, 1707"
+gnd_120538253,K10plus_150600720,creator,1711
+beacon_ddb,gnd_120538253,contains,2021
+beacon_wkp,gnd_120538253,contains,2021
+beacon_hls,gnd_120538253,contains,2021
+beacon_jen,gnd_120538253,contains,2021
+beacon_kall,gnd_120538253,contains,2021
+beacon_dpi,gnd_120538253,contains,2021
+beacon_vkk,gnd_120538253,contains,2021
+"Fritsch & Böhm",K10plus_150600720,publisher,1711
+Rotterdam,K10plus_150600720,place,1711
+gnd_124700470,K10plus_150346719,owner,"1701, 1707"
+gnd_100140858,K10plus_150346719,creator,1711
+beacon_ddb,gnd_100140858,contains,2021
+Backer,K10plus_150346719,publisher,1711
+Brusselles,K10plus_150346719,place,1711
+gnd_124700470,K10plus_150342829,owner,"1701, 1707"
+gnd_128597771,K10plus_150342829,creator,1711
+beacon_ddb,gnd_128597771,contains,2021
+beacon_jdg,gnd_128597771,contains,2021
+"Vitriarius, Jean Jacques",K10plus_150342829,contributor,1711
+Broedelet,K10plus_150342829,publisher,1711
+Poolsum,K10plus_150342829,publisher,1711
+Utrecht,K10plus_150342829,place,1711
+Utrecht,K10plus_150342829,place,1711
+gnd_124700470,VD18_12955116,owner,"1701, 1707"
+[S.l.],VD18_12955116,place,1710
+Gelegenheitsschrift,VD18_12955116,subject,1710
+gnd_124700470,K10plus_151586829,owner,"1701, 1707"
+gnd_118787446,K10plus_151586829,creator,1710
+beacon_ddb,gnd_118787446,contains,2021
+beacon_wkp,gnd_118787446,contains,2021
+beacon_dpi,gnd_118787446,contains,2021
+gnd_172224861,K10plus_151586829,contributor,1710
+Ribou,K10plus_151586829,publisher,1710
+Paris,K10plus_151586829,place,1710
+gnd_124700470,VD18_12838292,owner,"1701, 1707"
+gnd_12131412X,VD18_12838292,creator,1710
+beacon_ddb,gnd_12131412X,contains,2021
+beacon_wkp,gnd_12131412X,contains,2021
+beacon_gesa,gnd_12131412X,contains,2021
+beacon_dta,gnd_12131412X,contains,2021
+beacon_dpi,gnd_12131412X,contains,2021
+beacon_jdg,gnd_12131412X,contains,2021
+Zilliger,VD18_12838292,publisher,1710
+Braunschweig,VD18_12838292,place,1710
+gnd_124700470,K10plus_150789556,owner,"1701, 1707"
+LeSincere,K10plus_150789556,publisher,1710
+o.O.,K10plus_150789556,place,1710
+gnd_124700470,VD18_10222405-009,owner,"1701, 1707"
+gnd_116021675,VD18_10222405-009,creator,1710
+beacon_ddb,gnd_116021675,contains,2021
+beacon_wkp,gnd_116021675,contains,2021
+beacon_db,gnd_116021675,contains,2021
+beacon_gesa,gnd_116021675,contains,2021
+beacon_kall,gnd_116021675,contains,2021
+beacon_dpi,gnd_116021675,contains,2021
+[S.l.],VD18_10222405-009,place,1710
+gnd_124700470,K10plus_146978870,owner,"1701, 1707"
+gnd_12232319X,K10plus_146978870,creator,1710
+beacon_ddb,gnd_12232319X,contains,2021
+beacon_wkp,gnd_12232319X,contains,2021
+beacon_dpi,gnd_12232319X,contains,2021
+beacon_vkk,gnd_12232319X,contains,2021
+"de Backer",K10plus_146978870,publisher,1710
+Brusselles,K10plus_146978870,place,1710
+gnd_124700470,VD18_14631520-004,owner,"1701, 1707"
+Lorber,VD18_14631520-004,publisher,1710
+Erlangen,VD18_14631520-004,place,1710
+gnd_124700470,K10plus_134055551,owner,"1701, 1707"
+gnd_118573748,K10plus_134055551,creator,1710
+beacon_ddb,gnd_118573748,contains,2021
+beacon_apd,gnd_118573748,contains,2021
+beacon_wkp,gnd_118573748,contains,2021
+beacon_kall,gnd_118573748,contains,2021
+beacon_humbdig,gnd_118573748,contains,2021
+beacon_dpi,gnd_118573748,contains,2021
+beacon_jdg,gnd_118573748,contains,2021
+"Fritsch & Böhm",K10plus_134055551,publisher,1710
+Rotterdam,K10plus_134055551,place,1710
+gnd_124700470,VD18_11261765-001,owner,"1701, 1707"
+gnd_118593293,VD18_11261765-001,creator,1709
+beacon_ddb,gnd_118593293,contains,2021
+beacon_apd,gnd_118593293,contains,2021
+beacon_wkp,gnd_118593293,contains,2021
+beacon_sandrart,gnd_118593293,contains,2021
+beacon_kall,gnd_118593293,contains,2021
+beacon_berlin1800,gnd_118593293,contains,2021
+beacon_humbdig,gnd_118593293,contains,2021
+beacon_dpi,gnd_118593293,contains,2021
+beacon_vd16,gnd_118593293,contains,2021
+beacon_jdg,gnd_118593293,contains,2021
+gnd_118831917,VD18_11261765-001,contributor,1709
+beacon_ddb,gnd_118831917,contains,2021
+beacon_berlin1800,gnd_118831917,contains,2021
+[S.l.],VD18_11261765-001,place,1709
+gnd_124700470,K10plus_151090645,owner,"1701, 1707"
+gnd_130060836,K10plus_151090645,creator,1709
+beacon_ddb,gnd_130060836,contains,2021
+beacon_wkp,gnd_130060836,contains,2021
+Desbordes,K10plus_151090645,publisher,1709
+Amsterdam,K10plus_151090645,place,1709
+gnd_124700470,VD18_13349112,owner,"1701, 1707"
+gnd_133492966,VD18_13349112,creator,1708
+gnd_116996501,VD18_13349112,contributor,1708
+beacon_ddb,gnd_116996501,contains,2021
+beacon_wkp,gnd_116996501,contains,2021
+beacon_aqhab,gnd_116996501,contains,2021
+gnd_1037506340,VD18_13349112,contributor,1708
+beacon_ddb,gnd_1037506340,contains,2021
+"bey Gottfried Liebernickel",VD18_13349112,publisher,1708
+Hamburg,VD18_13349112,place,1708
+"Ars moriendi",VD18_13349112,subject,1708
+gnd_124700470,K10plus_330455036,owner,"1701, 1707"
+gnd_118696874,K10plus_330455036,creator,1708
+beacon_ddb,gnd_118696874,contains,2021
+beacon_wkp,gnd_118696874,contains,2021
+beacon_kall,gnd_118696874,contains,2021
+beacon_jdg,gnd_118696874,contains,2021
+Ellinckhuysen,K10plus_330455036,publisher,1708
+"La Haye",K10plus_330455036,place,1708
+gnd_124700470,K10plus_33045501X,owner,"1701, 1707"
+gnd_118696874,K10plus_33045501X,creator,1708
+beacon_ddb,gnd_118696874,contains,2021
+beacon_wkp,gnd_118696874,contains,2021
+beacon_kall,gnd_118696874,contains,2021
+beacon_jdg,gnd_118696874,contains,2021
+Ellinckhuysen,K10plus_33045501X,publisher,1708
+"La Haye",K10plus_33045501X,place,1708
+gnd_124700470,K10plus_237690055,owner,"1701, 1707"
+gnd_118808788,K10plus_237690055,creator,1708
+beacon_ddb,gnd_118808788,contains,2021
+beacon_wkp,gnd_118808788,contains,2021
+beacon_kall,gnd_118808788,contains,2021
+beacon_dpi,gnd_118808788,contains,2021
+"De Backer",K10plus_237690055,publisher,1708
+Brusselle,K10plus_237690055,place,1708
+gnd_124700470,K10plus_235847062,owner,"1701, 1707"
+gnd_118696874,K10plus_235847062,creator,1708
+beacon_ddb,gnd_118696874,contains,2021
+beacon_wkp,gnd_118696874,contains,2021
+beacon_kall,gnd_118696874,contains,2021
+beacon_jdg,gnd_118696874,contains,2021
+Ellinckhuysen,K10plus_235847062,publisher,1708
+"La Haye",K10plus_235847062,place,1708
+gnd_124700470,K10plus_150292511,owner,"1701, 1707"
+gnd_120374307,K10plus_150292511,creator,1708
+beacon_ddb,gnd_120374307,contains,2021
+beacon_dpi,gnd_120374307,contains,2021
+"Chevreuse, ...",K10plus_150292511,contributor,1708
+Schelte,K10plus_150292511,publisher,1708
+Amsterdam,K10plus_150292511,place,1708
+Handbuch,K10plus_150292511,subject,1708
+gnd_124700470,K10plus_25375111X,owner,"1701, 1707"
+gnd_128681667,K10plus_25375111X,creator,1707
+beacon_ddb,gnd_128681667,contains,2021
+beacon_wkp,gnd_128681667,contains,2021
+beacon_dpi,gnd_128681667,contains,2021
+beacon_vkk,gnd_128681667,contains,2021
+Fricx,K10plus_25375111X,publisher,1707
+Bruxelles,K10plus_25375111X,place,1707
+gnd_124700470,VD18_12388920-004,owner,"1701, 1707"
+gnd_104043806,VD18_12388920-004,creator,1707
+beacon_ddb,gnd_104043806,contains,2021
+beacon_wkp,gnd_104043806,contains,2021
+beacon_db,gnd_104043806,contains,2021
+beacon_kall,gnd_104043806,contains,2021
+beacon_bach,gnd_104043806,contains,2021
+Gleditsch,VD18_12388920-004,publisher,1707
+Leipzig,VD18_12388920-004,place,1707
+gnd_124700470,VD18_10239014-003,owner,"1701, 1707"
+Rastatt,VD18_10239014-003,place,1707
+gnd_124700470,K10plus_151605971,owner,"1701, 1707"
+gnd_120006294,K10plus_151605971,creator,1707
+beacon_ddb,gnd_120006294,contains,2021
+beacon_dpi,gnd_120006294,contains,2021
+"Brunet & Rigaut",K10plus_151605971,publisher,1707
+Leonard,K10plus_151605971,publisher,1707
+Paris,K10plus_151605971,place,1707
+Bruxelles,K10plus_151605971,place,1707
+gnd_124700470,VD18_14373211-005,owner,"1701, 1707"
+Marteau,VD18_14373211-005,publisher,1707
+Cöln,VD18_14373211-005,place,1707
+gnd_124700470,K10plus_14680340X,owner,"1701, 1707"
+gnd_120538253,K10plus_14680340X,contributor,1706
+beacon_ddb,gnd_120538253,contains,2021
+beacon_wkp,gnd_120538253,contains,2021
+beacon_hls,gnd_120538253,contains,2021
+beacon_jen,gnd_120538253,contains,2021
+beacon_kall,gnd_120538253,contains,2021
+beacon_dpi,gnd_120538253,contains,2021
+beacon_vkk,gnd_120538253,contains,2021
+"Pierre Mortier",K10plus_14680340X,publisher,1706
+Amsterdam,K10plus_14680340X,place,1706
+gnd_124700470,VD18_10885366-ddd,owner,"1701, 1707"
+[S.l.],VD18_10885366-ddd,place,1705
+Flugschrift,VD18_10885366-ddd,subject,1705
+Satire,VD18_10885366-ddd,subject,1705
+gnd_124700470,K10plus_151033234,owner,"1701, 1707"
+gnd_118569775,K10plus_151033234,creator,1705
+beacon_ddb,gnd_118569775,contains,2021
+beacon_apd,gnd_118569775,contains,2021
+beacon_wkp,gnd_118569775,contains,2021
+beacon_kall,gnd_118569775,contains,2021
+beacon_dpi,gnd_118569775,contains,2021
+Mortier,K10plus_151033234,publisher,1705
+Amsterdam,K10plus_151033234,place,1705
+gnd_124700470,VD18_10885366-ddd,owner,"1701, 1707"
+[S.l.],VD18_10885366-ddd,place,1705
+Satire,VD18_10885366-ddd,subject,1705
+Flugschrift,VD18_10885366-ddd,subject,1705
+gnd_124700470,VD18_11525770,owner,"1701, 1707"
+Sincere,VD18_11525770,publisher,1704
+gnd_4031483-2,VD18_11525770,place,1704
+Ordensliteratur:Jesuiten,VD18_11525770,subject,1704
+gnd_124700470,VD18_14580349,owner,"1701, 1707"
+[S.l.],VD18_14580349,place,1704
+Flugschrift,VD18_14580349,subject,1704
+Satire,VD18_14580349,subject,1704
+gnd_124700470,VD18_10093591,owner,"1701, 1707"
+[S.l.],VD18_10093591,place,1704
+Flugschrift,VD18_10093591,subject,1704
+Satire,VD18_10093591,subject,1704
+Brief,VD18_10093591,subject,1704
+gnd_124700470,VD18_11086432,owner,"1701, 1707"
+[S.l.],VD18_11086432,place,1704
+Flugschrift,VD18_11086432,subject,1704
+Satire,VD18_11086432,subject,1704
+gnd_124700470,K10plus_134957520,owner,"1701, 1707"
+gnd_1055126783,K10plus_134957520,creator,1704
+Voys,K10plus_134957520,publisher,1704
+"La Haye",K10plus_134957520,place,1704
+gnd_124700470,VD18_12836362,owner,"1701, 1707"
+gnd_12348796X,VD18_12836362,creator,1701
+beacon_ddb,gnd_12348796X,contains,2021
+beacon_wkp,gnd_12348796X,contains,2021
+beacon_db,gnd_12348796X,contains,2021
+beacon_kall,gnd_12348796X,contains,2021
+beacon_dpi,gnd_12348796X,contains,2021
+beacon_cmvw,gnd_12348796X,contains,2021
+beacon_bach,gnd_12348796X,contains,2021
+beacon_jdg,gnd_12348796X,contains,2021
+Rohrlach,VD18_12836362,publisher,1701
+Ehrich,VD18_12836362,publisher,1701
+"Frankfurt, Main",VD18_12836362,place,1701
+Leipzig,VD18_12836362,place,1701
+Jena,VD18_12836362,place,1701
+gnd_124700470,VD18_14611392-003,owner,"1701, 1707"
+gnd_11878014X,VD18_14611392-003,creator,1701
+beacon_ddb,gnd_11878014X,contains,2021
+beacon_wkp,gnd_11878014X,contains,2021
+beacon_db,gnd_11878014X,contains,2021
+beacon_phoh,gnd_11878014X,contains,2021
+beacon_apw,gnd_11878014X,contains,2021
+beacon_kall,gnd_11878014X,contains,2021
+beacon_dpi,gnd_11878014X,contains,2021
+beacon_jdg,gnd_11878014X,contains,2021
+[S.l.],VD18_14611392-003,place,1701
+gnd_124700470,K10plus_136951821,owner,"1701, 1707"
+gnd_118560093,K10plus_136951821,creator,1700
+beacon_ddb,gnd_118560093,contains,2021
+beacon_apd,gnd_118560093,contains,2021
+beacon_wkp,gnd_118560093,contains,2021
+beacon_db,gnd_118560093,contains,2021
+beacon_hls,gnd_118560093,contains,2021
+beacon_blko,gnd_118560093,contains,2021
+beacon_blgs,gnd_118560093,contains,2021
+beacon_phoh,gnd_118560093,contains,2021
+beacon_gesa,gnd_118560093,contains,2021
+beacon_apw,gnd_118560093,contains,2021
+beacon_coco,gnd_118560093,contains,2021
+beacon_sandrart,gnd_118560093,contains,2021
+beacon_kall,gnd_118560093,contains,2021
+beacon_berlin1800,gnd_118560093,contains,2021
+beacon_cors,gnd_118560093,contains,2021
+beacon_humbdig,gnd_118560093,contains,2021
+beacon_muenz,gnd_118560093,contains,2021
+beacon_dpi,gnd_118560093,contains,2021
+beacon_vkk,gnd_118560093,contains,2021
+beacon_gpa,gnd_118560093,contains,2021
+beacon_gpd,gnd_118560093,contains,2021
+beacon_cmvw,gnd_118560093,contains,2021
+beacon_vd16,gnd_118560093,contains,2021
+beacon_jdg,gnd_118560093,contains,2021
+gnd_129426024,K10plus_136951821,contributor,1700
+beacon_ddb,gnd_129426024,contains,2021
+beacon_hls,gnd_129426024,contains,2021
+beacon_kall,gnd_129426024,contains,2021
+beacon_dpi,gnd_129426024,contains,2021
+beacon_jdg,gnd_129426024,contains,2021
+Dole,K10plus_136951821,publisher,1700
+"A la Haye",K10plus_136951821,place,1700
+gnd_124700470,K10plus_135733421,owner,"1701, 1707"
+gnd_137527616,K10plus_135733421,creator,1699
+beacon_ddb,gnd_137527616,contains,2021
+Guignard,K10plus_135733421,publisher,1699
+Paris,K10plus_135733421,place,1699
+Biographie,K10plus_135733421,subject,1699
+gnd_124700470,K10plus_236361856,owner,"1701, 1707"
+duVal,K10plus_236361856,publisher,1698
+Amsterdam,K10plus_236361856,place,1698
+gnd_124700470,K10plus_184827981,owner,"1701, 1707"
+gnd_11884296X,K10plus_184827981,creator,1698
+beacon_ddb,gnd_11884296X,contains,2021
+beacon_wkp,gnd_11884296X,contains,2021
+beacon_db,gnd_11884296X,contains,2021
+beacon_phoh,gnd_11884296X,contains,2021
+beacon_rpbio,gnd_11884296X,contains,2021
+beacon_mav,gnd_11884296X,contains,2021
+beacon_apw,gnd_11884296X,contains,2021
+beacon_kall,gnd_11884296X,contains,2021
+beacon_dpi,gnd_11884296X,contains,2021
+beacon_vd16,gnd_11884296X,contains,2021
+beacon_jdg,gnd_11884296X,contains,2021
+gnd_124408389,K10plus_184827981,contributor,1698
+beacon_ddb,gnd_124408389,contains,2021
+beacon_db,gnd_124408389,contains,2021
+Metternich,K10plus_184827981,publisher,1698
+"Coloniae Agrippina",K10plus_184827981,place,1698
+gnd_124700470,K10plus_620058943,owner,"1701, 1707"
+gnd_100115993,K10plus_620058943,creator,1697
+beacon_ddb,gnd_100115993,contains,2021
+beacon_kall,gnd_100115993,contains,2021
+beacon_dpi,gnd_100115993,contains,2021
+Pralard,K10plus_620058943,publisher,1697
+Paris,K10plus_620058943,place,1697
+gnd_124700470,K10plus_149903561,owner,"1701, 1707"
+gnd_118558900,K10plus_149903561,creator,1697
+beacon_ddb,gnd_118558900,contains,2021
+beacon_wkp,gnd_118558900,contains,2021
+beacon_kall,gnd_118558900,contains,2021
+beacon_dpi,gnd_118558900,contains,2021
+beacon_vkk,gnd_118558900,contains,2021
+beacon_jdg,gnd_118558900,contains,2021
+Troyel,K10plus_149903561,publisher,1697
+"La Haye",K10plus_149903561,place,1697
+gnd_124700470,VD17_3:614050Y,owner,"1701, 1707"
+gnd_12348796X,VD17_3:614050Y,creator,1696
+beacon_ddb,gnd_12348796X,contains,2021
+beacon_wkp,gnd_12348796X,contains,2021
+beacon_db,gnd_12348796X,contains,2021
+beacon_kall,gnd_12348796X,contains,2021
+beacon_dpi,gnd_12348796X,contains,2021
+beacon_cmvw,gnd_12348796X,contains,2021
+beacon_bach,gnd_12348796X,contains,2021
+beacon_jdg,gnd_12348796X,contains,2021
+Schrey,VD17_3:614050Y,publisher,1696
+Meyer,VD17_3:614050Y,publisher,1696
+"Frankfurt, Oder",VD17_3:614050Y,place,1696
+gnd_124700470,K10plus_223556645,owner,"1701, 1707"
+gnd_101503660,K10plus_223556645,creator,1696
+beacon_ddb,gnd_101503660,contains,2021
+Broncart,K10plus_223556645,publisher,1696
+Liege,K10plus_223556645,place,1696
+gnd_124700470,K10plus_719560519,owner,"1701, 1707"
+gnd_118784919,K10plus_719560519,creator,1695
+beacon_ddb,gnd_118784919,contains,2021
+beacon_wkp,gnd_118784919,contains,2021
+beacon_db,gnd_118784919,contains,2021
+beacon_cpr,gnd_118784919,contains,2021
+beacon_cprm,gnd_118784919,contains,2021
+beacon_gesa,gnd_118784919,contains,2021
+beacon_kall,gnd_118784919,contains,2021
+beacon_dta,gnd_118784919,contains,2021
+beacon_dpi,gnd_118784919,contains,2021
+beacon_vkk,gnd_118784919,contains,2021
+beacon_gpa,gnd_118784919,contains,2021
+beacon_jdg,gnd_118784919,contains,2021
+beacon_aqhab,gnd_118784919,contains,2021
+"Alefeld, Joachimus",K10plus_719560519,contributor,1695
+Böckmannus,K10plus_719560519,publisher,1695
+Lübeck,K10plus_719560519,place,1695
+gnd_124700470,K10plus_15086812X,owner,"1701, 1707"
+gnd_12348796X,K10plus_15086812X,creator,1694
+beacon_ddb,gnd_12348796X,contains,2021
+beacon_wkp,gnd_12348796X,contains,2021
+beacon_db,gnd_12348796X,contains,2021
+beacon_kall,gnd_12348796X,contains,2021
+beacon_dpi,gnd_12348796X,contains,2021
+beacon_cmvw,gnd_12348796X,contains,2021
+beacon_bach,gnd_12348796X,contains,2021
+beacon_jdg,gnd_12348796X,contains,2021
+Fellgiebel,K10plus_15086812X,publisher,1694
+Breßlau,K10plus_15086812X,place,1694
+gnd_124700470,K10plus_147204798,owner,"1701, 1707"
+gnd_119016915,K10plus_147204798,creator,1694
+beacon_ddb,gnd_119016915,contains,2021
+beacon_apd,gnd_119016915,contains,2021
+beacon_wkp,gnd_119016915,contains,2021
+beacon_db,gnd_119016915,contains,2021
+beacon_kall,gnd_119016915,contains,2021
+beacon_dpi,gnd_119016915,contains,2021
+beacon_vkk,gnd_119016915,contains,2021
+beacon_jdg,gnd_119016915,contains,2021
+Rotterdam,K10plus_147204798,publisher,1694
+Amsterdam,K10plus_147204798,place,1694
+gnd_124700470,VD17_7:694881V,owner,"1701, 1707"
+gnd_104217650,VD17_7:694881V,contributor,1692
+beacon_ddb,gnd_104217650,contains,2021
+beacon_db,gnd_104217650,contains,2021
+beacon_dpi,gnd_104217650,contains,2021
+beacon_jdg,gnd_104217650,contains,2021
+Boetius,VD17_7:694881V,publisher,1692
+Groschuff,VD17_7:694881V,publisher,1692
+Frankfurt,VD17_7:694881V,place,1692
+Gotha,VD17_7:694881V,place,1692
+Leipzig,VD17_7:694881V,place,1692
+gnd_124700470,K10plus_150211236,owner,"1701, 1707"
+gnd_100002307,K10plus_150211236,creator,1692
+beacon_ddb,gnd_100002307,contains,2021
+beacon_apd,gnd_100002307,contains,2021
+beacon_wkp,gnd_100002307,contains,2021
+beacon_db,gnd_100002307,contains,2021
+beacon_kall,gnd_100002307,contains,2021
+beacon_jdg,gnd_100002307,contains,2021
+Slaart,K10plus_150211236,publisher,1692
+Rotterdam,K10plus_150211236,place,1692
+Traktat,K10plus_150211236,subject,1692
+gnd_124700470,K10plus_486368920,owner,"1701, 1707"
+"Stamp. d. Accademia della Crusca",K10plus_486368920,publisher,1691
+Firenze,K10plus_486368920,place,1691
+gnd_124700470,K10plus_251813266,owner,"1701, 1707"
+gnd_118751123,K10plus_251813266,creator,1687
+beacon_ddb,gnd_118751123,contains,2021
+beacon_kall,gnd_118751123,contains,2021
+beacon_dpi,gnd_118751123,contains,2021
+beacon_vd16,gnd_118751123,contains,2021
+gnd_119298600,K10plus_251813266,contributor,1687
+beacon_ddb,gnd_119298600,contains,2021
+beacon_wkp,gnd_119298600,contains,2021
+beacon_db,gnd_119298600,contains,2021
+beacon_kall,gnd_119298600,contains,2021
+beacon_berlin1800,gnd_119298600,contains,2021
+beacon_bahnsen,gnd_119298600,contains,2021
+beacon_dpi,gnd_119298600,contains,2021
+beacon_vd16,gnd_119298600,contains,2021
+beacon_jdg,gnd_119298600,contains,2021
+gnd_119019914,K10plus_251813266,contributor,1687
+beacon_ddb,gnd_119019914,contains,2021
+beacon_wkp,gnd_119019914,contains,2021
+beacon_db,gnd_119019914,contains,2021
+beacon_kall,gnd_119019914,contains,2021
+beacon_berlin1800,gnd_119019914,contains,2021
+beacon_dpi,gnd_119019914,contains,2021
+Strickius,K10plus_251813266,publisher,1687
+Franequera,K10plus_251813266,place,1687
+gnd_124700470,VD17_3:604602L,owner,"1701, 1707"
+gnd_116400684,VD17_3:604602L,creator,1685
+beacon_ddb,gnd_116400684,contains,2021
+beacon_kall,gnd_116400684,contains,2021
+Gollner,VD17_3:604602L,publisher,1685
+Jena,VD17_3:604602L,place,1685
+gnd_124700470,VD17_1:008798Z,owner,"1701, 1707"
+gnd_121534006,VD17_1:008798Z,creator,1683
+beacon_ddb,gnd_121534006,contains,2021
+beacon_kall,gnd_121534006,contains,2021
+beacon_dpi,gnd_121534006,contains,2021
+beacon_jdg,gnd_121534006,contains,2021
+"Bridgeman, Orlandus",VD17_1:008798Z,contributor,1683
+"Parker, Sam.",VD17_1:008798Z,contributor,1683
+Otto,VD17_1:008798Z,publisher,1683
+Wiedemeyerus,VD17_1:008798Z,publisher,1683
+Lübeck,VD17_1:008798Z,place,1683
+"Frankfurt, Main",VD17_1:008798Z,place,1683
+gnd_124700470,K10plus_150019556,owner,"1701, 1707"
+gnd_124639089,K10plus_150019556,creator,1681
+beacon_ddb,gnd_124639089,contains,2021
+beacon_kall,gnd_124639089,contains,2021
+beacon_dpi,gnd_124639089,contains,2021
+Michalet,K10plus_150019556,publisher,1681
+Parisiis,K10plus_150019556,place,1681
+gnd_124700470,K10plus_151714266,owner,"1701, 1707"
+[S.l.],K10plus_151714266,place,1680
+gnd_124700470,VD17_1:072956R,owner,"1701, 1707"
+gnd_128616385,VD17_1:072956R,creator,1675
+beacon_ddb,gnd_128616385,contains,2021
+beacon_wkp,gnd_128616385,contains,2021
+beacon_bahnsen,gnd_128616385,contains,2021
+beacon_dpi,gnd_128616385,contains,2021
+beacon_aqhab,gnd_128616385,contains,2021
+Betkius,VD17_1:072956R,publisher,1675
+"Frankfurt, Main",VD17_1:072956R,place,1675
+Amsterdam,VD17_1:072956R,place,1675
+Gebetbuch,VD17_1:072956R,subject,1675
+gnd_124700470,K10plus_369886046,owner,"1701, 1707"
+gnd_11905339X,K10plus_369886046,creator,1673
+beacon_ddb,gnd_11905339X,contains,2021
+beacon_wkp,gnd_11905339X,contains,2021
+beacon_db,gnd_11905339X,contains,2021
+beacon_hls,gnd_11905339X,contains,2021
+beacon_fabricius,gnd_11905339X,contains,2021
+beacon_mav,gnd_11905339X,contains,2021
+beacon_gesa,gnd_11905339X,contains,2021
+beacon_sandrart,gnd_11905339X,contains,2021
+beacon_kall,gnd_11905339X,contains,2021
+beacon_imslp,gnd_11905339X,contains,2021
+beacon_vd16,gnd_11905339X,contains,2021
+beacon_jdg,gnd_11905339X,contains,2021
+gnd_117106178,K10plus_369886046,contributor,1673
+beacon_ddb,gnd_117106178,contains,2021
+beacon_wkp,gnd_117106178,contains,2021
+beacon_db,gnd_117106178,contains,2021
+beacon_mav,gnd_117106178,contains,2021
+beacon_apw,gnd_117106178,contains,2021
+beacon_coco,gnd_117106178,contains,2021
+beacon_kall,gnd_117106178,contains,2021
+beacon_vd16,gnd_117106178,contains,2021
+Giessae,K10plus_369886046,place,1673
+gnd_124700470,K10plus_553173561,owner,"1701, 1707"
+"Lassels, Richard",K10plus_553173561,creator,1670
+"Simon Wilson",K10plus_553173561,contributor,1670
+"[s.n.], and are to be sold in London, by John Starkey",K10plus_553173561,publisher,1670
+"Newly printed at Paris",K10plus_553173561,place,1670
+gnd_124700470,K10plus_151871949,owner,"1701, 1707"
+gnd_124861075,K10plus_151871949,creator,1670
+beacon_ddb,gnd_124861075,contains,2021
+beacon_wkp,gnd_124861075,contains,2021
+beacon_hls,gnd_124861075,contains,2021
+beacon_kall,gnd_124861075,contains,2021
+Schiele,K10plus_151871949,publisher,1670
+"Franckfurt am Mayn",K10plus_151871949,place,1670
+Geographie,K10plus_151871949,subject,1670
+gnd_124700470,K10plus_246014911,owner,"1701, 1707"
+gnd_118642766,K10plus_246014911,creator,1665
+beacon_ddb,gnd_118642766,contains,2021
+beacon_apd,gnd_118642766,contains,2021
+beacon_wkp,gnd_118642766,contains,2021
+beacon_db,gnd_118642766,contains,2021
+beacon_gqdm,gnd_118642766,contains,2021
+beacon_trithemius,gnd_118642766,contains,2021
+beacon_fabricius,gnd_118642766,contains,2021
+beacon_kall,gnd_118642766,contains,2021
+beacon_dpi,gnd_118642766,contains,2021
+beacon_vkk,gnd_118642766,contains,2021
+beacon_imslp,gnd_118642766,contains,2021
+beacon_vd16,gnd_118642766,contains,2021
+beacon_jdg,gnd_118642766,contains,2021
+gnd_118522175,K10plus_246014911,contributor,1665
+beacon_ddb,gnd_118522175,contains,2021
+beacon_apd,gnd_118522175,contains,2021
+beacon_wkp,gnd_118522175,contains,2021
+beacon_kall,gnd_118522175,contains,2021
+beacon_humbdig,gnd_118522175,contains,2021
+beacon_muenz,gnd_118522175,contains,2021
+beacon_dpi,gnd_118522175,contains,2021
+beacon_vkk,gnd_118522175,contains,2021
+beacon_imslp,gnd_118522175,contains,2021
+beacon_cmvw,gnd_118522175,contains,2021
+beacon_jdg,gnd_118522175,contains,2021
+Ballard,K10plus_246014911,publisher,1665
+Paris,K10plus_246014911,place,1665
+gnd_124700470,VD17_23:269676U,owner,"1701, 1707"
+gnd_121895610,VD17_23:269676U,creator,1664
+beacon_ddb,gnd_121895610,contains,2021
+beacon_wkp,gnd_121895610,contains,2021
+beacon_db,gnd_121895610,contains,2021
+beacon_gesa,gnd_121895610,contains,2021
+beacon_kall,gnd_121895610,contains,2021
+beacon_dpi,gnd_121895610,contains,2021
+beacon_jdg,gnd_121895610,contains,2021
+"Guldensternius, Sigismundus",VD17_23:269676U,contributor,1664
+[S.l.],VD17_23:269676U,place,1664
+gnd_124700470,VD17_1:065794A,owner,"1701, 1707"
+gnd_119456222,VD17_1:065794A,creator,1663
+beacon_ddb,gnd_119456222,contains,2021
+beacon_wkp,gnd_119456222,contains,2021
+beacon_kall,gnd_119456222,contains,2021
+gnd_122503279,VD17_1:065794A,contributor,1663
+beacon_ddb,gnd_122503279,contains,2021
+beacon_wkp,gnd_122503279,contains,2021
+beacon_vd16,gnd_122503279,contains,2021
+"Albrecht Sachsen-Jülich-Cleve-Berg, Herzog",VD17_1:065794A,contributor,1663
+"Ludwig Anhalt-Köthen, Fürst",VD17_1:065794A,contributor,1663
+Neuenhahn,VD17_1:065794A,publisher,1663
+Krebs,VD17_1:065794A,publisher,1663
+Jena,VD17_1:065794A,place,1663
+Pädagogik,VD17_1:065794A,subject,1663
+gnd_124700470,K10plus_140235191,owner,"1701, 1707"
+gnd_119255901,K10plus_140235191,creator,1663
+beacon_ddb,gnd_119255901,contains,2021
+beacon_wkp,gnd_119255901,contains,2021
+beacon_vd16,gnd_119255901,contains,2021
+gnd_1055727280,K10plus_140235191,contributor,1663
+gnd_1024756335,K10plus_140235191,contributor,1663
+Curti,K10plus_140235191,publisher,1663
+Venedig,K10plus_140235191,place,1663
+gnd_124700470,VD17_39:156875D,owner,"1701, 1707"
+gnd_12348796X,VD17_39:156875D,creator,1662
+beacon_ddb,gnd_12348796X,contains,2021
+beacon_wkp,gnd_12348796X,contains,2021
+beacon_db,gnd_12348796X,contains,2021
+beacon_kall,gnd_12348796X,contains,2021
+beacon_dpi,gnd_12348796X,contains,2021
+beacon_cmvw,gnd_12348796X,contains,2021
+beacon_bach,gnd_12348796X,contains,2021
+beacon_jdg,gnd_12348796X,contains,2021
+Fellgiebel,VD17_39:156875D,publisher,1662
+Breslau,VD17_39:156875D,place,1662
+Gebetbuch,VD17_39:156875D,subject,1662
+gnd_124700470,VD17_23:232961A,owner,"1701, 1707"
+gnd_12348796X,VD17_23:232961A,creator,1661
+beacon_ddb,gnd_12348796X,contains,2021
+beacon_wkp,gnd_12348796X,contains,2021
+beacon_db,gnd_12348796X,contains,2021
+beacon_kall,gnd_12348796X,contains,2021
+beacon_dpi,gnd_12348796X,contains,2021
+beacon_cmvw,gnd_12348796X,contains,2021
+beacon_bach,gnd_12348796X,contains,2021
+beacon_jdg,gnd_12348796X,contains,2021
+"Christian Hertzog in Schlesien, zur Liegnitz, Brieg und Wohlau",VD17_23:232961A,contributor,1661
+"Ludwig Hertzog in Schlesien, zur Liegnitz, Brieg und Goldberg",VD17_23:232961A,contributor,1661
+"Georg Hertzog in Schlesien zur Liegnitz und Brieg",VD17_23:232961A,contributor,1661
+Schneider,VD17_23:232961A,publisher,1661
+Liegnitz,VD17_23:232961A,place,1661
+Genealogie,VD17_23:232961A,subject,1661
+gnd_124700470,K10plus_141633042,owner,"1701, 1707"
+gnd_124429254,K10plus_141633042,creator,1657
+beacon_ddb,gnd_124429254,contains,2021
+beacon_apd,gnd_124429254,contains,2021
+beacon_wkp,gnd_124429254,contains,2021
+beacon_db,gnd_124429254,contains,2021
+beacon_gesa,gnd_124429254,contains,2021
+beacon_dpi,gnd_124429254,contains,2021
+beacon_vkk,gnd_124429254,contains,2021
+Kühne,K10plus_141633042,publisher,1657
+"Ulmae Suevorum",K10plus_141633042,place,1657
+gnd_124700470,K10plus_147802350,owner,"1701, 1707"
+gnd_122674391,K10plus_147802350,creator,1649
+beacon_ddb,gnd_122674391,contains,2021
+beacon_dpi,gnd_122674391,contains,2021
+gnd_122674332,K10plus_147802350,contributor,1649
+beacon_ddb,gnd_122674332,contains,2021
+Kalcovius,K10plus_147802350,publisher,1649
+"Coloniae Agrippinae",K10plus_147802350,place,1649
+gnd_124700470,K10plus_150731884,owner,"1701, 1707"
+gnd_128500751,K10plus_150731884,creator,1648
+beacon_ddb,gnd_128500751,contains,2021
+beacon_db,gnd_128500751,contains,2021
+beacon_kall,gnd_128500751,contains,2021
+beacon_dpi,gnd_128500751,contains,2021
+gnd_132103885,K10plus_150731884,contributor,1648
+beacon_ddb,gnd_132103885,contains,2021
+beacon_dpi,gnd_132103885,contains,2021
+beacon_vkk,gnd_132103885,contains,2021
+Jansonius,K10plus_150731884,publisher,1648
+Amstelodami,K10plus_150731884,place,1648
+gnd_124700470,K10plus_151490759,owner,"1701, 1707"
+gnd_11861391X,K10plus_151490759,creator,1643
+beacon_ddb,gnd_11861391X,contains,2021
+beacon_wkp,gnd_11861391X,contains,2021
+beacon_kall,gnd_11861391X,contains,2021
+beacon_dpi,gnd_11861391X,contains,2021
+beacon_vkk,gnd_11861391X,contains,2021
+beacon_imslp,gnd_11861391X,contains,2021
+beacon_jdg,gnd_11861391X,contains,2021
+gnd_117080632,K10plus_151490759,contributor,1643
+beacon_ddb,gnd_117080632,contains,2021
+beacon_apd,gnd_117080632,contains,2021
+beacon_db,gnd_117080632,contains,2021
+beacon_cors,gnd_117080632,contains,2021
+beacon_dpi,gnd_117080632,contains,2021
+beacon_jdg,gnd_117080632,contains,2021
+beacon_aqhab,gnd_117080632,contains,2021
+gnd_118590111,K10plus_151490759,contributor,1643
+beacon_ddb,gnd_118590111,contains,2021
+beacon_apd,gnd_118590111,contains,2021
+beacon_wkp,gnd_118590111,contains,2021
+beacon_db,gnd_118590111,contains,2021
+beacon_blgs,gnd_118590111,contains,2021
+beacon_gesa,gnd_118590111,contains,2021
+beacon_fruchtbringer,gnd_118590111,contains,2021
+beacon_sandrart,gnd_118590111,contains,2021
+beacon_kall,gnd_118590111,contains,2021
+beacon_dta,gnd_118590111,contains,2021
+beacon_cors,gnd_118590111,contains,2021
+beacon_dpi,gnd_118590111,contains,2021
+beacon_vkk,gnd_118590111,contains,2021
+beacon_gpa,gnd_118590111,contains,2021
+beacon_imslp,gnd_118590111,contains,2021
+beacon_cmvw,gnd_118590111,contains,2021
+beacon_bach,gnd_118590111,contains,2021
+beacon_jdg,gnd_118590111,contains,2021
+gnd_118581090,K10plus_151490759,contributor,1643
+beacon_ddb,gnd_118581090,contains,2021
+beacon_apd,gnd_118581090,contains,2021
+beacon_wkp,gnd_118581090,contains,2021
+beacon_db,gnd_118581090,contains,2021
+beacon_hls,gnd_118581090,contains,2021
+beacon_hbio,gnd_118581090,contains,2021
+beacon_rpbio,gnd_118581090,contains,2021
+beacon_fpl,gnd_118581090,contains,2021
+beacon_gesa,gnd_118581090,contains,2021
+beacon_sandrart,gnd_118581090,contains,2021
+beacon_kall,gnd_118581090,contains,2021
+beacon_dpi,gnd_118581090,contains,2021
+beacon_vkk,gnd_118581090,contains,2021
+beacon_gpa,gnd_118581090,contains,2021
+beacon_gpd,gnd_118581090,contains,2021
+beacon_albw,gnd_118581090,contains,2021
+beacon_jdg,gnd_118581090,contains,2021
+beacon_aqhab,gnd_118581090,contains,2021
+"Sophia Leonora Hessen, Landgräfin",K10plus_151490759,contributor,1643
+Humm,K10plus_151490759,publisher,1643
+Franckfurt,K10plus_151490759,place,1643
+Roman,K10plus_151490759,subject,1643
+gnd_124700470,K10plus_190912367,owner,"1701, 1707"
+gnd_10095443X,K10plus_190912367,creator,1630
+beacon_ddb,gnd_10095443X,contains,2021
+beacon_wkp,gnd_10095443X,contains,2021
+beacon_vd16,gnd_10095443X,contains,2021
+gnd_124677320,K10plus_190912367,contributor,1630
+beacon_ddb,gnd_124677320,contains,2021
+beacon_kall,gnd_124677320,contains,2021
+beacon_vd16,gnd_124677320,contains,2021
+gnd_136285422,K10plus_190912367,contributor,1630
+beacon_ddb,gnd_136285422,contains,2021
+beacon_db,gnd_136285422,contains,2021
+beacon_blko,gnd_136285422,contains,2021
+beacon_kall,gnd_136285422,contains,2021
+beacon_cors,gnd_136285422,contains,2021
+"Richelieu, Armandus Joannes",K10plus_190912367,contributor,1630
+Cramoisy,K10plus_190912367,publisher,1630
+"Lutetiae Parisiorum",K10plus_190912367,place,1630
+Ordensliteratur:Jesuiten,K10plus_190912367,subject,1630
+gnd_124700470,K10plus_513708979,owner,"1701, 1707"
+gnd_118753959,K10plus_513708979,creator,1625
+beacon_ddb,gnd_118753959,contains,2021
+beacon_wkp,gnd_118753959,contains,2021
+beacon_kall,gnd_118753959,contains,2021
+beacon_dpi,gnd_118753959,contains,2021
+gnd_122970470,K10plus_513708979,contributor,1625
+beacon_ddb,gnd_122970470,contains,2021
+beacon_wkp,gnd_122970470,contains,2021
+beacon_dbi,gnd_122970470,contains,2021
+beacon_apw,gnd_122970470,contains,2021
+beacon_sandrart,gnd_122970470,contains,2021
+beacon_muenz,gnd_122970470,contains,2021
+beacon_dpi,gnd_122970470,contains,2021
+beacon_vkk,gnd_122970470,contains,2021
+beacon_gpd,gnd_122970470,contains,2021
+Sarzina,K10plus_513708979,publisher,1625
+Venetia,K10plus_513708979,place,1625
+Verserzählung,K10plus_513708979,subject,1625
+gnd_124700470,K10plus_151756309,owner,"1701, 1707"
+"Aubrius & Schleich",K10plus_151756309,publisher,1622
+[Basel],K10plus_151756309,place,1622
+gnd_124700470,K10plus_394766091,owner,"1701, 1707"
+gnd_118620452,K10plus_394766091,creator,1609
+beacon_ddb,gnd_118620452,contains,2021
+beacon_apd,gnd_118620452,contains,2021
+beacon_wkp,gnd_118620452,contains,2021
+beacon_hls,gnd_118620452,contains,2021
+beacon_sandrart,gnd_118620452,contains,2021
+beacon_kall,gnd_118620452,contains,2021
+beacon_berlin1800,gnd_118620452,contains,2021
+beacon_humbdig,gnd_118620452,contains,2021
+beacon_dpi,gnd_118620452,contains,2021
+beacon_vkk,gnd_118620452,contains,2021
+beacon_bach,gnd_118620452,contains,2021
+beacon_vd16,gnd_118620452,contains,2021
+beacon_jdg,gnd_118620452,contains,2021
+gnd_100010423,K10plus_394766091,contributor,1609
+beacon_ddb,gnd_100010423,contains,2021
+beacon_apd,gnd_100010423,contains,2021
+beacon_wkp,gnd_100010423,contains,2021
+beacon_db,gnd_100010423,contains,2021
+beacon_kall,gnd_100010423,contains,2021
+beacon_cors,gnd_100010423,contains,2021
+beacon_dpi,gnd_100010423,contains,2021
+beacon_vd16,gnd_100010423,contains,2021
+beacon_jdg,gnd_100010423,contains,2021
+Forster,K10plus_394766091,publisher,1609
+Ambergae,K10plus_394766091,place,1609
+gnd_124700470,K10plus_567283895,owner,"1701, 1707"
+gnd_116218363,K10plus_567283895,creator,1582
+beacon_ddb,gnd_116218363,contains,2021
+beacon_wkp,gnd_116218363,contains,2021
+beacon_db,gnd_116218363,contains,2021
+beacon_saebi,gnd_116218363,contains,2021
+beacon_mav,gnd_116218363,contains,2021
+beacon_gesa,gnd_116218363,contains,2021
+beacon_kall,gnd_116218363,contains,2021
+beacon_dpi,gnd_116218363,contains,2021
+beacon_vd16,gnd_116218363,contains,2021
+beacon_jdg,gnd_116218363,contains,2021
+"Gronenberg, Simon",K10plus_567283895,publisher,1582
+Wittenberg,K10plus_567283895,place,1582
+Rede,K10plus_567283895,subject,1582
+gnd_124700470,K10plus_223457167,owner,"1701, 1707"
+gnd_118585517,K10plus_223457167,creator,1572
+beacon_ddb,gnd_118585517,contains,2021
+beacon_apd,gnd_118585517,contains,2021
+beacon_wkp,gnd_118585517,contains,2021
+beacon_db,gnd_118585517,contains,2021
+beacon_hls,gnd_118585517,contains,2021
+beacon_rpbio,gnd_118585517,contains,2021
+beacon_mav,gnd_118585517,contains,2021
+beacon_jen,gnd_118585517,contains,2021
+beacon_kall,gnd_118585517,contains,2021
+beacon_dpi,gnd_118585517,contains,2021
+beacon_vkk,gnd_118585517,contains,2021
+beacon_gpa,gnd_118585517,contains,2021
+beacon_gpd,gnd_118585517,contains,2021
+beacon_vd16,gnd_118585517,contains,2021
+beacon_jdg,gnd_118585517,contains,2021
+Henricpetri,K10plus_223457167,publisher,1572
+Basileae,K10plus_223457167,place,1572
+Geographie,K10plus_223457167,subject,1572
+gnd_124700470,K10plus_389070084,owner,"1701, 1707"
+"Schwenckfeld, Caspar",K10plus_389070084,creator,1547
+[s.n.],K10plus_389070084,publisher,1547
+Nürnberg,K10plus_389070084,place,1547

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.introduction.introduction_transcriptionRules">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Editionsrichtlinien</title>
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                    <persName>
+                        <forename>Alexander</forename>
+                        <surname>Zirr</surname>                        
+                    </persName>                    
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Editionsrichtlinien</head>
+                <div>
+                    <p>
+                        <lb/>An dieser Stelle werden die allgemeingültigen Transkriptionsregeln für die gesamte Edition der vier Tagebücher Herzog Ludwig Rudolphs und Herzogin Christine Luise formuliert. Besondere Eigentümlichkeiten der Schreibung in den vier Selbstzeugnissen werden in den jeweiligen Quellenbeschreibungen angesprochen. Wie bei jeder modernen kritischen Edition war der philologischen Treue der Textwiedergabe das Bemühen um Lesbarkeit und Verständlichkeit für die Benutzerinnen und Benutzer in der Textpräsentation an die Seite zu stellen. Das vorliegende Regelwerk, das die wesentlichen Entscheidungen für die Transkription und die Präsentation des Textes auflistet, trägt dabei zudem der Notwendigkeit Rechnung, die Auszeichnungs- und Codierungsarbeiten in den Grenzen des zeitlich Machbaren zu halten. 
+                    </p>
+                </div> 
+                <div>
+                    <head>1. Transkription</head>
+                    <div>
+                        <head>Textübertragung</head>
+                        <p>
+                            <lb/>Die Transkription folgt grundsätzlich, auch in der Schreibung von Eigennamen, jener des Originals. Das bedeutet, das auch Schreibungsvarianten beibehalten und nicht normiert werden (z. B. „Personen“/ „Persohnen“; „gespielt“/ „gespielet“). Ausnahmen und Spezifika werden nachstehend aufgeführt.
+                            <lb/>Die in der Vorlage nebeneinander verwendeten Schriftarten, die deutsche Kurrentschrift (Fraktur) als Grundlage und die Antiqua-Schrift (meist für romanisch-sprachige Passagen, Eigennamen, Fachbegriffe), deren Buchstabenformen bisweilen selbst innerhalb einzelner Wörter gemischt verwendet werden, werden vereinheitlicht in einer (lateinischen) Grundschrift transkribiert.
+                            <lb/>Der Bestand von Konsonanten wird gewahrt und auf Reduktionen jeglicher Art verzichtet. Dieser Grundsatz gilt auch für „s”, „ss”, „ß”, „sz” und „z”, lediglich die Differenzierung zwischen dem runden „s” und dem langen Schaft-s (ſ) bleibt heutigem Gebrauch nach von dieser Regel ausgenommen und wird standardisiert wiedergegeben. Die unterschiedlichen Graphien können jedoch leicht in den Digitalisaten der Tagebuch-Handschrift aufgesucht bzw. geprüft werden.
+                            <lb/>Ligaturen werden mit Ausnahme von „Æ/æ” und „Œ/œ” sowie des „&amp;” aufgelöst. Für die lateinische Endung „ii” stehendes „y” oder „ÿ” wird als „ij” wiedergegeben.
+                        </p>
+                    </div>
+                    <div>
+                        <head>Diakritika, Interpunktion, Abkürzungszeichen</head>
+                        <p>
+                            <lb/>Diakritika, die (wie z. B. der u-Bogen über „u” oder der Doppelpunkt über „y”) lediglich als Lesehilfe fungieren, werden übergangen. Hingegen werden diakritische Zeichen, die, insbesondere im Französischen, zur lautlichen Distinktion genutzt werden (v. a. Cedille, Akut, Gravis, Trema), gemäß Vorlage übernommen. Fehlende Punkte über „i” und „j” werden stillschweigend ergänzt.
+                            <lb/>Die Interpunktion des Originals bleibt unverändert, weil selbst vorsichtige Anpassungen an die heute gültige Grammatik zu Verfälschungen des Textes führen könnten. Ausgenommen davon sind allein heute ungebräuchliche und ggf. missverständliche Satzzeichen, die gemäß ihrer intendierten Funktion durch entsprechende „moderne” Zeichen ersetzt werden. So werden die zur Absetzung von Wörtern bzw. Textpartien genutzten „(: … :)” oder „:/: … :/:” als einfache runde Klammern wiedergegeben, Trennungszeichen, wie „=” oder „:” werden zu „-” normalisiert.
+                            <lb/>Nur in für das Textverständnis unentbehrlichen Fällen (z. B. bei Abtrennung von zwei Hauptsätzen oder von Wörtern innerhalb von Aufzählungen mit Hilfe nachträglich gesetzter Kommata) erfolgen, auf ein Minimum begrenzt, interpunktuelle Zusätze durch die Bearbeiter, die, wie alle Textemendationen (s. u.) durch eckige Klammern umschlossen werden.
+                            <lb/>Um möglichen Missverständnissen vorzubeugen, wird der zeitgenössische Usus, Grundzahlen (Kardinalzahlen) mit Punkten zu versehen, stillschweigend übergangen; Ordnungszahlen (Ordinalzahlen) hingegen erscheinen, auch in Abweichung zur Vorlage, prinzipiell mit Punkt. Zeichen zur Markierung von Abkürzungen entfallen gemäß deren Auflösung; die originalen Kürzungszeichen bleiben lediglich bei Währungs- und Maßeinheiten unverändert (s. u.).
+                        </p>
+                    </div>
+                    <div>
+                        <head>Kürzel, Abkürzungen, Sonderzeichen</head>
+                        <p>
+                            <lb/>Konventionelle Kürzungszeichen erfahren bei unzweifelhafter Bedeutung eine stillschweigende Auflösung. Diese Regel gilt im Einzelnen für sämtliche mit waagerechten Strichen oder einem der Tilde ähnlichen Zeichen angezeigten Kurzformen, für Kürzungen von „das” bzw. „daß” in Form eines „dz” sowie von „was” in Form eines „wz”, für Aufwärtsschleifen statt der Endung „-er”, für Abwärtsschleifen statt der Endungen „-em” und „-en”, für Nasalstriche über Vokalen, für Verdopplungsstriche über den Nasalen „m” und „n” sowie für alle zeitgenössisch gebräuchlichen Kürzel der Silben „am”, „em”, „en”, „om”, „ous”, „per”, „prae”, „pro”, „qu”, „que”, „qui”, „um”, „ur”, „us” und „ver”.
+                            <lb/>Abkürzungen von damaligen Währungs- (z. B. für Taler, Gulden) und Maßeinheiten (z. B. für Meile, Pfund), sämtliche Sonderzeichen (z. B. Planetensymbole für die Wochentage) sowie verkürzte Schreibweise für Monatsnamen (wie z. B. 7bris, Xbris) bleiben im Text unverändert und werden durch mit Hilfe des Mauszeigers (Cursors) zu aktivierende Pop-up-Fenster aufgelöst und ggf. in ihrer zeitgenössischen Bedeutung erklärt.
+                            <lb/>Alle weiteren Abkürzungen werden kursiv aufgelöst, wobei die Abkürzungszeichen der Vorlage entfallen.
+                        </p>
+                    </div>
+                    <div>
+                        <head>Groß- und Kleinschreibung, Getrennt- und Zusammenschreibung</head>
+                        <p>
+                            <lb/>Die originale Groß- und Kleinschreibung wird weitestgehend übernommen. Auch abweichend von der Vorlage werden Satzanfänge, Anredeformeln und Eigennamen im Anlaut immer großgeschrieben, was im Prinzip dem fortgeschrittenen Stand der zeitgenössischen Sprachregulierung auch entspricht. Im Wortinneren und im Wortauslaut wird zugunsten besserer Lesbarkeit auch entgegen der Vorlage die Kleinschreibung angewendet, ausgenommen bei durchgängigen Versalbuchstaben und im Falle möglicher besonderer Emphase (z. B. GOtt) und substantivischer Komposita (z. B. ChurSaxen).
+                            <lb/>Bei bestimmten Buchstaben, etwa bei „d”, „h, „k”, „l”, „v”, „w” und „z”, bei denen eine intendierte Groß- oder Kleinschreibung sehr häufig nicht klar auszumachen ist, und bei teilweise zwischen Majuskel und Minuskel stehenden Buchstabenzwischenformen, wie sie z. B. beim „b“ oder „g“ auftreten, richtet sich die Wiedergabe nach der heutigen Schreibnorm und -praxis.
+                            <lb/>Die Getrennt- und Zusammenschreibung folgt der Vorlage. In den relativ seltenen Fällen nicht eindeutiger Schreibungen findet die heutige Orthographie Anwendung.
+                        </p>
+                    </div>
+                    <div>
+                        <head>Seitenstruktur, Korrekturen, Ergänzungen, Hervorhebungen</head>
+                        <p>
+                            <lb/>Um die abgleichende Lektüre mit dem digitalisierten handschriftlichen Original zu erleichtern, werden die ursprünglichen Seitenwechsel samt Paginierung in der Edition vermerkt und die Images über Links eingebunden Die Seitenstruktur der Vorlage wird inklusive der Zeilenumbrüche wiedergegeben, soweit dies graphisch möglich ist. Bestimmte textuelle Auszeichnungen (Einzüge, Abstände etc.) werden vereinfacht bzw. vereinheitlicht.
+                            <lb/>Im Original vorhandene Verbesserungen, interlineare oder marginale Einfügungen sowie Hervorhebungen werden in den Editionstext integriert und entsprechend markiert. Ist die Wiedergabe solcher Passagen im laufenden Text graphisch unmöglich oder aus anderen Gründen nicht zu rechtfertigen, erscheinen sie im Textapparat (s. u.). Ergänzungen sind in der Ausgabe durch einfache spitze Klammern dargestellt. Auch Streichungen werden an ihrem originalen Ort transkribiert und als gestrichener Text ausgegeben. Marginalien zum Verweis auf Beilagen werden kodiert, in der Ausgabe aber unterdrückt und ihrer Bedeutung gemäß nur als Verlinkung zum betreffenden Textabschnitt ausgegeben. Superskripta werden nur kodiert, wenn sie nicht als Teil einer Abkürzung aufgelöst werden (z. B. „den 23ten Januarii“).
+                        </p>
+                    </div>
+                    <div>
+                        <head>Eingriffe in den Text</head>
+                        <p>
+                            <lb/>Alle notwendigen, jedoch auf ein Mindestmaß zu beschränkenden Zusätze der Bearbeiter im Text werden durch eckige Klammern markiert. Unsichere Lesungen werden durch ein mit eckigen Klammern versehenes Fragezeichen „[?]”, technisch nicht darstellbare sowie unlesbare oder verlorene Textteile, die aus dem Zusammenhang nicht mehr rekonstruierbar sind, durch Auslassungspunkte „[…]” kenntlich gemacht. Letztere erläutert – wenn nötig – der Textapparat. Bei (vermeintlich) korrupten, ungewöhnlichen oder missverständlichen Wortansetzungen wird die originalgetreue Textwiedergabe durch ein in eckige Klammern gesetztes Ausrufungszeichen „[!]” bestätigt und ggf. durch weitere Erklärungen im Textapparat konkretisiert. Konjekturen (etwa bei Papierschäden, Tintenflecken, Buchstaben- oder Textverlust im Falz oder im Fall unleserlicher Verbesserungen) werden ebenfalls in eckige Klammern gesetzt.
+                            <lb/>Offensichtliche Schreibversehen und -fehler im Text (z. B. nicht intendierte Wortwiederholungen) werden korrigiert. Jede Emendation bedarf der Rechtfertigung im Textapparat (s. u.).
+                        </p>
+                    </div>
+                </div> 
+                <div>
+                    <head>2. Textkritische Anmerkungen, Sacherläuterungen und Übersetzungen</head>
+                    <div>
+                        <p>
+                            <lb/>Die unentbehrlichen textkritischen Hinweise und Sachkommentare bilden zwei voneinander getrennte Apparate: der Textapparat und der Kommentar. Auf die Erläuterungen in den Anmerkungen wird im Text durch Exponenten in Form von Kleinbuchstaben (Textapparat) oder Zahlen (Kommentar) verwiesen.
+                        </p>
+                    </div>
+                    <div>
+                        <head>Textapparat</head>
+                        <p>
+                            <lb/>Der Textapparat verzeichnet Besonderheiten, die nicht graphisch im laufenden Text wiedergegeben werden können und/oder einer zusätzlichen Erläuterung bedürfen.
+                        </p>
+                    </div>
+                    <div>
+                        <head>Kommentar</head>
+                        <p>
+                            <lb/>Die Art und Weise der Kommentierung des Tagebuchtextes richtet sich nach dem näher zu erklärenden Gegenstand und kann in zwei unterschiedlichen Formen erfolgen: 1. als Fußnote zum Text und 2. in Gestalt von mit dem Mauszeiger (Cursor) zu aktivierenden Textfeld.
+                            <lb/>Heute veraltete, ungebräuchliche, schwer oder nicht mehr verständliche Begriffe einschließlich alter Lehn- und Fremdwörter, werden mit Hilfe eines Pop-up-Fensters durch einfache Übertragung ihrer grammatischen Grundform (Infinitiv bei Verben, casus rectus bei Adjektiven und Substantiven) in heutiges Deutsch verständlich gemacht. Aufnahme in dieses Glossar erfahren insbesondere Begriffe im höfischen Kontext, die ursprünglich meist aus dem Latein, Italienischen oder Französischen stammen, jedoch grammatikalisch eingedeutscht worden sind und nicht als direkte Übersetzung aufgefasst werden können. Ebenso ins Glossar gehören Begriffe fremdsprachigen Ursprungs, deren Bedeutungsgehalt über die reine Übersetzung hinausgeht (z. B. „Assamblée“).
+                            <lb/>Eine Erläuterung ist verzichtbar, wenn der Begriff noch im heutigen Duden (Band 1: Die deutsche Rechtschreibung) enthalten ist. Sofern sich jedoch eine mittlerweile unverständliche Verschiebung in der Wortsemantik ergeben hat (z. B. „dürfen“ vor allem in der Verneinungsform in der Bedeutung von „müssen“), die für das Textverständnis erklärungsbedürftig scheint, ist die Aufnahme ins Glossar notwendig. Nicht extra erklärt werden hingegen Schreibungen, bei denen es sich nur um orthographische Abweichungen handelt, die jedoch leicht aus den heutigen Wortansetzungen erschlossen werden können (z. B. „Hülffs-mittel“ für „Hilfsmittel“, „seynd“ für „sind“, „Confect“ für „Konfekt“) oder Abweichungen zum modernen Sprachgebrauch, die durch den Sinnzusammenhang verständlich sind (etwa die Verwendung von „vor“ anstelle von „für“ etc.).
+                            <lb/>Textstellen mit gravierenden Verständnisschwierigkeiten grammatischer Art erklärt generell eine dazugehörige Fußnote (Kommentar).
+                            <lb/>Erläuterungen zu den identifizierten Personennamen, geographischen Bezeichnungen und literarischen Werken erfolgen über ein per Mausklick zu öffnendes Textfeld, was zu dem jeweils verknüpften Verzeichnis (Personen-, Orts- bzw. Literaturregister) verlinkt (s. u.). 
+                        </p>
+                    </div>
+                    <div>
+                        <head>Übersetzung fremdsprachiger Passagen</head>
+                        <p>
+                            <lb/>Alle fremdsprachigen Textteile werden entsprechend markiert und mit einer deutschen Übersetzung versehen, die in einem durch Mausklick zu öffnenden Textfeld angezeigt werden kann. Die Übertragung ins Deutsche ist bestrebt, die Diktion der fremdsprachigen Passagen zu berücksichtigen, gibt aber einer sinnvollen Übersetzung in regelkonforme moderne deutsche Sätze den Vorzug. Bei Sentenzen und Zitaten aus fremdsprachiger Literatur orientiert sich die Übersetzung an modernen, möglichst kritischen Ausgaben und Editionen, sofern diese verfügbar sind. Andernfalls wird auf zeitgenössische oder sonstige Übersetzungen zurückgegriffen. Bei fremdsprachigen Einzelwörtern, die die Funktion von Fachtermini etwa im höfischen Kontext erfüllen, ist ggf. der Erläuterung mittels eines Glossareintrags einer Übersetzung den Vorzug zu geben (s. u.). Bei noch heute im Deutschen gebräuchlichen Begriffen fremdsprachiger Herkunft, deren Bedeutung sich nicht gewandelt hat und die über einen identischen Wortstamm leicht zu identifizieren sind, verzichten wir im Einzelfall auf eine Übersetzung (z. B. „Opera“ für „Oper“, „masquera“ für „maschera“).
+                        </p>
+                    </div>
+                    <div>
+                        <head>Abschriften aus gedruckten Quellen</head>
+                        <p>
+                            <lb/>Bei längeren abschriftlichen Wiedergaben deutscher oder fremdsprachiger gedruckter Quellen ohne erkennbaren Bezug zum Selbstzeugnis wird es bei einer Identifizierung der Textstelle in einer Kommentar-Anmerkung belassen. Liegt die Quelle in digitalisierter Form vor, wird darauf verlinkt und neben den Digitalisaten der Handschrift zur Verfügung gestellt, eine Transkription unterbleibt.
+                        </p>
+                    </div>
+                </div> 
+                <div>
+                    <head>3. Register</head>
+                    <div>
+                        <p>
+                            <lb/>Die vorliegende digitale Edition wurde mit drei alphabetischen Registern ausgestattet. Diese erfassen die in der Vorlage erwähnten Personen, Orte und literarischen Werke, die unabhängig von ihrer Schreibung im Original oder der Explizität ihrer Nennung in einer mitunter modernisierten und systematisch normierten Form registriert und mithilfe von Normdaten eindeutig identifiziert werden. Die referenzierten Personen werden, soweit vorhanden, mit ihrer GND-Nummer versehen. Beim Registereintrag werden nach Möglichkeit die für ein gutes Textverständnis notwendigen biographischen Grundinformationen geboten. Die erwähnten Orte erhalten Georeferenzdaten entsprechend dem verlinkten Portal „GeoNames“. Die ermittelten literarischen Werke werden über ihre PPN-Ansetzung des Gemeinsamen Bibliotheksverbunds exakt bestimmt.
+                            <lb/>Sämtliche Registereinträge verweisen sowohl auf die jeweilige Seite der Vorlage als auch auf den einzelnen Tageseintrag. Dabei wird eine Person, ein Ort oder ein literarisches Werk des Weiteren ein erklärungsbedürftiger Begriff pro Seite und/oder pro Tageseintrag nur einmal beim ersten Vorkommen referenziert.
+                        </p>
+                    </div>
+                    <div>
+                        <head>Personenregister</head>
+                        <p>
+                            <lb/>Ins Personenregister werden alle im Text namentlich explizit oder implizit genannten und identifizierbaren Einzelpersonen und Personengruppen aufgenommen. Dies umfasst lebende und historische Personen und (adlige wie nichtadlige) Familien ebenso wie antike Götter, Heilige sowie mythische bzw. literarische Figuren. Personale Körperschaften (weltliche und geistliche Orden, Domkapitel, Stadträte, Landstände, Universitäten und Akademien o.ä.) werden hingegen nicht ins Register aufgenommen; ggf. erfolgt eine notwendige Erläuterung im Kommentar. Ebenfalls keine Berücksichtigung finden anonyme Berufs- oder Standesvertreter wie Bedienstete, Handwerker oder Gastwirte. Ist dagegen eine namentlich unbekannte Person mit Ortsangabe (z. B. ein Hildesheimer Domherr) nicht ermittelbar, erfolgt zumindest die Aufnahme der erwähnten geographischen Zuordnung ins Ortsregister. Ins Register ebenfalls mit aufgenommen werden durch Adjektivierungen implizit genannte Personen, etwa die nach dem Regiments- oder Kompanieinhaber benannten militärischen Verbände (z. B. das Gersdorffische Regiment). Bei unsicheren Personenidentifikationen werden sinnvolle Alternativen in einem Kommentar aufgeführt und ggf. alle in Frage kommenden Namensträger ins Register eingetragen.
+                            <lb/>Personen bürgerlicher wie adliger Herkunft werden immer unter ihrem Familiennamen registriert. Angehörige hochadliger Dynastien erscheinen unter dem Namen ihres Hauses bzw. der jeweiligen Linie (Braunschweig-Wolfenbüttel, Anton Ulrich, Herzog von) nicht hingegen unter den Geschlechtsnamen (Welfen). Kaiser, Könige und Päpste sind dagegen unter ihrem Vornamen (z. B. Ludwig XIV., König von Frankreich; Clemens XI., Papst) erfasst. Ehefrauen stehen sowohl unter ihrem Geburtsnamen als auch unter ihrem bzw. ihren angeheirateten Namen. Die Schreibweise von Personennamen wird möglichst nach der heute üblichen Ansetzung vereinheitlicht.
+                        </p>
+                    </div>
+                    <div>
+                        <head>Ortsregister</head>
+                        <p>
+                            <lb/>Im Ortsregister werden generell sämtliche explizit genannte und klar identifizierbare geographische Bezeichnungen unter ihrem modernen Namen verzeichnet. Dazu zählen neben Ortschaften, Regionen, Naturräumen, Gewässern, Bergen, Pässen usw. auch Gebietskörperschaften – also rechtsfähige Verbände, deren hoheitliche Befugnisse räumlich abgegrenzt ist – wie Territorien und Verwaltungseinheiten (z. B. braunschweigische Ämter). Einzelne Bauwerke wie Burgen, Klöster und Schlösser sowie (militärisch bedeutsame) Verteidigungsanlagen erscheinen nur dann im Ortsregister, wenn sie eigene Bezeichnungen haben, baulich getrennt außerhalb geschlossener Siedlungen liegen und aus dem Textzusammenhang eindeutig zu identifizieren sind. Obgleich die geographische Referenz oftmals verschwimmt, erfasst das Register auch alle Adjektive (z. B. schwedisch) und Substantive (z. B. „die Franzosen“ oder Kollektivsingulare wie „der Schwede“) mit geographischem Bezug, die auf militärische, politische und wirtschaftliche Akteure (z. B. „der Französische Envoyé“, den „Holländischen Abgesandten“), nicht jedoch auf rein regionale, lokale oder kulturelle Zuordnungen (z. B. „Jtaliänische Pistohlen“ als allgemeine Herkunfts- bzw. Sortenangabe) verweisen. Eine Aufnahme von Stadtvierteln und Verkehrsbauten wie Brücken, Straßen und Wegen erfolgt dagegen grundsätzlich nicht.</p>
+                    </div>
+                    <div>
+                        <head>Literaturregister</head>
+                        <p>
+                            <lb/>Das Literaturregister enthält die in der Vorlage genannten literarischen Werke und (gedruckte) Textquellen, die Ludwig Rudolf in seinem Tagebuch entweder explizit erwähnt (z. B. als Lektüre, bei Erwerb usw.) oder aus denen er weitgehend wortgetreu zitiert. Zitate und wahrscheinliche Zitatanklänge werden in Form eines Kommentars mit Verweis auf den Originaltext und dessen Fundort unter Angabe der obligatorischen bibliographischen Informationen identifiziert. Anhand anderer uns zugänglicher Quellen (v. a. zeitgenössische Bibliotheksverzeichnisse) wird versucht, die vom Herzog benutzte Werkausgabe exakt zu ermitteln. Die Titelansetzung im Register folgt jedoch jener eines modernen Bibliothekskatalogs.
+                        </p>
+                    </div>
+                </div>
+            </div>              
+        </body>
+    </text>
+</TEI>

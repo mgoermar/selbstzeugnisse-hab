@@ -98,7 +98,7 @@
                         
             <div xml:id="E1607-05-19"><head><date when="1607-05-19">den 19 Maÿ <c>♂</c></date></head><p> zu <rs ref="register.xml#Lueneburg" type="place">Luneburgk</rs> cum
                 Comitatu p&lt;<ex>rae</ex>&gt;ducto gewesen, beseh<ex>en</ex> d<ex>a</ex>z Rahthauß, die Sultze, S<ex>anct</ex> Lambert Kirchen;
-                die guld<ex>en</ex> Taffell in S<ex>anct</ex> Micharlis Kirchen <w>rc.</w><note type="annotation" resp="ao">etc.</note> auf den Abendt
+                die guld<ex>en</ex> Taffell in S<ex>anct</ex> Micharlis Kirchen ⁊c. auf den Abendt
                 wiederumb gehn <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>.</p></div>
             
             <div xml:id="E1607-05-26"><head><date when="1607-05-26">den 26 Maÿ <c>♂</c></date></head><p> Auf erford<ex>er</ex>n gehn <rs ref="register.xml#Neuhausen" type="place">Newenhauß</rs> gezogen, 
@@ -232,7 +232,7 @@
                 frembd<ex>en</ex> nach gerade aufgebroch<ex>en</ex> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
             
             <div xml:id="E1607-12-18"><head><date when="1607-12-18">den 18. Xbris <c>♃</c>.</date></head><p>Ist meine
-                <rs ref="register.xml#Ursula_von_Sachsen_Lauenburg" type="person">FrawMutter</rs> und <w>Schwestern</w><note type="annotation">vermutlich Sibylle Elisabeth und Sidonie von Braunschweig-Dannenberg</note>, wegkgezog<ex>en</ex>.</p></div>          
+                <rs ref="register.xml#braunschweig-dannenberg_ursula" type="person">FrawMutter</rs> und <w>Schwestern</w><note type="annotation">vermutlich Sibylle Elisabeth und Sidonie von Braunschweig-Dannenberg</note>, wegkgezog<ex>en</ex>.</p></div>          
             
         </body>
     </text>

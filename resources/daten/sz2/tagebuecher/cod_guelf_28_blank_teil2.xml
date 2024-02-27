@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.cod_guelf_28_blank_teil2" n="Cod. Guelf. 28 Blank., Lit. A">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Herzog Ludwig Rudolph von Braunschweig-Wolfenbüttel (1671-1735): Tagebuch (1701) (Cod. Guelf. 28 Blank)</title>
+                <respStmt>
+                    <resp>transkribiert und kommentiert von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Torsten</forename>
+                        <surname>Schaßan</surname>
+                    </persName>
+                </respStmt> 
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>            
+                <date type="digitised" when="2019">2019</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Herzog Ludwig Rudolph von Braunschweig-Wolfenbüttel (1671-1735): Diarium Sni: Princip: ac Domii. Dmi. Ludovici Rudolphi Brunsvicensium ac Luneburg: Ducis Vitam &amp; Actiones nec non pleraq; in Aulâ Guelphicâ ut et Christiano Orbi universo notatu digna complectens. Anno Ort&#x00E6; salutis MDCCI. Herzog August Bibliothek, Signatur: Cod. Guelf. 28 Blank</bibl>
+                <xi:include href="../register/listPerson_s2.xml" xpointer="element(person)"/>
+                <xi:include href="../register/listPlace_s2.xml" xpointer="element(place)"/>
+                <xi:include href="../register/listGloss_s2.xml" xpointer="element(glossar)"/>
+                <xi:include href="../register/listAbbr_s2.xml" xpointer="element(abbr)"/>
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="volume">
+                <div type="chapter" n="2">
+                    <pb n="145" facs="#mss_28-blank_00157"/>
+                    <head>LIT. A.<note type="footnote" resp="ah">Vgl. <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#10">S. 10</ref> des Tagebuchs: Bei der Beschreibung der Wachzeremonien am 5. 2. 1701 erfolgt der Hinweis: "Das Reglement wornach
+                        Sie Sich sonsten in Beziehung der Wachten auf dem
+                        Schloß zu Wolffenbüttel haben verhalten sollen ist Sub Litera
+                        A zu sehen, Wie Auch das Reglement, so Ich gemachet, 
+                        welches in specie die Schloß-Wachte anbetroffen." D. i. Beilage "B".</note></head>
+                    <p>
+                        <lb/>&#x2003;&#x2003;&#x2003;&#x2003;Reglement,
+                        <lb/>&#x2003;&#x2003;wie es mit der Dragoner Schloß-Garde in
+                        <lb/>&#x2003;&#x2003;diensten und andern soll gehalten werden.
+                    </p>
+                    <p>
+                        <table rows="15" cols="2">
+                            <row role="data">
+                                <cell role="label">1.<c rend="super">o</c></cell>
+                                <cell role="data">Wann das Regiment in <rs type="place" ref="#wolfenbuettel" role="mentioned">Wolffenbüttel</rs> kommet, setzet
+                                <lb/>Sich selbiges auf dem <rs type="place" ref="#wolfenbuettel_schlossplatz" role="mentioned">Schloß-Platze</rs>, allwo Ihro Durchl<ex>aucht</ex>
+                                <lb/>Prinz <rs type="person" ref="#braunschweig-wolfenbuettel_ludwig_rudolph">Ludewig Rudolph</rs> <foreign xml:lang="fre">à la tête</foreign><note type="translation" resp="ah">an die Spitze</note> des Regiments sich
+                                <lb/>setzen wird, und werden alsdann die neuen <term ref="#fendrich"><w lemma="fendrichs">fend
+                                <lb/>richs</w></term> fürgestellet.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">2.<c rend="super">o</c></cell>
+                                <cell role="data">Nachgehends marchiret die Schloß-wachte gleich von dem
+                                   <lb/>Regimente ab, occupiret die Post, und läßet sich der
+                                   <lb/>Major die Tag- und Nacht-Posten übergeben, und muß
+                                   <lb/>die Wachte bestehen in etlichen Dreyßig Mann: Ein
+                                   <lb/>Ober-Officier führt die Parade an, läßet alle <w lemma="Posten">Po
+                                   <lb/>sten</w> ablösen wie sichs gehöret, informiret den Unter-
+                                   <lb/>Officier und Corporal bestens, überliefert nach dem die
+                                   <lb/>Wachte dem Schloß-Lieutenant, nach diesem quitiret
+                                   <lb/>der Ober-Officier die Wacht, der Unter-Officier <w lemma="nachdem">nach
+                                   <lb/>dem</w> muß alles was passiret auf der Wachte dem
+                                   <lb/>Obrist-Lieutenant und Major, wie auch dem Schloß-
+                                   <lb/>Lieutenant anmelden, daß nachgehends der Major, wenn
+                                   <lb/>die Sache von <foreign xml:lang="fre">importance</foreign><note type="translation" resp="ah">Bedeutsamkeit</note> Ihr<ex>er</ex> Durchl<ex>aucht</ex> dem Prinz
+                                   <lb/><rs type="person" ref="#braunschweig-wolfenbuettel_ludwig_rudolph">Ludewig Rudolph</rs> unterth<ex>änig</ex>st rapport giebet.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">3.<c rend="super">o</c></cell>
+                                <cell role="data">Wird auch zugleich die Wachte im <rs type="place" ref="#wolfenbuettel_augusttor">August-Thore</rs> <w lemma="abgelöset">abgelö
+                                   <lb/>set</w>, durch einen Unter-Officier commendiret, ein <w lemma="Tambour">Tam
+                                   <lb/>bour</w> führet die Wachte auf, gehet nach dem ab; Was
+                                   <lb/>auf beyden Wachten zu observiren und zuthun, muß
+                                   <lb/>der Major von denen Dragonern Sich wohl <w lemma="informiren">informi
+                                   <lb/>ren</w> laßen, und darvon in beyden Corps de garden
+                                    <lb/>eine schrifftliche <term ref="#ordonnanz">Ordonnanz</term> legen. Der Unter-
+                                    <lb/>Officier von dem August-Thore muß alle nahmen
+                                    <lb/>der Passagiers so herein kommen, schrifftlich <w lemma="specificiren">specifi
+                             <pb n="146" facs="mss_28-blank_00158"/>
+                                    <lb/>ciren</w>, und nach der Wachte auf dem <term ref="#ravelin">Ravelin</term> schicken,
+                                    <lb/>Was sonsten passiret auf der Wachte, läßet er auch
+                                    <lb/>an seinen Obrist-Lieutenant und Major melden,
+                                    <lb/>damitt von dieser Post ebenmäßig Ihr<ex>er</ex> Durchl<ex>aucht</ex> dem
+                                    <lb/>Printz, wann es von <foreign xml:lang="fre">consequence</foreign><note type="translation" resp="ah">Folgewirkung</note>, der Major <w lemma="rapport">rap
+                                    <lb/>port</w> thun könne.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">4.<c rend="super">o</c></cell>
+                                <cell role="data">Die folgenden Tage löset die Dragoner-Schloß-Wachte
+                                    <lb/>zugleich mit der Infanterie ab, und setzet sich auf den 
+                                    <lb/>rechten Flügel der Parade der Infanterie, und muß
+                                    <lb/>derselbe Ober-Officier, so voriges Tages die Wachte
+                                    <lb/>aufgeführet, die Posten wohl überliefern, damitt
+                                    <lb/>alles observiret wird, was im andern articul <term ref="#resolviren"><w lemma="resolviret">re
+                                    <lb/>solviret</w></term> worden.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">5.<c rend="super">o</c></cell>
+                                <cell role="data">Der Major von der Dragoner-Schloß-garde <w lemma="empfänget">empfän
+                                    <lb/>get</w> von dem H<ex>errn</ex> General-Lieutenant die parole, <w lemma="bringet">brin
+                                    <lb/>get</w> sie, wie gebräuchlich, des Abends schrifftlich <w lemma="versiegelt">versie
+                                    <lb/>gelt</w> an Ihro Hochfürstl<ex>iche</ex> Durchl<ex>aucht</ex> den <rs type="person" ref="#braunschweig-wolfenbuettel_anton_ulrich">Hertzog</rs>; An
+                                    <lb/>Ihro Durchl<ex>aucht</ex> den <rs type="person" ref="#braunschweig-wolfenbuettel_august_wilhelm">Erb-Printz</rs> mündlich, wie auch an
+                                    <lb/>Ihro Durchl<ex>aucht</ex> den <rs type="person" ref="#braunschweig-wolfenbuettel_ludwig_rudolph">Printz Ludewig Rudolph</rs>. In <w lemma="abwesenheit">ab
+                                    <lb/>wesenheit</w> des Majors verrichtet solches der <w lemma="commandirende">comman
+                                    <lb/>dirende</w> Capitain von dem Dragoner-Regimente.
+                                    <lb/>Der Major von denen Dragonern giebet auch nach dem
+                                    <lb/>die parole an seinen Adjutanten, und giebet der <w lemma="Adjutant">Ad
+                                    <lb/>jutant</w> nach diesem die parole an die WachtMeisters
+                                    <lb/>von den Dragonern <foreign xml:lang="fre">à part</foreign><note type="translation" resp="ah">getrennt</note>, also daß die Dragoners
+                                    <lb/>mit der Garnison sich keines weges zu meliren haben.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">6.<c rend="super">o</c></cell>
+                                <cell role="data">Wegen der Urlaubung der Ober- und Unter-Officiers,
+                                    <lb/>wie auch der Gemeinen, bleibet es bey diesem Regiment
+                                    <lb/>eben, wie es bey der Garnison eingeführet, undt
+                                    <lb/>practiciret wird.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">7.<c rend="super">o</c></cell>
+                                <cell role="data">Wegen abstraffunge der Unter-Officiers und <w lemma="Gemeinen">Gemei
+                                <lb/>nen</w>, behält dieses Regimente das Recht, wie es <w lemma="vorhero">vor
+                                <lb/>hero</w> die Compagnie von dem h<ex>err</ex>n Obrist-Lieutenant
+                       <pb n="147" facs="mss_28-blank_00159"/>
+                                <lb/><rs type="person" ref="#bobart_daniel_arnold">von Bobard</rs> und nachfolgends die andern gehabt.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">8<c rend="super">o</c></cell>
+                                <cell role="data">Weil ohne Zweiffel die Ober-Officiers von denen <w lemma="Dragonern">Drago
+                                <lb/>nern</w>, wie in <rs type="place" ref="#braunschweig" role="mentioned">Braunschweig</rs> geschehen, alß die Capitains
+                                <lb/>auf die Haupt-Wachte, die subalternes an die andern Posten
+                                <lb/>dienste thun werden müßen, alß wird zu observiren
+                                <lb/>seyn, daß alsdann die Dragoner-Officiers sowohl alß
+                                <lb/>anjetzo die Grenadiers ihren march auch schlagen laßen.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">9.<c rend="super">o</c></cell>
+                                <cell role="data">Wehrenden <term ref="#messe_braunschweig">Meßen in Braunschweig</term>, wird sonder <w lemma="Zweiffel">Zweif
+                                <lb/>fel</w> jeder Zeit das Regimente hinüber marchiren <w lemma="müssen">müs
+                                <lb/>sen</w> und alda verquartiret werden.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">10.<c rend="super">o</c></cell>
+                                <cell role="data">Soll das Regiment alda wehrender Meße die Wachte
+                                <lb/>auff der <rs type="place" ref="#braunschweig_mosthaus" role="mentioned">Burg</rs> haben, und ziehet täglich eine Compagnie 
+                                <lb/>in 60 köpfen bestehend mit fliegender Fahne auff,
+                                <lb/>mit allen dazu gehörigen Ober- und Unter-Officiers,
+                                <lb/>die Fahne bleibet Tag und Nacht auf der Wachte.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">11.<c rend="super">o</c></cell>
+                                <cell role="data">Die Wachte ziehet täglich auf in <rs type="place" ref="#braunschweig" role="mentioned">Braunschweig</rs> halb 12
+                                <lb/>Uhr, marchiret bey der Burg-Mühle längst der <w lemma="Veldheimischen">Veld
+                                <lb/>heimischen</w> Behausung auf den Burg-Platz, undt
+                                <lb/>setzet sich ohngefehr zwischen der <rs type="place" ref="#braunschweig_dom" role="mentioned">Kirche</rs> und den Löwen<note type="footnote" resp="ah">Das überlebensgroße Bronze-Standbild eines Löwen, eine auf dem Burgplatz freistehende Plastik, die der Welfe Heinrich der Löwe (um 1130 - 1195) als Symbol seiner Macht hatte aufstellen lassen.</note>
+                                <lb/>der Kirche zur rechten hand und die face nach der Burg.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">12.<c rend="super">o</c></cell>
+                                <cell role="data">Soll bey ablösung der Wachte observiret werden, daß
+                                <lb/>die Wachte, so abgehet, <foreign xml:lang="ita">in Fronte</foreign><note type="translation" resp="ah">gegenüber</note> vor der Corps de Garde
+                                <lb/>sich setze, und sobald die neue anmarchiret undt
+                                <lb/>nahe bey der abgehenden Wachte ist, umb den Posten
+                                <lb/>zu nehmen, marchiret die alte Wachte gleich vor-aus
+                                <lb/>die Fronte nach der Burg. Die neue Wachte marchiret
+                                <lb/>auf die Post ebenmäßig die Fronte nach der Burg,
+                                <lb/>das Gewehr pr&#x00E6;sentiret und von denen Ober-Officiers
+                                <lb/>saluiret, es sey die gnädigste Herrschafft in denen <w lemma="Fenstern">Fen
+                                <lb/>stern</w> oder nicht, hernachmahls werden die Posten abgelöset.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">13.<c rend="super">o</c></cell>
+                                <cell role="data">Zu der Fortification-Arbeit, <foreign xml:lang="lat">item</foreign><note type="translation" resp="ah">Ebenso</note> zu denen Operen
+                                    <lb/>werden die Dragoner nicht <term ref="#employiren">employiret</term>.</cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">14.<c rend="super">o</c></cell>
+                                <cell role="data">Haben die Officiers von denen Dragonern, wie auch alle
+                    <pb n="148" facs="mss_28-blank_00160"/>
+                                <lb/>Dragoner mit der Garnison in <rs type="place" ref="#braunschweig" role="mentioned">Braunschweig</rs> nichts zu
+                                <lb/><term ref="#demeliren">dem&#xE9;liren</term>, alß der <rs type="person" ref="#kern_david_heinrich">Major Kern</rs> holet die parole von
+                                <lb/>dem General-Lieutenant oder dem Commandanten,
+                                <lb/>der sie ausgiebet, bringet sie der g<ex>nä</ex>d<ex>ig</ex>sten Herrschafft von Wolffenb<ex>üttel</ex></cell>
+                            </row>
+                            <row role="data">
+                                <cell role="label">15.<c rend="super">o</c></cell>
+                                <cell role="data">Die Delinquenten von denen Dragonern werden
+                                <lb/>auff ihrer Wachte in <rs type="place" ref="#braunschweig" role="mentioned">Braunschweig</rs> in arrest behalten,
+                                <lb/>solten aber durch die Garnison allda einige <w lemma="Delinquenten">Delinquen
+                                <lb/>ten</w> von denen Dragonern in arrest genommen <w lemma="werden">wer
+                                <lb/>den</w>, sollen sie der Dragoner-Wachte nach dem <w lemma="überliefert">über
+                                <lb/>liefert</w>, derer abstraffung bis zu ihrer rückkunfft
+                                <lb/>in <rs type="place" ref="#wolfenbuettel" role="mentioned">Wolffenbüttel</rs> versparet werden, und so die <w lemma="Dragoners">Dra
+                                <lb/>goners</w> den Gaßen-lauff meritiret hetten, soll
+                                <lb/>solches, wie billig, durch die gantze  parade der <w lemma="gantzen">gan
+                                <lb/>tzen</w> Garnison gesxchehen.      Datum <w lemma="">Wolf
+                                <lb/>fenbütteln</w>, den 8&#8260;18ten Januarij, 1698.</cell>
+                            </row>
+                        </table>
+                    </p>
+                    <p>
+                        <lb/> <rs type="abbreviation" ref="#locus_sigilli">L. S.</rs><note type="annotation" resp="ah">Ein Kreis umschließt die beiden Buchstaben.</note>    <rs type="person" ref="#braunschweig-wolfenbuettel_anton_ulrich">Anthon Ulrich</rs>
+                    </p>
+                </div>
+            </div>  
+        </body>
+    </text>
+</TEI>

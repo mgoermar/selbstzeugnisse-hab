@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.introduction_cod_guelf_28_blank" n="Einleitung">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 28 Blank.</title>
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Miriam</forename>
+                        <surname>Mulzer</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>auf Grundlage von Vorarbeiten von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                    <persName>
+                        <forename>Alexander</forename>
+                        <surname>Zirr</surname>                        
+                    </persName>                    
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 28 Blank.: Tagebuch Herzog Ludwig Rudolphs von Braunschweig-Wolfenbüttel, 1701</head>
+                <div>
+                    <p>
+                        <hi rend="smaller"><lb/>Das Titelblatt ist aquarelliert; dargestellt ist ein mit Göttergestalten geschmücktes Triumphtor mit Durchblick auf Park und Schloss von Salzdahlum. Auf dem Tor in Kartusche und in Goldschrift der Titel „DIARIUM Smi Princip. ac Domii Dmi LVDOVICI RVDOLPHI Brunsvicensium ac Luneburg. Ducis Vitam &amp; Actiones nec non pleraq; in Aula Guelphica ut et Christiano Orbi universo notatum digna complectens.“ Darunter in eigener Kartusche: „ANNO Ortae salutis MDCCI.“.
+                        <lb/>243 S., Versch. Schreiberhände. Brauner Ledereinband auf Pappe mit Rückenvergoldung, Goldschnitt. Gedrucktes Exlibris Herzog Ludwig Rudolphs mit den verschlungenen Namensinitialen im Spiegel. Auszüge von Karl Frd. Brege in <ref target="https://diglib.hab.de/?db=mss&amp;list=ms&amp;id=14-3-novi&amp;hi=14.3%20Novi">Cod. Guelf. 14.3 Novi</ref> (16 Bll.). Vgl. <ref target="https://diglib.hab.de/?db=mss&amp;list=ms&amp;id=28-blank&amp;catalog=Butzmann">Hans Butzmann: Die Blankenburger Handschriften. Frankfurt a. M. 1966 (Kataloge der Herzog August Bibliothek Wolfenbüttel, Neue Reihe Bd. 11), S. 47f.</ref>
+                        <lb/>Links: <ref target="http://diglib.hab.de/mss/28-blank/start.htm">Digitalisat</ref>, <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank">edierter Text</ref>, <ref target="http://selbstzeugnisse.hab.de/repertorium/eintrag/28-blank">Selbstzeugnisrepertorium</ref></hi>
+                    </p>
+                <p>
+                    <lb/>Das Tagebuch Herzog Ludwig Rudolphs (1671–1735) für das Jahr 1701 umfasst 243 beschriebenen Seiten, wovon die ersten 185 Seiten ediert wurden. Das übrige sind Anhänge verschiedenen Inhalts, wie nachstehend aufgeführt, darunter auch Abschriften von Drucken, die sich meist auch im Bestand der HAB befinden und bis auf wenige Ausnahmen ohne erkennbaren Bezug zum Tagebuch bleiben. Die Anhänge ohne Korrelation zum Tagebuch wurden nicht in die Edition aufgenommen, sondern nur beschrieben und im Digitalisat bereitgestellt. Die Handschrift ist nachträglich von mehreren Sekretären oder Schreibern niedergeschrieben worden, vermutlich nach früheren Aufzeichnungen des Herzogs, und stammt ausweislich des Exlibris im Spiegel aus dem Besitz Ludwig Rudolphs selbst. Auf die retrospektive Niederschrift deuten wiederholt Formulierungen hin wie die am <ref target="lenthe_konrad_ludwig_37">14. Mai</ref>: „Major Lentens, so damahls als Capitain unter dem Regiment von Schulenburg in Savoyischen Diensten stund“. Oder der Eintrag vom <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#wolter_hans_juergen_67">22. Juli</ref>: „Die Butter hierzu præsentirete Hanß Jürgen, so damahls Lacqueye bey mir war“. Wir haben es also nicht mit einer getreuen Abschrift spontan-aktueller Aufzeichnungen zu tun, sondern mit einem bearbeiteten und redigierten Text, der jedoch aufgrund der Dichte an Informationen auf vorherigen Notizen und Aufzeichnungen beruht haben wird.
+                </p>
+                <p>
+                    <lb/>S. 1–133 Tagebuchartige Aufzeichnungen:
+                    <lb/>Vorangestellt sind unter dem Titel „Geistliche Handlungen“ (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#1">S. 1</ref>) die Abendmahlbesuche des Jahres, die übergehen in weitestgehend diaristische Aufzeichnungen ab dem <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#1701-01-23_2">23. Januar</ref> mit einem Rückblick auf das Dreikönigsfest. Die Darstellung endet mit dem <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#1701-12-31_132">31. Dezember 1701</ref>. Ludwig Rudolph hielt sich die meiste Zeit des Jahres in Wolfenbüttel auf, abgesehen von einigen Aufenthalten in Braunschweig (u.a. während der Messen) und Salzdahlum sowie Jagdausflügen und Militärmusterungen. Neben Aufzeichnungen über seine eigenen Reiseaktivitäten notierte er die Bewegungen seiner näheren Familienmitglieder sowie die am Hof ankommenden fremden Personen. Aufgezeichnet wurden höfischen Aktivitäten wie Assembleen, Bälle, Maskeraden, Ballettaufführungen und Kartenspiele, dessen Gewinne und Verluste er akribisch festhielt, Spazierfahrten und Lustbarkeiten in den Gärten, Opern- und Theaterbesuche, Schießübungen und Jagdgesellschaften. Dabei notierte er in der Regel die teilnehmenden Personen, so dass sich aus diesen Aufzeichnungen Rückschlüsse über seine Netzwerke schließen lassen. Gleiches gilt für die Anführung von empfangenen und abgesandten Briefen. Festgehalten wurden auch besondere Ereignisse wie die Einweihung des Klosters zur Ehre Gottes in Salzdahlum im <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#1701-06-26_54">Juni</ref> oder die Hochzeit von Adolf August von Schleswig-Holstein-Sonderburg-Plön (1680-1704) und Elisabeth Sophia Maria von Schleswig-Holstein-Sonderburg-Norburg (1683-1767) im <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#1701-10-08_100">Oktober 1701</ref>. Ausführlich dokumentierte er seine Einnahmen und Ausgaben, darunter verschiedene Büchereinkäufe und Geschenke für seine Familienmitglieder, die er auf den Braunschweiger Messen oder von lokalen Kaufleuten und Handwerkern in Wolfenbüttel und Braunschweig erwarb. Für die Besorgung der Weihnachtsgeschenke und die Lieferung von Mineralwasser schickte er seine Diener hingegen bis nach Hamburg und Schwalbach. Einen breiten nehmen auch seine Aktivitäten als Chef eines Dragonerregiments ein, darunter Beratungen über die Ausstattung der Soldaten und seine Teilnahme an Vereidigungen und Musterungen.
+                </p>
+                <p>
+                    <lb/>S. 133-141: (chronologische) Zusammenfassungen und Übersichten:
+                    <lb/>Im Anschluss an die weitestgehend chronologischen Aufzeichnungen folgen thematisch geordnete Zusammenfassungen zu Geburten und Sterbefälle bei Hof (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#133">S. 133-134</ref>), Beförderungen (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#134">S. 134</ref>), Einnahmen und Ausgaben (im Rahmen seines „Handgeldes“), sodann Büchererwerb und Buchlektüren (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#134">S. 134–139</ref>) sowie Geburten, Todesfälle, Heiraten hoher Potentaten (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#139">S. 139–141</ref>).
+                </p>
+                <p>
+                    <lb/>S. 142–144 leer.
+                </p>
+                </div>
+                <div>
+                    <head>Zusätze / Anhänge</head>
+                    <p>
+                        <lb/>Die Anhänge umfassen Abschriften von Briefen und Drucken, amtlichen Reglements, zeitgeschichtlichen Nachrichten, Gedichten usw. Nur die ersten beiden Anhänge wurden in die Edition aufgenommen, weil im Tagebuchtext unmittelbar auf sie verwiesen wird. Für die Anhänge 3 bis 16 werden nachstehend Titel und weiterführende Informationen, ggf. auch Incipits angegeben. Links führen, soweit vorhanden, auf Digitalisate der Drucke und Handschriften, andernfalls auf Katalogisate.
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">1.)</hi> S. 145–148 (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank_teil2">ediert</ref>): 
+                        <lb/>LIT. A. 
+                        <lb/>Reglement, | wie es mit der Dragoner Schloß-Garde in | diensten und andern soll | gehalten werden.
+                        <lb/>Gez. von Hz. Anton Ulrich, Wolfenbüttel, 8./18. 1. 1698. Schreiberhand.
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">2.)</hi> S. 148–150 (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank_teil3">ediert</ref>):
+                        <lb/>LIT. B.  
+                        <lb/>Reglement, | Wornach Sich die Dragoner-Wache auff dem | HochFürstlichen Schloße zu Wolffenbüttel ins | künfftige wird zu richten haben.
+                        <lb/>Gez. von Hz. Ludwig Rudolf, WF, 22. 1. 1698. Schreiberhand. 
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">3.)</hi> S. 151–185 (nicht ediert):
+                        <lb/>LIT. C. 
+                        <lb/>Der köstliche Schmuck | einer jeden gläubigen Seele, | Zuforderst aber einer jedweden Gott-geheiligten | Kloster-Jungfrau, | Darinnen Sie Ihrem Könige und Bräutigamb | CHRISTO JESU | woll gefallen. | Am 5ten Sonntage Trinitatis dieses 1701ten  Jahres | Aus dem ordentlichen Evangelio Lucas V. vers I - II. | Es begab sich, daß sich das Volck — — und folgeten Ihm nach. | Bey solenner | INAUGURATION und Einsegnunge | Des | Neu-erbaut- und gestiffteten | Jungfrauen-Klosters zu Saltzthalum | Zur Ehre Gottes | genannt, | Bey respectivè Hochfürstlicher und Volck-reicher Versamblung | aus der Heyligen Schrifft, und Zeugnüßen der bewehr- | ten Kirchen-Lehrer einfaltig vorgestellt, | Und auff HochFürstlichen Gnädigsten Befehl zum Druck | herausgegeben | Von | Christian Specht, | Fürstlich Braunschweig Lüneburgischem Ober-Superinten- | denten, Consistorial- und Kirchen-Raht, auch | Abten des Closters Riddagshausen.
+                        <lb/>Abschrift von Schreiberhand, textidentisch mit dem Druck.
+                        <lb/>Link zur Handschrift:  <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00163">http://diglib.hab.de/mss/28-blank/start.htm?image=00163</ref>
+                        <lb/><hi rend="bold">Druck:</hi>
+                        <lb/>Der köstliche Schmuck einer jeden gläubigen Seele/ Zuforderst aber einer jedweden Gott geheiligten | Kloster-Jungfrau/ ... Am V. Sonntag Trinitatis dieses 1701ten Jahres ... Bey solenner INAUGUIRATION und Einsegnung Des neu-erbaut- und gestiffteten Jungfrauen-Klosters zu Saltzthalum Zur Ehre Gottes genannt/ ... vorgestellet und ... zum Druck heraus gegeben von CHRISTIAN Specht... Wolfenbüttel: Christian Bartsch (Hof- und Kanzlei-Buchdrucker) [1701].  51 (u. 1) S., 4°.
+                        <lb/>HAB: 3 Exemplare: <ref target="https://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=13576484X">Gn 11604</ref> (ohne Exlibris oder Supralibros, ohne Gebrauchsspuren; Ex. weicht an einer Stelle im Druck minimal von den beiden anderen Ex. ab); <ref target="https://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=654486484">Yv 13. 8° Helmst.</ref>; (=identisch mit:)  QuN 293, ein Sammelband mit verschiedenen gedruckten Predigten von 1702ff. aus Braunschweig, Wolfenbüttel, Helmstedt, Salzdahlum, Hildesheim, Quedlinburg, Bayreuth. Der köstliche Schmuck als 12. Stück (<ref target="https://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=654486484">QuN 293 [12]</ref>). Der Sammelband trägt auf dem vorderen Innendeckel das Exlibris Ludwig Rudolfs, stammt also aus seiner Büchersammlung; sonst keine Gebrauchsspuren, Marginalien, An- oder Unterstreichungen etc.
+                        <lb/>SUB Göttingen: <ref target="http://resolver.sub.uni-goettingen.de/purl?PPN620004258">8° H. Brunsv. 7525</ref> (=identisch mit HAB: Gn 11604)
+                        
+                    </p>
+                    <p>
+                        <lb/>S. 186–188 leer
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">4.)</hi> S. 189–190 (nicht ediert):
+                        <lb/>CONFESSION, | Que le S.rs du Plessis a écrite et signée | de sa main, et ensuite envoyée à Rome | avant que de partir de Wolffenbüttel.
+                        <lb/>Inc.: M. Gilbert Bourocteau dit du Plessis, Pretre, natif du Diocese de Poitiers, que depuis 26 ou 27 ans s’est malheuresement alongé dans l’heresie du Calvin par un tres grand libertinage [... ...] Wolffenb. ce 16me Mars, 1701.
+                        <lb/>Schreiberhand.   
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00201">http://diglib.hab.de/mss/28-blank/start.htm?image=00201</ref>
+                        <lb/>HAB, GBV: Kein Druck nachgewiesen.                        
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">5.)</hi> S. 191–195 (nicht ediert):
+                        <lb/>La Ceremonie du Couronnement de la | Reine d’Angleterre.
+                        <lb/>Inc.: La Ceremonie du Couronnement de la Reine se fit le 4. decemois [sic. Lies: de ce mois] avec toute la Pompe et la Magnificence possible. Sa Majesté s’etant renduë à Westmunster  [...] Londres à 9. May 1702.
+                        <lb/>Schreiberhand. Bezug: Queen Anne (1665–1714; Krönung am 23. 4. 1702).
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00203">http://diglib.hab.de/mss/28-blank/start.htm?image=00203</ref>
+                        <lb/>HAB, GBV: Kein Druck nachgewiesen.                        
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">6.)</hi> S. 196–204 (nicht ediert):
+                        <lb/>Kurtzer Bericht von der Sieg-reichen Action | und Success wormit der Höchste S.r Königlichen | Mayestät von Schweden Glorieuse Waffen | in der glücklichen descente über den | Düna-Strohm wieder die Sächsische | Armee, des Königs in Pohlen, | mit höchstem Verwundern aller | anschauenden zu gesegnen | beliebt.
+                        <lb/>Inc.: Nachdem S.r Königlichen Mayestät von Schweden Unser Aller Gnädigster König und Herr, mit dero Siegreichen Armée ohnweit der Stadt Riga Glücklich angelanget, haben Allerhöchstgedachte Königliche Mayestät Großmüthig resolviret, den bishero vor Unsern Augen bravirenden Feind in seinem Vortheil Tapfer anzugreifen, [... ...]. Riga, den 9ten Julij 1701.
+                        <lb/>Schreiberhand. 
+                        <lb/>Link zur Handschrift:  <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00208">http://diglib.hab.de/mss/28-blank/start.htm?image=00208</ref>
+                        <lb/><hi rend="bold">Druck:</hi> Kurtzer Bericht von der siegreichen Action und Success, womit der höchste Ihro Königl. Majest. von Schweden glorieuse Waffen in der glücklichen Descente über den ... wieder die Sächsische Armée des Königes in Pohlen; mit höchster Verwunderung aller... Riga den 9. Julii [1701]. Stockholm: Wankifs Witwe [1701].  4 Bl., 4°.
+                        <lb/>UB Greifswald:  <ref target="https://opac.lbs-greifswald.gbv.de/DB=1/XMLPRS=N/PPN?PPN=110311784X">520/Nc 1300 adn 7</ref> (Bemerkung: vermisst 1945; aus einem Sammelband zum Nordischen Krieg); SLUB Dresden: <ref target="http://digital.slub-dresden.de/id347818595">Hist. Suec. 403, misc. 20</ref>. In der HAB nicht nachgewiesen.                        
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">7.)</hi> S. 205–208 (nicht ediert):
+                        <lb/>Kurtze Außzugs-Lista | deren jehnigen | PRÆSENTEN | Welche der Türckische Bottschaffter Unserm Glorwürdigsten | Römischen Kayser LEOPOLD, zu Bezeugung aller Freund- | schafft, von dem Türckischen Groß-Sultan | mitgebracht und præsentiret hatt. 
+                        <lb/>Eine Liste von 33 Nummern. Ohne Datierung.
+                        <lb/>Schreiberhand.
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00217">http://diglib.hab.de/mss/28-blank/start.htm?image=00217</ref>
+                        <lb/>Druck: Kurtze Auszugs-Lista ... (o. O. u. J.). 2 Bl., unfol.
+                        <lb/>HAB: in <ref target="https://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=537307508">T 1233 4° Helmst.</ref>, digitalisiert (Sammelband mit Exemplaren der wöchentlich erschienenen Eingelauffenen Ordinari Post-Zeitung nebst deren Beilagen, Nummern aus 1700, aber auch Flugschriften, 1700. Die Kurtze Auszugs-Lista folgt der Eingelauffenen Ordinari Post-Zeitung Nr. 8 (1700). Das <ref target="http://diglib.hab.de/drucke/t-1233-4f-helmst/start.htm?image=00113">Stück</ref> ist im Sammelband nicht numeriert.)                        
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">8.)</hi> S. 209–212 (nicht ediert):
+                        <lb/>General-Vertheilung über Ihro Königlichen Mayestät in Schweden Trouppen in diesem 1701ten Jahr.
+                        <lb/>Schreiberhand.
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00221">http://diglib.hab.de/mss/28-blank/start.htm?image=00221</ref>
+                        <lb/>Tabellarische Übersicht über die verschiedenen schwedischen Truppeneinheiten mit ihrer Stärke nach Standorten (Schweden, Liefland, Pommern und Bremen).                        
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">9.)</hi> S. 213–218 (nicht ediert):
+                        <lb/>Le 15 Aoust a memoire aust fait
+                        <lb/>Inc.: L’on ne scaroit disconvenir que tous les Enemis de la France et ceux qui conspirent avec eux soit en sentimens ou en passions, et a leurs Imititations [sic]  travaillent â diminuer toutes nos prosperités et augmentent et amplifient tout ce qu’ils peuvent croire qui nous est disgratiable et c’est sur ce principe, qu’ils ont commencé d’Insinuer au public que la prise du porte de Carpij nous avoit esté fatale, et du puis Le Prince Eugene [...]
+                        <lb/>Schreiberhand.
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00225">http://diglib.hab.de/mss/28-blank/start.htm?image=00225</ref> 
+                        <lb/>Bericht vom italienischen Kriegsschauplatz zwischen dem Kaiser und Frankreich von einem französischen Berichterstatter (die französische als „nostre armée“).                        
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">10.)</hi> S. 219–223 (nicht ediert):
+                        <lb/>Nouveau Sisteme | d’amour.
+                        <lb/>Inc.: Vous m’aimés, dites vous, aimable Bergere,
+                        <lb/>Et Vous me jurés votre foy [...]
+                        <lb/>Schreiberhand.
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00231">http://diglib.hab.de/mss/28-blank/start.htm?image=00231</ref>                
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">11.)</hi> S. 224–226 (nicht ediert):
+                        <lb/>Stances | Sur la délicieuse entvüe de L. A. S. | Monseigneur Le Duc | AVGVST GVILLAVME Prince | l’héritiér de Brunsüic, Lunébourg et Wolffen- | butel; et Madamme [!] La Princesse Roy-| ale  Son Auguste Epouse , aux bains d’aix | la Chapelle, aprés une longue et ennuy- | euse s’eparation.
+                        <lb/>Inc.: Ce que fait bien souvent le clair flambeau du monde,
+                        Lorsque prez de revoir la charmante Thétys ...
+                        <lb/>Schreiberhand; frz. Gedicht, undatiert, gezeichnet: „Par l’infortuné Duplessis.“
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00236">http://diglib.hab.de/mss/28-blank/start.htm?image=00236</ref>
+                        <lb/><hi rend="bold">Druck:</hi> Stances Sur la délicieuse entrevüe de L.A.S. Monseigneur le Duc Auguste Guillaume Prince héritiér de Brunsüic, Lunébourg et Wolfembutel; et Madame la Princesse Royale son auguste Epouse, aux bains d’aix la Chapelle, aprés une longue et ennuyeuse séparation. O. O. u. J.
+                        <lb/>HAB: <ref target="https://opac.lbs-braunschweig.gbv.de/DB=2/XMLPRS=N/PPN?PPN=1025499824">G 3: G 101</ref>.  Einblattdruck.  Der HAB-Opac vermutet 1720 als Erscheinungsjahr, weil für das Herzogspaar August Wilhelm und Elisabeth Sophie Marie ein Kuraufenthalt in Aachen/ Aix la Chapelle belegt ist.                        
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">12.)</hi> S. 227 (nicht ediert):
+                        <lb/>LES LOGEMENTS | des Princes de l’Europe | dans les rües de Paris.
+                        <lb/>Schreiberhand.
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00239">http://diglib.hab.de/mss/28-blank/start.htm?image=00239</ref> 
+                        <lb/>Listenförmige Aufstellung, vom Papst, dem König von Frankreich usw. bis zum Herzog von Savoyen, und ihren Wohnadressen. Frz., undatiert und ungezeichnet.
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">13.)</hi> S. 228 (nicht ediert):
+                        <lb/>In recuperationem Kamiennecy.
+                        <lb/>Inc.: Kamienice Lapis est quod Sarmata nemo negabit vincere et hoc Saxum non nisi Saxo potest [...]
+                        <lb/>Schreiberhand. Lat., vermutlich ein Exzerpt.
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00240">http://diglib.hab.de/mss/28-blank/start.htm?image=00240</ref>                        
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">14.)</hi> S. 229–232 (nicht ediert):
+                        <lb/>Deutsches Gedicht in 9 neunzeiligen Strophen. 
+                        <lb/>Inc.: Ich, der ich nichts, als nur ein Schatten
+                        <lb/>und Schehm [lies: Schemen] noch übrig bin von mir,
+                        <lb/>beklage meine böse Thaten
+                        <lb/>für deinem Angesicht alhier [...]
+                        <lb/>Schreiberhand; keine Überschrift, undatiert und ungezeichnet; ziemlich amateurhaft.
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00241">http://diglib.hab.de/mss/28-blank/start.htm?image=00241</ref>                        
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">15.)</hi> 233–240 (nicht ediert):
+                        <lb/>Brief, dt., Abschrift ohne Adresse, Datum und Unterschrift. Anrede: „Hoch-Edler etc. Insonders hochgeehrter Herr“.
+                        <lb/>Schreiberhand.
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00245">http://diglib.hab.de/mss/28-blank/start.htm?image=00245</ref>                        
+                        <lb/>Es geht um eine beabsichtigte morganatische Ehe des Fürsten [Christian Eberhard] von Ostfriesland, nachdem dessen erste Gemahlin [Eberhardine Sophie von Oettingen-Oettingen, Schwester von Christine Luise] verstorben ist [1700]. (1701 vermählte sich Christian Eberhard mit Anna Juliana von Kleinau).
+                    </p>
+                    <p>
+                        <lb/><hi rend="bold">16.)</hi> S. 241–243 (nicht ediert):
+                        <lb/>Leichen-Text und letzte Gedancken | Der Hoch- und Wohlgebornen Frauen, Mariæ Auroræ | Gräffinn von Königsmarcken.
+                        <lb/>Schreiberhand, undatiert und ungezeichnet.
+                        <lb/>Link zur Handschrift: <ref target="http://diglib.hab.de/mss/28-blank/start.htm?image=00253">http://diglib.hab.de/mss/28-blank/start.htm?image=00253</ref> 
+                        <lb/>Die Königsmarck starb 1728. Der Leichentext mit ihren letzten Gedanken kann aber von ihr selbst und also mehr oder weniger kurz vor ihrem Tod aufgesetzt worden sein.                        
+                    </p>
+                    <p>
+                        <lb/>S. 244: leer, danach etliche unpaginierte/unfoliierte Blätter.
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

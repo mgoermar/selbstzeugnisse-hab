@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" next="1623.xml" n="1622" prev="1621.xml" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1622</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00101.jpg" n="49r">Anno 1622</head></div>
+            
+            <div xml:id="E1622-02-16"><head><date when="1622-02-16">den 16 Febr<ex>uari</ex> <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Langwedel" type="place">Langwedel</rs>. 4 m<ex>eill</ex></p></div>
+            
+            <div xml:id="E1622-02-17"><head><date when="1622-02-17">d<ex>e</ex>n 17 Febr<ex>uari</ex> <c>☉</c>.</date></head><p> biß <rs ref="register.xml#Walsrode" type="place">Walßrade</rs>, 3.
+                m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1622-02-18"><head><date when="1622-02-18">d<ex>e</ex>n 18. Febr<ex>uari</ex>
+                <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Oerrel" type="place">Orle</rs>, <rs ref="register.xml#Ebstorf" type="place">Ebstorf</rs>,</p></div>
+            
+            <div xml:id="E1622-02-19"><head><date when="1622-02-19">d<ex>e</ex>n 19 Febr<ex>uari</ex>
+                <c>♂</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
+            
+            <pb facs="http://selbstzeugnisse.hab.de/edition/images/00102.jpg" n="49v"/>
+            
+            <div><head><foreign xml:lang="lat">Eodem Anno.</foreign><note type="translation">Im selben Jahr</note></head></div>
+            
+            <div xml:id="E1622-07-10"><head><date when="1622-07-10">den 10. Julÿ. <c>☿</c>.</date></head><p> biß <rs ref="register.xml#Neustadt_Glewe" type="place">Vergün:
+                Newstadt</rs>, 5. m<ex>eill</ex>.</p></div>
+            
+            <div xml:id="E1622-07-11"><head><date when="1622-07-11">den 11. Julÿ. <c>♃</c></date></head><p> biß <rs ref="register.xml#Plau" type="place">Plawe</rs>.</p></div>
+            
+            <div xml:id="E1622-07-12"><head><date when="1622-07-12">den 12 Julÿ, <c>♀</c>,</date></head><p> biß <rs ref="register.xml#Mirow" type="place">Mirow</rs>.</p></div>
+            
+            <div xml:id="E1622-07-13"><head><date when="1622-07-13">d<ex>e</ex>n 13 Julÿ. <c>♄</c></date></head><p> biß <rs ref="register.xml#Neubrandenburg" type="place">N<ex>eu</ex> Brandenburgk</rs>.</p></div>
+            
+            <div xml:id="E1622-07-14"><head><date when="1622-07-14">den 14. Julÿ, <c>☉</c></date></head><p> biß <rs ref="register.xml#Torgelow" type="place">Torgerlaw.</rs></p></div>
+            
+            <div xml:id="E1622-07-15"><head><date when="1622-07-15">den 15 Julÿ. <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Loecknitz" type="place">Löckenitz</rs>;
+                <rs ref="register.xml#Stettin" type="place">Alten Stetin</rs>:</p></div>
+            
+            <div xml:id="E1622-10-12"><head><date when="1622-10-12">den 12 8bris. <c>♄</c></date></head><p> wied<ex>er</ex> zu rücke, biß <rs ref="register.xml#Torgelow" type="place">Torgerlaw</rs>.</p></div>
+            
+            <div xml:id="E1622-10-13"><head><date when="1622-10-13">den 13 8bris <c>☉</c>.</date></head><p> biß <rs ref="register.xml#Neubrandenburg" type="place">N<ex>eu</ex> Brandenburgk.</rs></p></div>
+            
+            <div xml:id="E1622-10-14"><head><date when="1622-10-14">den 14. 8bris, <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Mirow" type="place">Miraw</rs>.</p></div>
+            
+            <div xml:id="E1622-10-15"><head><date when="1622-10-15">den 15. 8bris <c>♂</c>.</date></head><p> Stille
+                gelegen.</p></div>
+            
+            <div xml:id="E1622-10-16"><head><date when="1622-10-16">den 16. 8bris. <c>☿</c></date></head><p> 
+                biß <subst><del rend="overstrike">N<ex>eu</ex> Brandenburgk</del> <add place="above"><rs ref="register.xml#Plau" type="place">Plawe</rs>.</add></subst></p></div>
+            
+            <div xml:id="E1622-10-17"><head><date when="1622-10-17">den 17. 8bris <c>♃</c>.</date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>.</p></div>
+            
+            <div xml:id="E1622-10-19"><head><date when="1622-10-19">d<ex>e</ex>n 19. 8bris <c>♄</c>.</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
+            
+            <div><head><foreign xml:lang="lat">Eodem Anno.</foreign><note type="translation">Im selben Jahr</note></head></div>
+            
+            <div xml:id="E1622-12-16"><head><date when="1622-12-16">d<ex>e</ex>n 16 Xbris <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>.</p></div>
+            
+            <div xml:id="E1622-12-17"><head><date when="1622-12-17">den 17. Xbris <c>♂</c></date></head><p> biß
+                <rs ref="register.xml#Schneverdingen" type="place">Schneverding</rs>.</p></div>
+            
+            <div xml:id="E1622-12-18"><head><date when="1622-12-18">d<ex>e</ex>n 18 Xbris <c>☿</c></date></head><p> biß <rs ref="register.xml#Langwedel" type="place">Langwedel</rs>.</p></div>
+            
+            <div xml:id="E1622-12-19"><head><date when="1622-12-19">d<ex>e</ex>n 19. Xbris <c>♃</c>,</date></head><p> biß <rs ref="register.xml#Delmenhorst" type="place">Delmenhorst</rs>.</p></div>
+            
+            <div xml:id="E1622-12-26"><head><date when="1622-12-26">den 26 Xbris <c>♃</c>.</date></head><p> biß
+                <rs ref="register.xml#Langwedel" type="place">Langwedel</rs>.</p></div>
+            
+            <div xml:id="E1622-12-27"><head><date when="1622-12-27">d<ex>e</ex>n 27. Xbris <c>♀</c></date></head><p> biß <rs ref="register.xml#Schneverdingen" type="place">Schneverding</rs>.</p></div>
+            
+            <div xml:id="E1622-12-28"><head><date when="1622-12-28">d<ex>e</ex>n 28. Xbris <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Scharnebeck" type="place">Scharnebeck</rs>.</p></div>
+           
+            <div xml:id="E1622-12-29"><head><date when="1622-12-29">d<ex>e</ex>n 29. Xbris <c>☉</c></date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>.</p></div>
+            
+        </body>
+    </text>
+</TEI>

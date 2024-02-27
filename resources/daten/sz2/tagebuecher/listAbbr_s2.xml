@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sz2.register.abkürzung">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Abkuerzungsregister</title> 
+            <respStmt>
+               <resp>erstellt und bearbeitet von</resp>                    
+               <name>Alexander Zirr</name>
+               <name>Andreas Herz</name>
+               <name>Jan-Hendrik Hütten</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+               <ptr target="http://www.hab.de"/>
+               <address>
+                  <street>Lessingplatz 1</street>
+                  <name type="city">Wolfenbüttel</name>
+                  <postCode>D-38299</postCode>
+                  <name type="country">Germany</name>
+               </address>
+            </publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>        
+   <text>
+      <body>
+         <list xml:id="abbr">
+            <item xml:id="dukaten"><!-- jhh -->
+               <term>Dukaten</term>
+            </item>
+            <item xml:id="durchlaucht">
+               <term>Durchlaucht</term>
+            </item>
+            <item xml:id="gute_groschen">
+               <term>Gute Groschen</term>
+            </item>
+            <item xml:id="guter_groschen">
+               <term>guter Groschen</term>
+            </item>
+            <item xml:id="groschen">
+               <term>Groschen</term>
+            </item>
+            <item xml:id="gulden">
+               <term>Gulden (florenus)</term>
+            </item>
+            <item xml:id="himbten">
+               <term>Himbten</term>
+            </item>
+            <item xml:id="hzbul"><!-- jhh -->
+               <term>Herzog zu Braunschweig und Lüneburg</term>
+            </item>
+            <!--<item xml:id="ll">
+               <term>Legibus</term>
+            </item>-->
+            <item xml:id="locus_sigilli">
+               <term>Locus Sigilli (Ort des Siegels)</term>
+            </item>
+            <item xml:id="mariengroschen">
+               <term>Mariengroschen</term>
+            </item>
+            <item xml:id="pfennige">
+               <term>Pfennige (denarii)</term>
+            </item>
+            <item xml:id="pfund">
+               <term>Pfund (libra)</term>
+            </item>
+            <item xml:id="reichsdaler">
+               <term>Reichsdaler</term>
+            </item>
+            <item xml:id="thaler">
+               <term>Thaler</term>
+            </item>
+            <item xml:id="thalern">
+               <term>Thalern</term>
+            </item>
+            <item xml:id="wochentagszeichen_donnerstag">
+               <term>Donnerstag</term>
+            </item>
+            <item xml:id="zentner">
+               <term>Zentner</term>
+            </item> 
+         </list>
+      </body>
+   </text>
+</TEI> 

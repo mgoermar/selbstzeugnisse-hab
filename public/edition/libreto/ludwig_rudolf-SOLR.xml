@@ -1,0 +1,2421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ludwig_rudolf0</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Les Caractères De Theophraste, Traduits du Grec. Avec Les Caracteres Ou Les Moeurs De Ce Siecle, Par M. De La Bruyere de l'Academie Françoise. Avec La Clef En Marge, divisé en trois Volumes</field>
+    <field name="author">Theophrastus#118621793</field>
+    <field name="author">La Bruyère, Jean#118725785</field>
+    <field name="contributor">Coste, Pierre#11900478X</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Wetstein</field>
+    <field name="year">1720</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">237048752</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237048752</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#237048752</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1720</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf1</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Niederlag, Bey Hochlöbl. Reichs-Convent, in deß auch Heil. Reichs Stadt Regenspurg von Anno 1710. 1711. und 1712. ventiliret worden</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1712</field>
+    <field name="format">2</field>
+    <field name="genres">Streitschrift:jur.</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">14376083</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14376083</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#14376083</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf2</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Alix de France. nouvelle historique</field>
+    <field name="author">Montfort, Louis</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Roger</field>
+    <field name="year">1712</field>
+    <field name="mediaType">Druck</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">595406939</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=595406939</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#595406939</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf3</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Les Mille &amp; Un Jour Tome Troisiéme</field>
+    <field name="contributor">Pétis de la Croix, François#117702269</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Coup</field>
+    <field name="year">1712</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">250753391</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250753391</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#250753391</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf4</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Les Mille &amp; Un Jour Tome Second</field>
+    <field name="contributor">Pétis de la Croix, François#117702269</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Coup</field>
+    <field name="year">1712</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">250752980</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=250752980</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#250752980</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf5</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">La Vie De Cesar Borgia, appellé du depuis Le Duc De Valentinois. Enrichi de belles figures en Taille douce</field>
+    <field name="author">Tomasi, Tomaso#121889556</field>
+    <field name="contributor">Freschot, Casimir#128597771</field>
+    <field name="place_1">Leide</field>
+    <field name="publishers">Haak</field>
+    <field name="year">1712</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">23610506X</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=23610506X</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#23610506X</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf6</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Résolution de leurs Hautes Puissances. Memoire &amp; Documents Servant a montrer, que c'est a tort que les Estats Generaux des Provinces Unies sont chargez, par les Resolutions ou Votes de la Chambre des Communes du Parlement de la Grande-Bretagne, &amp; par l'Addresse de la même Cahmbre [!], presentée sur ce sujet à sa Majesté Britannique d'avoir manqué à divers égards, pendant le cours de la presente guerre, a fournir ce qu'ils doivent pour leur Quote part, ou Portion, suivant leurs engagements</field>
+    <field name="place_1">[s'Gravenhage]</field>
+    <field name="publishers">Scheltus</field>
+    <field name="year">1712</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150965478</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150965478</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150965478</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf7</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Alethophili Sendschreiben an Herrn M. R. O. Von unterschiedlichen Etliche Jahre her vorgegebenen Neuen Propheten und Prophezeyungen. Worinnen Absonderlich auch von der Welt-beruffenen Männer Theophrasti Paracelsi, Isaac Bickerstafs, Emanuel Philippi Paris, Georgii Reichardi und Nicolai Drabicii Vaticiniis wegen der jetzigen Schwedischen und anderer Conjuncturen/ ausführlicher Bericht geschiehet</field>
+    <field name="author">Kaiser, Johann#1055513329</field>
+    <field name="place_1">Cölln</field>
+    <field name="year">1712</field>
+    <field name="format">4°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">10221069-004</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10221069-004</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#10221069-004</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf8</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Tratté de l'amour de Dieu</field>
+    <field name="author">Saurin, Élie#1055323457</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Roger</field>
+    <field name="year">1712</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150381794</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150381794</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150381794</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf9</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Memoires Anecdotes De La Cour Et Du Clergé De France. Avec L'Histoire du Différend du Cardinal de Noailles ; avec les Evêques de Luc̜on &amp; de la Rochelle, &amp; les Jesuites</field>
+    <field name="author">Denis, Jean Baptiste#1055469648</field>
+    <field name="place_1">Londres</field>
+    <field name="year">1712</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">14765842X</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14765842X</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#14765842X</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf10</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät .. Regierung vorgefallenen Reichs-Historie. Alles mit behörigen Documenten bekräfftiget, auch mit andern curieusen u. nützlichen Reichs-Materien erläutert, Als I. Von der Wahl-Crönungs-Ceremonien eines Römischen Käysers; II. Gründliche Nachricht von der Güldenen Bulle ..; III. Von denen Reichs-Vicariis ..</field>
+    <field name="author">Zschackwitz, Johann Ehrenfried#117014931</field>
+    <field name="place_1">Leipzig</field>
+    <field name="place_2">Leipzig</field>
+    <field name="publishers">Gleditsch</field>
+    <field name="publishers">Weidmann</field>
+    <field name="year">1712</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">11405236-001</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+11405236-001</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#11405236-001</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1712</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf11</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">La Communion Sainte, Ou Traité sur la nécessité &amp; les moyens de communier dignement</field>
+    <field name="author">Basnage de Beauval, Jacques#120538253</field>
+    <field name="place_1">Rotterdam</field>
+    <field name="publishers">Acher</field>
+    <field name="year">1711</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">829182470</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=829182470</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#829182470</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf12</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'Espion Dans Les Cours Des Princes Chrétiens, Ou Lettres Et Memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe.̤ T. 2</field>
+    <field name="author">Marana, Giovanni Paolo#119080370</field>
+    <field name="place_1">Cologne</field>
+    <field name="publishers">Kinkius</field>
+    <field name="year">1711</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">360588395</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=360588395</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#360588395</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf13</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Les Campagnes de Charles XII. Roi de Suède T. 4</field>
+    <field name="author">Grimarest, Jean-Léonor le Gallois#100144489</field>
+    <field name="place_1">LaHaye</field>
+    <field name="publishers">De Voys</field>
+    <field name="year">1711</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">243633238</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=243633238</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#243633238</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf14</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 6</field>
+    <field name="author">Marana, Giovanni Paolo#119080370</field>
+    <field name="place_1">Cologne</field>
+    <field name="publishers">Kenkus</field>
+    <field name="year">1711</field>
+    <field name="format">8"</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">236485989</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236485989</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#236485989</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf15</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 1</field>
+    <field name="author">Marana, Giovanni Paolo#119080370</field>
+    <field name="place_1">Cologne</field>
+    <field name="publishers">Kenkus</field>
+    <field name="year">1711</field>
+    <field name="format">8"</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">236483579</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236483579</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#236483579</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf16</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Send-Schreiben an einen S. Theologum, Jn welchem die 50. Motiven/ dadurch eine Erlauchte Person zum Abtritte von der Evangelisch-Lutherischen zu der Römisch-Catholischen Kirche soll seyn verleitet worden, Kürtzlich nach und aus Gottes Worte geprüfet. Sich anfangs zu eigner Erbauung aufgesetzt; Hernach aber .. zu anderer Stärchung überlassen von Einem Liebhaber der Warheit ; Zum Beschlusse sind hinzu gefüget 50. wichtige Motiven/ welche einen jeden rechtschaffenen Christen abhalten können/ daß er sich zu der Römischen Kirche nicht begebe</field>
+    <field name="author">Schwedler, Johann Christoph#117653713</field>
+    <field name="contributor">Günther, Johann#116912731</field>
+    <field name="place_1">Leipzig</field>
+    <field name="publishers">Braun</field>
+    <field name="year">1711</field>
+    <field name="format">8°</field>
+    <field name="genres">Streitschrift:theol.</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">10453261</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10453261</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#10453261</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf17</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Le grand Scanderberg. Nouvelle</field>
+    <field name="author">La Roche-Guilhem, Anne#119462222</field>
+    <field name="place_1">La Haye</field>
+    <field name="publishers">Swart</field>
+    <field name="year">1711</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">215076435</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=215076435</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#215076435</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf18</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 5</field>
+    <field name="contributor">Marana, Giovanni Paolo#119080370</field>
+    <field name="place_1">Cologne</field>
+    <field name="publishers">Kinkius</field>
+    <field name="year">1711</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">186712855</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712855</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#186712855</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf19</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 4</field>
+    <field name="contributor">Marana, Giovanni Paolo#119080370</field>
+    <field name="place_1">Cologne</field>
+    <field name="publishers">Kinkius</field>
+    <field name="year">1711</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">186712839</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712839</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#186712839</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf20</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 3</field>
+    <field name="contributor">Marana, Giovanni Paolo#119080370</field>
+    <field name="place_1">Cologne</field>
+    <field name="publishers">Kinkius</field>
+    <field name="year">1711</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">186712804</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=186712804</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#186712804</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf21</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Les Oeuvres</field>
+    <field name="author">Crébillon, Prosper Jolyot#118677284</field>
+    <field name="place_1">La Haye</field>
+    <field name="publishers">Johnson</field>
+    <field name="year">1711</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151704813</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151704813</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151704813</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf22</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Le nouveau Gentilhomme bourgeois ou les fées à la mode</field>
+    <field name="author">Aulnoy, Marie Catherine Le Jumel de Barneville#118808788</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Roger</field>
+    <field name="year">1711</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151681449</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151681449</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151681449</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf23</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Heilsahme Seelen-Artzeney. Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzogen zu Braunschweig und Lüneburg</field>
+    <field name="author">Finen, Eberhard#12131412X</field>
+    <field name="contributor">Zilliger, Johann Georg#138517894</field>
+    <field name="contributor">Ludwig Rudolf Braunschweig-Lüneburg, Herzog#124700470</field>
+    <field name="place_1">Braunschweig</field>
+    <field name="coordinates_place_1">+052.265940,+010.526730</field>
+    <field name="publishers">Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr.</field>
+    <field name="year">1711</field>
+    <field name="format">8°</field>
+    <field name="genres">Erbauungsliteratur</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">12838306</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12838306</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#12838306</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf24</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">[Satirae]</field>
+    <field name="author">Iuvenalis, Decimus Iunius#118556126</field>
+    <field name="contributor">Silvestri, Camillo#1012625001</field>
+    <field name="place_1">Padova</field>
+    <field name="publishers">^[Drucker:] Stamperia del Seminario</field>
+    <field name="year">1711</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="languages">ita</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150881991</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150881991</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150881991</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf25</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'Histoire [et la religion] des Juifs, réclamée et retablie par son véritable auteur Basnage, contre l'édition anonyme et tronquée, qui s'en est faite à Paris chez Roulland, 1710. Avec plusieurs additions, pour servir de 6. tome à cette Histoire</field>
+    <field name="author">Basnage de Beauval, Jacques#120538253</field>
+    <field name="place_1">Rotterdam</field>
+    <field name="publishers">Fritsch &amp; Böhm</field>
+    <field name="year">1711</field>
+    <field name="format">458 S., 3 Bl. ; 8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150600720</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150600720</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150600720</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf26</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'Amant Oisif. Contenant Cinquante Nouvelles Espagnoles. Divisé En Trois Parties</field>
+    <field name="author">Riflé de Garouville, Savinien#100140858</field>
+    <field name="place_1">Brusselles</field>
+    <field name="publishers">Backer</field>
+    <field name="year">1711</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150346719</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150346719</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150346719</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf27</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">État Ancien Et Moderne Des Duchés De Florence, Modene, Mantoue, &amp; Parme. Avec l'Histoire Anecdote des Intrigues des Cours de leurs derniers Princes ; On y a ajouté une semblable Relation de la Ville &amp; Légation de Bologne</field>
+    <field name="author">Freschot, Casimir#128597771</field>
+    <field name="contributor">Vitriarius, Jean Jacques</field>
+    <field name="place_1">Utrecht</field>
+    <field name="place_2">Utrecht</field>
+    <field name="publishers">Broedelet</field>
+    <field name="publishers">Poolsum</field>
+    <field name="year">1711</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150342829</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150342829</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150342829</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1711</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf28</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Curioser Staats-Discurs Nebst Einiger politischen Erleuterung über von Ihrer Königl. Majestät Von Groß-Britannien, [et]c. [et]c. An das Hochlöbliche Röm. Reichs-Convent zu Regenspurg Abgeschickten Ermahnungs-Brieff, Von nachdrücklichen Inhalt wegen Fortsetzung des Krieges wider die Cron Franckreich als allgemeinen Reichs-Feindt</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1710</field>
+    <field name="format">4°</field>
+    <field name="genres">Gelegenheitsschrift</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">12955116</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12955116</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#12955116</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1710</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf29</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Les Pensées ingénieuses ou les Épigrammes d'Owen</field>
+    <field name="author">Owen, John#118787446</field>
+    <field name="contributor">LeBrun, Antoine Louis#172224861</field>
+    <field name="place_1">Paris</field>
+    <field name="publishers">Ribou</field>
+    <field name="year">1710</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151586829</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151586829</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151586829</field>
+    <field name="yearNormalized">1710</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf30</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Eberhard Finens Erbauliche Reden über die Paßions-Geschicht/ und andere Sprüche Heiliger Schrifft Wie auch Einige Stücke des Catechismi. Zur Vorbereitung In denen Auf Hochstl. gnädigste Verordnung theils bey den ehemahligen Krancken-Bette/ theils bey den Gebrauch der warmen Bäder zu Wißbaden und Aachen/ auch nachgehends zu Braunschweig und Saltzdahlen angestellten Hauß-Betstunden/ gehalten .. ; nebst den Andern Theil ..</field>
+    <field name="author">Finen, Eberhard#12131412X</field>
+    <field name="place_1">Braunschweig</field>
+    <field name="publishers">Zilliger</field>
+    <field name="year">1710</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">12838292</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12838292</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#12838292</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1710</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf31</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Histoire politique et amoureuse du Cardinal Louis ^[Louis ^Manuel] Portocarrero Archevêque de Toledo</field>
+    <field name="place_1">o.O.</field>
+    <field name="publishers">LeSincere</field>
+    <field name="year">1710</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150789556</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150789556</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150789556</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1710</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf32</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Unvorgreiffliche Gedancken eines schwedischen Unterthanen über das jüngst heraus gegebene Dänische Manifest, so hiebey mit angedruckt</field>
+    <field name="author">Palthen, Johann Philipp#116021675</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1710</field>
+    <field name="format">4°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">10222405-009</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10222405-009</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#10222405-009</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1710</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf33</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Considération sur l'éternité</field>
+    <field name="author">Abelly, Louis#12232319X</field>
+    <field name="place_1">Brusselles</field>
+    <field name="publishers">de Backer</field>
+    <field name="year">1710</field>
+    <field name="mediaType">Druck</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">146978870</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=146978870</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#146978870</field>
+    <field name="yearNormalized">1710</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf34</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Sendschreiben an Mylord [et]c. [et]c.Betreffende die Nothwendigkeit Gerechtsame/ der völligen Restitution der Spanischen Monarchie. Aus dem Englischen übersetzet. Barbaris pro Legibus semper Dominorum Imperia fuere</field>
+    <field name="place_1">Erlangen</field>
+    <field name="publishers">Lorber</field>
+    <field name="year">1710</field>
+    <field name="format">4°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">14631520-004</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14631520-004</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#14631520-004</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1710</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf35</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Oeuvres Diverses De Monsieur Jean Locke.</field>
+    <field name="author">Locke, John#118573748</field>
+    <field name="place_1">Rotterdam</field>
+    <field name="publishers">Fritsch &amp; Böhm</field>
+    <field name="year">1710</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">134055551</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134055551</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#134055551</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1710</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf36</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Petrone Latin Et François. Traduction Entiere, Suivant Le Manuscrit Trouvé A Belgrade en 1688. ; Avec plusieurs Remarques &amp; Additions, qui manquent dans la premiere Edition</field>
+    <field name="author">Petronius Arbiter#118593293</field>
+    <field name="contributor">Nodot, François#118831917</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1709</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">11261765-001</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+11261765-001</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#11261765-001</field>
+    <field name="yearNormalized">1709</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf37</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Sonnets chrétiens sur divers sujets</field>
+    <field name="author">Drelincourt, Laurent#130060836</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Desbordes</field>
+    <field name="year">1709</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151090645</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151090645</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151090645</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1709</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf38</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Rechte Anwendung der jetzigen kurtzen Lebens-Zeit/ und Christliche Vorbereitung zu der künfftigen Seeligen Ewigkeit. Nach Anleitung derer auserlesensten Sprüche Heil. Schrifft/ allen Christen zur Erlernung der allernöthigsten/ allerfürtrefflichsten und Seeligen Sterbe-Kunst mitgetheilet</field>
+    <field name="author">Toppe, Philipp Julius#133492966</field>
+    <field name="contributor">Liebernickel, Gottfried#116996501</field>
+    <field name="contributor">Liebernickel, Gottfried#1037506340</field>
+    <field name="place_1">Hamburg</field>
+    <field name="publishers">bey Gottfried Liebernickel</field>
+    <field name="year">1708</field>
+    <field name="format">12°</field>
+    <field name="subjects">Ars moriendi</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">13349112</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+13349112</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#13349112</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1708</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf39</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'Homme De Trompé Ou Le Criticon T. 3</field>
+    <field name="author">Gracián y Morales, Baltasar#118696874</field>
+    <field name="place_1">La Haye</field>
+    <field name="publishers">Ellinckhuysen</field>
+    <field name="year">1708</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">330455036</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=330455036</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#330455036</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1708</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf40</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'Homme De Trompé Ou Le Criticon T. 2</field>
+    <field name="author">Gracián y Morales, Baltasar#118696874</field>
+    <field name="place_1">La Haye</field>
+    <field name="publishers">Ellinckhuysen</field>
+    <field name="year">1708</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">33045501X</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=33045501X</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#33045501X</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1708</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf41</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Histoire D'Hypolite, Comte de Duglas</field>
+    <field name="author">Aulnoy, Marie Catherine Le Jumel de Barneville#118808788</field>
+    <field name="place_1">Brusselle</field>
+    <field name="publishers">De Backer</field>
+    <field name="year">1708</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">237690055</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=237690055</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#237690055</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1708</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf42</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'Homme De Trompé Ou Le Criticon T. 1</field>
+    <field name="author">Gracián y Morales, Baltasar#118696874</field>
+    <field name="place_1">La Haye</field>
+    <field name="publishers">Ellinckhuysen</field>
+    <field name="year">1708</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">235847062</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=235847062</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#235847062</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1708</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf43</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Nouveau Traité De La Civilité Qui Se Pratique En France Parmi Les Honnestes Gens</field>
+    <field name="author">Courtin, Antoine#120374307</field>
+    <field name="contributor">Chevreuse, ...</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Schelte</field>
+    <field name="year">1708</field>
+    <field name="format">12°</field>
+    <field name="genres">Handbuch</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150292511</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150292511</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150292511</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1708</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf44</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Qui comprend depuis Auguste jusqu'à Galba. Histoire des empereurs et des autres princes, qui ont régné durant les six premiers siècles de l'Église .. T. 1, Pt. 1</field>
+    <field name="author">Le Nain de Tillemont, Sébastien#128681667</field>
+    <field name="place_1">Bruxelles</field>
+    <field name="publishers">Fricx</field>
+    <field name="year">1707</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">25375111X</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=25375111X</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#25375111X</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1707</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf45</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Joh. Wolffgang Triers kurtze Fragen von den menschlichen Neigungen. darinnen von deren Ursprung und Würckungen auf eine besondere Art gehandelt und zugleich angewiesen wird, wie man dieselben so wohl an sich als an andern erkennen könne, auch sich sonsten im gemeinen Leben dißfalls zu verhalten habe</field>
+    <field name="author">Trier, Johann Wolfgang#104043806</field>
+    <field name="place_1">Leipzig</field>
+    <field name="publishers">Gleditsch</field>
+    <field name="year">1707</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">12388920-004</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12388920-004</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#12388920-004</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1707</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf46</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Das grosse Dessein des Louis von Baaden. Welches Er An seinem Sterbe-Tage den 4. Januarii dieses 1707. Jahres glücklich hinaus geführt. in einer Patentation gezeiget von einem am Rheinstrom wohnenden Teutschen</field>
+    <field name="place_1">Rastatt</field>
+    <field name="year">1707</field>
+    <field name="format">4°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">10239014-003</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10239014-003</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#10239014-003</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1707</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf47</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'Usage Du Monde Ou Le Parfait Modele D'Un Honneste Homme</field>
+    <field name="author">Goussault, Jacques#120006294</field>
+    <field name="place_1">Paris</field>
+    <field name="place_2">Bruxelles</field>
+    <field name="publishers">Brunet &amp; Rigaut</field>
+    <field name="publishers">Leonard</field>
+    <field name="year">1707</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151605971</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151605971</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151605971</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1707</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf48</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Warhafftige Abbildung Aller itzo im Krieg begriffenen Hohen Potentaten und dero Generals. Durch Beibringung verschiedener aus Betrachtung dero Actionen gezogenen Remarques .. Mit einem Entwurff von der .. Kunst, die Gemüther der Menschen zu erkennen, worin gezeiget und untersuchet wird: I. ob eine solche Kunst zu finden, II. wie sie zu erlernen, III. wozu sie nütze und IV. ob sie untrüglich sey?</field>
+    <field name="place_1">Cöln</field>
+    <field name="publishers">Marteau</field>
+    <field name="year">1707</field>
+    <field name="format">4°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">14373211-005</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14373211-005</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#14373211-005</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1707</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf49</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Histoire du Vieux et du Nouveau Testament. enrichie de Figures .. etc.</field>
+    <field name="contributor">Basnage de Beauval, Jacques#120538253</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Pierre Mortier</field>
+    <field name="year">1706</field>
+    <field name="mediaType">Druck</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">14680340X</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=14680340X</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#14680340X</field>
+    <field name="yearNormalized">1706</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf50</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1705</field>
+    <field name="format">4°</field>
+    <field name="genres">Flugschrift</field>
+    <field name="genres">Satire</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">10885366-ddd</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10885366-ddd</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#10885366-ddd</field>
+    <field name="yearNormalized">1705</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf51</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Réflexions Ou Sentences Et Maximes Morales. De Monsieur De La Rochefoucault ..</field>
+    <field name="author">La Rochefoucauld, François#118569775</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Mortier</field>
+    <field name="year">1705</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151033234</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151033234</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151033234</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1705</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf52</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1705</field>
+    <field name="format">4°</field>
+    <field name="genres">Satire</field>
+    <field name="genres">Flugschrift</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">10885366-ddd</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10885366-ddd</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#10885366-ddd</field>
+    <field name="yearNormalized">1705</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf53</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Instructions Secretes Des Jesuites. Suivant l'original</field>
+    <field name="place_1">Köln</field>
+    <field name="coordinates_place_1">+050.933333,+006.950000</field>
+    <field name="publishers">Sincere</field>
+    <field name="year">1704</field>
+    <field name="format">8o</field>
+    <field name="genres">Ordensliteratur:Jesuiten</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">11525770</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+11525770</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#11525770</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1704</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf54</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Suite Des Mazarinischen Reverence</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1704</field>
+    <field name="format">4°</field>
+    <field name="genres">Flugschrift</field>
+    <field name="genres">Satire</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">14580349</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14580349</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#14580349</field>
+    <field name="yearNormalized">1704</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf55</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1704</field>
+    <field name="format">4°</field>
+    <field name="genres">Flugschrift</field>
+    <field name="genres">Satire</field>
+    <field name="genres">Brief</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">10093591</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+10093591</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#10093591</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1704</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf56</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Mazarini Abschieds-Compliment</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1704</field>
+    <field name="format">4°</field>
+    <field name="genres">Flugschrift</field>
+    <field name="genres">Satire</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">11086432</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+11086432</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#11086432</field>
+    <field name="yearNormalized">1704</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf57</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Traité du mérite</field>
+    <field name="author">Vassetz abbé#1055126783</field>
+    <field name="place_1">La Haye</field>
+    <field name="publishers">Voys</field>
+    <field name="year">1704</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">134957520</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=134957520</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#134957520</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1704</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf58</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet</field>
+    <field name="author">Schweinitz, David#12348796X</field>
+    <field name="place_1">Frankfurt, Main</field>
+    <field name="place_2">Leipzig</field>
+    <field name="place_3">Jena</field>
+    <field name="publishers">Rohrlach</field>
+    <field name="publishers">Ehrich</field>
+    <field name="year">1701</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">12836362</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+12836362</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#12836362</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1701</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf59</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Bouclier D'Estat Et De Justice, Contre le dessein de la France ..</field>
+    <field name="author">Lisola, François Paul#11878014X</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1701</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">VD18</field>
+    <field name="idManifestation">14611392-003</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&amp;IKT=1007&amp;TRM=VD18+14611392-003</field>
+    <field name="nameSystemManifestation">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</field>
+    <field name="manifestationFull">VD18#14611392-003</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1701</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf60</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Instructions de l'empereur Charles V. à Philippe II. Roi d'Espagne et de Philippe II. au prince Philippe son fils. Mises en François par Antoine Teissier. 2. édition. A laquelle on a joint la Méthode qu'on a tenuë pour l'éducation des enfans de France</field>
+    <field name="author">Karl Heiliges Römisches Reich, Kaiser#118560093</field>
+    <field name="contributor">Teissier, Antoine#129426024</field>
+    <field name="place_1">A la Haye</field>
+    <field name="publishers">Dole</field>
+    <field name="year">1700</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">136951821</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=136951821</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#136951821</field>
+    <field name="yearNormalized">1700</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf61</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D'Albe</field>
+    <field name="author">Osorio, Antonio#137527616</field>
+    <field name="place_1">Paris</field>
+    <field name="publishers">Guignard</field>
+    <field name="year">1699</field>
+    <field name="format">12°</field>
+    <field name="genres">Biographie</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">135733421</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=135733421</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#135733421</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1699</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf62</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Le triomphe de la deesse monas ou l'histoire du portrait de madame la princesse de Conti fille du roi</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">duVal</field>
+    <field name="year">1698</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">236361856</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=236361856</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#236361856</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1698</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf63</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Practicarum Observationum, tam ad processum iudiciarium, praesertim Imperialis Camerae, quam causarum decisionis pertinentium, libri 2. De Pace publica, et proscriptis, sive bannitis imperij, libri 2. De Pignorationibus liber 1. De manuum Injectionibus, sive arrestis imperii tractatus. Huic noviss. ed. acc. app. 2</field>
+    <field name="author">Gail, Andreas#11884296X</field>
+    <field name="contributor">Gymnich, Walter#124408389</field>
+    <field name="place_1">Coloniae Agrippina</field>
+    <field name="publishers">Metternich</field>
+    <field name="year">1698</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">184827981</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=184827981</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#184827981</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1698</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf64</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Histoire Des Controverses Et Des Matieres Ecclesiastiques ..</field>
+    <field name="author">Du Pin, Louis Ellies#100115993</field>
+    <field name="place_1">Paris</field>
+    <field name="publishers">Pralard</field>
+    <field name="year">1697</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">620058943</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=620058943</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#620058943</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1697</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf65</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Traité de la dévotion.</field>
+    <field name="author">Jurieu, Pierre#118558900</field>
+    <field name="place_1">La Haye</field>
+    <field name="publishers">Troyel</field>
+    <field name="year">1697</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">149903561</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=149903561</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#149903561</field>
+    <field name="yearNormalized">1697</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf66</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Suscitabulum Poenitentiae Catecheticum, Das ist: Catechetischer Buß-Wecker/ Oder Eine richtige Anweisung zu den wesentlichen Stücken der wahren Buß/ wie selbige nach den zweyen ersten Hauptstücken der Christlichen Lehre nützlich zu üben/ Außführlich und nachdrücklich vorgebildet wird. Allen rechtschaffenen Christen zur nöthigen und seeligen Erweisung ungeheuchelter Busse angestellet Von David von Schweinitz/ auff Seyffersdorff</field>
+    <field name="author">Schweinitz, David#12348796X</field>
+    <field name="place_1">Frankfurt, Oder</field>
+    <field name="publishers">Schrey</field>
+    <field name="publishers">Meyer</field>
+    <field name="year">1696</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">3:614050Y</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%273:614050Y%27</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#3:614050Y</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1696</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf67</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Conduite pour se taire et pour parles principalement en matière de religion. suivant la copie imprimée à Paris</field>
+    <field name="author">Morvan de Bellegarde, Jean-Baptiste#101503660</field>
+    <field name="place_1">Liege</field>
+    <field name="publishers">Broncart</field>
+    <field name="year">1696</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">223556645</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223556645</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#223556645</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1696</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf68</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Danielis Georgi[i] Morhofi[i] Polyhistor. Sive De Notitia Auctorum Et Rerum Commentarii [1]</field>
+    <field name="author">Morhof, Daniel Georg#118784919</field>
+    <field name="contributor">Alefeld, Joachimus</field>
+    <field name="place_1">Lübeck</field>
+    <field name="publishers">Böckmannus</field>
+    <field name="year">1695</field>
+    <field name="format">4°</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">719560519</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=719560519</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#719560519</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1695</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf69</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Penta-decas fidium cordialium .. Das Ist: Geistlicher Hertzens-Harffen von fünffmahl-zehen Seiten .. Theil</field>
+    <field name="author">Schweinitz, David#12348796X</field>
+    <field name="place_1">Breßlau</field>
+    <field name="publishers">Fellgiebel</field>
+    <field name="year">1694</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">15086812X</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=15086812X</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#15086812X</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1694</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf70</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Le Monde Enchanté Ou Examen des communs sentimens touchant les Esprits, leur nature, leur pouvoir, leur administration, &amp; leurs opérations .. Divisé en quatre Parties ; Traduit de l'Hollandois</field>
+    <field name="author">Bekker, Balthasar#119016915</field>
+    <field name="place_1">Amsterdam</field>
+    <field name="publishers">Rotterdam</field>
+    <field name="year">1694</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">147204798</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147204798</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#147204798</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1694</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf71</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Novellen Aus Der gelehrten und curiösen Welt 1692</field>
+    <field name="contributor">Zenner, Gottfried#104217650</field>
+    <field name="place_1">Frankfurt</field>
+    <field name="place_2">Gotha</field>
+    <field name="place_3">Leipzig</field>
+    <field name="publishers">Boetius</field>
+    <field name="publishers">Groschuff</field>
+    <field name="year">1692</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">7:694881V</field>
+    <field name="bound">1</field>
+    <field name="digitalCopy">http://resolver.sub.uni-goettingen.de/purl?PPN824414195</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%277:694881V%27</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#7:694881V</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1692</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf72</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L' Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale</field>
+    <field name="author">Abbadie, Jacques#100002307</field>
+    <field name="place_1">Rotterdam</field>
+    <field name="publishers">Slaart</field>
+    <field name="year">1692</field>
+    <field name="format">8°</field>
+    <field name="genres">Traktat</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150211236</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150211236</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150211236</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1692</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf73</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Vocabolario degli Accademici della Crusca. In questa 3. impressione Nuovamente corr. e copiosamente accresciuto</field>
+    <field name="place_1">Firenze</field>
+    <field name="publishers">Stamp. d. Accademia della Crusca</field>
+    <field name="year">1691</field>
+    <field name="mediaType">Druck</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">486368920</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=486368920</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#486368920</field>
+    <field name="yearNormalized">1691</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf74</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Francisci Sanctii Minerva, Sive De Causis Latinæ linguæ Commentarius</field>
+    <field name="author">Sánchez de las Brozas, Francisco#118751123</field>
+    <field name="contributor">Schoppe, Caspar#119298600</field>
+    <field name="contributor">Perizonius, Jacobus#119019914</field>
+    <field name="place_1">Franequera</field>
+    <field name="publishers">Strickius</field>
+    <field name="year">1687</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">251813266</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=251813266</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#251813266</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1687</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf75</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L' Unico Mezzo, Che ci fà trovar la felicità in questo Mondo .. con brevità e Chiarezza si dimostra nel presente libretto, in todesco, francese, &amp; italiano</field>
+    <field name="author">Caffa, Karl#116400684</field>
+    <field name="place_1">Jena</field>
+    <field name="publishers">Gollner</field>
+    <field name="year">1685</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ita</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">3:604602L</field>
+    <field name="bound">1</field>
+    <field name="digitalCopy">http://nbn-resolving.de/urn:nbn:de:gbv:3:1-608827</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%273:604602L%27</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#3:604602L</field>
+    <field name="languagesFull">Italienisch</field>
+    <field name="yearNormalized">1685</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf76</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">De Legibus Naturae Disquisitio Philosophica. In qua Earum Forma, Summa Capita, Ordo, Promulgatio, &amp; Obligatio e rerum Natura investigantur ; Quin Etiam Elementa Philosophiae Hobbianae, Cum Moralis tum Civilis, considerantur &amp; refutantur</field>
+    <field name="author">Cumberland, Richard#121534006</field>
+    <field name="contributor">Bridgeman, Orlandus</field>
+    <field name="contributor">Parker, Sam.</field>
+    <field name="place_1">Lübeck</field>
+    <field name="place_2">Frankfurt, Main</field>
+    <field name="publishers">Otto</field>
+    <field name="publishers">Wiedemeyerus</field>
+    <field name="year">1683</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">1:008798Z</field>
+    <field name="bound">1</field>
+    <field name="digitalCopy">http://nbn-resolving.de/urn:nbn:de:gbv:3:1-466938</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%271:008798Z%27</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#1:008798Z</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1683</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf77</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Geographia ordine litterarum disposita</field>
+    <field name="author">Baudrand, Michel-Antoine#124639089</field>
+    <field name="place_1">Parisiis</field>
+    <field name="publishers">Michalet</field>
+    <field name="year">1681</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150019556</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150019556</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150019556</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1681</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf78</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Examen ratiociniorum Danicorum super naufragio militum Suecicorum ad Bornholmiam, eorundemque detentione</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1680</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151714266</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151714266</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151714266</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1680</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf79</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt</field>
+    <field name="author">Sperber, Julius#128616385</field>
+    <field name="place_1">Frankfurt, Main</field>
+    <field name="place_2">Amsterdam</field>
+    <field name="publishers">Betkius</field>
+    <field name="year">1675</field>
+    <field name="format">8°</field>
+    <field name="genres">Gebetbuch</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">1:072956R</field>
+    <field name="bound">1</field>
+    <field name="digitalCopy">http://resolver.sub.uni-goettingen.de/purl?PPN757232523</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%271:072956R%27</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#1:072956R</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1675</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf80</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Henrici Glareani In Cornelii Taciti de situ .. Germaniae libellum commentariolus</field>
+    <field name="author">Glareanus, Henricus Loriti#11905339X</field>
+    <field name="contributor">Schardius, Simon#117106178</field>
+    <field name="place_1">Giessae</field>
+    <field name="year">1673</field>
+    <field name="format">2°</field>
+    <field name="mediaType">Druck</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">369886046</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=369886046</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#369886046</field>
+    <field name="yearNormalized">1673</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf81</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">The voyage of Italy, or, A compleat journey through Italy. in two parts : with the characters of the people, and the description of the chief towns, churches, monasteries, tombs, libraries, pallaces, villas, gardens, pictures, statues, and antiquities : as also of the interest, government, riches, force, &amp;c. of all the princes : with instructions concerning travel</field>
+    <field name="author">Lassels, Richard</field>
+    <field name="contributor">Simon Wilson</field>
+    <field name="place_1">Newly printed at Paris</field>
+    <field name="publishers">[s.n.], and are to be sold in London, by John Starkey</field>
+    <field name="year">1670</field>
+    <field name="languages">eng</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">553173561</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=553173561</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#553173561</field>
+    <field name="languagesFull">Englisch</field>
+    <field name="yearNormalized">1670</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf82</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Jetztlebendes Europa, Oder Neue Historische und Politische Erzehlung aller seiner Stände, wie solche gegen dem Ende deß Jahrs 1666. ihr Wesen gehabt. In unterschiedlichen Tafeln repræsentirt, Darinnen . von den Universitäten und berühmten Bibliothecen .. und von allen berühmten Leuten in jeder Profession; Benebens einer Zusammensamlung Der denckwürdigsten Sachen die sich nach dem allgemeinen Friedenschluß in Europa zugetragen ..</field>
+    <field name="author">Chappuzeau, Samuel#124861075</field>
+    <field name="place_1">Franckfurt am Mayn</field>
+    <field name="publishers">Schiele</field>
+    <field name="year">1670</field>
+    <field name="format">8°</field>
+    <field name="subjects">Geographie</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151871949</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151871949</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151871949</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1670</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf83</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">L'imitation de Jesus Christ</field>
+    <field name="author">Thomas von Kempen#118642766</field>
+    <field name="contributor">Corneille, Pierre#118522175</field>
+    <field name="place_1">Paris</field>
+    <field name="publishers">Ballard</field>
+    <field name="year">1665</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">fre</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">246014911</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=246014911</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#246014911</field>
+    <field name="languagesFull">Französisch</field>
+    <field name="yearNormalized">1665</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf84</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Character Virtutum variis, aliorum etiam, qua veterum, qua recentium Autorum coloribus adumbratus</field>
+    <field name="author">Pastorius, Joachim#121895610</field>
+    <field name="contributor">Guldensternius, Sigismundus</field>
+    <field name="place_1">[S.l.]</field>
+    <field name="year">1664</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">23:269676U</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%2723:269676U%27</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#23:269676U</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1664</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf85</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Scrutinium Ingeniorum pro iis, qui excellere cupiunt</field>
+    <field name="author">Huarte de San Juan, Juan#119456222</field>
+    <field name="contributor">Caesar, Joachim#122503279</field>
+    <field name="contributor">Albrecht Sachsen-Jülich-Cleve-Berg, Herzog</field>
+    <field name="contributor">Ludwig Anhalt-Köthen, Fürst</field>
+    <field name="place_1">Jena</field>
+    <field name="publishers">Neuenhahn</field>
+    <field name="publishers">Krebs</field>
+    <field name="year">1663</field>
+    <field name="format">8°</field>
+    <field name="subjects">Pädagogik</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">1:065794A</field>
+    <field name="bound">1</field>
+    <field name="digitalCopy">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10401193-7</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%271:065794A%27</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#1:065794A</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1663</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf86</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Venetia città nobilissima et singolare</field>
+    <field name="author">Sansovino, Francesco#119255901</field>
+    <field name="contributor">Martinioni, Giustiniano#1055727280</field>
+    <field name="contributor">Curti, Stefano#1024756335</field>
+    <field name="place_1">Venedig</field>
+    <field name="publishers">Curti</field>
+    <field name="year">1663</field>
+    <field name="format">4°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ita</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">140235191</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=140235191</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#140235191</field>
+    <field name="languagesFull">Italienisch</field>
+    <field name="yearNormalized">1663</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf87</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David. Gerichtet Auf unterschiedener Personen/ und Stände Anliegen</field>
+    <field name="author">Schweinitz, David#12348796X</field>
+    <field name="place_1">Breslau</field>
+    <field name="publishers">Fellgiebel</field>
+    <field name="year">1662</field>
+    <field name="format">12°</field>
+    <field name="genres">Gebetbuch</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">39:156875D</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%2739:156875D%27</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#39:156875D</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1662</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf88</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Genealogia. Derer von Schweinitz/ Vor der Zeit Vom Swentze Genennet</field>
+    <field name="author">Schweinitz, David#12348796X</field>
+    <field name="contributor">Christian Hertzog in Schlesien, zur Liegnitz, Brieg und Wohlau</field>
+    <field name="contributor">Ludwig Hertzog in Schlesien, zur Liegnitz, Brieg und Goldberg</field>
+    <field name="contributor">Georg Hertzog in Schlesien zur Liegnitz und Brieg</field>
+    <field name="place_1">Liegnitz</field>
+    <field name="publishers">Schneider</field>
+    <field name="year">1661</field>
+    <field name="format">2°</field>
+    <field name="subjects">Genealogie</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">VD17</field>
+    <field name="idManifestation">23:232961A</field>
+    <field name="bound">1</field>
+    <field name="digitalCopy">http://resolver.sub.uni-goettingen.de/purl?PPN778438074</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&amp;IKT=8079&amp;TRM=%2723:232961A%27</field>
+    <field name="nameSystemManifestation">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</field>
+    <field name="manifestationFull">VD17#23:232961A</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1661</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf89</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Tractatus politico-historico-juridicus de Juribus et Privilegiis Civitatum Imperialium, tam generalibus, quam specialibus et de earundem Magistratuum Officio. In sex libros divisus</field>
+    <field name="author">Knipschildt, Philipp#124429254</field>
+    <field name="place_1">Ulmae Suevorum</field>
+    <field name="publishers">Kühne</field>
+    <field name="year">1657</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">141633042</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=141633042</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#141633042</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1657</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf90</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Specvlvm Natvrae Hvmanæ, Siue Mores Et Temperamenta Hominvm Vsqve Ad Intimos Animorum sensus cognoscendi. Omnibus maxime vtile, &amp; lectu iucundum</field>
+    <field name="author">Follin, Hermann#122674391</field>
+    <field name="contributor">Follin, Johann#122674332</field>
+    <field name="place_1">Coloniae Agrippinae</field>
+    <field name="publishers">Kalcovius</field>
+    <field name="year">1649</field>
+    <field name="format">12°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">147802350</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=147802350</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#147802350</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1649</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf91</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Theatrum ingenii humani Liber 1-2</field>
+    <field name="author">Neuhusius, Edo#128500751</field>
+    <field name="contributor">Neuhusius, Reinerus#132103885</field>
+    <field name="place_1">Amstelodami</field>
+    <field name="publishers">Jansonius</field>
+    <field name="year">1648</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">150731884</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150731884</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#150731884</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1648</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf92</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Arcadia der Gräffin von Pembrock</field>
+    <field name="author">Sidney, Philip#11861391X</field>
+    <field name="contributor">Mögling, Daniel#117080632</field>
+    <field name="contributor">Opitz, Martin#118590111</field>
+    <field name="contributor">Merian, Matthaeus#118581090</field>
+    <field name="contributor">Sophia Leonora Hessen, Landgräfin</field>
+    <field name="place_1">Franckfurt</field>
+    <field name="publishers">Humm</field>
+    <field name="year">1643</field>
+    <field name="format">8°</field>
+    <field name="genres">Roman</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151490759</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151490759</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151490759</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1643</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf93</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Nikēphoru Kallistu Tu Xanthopulu Ekklēsiastikēs Historias Biblia 18 Tomvs Prior</field>
+    <field name="author">Nicephorus Callistus Xanthopulus#10095443X</field>
+    <field name="contributor">Du Duc, Fronton#124677320</field>
+    <field name="contributor">Lange, Johann#136285422</field>
+    <field name="contributor">Richelieu, Armandus Joannes</field>
+    <field name="place_1">Lutetiae Parisiorum</field>
+    <field name="publishers">Cramoisy</field>
+    <field name="year">1630</field>
+    <field name="format">2°</field>
+    <field name="genres">Ordensliteratur:Jesuiten</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">grc</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">190912367</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=190912367</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#190912367</field>
+    <field name="yearNormalized">1630</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf94</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">La Secchia Rapita. Poema Eroicomico, e'l Canto Dell'Oceano</field>
+    <field name="author">Tassoni, Alessandro#118753959</field>
+    <field name="contributor">Barberini, Antonio#122970470</field>
+    <field name="place_1">Venetia</field>
+    <field name="publishers">Sarzina</field>
+    <field name="year">1625</field>
+    <field name="format">12°</field>
+    <field name="genres">Verserzählung</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">ita</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">513708979</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=513708979</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#513708979</field>
+    <field name="languagesFull">Italienisch</field>
+    <field name="yearNormalized">1625</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf95</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">La Biblia. Que es, Los sacros libros del Vieio y Nuevo Testamento. : Trasladada en español.</field>
+    <field name="place_1">[Basel]</field>
+    <field name="publishers">Aubrius &amp; Schleich</field>
+    <field name="year">1622</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">spa</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">151756309</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151756309</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#151756309</field>
+    <field name="languagesFull">Spanisch</field>
+    <field name="yearNormalized">1622</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf96</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Andreæ Althameri Commentaria: In P. Cornelii Taciti equitis Romani libellum De Situ, Moribus Et Populis Germaniæ</field>
+    <field name="author">Tacitus, Cornelius#118620452</field>
+    <field name="contributor">Althamer, Andreas#100010423</field>
+    <field name="place_1">Ambergae</field>
+    <field name="publishers">Forster</field>
+    <field name="year">1609</field>
+    <field name="format">8°</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">394766091</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=394766091</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#394766091</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1609</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf97</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Matthaei Dresseri  ORATIO  DE ORDINE, VERITATE ET VSV  in historiarum lectione  spectando. Habita in Academia Lipsi-ca, XVII Januarij,anno 82.</field>
+    <field name="author">Dresser, Matthaeus#116218363</field>
+    <field name="place_1">Wittenberg</field>
+    <field name="publishers">Gronenberg, Simon</field>
+    <field name="year">1582</field>
+    <field name="format">8</field>
+    <field name="genres">Rede</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">567283895</field>
+    <field name="bound">1</field>
+    <field name="digitalCopy">http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10208212-5</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=567283895</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#567283895</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1582</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf98</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Cosmographiae Vniversalis Lib. VI. In Qvibvs Ivxta Certioris Fidei Scriptores .. describuntur, Omnium habitabilis Orbis partium situs propriæq́[ue] dotes. Regionum Topographicæ picturæ .. Cunctarum Gentium mores, leges, religio, res gestæ, &amp; mutationes usq[ue] ad annum Christi M. D. L. LXXII.</field>
+    <field name="author">Münster, Sebastian#118585517</field>
+    <field name="place_1">Basileae</field>
+    <field name="publishers">Henricpetri</field>
+    <field name="year">1572</field>
+    <field name="format">2°</field>
+    <field name="subjects">Geographie</field>
+    <field name="mediaType">Druck</field>
+    <field name="languages">lat</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">223457167</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=223457167</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#223457167</field>
+    <field name="languagesFull">Latein</field>
+    <field name="yearNormalized">1572</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+  <doc>
+    <field name="id">ludwig_rudolf99</field>
+    <field name="volumes">1</field>
+    <field name="titleBib">Teutsch Passional vnsers [unsers] Herren Jesu Christi. Mit schönen tröstlichen Gebetlein</field>
+    <field name="author">Schwenckfeld, Caspar</field>
+    <field name="place_1">Nürnberg</field>
+    <field name="publishers">[s.n.]</field>
+    <field name="year">1547</field>
+    <field name="languages">ger</field>
+    <field name="systemManifestation">K10plus</field>
+    <field name="idManifestation">389070084</field>
+    <field name="bound">1</field>
+    <field name="linkManifestation">https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=389070084</field>
+    <field name="nameSystemManifestation">K10plus</field>
+    <field name="manifestationFull">K10plus#389070084</field>
+    <field name="languagesFull">Deutsch</field>
+    <field name="yearNormalized">1547</field>
+    <field name="owner">Ludwig Rudolph von Braunschweig-Wolfenbüttel</field>
+    <field name="ownerGND">124700470</field>
+    <field name="dateCollection">1701, 1707</field>
+    <field name="nameCollection">Lektürenotizen</field>
+  </doc>
+</add>

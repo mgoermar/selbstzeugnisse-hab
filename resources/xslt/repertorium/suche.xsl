@@ -6,9 +6,9 @@
   <xsl:import href="../default.xsl"/>
 
   <xsl:template match="tei:text/tei:body">
-    <div class="navigation">
+    <nav role="navigation">
       <xsl:call-template name="navigation"/>
-    </div>
+    </nav>
     <xsl:apply-templates/>
   </xsl:template>
 

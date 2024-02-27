@@ -64,44 +64,48 @@
                         „Œ/œ” aufgelöst. Für „ii” stehendes „y” oder „ÿ”, wird als „ij” transkribiert.
                         Die originale Schreibweise wird unter Ausschluss der (lediglich als
                         Lesehilfe fungierenden) diakritischen Zeichen beibehalten.</p>
-                    <list>
+                    <div>
                         <head>Groß- und Klein-, Getrennt- und Zusammenschreibung</head>
-                        <item> Eigennamen, Getrennt- und Zusammenschreibung sowie Groß- und
+                        <p> 
+                            Eigennamen, Getrennt- und Zusammenschreibung sowie Groß- und
                             Kleinschreibung erfolgen nach Vorlage. Majuskeln werden übernommen
                             sowohl an-, in- und auslautend, in Zweifelsfällen wird nach Augusts
                             Gewohnheit, ansonsten nach heutiger Praxis entschieden, Zweifelsfälle
-                            werden durch [] markiert.</item>
-                        <item>Worttrennungen am Zeilenende werden nicht nach Vorlage übernommen.</item>
-                    </list>
-                    <list>
+                            werden durch [] markiert.
+                            Worttrennungen am Zeilenende werden nicht nach Vorlage übernommen.
+                        </p>
+                    </div>
+                    <div>
                         <head>Grapheme</head>
-                        <item>I, i, J, j, U, u, ů, ü, V, v, W, w, Y, y, ÿ werden (abgesehen von den erwähnten Standardisierungen in fremdsprachigen Passagen) nach Vorlage
-                            wiedergegeben.</item>
-                        <item>Bei der Verwendung der Grapheme (B, b) für (W, w) werden
-                            unverständliche Wörter und Begriffe im Apparat erläutert.</item>
-                        <item>Das Fraktur-e, Theta (ϑ) als Minuskel-d und Schaft-s (ſ) werden mit
-                            modernen Zeichensätzen wiedergegeben.</item>
-                        <item>Konsonantenhäufungen werden nach Vorlage übernommen, z.B.
-                            „unnd“.</item>
-                        <item>Ligaturen werden aufgelöst, „Æ” zu „Ae”, „Œ” zu „Oe” usw.</item>
-                    </list>
-                    <list>
+                        <p>
+                            I, i, J, j, U, u, ů, ü, V, v, W, w, Y, y, ÿ werden (abgesehen von den erwähnten Standardisierungen in fremdsprachigen Passagen) nach Vorlage
+                            wiedergegeben. 
+                            Bei der Verwendung der Grapheme (B, b) für (W, w) werden
+                            unverständliche Wörter und Begriffe im Apparat erläutert.
+                            Das Fraktur-e, Theta (ϑ) als Minuskel-d und Schaft-s (ſ) werden mit
+                            modernen Zeichensätzen wiedergegeben.Konsonantenhäufungen werden nach Vorlage übernommen, z.B.
+                            „unnd“.
+                            Ligaturen werden aufgelöst, „Æ” zu „Ae”, „Œ” zu „Oe” usw.
+                        </p>
+                    </div>
+                    <div>
                         <head>Diakritika</head>
-                        <item>Erfolgen nach Vorlage,</item>
-                        <item>fehlende i- und j- Punkte werden stillschweigend ergänzt</item>
-                    </list>
-                    <list>
+                        <p>
+                            Erfolgen nach Vorlage, fehlende i- und j- Punkte werden stillschweigend ergänzt.
+                        </p>
+                    </div>
+                    <div>
                         <head>Orthographie, Interpunktion</head>
-                        <item>Erfolgt nach Vorlage</item>
-                    </list>
-                    <list>
+                        <p>Erfolgt nach Vorlage.</p>
+                    </div>
+                    <div>
                         <head>Trennungszeichen</head>
-                        <item>Werden nicht transkribiert, z.B „=”</item>
-                    </list>
-                    <list>
+                        <p>Werden nicht transkribiert, z.B „=”.</p>
+                    </div>
+                    <div>
                         <head>Klammerformen</head>
-                        <item>Erfolgen nach Vorlage, z.B. „/:” bzw. „:/”</item>
-                    </list>
+                        <p>Erfolgen nach Vorlage, z.B. „/:” bzw. „:/”</p>
+                    </div>
                 </div>
                 <div>
                     <head>Abbreviaturen, Kürzel, Kurzformen, Sonderzeichen, Doppelungen</head>
@@ -126,37 +130,41 @@
                 </div>
                 <div>
                     <head>Textkritischer Apparat und Kommentar</head>
-                    <p>Es werden textkritische Anmerkungen und ein Kommentar erstellt. Auf die relevanten und erläuterten
+                    <p>
+                        Es werden textkritische Anmerkungen und ein Kommentar erstellt. Auf die relevanten und erläuterten
                         Textstellen wird durch Symbole und farbliche Markierung verwiesen. Die Darstellung erfolgt rechts vom 
-                        edierten Text in Form von Marginalien, welche von Nutzer nach Bedarf ein- und ausgeblendet werden können.</p>
-                    <list>
+                        edierten Text in Form von Marginalien, welche von Nutzer nach Bedarf ein- und ausgeblendet werden können.
+                    </p>
+                    <div>
                         <head>Textkritischer Apparat</head>
-                        <item>Entstehungsvarianten (Änderungen, Streichungen, Ergänzungen (z.B. +☉+)) sowie
-                            Hervorhebungen, Marginalien und Superskripta werden kodiert und markiert.</item>
-                        <item>Schreibversehen und -fehler (z.B. versehentliche
+                        <p>
+                            Entstehungsvarianten (Änderungen, Streichungen, Ergänzungen (z.B. +☉+)) sowie
+                            Hervorhebungen, Marginalien und Superskripta werden kodiert und markiert.
+                            Schreibversehen und -fehler (z.B. versehentliche
                             Wortwiederholungen) werden nicht korrigiert, es erfolgt eine Erläuterung
-                            im Apparat, wenn sie sinnentstellend sind.</item>
-                        <item>Überlieferungsvarianten wie Hinzufügungen und Dechiffrierungsversuche von
-                            Augusts oder fremder Hand werden kodiert und kommentiert.</item>
-                    </list>
-                    <list>
+                            im Apparat, wenn sie sinnentstellend sind.
+                            Überlieferungsvarianten wie Hinzufügungen und Dechiffrierungsversuche von
+                            Augusts oder fremder Hand werden kodiert und kommentiert.
+                        </p>
+                    </div>
+                    <div>
                         <head>Kommentar</head>
-                        <item>Heute ungebräuchliche und unverständliche Wörter, Begriffe,
+                        <p>
+                            Heute ungebräuchliche und unverständliche Wörter, Begriffe,
                             Fremdwörter und Redewendungen, gegebenenfalls schwer verständliche oder
-                            besondere Semantik und Grammatik werden erörtert.</item>
-                        <item>Es erfolgt die Übersetzung fremdsprachiger Passagen (wortgetreue Wiedergabe) sowie
-                            die Dechiffrierung der Geheimschrift.</item>
-                        <item>Personen, geographische Bezeichnungen, Sachen, Begriffe und Zitate
+                            besondere Semantik und Grammatik werden erörtert.
+                            Es erfolgt die Übersetzung fremdsprachiger Passagen (wortgetreue Wiedergabe) sowie
+                            die Dechiffrierung der Geheimschrift.
+                            Personen, geographische Bezeichnungen, Sachen, Begriffe und Zitate
                             sowie politische und persönliche Ereignisse werden nach Möglichkeit
-                            identifiziert und erläutert.</item>  
-                        <item>Es werden außerdem eine Manuskriptbeschreibung (inkl. Entstehungs- und
-                            Überlieferungsgeschichte), </item>
-                        <item>eine Kurzbiographie Herzog Augusts, </item>
-                        <item>eine Beschreibung der hinzugezogenen oben genannten Quellen</item>
-                        <item>und eine Beschreibung der sprachlichen und graphematischen Eigenheiten der
+                            identifiziert und erläutert.  
+                            Es werden außerdem eine Manuskriptbeschreibung (inkl. Entstehungs- und
+                            Überlieferungsgeschichte), eine Kurzbiographie Herzog Augusts, eine Beschreibung der hinzugezogenen oben genannten Quellen
+                            und eine Beschreibung der sprachlichen und graphematischen Eigenheiten der
                             Handschrift von Herzog August sowie Besonderheiten der Handschrift (eine
-                            eigenhändige Zeichnung, eine Namensliste, Zahlenaufstellungen) erstellt.</item>                        
-                    </list>
+                            eigenhändige Zeichnung, eine Namensliste, Zahlenaufstellungen) erstellt. 
+                        </p>                       
+                    </div>
                 </div>
                 <div>
                     <head>Register</head>

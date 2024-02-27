@@ -10,20 +10,18 @@
     <text>
         <body>
             <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00106.jpg" n="51v">1626.</head></div>
-         
-            <div><p><note place="margin-left">Auf d<ex>es</ex> h<ex>errn</ex> zu <rs ref="register.xml#Grabow" type="place">Grabow</rs> begrebniß.</note></p></div>
             
-            <div xml:id="E1626-12-11"><head><date when="1626-12-11">den 11 Xbris <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>. 4.
+            <div xml:id="E1626-12-11"><note place="margin-left">Auf d<ex>er</ex> <rs type="person" ref="register.xml#Anna_Mecklenburg">h<ex>erzogin</ex></rs> zu <rs ref="register.xml#Grabow" type="place">Grabow</rs> begrebniß.</note><head><date when="1626-12-11">den 11 Xbris <c>☽</c>,</date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>. 4.
                 m<ex>eill</ex>.</p></div>
             
             <div xml:id="E1626-12-12"><head><date when="1626-12-12">d<ex>e</ex>n 12 Xbris <c>♂</c></date></head><p> biß <rs ref="register.xml#Dobbertin" type="place">Dobbertin</rs> 6 m<ex>eill</ex>.</p></div>
             
             <div xml:id="E1626-12-13"><head><date when="1626-12-13">d<ex>e</ex>n 13. Xbris <c>☿</c></date></head><p> biß <rs ref="register.xml#Guestrow" type="place">Güstrow</rs>, 2 m<ex>eill</ex>.</p></div>
             
-            <div xml:id="E1626-12-14"><head><date when="1626-12-14">d<ex>e</ex>n 14. Xbris <c>♃</c>.</date></head><p> <seg>die f<ex>ürst</ex>l<ex>iche</ex> begrebnuß</seg><note type="annotation">Gestorben war Herzogin Anna zu Mecklenburg am 10.12.1626, ihr Begräbnis erfolgte am 14.12.1626, sie war mit Herzog Ulrich von Mecklenburg verheiratet</note> gehalten: <foreign xml:lang="lat">p<ex>rae</ex>sentes fuerunt</foreign><note type="translation">anwesend waren</note> 
-                <rs ref="register.xml#Adolf_Friedrich_I._von_Mecklenburg" type="person">H<ex>err</ex> Adolf friederich zu
-                    Mechlenburgk</rs>: <foreign xml:lang="lat">cum <unclear>qjuge</unclear></foreign><note type="annotation">mit</note> <rs ref="register.xml#Wilhelm_Ketteler" type="person">H<ex>err</ex> Wilhelm zu Curland</rs>; und die <rs ref="register.xml#Anna_von_Croy" type="person">Hertzoginne zu Croy</rs>. <rs type="org">Die von
-                        Lupze</rs>: <rs ref="register.xml#Sophia_Hedwig_Pommern_Wolgast" type="person">die von Loitz</rs>. und gesant<ex>en</ex></p></div>
+            <div xml:id="E1626-12-14"><head><date when="1626-12-14">d<ex>e</ex>n 14. Xbris <c>♃</c>.</date></head><p> die f<ex>ürstlich</ex>e begrebnuß gehalten: <foreign xml:lang="lat">p<ex>rae</ex>sentes fuerunt</foreign><note type="translation" resp="mg">Anwesende waren</note> 
+                <rs ref="register.xml#Adolf_Friedrich_I._von_Mecklenburg" type="person">H<ex>erzog</ex> Adolf friederich zu
+                    Mechlenburgk</rs>: <foreign xml:lang="lat">cum <rs type="person" ref="#mecklenburg_anna_maria">c<ex>on</ex>juge</rs></foreign><note type="translation" resp="mg">mit seiner Ehefrau</note> <rs ref="register.xml#Wilhelm_Ketteler" type="person">H<ex>erzog</ex> Wilhelm zu Curland</rs>; und die <rs ref="register.xml#Anna_von_Croy" type="person">Hertzoginne zu Croy</rs>. <rs type="person" ref="register.xml#mecklenburg_sophia">die von
+                        Lupze</rs>: <rs ref="register.xml#Sophia_Hedwig_Pommern_Wolgast" type="person">die von Loitz</rs>. und gesant<ex>en</ex> e<ex>tcetera</ex></p></div>
             
             <div xml:id="E1626-12-18"><head><date when="1626-12-18">den 18. Xbris <c>☽</c></date></head><p> biß <rs ref="register.xml#Crivitz" type="place">Crievitz</rs> 5.
                 m<ex>eill</ex>.</p></div>

@@ -148,6 +148,9 @@
       <file ID="repertorium.register.xml" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/repertorium/register.xml" LOCTYPE="URL"/>
       </file>
+      <file ID="editionen_start.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/editionen_start.xml" LOCTYPE="URL"/>
+      </file>
       <file ID="edition.einleitung.xml" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/edition/einleitung.xml" LOCTYPE="URL"/>
       </file>
@@ -159,6 +162,12 @@
       </file>
       <file ID="edition.register.xml" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/edition/diarium/register.xml" LOCTYPE="URL"/>
+      </file>
+      <file ID="edition.register_personen.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/edition/diarium/register_personen.xml" LOCTYPE="URL"/>
+      </file>
+      <file ID="edition.register_orte.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/edition/diarium/register_orte.xml" LOCTYPE="URL"/>
       </file>
       <file ID="bibliographie.xml" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/bibliographie.xml" LOCTYPE="URL"/>
@@ -176,6 +185,108 @@
         <FLocat xlink:href="daten/suche.xml.twig" LOCTYPE="URL"/>
       </file>
     </fileGrp>
+    <fileGrp>
+      <file ID="edition_sz2" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/tagebuecher/index_sz2.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.introduction.introduction_projectDesc" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/introduction/introduction_projectDesc.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.introduction.introduction_biography" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/introduction/introduction_biography.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.introduction.introduction_transcriptionRules" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/introduction/introduction_transcriptionRules.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.introduction.introduction_bibliography" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/introduction/introduction_bibliography.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.introduction.introduction_cod_guelf_28_blank" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/introduction/introduction_cod_guelf_28_blank.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.introduction.introduction_cod_guelf_286_blank" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/introduction/introduction_cod_guelf_286_blank.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.introduction.introduction_cod_guelf_286a_blank" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/introduction/introduction_cod_guelf_286a_blank.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.introduction.introduction_cod_guelf_211_1_extrav" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/introduction/introduction_cod_guelf_211_1_extrav.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.register.personen" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/register/listPerson_s2.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.register.personen.html" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/register/personen.html" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.register.orte" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/register/listPlace_s2.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.register.literatur" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/register/listBibl_s2.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.register.abkürzung" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/register/listAbbr_s2.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.register.glossar" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/register/listGloss_s2.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.register.geobrowser" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/register/geobrowser.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.register.itinerar_geobrowser" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/register/itinerar_geobrowser.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.register.itinerar" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/register/itinerar_s2_tab.xml" LOCTYPE="URL" />
+      </file>
+    </fileGrp>
+    <fileGrp>
+    	<file ID="sz2.cod_guelf_28_blank.xml" MIMETYPE="application/tei+xml">
+    	  <FLocat xlink:href="daten/sz2/tagebuecher/cod_guelf_28_blank.xml" LOCTYPE="URL" />
+    	</file>
+      <file ID="sz2.cod_guelf_28_blank_teil2.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/tagebuecher/cod_guelf_28_blank_teil2.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.cod_guelf_28_blank_teil3.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/tagebuecher/cod_guelf_28_blank_teil3.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.cod_guelf_28_blank_teil4.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/tagebuecher/cod_guelf_28_blank_teil4.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.cod_guelf_211_1_extrav.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/tagebuecher/cod_guelf_211_1_extrav.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.cod_guelf_286a_blank.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/tagebuecher/cod_guelf_286a_blank.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="sz2.cod_guelf_286_blank.xml" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/sz2/tagebuecher/cod_guelf_286_blank.xml" LOCTYPE="URL" />
+      </file>
+    </fileGrp>
+    <fileGrp>
+      <file ID="edition_grand_tour" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/grandtour/Reiseberichte/index_grand_tour.xml" LOCTYPE="URL" />
+      </file>
+      <!--<file ID="grand_tour.register.personen" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/grandtour/register/listPerson_grand_tour.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="grand_tour.register.orte" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/grandtour/register/listPlace_grand_tour.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="grand_tour.register.koerperschaften" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/grandtour/register/listOrg_grand_tour.xml" LOCTYPE="URL" />
+      </file>-->
+      <file ID="grand_tour.introduction.introduction_projectDesc" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/grandtour/introduction/introduction_projectDesc.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="grand_tour.introduction.introduction_cod_guelf_267_1_extrav" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/grandtour/introduction/introduction_cod_guelf_267_1_extrav.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="grand_tour.cod_guelf_267_1_extrav" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/grandtour/Reiseberichte/cod_guelf_267_1_extrav.xml" LOCTYPE="URL" /> <!--erstmal nur testweise eingebunden-->
+      </file>
+    </fileGrp>
     <xi:include href="daten/repertorium/mets.xml" xpointer="files"/>
   </fileSec>
   <structMap>
@@ -189,170 +300,263 @@
           <fptr FILEID="repertorium.suche.xml.twig"/>
           <xi:include href="daten/repertorium/mets.xml" xpointer="divs"/>
         </div>
-        <div ID="repertorium.liste" LABEL="Liste">
+        <!--<div ID="repertorium.liste" LABEL="Liste">
           <fptr FILEID="repertorium.liste.xml.twig"/>
           <xi:include href="daten/repertorium/mets.xml" xpointer="divs"/>
-        </div>
+        </div>-->
         <div ID="repertorium.vokabular">
           <fptr FILEID="repertorium.register.xml"/>
         </div>
       </div>
-      <div ID="edition" LABEL="Edition">
-        <fptr FILEID="edition.einleitung.xml"/>
-        <div ID="edition.beschreibung" LABEL="Handschriften­beschreibung">
-          <fptr FILEID="edition.beschreibung.xml"/>
-        </div>
-        <div ID="edition.richtlinien" LABEL="Richtlinien">
-          <fptr FILEID="edition.richtlinien.xml"/>
-        </div>
-        <div ID="edition.diarium.download">
+      <div ID="editionen" LABEL="Editionen">
+        <fptr FILEID="editionen_start.xml"/>
+        <div ID="edition" LABEL="Reisetagebuch Augusts II.">
           <fptr FILEID="edition.diarium.xml"/>
+          <div ID="edition.einleitung">
+            <fptr FILEID="edition.einleitung.xml"/>
+          </div>
+          <div ID="edition.beschreibung">
+            <fptr FILEID="edition.beschreibung.xml"/>
+          </div>
+          <div ID="edition.richtlinien">
+            <fptr FILEID="edition.richtlinien.xml"/>
+          </div>
+          <div ID="edition.diarium.download">
+            <fptr FILEID="edition.diarium.xml"/>
+          </div><!--
+          <div ID="edition.diarium">
+            <fptr FILEID="edition.diarium.xml"/>-->
+            <div ID="edition.diarium.front">
+              <fptr FILEID="edition.diarium.front.xml"/>
+            </div>
+            <div ID="edition.diarium.1594">
+              <fptr FILEID="edition.diarium.1594.xml"/>
+            </div>
+            <div ID="edition.diarium.1595">
+              <fptr FILEID="edition.diarium.1595.xml"/>
+            </div>
+            <div ID="edition.diarium.1596">
+              <fptr FILEID="edition.diarium.1596.xml"/>
+            </div>
+            <div ID="edition.diarium.1597">
+              <fptr FILEID="edition.diarium.1597.xml"/>
+            </div>
+            <div ID="edition.diarium.1598">
+              <fptr FILEID="edition.diarium.1598.xml"/>
+            </div>
+            <div ID="edition.diarium.1599">
+              <fptr FILEID="edition.diarium.1599.xml"/>
+            </div>
+            <div ID="edition.diarium.1600">
+              <fptr FILEID="edition.diarium.1600.xml"/>
+            </div>
+            <div ID="edition.diarium.1601">
+              <fptr FILEID="edition.diarium.1601.xml"/>
+            </div>
+            <div ID="edition.diarium.1602">
+              <fptr FILEID="edition.diarium.1602.xml"/>
+            </div>
+            <div ID="edition.diarium.1603">
+              <fptr FILEID="edition.diarium.1603.xml"/>
+            </div>
+            <div ID="edition.diarium.1604">
+              <fptr FILEID="edition.diarium.1604.xml"/>
+            </div>
+            <div ID="edition.diarium.1605">
+              <fptr FILEID="edition.diarium.1605.xml"/>
+            </div>
+            <div ID="edition.diarium.1606">
+              <fptr FILEID="edition.diarium.1606.xml"/>
+            </div>
+            <div ID="edition.diarium.1607">
+              <fptr FILEID="edition.diarium.1607.xml"/>
+            </div>
+            <div ID="edition.diarium.1608">
+              <fptr FILEID="edition.diarium.1608.xml"/>
+            </div>
+            <div ID="edition.diarium.1609">
+              <fptr FILEID="edition.diarium.1609.xml"/>
+            </div>
+            <div ID="edition.diarium.1610">
+              <fptr FILEID="edition.diarium.1610.xml"/>
+            </div>
+            <div ID="edition.diarium.1611">
+              <fptr FILEID="edition.diarium.1611.xml"/>
+            </div>
+            <div ID="edition.diarium.1612">
+              <fptr FILEID="edition.diarium.1612.xml"/>
+            </div>
+            <div ID="edition.diarium.1613">
+              <fptr FILEID="edition.diarium.1613.xml"/>
+            </div>
+            <div ID="edition.diarium.1614">
+              <fptr FILEID="edition.diarium.1614.xml"/>
+            </div>
+            <div ID="edition.diarium.1615">
+              <fptr FILEID="edition.diarium.1615.xml"/>
+            </div>
+            <div ID="edition.diarium.1618">
+              <fptr FILEID="edition.diarium.1618.xml"/>
+            </div>
+            <div ID="edition.diarium.1619">
+              <fptr FILEID="edition.diarium.1619.xml"/>
+            </div>
+            <div ID="edition.diarium.1620">
+              <fptr FILEID="edition.diarium.1620.xml"/>
+            </div>
+            <div ID="edition.diarium.1621">
+              <fptr FILEID="edition.diarium.1621.xml"/>
+            </div>
+            <div ID="edition.diarium.1622">
+              <fptr FILEID="edition.diarium.1622.xml"/>
+            </div>
+            <div ID="edition.diarium.1623">
+              <fptr FILEID="edition.diarium.1623.xml"/>
+            </div>
+            <div ID="edition.diarium.1624">
+              <fptr FILEID="edition.diarium.1624.xml"/>
+            </div>
+            <div ID="edition.diarium.1625">
+              <fptr FILEID="edition.diarium.1625.xml"/>
+            </div>
+            <div ID="edition.diarium.1626">
+              <fptr FILEID="edition.diarium.1626.xml"/>
+            </div>
+            <div ID="edition.diarium.1627">
+              <fptr FILEID="edition.diarium.1627.xml"/>
+            </div>
+            <div ID="edition.diarium.1628">
+              <fptr FILEID="edition.diarium.1628.xml"/>
+            </div>
+            <div ID="edition.diarium.1629">
+              <fptr FILEID="edition.diarium.1629.xml"/>
+            </div>
+            <div ID="edition.diarium.1630">
+              <fptr FILEID="edition.diarium.1630.xml"/>
+            </div>
+            <div ID="edition.diarium.1632">
+              <fptr FILEID="edition.diarium.1632.xml"/>
+            </div>
+            <div ID="edition.diarium.1633">
+              <fptr FILEID="edition.diarium.1633.xml"/>
+            </div>
+            <div ID="edition.diarium.1634">
+              <fptr FILEID="edition.diarium.1634.xml"/>
+            </div>
+            <div ID="edition.diarium.1635">
+              <fptr FILEID="edition.diarium.1635.xml"/>
+            </div>
+            <div ID="edition.diarium.register">
+              <fptr FILEID="edition.diarium.register.xml"/>
+            </div>
+          <!--</div>-->
+          <div ID="edition.personen">
+            <fptr FILEID="edition.register_personen.xml"/>
+          </div>
+          <div ID="edition.orte">
+            <fptr FILEID="edition.register_orte.xml"/>
+          </div>
         </div>
-        <div ID="edition.diarium" LABEL="Diarium August II.">
-          <fptr FILEID="edition.diarium.xml"/>
-          <div ID="edition.diarium.front">
-            <fptr FILEID="edition.diarium.front.xml"/>
+        <div ID="edition_sz2" LABEL="Tagebücher Ludwig Rudolphs und Christine Luises">
+          <fptr FILEID="edition_sz2"/>
+          <div ID="sz2.projektbeschreibung">
+            <fptr FILEID="sz2.introduction.introduction_projectDesc"/>
           </div>
-          <div ID="edition.diarium.1594">
-            <fptr FILEID="edition.diarium.1594.xml"/>
+          <div ID="sz2.kurzbiographien">
+            <fptr FILEID="sz2.introduction.introduction_biography"/>
           </div>
-          <div ID="edition.diarium.1595">
-            <fptr FILEID="edition.diarium.1595.xml"/>
+          <div ID="sz2.editionsrichtlinien">
+            <fptr FILEID="sz2.introduction.introduction_transcriptionRules"/>
           </div>
-          <div ID="edition.diarium.1596">
-            <fptr FILEID="edition.diarium.1596.xml"/>
+          <div ID="sz2.bibliographie">
+            <fptr FILEID="sz2.introduction.introduction_bibliography"/>
           </div>
-          <div ID="edition.diarium.1597">
-            <fptr FILEID="edition.diarium.1597.xml"/>
+          <div ID="sz2.cod_guelf_28_blank">
+            <fptr FILEID="sz2.cod_guelf_28_blank.xml"/>
+            <div ID="sz2.cod_guelf_28_blank_teil2">
+              <fptr FILEID="sz2.cod_guelf_28_blank_teil2.xml"/>
+            </div>
+            <div ID="sz2.cod_guelf_28_blank_teil3">
+              <fptr FILEID="sz2.cod_guelf_28_blank_teil3.xml"/>
+            </div>
+            <div ID="sz2.introduction_cod_guelf_28_blank">
+              <fptr FILEID="sz2.introduction.introduction_cod_guelf_28_blank"/>
+            </div>
           </div>
-          <div ID="edition.diarium.1598">
-            <fptr FILEID="edition.diarium.1598.xml"/>
+          <div ID="sz2.cod_guelf_286_blank">
+            <fptr FILEID="sz2.cod_guelf_286_blank.xml"/>
+            <div ID="sz2.introduction_cod_guelf_286_blank">
+              <fptr FILEID="sz2.introduction.introduction_cod_guelf_286_blank"/>
+            </div>
           </div>
-          <div ID="edition.diarium.1599">
-            <fptr FILEID="edition.diarium.1599.xml"/>
+          <div ID="sz2.cod_guelf_286a_blank">
+            <fptr FILEID="sz2.cod_guelf_286a_blank.xml"/>
+            <div ID="sz2.introduction_cod_guelf_286a_blank">
+              <fptr FILEID="sz2.introduction.introduction_cod_guelf_286a_blank"/>
+            </div>
           </div>
-          <div ID="edition.diarium.1600">
-            <fptr FILEID="edition.diarium.1600.xml"/>
+          
+          <div ID="sz2.cod_guelf_211_1_extrav">
+            <fptr FILEID="sz2.cod_guelf_211_1_extrav.xml"/>
+            <div ID="sz2.introduction_cod_guelf_211_1_extrav">
+              <fptr FILEID="sz2.introduction.introduction_cod_guelf_211_1_extrav"/>
+            </div>
           </div>
-          <div ID="edition.diarium.1601">
-            <fptr FILEID="edition.diarium.1601.xml"/>
+          <div ID="sz2.personen">
+            <fptr FILEID="sz2.register.personen"/>
           </div>
-          <div ID="edition.diarium.1602">
-            <fptr FILEID="edition.diarium.1602.xml"/>
+          <div ID="sz2.personen.html">
+            <fptr FILEID="sz2.register.personen.html"/>
           </div>
-          <div ID="edition.diarium.1603">
-            <fptr FILEID="edition.diarium.1603.xml"/>
+          <div ID="sz2.orte">
+            <fptr FILEID="sz2.register.orte"/>
+            <div ID="sz2.geobrowser">
+              <fptr FILEID="sz2.register.geobrowser"/>
+            </div>
+            <div ID="sz2.itinerar_geobrowser">
+              <fptr FILEID="sz2.register.itinerar_geobrowser"/>
+            </div>
+            <div ID="sz2.itinerar">
+              <fptr FILEID="sz2.register.itinerar"/>
+            </div>
           </div>
-          <div ID="edition.diarium.1604">
-            <fptr FILEID="edition.diarium.1604.xml"/>
-          </div>
-          <div ID="edition.diarium.1605">
-            <fptr FILEID="edition.diarium.1605.xml"/>
-          </div>
-          <div ID="edition.diarium.1606">
-            <fptr FILEID="edition.diarium.1606.xml"/>
-          </div>
-          <div ID="edition.diarium.1607">
-            <fptr FILEID="edition.diarium.1607.xml"/>
-          </div>
-          <div ID="edition.diarium.1608">
-            <fptr FILEID="edition.diarium.1608.xml"/>
-          </div>
-          <div ID="edition.diarium.1609">
-            <fptr FILEID="edition.diarium.1609.xml"/>
-          </div>
-          <div ID="edition.diarium.1610">
-            <fptr FILEID="edition.diarium.1610.xml"/>
-          </div>
-          <div ID="edition.diarium.1611">
-            <fptr FILEID="edition.diarium.1611.xml"/>
-          </div>
-          <div ID="edition.diarium.1612">
-            <fptr FILEID="edition.diarium.1612.xml"/>
-          </div>
-          <div ID="edition.diarium.1613">
-            <fptr FILEID="edition.diarium.1613.xml"/>
-          </div>
-          <div ID="edition.diarium.1614">
-            <fptr FILEID="edition.diarium.1614.xml"/>
-          </div>
-          <div ID="edition.diarium.1615">
-            <fptr FILEID="edition.diarium.1615.xml"/>
-          </div>
-          <div ID="edition.diarium.1618">
-            <fptr FILEID="edition.diarium.1618.xml"/>
-          </div>
-          <div ID="edition.diarium.1619">
-            <fptr FILEID="edition.diarium.1619.xml"/>
-          </div>
-          <div ID="edition.diarium.1620">
-            <fptr FILEID="edition.diarium.1620.xml"/>
-          </div>
-          <div ID="edition.diarium.1621">
-            <fptr FILEID="edition.diarium.1621.xml"/>
-          </div>
-          <div ID="edition.diarium.1622">
-            <fptr FILEID="edition.diarium.1622.xml"/>
-          </div>
-          <div ID="edition.diarium.1623">
-            <fptr FILEID="edition.diarium.1623.xml"/>
-          </div>
-          <div ID="edition.diarium.1624">
-            <fptr FILEID="edition.diarium.1624.xml"/>
-          </div>
-          <div ID="edition.diarium.1625">
-            <fptr FILEID="edition.diarium.1625.xml"/>
-          </div>
-          <div ID="edition.diarium.1626">
-            <fptr FILEID="edition.diarium.1626.xml"/>
-          </div>
-          <div ID="edition.diarium.1627">
-            <fptr FILEID="edition.diarium.1627.xml"/>
-          </div>
-          <div ID="edition.diarium.1628">
-            <fptr FILEID="edition.diarium.1628.xml"/>
-          </div>
-          <div ID="edition.diarium.1629">
-            <fptr FILEID="edition.diarium.1629.xml"/>
-          </div>
-          <div ID="edition.diarium.1630">
-            <fptr FILEID="edition.diarium.1630.xml"/>
-          </div>
-          <div ID="edition.diarium.1632">
-            <fptr FILEID="edition.diarium.1632.xml"/>
-          </div>
-          <div ID="edition.diarium.1633">
-            <fptr FILEID="edition.diarium.1633.xml"/>
-          </div>
-          <div ID="edition.diarium.1634">
-            <fptr FILEID="edition.diarium.1634.xml"/>
-          </div>
-          <div ID="edition.diarium.1635">
-            <fptr FILEID="edition.diarium.1635.xml"/>
-          </div>
-          <div ID="edition.diarium.register">
-            <fptr FILEID="edition.diarium.register.xml"/>
+          <div ID="sz2.literatur">
+            <fptr FILEID="sz2.register.literatur"/>
           </div>
         </div>
-        <div ID="edition.personen" LABEL="Personen">
-          <fptr FILEID="edition.register.xml"/>
+        <div ID="edition_grand_tour" LABEL="Grand Tour digital">
+          <fptr FILEID="edition_grand_tour"/>
+          <div ID="grand_tour.projektbeschreibung">
+            <fptr FILEID="grand_tour.introduction.introduction_projectDesc"/>
+          </div>
+          <!--<div ID="grand_tour.personen">
+            <fptr FILEID="grandtour.register.personen"/>
+          </div>
+          <div ID="grand_tour.orte">
+            <fptr FILEID="grandtour.register.orte"/>
+          </div>-->
+          <div ID="grand_tour.cod_guelf_267_1_extrav">
+            <div ID="grand_tour.introduction_cod_guelf_267_1_extrav">
+              <fptr FILEID="grand_tour.introduction.introduction_cod_guelf_267_1_extrav"/>
+            </div>
+            <div ID="grand_tour.cod_guelf_267_1_extrav">
+              <fptr FILEID="grand_tour.cod_guelf_267_1_extrav"/>
+            </div>
+          </div>
         </div>
-        <div ID="edition.orte" LABEL="Orte">
-          <fptr FILEID="edition.register.xml"/>
-        </div>
-      </div>
-      <div ID="projekt" LABEL="Projekt">
+      </div>      
+      <div ID="projekt" LABEL="Projektteam">
         <fptr FILEID="projekt.xml"/>
       </div>
-      <div ID="bibliographie" LABEL="Bibliographie">
+      <!--<div ID="bibliographie" LABEL="Bibliographie">
         <fptr FILEID="bibliographie.xml"/>
-      </div>
+      </div>-->
       <div ID="dienste" LABEL="Datendienste">
         <fptr FILEID="dienste.xml"/>
       </div>
-      <div ID="extern" LABEL="Themenspezifische Websites und Fachportale">
+      <!--<div ID="extern" LABEL="Themenspezifische Websites und Fachportale">
         <fptr FILEID="extern.xml"/>
-      </div>
+      </div>-->
       <div ID="impressum" LABEL="Impressum">
         <fptr FILEID="impressum.xml"/>
       </div>
@@ -386,7 +590,24 @@
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/repertorium/vokabular.xsl"/>
     </behavior>
+    <behavior STRUCTID="editionen">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
     <behavior STRUCTID="edition">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <!--<mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>-->
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="edition.einleitung">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="edition.beschreibung">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="edition.richtlinien">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
     </behavior>
@@ -394,9 +615,102 @@
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/edition/download.xsl"/>
     </behavior>
-    <behavior STRUCTID="edition.diarium">
+	<behavior STRUCTID="edition.diarium">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="edition_sz2">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.projektbeschreibung">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.kurzbiographien">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.editionsrichtlinien">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.bibliographie">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.introduction_cod_guelf_28_blank">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.introduction_cod_guelf_286_blank">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.introduction_cod_guelf_286a_blank">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.introduction_cod_guelf_211_1_extrav">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+	  <behavior STRUCTID="sz2.cod_guelf_28_blank">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+	    <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+	    <!--<mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium_sz2.xsl"/>-->
+    </behavior>
+    <behavior STRUCTID="sz2.cod_guelf_28_blank_teil2">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.cod_guelf_28_blank_teil3">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.cod_guelf_28_blank_teil4">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.cod_guelf_211_1_extrav">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.cod_guelf_286a_blank">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.cod_guelf_286_blank">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.personen">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/listPerson_sz2.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.personen.html">
+      <!--<interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>-->
+      <mechanism LOCTYPE="URL" xlink:href="xslt/listPerson_sz2.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.orte">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/listPlace_sz2.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.literatur">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/listBibl_sz2.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.geobrowser">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.itinerar_geobrowser">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="sz2.itinerar">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/itinerar_sz2.xsl"/>
     </behavior>
     <behavior STRUCTID="edition.personen">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
@@ -405,6 +719,22 @@
     <behavior STRUCTID="edition.orte">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/register/orte.xsl"/>
+    </behavior>
+    <behavior STRUCTID="edition_grand_tour">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="grand_tour.projektbeschreibung">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="grand_tour.introduction_cod_guelf_267_1_extrav">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
+    </behavior>
+    <behavior STRUCTID="grand_tour.cod_guelf_267_1_extrav">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
     </behavior>
     <behavior STRUCTID="projekt">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>

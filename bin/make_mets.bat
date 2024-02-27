@@ -1,0 +1,1 @@
+calabash.cmd -o result=resources/daten/repertorium/mets.xml resources/xproc/repertorium/mets.xpl

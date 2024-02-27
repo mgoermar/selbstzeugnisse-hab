@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.introduction.introduction_biography">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Kurzbiographie von Herzog Ludwig Rudolph von Braunschweig-Wolfenbüttel (1671-1735) und Herzogin Christine Luise von Braunschweig-Wolfenbüttel (1671-1747)</title>
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                    <persName>
+                        <forename>Alexander</forename>
+                        <surname>Zirr</surname>                        
+                    </persName>                    
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Kurzbiographien von Herzog Ludwig Rudolph von Braunschweig-Wolfenbüttel (1671-1735) und Herzogin Christine Luise von Braunschweig-Wolfenbüttel (1671-1747)</head>
+                <figure rend="float">
+                    <graphic url="http://diglib.hab.de/varia/portrait/a-02685/000001.jpg"/>
+                    <figDesc>Porträt Ludwig Rudolfs, 1731. Weitere Informationen in der <ref target="http://portraits.hab.de/werk/1039/">Porträtsammlung der HAB</ref>.</figDesc>
+                </figure>
+                <p>
+                    <lb/>Ludwig Rudolph lebte von 1671 bis 1735. Er übernahm erst im fortgeschrittenen Alter und für nur vier Jahre die Regierungsgeschäfte im Herzogtum Braunschweig-Wolfenbüttel. Historiographisch steht er damit im Schatten seines Vaters und seines Großvaters, der Herzöge Anton Ulrich (1633-1714) und August des Jüngeren (1579-1666). Als der dritte die frühe Kindheit überlebende Sohn von Anton Ulrich und dessen Gemahlin Elisabeth Juliane (1634-1704), geborene Herzogin von Schleswig-Holstein-Norburg, war bei ihm – wie einst bei Herzog August in Hitzacker – kaum abzusehen, dass er jemals in Regierungsverantwortung kommen würde. Als Anton Ulrich starb, trat 1714 der ältere Bruder August Wilhelm (1662-1731) die Regentschaft an und erst nach dessen Tod rückte Ludwig Rudolph 1731 nach.</p>
+                <p>
+                    <lb/>Er hatte die typische standesgemäße Ausbildung erhalten, wobei er zum Leidwesen seines Vaters zunächst nur ein beschränktes Interesse an Literatur und Wissenschaften durchblicken ließ. Er stellte selbst 1697 rückblickend fest: „<hi rend="italic">ich hatte mehr lust zum Kriege alß zun büchern</hi>“<note type="footnote"><ref target="http://diglib.hab.de/mss/217a-blank/start.htm?image=00008">Cod. Guelf. 217a Blank</ref>, S. 4.</note>. Eine Kavalierstour führte ihn durch Italien, Frankreich und die Niederlande, in ihrem Verlauf besuchte er ab 1685 für fast zwei Jahre die Ritterakademie von Turin. Nach Wolfenbüttel zurückgekehrt, trat er 1687 in die gerade gegründete Ritterakademie in Wolfenbüttel ein, bevor er sich nach einer kurzen Reise durch Dänemark und Schweden (1689) auf eine militärische Karriere vorbereitete. Anfangs Volontär, übernahm er bereits 1690 als Obrist ein eigenes Kommando. 1690/92 und 1697 nahm er aktiv an den Kämpfen im Rahmen des Pfälzischen Erbfolgekrieges (1688–1697) in Nordfrankreich und am Rhein teil. Sein Auftritt im Gefolge des Mars endete in kurzer französischer Kriegsgefangenschaft, was eigene Enttäuschung und Zweifel an seiner Eignung weckte; sein Interesse am Militärspiel blieb zwar als Obrist eines eigenen fürstlich-wolfenbüttelschen Dragonerregiments und als Obrist eines ebensolchen im Dienst Kursachsen-Polens bestehen. Auch in dem bearbeiteten Tagebuch Cod. Guelf. 28 Blank. ist von seinem Dragonerregiment, von Inspektionen, neuen Uniformen, Aufzugs- und Wachreglements, aber auch einem von Ludwig Rudolph verhängten sechsfachen Spießrutenlauf (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank#1701-02-24_14">24.02.1701</ref>) vergleichsweise ausgiebig die Rede. Für die ersehnten Epauletten eines Generalmajors aber waren seine Schultern dann doch zu schmal, befand zumindest sein Vater, dem ansonsten ein gutes Vater-Sohn-Verhältnis attestiert wird.
+                </p>
+                <figure rend="float">
+                    <graphic url="http://diglib.hab.de/varia/portrait/a-02402/000001.jpg"/>
+                    <figDesc>Porträt Christine Luises, nach 1727. Weitere Informationen in der <ref target="http://portraits.hab.de/werk/2653/">Porträtsammlung der HAB</ref>.</figDesc>
+                </figure>
+                <p>
+                    <lb/>Seit 1690 war Ludwig Rudolph verheiratet mit der gleichaltrigen Christine Luise, der ältesten Tochter Fürst Albrecht Ernsts I. (1642-1683) aus der lutherischen Linie Oettingen-Oettingen und seiner Ehefrau, Christine Friederike (1644-1674), einer geborenen Herzogin von Württemberg. Nach dem frühen Tod der Eltern war die 12-jährige Christine Luise zu ihren Verwandten nach Ostfriesland gesandt worden, wo sie am Hof in Aurich aufwuchs, regen Anteil am dortigen kulturellen Leben nahm und ihre lebenslange Leidenschaft für das Theater entwickelte. Im selben Jahr, am 30. 1. 1690, wurde Ludwig Rudolph in einem Familienvertrag, um Erbstreitigkeiten mit seinem älteren Bruder und Erbprinzen August Wilhelm (1662–1731) zu vermeiden, die Grafschaft Blankenburg als erbliche Apanage zugesprochen.
+                </p>
+                <p>
+                    <lb/>Aus seiner Ehe gingen vier Töchter hervor, von denen die zweitgeborene noch als Kind starb. Die übrigen erreichten das Erwachsenenalter und wurden mit politischem Kalkül verheiratet. Die dynastiepolitische Regie führte dabei allerdings nicht Ludwig Rudolph, sondern sein Vater Anton Ulrich: Die älteste, Elisabeth Christine (1691–1750), wurde 1708 mit dem künftigen Kaiser Karl VI. (1685–1740) vermählt, ihren dafür notwendigen Konfessionswechsel zum Katholizismus nahm man in Kauf, Anton Ulrich vollzog ihn zwei Jahre später selbst. Sie wurde die Mutter Maria Theresias (1717-1780). Die mittlere, Charlotte Christine Sophie (1694–1715) wurde 1710 mit dem russischen Großfürsten und Zarewitsch Alexej Petrowitsch (1690–1718) verheiratet; die jüngste, Antoinette Amalia (1696–1762), ehelichte ihren Cousin, den Prinzen Ferdinand Albrecht II. (1680–1735) aus der Nebenlinie Bevern, der 1735 kurzzeitig Nachfolger Ludwig Rudolphs als regierender Herzog in Wolfenbüttel werden sollte.
+                </p>
+                <p>
+                    <lb/>Zunächst verbrachte Ludwig Rudolph mit seiner Familie die meiste Zeit am Hof zu Wolfenbüttel. Das Tagebuch Cod. Guelf. Blankenburg 28 dokumentiert ein höfisches Leben, das sich zwischen der Residenz Wolfenbüttel, der Groß- und wirtschaftlichen Hauptstadt Braunschweig und dem gerade erbauten Lustschloss Salzdahlum abspielte. Erst mit dem Tod Anton Ulrichs 1714 und der Thronübernahme durch seinen Bruder August Wilhelm zogen sich Ludwig Rudolph und Christine Luise nach Blankenburg zurück, das im Rahmen der Eheanbahnung ihrer ältesten Tochter 1707 von Kaiser Joseph I. (1678-1711) zum politisch selbständigen Reichsfürstentum erhoben worden war. Das dortige Renaissanceschloss hatten sie seit 1705 im Barockstil repräsentativ ausbauen lassen. Gemeinsam mit Christine Luise entwickelte Ludwig Rudolph in Blankenburg eine außergewöhnlich intensive Kulturpolitik. Kontakte zu Gelehrten der Universität Helmstedt wie dem Frühaufklärer Johann Lorenz Mosheim gehörten dazu, vor allem aber traten beide im Sammeln von Büchern und in der Förderung der Theater- und Opernkunst in Erscheinung. 1710 beginnt ein eigenes Theaterleben in der Blankenburger Residenz.
+                </p>
+                <p>
+                    <lb/>Die Vorstellungen bestritten die Hofgesellschaft oder Wandertruppen wie die der Friederike Caroline Neuber (1697-1760), die in Blankenburg Förderung und Freundschaft fand. Im ersteren Falle soll Christine Luise, die schon in Aurich Theater gespielt hatte, die Einstudierung der Stücke geleitet haben. Auf diese Weise etablierte das herzogliche Paar Blankenburg als kulturelles Zentrum in zeitweilig erkennbarer Konkurrenz zum herzoglichen Hof in Wolfenbüttel. Als Schwiegereltern des seit 1711 amtierenden Kaisers bekam das Fürstenpaar und ihr repräsentativer Hof reichsweite Bedeutung, kräftig gesponsert aus Wien, das nicht immer freiwillig üppige Geld-Flüsse in die ausgeleerten Beutel des hochverschuldeten Ludwig Rudolph pumpen durfte.<note type="footnote"><ref type="opac" cRef="1602199515">Arnold: Eine norddeutsche Fürstenbibliothek</ref>, S. 84f.</note> Christine Luise blieb nach dem Tod ihres Mannes 1735 in Blankenburg, führte eine ausgedehnte Korrespondenz und setzte sich, vergeblich, für den Verbleib der Hofbibliothek in Blankenburg ein. Die Fürstin hatte bei ihrem Tod 1747 eine Privatbibliothek von 600 Titeln zusammengetragen (Katalog: Bibliotheksarchiv der HAB: <ref target="https://diglib.hab.de/mss/ba-1-668/start.htm">BA I, 668</ref>-<ref target="https://diglib.hab.de/mss/ba-1-669/start.htm">669</ref>). Beide Bibliotheken hat der Blankenburger Bibliothekar Georg Septimus Andreas von Praun (1701–1786) geordnet und verzeichnet, die Hofbibliothek umfasste 15.000 Bände (Katalog: BA I, 655-662 und 664-666). Praun machte dann in Wolfenbüttel Karriere und brachte es zuletzt bis zum Ersten Minister; er war es, der 1770 Lessing ins Bibliothekarsamt einführte. Ludwig Rudolphs Bibliothek ging 1753 zu zwei Dritteln in den Besitz der Herzoglichen Bibliothek in Wolfenbüttel über und wurde auf der Galerie des oberen Stockwerks der Rotunde aufgestellt. Das übrige Drittel erhielt das 1745 gegründete Collegium Carolinum in Braunschweig, eine moderne Lehranstalt im Geist der frühen Aufklärung. Über Umwege gelangte auch dieser Teil 1890 nach Wolfenbüttel.
+                </p>
+            </div>  
+        </body>
+    </text>
+</TEI>

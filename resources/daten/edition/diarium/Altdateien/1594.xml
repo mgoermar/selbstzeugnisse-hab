@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" prev="front.xml" next="1595.xml" n="1594" type="edition">
+    <teiHeader>
+        <fileDesc><titleStmt><title>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635)
+           – 1594</title><principal ref="https://doi.org/10.1515/editio-2016-0009">Inga Hanna Ralle</principal><funder ref="http://d-nb.info/gnd/5055588-1">Niedersächsisches Ministerium für Wissenschaft und Kultur</funder><respStmt><name>Jacqueline Krone</name><resp>Metadaten, Recherche und Korrektur</resp></respStmt><respStmt><name ref="http://orcid.org/0000-0001-9292-5673">David Maus</name><resp>Technische Konzeption und Begleitung</resp></respStmt></titleStmt><publicationStmt><publisher><name ref="http://d-nb.info/gnd/8989-8">Herzog August Bibliothek Wolfenbüttel</name></publisher><pubPlace>Wolfenbüttel</pubPlace><date when="2017">2017</date><availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</licence></availability></publicationStmt><sourceDesc><bibl>
+          Herzog August der Jüngere von Braunschweig-Wolfenbüttel (1579-1666): Ephemerides. Sive Diarium (1594-1635). Herzog
+          August Bibliothek, Signatur: Cod.  Guelf. 42.19 Aug. 2°
+        </bibl></sourceDesc></fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00005.jpg" n="1r">Anno 1594.</head></div>
+            <div xml:id="E1594-04-10"><head><date when="1594-04-10">Den 10 Apr<ex>ilis</ex>
+                <c>☿</c></date></head> <p> von <rs ref="register.xml#Dannenberg" type="place">Dannenbergk</rs> nach <rs ref="register.xml#Rostock" type="place">Rostogk</rs>
+                gezogen; ist biß nach <rs ref="register.xml#Doemitz" type="place">Domitz</rs> 1. meill. <rs ref="register.xml#Eldena" type="place">Eldena</rs> 2 meill. <rs ref="register.xml#Grabow" type="place">Grabaw</rs>
+                stadt 1 meill, <rs ref="register.xml#Parchim" type="place">Parchem</rs>
+                    stadt 3 meill. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7.</p></div>
+            <div xml:id="E1594-04-11"><head><date when="1594-04-11">Den 11 Apr<ex>ilis</ex>
+                <c>♃</c></date></head> <p> biß <rs ref="register.xml#Guestrow" type="place">Gustrow</rs> stadt, 5.
+                meill</p></div>
+            <div xml:id="E1594-04-12"><head><date when="1594-04-12">Den 12 Apr<ex>ilis</ex>
+                <c>♀</c></date></head> <p>biß <rs ref="register.xml#Rostock" type="place">Rostogk</rs>, 4 meill.</p></div>
+            <div xml:id="E1594-04-16"><head><date when="1594-04-16">Den 16 Apr<ex>ilis</ex>
+                <c>♂</c></date></head> <p> <rs ref="register.xml#Nicolaus_Willebrand" type="person">M. Nicolaus Willebrandus</rs>
+                    <w>⁊c.</w><note type="annotation" resp="ao">etc.</note></p></div>
+            <div xml:id="E1594-04-29"><head><date when="1594-04-29">Den 29 Apr<ex>ilis</ex>
+                <c>☽</c></date></head> <p><rs ref="register.xml#Philipp_II._Pommern-Stettin" type="person">D. Philippus Pomeranorum</rs>
+                    <w>⁊c.</w><note type="annotation" resp="ao">etc.</note></p></div>
+            <div xml:id="E1594-04-30"><head><date when="1594-04-30">Den 30, April<ex>is</ex>
+                <c>♂</c></date></head> <p> <foreign xml:lang="lat">Renunciatio Rectoris. ⁊c.</foreign><note type="translation" resp="as">Rücktritt des Direktors, etc.</note></p></div>
+            <div xml:id="E1594-05-02"><head><date when="1594-05-02">Den 2 Maÿ, <c>♃</c></date></head> <p> wied<ex>er</ex>wegkgezogen; biß nach <rs ref="register.xml#Roevershagen" type="place">Röverßhag<ex>en</ex></rs> 1
+                ½ m<ex>eill</ex>.</p></div>
+            <div xml:id="E1594-05-04"><head><date when="1594-05-04">Den 4 Maÿ <c>♄</c></date></head> <p> biß gehn <rs ref="register.xml#Warnemuende" type="place">Warnemünde</rs>, auf dem <foreign xml:lang="lat">Mare Baltico; </foreign><note type="translation" resp="as">Ostsee</note> 2 meill.</p></div>
+            <div xml:id="E1594-05-24"><head><date when="1594-05-24">Den 24 Maÿ <del rend="overstrike"><c>♃</c></del> <add><c>♀</c></add></date></head> <p> M. <add place="above">ichan.</add> D.
+                P.<add place="above">oland</add> wegkgezog<ex>en</ex>, biß <rs ref="register.xml#Parkentin" type="place">Parckeatin</rs>, alda eine
+                künstliche Schmiede zusehen, welche in 4 Jahren, von einem <rs type="person">Friederich Schatz</rs>
+                genandt, erbawett worden; vnd wirdt sie vom wasser regierett durch 3 räder. D<ex>az</ex> eine treibett siebennerleÿ, alß nemlich blaßbelge an 4
+                vntterschiedliche<ex>n</ex> Örten, einen Schleifstein, eine Walckmüle, vnd einen borer, da man die büchsenleuffe mitt durchborett. Daß and<ex>er</ex> radt treibett den grossen hammer, da sie d<ex>az</ex> eÿsen mittschlagen. Das dritte treibett eine schneidemühl
+                so auf einmahl ein stuck Eysen in 5 lange theill schneidett.</p><note type="annotation" resp="ao">Hammermühle von Hammerschmied Friedrich Schatz, siehe: Wilhelm Stieda: Mecklenburgische Papiermühlen, in: Jahrbücher des Vereins für Mecklenburgische Geschichte und Altertumskunde, Band 80 (1915), S. 160-161.</note></div>
+            <div xml:id="E1594-06-15"><head><date when="1594-06-15">Den 15 Junÿ <c>♄</c></date></head> <p> Viti, <rs type="person">Theodorus Sendenius</rs>.</p></div>
+            <div xml:id="E1594-06-20"><head><date when="1594-06-20">Den 20 Junÿ, <c>♃</c></date></head> <p> <rs type="person">Antonius</rs> <foreign xml:lang="lat">mors</foreign><note type="translation" resp="as">Tod</note>.</p></div>
+            <div xml:id="E1594-06-26"><head><date when="1594-06-26">Den 26 Jun<ex>ÿ</ex>
+                <c>☿</c></date></head> <p> nach <rs ref="register.xml#Petersdorf" type="place">Peterßdorf</rs> geritten.</p></div>
+            <div xml:id="E1594-06-29"><head><date when="1594-06-29">Den 29 Jun<ex>ÿ</ex> <c>♄</c></date></head> <p><seg>Petri &amp; Pauli</seg><note type="annotation" resp="ao">Gedenktag Hl. Petrus und Paulus</note>: H<ex>err</ex>
+                <rs ref="register.xml#Moritz_von_Sachsen-Lauenburg" type="person">Moritz von Sachsen</rs>, ankommen.</p></div>
+            <div xml:id="E1594-06-30"><head><date when="1594-06-30">Den 30 Jun<ex>ÿ</ex> <c>☉</c></date></head> <p> d<ex>az</ex> <w>Fraterkloster</w><note type="annotation" resp="ao">Michaeliskloster in Rostock, war auch Fraterhaus der Brüder vom gemeinsamen Leben, siehe: <ref target="http://d-nb.info/gnd/4822752-3">DNB</ref></note> abgebrandt.</p></div>
+            <div xml:id="E1594-07-02"><head><date when="1594-07-02">Den 2 Julÿ <c>♂</c></date></head> <p>H<ex>err</ex> <rs ref="register.xml#Moritz_von_Sachsen-Lauenburg" type="person">M<ex>oritz</ex> v<ex>on</ex> S<ex>achsen</ex></rs> wiederwegkgezogen.</p></div>
+            <div xml:id="E1594-07-16"><head><date when="1594-07-16">Den 16 July: <c>♂</c></date></head> <p> <foreign xml:lang="lat">h<ex>ora</ex> 8. vesp&lt;<ex>era&gt;</ex></foreign><note type="translation" resp="as">Abends um 8 Uhr</note> <seg>O inß Oh: mach<ex>en</ex> lassen.</seg><note type="annotation" resp="ao">Vermutlich hat August sich einen Ohrring stechen lassen; folgendes Bild zeigt ihn mit Ohrring: <ref target="http://www.portraitindex.de/documents/obj/34701757/gs125787d">Digitaler Portraitindex</ref></note></p></div>
+            <div xml:id="E1594-07-22"><head><date when="1594-07-22">Den 22 Julÿ <c>☽</c></date></head> <p> <rs type="person">Samuel Musaeus</rs>
+                <w>rc</w><note type="annotation" resp="ao">etc.</note></p></div>
+            <div xml:id="E1594-07-25"><head><date when="1594-07-25">Den 25 July <c>♃</c></date></head> <p><rs type="person">Simon Walther</rs> ankommen.</p></div>
+            <div xml:id="E1594-08-09"><head><date when="1594-08-09">Den 9 Aug<ex>usti</ex>
+                <c>♀</c></date></head> <p> biß <rs ref="register.xml#Ribnitz" type="place">Ribbenitz</rs>, kloster,
+                    <rs ref="register.xml#Damgarten" type="place">Damgartt</rs>, 3. meill. mittags mahl, <rs ref="register.xml#Barth" type="place">Barth</rs>, 3 meill, <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            <div xml:id="E1594-08-10"><head><date when="1594-08-10">Den 10 Aug<ex>usti</ex> <c>♄</c></date></head> <p> vo<ex>n</ex> dannen biß
+                <rs ref="register.xml#Franzburg" type="place">Frantzburgk</rs>; 2 meill</p></div>
+            <div xml:id="E1594-08-11"><head><date when="1594-08-11">Den 11 Aug<ex>usti</ex> <c>☉</c></date></head> <p> wied<ex>er</ex> gehn <rs ref="register.xml#Barth" type="place">Barth</rs>.</p></div>
+            <div xml:id="E1594-08-12"><head><date when="1594-08-12">Den 12 Aug<ex>usti</ex>
+                <c>☽</c></date></head> <p> biß <rs ref="register.xml#Ribnitz" type="place">Ribbenitz</rs>, 3 meill, d<ex>en</ex> selbe<ex>n</ex> abendt <foreign xml:lang="lat"><add place="above"><rs type="person">Dux
+                    Franz.</rs></add> meus charissimus frater abÿt</foreign><note type="translation" resp="as">Herzog Franz, mein lieber Bruder geht fort</note> <rs ref="register.xml#Barth" type="place">Bard<add place="inline">tum</add></rs>.</p></div>
+            <div xml:id="E1594-08-13"><head><date when="1594-08-13">Den 13 Aug<ex>usti</ex>
+                <c>♂</c></date></head> <p> seindt wir zu <rs ref="register.xml#Ribnitz" type="place">Ribbenitz</rs> still
+                    gelege<ex>n</ex>, <rs ref="register.xml#Moritz_von_Sachsen-Lauenburg" type="person">M<ex>o</ex>r<ex>itz</ex></rs> <foreign xml:lang="lat">illma ipsum e<ex>st</ex> secuta</foreign><note type="translation" resp="as">folgte selbst nach</note> in d<ex>er</ex> nacht vmb 12
+                    Vhren.</p></div>
+            <div xml:id="E1594-08-14"><head><date when="1594-08-14">Den 14 Aug<ex>usti</ex>
+                <c>☿</c></date></head> <p> wied<ex>er</ex>
+                    nach <rs ref="register.xml#Rostock" type="place">Rostogk</rs> 3 meill.</p></div>
+             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00006.jpg" n="1v"/>
+            <div xml:id="E1594-08-28"><head><date when="1594-08-28">Den 28 Aug<ex>usti</ex>
+                <c>☿</c></date></head> <p> biß <rs ref="register.xml#Bad_Doberan" type="place">Dobberan</rs> Kloster. 2 meill. </p></div>
+            <div xml:id="E1594-09-09"><head><date when="1594-09-09">Den 9 Sept<ex>embris</ex>
+                <c>☽</c></date></head> <p> biß gehn <rs ref="register.xml#Ribnitz" type="place">Ribbenitz</rs> 3
+                    meill.</p></div>
+            <div xml:id="E1594-09-10"><head><date when="1594-09-10">Den 10 Sept<ex>embris</ex>
+                <c>♂</c></date></head> <p> biß <rs ref="register.xml#Barth" type="place">Barth</rs> 3. meill.</p></div>
+            <div xml:id="E1594-09-11"><head><date when="1594-09-11">Den 11 Sept<ex>embris</ex>
+                <c>☿</c></date></head> <p> biß <rs ref="register.xml#Rostock" type="place">Rostogk</rs> 6 meill.</p></div>
+            <div xml:id="E1594-09-14"><head><date when="1594-09-14">Den 14 Sept<ex>embris</ex> <c>♄</c></date></head> <p> <foreign xml:lang="lat">Oratio valedictoria.</foreign><note type="translation" resp="as">Abschiedsrede</note></p></div>
+            <div xml:id="E1594-09-15"><head><date when="1594-09-15">Den 15 Sept<ex>embris</ex> <c>☉</c> </date></head> <p><foreign xml:lang="lat">Valetgeb<ex>en</ex></foreign><note type="translation" resp="as">Abschied genommen</note></p></div>
+            <div xml:id="E1594-09-16"><head><date when="1594-09-16">Den 16 Sept<ex>embris</ex>
+                <c>☽</c></date></head> <p> biß <rs ref="register.xml#Buetzow" type="place">Bützow</rs> <add place="above">st<ex>adt</ex></add>, 4 meill.</p></div>
+            <div xml:id="E1594-09-17"><head><date when="1594-09-17">Den 17 Sept<ex>embris</ex>
+                <c>♂</c></date></head> <p>biß <rs ref="register.xml#Sternberg" type="place">Sternebergk</rs> <add place="above">st<ex>adt</ex></add> 2 meill, mittagßmahl, biß <rs ref="register.xml#Parchim" type="place">Parchem</rs> stadt 4
+                    meill. <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 6.</p></div>
+            <div xml:id="E1594-09-18"><head><date when="1594-09-18">Den 18 Sept<ex>embris</ex>
+                <c>☿</c></date></head> <p>biß <rs ref="register.xml#Grabow" type="place">Grabaw</rs> 3 meill, biß <rs ref="register.xml#Eldena" type="place">Eldena</rs>
+                    1. meill, mittagßmahl, biß <rs ref="register.xml#Guemse" type="place">Gümbze</rs> 3 meill, <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 7. über die
+                    Elbe.</p></div>
+            <div xml:id="E1594-09-19"><head><date when="1594-09-19">Den 19. Sept<ex>embris</ex>
+                <c>♃</c></date></head> <p> <rs ref="register.xml#braunschweig-dannenberg_ursula" type="person">mater</rs> &amp; <rs ref="register.xml#Heinrich_von_Braunschweig_Lueneburg" type="person">fratres</rs> beÿ mir
+                gewesen. <c>♃</c>
+                </p></div>
+            <div xml:id="E1594-09-28"><head><date when="1594-09-28">Den 28 Sept<ex>embris</ex> <c>♄</c></date></head> <p> biß gehn <rs ref="register.xml#Dannenberg" type="place">Dannenbergk</rs>, ½ meill.</p></div>
+            <div xml:id="E1594-10-08"><head><date when="1594-10-08">Den 8 Octobr<ex>is</ex>
+                <c>♂</c></date></head> <p><foreign xml:lang="lat">audivi constitutionem
+                    Parentum.</foreign><note type="translation" resp="as">Ich habe die Anordnung der Eltern gehört</note><del rend="overstrike"><c>♂</c></del></p></div>
+                   </body>
+    </text>
+</TEI>

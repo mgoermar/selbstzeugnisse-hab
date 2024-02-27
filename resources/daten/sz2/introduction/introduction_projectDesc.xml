@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.introduction.introduction_projectDesc">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title><!--Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek II: -->Digitale Edition der Tagebücher von Herzog Ludwig Rudolph und Herzogin Christine Luise von Braunschweig-Wolfenbüttel<!-- - Projektbeschreibung--></title>
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                    <persName>
+                        <forename>Alexander</forename>
+                        <surname>Zirr</surname>                        
+                    </persName>                    
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Digitale Edition der Tagebücher von Herzog Ludwig Rudolph und Herzogin Christine Luise von Braunschweig-Wolfenbüttel</head>
+                <p>
+                    <lb/>Herzog Ludwig Rudolph von Braunschweig-Wolfenbüttel (1671–1735) hat eine ganze Reihe von autographen und nicht-autographen Selbstzeugnissen von unterschiedlichem Umfang und verschiedener Ausrichtung hinterlassen, von denen ein großer Teil im Bestand der Herzog August Bibliothek zu finden ist, nachdem die mit 15.000 Bänden sehr beachtliche Blankenburger Bibliothek zum größeren Teil 1753 nach Wolfenbüttel gekommen und der Rest nach diversen Umwegen 1890 gefolgt war.<note type="footnote">Alphabetischer (Catalogus nominalis) und Standortkatalog (Catalogus numeralis) der Blankenburger Bibliothek Herzog Ludwig Rudolphs, 8 und 3 Bände. Angefertigt und 1737 fertiggestellt von Georg Septimus Andreas von Praun (1701–1786), seit 1727 herzoglicher Bibliothekar in Blankenburg. Wolfenbüttel, Herzog August Bibibliothek, Bibliotheksarchiv, BA I, 655-662 und 664–666.</note> Auffällig sind etwa die hohe Zahl eigenhändiger Exzerptbücher- und –kladden und seine Lektüre-Protokollierung in tagebuchartigen Aufzeichnungen im Bestand der Blankenburger Handschriften der HAB.<note type="footnote">Vgl. die Auswahl-Übersichten über diese Quellen und Forschungsliteratur in unserer <ref target="http://selbstzeugnisse.hab.de/sz2/bibliographie">Bibliographie</ref> und das Repertorium <ref target="http://selbstzeugnisse.hab.de/repertorium/">Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek</ref></note> 
+                </p>
+                <p>
+                    <lb/>Ziel des Projekts ist die philologisch verlässliche, weitgehend vorlagengetreue und gut referenzierte digitale Edition von drei aus diesem Fundus ausgewählten tagebuchförmigen Handschriften Herzog Ludwig Rudolphs (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_28_blank">Cod. Guelf. 28 Blank.</ref>, <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286_blank">286 Blank.</ref> und <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank">286a Blank.</ref>) zuzüglich eines Tagebuchs seiner Ehefrau Christine Luise (1671–1747), gebürtig aus dem fürstlichen Hause Oettingen-Oettingen, aus der Zeit zwischen 1698 und 1724 (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_211_1_extrav">Cod. Guelf. 211.1 Extrav.</ref>). Cod. Guelf. 28 Blank. wurde offensichtlich nachträglich in Reinschrift eines Sekretärs oder Kanzlisten gebracht und dokumentiert Ludwig Rudolphs Jahr 1701. Cod. Guelf. 286 Blank. umfasst eigenhändige Aufzeichnungen Herzog Ludwig Rudolphs vom Januar 1712 bis November 1713 und am Ende des Bandes einen Ausgriff auf den Juni 1724. Cod. Guelf. 286a Blank. bietet ebenfalls eine nicht durchgehend diaristische eigenhändige Beschreibung Ludwig Rudolphs für das Jahr 1707. Herzogin Christine Luise hat uns mit Cod. Guelf. 211.1 Extrav. ein Tagebuch für die Zeit vom März 1698 bis Juli 1699 hinterlassen.<note type="footnote">Vgl. ausführlicher auch die Einleitungen zu den Handschriften: <ref target="http://selbstzeugnisse.hab.de/sz2/introduction_cod_guelf_28_blank">Cod. Guelf. 28 Blank.</ref>, <ref target="http://selbstzeugnisse.hab.de/sz2/introduction_cod_guelf_286_blank">286 Blank.</ref>, <ref target="http://selbstzeugnisse.hab.de/sz2/introduction_cod_guelf_286a_blank">286a Blank.</ref> und <ref target="http://selbstzeugnisse.hab.de/sz2/introduction_cod_guelf_211_1_extrav">211.1 Extrav.</ref></note>
+                </p>
+                <p>
+                    <lb/>Durch die Transkription und Kommentierung dieser fürstlichen Selbstzeugnisse sowie ihre Bereitstellung in elektronischer Form werden bislang kaum beachtete Quellen zur Landes-, Hof- und Adelsgeschichte erschlossen und der wissenschaftlichen Öffentlichkeit zugänglich gemacht. Sie ermöglichen nicht nur einen seltenen und vertieften Einblick in die Persönlichkeitsentwicklung und Erfahrungswelt, die kulturelle Wahrnehmung und höfische Selbstinszenierung und –formung, den Alltag und soziale Praktiken sowie die Netzwerke dieses Fürstenpaars, sondern versprechen darüber hinaus generelle Aufschlüsse über die politische und höfische Kultur im Herzogtum Braunschweig und Lüneburg des späten 17. und frühen 18. Jahrhunderts. Diese Periode der Jahrzehnte um 1700 — zwischen der Ägide des kunst- und kulturbeflissenen und politisch ehrgeizigen barocken Herrschertypus‘ Anton Ulrich (1633–1714) und dem Herzog Karl I. (1713–1780) und seiner Regentschaft im Zeichen der Aufklärung — ist landes- und hofgeschichtlich kaum im historischen Bewusstsein präsent und vergleichsweise wenig erforscht. Ludwig Rudolph steht aufgrund seiner späten und nur kurzen Regentschaft im Fürstentum Wolfenbüttel (1731–35) historiographisch deutlich im Schatten seines Vaters und Großvaters, Herzog Anton Ulrichs bzw. Herzog Augusts des Jüngeren (1579–1666). Das historische Bild seines Vorgängers in der Regierung, des älteren kinderlos gebliebenen und hoch verschuldeten Bruders August Wilhelm (1662–1731), hat einen aher negativen Widerhall in der älteren Forschung gefunden und seine Regentschaft ist daher im historischen Gedächtnis der Nachwelt kaum verankert. Bevor Ludwig Rudolph 1731 die Regierung im Fürstentum Wolfenbüttel antrat und, wie ihm bescheinigt wurde, in solide Bahnen zurückführte, hatte er in der Grafschaft Blankenburg, die er 1690 als Apanage erhalten hatte und die er, 1707 zum Fürstentum erhoben, ab 1714 eigenständig regierte, gemeinsam mit seiner Frau Christine Luise eine außergewöhnlich intensive Kulturpolitik betrieben. Vor allem traten beide im Aufbau ansehnlicher Bibliotheken und in der Förderung der Theater- und Opernkunst in Erscheinung. Auf diese Weise etablierten sie Blankenburg als kulturelles Zentrum in zeitweilig erkennbarer Konkurrenz zum herzoglichen Hof in Wolfenbüttel.                      
+                </p>
+                <p>
+                    <lb/>Die hier edierten Tagebücher liegen (mit Ausnahme von 286 Blank., das am Ende ins Jahr 1724 ausgreift) zeitlich vor dem Antritt der Blankenburger Regentschaft und führen in die historische Topographie des Fürstentums Wolfenbüttel, in die Bildungswelt und Lektüren Ludwig Rudolphs, in repräsentative Pflichten des Prinzen und seiner Gemahlin, in Kontakte und Verbindungen des Paares, alltäglichen Zeitvertreib und die tw. anstrengenden, sublimen Regeln und Verkehrsformen höfischer Kommunikation und Etikette sowie Personen und Strukturen von Hofstaat und -gesellschaft ein. Sie zeigen das fürstliche Leben des Herzogspaares in einer streng separierten höfischen Selbstverständlichkeit und Selbstreferentialität, frei von jeglicher Regierungs- und Verwaltungsverantwortung, weitgehend abgehoben von der gesellschaftlichen Umwelt der niederen Stände, angetrieben von höfischen Spielvergnügen und dem angestrebten Glanz barocker Kulturüberhöhung. Gleichwohl muss sich eine kritische Geschichts- und Kulturwissenschaft auch, vielleicht sogar gerade in solchen Scharnierzeiten beweisen und jene „ungeahnten und unerreichbaren Paradiese für tatenlose Träume“,<note type="footnote">Georg Lukács: Die Seele und die Formen. Essays. Berlin, Neuwied 1971, S. 226. Vgl. dazu Lucien Goldmann: Der verborgene Gott. Studie über die tragische Weltanschauung in den Pensées Pascals und im Theater Racines. Neuwied, Darmstadt 1973, S. 64.</note> aufdecken, die in den Kulissen des barocken Herrschafts- und Kunsttheaters blühten, in denen man sich gegen die kreatürliche und politische Limitierung gleichwohl in nichts geringerem als in mythischen Wolkenbildern von Salomon und David, von Apollo, Herkules, Jason oder Perseus, Aeneas oder Augustus oder in den <hi rend="italic">loci amoeni</hi> einer heilen Schäferwelt literarisch und musikalisch bespiegelte. Für diese Welt des barocken Hoftheaters in beiderlei Sinn des Wortes bieten die hier ausgewählten Selbstzeugnisse einiges an Untersuchungsmaterial.
+                </p>
+                <p>
+                    <lb/>Das Projekt knüpft inhaltlich und technisch an das im Rahmen des Programms PRO*Niedersachen geförderte Projekt „Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek. Digitale Edition des Diariums von Herzog August dem Jüngeren, Selbstzeugnis-Repertorium und Forschungsportal“ (Laufzeit: 01.09.2014–31.08.2017) an, indem das dort entwickelte <ref target="http://selbstzeugnisse.hab.de">Forschungsportal</ref> weiter ausgebaut wird. Bei der Textgestaltung, der Referenzierung von Personen und Orten, der Erstellung eines Glossars war Rücksicht auf die spezifischen Präsentationsformen der Quellentexte — die z. B. nicht einer streng diaristischen Chronologie folgen — und auf editionsphilologische Erfordernisse zu nehmen und daher verschiedentlich von den vorgegebenen Verfahrensweisen der SZ I abzuweichen. Über die editionsphilologischen Regeln von Transkription und Textpräsentation unterrichten die <ref target="http://selbstzeugnisse.hab.de/sz2/editionsrichtlinien">Editionsrichtlinien</ref>. Die an Informationen weit ausführlicheren Personen- und Ortsregister, das Glossar des erklärungsbedürftigen Wortschatzes in den Quellen und das Verzeichnis der von Ludwig Rudolph und Christine Luise erwähnten oder zitierten Literatur werden nicht als Portaltexte, sondern innerhalb der Digitalen Edition angeboten.
+                </p>
+                <p>
+                    <lb/>Eine wichtige inhaltliche Schnittstelle zum Vorläuferprojekt bildet der Umstand, dass es wieder fürstliche Selbstzeugnisse aus dem Herzogtum Braunschweig-Wolfenbüttel sind, die kritisch bearbeitet und veröffentlicht werden. Es ist beabsichtigt, die Forschungslinie „Selbstzeugnisse“ an der HAB und das Forschungsportal auch über das hier vorgestellte Vorhaben hinaus weiterzuführen.
+                </p>
+            </div>  
+        </body>
+    </text>
+</TEI>

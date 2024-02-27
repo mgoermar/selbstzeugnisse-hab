@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="grand_tour.introduction.introduction_projectDesc">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Grand Tour Digital - Digitale Edition frühneuzeitlicher Selbstzeugnisse von Bildungsreisen</title><!--Projektbeschreibung-->
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Angela</forename>
+                        <surname>Göbel</surname>                        
+                    </persName>                  
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Deutsche Forschungsgemeinschaft</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2023">2023</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Grand Tour digital. Digitalisierung, Erschließung und Visualisierung frühneuzeitlicher Selbstzeugnisse von Bildungsreisen unter Anwendung teilautomatisierter Editionsverfahren</head>
+                <p>
+                    Bildungsreisen waren in der Frühen Neuzeit für adlige und bürgerliche Eliten eine zentrale Wissenspraktik, die der Aneignung von Kenntnissen ebenso wie der Entwicklung des Selbst diente. Die Herzog August Bibliothek (HAB) verfügt über einen großen Bestand von Beschreibungen solcher Reisen, die für die Selbstzeugnisforschung und darüber hinaus erschlossen und mit neuen Methoden digital ediert werden.
+                </p>
+                <p>
+                    Im Fokus dieses Erschließungsvorhabens stehen 21 größtenteils deutschsprachige Reisetagebücher (insgesamt ca. 10.300 Seiten), die zwischen 1550 und 1770 von jungen Männern verfasst wurden und sich in der Herzog August Bibliothek (HAB) sowie zu einem geringen Teil im Niedersächsischen Landesarchiv Wolfenbüttel befinden. Fünf der Texte werden im Volltext ediert, der Rest digitalisiert und über Meta- und Strukturdaten erschlossen. Eine Übersicht über die Texte und bereits verfügbaren Digitalisate sind im projektbegleitenden <ref target="https://grandtourdig.hypotheses.org/275">Blog</ref> und in der <ref target="https://diglib.hab.de/?db=mss&amp;list=project&amp;id=Grand%20Tour%20digital%20Digitalisierung,%20Erschlie%C3%9Fung%20und%20Visualisierung%20fr%C3%BChneuzeitlicher%20Selbstzeugnisse%20von%20Bildungsreisen%20unter%20Anwendung%20teilautomatisierter%20Editionsverfahren">Handschriftendatenbank</ref> der HAB zu finden.
+                </p>
+                <p>
+                    Das Projekt knüpft an zwei vorausgehende Editionsprojekte im Selbstzeugnisportal der Herzog August Bibliothek (HAB) an: die Edition der <ref target="http://selbstzeugnisse.hab.de/edition_sz2">Tagebücher von Ludwig Rudolph, Herzog von Braunschweig-Wolfenbüttel (1671–1735) und seiner Ehefrau Christine Luise geb. von Oettingen-Oettingen (1671-1747)</ref> und die Edition des <ref target="http://selbstzeugnisse.hab.de/edition_august">Reisetagebuchs von Herzog August d. J. von Brausnchweig-Wolfenbüttel (1579–1666)</ref>. Der Aufbau und die editorischen Richtlinien orientieren sich an diesen Vorprojekten.
+                </p>
+                <p>
+                    Darüber hinaus dient das Projekt der experimentellen Entwicklung eines editorischen Arbeitsprozesses, der maschinelle Verfahren der Handschriftenerkennung (HTR) und der Named Entity Recognition (NER) integriert. Der Entwicklungsprozess dieses Workflows wird in dem schon erwähnten projektbegleitenden <ref target="https://grandtourdig.hypotheses.org/">Blog</ref> dokumentiert, die Ergebnisse im vorliegenden Portal und über den GitLab-Server der HAB veröffentlicht. Hier soll sukzessive auch eine umfassende Dokumentation des Workflows und der verwendeten Software - für die HTR <ref target="https://readcoop.eu/de/transkribus/">Transkribus</ref>, für die NER <ref target="https://spacy.io/">spaCy</ref> - entstehen.
+                </p>
+            </div>  
+        </body>
+    </text>
+</TEI>

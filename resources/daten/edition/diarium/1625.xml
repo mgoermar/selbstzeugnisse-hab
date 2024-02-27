@@ -11,8 +11,8 @@
         <body>
             <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00105.jpg" n="51r">Anno 1625.</head></div>
             
-            <div xml:id="E1625-04-28"><head><date when="1625-04-28">den 28 Aprilis <c>♃</c>,</date></head><p> ist mein <rs ref="register.xml#Heinrich_August_von_Braunschweig_Lueneburg" type="person">Sohn
-                hertzog Heinrich August</rs> gebohren umb 12 uhr und 30 min. am hellen <add place="above">mit</add>
+            <div xml:id="E1625-04-28"><head><date when="1625-04-28">den 28 Aprilis <c>♃</c>,</date></head><p> ist mein Sohn
+                <rs ref="register.xml#Heinrich_August_von_Braunschweig_Lueneburg" type="person">hertzog Heinrich August</rs> gebohren umb 12 uhr und 30 min. am hellen <add place="above">mit</add>
                 tage; d<ex>er</ex> Allmechtige erhalte ihn nach seinem Väterlichen
                 willen.</p></div>
            

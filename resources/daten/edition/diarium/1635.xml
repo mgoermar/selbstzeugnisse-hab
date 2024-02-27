@@ -12,8 +12,8 @@
             <div><head facs="http://selbstzeugnisse.hab.de/edition/images/00123.jpg" n="60r">1635.</head></div>
             
             <div xml:id="E1635-02-13"><note place="margin-right">Schwerinisch Beylager</note><head><date when="1635-02-13">den 13. Febr<ex>uari</ex>
-                <c>♀</c>,</date></head><p> bey d<ex>er</ex> <rs ref="register.xml#Eldena" type="place">Eldena</rs> zu meinem f<ex>ürstlichen</ex> l<ex>ieben</ex> Brud<ex>er</ex>n, H<ex>err</ex> <rs ref="register.xml#Julius_Ernst_Br-Db" type="person">Julio Ernsten</rs>, Alß S.r L.
-                dero Frewlein Tochtern <rs ref="register.xml#Maria_Katharina_von_Mecklenburg_Schwerin" type="person">Catharinen Marien</rs>; H<ex>err</ex> <rs ref="register.xml#Adolf_Friedrich_I._von_Mecklenburg" type="person">Adolphen
+                <c>♀</c>,</date></head><p> bey d<ex>er</ex> <rs ref="register.xml#Eldena" type="place">Eldena</rs> zu meinem f<ex>ürstlichen</ex> l<ex>ieben</ex> Brud<ex>er</ex>n, H<ex>erzog</ex> <rs ref="register.xml#Julius_Ernst_Br-Db" type="person">Julio Ernsten</rs>, Alß S<ex>eine</ex>r L<ex>iebden</ex>
+                dero Frewlein Tochtern <rs ref="register.xml#Maria_Katharina_von_Mecklenburg_Schwerin" type="person">Catharinen Marien</rs>; H<ex>erzog</ex> <rs ref="register.xml#Adolf_Friedrich_I._von_Mecklenburg" type="person">Adolphen
                     Friederichen zu Mecklenburg</rs>, nach <rs ref="register.xml#Schwerin" type="place">Schwerin</rs> zuführen wollen; gestossen: und biß nach
                 d<ex>er</ex> <rs ref="register.xml#Neustadt_Glewe" type="place">Newstadt</rs> gezogen: 6.m<ex>eill</ex></p></div>
             
@@ -22,7 +22,7 @@
             
             <pb facs="http://selbstzeugnisse.hab.de/edition/images/00124.jpg" n="60v"/>
             
-            <div xml:id="E1635-02-15"><head><date when="1635-02-15">den 15. Febr<ex>uari</ex> <c>☉</c></date></head><p> <seg>die Copulatio <ex>ver</ex>richtet.</seg><note type="annotation">Eheschließung zwischen Maria Katharina von Mecklenburg-Schwerin und Adolf Friedrich I. von Mecklenburg</note> <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1635-02-15"><head><date when="1635-02-15">den 15. Febr<ex>uari</ex> <c>☉</c></date></head><p> die <foreign xml:lang="lat">Copulatio</foreign><note type="translation" resp="mg">Eheschließung</note> <ex>ver</ex>richtet. <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
             <div xml:id="E1635-02-18"><head><date when="1635-02-18">den 18. Febr<ex>uari</ex>
                 <c>☿</c></date></head><p> biß <rs ref="register.xml#Guestrow" type="place">Güstrow</rs>. 6.m<ex>eill</ex></p></div>
@@ -32,7 +32,7 @@
                     <rs ref="register.xml#Demmin" type="place">dam<ex>m</ex>in</rs>: 6 meyl.</p></div>
             
             <div xml:id="E1635-02-20"><head><date when="1635-02-20">d<ex>en</ex> 20. Febr<ex>uari</ex>
-                <c>♀</c></date></head><p> biß <rs ref="register.xml#Loitz" type="place">Loitz</rs>. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note> 1.m<ex>eill</ex></p></div>
+                <c>♀</c></date></head><p> biß <rs ref="register.xml#Loitz" type="place">Loitz</rs>. <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note> 1.m<ex>eill</ex></p></div>
             
             <div xml:id="E1635-02-21"><head><date when="1635-02-21">d<ex>en</ex> 21 Febr<ex>uari</ex> <c>♄</c>.</date></head><p> die <rs ref="register.xml#Anna_von_Croy" type="person">Hertzoginne zu
                 Croy</rs> zukommen.</p></div>
@@ -41,29 +41,29 @@
                m<ex>eill</ex></p></div>
             
             <div xml:id="E1635-02-23"><head><date when="1635-02-23">d<ex>en</ex> 23. Febr<ex>uari</ex>
-                <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Guestrow" type="place">Güstrow</rs>, 5. m<ex>eill</ex>. <foreign xml:lang="lat">Tertii Conjugii, cum</foreign><note type="translation">Dritte Ehe mit</note> <rs ref="register.xml#Sophie_Elisabeth_Br_L" type="person">Sophia Elisabetha
-                    Megapolitana, principium</rs>: h. l. die werbung ist durch d. <rs type="person">Joh. Brüning</rs>, gegen <rs ref="register.xml#Paschasius_von_der_Luehe" type="person">Paschen
-                        von d<ex>er</ex> Lühe</rs> geschehen: worauf <foreign xml:lang="lat">seq<ex>uenz</ex> die</foreign><note type="translation">am folgenden Tag</note>, wilfährige
+                <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Guestrow" type="place">Güstrow</rs>, 5. m<ex>eill</ex>. <foreign xml:lang="lat">Tertii Conjugii, cum <rs ref="register.xml#Sophie_Elisabeth_Br_L" type="person">Sophia Elisabetha
+                    Megapolitana</rs>, principium: h<ex>oc</ex> e<ex>st</ex></foreign><note type="translation" resp="mg">Anfang der dritten Ehe mit Sophie Elisabeth von Mecklenburg, das heißt</note> die werbung ist durch d<ex>oktor</ex> <rs type="person" ref="register.xml#bruening_johann">Joh. Brüning</rs>, gegen <rs ref="register.xml#Paschasius_von_der_Luehe" type="person">Paschen
+                        von d<ex>er</ex> Lühe</rs> geschehen: worauf <foreign xml:lang="lat">seq<ex>uenti</ex> die</foreign><note type="translation">am folgenden Tag</note>, wilfährige
                     Resolution erfolget: d<ex>er</ex> Allmächtige schicke ferner seine<ex>n</ex> willen.</p></div>
             
             <div xml:id="E1635-02-25"><head><date when="1635-02-25">den 25. Febr<ex>uari</ex>
-                <c>☿</c></date></head><p> seynd <foreign xml:lang="lat">utrinque</foreign><note type="translation">beide</note> die <w>Arrhe<ex>n</ex></w><note type="annotation">Draufgeld, Mitgift</note>
+                <c>☿</c></date></head><p> seynd <foreign xml:lang="lat">utrinque</foreign><note type="translation">beiden</note> die Arrhe<ex>n</ex><note type="footnote" resp="mg">Arrha: Unterpfand (z. B. ein Ring o. ä.), dessen Überreichung einem Vertrag, hier dem Ehevertertrag (s. den Eintrag vom <ref target="#1635-04-10_60v">10. April</ref>), vorausgeht.</note>
                     gegeben.</p></div>
             
             <div xml:id="E1635-02-26"><head><date when="1635-02-26">den 26. Febr<ex>uari</ex>
                 <c>♃</c>.</date></head><p> biß <rs ref="register.xml#Herzberg_Mecklenburg_Vorpommern" type="place">Hertzberg</rs>, alda ein
-                    <rs ref="register.xml#Kardorff" type="org">karrdorf</rs> wohnet, 4.m<ex>eill</ex> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>, 4.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8. </p></div>
+                    <rs ref="register.xml#kardorff_anon_1" type="person">karrdorf</rs> wohnet, 4.m<ex>eill</ex> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>, 4.m<ex>eill</ex> <foreign xml:lang="lat">fac<ex>it</ex></foreign><note type="translation" resp="as">ergibt</note> 8. </p></div>
              
             <div xml:id="E1635-02-27"><head><date when="1635-02-27">d<ex>en</ex> 27. Febr<ex>uari</ex>
-                <c>♀</c>,</date></head><p> <foreign xml:lang="lat">prima vice scripsi ad</foreign><note type="translation">Das erste Mal, das ich geschrieben habe an</note> <unclear>S. E.
-                   M.</unclear><note type="annotation">Evtl. ist "Seine Majestät (S.M.)" gemeint</note> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger.</rs>: 4 m<ex>eill</ex></p></div>
+                <c>♀</c>,</date></head><p> <foreign xml:lang="lat">prima vice scripsi ad <rs type="person" ref="register.xml#Sophie_Elisabeth_Br_L">Sophia Elisabetha
+                   Megalopolitana</rs></foreign><note type="translation">Ich habe zum ersten Mal an Sophie Elisabeth von Mecklenburg geschrieben.</note>[.] biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>: 4 m<ex>eill</ex></p></div>
             
-            <div xml:id="E1635-03-30"><head><date when="1635-03-30">d<ex>en</ex> 30. Martii, <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>, zu mittage, biß <rs ref="register.xml#Parchim" type="place">Parchimb</rs>, 7. m</p></div>
+            <div xml:id="E1635-03-30"><head><date when="1635-03-30">d<ex>en</ex> 30. Martii, <c>☽</c>.</date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>, zu mittage, biß <rs ref="register.xml#Parchim" type="place">Parchimb</rs>, 7. m<ex>eill</ex></p></div>
             
             <div xml:id="E1635-03-31"><head><date when="1635-03-31">d<ex>en</ex> 31. Martii <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Guestrow" type="place">Gustrow</rs>. 5.m<ex>eill</ex></p></div>
             
             <div xml:id="E1635-04-10"><head><date when="1635-04-10">d<ex>en</ex> 10. Aprilis <c>♀</c>,</date></head><p> seynd die Ehereceß beed<ex>er</ex>seitz vollenzogen
-                worden. Gott gebe zu glücke. <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+                worden. Gott gebe zu glücke. <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
             <div xml:id="E1635-04-15"><head><date when="1635-04-15">d<ex>en</ex> 15. Aprilis <c>☿</c></date></head><p> biß <rs ref="register.xml#Neustadt_Glewe" type="place">Newstadt</rs>. 7.m<ex>eill</ex></p></div>
             

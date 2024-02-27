@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title>Lektürenotizen</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/affix.css">
+        <link rel="stylesheet" href="assets/css/proprietary.css">
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/proprietary.js"></script>
+    </head>
+
+    <body onload="javascript:x = getNavBarHeight();scrollNav(x);">
+
+        <div class="container-fluid" style="background-color:#FFFFFF">
+          <h1>Lektürenotizen (1701, 1707)</h1>
+            <p>Es handelt sich um Lesenotizen des Herzogs Ludwig Rudoph von Braunschweig-Wolfenbüttel in seinen Tage- und Notizbüchern.</br>Rekonstruktion: Jan-Hendrik Hütten, Alexander Zirr, Andreas Herz, Miriam Mulzer, Maximilian Görmar, 2021</p>
+            <div style="float:left;margin-right:20px">
+            <p>Altkatalog: Herzog August Bibliothek Wolfenbüttel, Cod. Guelf. 28 Blank., Cod. Guelf. 286a Blank.<br />
+            <span id="switchLink"><a href="javascript:switchToOriginal()">Anzeige in Vorlageform</a></span></p>
+            </div>
+
+            <div class="dropdown" style="float:left">
+                <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Download<span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li class="dropdown-header">Datenexport</li> 
+                    <li><a href="ludwig_rudolf.csv">CSV</a></li>
+                    <li><a href="ludwig_rudolf.xml">XML</a></li>
+                    <li><a href="ludwig_rudolf-tei.xml">TEI</a></li>
+                    <li><a href="ludwig_rudolf.rdf">RDF/XML</a></li>
+                    <li><a href="ludwig_rudolf.ttl">Turtle</a></li>
+                    <li><a href="ludwig_rudolf-gephi.zip">Gephi (CSV)</a></li>
+                    <li><a href="ludwig_rudolf-SOLR.xml">Solr XML</a></li>
+                    <li class="dropdown-header">Geodaten</li>
+                    <li><a href="printingPlaces.csv">CSV</a></li>
+                    <li><a href="printingPlaces.kml">KML</a></li>
+                    <li class="dropdown-header">Komplette Website</li>
+                    <li><a href="ludwig_rudolf.zip">ZIP</a></li>
+                </ul>
+            </div> 
+        </div>
+        <nav class="navbar navbar-default" data-spy="affix" data-offset-top="197">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-persName.html">Personen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-persName.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#A">A (7)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#B">B (7)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#C">C (11)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#D">D (5)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#F">F (6)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#G">G (11)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#H">H (1)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#I">I (1)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#J">J (1)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#K">K (3)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#L">L (13)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#M">M (13)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#N">N (4)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#O">O (3)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#P">P (7)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#R">R (2)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#S">S (17)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#T">T (8)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#V">V (2)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#Z">Z (3)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-beacon.html">Personenprofil<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-beacon.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#ActaPacisWestfalicae">Acta Pacis Westfalicae (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#AlbertinaWien">Albertina Wien (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#AlchemischeBestaendederHAB">Alchemische Bestände der HAB (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#ArchivportalD">Archivportal D (20)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BachDigital">Bach Digital (8)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BiographischesLexikondesKaiserthumsOesterreich">Biographisches Lexikon des Kaiserthums Oesterreich (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BiographischesLexikonzurGeschichteSuedosteuropas">Biographisches Lexikon zur Geschichte Südosteuropas (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BriefeundTexteausdemintellektuellenBerlinum1800">Briefe und Texte aus dem intellektuellen Berlin um 1800 (8)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BriefwechselBenediktBahnsen">Briefwechsel Benedikt Bahnsen (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#CarlMariavonWeberGesamtausgabe(WeGA)">Carl Maria von Weber Gesamtausgabe (WeGA) (9)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#ControversiaetConfessio">Controversia et Confessio (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#correspSearch–VerzeichnissevonBriefeditionen">correspSearch – Verzeichnisse von Briefeditionen (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DeutscheBiographie">Deutsche Biographie (34)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DeutscheDigitaleBibliothek">Deutsche Digitale Bibliothek (102)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DeutschesTextarchiv">Deutsches Textarchiv (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DigitalerPortraitindex">Digitaler Portraitindex (64)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DizionarioBiograficodegliItaliani">Dizionario Biografico degli Italiani (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#e-codicesVirtuelleHandschriftenbibliothekderSchweiz">e-codices Virtuelle Handschriftenbibliothek der Schweiz (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#editionhumboldtdigital">edition humboldt digital (7)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Fabricius:Bibliothecalatina">Fabricius: Bibliotheca latina (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#FrankfurterPersonenlexikon">Frankfurter Personenlexikon (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#FruchtbringendeGesellschaft">Fruchtbringende Gesellschaft (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#GesamtkatalogdeutschsprachigerLeichenpredigten">Gesamtkatalog deutschsprachiger Leichenpredigten (14)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#GeschichtsquellendesdeutschenMittelalters">Geschichtsquellen des deutschen Mittelalters (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Graphikportal–Akteure">Graphikportal – Akteure (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Graphikportal–Dargestellte">Graphikportal – Dargestellte (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#HessischeBiografie">Hessische Biografie (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#HistorischesLexikonderSchweiz">Historisches Lexikon der Schweiz (10)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#InternationalMusicScoreLibraryProject">International Music Score Library Project (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#JahresberichtefuerdeutscheGeschichte">Jahresberichte für deutsche Geschichte (39)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#JewishEncyclopedia1906">Jewish Encyclopedia 1906 (4)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#KalliopeVerbundkatalog">Kalliope Verbundkatalog (64)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#KatalogdesMuenzkabinettsStaatlicheMuseenzuBerlin">Katalog des Münzkabinetts Staatliche Museen zu Berlin (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#MatrikelderUniversitaetRostock">Matrikel der Universität Rostock (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#MelchiorAdam:Vitae">Melchior Adam: Vitae (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#PersonendatenbankderHoeflingederoesterreichischenHabsburger">Personendatenbank der Höflinge der österreichischen Habsburger (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Rheinland-PfaelzischePersonendatenbank">Rheinland-Pfälzische Personendatenbank (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#RostockerProfessorenkatalog">Rostocker Professorenkatalog (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Sandrart.net">Sandrart.net (9)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#SaechsischeBiographie">Sächsische Biographie (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Trithemius:Descriptoribusecclesiasticis">Trithemius: De scriptoribus ecclesiasticis (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#VerzeichnisderDrucke16.Jahrhunderts(VD16)">Verzeichnis der Drucke 16. Jahrhunderts (VD 16) (17)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#VirtuellesKupferstichkabinett">Virtuelles Kupferstichkabinett (24)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Wikipedia">Wikipedia (65)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-year.html">Datierung<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-year.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1540–1550">1540–1550 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1570–1580">1570–1580 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1580–1590">1580–1590 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1600–1610">1600–1610 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1620–1630">1620–1630 (2)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1630–1640">1630–1640 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1640–1650">1640–1650 (3)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1650–1660">1650–1660 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1660–1670">1660–1670 (6)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1670–1680">1670–1680 (4)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1680–1690">1680–1690 (5)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1690–1700">1690–1700 (13)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1700–1710">1700–1710 (25)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1710–1720">1710–1720 (35)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1720–1730">1720–1730 (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown active">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-genres.html">Gattungen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-genres.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Biographie">Biographie (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Brief">Brief (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Erbauungsliteratur">Erbauungsliteratur (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Flugschrift">Flugschrift (5)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Gebetbuch">Gebetbuch (2)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Gelegenheitsschrift">Gelegenheitsschrift (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Handbuch">Handbuch (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Ordensliteratur:Jesuiten">Ordensliteratur:Jesuiten (2)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Rede">Rede (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Roman">Roman (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Satire">Satire (5)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Streitschrift:jur.">Streitschrift:jur. (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Streitschrift:theol.">Streitschrift:theol. (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Traktat">Traktat (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Verserzaehlung">Verserzählung (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-subjects.html">Inhalte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-subjects.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Arsmoriendi">Ars moriendi (1)</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Genealogie">Genealogie (1)</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Geographie">Geographie (2)</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Paedagogik">Pädagogik (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-languages.html">Sprachen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-languages.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Englisch">Englisch (1)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Franzoesisch">Französisch (44)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Deutsch">Deutsch (28)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Altgriechisch">Altgriechisch (1)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Italienisch">Italienisch (4)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Latein">Latein (22)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Spanisch">Spanisch (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-placeName.html">Orte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-placeName.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#AlaHaye">A la Haye (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Ambergae">Ambergae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Amstelodami">Amstelodami (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Amsterdam">Amsterdam (13)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Basel">Basel (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Basileae">Basileae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Braunschweig">Braunschweig (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Breslau">Breslau (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Bresslau">Breßlau (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Brusselle">Brusselle (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Brusselles">Brusselles (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Bruxelles">Bruxelles (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Cologne">Cologne (6)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#ColoniaeAgrippina">Coloniae Agrippina (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#ColoniaeAgrippinae">Coloniae Agrippinae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Coelln">Cölln (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Coeln">Cöln (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Erlangen">Erlangen (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Firenze">Firenze (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Franckfurt">Franckfurt (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#FranckfurtamMayn">Franckfurt am Mayn (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Franequera">Franequera (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Frankfurt">Frankfurt (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Frankfurt,Main">Frankfurt, Main (3)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Frankfurt,Oder">Frankfurt, Oder (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Giessae">Giessae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Gotha">Gotha (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Hamburg">Hamburg (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Jena">Jena (3)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Koeln">Köln (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#LaHaye">La Haye (7)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#LaHaye">LaHaye (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Leide">Leide (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Leipzig">Leipzig (6)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Liege">Liege (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Liegnitz">Liegnitz (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Londres">Londres (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#LutetiaeParisiorum">Lutetiae Parisiorum (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Luebeck">Lübeck (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#NewlyprintedatParis">Newly printed at Paris (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Nuernberg">Nürnberg (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Padova">Padova (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Paris">Paris (5)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Parisiis">Parisiis (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Rastatt">Rastatt (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Rotterdam">Rotterdam (4)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#s'Gravenhage">s'Gravenhage (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#UlmaeSuevorum">Ulmae Suevorum (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Utrecht">Utrecht (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Venedig">Venedig (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Venetia">Venetia (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Wittenberg">Wittenberg (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#s.l.">s. l. (13)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-publishers.html">Drucker/Verleger<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-publishers.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#^[Drucker:]StamperiadelSeminario">^[Drucker:] Stamperia del Seminario (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Acher">Acher (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#AubriusetSchleich">Aubrius & Schleich (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Backer">Backer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ballard">Ballard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Betkius">Betkius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#beyGottfriedLiebernickel">bey Gottfried Liebernickel (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Boetius">Boetius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Braun">Braun (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Broedelet">Broedelet (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Broncart">Broncart (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#BrunetetRigaut">Brunet & Rigaut (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Boeckmannus">Böckmannus (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Coup">Coup (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Cramoisy">Cramoisy (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Curti">Curti (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#DeBacker">De Backer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#deBacker">de Backer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#DeVoys">De Voys (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Desbordes">Desbordes (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Dole">Dole (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#duVal">duVal (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ehrich">Ehrich (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ellinckhuysen">Ellinckhuysen (3)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Fellgiebel">Fellgiebel (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Forster">Forster (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Fricx">Fricx (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#FritschetBoehm">Fritsch & Böhm (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#GedrucktundVerlegtbeyJ.GeorgZilligern,Hochf.privil.Hof-Buchdr.">Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr. (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Gleditsch">Gleditsch (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Gollner">Gollner (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Gronenberg,Simon">Gronenberg, Simon (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Groschuff">Groschuff (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Guignard">Guignard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Haak">Haak (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Henricpetri">Henricpetri (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Humm">Humm (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Jansonius">Jansonius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Johnson">Johnson (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kalcovius">Kalcovius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kenkus">Kenkus (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kinkius">Kinkius (4)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Krebs">Krebs (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kuehne">Kühne (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Leonard">Leonard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#LeSincere">LeSincere (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Lorber">Lorber (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Marteau">Marteau (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Metternich">Metternich (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Meyer">Meyer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Michalet">Michalet (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Mortier">Mortier (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Neuenhahn">Neuenhahn (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Otto">Otto (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#PierreMortier">Pierre Mortier (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Poolsum">Poolsum (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Pralard">Pralard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ribou">Ribou (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Roger">Roger (3)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Rohrlach">Rohrlach (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Rotterdam">Rotterdam (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#s.n.],andaretobesoldinLondon,byJohnStarkey">s.n.], and are to be sold in London, by John Starkey (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Sarzina">Sarzina (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schelte">Schelte (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Scheltus">Scheltus (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schiele">Schiele (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schneider">Schneider (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schrey">Schrey (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Sincere">Sincere (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Slaart">Slaart (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Stamp.d.AccademiadellaCrusca">Stamp. d. Accademia della Crusca (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Strickius">Strickius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Swart">Swart (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Troyel">Troyel (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Voys">Voys (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Weidmann">Weidmann (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Wetstein">Wetstein (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Wiedemeyerus">Wiedemeyerus (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Zilliger">Zilliger (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#s.n.">s. n. (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-format.html">Formate<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-format.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-format.html#2°">2° (4)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#4°">4° (13)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8°">8° (29)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#12°">12° (18)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#2">2 (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#458S.,3Bl.;8°">458 S., 3 Bl. ; 8° (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8">8 (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8"">8" (2)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8o">8o (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#ohneAngabe">ohne Angabe (30)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-systemManifestation.html">Nachweise<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-systemManifestation.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-systemManifestation.html#K10plus">K10plus (69)</a></li>
+                        <li><a href="ludwig_rudolf-systemManifestation.html#VD17">VD17 (9)</a></li>
+                        <li><a href="ludwig_rudolf-systemManifestation.html#VD18">VD18 (22)</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" style="padding-right:15px">
+                <li class="dropdown">
+	                <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-picture"></span> Visualisierung<span class="caret"></span></a>
+	                <ul class="dropdown-menu">
+		                <li><a href="ludwig_rudolf-wordCloud.html" title="Wortwolken">Word Clouds</a></li>
+		                <li><a href="ludwig_rudolf-doughnut.html" title="Kreisdiagramme">Kreisdiagramme</a></li>
+	                </ul>
+                </li>
+            </ul>
+        </nav>
+        <div class="container" style="min-height:600px;">
+            <h2 id="Biographie">Biographie (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Osorio, Antonio</span>: </span><span class="titleBib">Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D'Albe</span><span class="titleCat">[Recherchierter Titel:] Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D'Albe</span><span class="published">, Paris: Guignard, 1699</span>                    <a id="linkcurrent_0" href="javascript:toggle('current_0')">Mehr</a>
+                </p>
+                <div id="current_0" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=135733421" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Brief">Brief (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</span><span class="titleCat">[Recherchierter Titel:] Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_1" href="javascript:toggle('current_1')">Mehr</a>
+                </p>
+                <div id="current_1" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10093591" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <h2 id="Erbauungsliteratur">Erbauungsliteratur (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Finen, Eberhard</span>/<span class="authorName">Zilliger, Johann Georg</span>/<span class="authorName">Ludwig Rudolf Braunschweig-Lüneburg, Herzog</span>: </span><span class="titleBib">Heilsahme Seelen-Artzeney. Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzogen zu Braunschweig und Lüneburg</span><span class="titleCat">[Recherchierter Titel:] Heilsahme Seelen-Artzeney. Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzogen zu Braunschweig und Lüneburg</span><span class="published">, Braunschweig: Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr., 1711</span>                    <a id="linkcurrent_2" href="javascript:toggle('current_2')">Mehr</a>
+                </p>
+                <div id="current_2" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12838306" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                                                            </div>
+            </div>
+            <h2 id="Flugschrift">Flugschrift (5)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich</span><span class="titleCat">[Recherchierter Titel:] Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich</span><span class="published">, [S.l.] 1705</span>                    <a id="linkcurrent_3" href="javascript:toggle('current_3')">Mehr</a>
+                </p>
+                <div id="current_3" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10885366-ddd" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich</span><span class="titleCat">[Recherchierter Titel:] Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich</span><span class="published">, [S.l.] 1705</span>                    <a id="linkcurrent_4" href="javascript:toggle('current_4')">Mehr</a>
+                </p>
+                <div id="current_4" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10885366-ddd" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Suite Des Mazarinischen Reverence</span><span class="titleCat">[Recherchierter Titel:] Suite Des Mazarinischen Reverence</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_5" href="javascript:toggle('current_5')">Mehr</a>
+                </p>
+                <div id="current_5" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14580349" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</span><span class="titleCat">[Recherchierter Titel:] Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_6" href="javascript:toggle('current_6')">Mehr</a>
+                </p>
+                <div id="current_6" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10093591" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Mazarini Abschieds-Compliment</span><span class="titleCat">[Recherchierter Titel:] Mazarini Abschieds-Compliment</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_7" href="javascript:toggle('current_7')">Mehr</a>
+                </p>
+                <div id="current_7" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11086432" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <h2 id="Gebetbuch">Gebetbuch (2)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Sperber, Julius</span>: </span><span class="titleBib">Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt</span><span class="titleCat">[Recherchierter Titel:] Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt</span><span class="published">, Frankfurt, Main/Amsterdam: Betkius, 1675</span>                    <a id="linkcurrent_8" href="javascript:toggle('current_8')">Mehr</a>
+                </p>
+                <div id="current_8" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%271:072956R%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                        <span class="heading_info">Digitalisat: </span><a href="http://resolver.sub.uni-goettingen.de/purl?PPN757232523" target="_blank">http://resolver.sub.uni-goettingen.de/purl?PPN757232523</a>                </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schweinitz, David</span>: </span><span class="titleBib">Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David. Gerichtet Auf unterschiedener Personen/ und Stände Anliegen</span><span class="titleCat">[Recherchierter Titel:] Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David. Gerichtet Auf unterschiedener Personen/ und Stände Anliegen</span><span class="published">, Breslau: Fellgiebel, 1662</span>                    <a id="linkcurrent_9" href="javascript:toggle('current_9')">Mehr</a>
+                </p>
+                <div id="current_9" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.28/CMD?ACT=SRCHA&IKT=8079&TRM=%2739:156875D%27" title="Anzeige der Ausgabe in Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)" target="_blank">Verzeichnis der im deutschen Sprachraum erschienenen Drucke des 17. Jahrhunderts (VD 17)</a><br />
+                                    </div>
+            </div>
+            <h2 id="Gelegenheitsschrift">Gelegenheitsschrift (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Curioser Staats-Discurs Nebst Einiger politischen Erleuterung über von Ihrer Königl. Majestät Von Groß-Britannien, [et]c. [et]c. An das Hochlöbliche Röm. Reichs-Convent zu Regenspurg Abgeschickten Ermahnungs-Brieff, Von nachdrücklichen Inhalt wegen Fortsetzung des Krieges wider die Cron Franckreich als allgemeinen Reichs-Feindt</span><span class="titleCat">[Recherchierter Titel:] Curioser Staats-Discurs Nebst Einiger politischen Erleuterung über von Ihrer Königl. Majestät Von Groß-Britannien, [et]c. [et]c. An das Hochlöbliche Röm. Reichs-Convent zu Regenspurg Abgeschickten Ermahnungs-Brieff, Von nachdrücklichen Inhalt wegen Fortsetzung des Krieges wider die Cron Franckreich als allgemeinen Reichs-Feindt</span><span class="published">, [S.l.] 1710</span>                    <a id="linkcurrent_10" href="javascript:toggle('current_10')">Mehr</a>
+                </p>
+                <div id="current_10" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+12955116" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <h2 id="Handbuch">Handbuch (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Courtin, Antoine</span>/<span class="authorName">Chevreuse, ...</span>: </span><span class="titleBib">Nouveau Traité De La Civilité Qui Se Pratique En France Parmi Les Honnestes Gens</span><span class="titleCat">[Recherchierter Titel:] Nouveau Traité De La Civilité Qui Se Pratique En France Parmi Les Honnestes Gens</span><span class="published">, Amsterdam: Schelte, 1708</span>                    <a id="linkcurrent_11" href="javascript:toggle('current_11')">Mehr</a>
+                </p>
+                <div id="current_11" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150292511" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Ordensliteratur:Jesuiten">Ordensliteratur:Jesuiten (2)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Instructions Secretes Des Jesuites. Suivant l'original</span><span class="titleCat">[Recherchierter Titel:] Instructions Secretes Des Jesuites. Suivant l'original</span><span class="published">, Köln: Sincere, 1704</span>                    <a id="linkcurrent_12" href="javascript:toggle('current_12')">Mehr</a>
+                </p>
+                <div id="current_12" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11525770" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Nicephorus Callistus Xanthopulus</span>/<span class="authorName">Du Duc, Fronton</span>/<span class="authorName">Lange, Johann</span>/<span class="authorName">Richelieu, Armandus Joannes</span>: </span><span class="titleBib">Nikēphoru Kallistu Tu Xanthopulu Ekklēsiastikēs Historias Biblia 18 Tomvs Prior</span><span class="titleCat">[Recherchierter Titel:] Nikēphoru Kallistu Tu Xanthopulu Ekklēsiastikēs Historias Biblia 18 Tomvs Prior</span><span class="published">, Lutetiae Parisiorum: Cramoisy, 1630</span>                    <a id="linkcurrent_13" href="javascript:toggle('current_13')">Mehr</a>
+                </p>
+                <div id="current_13" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=190912367" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                                                                </div>
+            </div>
+            <h2 id="Rede">Rede (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Dresser, Matthaeus</span>: </span><span class="titleBib">Matthaei Dresseri  ORATIO  DE ORDINE, VERITATE ET VSV  in historiarum lectione  spectando. Habita in Academia Lipsi-ca, XVII Januarij,anno 82.</span><span class="titleCat">[Recherchierter Titel:] Matthaei Dresseri  ORATIO  DE ORDINE, VERITATE ET VSV  in historiarum lectione  spectando. Habita in Academia Lipsi-ca, XVII Januarij,anno 82.</span><span class="published">, Wittenberg: Gronenberg, Simon, 1582</span>                    <a id="linkcurrent_14" href="javascript:toggle('current_14')">Mehr</a>
+                </p>
+                <div id="current_14" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=567283895" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                        <span class="heading_info">Digitalisat: </span><a href="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10208212-5" target="_blank">urn:nbn:de:bvb:12-bsb10208212-5</a>                </div>
+            </div>
+            <h2 id="Roman">Roman (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Sidney, Philip</span>/<span class="authorName">Mögling, Daniel</span>/<span class="authorName">Opitz, Martin</span>/<span class="authorName">Merian, Matthaeus</span>/<span class="authorName">Sophia Leonora Hessen, Landgräfin</span>: </span><span class="titleBib">Arcadia der Gräffin von Pembrock</span><span class="titleCat">[Recherchierter Titel:] Arcadia der Gräffin von Pembrock</span><span class="published">, Franckfurt: Humm, 1643</span>                    <a id="linkcurrent_15" href="javascript:toggle('current_15')">Mehr</a>
+                </p>
+                <div id="current_15" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=151490759" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                                                                                    </div>
+            </div>
+            <h2 id="Satire">Satire (5)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich</span><span class="titleCat">[Recherchierter Titel:] Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich</span><span class="published">, [S.l.] 1705</span>                    <a id="linkcurrent_16" href="javascript:toggle('current_16')">Mehr</a>
+                </p>
+                <div id="current_16" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10885366-ddd" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich</span><span class="titleCat">[Recherchierter Titel:] Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich</span><span class="published">, [S.l.] 1705</span>                    <a id="linkcurrent_17" href="javascript:toggle('current_17')">Mehr</a>
+                </p>
+                <div id="current_17" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10885366-ddd" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Suite Des Mazarinischen Reverence</span><span class="titleCat">[Recherchierter Titel:] Suite Des Mazarinischen Reverence</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_18" href="javascript:toggle('current_18')">Mehr</a>
+                </p>
+                <div id="current_18" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14580349" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</span><span class="titleCat">[Recherchierter Titel:] Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_19" href="javascript:toggle('current_19')">Mehr</a>
+                </p>
+                <div id="current_19" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10093591" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <div class="entry">
+                <p><span class="titleBib">Mazarini Abschieds-Compliment</span><span class="titleCat">[Recherchierter Titel:] Mazarini Abschieds-Compliment</span><span class="published">, [S.l.] 1704</span>                    <a id="linkcurrent_20" href="javascript:toggle('current_20')">Mehr</a>
+                </p>
+                <div id="current_20" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+11086432" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <h2 id="Streitschrift:jur.">Streitschrift:jur. (1)</h2>
+            <div class="entry">
+                <p><span class="titleBib">Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Niederlag, Bey Hochlöbl. Reichs-Convent, in deß auch Heil. Reichs Stadt Regenspurg von Anno 1710. 1711. und 1712. ventiliret worden</span><span class="titleCat">[Recherchierter Titel:] Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Niederlag, Bey Hochlöbl. Reichs-Convent, in deß auch Heil. Reichs Stadt Regenspurg von Anno 1710. 1711. und 1712. ventiliret worden</span><span class="published">, [S.l.] 1712</span>                    <a id="linkcurrent_21" href="javascript:toggle('current_21')">Mehr</a>
+                </p>
+                <div id="current_21" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+14376083" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                </div>
+            </div>
+            <h2 id="Streitschrift:theol.">Streitschrift:theol. (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Schwedler, Johann Christoph</span>/<span class="authorName">Günther, Johann</span>: </span><span class="titleBib">Send-Schreiben an einen S. Theologum, Jn welchem die 50. Motiven/ dadurch eine Erlauchte Person zum Abtritte von der Evangelisch-Lutherischen zu der Römisch-Catholischen Kirche soll seyn verleitet worden, Kürtzlich nach und aus Gottes Worte geprüfet. Sich anfangs zu eigner Erbauung aufgesetzt; Hernach aber .. zu anderer Stärchung überlassen von Einem Liebhaber der Warheit ; Zum Beschlusse sind hinzu gefüget 50. wichtige Motiven/ welche einen jeden rechtschaffenen Christen abhalten können/ daß er sich zu der Römischen Kirche nicht begebe</span><span class="titleCat">[Recherchierter Titel:] Send-Schreiben an einen S. Theologum, Jn welchem die 50. Motiven/ dadurch eine Erlauchte Person zum Abtritte von der Evangelisch-Lutherischen zu der Römisch-Catholischen Kirche soll seyn verleitet worden, Kürtzlich nach und aus Gottes Worte geprüfet. Sich anfangs zu eigner Erbauung aufgesetzt; Hernach aber .. zu anderer Stärchung überlassen von Einem Liebhaber der Warheit ; Zum Beschlusse sind hinzu gefüget 50. wichtige Motiven/ welche einen jeden rechtschaffenen Christen abhalten können/ daß er sich zu der Römischen Kirche nicht begebe</span><span class="published">, Leipzig: Braun, 1711</span>                    <a id="linkcurrent_22" href="javascript:toggle('current_22')">Mehr</a>
+                </p>
+                <div id="current_22" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=1.65/CMD?ACT=SRCHA&IKT=1007&TRM=VD18+10453261" title="Anzeige der Ausgabe in Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)" target="_blank">Verzeichnis Deutscher Drucke des 18. Jahrhunderts (VD 18)</a><br />
+                                                        </div>
+            </div>
+            <h2 id="Traktat">Traktat (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Abbadie, Jacques</span>: </span><span class="titleBib">L' Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale</span><span class="titleCat">[Recherchierter Titel:] L' Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale</span><span class="published">, Rotterdam: Slaart, 1692</span>                    <a id="linkcurrent_23" href="javascript:toggle('current_23')">Mehr</a>
+                </p>
+                <div id="current_23" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=150211236" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                    </div>
+            </div>
+            <h2 id="Verserzaehlung">Verserzählung (1)</h2>
+            <div class="entry">
+                <p><span class="authorList"><span class="authorName">Tassoni, Alessandro</span>/<span class="authorName">Barberini, Antonio</span>: </span><span class="titleBib">La Secchia Rapita. Poema Eroicomico, e'l Canto Dell'Oceano</span><span class="titleCat">[Recherchierter Titel:] La Secchia Rapita. Poema Eroicomico, e'l Canto Dell'Oceano</span><span class="published">, Venetia: Sarzina, 1625</span>                    <a id="linkcurrent_24" href="javascript:toggle('current_24')">Mehr</a>
+                </p>
+                <div id="current_24" style="display:none; padding-top:0px; padding-bottom:15px; padding-left:10px;">
+                    Nachweis: <a href="https://kxp.k10plus.de/DB=2.0/PPNSET?PPN=513708979" title="Anzeige der Ausgabe in K10plus" target="_blank">K10plus</a><br />
+                                                        </div>
+            </div>
+        </div>
+
+        <footer class="container-fluid">
+            <p><a href="../index.php" style="color:white">Start</a>&nbsp;&nbsp;<a href="http://www.hab.de/de/home/impressum.html" style="color:white" target="_blank">Impressum</a></p>
+            <p style="color:white; text-align:right;">Stand: 09.09.2021</p>
+        </footer>
+
+    </body>
+
+</html>

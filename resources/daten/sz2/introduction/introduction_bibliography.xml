@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.introduction.introduction_bibliography">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title><!--Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek II: Digitale Edition der Tagebücher von Herzog Ludwig Rudolf und Herzogin Christine Luise von Braunschweig-Wolfenbüttel - -->Bibliographie</title>
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                    <persName>
+                        <forename>Alexander</forename>
+                        <surname>Zirr</surname>                        
+                    </persName>                    
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>       
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Bibliographie</head>
+                <div>
+                <head>DIGITALISIERTE AKTENSTÜCKE, BIBLIOTHEKSQUELLEN, SELBSTZEUGNISSE<!--, GELEGENHEITS- und FUNERALSCHRIFTEN--> (Auswahl)</head>
+                <p>
+                    <lb/>Im Folgenden nicht berücksichtigt: die vier Handschriften der digitalen Edition: Cod. Guelf. 28 Blank., 286 Blank., 286a Blank. und 211.1 Extrav. (s. dazu die Portaltexte „Projektbeschreibung“ und „Quellenbeschreibung“). 
+                    <lb/>Nachweise und Quellenbeschreibungen in: Hans Butzmann: Die Blankenburger Handschriften. Frankfurt a. M. 1966 (Kataloge der Herzog-August-Bibliothek Wolfenbüttel, Neue Reihe Bd. 11). Dort zusätzliche Nachweise Herzog Ludwig Rudolph betreffend: Briefe, Stammbuch (224 Blank.), weitere Exzerptkladden, Vorlesungsnachschriften, ein Briefbuch (1729) des Herzogs (93 Blank.); dessen Trauerspiel-Szenario Ulysses, angeregt durch Francesco Sbarras Oper Il Pomo d’oro mit den Bühnenbildern von Ludovico Ottavio Burnacini (105 Blank.); Dokumentensammlungen für den Herzog u.&#x202f;a.&#x202f;m. 
+                    <lb/>Vgl. auch Cod. Guelf. 8.1 Blank., 29 Blank., 44–51a Blank., 54–71 Blank., 90–93 Blank., 132 Blank., 163 u. 164 Blank., 174 u. 175 Blank., 209 Blank., 275 u. 276 Blank. und 281–285 Blank.
+                </p>
+                <p>
+                    <lb/>Aufzeichnungen von bzw. für Herzog Ludwig Rudolph zu Mathematik, Festungsbau (auch Karten zu den Festungsanlagen Wolfenbüttel) u.&#x202f;a.&#x202f;m. 1683–1692, 143 Bl. in einfachem grauen Pappumschlag, mit etlichen Leerseiten [<hi rend="italic">Darin auch zwei knappe „Journal(e)“ des Aufenthalts bei der Holländischen Armee vom 17. 8. bis 4. 10. 1689 (Bl.&#160;130r–134v) und fragmentarisch vom 3. 5. bis 12. 6. 1690 (Bl.&#160;137r– 138r, bricht ab); Katalog seiner bis 1692 erworbenen „Handbibliothek“ (139v–143r; 62 Titel). Deutsch/ Französisch; eigenhändig.</hi>]. HAB: <ref target="http://diglib.hab.de/mss/31-blank/start.htm">Cod. Guelf. 31 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;49</hi>].
+                </p>
+                <p> 
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1687/88, 1696; 188 ungez. Bll.; ohne Titelblatt; Broschur, braune Pappe; Kladde mit vielen leeren Blättern; Texteinträge umgedreht auch vom Ende der Kladde her [<hi rend="italic">Enthält: Liste der Päpste unter den Königen und Kaisern von Rudolph von Habsburg bis Leopold (Gregor X. bis Innozenz XI.); Span.-ndl. Friedensvertrag von 1648 (nur Anfang); Lat. Chronik über die Reichsgeschichte 6.-13. Jh. (getrennt politisch – kirchengeschichtlich; Quelle?), wenige Eintragungen; später immer lückenhafter, über weite Teile nur Kaisernamen und viel leerer Raum; „Einleitung zu der historie der Ertzhertzogen von Oesterreich“ (dat. „den 16.[?] Maii [?] 1688.“; S.&#160;1–34, 47–48 u. 51, S.&#160;52 (=Bl.&#160;[138v]): „Geendiget den 12. Decemb. a[nn]o. 1688.“; lat. Anagramm auf Ks. Leopold; Umschrift des bei der kgl. Krönung in Preßburg (28.12.1687) ausgegebenen Geldes; Briefentwurf an Schwester 7.5.1696; frz.</hi>]. HAB: <ref target="http://diglib.hab.de/mss/213a-blank/start.htm">Cod. Guelf. 213a Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;206</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte und Lektüre-Notizen Herzog Ludwig Rudolphs, 1687–1698; 171 Bl., Pappband mit Buntpapierüberzug, viele unbeschriebene Seiten [<hi rend="italic">Titelblatt mit der Datierung 24.10.1687; Bl.&#160;87r: 18.9.1698; Bl.&#160;171v: 9.3.1689; Texteinträge umgedreht auch vom Ende der Kladde her. Vorwiegend latein., meist theologische Exzerpte und Notizen, sodann Niederschriften von Predigten (Butzmann: des Wolfenbütteler Hofkaplans).</hi>]. HAB: Cod. Guelf. 213b Blank. [<hi rend="italic">Noch nicht digitalisiert (Stand: August 2020). Vgl. Butzmann, S.&#160;206.</hi>]
+                </p>
+                <p>
+                    <lb/>Eigenhändige Aufzeichnungen Herzog Ludwig Rudolphs, 1687/88, 1692; 95 Bl.; Pappband mit Buntpapierüberzug [<hi rend="italic">Bl.&#160;1r: „19. Decemb. 1687.“ Bl.&#160;63r: 3.3.1692.  Frz. Briefentwürfe (Sprach-und Stilübungen) (Bl.&#160;1r–51v und 63r–64v). Inhalt: Erbauliches, praktische Philosophie/ Ethik; Höfisches Verhalten, Klugheit und Weltweisheit; Ars politica et gubernatoria; immer wieder Vergleiche mit den Zuständen in Frankreich, Italien, Spanien. Bl.&#160;54r–61v: Dramatische Szenen nach dem 7. Kapitel von Cervantes‘ Don Quijote, dt. Etliche leere Blätter; Texteinträge umgedreht auch vom Ende der Kladde her: Bl.&#160;95v–86r (von hinten zu lesen) italien. Übersetzungen (24.9.1688), dt. Schwänke und Anekdoten mit italien. Parallelfassung.</hi>]. HAB: <ref target="http://diglib.hab.de/mss/213c-blank/start.htm">Cod. Guelf. 213c Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;207</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1687/88; 214 Bl.; Pappband mit Buntpapierüberzug; Pergament-Rücken und Ecken [<hi rend="italic">Bl.&#160;1r: „Annotationes ad Instituta Justinianea“, 3.11.1687; Bl.&#160;214r: „Finis [&#x2026;] 5. Novemb. 1688.“ Tw. Schreiberh.</hi>]. HAB: <ref target="http://diglib.hab.de/mss/214-blank/start.htm">Cod. Guelf. 214 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;207</hi>].
+                </p>
+                <p>
+                    <lb/>Tagebuch der dänischen und schwedischen Reise Herzog Ludwig Rudolphs, 1688/89; 125 Bl.; Pergamentband [<hi rend="italic">Bl.&#160;90r (=TB Bl.&#160;1r): „Dänische und Schwedische reyse so von mir getahn worden in dem Jahre 1689. angefangen den 9. Jan. meineß alters im 18. Jahre.“ Eingangs des Bandes eine getuschte Porträtzeichnung des jungen Ludwig Rudolph, Brustbild als 17jähriger, von Lauterbach (s. u.), und dessen Widmungsgedicht an den Prinzen. Gefolgt von Nachschriften Ludwig Rudolphs zu Vorlesungen Johann Balthasar Lauterbach über Zivilarchitektur, Physik. Das eigenh. Reisetagebuch ab Bl.&#160;90r mit eigener Paginierung S.&#160;1–23 (9.1.–3.5.1689 [Rückkehr, Eintreffen in Rostock]). Danach Listen und Tabellen der schwedischen Kavallerie u. Infanterie, Besoldungslisten (unpag., unfol.); zum Fortifikationswesen, zu Gliederung und Inhalt der Biblischen Bücher (bricht noch in der Genesis ab).</hi>]. HAB: <ref target="http://diglib.hab.de/mss/89-blank/start.htm">Cod. Guelf. 89 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;103</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1698/ 1702; 247 Bl.; Einband wie beim nachstehenden Stück (278 Blank.) [<hi rend="italic">Titelblatt: „TOUT CEDE AV TEM[P]S, MAIS, LA VERTU RESISTE. [Alles weicht der Zeit, aber die Tugend widersteht.] TOM. I. Louis Rodolfe 1698.“ Inhalt: Die Aufzeichnungen beginnen mit „LE HEROS FRANÇOIS ou L’Idée du Grand Capitaine“ (von René de Ceriziers [1603–1662], Paris 1645, HAB: 2. 1 Bell. [1]), Bl.&#160;1r–104r; es folgen: „REMARQUES Sur Les veritables DEVOIRS de L’HOMME d’EPÉE particulierement d’un Gentilhomme“ (d. i. Nicolas Rémond des Cours [ –1716]: Les véritables devoirs de l’homme d’épée, particulierement d’un Gentil homme qui veut reussir dans les Armées, Amsterdam 1697. HAB: Jc 218), Bl.&#160;105r–220v; „Extraits de La Religion d’un honneste Homme, qui n’est pas Theologien de profession &#x2026; Amsterdam 1694. &#x2026; Le 11me May 1702.“ (D. i. Edward Synge [1659–1741]: La Religion d’un Honneste Homme Qui n’est pas Théologien de profession, Amsterdam 1694 [Original: A Gentleman’s Religion]. HAB: Te 1316), Bl.&#160;221r–227r (227r: „Fini Le 13. May. 1702.“);  Bl.&#160;227v–247v: „REmarques, Tirées, des CAracteres, Pensées, maximes, et Sentimens &#x2026; 1694. Commencé Le 18. May 1702.“ Bl.&#160;247v: „Fin des Caracteres. Le 29.me May 1702.“</hi>]. HAB: <ref target=" http://diglib.hab.de/mss/279-blank/start.htm">Cod. Guelf. 279 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;262f.</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1699–1702; 176 Bl.; Einband wie beim nachstehenden Stück (278 Blank.); am Schluss etliche leere Seiten. [<hi rend="italic">1. Vorsatzblatt recto: „Allerhand Excerpta und Amerkungen so ich aus denen Büchern gezogen die ich geleßen. Angefangen d. 6. September 1699 zu Wolffenbüttel.“ Inhalt: Balthasar Gracian: Criticon von den allgemeinen Lastern des Menschen. Aus dem Frantzösischen ins Teutsche übersetzet (Frankfurt u. Leipzig 1698), Bl.&#160;1–153v; es folgt Epictetus: Hand-Büchlein. Aus dem Griechischen mit Hülffe der lateinischen &#x2026; in die deutsche Sprache von neuem übersetzet (Oels 1695).</hi>]. HAB: Cod. Guelf. 280 Blank. [<hi rend="italic">Noch nicht digitalisiert (Stand: August 2020). Vgl. Butzmann, S.&#160;263.</hi>]
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1699; 243 Bl.; brauner Lederband auf Pappe, Goldkanten und goldene Zierstempel [<hi rend="italic">Titelbl.: „Allerhand Excerpta, Auß denen Büchern und Authoren; so mir zu handen kommen &#x2026; Angefangen im Monat Octob. 1699.“ Exzerpte frz., lat., dt. Inhalt: Auszüge aus Jacques Auguste de Thous (1553–1617) Geschichtswerk, Paulus Diaconus‘ De gestis Langobardorum mit Bl.&#160;227r – 243v: Glossar „Nomina Appellativa Et verba Gothica, Vandalica, et Langobardica“ mit latein. und tw. dt. Erklärungen.</hi>]. HAB: <ref target="http://diglib.hab.de/mss/278-blank/start.htm">Cod. Guelf. 278 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;262</hi>].
+                </p>
+                <p>
+                    <lb/>Tagebuch Herzog Ludwig Rudolphs, 1690–97; 181 S.; brauner Lederband auf Pappe [<hi rend="italic">Titelbl.: „Dieses Buch welches in sich hält meine Lebensbeschreibung habe ich angefangen den 17. April in dem Jahre 1690.“ Das TB beginnt mit der Geburt 1672. Es ist kein eigentliches TB, sondern ein Lebensbericht bis ins Jahr 1697, einschließlich seiner Kavaliersreise. Es werden kaum Daten genannt. Tinte und Duktus der Einträge weisen Unterschiede auf; einige Passagen wurden später unkenntlich gemacht oder gestrichen.</hi>]. HAB: <ref target="http://diglib.hab.de/mss/217a-blank/start.htm">Cod. Guelf. 217a Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;208</hi>]. 
+                </p>
+                <p>
+                    <lb/>Tabulatur für Gitarre, einfache Tänze enthaltend, um 1700; 58 Bl.; roter Lederband mit feinen Goldkanten und Goldverzierungen; viele Seiten leer [<hi rend="italic">Vorsatzblatt recto: „Jst der dhl. Hertzogin Christine Louise Hzbul um die musique auf der guitarre zu erlernen, zum Gebrauch gewesen.“</hi>]. HAB: <ref target="http://diglib.hab.de/mss/302-blank/start.htm">Cod. Guelf. 302 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;283f.</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs aus Pascals Pensées, 1701; 169 S.; Rotbrauner Lederband auf Pappe mit Kantenstrichvergoldung [<hi rend="italic">Ludwig Rudolph begann diese Exzerpte und Anmerkungen am 2.3.1701: „Remarques, tirées des Pensées de Mr. Pascal sur La Religion et sur quelques Autres Sujets."</hi>]. HAB: <ref target="http://diglib.hab.de/mss/162a-blank/start.htm">Cod. Guelf. 162a Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;168</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1702/03; 194 Bl.; brauner Ledereinband mit Goldkanten und Goldvignetten [<hi rend="italic">Bl.&#160;1r: „Tout avec Dieu. Extraits des Livres, que j’ay lü; commencé le 24.me May 1702 à Wolfenb. &#x2026; Louis Rodolfe.“ Frz., ital. Am Ende der Kladde 52 leere Seiten. Inhalt: [Dupuy La Chapelle: Caracteres, Pensees, Maximes Et Sentimens (Paris 1694), HAB: Lm 1281] „Extraits tirées des Pensées diverses, dediés à Monseignr. Le Duc de La Rochefaucault. De L’edition 1694.“ (Bl.&#160;1v–6v), „tirés des Pensees Morales et Chrêtiennes“ (7r–27v), „Maximes et Sentimens“ (28r–53r); Auszug: „Entretien de Philemon et d’Euthyme“ (53v–66v); „La Morale Dei Principi. Osservata nell’istoria di tutti gl’imperadori, che regnarano in Roma. Dal Conte Gioan Battista Comazzi“ [Venedig 1699], lt. Vermerk begonnen am 10. 8. 1703 in Braunschweig, beendet am 24. 11. 1703 (Bl.&#160;67r–194r).</hi>]. HAB: <ref target="http://diglib.hab.de/mss/277-blank/start.htm">Cod. Guelf. 277 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;262</hi>].                     
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1702–1705; 1 Bl., 259 S.; brauner Lederband auf Pappe, Kantenvergoldung [<hi rend="italic">Vorsatzblatt: „Extraits de l’histoire des Juifs, écrite par Flavius Joseph, sous Le titre des Antiquités Judaiques. Traduite &#x2026; par Monsr. Arnauld d’Andilly. Edition nouvelle à Amsterdam. 1681. Tom 1.“ Darunter der Erstellungsvermerk: „Commoncés Wolfenb. ce 15. Juin 1702 et finiés le 3. Janvier 1705.“ S.&#160;1–259</hi>. Fortgesetzt in Cod. Guelf. 26 Blank.]. HAB: <ref target="http://diglib.hab.de/mss/72-blank/start.htm">Cod. Guelf. 72 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;82</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1702–1705; 1 Bl., 137 S.; rotbrauner Lederband auf Pappe, Kantenvergoldung [<hi rend="italic">Vorsatzblatt recto: „Louis Rodolfe D. de B. et L. Wolfenbüttel ce 26.me Fevrier 1705. Extraits de l’histoire des Juifs, écrite par Flavius Joseph, sous le titre des Antiquités Judaiques. Traduite &#x2026; par Mr. Arnauld d’Andilly. Edition nouvelle, à Amsterdam 1681. Tom. II.“ (S. 1–59), S.&#160;59: „Fin de l’histoire des Juifs &#x2026; à Wolfenb. le 3. Avril 1705. &#x2026; commencé &#x2026; le 15. Juin. 1702.“ Es handelt sich um die Fortsetzung von Cod. Guelf. 72 Blank. Es folgt ein „Commentarius“ zu: Ptolemaeus Philadelphus: „Quæstiones Septuaginta duo“ mit dem Hinweis des Beginns dieser Aufzeichnungen: „incipi Guelferbyti Calend. Maji XII. 1705.“, S.&#160;59–137</hi>]. HAB: <ref target="http://diglib.hab.de/mss/26-blank/start.htm">Cod. Guelf. 26 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;46</hi>].                    
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1706–1711; 274 S.; Pappe mit rotem Brokatpapier, Goldranken, brauner Lederrücken [<hi rend="italic">Vorsatzblatt: „Loudovisiana. &#x2026; Louis Rodolfe, Duc de Br. et de L. Blanquenbourg, ce 9.me Juin 1706.“ Inhalt: [Antonio Osorio:] „Extraits de L’histoire de Ferdinand Alvarez de Tolede Premier du nom, Duc d’Albe &#x2026; [Tom. I] Paris &#x2026; 1699“), S.&#160;1–197. Tome II: S.&#160;198–274. S.&#160;274 mit dem Beendigungsvermerk: „Fini &#x2026; a Brunsvik le 2. Ottob. 1711.“ Fortgesetzt in Cod. Guel. 53 Blank.</hi>]. HAB: <ref target="http://diglib.hab.de/mss/52-blank/start.htm">Cod. Guelf. 52 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;81</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1711; 256 S.; Einband wie beim vorstehenden Stück (52 Blank.) [<hi rend="italic">Vorsatzblatt: „TOM. II. De la Ludovisiana ou des Extraits de L’hist. du Duc d’Albe. Commencé &#x2026; à Bronsvic Le 3. Oktob. 1711.“ Fortsetzung der Exzerpte „De L’histoire  de Ferdinand-Alvarés de Tolede Premier du Nom Duc d’Albe.“ S.&#160;1–256. S.&#160;256: „j’ay fini ces Extraits le 17. Janvier 1713 à Bronsvic.“ Reichlich leere Blätter und am Schluss zwei beigelegte Einblattdrucke zur erfolgreichen Verteidigung der venezian. Festung Korfu gegen eine überlegene türkische Angriffsarmee im Sommer 1716. Würdigung des Kommandaten, General-Feldmarschalls von der Schulenburg.</hi>] HAB: <ref target="http://diglib.hab.de/mss/53-blank/start.htm">Cod. Guelf. 53 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;81</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1711; 578 S.; Pappband mit Buntpapier-Überzug [<hi rend="italic">„Allerhand Excerpta. Angefangen &#x2026; in Braunschweich den 29. Aug. 1711.“ Enthält Exzerpte aus: (François Gaçon [1667–1725]): „Le Poëte sans fard, ou Discours Satiriques sur toute sorte de sujets“ (o.&#160;O. 1701); S.&#160;34–77: (Chevalier B.:) L’Ecueil des Amans, ou Les Amours de Don Pedro Gonsalve de Mendosse, et de Dona Juana de Cisneros . Nouvelle Espagnolle historique et galante (Brüssel 1710); S.&#160;77–578: John Locke [Thoughts on education]: „De L’Education des Enfans. Traduit &#x2026; par P. Coste &#x2026;“ (Amsterdam 1708).</hi>]. HAB: <ref target="http://diglib.hab.de/mss/213-blank/start.htm">Cod. Guelf. 213 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;206</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1712; 356 S.; brauner Lederband auf Pappe, Rücken vergoldet [<hi rend="italic">Aufzeichnungen lt. Titelblatt angefertigt in Schratenhof bei Oettingen, 11.2.1712. Anfang der Auszüge aus Freschot (s. das nachstehende Stück 162b Blank.) Schlussbemerkung S.&#160;356: „FIN de 1. Tome de ces Excerptions. Schratenhof ce 7. d’Avril 1712.“</hi>]. HAB: <ref target="http://diglib.hab.de/mss/176-blank/start.htm">Cod. Guelf. 176 Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;173f.</hi>].
+                </p>
+                <p>
+                    <lb/>Eigenhändige Exzerpte Herzog Ludwig Rudolphs, 1712; 296 S.; brauner Lederband auf Pappe, Rückenvergoldung [<hi rend="italic">Aufzeichnungen lt. S.&#160;1 angefertigt in Schratenhof bei Oettingen, 7.4.1712. Inhalt: S.&#160;2: „Continuation des extraits.“ [=Anschluss an Cod. Guelf. 176 Blank.]. Auszüge aus Casimir Freschot (1640–1720): État ancien et moderne des duchés de Florence, Modène, Mantoue et Parme (Utrecht 1711)</hi>]. HAB: <ref target="http://diglib.hab.de/mss/162b-blank/start.htm">Cod. Guelf. 162b Blank.</ref> [<hi rend="italic">Vgl. Butzmann, S.&#160;169</hi>].
+                </p>
+                <p>
+                    <lb/>Des Durchlauchtigsten Fürsten und HERRN Hrn. Augusti Hertzogen zu  Braunschweig und Lüneburg &amp;c. Den 21sten April 1655. Publicirte Und  von &#x2026; HERRN Ludewig Rudolph Hertzogen zu Braunschweig und Lüneburg &amp;c. 1714 Erneuerte und confirmirte Krieges-Artickel. Blankenburg (1714). HAB: <ref target="http://diglib.hab.de/drucke/wa-2056/start.htm">Wa 2056</ref> [<hi rend="italic">Vgl. dazu Cod. Guelf 204 Blank., 204.1 u. 204.2 Blank.</hi>]  
+                </p>
+                <p>
+                    <lb/>Bibliotheksordnung Herzog Ludwig Rudolphs für seine Bibliothek in Blankenburg, 24.3.1716; Holztafel. HAB: (Bibliotheksarchiv) <ref target="http://diglib.hab.de/mss/ba-1-645-1/start.htm">BA I, 645.1</ref>                   
+                </p>
+                <p>
+                    <lb/>Nachricht, Wie das Carneval in Fürstl. Residentz Blanckenburg im Januario 1723 gehalten werden soll. (Blankenburg) 1723. HAB: <ref target="http://diglib.hab.de/drucke/gn-4f-kapsel-7-3as/start.htm">Gn 4° Kapsel 7 (3a)</ref>
+                </p>
+                <p>
+                    <lb/>Nachricht/ Wie das Carneval in Fürstlicher Residentz Blanckenburg im Januario und Februario 1724 gehalten werden soll. (Blankenburg) 1724. HAB: <ref target="http://diglib.hab.de/drucke/gn-4f-kapsel-7-3bs/start.htm">Gn 4° Kapsel 7 (3b)</ref>                   
+                </p>
+                <p>
+                    <lb/>Nachricht/ Wie das Carneval In Hochfürstl. Residentz Blanckenburg im Monat Februario 1724 continuiret werden soll. (Blankenburg) 1724. HAB: <ref target="http://diglib.hab.de/drucke/gn-4f-kapsel-7-3cs/start.htm">Gn 4° Kapsel 7 (3c)</ref>
+                </p>
+                <p>
+                    <lb/>Nachricht Wie das Carneval In Hoch-Fürstl. Residentz Blanckenburg im Monat Januario 1725 gehalten werden soll. (Blankenburg) 1725. HAB: <ref target="http://diglib.hab.de/drucke/gn-4f-kapsel-7-3ds/start.htm">Gn 4° Kapsel 7 (3d)</ref>
+                </p>
+                <p>
+                    <lb/>Nachricht Wie das Carneval in Hoch-Fürstl. Residentz Blanckenburg im Monat Januario 1726 gehalten werden soll. (Blankenburg) 1726. HAB: <ref target="http://diglib.hab.de/drucke/gn-4f-kapsel-7-3es/start.htm">Gn 4° Kapsel 7 (3e)</ref>
+                </p>
+                <p>
+                    <lb/>Nachricht Wie es bey dem Jn hiesiger Fürstl. Residentz Blanckenburg vorseyendem Carneval zu halten/ Und an welchen Tagen Redouten und andere Lustbarkeiten seyn werden. (Blanckenburg den 28. Decemb. 1727. (Blankenburg) 1727. HAB: <ref target="http://diglib.hab.de/drucke/gn-kapsel-47-10s/start.htm">Gn Kapsel 47 (10)</ref>  
+                </p>
+                <p>
+                    <lb/>Anweisung und Ordnung/ wie auf Gnädigsten Befehl Des Durchleuchtigsten Fürsten und Herrn, HERRN Ludewig Rudolphs, Herzogs zu Braunschweig und Lüneburg &amp;c. das am 25sten Jun. MDCCXXX. Einfallende zweyte CONFESSIONS-IVBILAEVM in Dero Fürstenthum Blankenburg soll gefeyert werden. Blankenburg (1730). HAB: <ref target="http://diglib.hab.de/drucke/gn-kapsel-47-4s/start.htm">Gn Kapsel 47 (4)</ref>
+                </p>
+                <p>
+                    <lb/>Katalog der Bibliothek der Herzogin Christine Luise ("Catalogue des Livres Dans le Cabinet de S. A. Serme Madame la Duchesse, Christine Louise Duchesse de Brunsvic Lunebourg pp née Princesse d’Oetingue. 1730."), Hs., 1730, 1748; 81 S. [<hi rend="italic">In einem unpaginierten Anhang (3 S.): „Verzeichniß derer Bücher, welche bißhero in der Bibliothecks Stube befindlich gewesen, aber weil sie in die Cabinets-Bibliotheck gehören den 7. December 1748 auf Sermi gnädigsten befehl dahin sind gebracht worden.“</hi>]. HAB: (Bibliotheksarchiv) <ref target="http://diglib.hab.de/mss/ba-1-668/start.htm">BA I, 668</ref>   
+                </p>
+                <p>
+                    <lb/>Nachricht, Wie das Carneval Auf dem Hoch-Fürstl. Residentz-Schlosse zu Blanckenburg Anno 1731 soll gehalten werden. (Blankenburg) 1731. HAB: <ref target="http://diglib.hab.de/drucke/gn-kapsel-47-11s/start.htm">Gn Kapsel 47 (11)</ref>
+                </p>
+                <p>
+                    <lb/>Katalog der Bibliothek der Herzogin Christine Luise, Hs., 1736 (terminus ante quem non) CATALOGUS über Ihro HochFürstl. Durchl. Frauen Frauen Christinen Louisen Verwitbeten Herzogin zu Braunschweig-Lüneburg, gebohrnen Fürstin zu Öttingen Cabinets Bibliotheqve zu Blanckenburg. 140 Bll. (unfol., unpag.). [<hi rend="italic">Die jüngsten hier verzeichneten Bücher erschienen 1736.</hi>] HAB: (Bibliotheksarchiv) <ref target="http://diglib.hab.de/mss/ba-1-669/start.htm">BA I, 669</ref>
+                </p>
+                <p>
+                    <lb/>Akten der fürstlichen Bibliothek Blankenburg (Instruktionen, Protokolle, Rechnungen, Katalog der von Wolfenbüttel nach Blankenburg transferierten Bücher u.&#x202f;a.&#x202f;m.) 1706–1754. HAB: (Bibliotheksarchiv) <ref target="http://diglib.hab.de/mss/ba-1-672/start.htm">BA I, 672</ref>; <ref target="http://diglib.hab.de/mss/ba-1-673/start.htm">BA I, 673</ref> und <ref target="http://diglib.hab.de/mss/ba-1-674/start.htm">BA I, 674</ref>
+                </p>
+                <p>
+                    <lb/>Alphabetischer (Catalogus nominalis) und Standortkatalog (Catalogus numeralis) der Blankenburger Bibliothek Herzog Ludwig Rudolphs, 8 und 3 Bde. [<hi rend="italic">Angefertigt und 1737 fertiggestellt von Georg Septimus Andreas von Praun (1701–1786), seit 1727 herzoglicher Bibliothekar in Blankenburg</hi>] HAB: (Bibliotheksarchiv) BA I, 655-662 und 664–666 [<hi rend="italic">Noch nicht digitalisiert (Stand: August 2020)</hi>].
+                </p>
+            </div>            
+            <div>
+                <head>GELEGENHEITS- und FUNERALSCHRIFTEN (Auswahl)</head>
+                <p>
+                    <lb/>Oettingens Frohlockender Willkomm Und Gedächtnus-Feuer/ Als Die Durchleuchtigste Fürstin und Frau/ Frau Christina Ludoviva/ Herzogin zu Braunschweig und Lüneburg/ &amp;c. &amp;c. Gebohrne Fürstin zu Oettingen/ &amp;c. &amp;c. Jhre Geburths-Stadt allhier in Oettingen &#x2026; Freudigst besuchte/ Mithin auch Deroselben &#x2026; Geburths-Tag/ Den 21. Mertzen 1698. Feyerlichst begangen/ Und &#x2026; Be-Ehret wurde. Oettingen [1698]. HAB: <ref target="http://diglib.hab.de/drucke/g-3-g-3/start.htm">G3: K1</ref>
+                </p>
+                <p>
+                    <lb/>Tidau, Johann Karl: Allerglücklichstes Prognosticon, Seiner Hoheit Dem Czaarischen Cron-Printzen, Alexio, Und Dero Durchlauchtigsten Braut, Princessin Charlotten Christinen Sophien, Fürstin zu Blanckenburg und Herzoginn zu Braunschweig und Lüneburg, Als Dero Hohe Gegenwart &#x2026; sich blicken ließ. Wernigerode 1711. HAB: <ref target="http://diglib.hab.de/drucke/gu-2f-kapsel-1-1s/start.htm">Gu 2° Kapsel 1 (1)</ref>
+                </p>
+                <p>
+                    <lb/>Unterthänigstes Denckmahl, So Dem Durchl. Großmächtigsten Fürsten und Herrn, Herrn Alexio, Groß Czaarischen Cron-Printzen &amp;c. Zu Ehren Als Seine Hoheit Anno 1711 zum erstenmahl die Stadt und Fürstenthum Blanckenburg mit Dero Hohen Gegenwart erfreueten, Mit einer Illumination Und Serenata Stiffteten Höchstgemeldetes Fürstenthums Noblesse und Hoch-Fürstl. Bediente. Wernigerode 1711. HAB: <ref target="http://diglib.hab.de/drucke/gu-4f-kapsel-1-12s/start.htm">Gu 4° Kapsel 1 (12)</ref>
+                </p>
+                <p>
+                    <lb/>Frolockendes Blanckenburg/ Vorgestellet In einer accuraten Beschreibung der am 10ten Novembris 1710. daselbst gehaltenen Illumination, Welche &#x2026; Herrn Anthon Ulrich/ Hertzoge zu Braunschweig und Lüneburg &#x2026; Zu hohen Ehren Von Gesambten des Fürstenthums Blanckenburg Noblesse und Bedienten unterthänigst præsentiret worden. Braunschweig: Zillinger 1711. HAB: Gn 1228 u. 1230 [<hi rend="italic">Noch nicht digitalisiert (Stand: August 2020)</hi>].
+                </p>
+                <p>
+                    <lb/>Wichmann, Johann Andreas: Cantata, Worinnen Dem Durchlauchtigsten Fürsten und Herren, Herren Ludewig Rudolph, Hertzog zu Braunschweig und Lüneburg &amp;c. Uber Dero Höchst-erfreulichsten Ankunfft in der Stadt und dem Fürstenthum Blanckenburg, Seine grösseste Freude Jn tieffester Devotion bezeigen sollen. Halberstadt: Carl Schildbach [1714]. HAB: Textb. 570 [<hi rend="italic">Noch nicht digitalisiert (Stand: August 2020)</hi>]. [<hi rend="italic">Libretto. Geringfügiger Textverlust durch Randbeschnitt</hi>].
+                </p>
+                <p>
+                    <lb/>Die Conventualen des Klosters Michaelstein: Die von der Durchlauchtigsten Landes Herrschafft im abgewichenen Jahre genossene Hohe Gnade Wolten gegen dem Durchlauchtigsten Fürsten und Herrn Herrn Ludewig Rudolph Herzogen zu Braunschweig und Lüneburg Und der Durchlauchtigsten Fürstinn und Frauen Frauen Christinen Louisen Herzoginn u Braunschweig und Lüneburg &#x2026; Bei glücklichem Ablauff des MDCCXXVIIten und geseegnetem Eintritt des MDCCXXVIIIten Jahres &#x2026; in Betrachtung ziehen und sich &#x2026;. Empfehlen. Blankenburg [1728]. HAB: Wt 4° 175.1 (13) [<hi rend="italic">Noch nicht digitalisiert (Stand: August 2020)</hi>].
+                </p>
+                <p>
+                    <lb/>Meier, Jean Gerard: DISCOURS SUR LES TOURNOIS A L’OCCASION DU CARNAVAL CELEBRE AVEC BEAUCOUP DE MAGNIFICENCE A BLANCKENBOURG PAR LA HAUTE PRESENCE DE LL. AA. SS. MONSGR. LE DUC ET MADAME LA DUCHESSE DE BRONSVIC-LUNEBBOURG. O. O. u. J. [1730]. HAB: <ref target="http://diglib.hab.de/drucke/gn-4f-1172/start.htm">Gn 4° 1172</ref>
+                </p>
+                <p>
+                    <lb/>Henninges, Johannes: PANEGYRIS IN SOLEMNIOREM FESTIVITATEM QVA CVM SERENISSIMVS &#x2026; DOMINVS LVDOVICVS RVDOLPHVS DVX BRVNSVIOCENSIVM AC LVNEBVRGENSIVM TERRARVM GVELPHICARVM REGIMEN MENSE APRILI ANNO MDCCXXXI &#x2026; SVSCIPERET &#x2026; TESTARI VOLVIT. Helmstedt (1731). HAB: <ref target=" http://diglib.hab.de/drucke/12-helmst-dr-19s/start.htm">12 Helmst. Dr. (19)</ref>
+                </p>
+                <p>
+                    <lb/>Beschreibung Von dem Einzuge, Welchen S. Herzogl. Durchl. Ludewig Rudolph, Herzog zu Braunschweig und Lüneburg, Nebst Dero Frau Gemahlin, Auch Frauen Schwester &#x2026; Durchl. Durchl. Den 15ten Octobr. dieses 1731ten Jahres, An welchem das Universitäts-Fest einfiel, gehalten haben. Helmstedt (1731). HAB: <ref target="http://diglib.hab.de/drucke/1232-helmst-dr/start.htm"> 1232 Helmst. Dr.</ref>
+                </p>
+                <p>
+                    <lb/>Strasberg, Carolus Michael: ACCLAMATIO VOTIVA QUA SERENISSIMO PRINCIPI AC DOMINO, DOMINO LUDOVICO RUDOLPHO, BRUNSVICENSIUM AC LUNEBURGENSIUM DUCI &#x2026; SEXAGESIMUM PRIMUM NATALEM SUUM DIE XXII. JUL. A. MDCCXXXI. &#x2026;CELEBRANTI &#x2026; APPRECARI VOLUIT, DEBUIT. Braunschweig (1731). HAB: <ref target="http://diglib.hab.de/drucke/gn-4f-1684/start.htm">Gn 4° 1684</ref>
+                </p>
+                <p>
+                    <lb/>Sölling, Johann Valentin: Die schuldigen Kennzeichen Einer Demüthigen Danckbarkeit Wolte Dem Durchlauchtigsten Fürsten und Herrn, HERRN Ludewig Rudolph Regierenden Hertzog zu Braunschweig, Lüneburg, Blanckenburg &amp;c. Wie auch Der Durchlauchtigsten Fürstin und Frauen, FRAUEN Christinen Lovisen Regierenden Hertzogin von Braunschweig, Lüneburg, Blanckenburg &amp;c. Gebohrne Fürstin von Oettingen Bey Dem Anfang des 1735. Jahrs darlegen. Helmstedt [1735]. HAB: <ref target="http://diglib.hab.de/drucke/29-helmst-dr-31s/start.htm">29 Helmst. Dr. (31)</ref>
+                </p>
+                <p>
+                    <lb/>Dreißigmarck, Philipp Ludewig, Johann Georg Hagemann u.&#x202f;a.: Christ-Fürstliches Trauer- und Ehren-Gedächtniß des Weyland Durchlauchtigsten Fürsten und Herrn, HERRN Ludewig Rudolphs, Regierenden Herzogs zu Braunschweig und Lüneburg &amp;c. &amp;c. Blankenburg [1735]. HAB: <ref target="http://diglib.hab.de/drucke/gn-2f-220/start.htm">Gn 2° 220</ref>. [<hi rend="italic">Leichenpredigtsammlung mit Personalia (S. 85–97) und dem Text des Oratoriums zu den Beisetzungsfeierlichkeiten im Braunschweiger Dom (S. 98–104). Vgl. auch Niedersächsisches Landesarchiv Wolfenbüttel: 1 Alt 22 Nr. 459c</hi>].
+                </p>
+                <p>
+                    <lb/>Bucquoy, Jean Albert d’Archambaud de (1650–1735): A SON ALTESSE SERENISSIME DEUSIEME DOUARIERE DE WOLFENBUTEL, EN MANIERE DE CONDOLEANCE ET DE CONSOLATION AU SUJET DU DECéS DE S. A. S. MONSGR. LE DUC, SON TRES CHER EPOUS DE GLORIEUSE MEMOIRE, où En representant, entre autres, a l’homme l’instabilite des choses humaines &amp; sa misere naturelle &#x2026; Herrenhausen, ce 10 Mars 1735. O. O. 1735. HAB: <ref target="http://diglib.hab.de/drucke/gn-1696/start.htm">Gn 1696</ref>
+                </p>
+                <p>
+                    <lb/>Coordes, Johann Daniel: Was ist beständig in der Welt? Nicht, als des Wechsels Unbestand &#x2026; Ach! daß in dieser Trauer-Nacht, Da man Fürst Ludwig Rudolphs Tod beklagt &#x2026; Es würde Sein Verlust nicht zu ersetzen seyn, Wenn unser Ferdinand nicht lebte. &#x2026; So ist auch Trost bey Traurigkeit &#x2026; So nim[m]t die Fürsten-Schul an beyden Theil. Diß zu bezeugen &#x2026; Es werden zwey, von denen, die wir lehren, Sich lassen hören. Der eine wird des Fürsten Tod beklagen &#x2026; Der andre wird das Glücke preisen &#x2026; Da Er uns itzt zum Haupt und Herren giebt &#x2026; Drum kommt ihr Freunde und Patronen, Kommt nach dem Ort, wo unsere Musen wohnen. Wolfenbüttel: [Verlag unbekannt] [1735]. HAB: G2: M5 [<hi rend="italic">Noch nicht digitalisiert (Stand: August 2020)</hi>].
+                    <!--[<hi rend="italic">Einladung zu einer Gedenkveranstaltung im Fürstlichen Gymnasium in Wolfenbüttel zum Tod von Herzog Ludwig Rudolph von Braunschweig-Lüneburg und dem Amtsantritt von Herzog Ferdinand Albrecht II. im Jahr 1735. Der Thronfolger aus der Beverner Linie des neuen Wolfenbütteler Herzogshauses starb noch im gleichen Jahr. Datum und Uhrzeit auf dem Wolfenbütteler Exemplar handschriftlich eingefügt.</hi>]-->
+                </p>
+                <p>
+                    <lb/>Neuber, Friederike Caroline (1697–1760): Da der Herzog Ludwig Rudolph Starb Der Fromme Weise der Gerechte Der sich den Ruhm die reinste Treu erwarb &#x2026; Läßt Jenen todt Den lebend Zu verehren Dieß Trauer-Lied Demüthigst hören. Braunschweig 1735. HAB: G3: M63 [<hi rend="italic">Noch nicht digitalisiert (Stand: August 2020)</hi>].
+                </p>
+                <p>
+                    <lb/>Prorektor und Senat der Universität Helmstedt: IVSTA FVNEBRIA SERENISSIMO PRINCIPI AC DOMINO DOMINO LVDOVICO RVDOLPHO, DVCO BRVNOVICENSI ET LVNAEBVRGENSI &#x2026; ACADEMIAE IVLIAE ORATIONE PANEGYRICA &#x2026; INDICVNT. Helmstedt [1735]. HAB: <ref target="http://diglib.hab.de/drucke/12-helmst-dr-40s/start.htm">12 Helmst. Dr. (40)</ref>
+                </p>
+                <p>
+                    <lb/>Reusch, Erhard (1678–1740): ORATIO PANEGYRICA QVA DIVVM LVDOVICVM RVDOLPHVM BRVNOVICENSIVM AC LVNAEBVRGENSIVM DVCEM PATREM PATRIAE DVM VIVERET &#x2026; ACADEMIAE IVLIAE RECTOREM &#x2026; PVBLICO ACADEMIAE NOMINE IN IVLEO MAJORI A. D. XIII. MAII INTER LVCTVM COMMVNEM &#x2026; VENERABATVR. Helmstedt [1735]. HAB: <ref target="http://diglib.hab.de/drucke/12-helmst-dr-39s/start.htm">12 Helmst. Dr. (39)</ref> 
+                </p>
+                <p>
+                    <lb/>Braunschweigs Trauer- und Freuden-Wechsel/ Wolte Bey dem &#x2026; am 1sten dieses Monaths Martii des itzt-lauffenden 1735sten Jahrs in der Stadt Braunschweig &#x2026; erfolgten Ableben, Des Weyland Durchlauchtigsten Fürsten und Herrn &#x2026; Ludewig Rudolphen, Regierenden Hertzogen zu Braunschweig und Lüneburg &#x2026; So dann Bey der &#x2026; Regierungs-Folge/ Des &#x2026; HERRN Ferdinand Albrechts, Hertzogen zu Braunschweig und Lüneburg &#x2026; vorstellig machen. Hildesheim (1735). HAB: <ref target="http://diglib.hab.de/drucke/g-3-m-66/start.htm">G3: M66</ref>
+                </p>
+                <p>
+                    <lb/>Rath, Carl Anthon Ludwig: Kurze Abhandlung worin Die Gottseligkeit als der einige Grund der wahren Glückseligkeit der Menschen vorgestellet wird. Welche Der Durchlauchtigsten Herzogin und Frauen, FRAUEN Christine Louise, verwitweten Herzogin von Braunschw. und Lüneb. Gebohrne Fürstin von Oettingen Bey dem Eintritte des 1747 Jahres &#x2026; übergab. Helmstedt (1747). HAB: <ref target="http://diglib.hab.de/drucke/35-helmst-dr-27s/start.htm">35 Helmst. Dr. (27)</ref>
+                </p>
+                <p>
+                    <lb/>AD ORATIONEM PARENTALEM IN HONOREM SERENISSIMAE PRINCIPIS AC DOMINAE DOMINAE CHRISTINAE LVDOVICAE E. S. R. I. PRINCIPVM OETTINGENSIVM STIRPE PROGNATAE DIVI LVDOVICI RVDOLPHI BRVNOVICENSIVM AC LVNAEBVRGENSIVM QVONDAM DVCIS VIDVAE &#x2026; PVBLICO ACADEMIAE IVLIAE CAROLINAE NOMINE &#x2026; INVITATIO. Helmstedt [1747]. HAB: <ref target="http://diglib.hab.de/drucke/12-helmst-dr-60s/start.htm">12 Helmst. Dr. (60)</ref>
+                </p>
+            </div>
+            <div>
+                <head>BIOGRAPHISCHES zum HERZOGSPAAR</head>
+                <p>
+                    <lb/><hi rend="bold">Arnold</hi>, Werner: Art. „Ludwig Rudolf“. In: Lexikon zur Geschichte und Gegenwart der Herzog August Bibliothek Wolfenbüttel. Paul Raabe zum 29.2.1992. Hrsg. von Georg Ruppelt und Sabine Solf. Wiesbaden 1992, S.&#160;107f.
+                    <lb/><hi rend="bold">Arnold</hi>, Werner: Eine norddeutsche Fürstenbibliothek des frühen 18. Jahrhunderts. Herzog Ludwig Rudolph von Braunschweig-Lüneburg (1671–1735) und seine Büchersammlung. Göttingen 1980.
+                    <lb/><hi rend="bold">Arnold</hi>, Werner: Fürstenbibliotheken. In: Die Erforschung der Buch- und Bibliotheksgeschichte in Deutschland. Hrsg. von Werner Arnold, Wolfgang Dittrich und Bernhard Zeller. Wiesbaden 1987, S.&#160;398–419.
+                    <lb/><hi rend="bold">Bei der Wieden</hi>, Brage, Roxane <hi rend="bold">Berwinkel</hi>, Martin <hi rend="bold">Fimpel</hi> und Silke <hi rend="bold">Wagener-Fimpel</hi>: Durch den Tod des Herzogs Ludwig Rudolf zu Braunschweig-Lüneburg (1735) ausgelöste Aktionen. In: Der wissenschaftliche Bibliothekar. Festschrift für Werner Arnold. Hrsg. von Detlev Hellfaier, Helwig Schmidt-Glintzer und Wolfgang Schmitz. Wiesbaden 2009 (Wolfenbütteler Schriften zur Geschichte des Buchwesens, 44), S.&#160;397–424.
+                    <lb/><hi rend="bold">Bepler</hi>, Jill: Art. „Ludwig Rudolf, Herzog zu Braunschweig und Lüneburg“. In: Braunschweigisches Biographisches Lexikon. 8. bis 18. Jahrhundert. Hrsg. von Horst-Rüdiger Jarck, Dieter Lent u.&#x202f;a. Braunschweig 2006, S.&#160;461–462.
+                    <lb/><hi rend="bold">Bepler</hi>, Jill: Art. „Christine Luise, Herzogin zu Braunschweig und Lüneburg, geb. Fürstin von Oettingen“. In: Braunschweigisches Biographisches Lexikon. 8. bis 18. Jahrhundert. Hrsg. von Horst-Rüdiger Jarck, Dieter Lent u.&#x202f;a. Braunschweig 2006, S.&#160;144–145.
+                    <lb/><hi rend="bold">Conermann</hi>, Klaus: Oettingische Bücherlust im 17. und frühen 18. Jahrhundert. Regionale Rezeptions- und Literaturgeschichte im Spiegel von Bibliotheken. In: Augsburg in der Frühen Neuzeit. Beiträge zu einem Forschungsprogramm. Hrsg. von Jochen Brüning u. Friedrich Niewöhner. Berlin 1995 (Colloquia Augustana, Bd. 1), S.&#160;252–331.
+                    <lb/><hi rend="bold">Gleixner</hi>, Ulrike: Unlesbare Schriften. Bestände von Weltensammlern des 18. Jahrhunderts in der Herzog August Bibliothek. In: Präsenz und Evidenz fremder Dinge im Europa des 18. Jahrhunderts. Göttingen 2015, S.&#160;202–217.
+                    <lb/><hi rend="bold">Körber</hi>, Otto: Die Stiftungen des Herzogs Ludwig Rudolf und seiner Gemahlin Herzogin Christine Louise. In: Braunschweigisches Magazin 3 (1901), S.&#160;21–23.
+                    <lb/><hi rend="bold">Mazingue</hi>, Etienne: Anton Ulrich, duc de Braunschweig-Wolfenbüttel (1633-1714) un prince romancier au XVIIéme siècle. 2 Bde. Lille 1974.
+                    <lb/><hi rend="bold">Nadler</hi>, Ekhard: Mater Augustae. Beitrag zu einer Lebensbeschreibung der Herzogin Christine Luise von Braunschweig, geb. Prinzessin zu Oettingen-Oettingen. In: Niedersächsisches Jahrbuch für Landesgeschichte 50 (1978), S.&#160;361–368.
+                    <lb/><hi rend="bold">Thomsen-Fürst</hi>, Rüdiger: Gitarrentabulatur der Herzogin Christine Luise (1671–1747). Hrsg. von Eitelfriedrich Thom. Michaelstein/ Blankenburg 1993.
+                    <lb/><hi rend="bold">Thomsen-Fürst</hi>, Rüdiger: Das Gitarren-Buch der Herzogin Christine Luise von Braunschweig-Lüneburg (um 1690). Hamburg 1989.
+                    <lb/><hi rend="bold">Wegner</hi>, Hartmut: Christine Luise, Prinzessin von Oettingen, Herzogin von Braunschweig-Lüneburg-Wolfenbüttel und „heimliche“ Regentin in Blankenburg und Wolfenbüttel. In: Thomas Weiss (Hg.): Frauen im 18. Jahrhundert. Entdeckungen zu Lebensbildern in Museen und Archiven in Sachsen-Anhalt. Halle a. d. S. 2009, S.&#160;303–314.
+                    <lb/><hi rend="bold">Wegner</hi>, Hartmut: Höfisches Leben und Fürstenbesuche in Blankenburg 1735 bis 1806. In: Braunschweig-Bevern. Ein Fürstenhaus als europäische Dynastie 1667–1884. Hrsg. von Christof Römer. Braunschweig 1997, S.&#160;161–172.
+                    <lb/><hi rend="bold">Wegner</hi>, Hartmut: Der Blankenburger Hof im 18. Jahrhundert. In: Harz-Zeitschrift 45.1 (1993), S.&#160;75–92.                    
+                    <lb/><hi rend="bold">Zimmermann</hi>, Paul: Art. „Ludwig Rudolf“. In: Allgemeine Deutsche Biographie 19 (1884), S.&#160;541-543 <ref target="https://www.deutsche-biographie.de/pnd124700470.html#adbcontent">ONLINE</ref>
+                </p>
+            </div>
+            <div>
+                <head>ORTSGESCHICHTE/ TOPOGRAPHIEN</head>
+                <p>
+                    <lb/><hi rend="bold">900 Jahre Wolfenbüttel</hi>. Beiträge zur Geschichte unserer Stadt. Wolfenbüttel 2018.
+                    <lb/><hi rend="bold">Altes Braunschweig</hi>. Grafische und malerische Darstellungen aus fünf Jahrhunderten. Zusammenstellung und Texte von Gerd Spies. Frankfurt a. M. 1977.
+                    <lb/><hi rend="bold">Banse</hi>, Eduard: Die Entwicklung der Wallanlagen der Stadt Braunschweig aus der alten Befestigung. In: Braunschweigisches Jahrbuch 26 (1940), S.&#160;5–28.
+                    <lb/><hi rend="bold">Besucher im alten Braunschweig</hi>: 1438–1913. Vorgestellt von Richard Moderhack. Braunschweig 1992.
+                    <lb/><hi rend="bold">Braunschweig: das Bild der Stadt in 900 Jahren</hi>. Geschichte und Ansichten. Hrsg. von Gerd Spies. 2 Bde., 2., durchges. Aufl. Braunschweig 1985.
+                    <lb/><hi rend="bold">Braunschweiger Stadtlexikon</hi>. Hrsg. von Luitgard Camerer, Manfred R. W. Garzmann, Wolf-Dieter Schuegraf unter bes. Mitarb. von Norman Pingel. Braunschweig 1992. Ergänzungsband, Braunschweig 1996.                    
+                    <lb/><hi rend="bold">Brübach</hi>, Nils: Die Reichsmessen von Frankfurt am Main, Leipzig und Braunschweig (14.-18. Jahrhundert). Stuttgart 1994 (Beiträge zur Wirtschafts- und Sozialgeschichte, 55).
+                    <lb/><hi rend="bold">Brunswiek 1031 — Braunschweig 1981</hi>. Die Stadt Heinrichs des Löwen von den Anfängen bis zur Gegenwart [Festschrift zur Ausstellung vom 25.4.–11.10.1981]. Hrsg. von Gerd Spies. Braunschweig 1981. 
+                    <lb/><hi rend="bold">Fuhse</hi>, Franz: Hygiene und Heilkunst in Braunschweig während des 16. und 17. Jahrhunderts.  1926.
+                    <lb/><hi rend="bold">Gerkens</hi>, Gerhard: Das fürstliche Lustschloss Salzdahlum und sein Erbauer Herzog Anton Ulrich von Braunschweig-Wolfenbüttel. Braunschweig 1974.
+                    <lb/><hi rend="bold">Die neuere Geschichte der Stadt Braunschweig in Karten, Plänen und Ansichten</hi>. Hrsg. von der Stadt Braunschweig [Wiss. Beratung: Richard Moderhack]. Braunschweig 1981. 
+                    <lb/><hi rend="bold">Das ehemalige fürstliche Lustschloss Salzdahlum</hi>. Hrsg. von Hans-Henning Grote. Wolfenbüttel 1996.
+                    <lb/><hi rend="bold">Grote</hi>, Hans-Henning: Schloss Wolfenbüttel: Residenz der Herzöge zu Braunschweig und Lüneburg. Unter Beteiligung von Elmar Arnhold, Mark Heyer, Hans Christian Mempel, Simon Pulus u. Holger Wittig. Braunschweig 2005. 
+                    <lb/><hi rend="bold">Hagen</hi>, Rolf: Schloss Wolfenbüttel. Braunschweig 1988.
+                    <lb/><hi rend="bold">Hagen</hi>, Rolf: Schloss Wolfenbüttel: Geschichte. München [u.&#x202f;a.] 1980.
+                    <lb/><hi rend="bold">Hinz</hi>, Gerhard: Die historischen Gartenanlagen der Stadt Braunschweig. In: Das Gartenamt. 9 (1970), S.&#160;415–424.
+                    <lb/><hi rend="bold">Historischer Atlas der Stadt Braunschweig</hi>. Hrsg. von der Stadt Braunschweig. [Braunschweig] 1958–1968.  
+                    <lb/><hi rend="bold">Jacob</hi>, Sabine: Schloß Salzdahlum. In: Herzog Anton Ulrich von Braunschweig. Leben und Regieren mit der Kunst. Katalog des Herzog Anton Ulrich Museums. Hrsg. von Rüdiger Klessmann. Braunschweig 1983, S.&#160;49–69.
+                    <lb/><hi rend="bold">Matthes</hi>, Dieter: Karte der Residenzstadt und Festung Wolfenbüttel mit Umgebung 1741. Hannover 1994.
+                    <lb/><hi rend="bold">Meier</hi>, Paul Jonas: Die Bau- und Kunstdenkmäler der Stadt Wolfenbüttel. Wolfenbüttel 1904.
+                    <lb/><hi rend="bold">Meier</hi>, Paul Jonas: Die Bau- und Kunstdenkmäler des Kreises Wolfenbüttel. Wolfenbüttel 1906.
+                    <lb/><hi rend="bold">Meier</hi>, Paul Jonas: Die Bau- und Kunstdenkmäler der Stadt Braunschweig. Wolfenbüttel 1906, 2., erw. Aufl., Braunschweig 1926.
+                    <lb/><hi rend="bold">Mertens</hi>, Jürgen: Die neuere Geschichte der Stadt Braunschweig in Karten, Plänen und Ansichten. In: Die neuere Geschichte der Stadt Braunschweig in Karten, Plänen und Ansichten. Hrsg. von der Stadt Braunschweig. [Wiss. Beratung: Richard Moderhack]. Braunschweig 1981.
+                    <lb/><hi rend="bold">Minges</hi>, Klaus: Das Sammlungswesen der frühen Neuzeit. Kriterien der Ordnung und Spezialisierung. Münster 1998. [<lb/><hi rend="italic">Zur Kunstgalerie im Schloss Salzdahlum, S.&#160;152–154</hi>].
+                    <lb/><hi rend="bold">Moderhack</hi>, Richard: Braunschweiger Stadtgeschichte: mit Zeittafel und Bibliographie. (Überarb. und bis 1995 fortgef. Neuaufl. des 1985 erschienen 1. Bandes von Braunschweig: das Bild der Stadt in 900 Jahren). Braunschweig 1997.                            
+                    <lb/><hi rend="bold">Noltenius</hi>, Rudolf August: CHRONICON Der Stadt und Festung Wolffenbüttel, in sich haltend des seel. Herrn Ober-Amtmanns Christoph Woltereck Begräbniß Buch der Kirchen B.M.V. zu Wolffenbüttel, Epitaphis und Ehren Schrifften. Blankenburg, Helmstedt 1747.
+                    <lb/><hi rend="bold">Ohnesorge</hi>, Klaus-Walther: Wolfenbüttel. Geographie einer ehemaligen Residenzstadt. Braunschweig 1974 (Braunschweiger Geographische Studien, 5).
+                    <lb/><hi rend="bold">Pingel</hi>, Norman-Mathias: Art. „Befestigung“. In: Braunschweiger Stadtlexikon. Hrsg. von Luitgard Camerer, Manfred Garzmann, Wolf-Dieter Schuegraf. Braunschweig 1992.
+                    <lb/><hi rend="bold">Pötzsch</hi>, Hansjörg: Das Braunschweiger Schützenwesen. 450 Jahre Geschichte der Braunschweiger Schützengesellschaft 1545. Braunschweig 1995.
+                    <lb/><hi rend="bold">Querfurt</hi>, Tobias: Kurtze Beschreibung Des Fürstl. Lust-Schlosses Saltzdahlum. Braunschweig 1710.  
+                    
+                    http://diglib.hab.de/drucke/gn-9696-1s/start.htm 
+                    <lb/><hi rend="bold">Ribbentrop</hi>, Philipp Christian: Beschreibung der Stadt Braunschweig. 2 Bde. Braunschweig 1789 u. 1791. Bd. 2: http://diglib.hab.de/drucke/gn-10096-2b/start.htm 
+                    <lb/><hi rend="bold">Römer</hi>, Christof: Veränderungen in den braunschweigischen Städten des 18. Jahrhunderts. Nichtbürgerliche Bildungsschichten und das neue Honoratiorentum. In: Städtische Kultur in der Barockzeit. Hrsg. von Wilhelm Rausch. Linz 1982 (Beiträge zur Geschichte der Städte Mitteleuropas, 6), S.&#160;159–175.
+                    <lb/><hi rend="bold">Schmuhl</hi>, Hans-Walter: Die Herren der Stadt. Bürgerliche Eliten und städtische Selbstverwaltung in Nürnberg und Braunschweig vom 18. Jahrhundert bis 1918. Gießen 1998.
+                    <lb/><hi rend="bold">Schulze</hi>, Hans: Beiträge zur Geschichte der jüdischen Gemeinde in Wolfenbüttel. Teil 1. In: Braunschweigisches Jahrbuch 48 (1967), S.&#160;23–61; Teil 2. In: ebd. 49 (1968), S.&#160;61–83.
+                    Erweiterte Situations-Tabelle vom Fürstl. Amte Blankenburg: Stadt Blankenburg &#x2026; Dorf Cattenstedt &#x2026; Dorf Wienrode &#x2026; Dorf Timmenrode &#x2026; ; Landstraßen durch das Fürstl. Amt Blankenburg. O. O. ca. 1770. 1 Bl.
+                    <lb/><hi rend="bold">Spies</hi>, Gerd: Braunschweig. Das Bild einer Stadt im 18. Jahrhundert. Arbeiten der Braunschweiger Kupferstecherfamilie Beck. Braunschweig 1976.
+                    <lb/><hi rend="bold">Steinacker</hi>, Karl: Das fürstliche Lustschloss in Salzdahlum. In: Jahrbuch des Geschichtsvereins für das Herzogtum Braunschweig 3 (1904), S.&#160;69–110.
+                    <lb/><hi rend="bold">Thöne</hi>, Friedrich: Wolfenbüttel. Geist und Glanz einer alten Residenz. München 21968.
+                    <lb/><hi rend="bold">Thöne</hi>, Friedrich: Der Wolfenbütteler Barockbaumeister Johann Balthasar Lauterbach. In: Zeitschrift für Kunstwissenschaft 4 (1950), S.&#160;199.
+                    <lb/><hi rend="bold">Thon</hi>, Ekkehard: Von Wirtshäusern im alten Wolfenbüttel 1747. In: Heimatbuch Landkreis Wolfenbüttel 63 (2017), S.&#160;104–113.
+                    <lb/><hi rend="bold">Walz</hi>, Alfred: Das Herzogliche Kunst- und Naturalienkabinett in Braunschweig unter den Herzögen Carl I. und Carl Wilhelm Ferdinand. In: 250 Jahre Museum. Von den fürstlichen Sammlungen zum Museum der Aufklärung [Katalog der Ausstellung in der Burg Dankwarderode, Braunschweig 29.4.–22.8.2004]. München 2004, S.&#160;11–20.
+                    <lb/><hi rend="bold">Weltenharmonie</hi>. Die Kunstkammer und die Ordnung des Wissens [Katalog der Ausstellung im Herzog Anton Ulrich Museum, Braunschweig 20.7.–22.10.2000]. Braunschweig 2000.
+                </p>
+            </div>
+            <div>
+                <head>DYNASTISCHE und LANDESGESCHICHTE</head>
+                <p>
+                    <lb/><hi rend="bold">Albrecht</hi>, Peter: Die Förderung des Landesausbaus im Herzogtum Braunschweig-Wolfenbüttel im Spiegel der Verwaltungsakten des 18. Jahrhunderts (1671–1806). Braunschweig 1980.
+                    <lb/><hi rend="bold">Aschoff</hi>, Georg: Die Welfen. Von der Reformation bis 1918. Stuttgart 2010.
+                    <lb/><hi rend="bold">Bei der Wieden</hi>, Brage: Durch den Tod des Herzogs Ludwig Rudolph zu Braunschweig-Lüneburg (1735) ausgelöste Aktionen. In: Der wissenschaftliche Bibliothekar. Festschrift für Werner Arnold. Hrsg. von Detlev Hellfaier, Helwig Schmidt-Glintzer und Wolfgang Schmitz. Wiesbaden 2009, S.&#160;397–424.
+                    <lb/><hi rend="bold">Beste</hi>, Johannes: Geschichte der Braunschweigischen Landeskirche von der Reformation bis auf unsere Tage. Wolfenbüttel 1889. <ref target="http://www.digibib.tu-bs.de/?docid=00022964">ONLINE</ref>  
+                    <lb/><hi rend="bold">Braunschweigische Landesgeschichte im Überblick</hi>. Hrsg. von Richard Moderhack. 3. Aufl., Braunschweig 1979 (Quellen und Forschungen zur Braunschweigischen Geschichte, 23).
+                    <lb/><hi rend="bold">Braunschweigisches Biographisches Lexikon</hi>. 8. bis 18. Jahrhundert. Im Auftrag der Braunschweigischen Landschaft e. V. hrsg. von Horst-Rüdiger Jarck mit Dieter Lent u.&#x202f;a. Braunschweig 2006.
+                    <lb/><hi rend="bold">Capelle</hi>, Thomas: Der Kanzler und die Kirche. Kanzler Ph. L. Probst von Wendhausen und das Anti-Pietisten-Edikt von 1692. In: Braunschweigisches Jahrbuch 90 (2009), S.&#160;121–140.
+                    <lb/><hi rend="bold">Dehesselles</hi>, Thomas: Policey, Handel und Kredit im Herzogtum Braunschweig-Wolfenbüttel in der frühen Neuzeit. Frankfurt a. M. 1999.
+                    <lb/><hi rend="bold">Daniel</hi>, Ute: Überlegungen zum höfischen Fest der Barockzeit. In: Niedersächsisches Jahrbuch für Landesgeschichte 72 (2000), S.&#160;45–66 [<lb/><hi rend="italic">Zur Trauerfeier für Hz. August Wilhelm 1731</hi>].
+                    <lb/><hi rend="bold">Elster</hi>, Otto: Geschichte der stehenden Truppen im Herzogthum Braunschweig-Wolfenbüttel von 1600–1714. Leipzig 1899; 2. Bd.: 1714–1806, Leipzig 1901.
+                    <lb/><hi rend="bold">Gerkens</hi>, Gerhard: Das Politische Testament Herzog Anton Ulrichs zu Braunschweig und Lüneburg. In: Braunschweigisches Jahrbuch 49 (1968), S.&#160;37–60.
+                    <lb/><hi rend="bold">Zur Geschichte von Grafschaft und Fürstentum Blankenburg</hi>. Vorträge der Arbeitstagung des Harzvereins für Geschichte und Altertumskunde am 19. Sept. 1992 im Museum Kleines Schloss Blankenburg. Hrsg. von Christof Römer. Braunschweig 1993.
+                    <lb/><hi rend="bold">Grote</hi>, Hermann: Geschlechts- und Wappenbuch des Königreichs Hannover und des Herzogthums Braunschweig. Hannover 1852 (Ndr. Dresden 2015).
+                    <lb/><hi rend="bold">Havemann</hi>, Wilhelm: Geschichte der Lande Braunschweig und Lüneburg. 3 Bde., Göttingen 1855-1857.
+                    <lb/><hi rend="bold">Heinemann</hi>, Otto von: Geschichte von Braunschweig und Hannover. 3 Bde. Gotha 1884-1892.                    
+                    <lb/><hi rend="bold">Hier wird regiert!</hi> Die Beamten im Dienste des durchlauchtigsten Herzogs Anton Ulrich. Braunschweigisches Landesmuseum und Niedersächsisches Landesarchiv Wolfenbüttel. Braunschweig 2014.
+                    <lb/><hi rend="bold">Jacobs</hi>, Rainer: Braunschweigisches Militärwesen 1641–1714. Heeresorganisation im Spannungsfeld von landständischer Verfassung und fürstlichem Absolutismus. In: Braunschweigisches Jahrbuch für Landesgeschichte 81 (2000), S.&#160;29–75.
+                    <lb/><hi rend="bold">Jacobs</hi>, Rainer: Braunschweigische Militärverwaltung im 17. und 18. Jahrhundert. Die institutionelle Einbindung des stehe4nden Heeres in das frühneuzeitliche Staatswesen. In: Braunschweig-Wolfenbüttel in der Frühen Neuzeit. Neue historische Forschungen. Hrsg. von Christian Lippelt und Gerhard Schildt. Braunschweig 2003, S.&#160;29–50.
+                    <lb/><hi rend="bold">Knesebeck</hi>, Friedrich Wilhelm Boldewin Ferdinand von dem: Die Rittermatrikeln des Königreichs Hannover und des Herzogthums Braunschweig. Nebst einer alphabetischen Übersicht der Ritterschaft und der von derselben vertretenen ritterschaftlichen Güter. Göttingen 1860. 
+                    <lb/><hi rend="bold">König</hi>, Joseph: Landesgeschichte (einschließlich Recht, Verfassung und Verwaltung). In: Richard Moderhack (Hg.): Braunschweigische Landesgeschichte im Überblick. Braunschweig 1979, S.&#160;61–109.
+                    <lb/><hi rend="bold">Krumwiede</hi>, Hans-Walter: Kirchengeschichte Niedersachsens. Bd. 1: Von der Sachsenmission bis zum Ende des Reiches 1806. Göttingen 1995.
+                    <lb/><hi rend="bold">Lampe</hi>, Joachim: Aristokratie, Hofadel und Staatspatriziat in Kurhannover. Die Lebenskreise der höheren Beamten an den kurhannoverschen Zentral- und Hofbehörden 1714-1760. 1. Bd.: Darstellung, 2. Bd.: Beamtenlisten und Ahnentafeln. Göttingen 1963.
+                    <lb/><hi rend="bold">Leibrock</hi>, Gustav Adolf: Chronik der Stadt und des Fürstenthums Blankenburg, der Grafschaft Regenstein und der Klöster Michaelstein und Walkenried. Nach urkundl. Quellen bearbeitet. 2 Bde., Blankenburg 1864 und 1865.                    
+                    <lb/><hi rend="bold">Moderhack</hi>, Richard: Braunschweigische Landesgeschichte im Überblick. 3. Aufl. Braunschweig 1979.
+                    <lb/><hi rend="bold">Praun</hi>, Georg Septimus Andreas von: Vollständiges Braunschweig-Lüneburgisches Münz- und Medaillen-Cabinet. Helmstedt 1747.
+                    <lb/><hi rend="bold">Rehtmeyer</hi>, Philipp Julius: Braunschweig-Lüneburgische Chronica, Oder: Historische Beschreibung der Durchlauchtigsten Herzogen zu Braunschweig und Lüneburg &#x2026; Bd. 3: Des Braunschweigischen und Lüneburgischen CHRONICI III. Tomus, in sich haltend Das Neue Haus Braunschweig-Lüneburg samt dem Anhang oder Nachlese, und Register. Braunschweig 1722.
+                    <lb/><hi rend="bold">Römer</hi>, Christof: Das Zeitalter des Hochabsolutismus (1635–1735). In: Die Braunschweigische Landesgeschichte. Jahrtausendrückblick einer Region. Hrsg. von Horst-Rüdiger Jarck und Gerhard Schildt. Braunschweig 2000, S.&#160;535–574.
+                    <lb/><hi rend="bold">Römer</hi>, Christof: Braunschweig-Bevern. Ein Fürstenhaus als europäische Dynastie 1667–1884. Braunschweig 1997.                    
+                    <lb/><hi rend="bold">Rohr</hi>, Julius Bernhard von: Geographische und Historische Merckwürdigkeiten des Vor- oder Unter-Hartzes : Welche von denen Fürstenthümern Blanckenburg und Hartzgerode, dem Stifft Quedlinburg, den Grafschafften Manßfeld, Stollberg und deren Städten, Flecken, Schlössern, ehemahligen Clöstern, alten Ruderibus, Bergwercken, notablen Bergen, Flüssen, Seen auch andern Naturalibus, sowohl in Ansehung derer ehemahligen als itzigen Zeiten mancherley besonders in sich fassen ; Meistentheils durch genaue Bemerckung dessen, was man selbst in Augenschein genommen, ausgearbeitet. Frankfurt u. Leipzig 1736.
+                    <lb/><hi rend="bold">Samse</hi>, Helmut: Die Zentralverwaltung in den südwelfischen Landen vom 15. bis zum 17. Jahrhundert. Hildesheim, Leipzig 1940 (Quellen und Darstellungen zur Geschichte Niedersachsens, 49).
+                    <lb/><hi rend="bold">Schnath</hi>, Georg: Die Überwältigung Braunschweig-Wolfenbüttels durch Hannover und Celle zu Beginn des Spanischen Erbfolgekrieges, März 1702. In: Braunschweigisches Jahrbuch 56 (1975), S.&#160;27–100.
+                    <!--<lb/><hi rend="bold">Schubert</hi>, Franz: Fürstentum Braunschweig-Wolfenbüttelschen Teils Trauregister aus den Kirchenbüchern 1701–1750. Bd. 4c: Superintendentur Blankenburg. Göttingen 1998.-->
+                    <lb/><hi rend="bold">Schulze</hi>, Hans: Beiträge zur Geschichte der jüdischen Gemeinde in Wolfenbüttel. In: Braunschweigisches Jahrbuch 48 (1967), S.&#160;23–85.
+                    <lb/><hi rend="bold">Die Sonne im Norden</hi>. Herzog Anton Ulrich von Braunschweig-Wolfenbüttel (1633–1714). Hrsg. von Hans-Henning Grote und Sandra Donner. Wolfenbüttel 2014.
+                    <lb/><hi rend="bold">Steinhoff</hi>, Rudolf: Geschichte der Grafschaft bzw. des Fürstentums Blankenburg, der Grafschaft Regenstein und des Klosters Michaelstein. Blankenburg, Quedlinburg 1891.
+                    <lb/><hi rend="bold">Stübner</hi>, Johann Christoph: Merkwürdigkeiten des Harzes überhaupt und des Fürstenthums Blankenburg insbesondere. Tl. 1 u. 2. Halberstadt 1791 u. 1793.
+                    <lb/><hi rend="bold">Stübner</hi>, Johann Christoph: Denkwürdigkeiten des Fürstenthums Blankenburg und des demselben inkorporirten Stiftamts Walkenried. 1. Tl. Wernigerode 1788 (Teil 2: Naturgeschichte, Wernigerode 1790).
+                    <lb/><hi rend="bold">Die Wirtschafts- und Sozialgeschichte des Braunschweigischen Landes</hi> vom Mittelalter bis zur Gegenwart. Hrsg. von Karl Heinrich Kaufhold u.&#x202f;a. Bd. 2: Frühneuzeit. Hildesheim 2008.
+                    <lb/><hi rend="bold">Ziegler</hi>, Heinz: Alte Gewichte und Maße im Lande Braunschweig. In: Braunschweiger Jahrbuch 50 (1969), S. 128-163.
+                </p>
+            </div>
+            <div>
+                <head>HÖFISCHE und KULTURGESCHICHTE</head>
+                <p>
+                    <lb/><hi rend="bold">Alltag bei Hofe</hi>. 3. Symposion der Residenzen-Kommission der Akademie der Wissenschaften in Göttingen. Ansbach 28.2. – 1. 3. 1992. Hrsg. von Werner Paravicini. Sigmaringen 1995 (Residenzenforschung, 5).
+                    <lb/><hi rend="bold">Beeck</hi>, Klaus: Adelserziehung auf deutschen Ritterakademien. Die Lüneburger Adelsschulen 1655–1850. Frankfurt a. M. 1977.
+                    <lb/><hi rend="bold">Beetz</hi>, Manfred: Leitlinien und Regeln der Höflichkeit für Konversationen. In: Geselligkeit und Gesellschaft im Barockzeitalter. Hrsg. von Wolfgang Adam. 2 Teilbde., Wiesbaden 1997, S.&#160;563–579.
+                    <lb/><hi rend="bold">Beetz</hi>, Manfred: Anstandsbücher und Kommunikationslehren der Frühmoderne als gesellschaftliche Wegweiser. In: Editionsdesiderate zur Frühen Neuzeit. Beiträge zur Tagung der Kommission für die Edition von Texten der Frühen Neuzeit. Hrsg. von Hans-Gert Roloff, unter red. Mitarb. von Renate Meincke. 2 Bde., Amsterdam, Atlanta/GA 1997 (Chloe, 25) II, S.&#160;729-738. 
+                    <lb/><hi rend="bold">Bepler</hi>, Jill: Inventare lesen. Quellen zu Fürstinnenbibliotheken des 17. Jahrhunderts und ihre Erschließung. In: Repräsentation, Wissen, Öffentlichkeit. Tagungsband zum interdisziplinären Workshop „Bibliotheken zwischen Barock und Aufklärung“. Hrsg. von Claudia Brinker von der Heyde u. Jürgen Wolf. Kassel 2011, S.&#160;9–21.
+                    <lb/><hi rend="bold">Berns</hi>, Jörg Jochen: Die Festkultur der deutschen Höfe zwischen 1580 und 1730. Eine Problemskizze in typologischer Absicht. In: Germanisch-Romanische Monatsschrift, NF 354 (1984), S.&#160;295–311.
+                    <lb/><hi rend="bold">Conrads</hi>, Norbert: Ritterakademien der frühen Neuzeit. Bildung als Standesprivileg im 16. und 17. Jahrhundert. Göttingen 1982.
+                    <lb/>Derer Durchleuchtigsten Fürsten und Herren/ Herren Rudolff Augusts/ Und Anthon Ulrichs/ Gebrüdere/ Hertzoge zu Braunschweig und Lüneburg/ &amp;c. Bey <hi rend="bold">der errichteten Academie in Wolffenbüttel/ Publicirte Verordnung/ Leges/ Statuta und Privilegia</hi>. Wolfenbüttel: Weiß 1688. HAB: <ref target="http://diglib.hab.de/drucke/q-53-2f-helmst/start.htm">Q 53.2° Helmst.</ref>
+                    <lb/><hi rend="bold">Fach</hi>, Wolfgang: Sphären der „Geselligkeit“. In: Comparativ. Leipziger Beiträge zur Universalgeschichte und vergleichenden Gesellschaftsforschung 8 (1998), H. 4, S.&#160;7–14.
+                    <lb/><hi rend="bold">Fink</hi>, August: Die Anfänge der Braunschweiger Museen. In: Braunschweigisches Jahrbuch 37 (1956), S.&#160;152–156.  
+                    <lb/><hi rend="bold">Fink</hi>, August: Geschichte des Herzog-Anton-Ulrich-Museums in Braunschweig. Braunschweig 1954. 
+                    <lb/><hi rend="bold">Der galante Diskurs</hi>. Kommunikationsideal und Epochenschwelle. Hrsg. von Thomas Borgstedt. Dresden 2001.
+                    <lb/><hi rend="bold">Gleixner</hi>, Ulrike: Weltensammlerin. Kultureller Transfer in fürstlichen Privatbibliotheken: Herzogin Antoinette Amalie von Braunschweig-Lüneburg (1696–1762). In: Frauen – Bücher – Höfe. Wissen und Sammeln vor 1800. Women –Books – Courts. Knowledge and Collecting before 1800. Essays in honor of Jill Bepler. Hrsg. von Volker Bauer, Elizabeth Harding, Gerhild Scholz-Williams und Mara R. Wade. Wiesbaden 2018 (Wolfenbütteler Forschungen, 151), S.&#160;79–91. 
+                    <lb/><hi rend="bold">Gleixner</hi>, Ulrike: Unlesbare Schriften. Bestände von Weltensammlern des 18. Jahrhunderts in der Herzog August Bibliothek. In: Präsenz und Evidenz fremder Dinge im Europa des 18. Jahrhunderts. Hrsg. von Birgit Neumann. Göttingen 2015, S.&#160;202–217.
+                    <lb/><hi rend="bold">Gleixner</hi>, Ulrike: Die lesende Fürstin. Büchersammeln als lebenslange Bildungspraxis. In: Vormoderne Bildungsgänge. Selbst- und Fremdbeschreibungen in der Frühen Neuzeit. Hrsg. von Juliane Jacobi, Jean-Luc Le Cam u. Hans-Ulrich Musolff. Köln [u.&#x202f;a.] 2010, S.&#160;207–224.
+                    <lb/><hi rend="bold">Göttert</hi>, Karl-Heinz: Kommunikationsideale. Untersuchungen zur europäischen Konversationstheorie. München 1988.
+                    <lb/><hi rend="bold">Grohn</hi>, Hans Werner: Das Herzog Anton Ulrich Museum. Entstehung und Geschichte. In: Herzog Anton Ulrich Museum Braunschweig. Hrsg. von Rüdiger Klessmann. Mit Beiträgen von H. W. Grohn [u.&#x202f;a.]. München 1978, S.&#160;7–14. 
+                    <lb/><hi rend="bold">Hassel</hi>, August Wilhelm: Erneuertes Gedächtnis der ehemaligen Ritter-Academie zu Wolfenbüttel. Braunschweig 1754. <ref target="http://www.digibib.tu-bs.de/?docid=00027585">ONLINE</ref>
+                    <lb/><hi rend="bold">Herzog Anton Ulrich von Braunschweig</hi>. Leben und Regieren mit der Kunst. Zum 350. Geburtstag am 4. Oktober 1983 [Ausstellung im Herzog Anton Ulrich-Museum 25.8.-30.10.1983]. Hrsg. unter Red. von Rüdiger Klessmann. Braunschweig 1983.
+                    <lb/><hi rend="bold">Höfische Repräsentation</hi>. Das Zeremoniell und die Zeichen. Hrsg. von Hedda Ragotzky und Horst Wenzel. Tübingen 1990.                    
+                    <lb/><hi rend="bold">Kniep</hi>, Jürgen: „Education“ und Habitus: Überlegungen zur Bildung frühneuzeitlicher Adliger am Beispiel der Ritterakademie in Wolfenbüttel. In: Braunschweigisches Jahrbuch f. Landesgeschichte 87 (2006), S.&#160;41–62.
+                    <lb/><hi rend="bold">Das Konzept der Ehre in der Frühen Neuzeit</hi>. Hrsg. v. Sibylle Backmann, Hans-Jörg Künast, B. Ann Tlusty, Sabine Ullmann. Berlin 1997 (Colloquia Augustana, 8).
+                    <lb/><hi rend="bold">Kraft</hi>, Stephan: Geschlossenheit und Offenheit der Römischen Octavia von Herzog Anton Ulrich: „der roman macht ahn die ewigkeit gedencken, den er nimbt kein endt.“ Würzburg 2004.
+                    <lb/><hi rend="bold">Kraft</hi>, Stephan: Höfischer Barockroman und gelehrter Traktat: Gratwanderungen zwischen honnêteté und Pedanterie. In: Zeitsprünge 4 (2000), S.&#160;211–229. 
+                    <lb/><hi rend="bold">Kraft</hi>, Stephan: Verloren im Netzwerk. Überlegungen zur Unlesbarkeit der Römischen Octavia Herzog Anton Ulrichs. In: Zeitschrift f. deutsche Philologie 128 (2009), S.&#160;163–178. 
+                    <lb/><hi rend="bold">Kuhlenkamp</hi>, Alfred: Die Ritterakademie Rudolf-Antoniana in Wolfenbüttel 1687–1715. 2. Aufl. Braunschweig 1977 (Beiträge zur Geschichte der Carolo-Wilhelmina).
+                    <lb/><hi rend="bold">Linke</hi>, Angelika: „Wer sprach warum wie zu einer bestimmten Zeit?“ Überlegungen zur Gretchenfrage der Historischen Soziolinguistik am Beispiel des Kommunikationsmusters „Scherzen“ im 18. Jahrhundert. In: Sociolinguistica. 13 (1999), S.&#160;179–208.
+                    <lb/><hi rend="bold">Luckhardt</hi>, Jochen: Reisen, Diplomatie und Zeremoniell. Französische Porträts für den Braunschweiger Hof. In: Ausstellungskatalog Poussin, Lorrain, Watteau, Fragonard&#x2026;. Französische Meisterwerke des 17. und 18. Jahrhunderts aus deutschen Sammlungen. Paris, München, Bonn 2005, S.&#160;75–81.
+                    <lb/><hi rend="bold">Lünig</hi>, Johann Christian: Theatrum ceremoniale historico-politicum, oder Historisch- und Politischer Schau-Platz Aller Ceremonien. 1. Teil. Leipzig 1719. [<hi rend="italic">S. 705f. u. 1419 zum Empfangszeremoniell am Wolfenbütteler Hof</hi>].
+                    <lb/><hi rend="bold">Marti</hi>, Hanspeter: Naturrecht, Ehrbarkeit und Anstand im Spiegel frühaufklärerischer Hobbeskritik. In: Zum Wandel von Zeremoniell und Gesellschaftsritualen in der Zeit der Aufklärung. Hrsg. von Klaus Gerteis. Hamburg 1992 (Aufklärung, 6,2), S.&#160;69-95.
+                    <lb/><hi rend="bold">Mauser</hi>, Wolfram: Melancholieforschung des 18. Jahrhunderts zwischen Ikonographie und Ideologiekritik. Auseinandersetzung mit den bisherigen Ergebnissen und Thesen zu einem Neuansatz. In: Lessing-Yearbook 13 (1981), S.&#160;253–277.
+                    <lb/><hi rend="bold">Mauser</hi>, Wolfram: Geselligkeit. Zu Chance und Scheitern einer sozialethischen Utopie um 1750. In: Entwicklungsschwellen im 18. Jahrhundert. Hrsg. von Karl Eibl. Hamburg 1989 (Aufklärung, IV. 1), S.&#160;5–36.
+                    <lb/><hi rend="bold">Mauser</hi>, Wolfram: Billigkeit. Zum Konzept der Modernität im 18. Jahrhundert. In: Recherches Germaniques 21 (1991), S.&#160;49–77. 
+                    <lb/><hi rend="bold">Meier</hi>, Paul Jonas: Bernhard Christoph Francken, ein Braunschweiger Bildnismaler im 1. Drittel des XVIII. Jahrhunderts. In: Jahrbuch des Geschichtsvereins für das Herzogtum Braunschweig 14 (1915), S.&#160;100–112.
+                    <lb/><hi rend="bold">Meier</hi>, Paul Jonas: Führer durch das Schloß Blankenburg am Harz und seine Sammlungen. Braunschweig 1921.
+                    <lb/><hi rend="bold">Moser-Rath</hi>, Elfriede: „Lustige Gesellschaft“. Schwank und Witz des 17. und 18. Jahrhunderts in kultur- und sozialgeschichtlichem Kontext. Stuttgart 1984.
+                    <lb/><hi rend="bold">Müller</hi>, Rainer A.: Der Fürstenhof in der frühen Neuzeit. München 1995 (Enzyklopädie dt. Geschichte, 33).
+                    <lb/><hi rend="bold">Ordnung, Politik und Geselligkeit</hi> der Geschlechter im 18. Jahrhundert. Hrsg. von Ulrike Weckel, Claudia Opitz, Brigitte Tolkemitt und Olivia Hochstrasser. Göttingen 1996 (Das achtzehnte Jahrhundert, Supplementa Bd. 6).
+                    <lb/><hi rend="bold">Plotke</hi>, Seraina: Das frühneuzeitliche Hoffest als Ort synmedialer Kommunikation. In: Daphnis 42 (2013), S.&#160;515–539.
+                    <lb/><hi rend="bold">Richter</hi>, Gisela: Anton Ulrichs Ritterakademie in Wolfenbüttel. In: Herzog Anton Ulrich von Braunschweig. Leben und Regieren mit der Kunst. Hrsg. unter Red. von Rüdiger Klessmann. Braunschweig 1983, S.&#160;130–132. 
+                    <lb/><hi rend="bold">Scheffers</hi>, Henning: Höfische Konvention und die Aufklärung. Wandlungen des honnête-homme-Ideals im 17. und 18. Jahrhundert. Bonn 1980.
+                    <lb/><hi rend="bold">Scheffler</hi>, Wolfgang: Goldschmiede Niedersachsens. Daten, Werke, Zeichen. 1. Halbbd.: Aerzen – Hamburg. Berlin 1965.
+                    <lb/><hi rend="bold">Sittig</hi>, Claudius: Loehneysens Plagiate. Die Produktion von Reputation. In: Konzepte von Produktivität im Wandel vom Mittelalter in die Frühe Neuzeit. Hrsg. von Corinna Laude u. Gilbert Heß. Berlin 2008, S.&#160;347–371.
+                    <lb/><hi rend="bold">Smart</hi>, Sara: Doppelte Freude der Musen. Court Festivities in Brunswick-Wolfenbüttel 1642–1700. Wiesbaden 1989 (Wolfenbütteler Arbeiten zur Barockforschung, 19).
+                    <lb/><hi rend="bold">Stauffer</hi>, Isabelle: Verführung zur Galanterie: Benehmen, Körperlichkeit und Gefühlsinszenierungen im literarischen Kulturtransfer 1664–1772. Wiesbaden 2018 (Wolfenbütteler Forschungen, 152).
+                    <lb/><hi rend="bold">Strosetzki</hi>, Christoph: Konversation. Ein Kapitel gesellschaftlicher und literarischer Pragmatik im Frankreich des 17. Jahrhunderts. Frankfurt a. M. [u.&#x202f;a.] 1978.
+                    <lb/><hi rend="bold">Vollhardt</hi>, Friedrich: Selbstliebe und Geselligkeit. Untersuchungen zum Verhältnis von naturrechtlichem Denken und moraldidaktischer Literatur im 17. und 18. Jahrhundert. Tübingen 2001.
+                    <lb/><hi rend="bold">Vollständiges Braunschweig-Lüneburgisches Münz- und Medaillen-Cabinet.</hi>Helmstedt 1747.
+                    <lb/><hi rend="bold">Wenzel</hi>, Michael, unter Mitarb. von Bärbel Matthey: Die Gemälde der Herzog August Bibliothek. Bestandskatalog. Wiesbaden 2012 (Wolfenbütteler Forschungen, 133). [<hi rend="italic">S. 314: Zum Porträt Ludwig Rudolfs von Largillière</hi>].
+                    <lb/><hi rend="bold">Winterling</hi>, Aloys: Die frühneuzeitlichen Höfe in Deutschland. Zur Lage der Forschung. In: Internationales Archiv für die Sozialgeschichte der Literatur 21 (1996), S.&#160;181–189.                    
+                    <lb/><hi rend="bold">Wolff</hi>, Heinz: Die Geschichte der Bastionärsbefestigung Braunschweigs. 1935 (Repr. Braunschweig 2002).                    
+                    <lb/><hi rend="bold">Wuth</hi>, Henning: Till, Niemand und der Hof. Zur paradoxen Auflösung von Repräsentation in der frühen Neuzeit, In: Zeitschrift für deutsche Philologie 116 (1997), S.&#160;101–107.
+                    <lb/>Zur Erinnerung an die <hi rend="bold">Ritterakademie Wolfenbüttel 1687–1713</hi> [Ausstellung zum Barockjahr 2006 im Venussaal des Schlosses Wolfenbüttel, 12.5.-18.6.2006]. Wolfenbüttel 2006.
+                </p>
+            </div>
+            <div>
+                <head>THEATER- und MUSIKGESCHICHTE</head>
+                <p>
+                    <lb/><hi rend="bold">Arnold</hi>, Martina: Die Theaterzettelsammlung der Herzog August Bibliothek in Wolfenbüttel. Beitrag zum Kolloquiumsband [nicht erschienen] der DFG-Tagung „Vom Einblatt zum Programmheft – Theaterzettel“, Germanist. Seminar II, Heinrich-Heine-Uni Düsseldorf, 26.-27. 4. 2007. [<hi rend="italic">Typoskript in der HAB. Zur Theaterzettel-Sammlung der HAB, die mehrere Tausend Blätter umfasst, alphabetisch nach Aufführungsorten (Braunschweig: 612 Bll., Wolfenbüttel 1560 Bll.) geordnet ist und deren Schwerpunkt im 19. Jahrhundert liegt, s. auch <ref target="http://www.hab.de/de/home/bibliothek/bestaende/sondersammlungen/theaterzettel.html">HIER</ref></hi>].
+                    <lb/><hi rend="bold">Asper</hi>, Helmut G.: Spieltexte der Wanderbühne. Ein Verzeichnis der Dramenmanuskripte des 17. und 18. Jahrhunderts in Wiener Bibliotheken. Wien 1975.
+                    <lb/><hi rend="bold">Braunschweiger Theaterzettel 1711 bis 1911</hi>. Ausgew. u. erl. von Rolf Eisinger. Braunschweig 1990.
+                    <lb/><hi rend="bold">Brockpähler</hi>, Renate: Handbuch zur Geschichte der Barockoper in Deutschland. Emsdetten/ Westfalen 1964.
+                    <lb/><hi rend="bold">Daniel</hi>, Ute: Hoftheater. Zur Geschichte des Theaters und der Höfe im 18. und 19. Jahrhundert. Stuttgart 1995.
+                    <lb/><hi rend="bold">Dommer</hi>, A. von: Die deutsche Oper in Hamburg zu Ende des 17. und Anfang des 18. Jahrhunderts. O. O. 1960 (Typoskript, 25 S., SUB Hamburg).
+                    <lb/><hi rend="bold">300 Jahre Theater in Braunschweig 1690–1990.</hi> Katalog zur Ausstellung. In Zusammenarbeit mit den beteiligten Museen hrsg. von der Stadt Braunschweig. Braunschweig 1990.                    
+                    <lb/><hi rend="bold">Eisinger</hi>, Rolf: Das Hagenmarkt-Theater in Braunschweig (1690–1861). Braunschweig, Hildesheim 1990 (Braunschweiger Werkstücke, Reihe A, Bd. 29).
+                    <lb/><hi rend="bold">Frolowitz</hi>, Martin: Sebastian di Scio detto Arlecchino. Zur Personalunion von Arzt und komischer Maske im 17. und 18. Jahrhundert. In: Theaterkunst &amp; Heilkunst. Studien zu Theater und Anthropologie. Hrsg. von Gerda Baumbach unter Mitarb. von Martina Hädge. Köln, Weimar, Wien 2002, S.&#160;97–128.
+                    <lb/><hi rend="bold">Glaser</hi>, Adolf: Geschichte des Theaters zu Braunschweig. Eine kunstgeschichtliche Skizze. 1861.
+                    <lb/><hi rend="bold">Gottsched</hi>, Johann Christoph: Nöthiger Vorrath zur Geschichte der Deutschen Dramatischen Dichtkunst. Tl. 1 u. 2. Anhang von Gottfried Christian Freiesleben. Leipzig 1757 u. 1765, Ndr. Hildesheim, New York 1970.
+                    <lb/><hi rend="bold">Grote</hi>, Hans-Henning: Das Gartentheater im Schlossgarten zu Salzdahlum. In: Heimatbuch &#x2026; Landkreis Wolfenbüttel 58 (2012), S.&#160;53–56.
+                    <lb/><hi rend="bold">Grote</hi>, Hans-Henning: Schloss Wolfenbüttel. Residenz der Herzöge zu Braunschweig und Lüneburg. Hrsg. vom Förderverein Museum im Schloss. Fotos: Jutta Brüdern. Braunschweig 2008.
+                    <lb/><hi rend="bold">Gstach</hi>, Ruth: Die Liebes Verzweiffelung des Laurentius von Schnüffis. Eine bisher unbekannte Tragikomödie der frühen Wanderbühne. Mit einem Verzeichnis der erhaltenen Spieltexte. Berlin, Boston 2017. [Der Katalog der Stücke S.&#160;388-715.]
+                    <lb/><hi rend="bold">Hansen</hi>, Günther: Formen der Commedia dell’Arte in Deutschland. Hrsg. von Helmut G. Asper. Emsdetten 1984.
+                    <lb/><hi rend="bold">Hartmann</hi>, Fritz: Sechs Bücher braunschweigischer Theater-Geschichte. Wolfenbüttel 1905. <ref target="http://www.digibib.tu-bs.de/?docid=00023768">DIGITALISAT</ref> 
+                    <lb/><hi rend="bold">Kelsch</hi>, Wolfgang: Wolfenbüttel 1592–1992. Vierhundert Jahre Theater in einer fürstlichen Residenz. Wolfenbüttel 1992.
+                    <lb/><hi rend="bold">Kindler</hi>, Klaus: Findbuch zum Bestand Musikalien des herzoglichen Theaters in Braunschweig 18.–19. Jahrhundert. Veröffentlichungen der Niedersächs. Archivverwaltung. Wolfenbüttel 1990 (Inventare und kleinere Schriften des Staatsarchivs Wolfenbüttel, Heft 5). 
+                    <lb/><hi rend="bold">Kopp</hi>, Heinrich: Die Bühnenleitung August Klingemanns in Braunschweig. Mit einem Anhang: Die Repertoire des Braunschweigischen Nationaltheaters. 1901.
+                    <lb/><hi rend="bold">Korte</hi>, Hermann: Theaterzettel. Eine (noch kaum) wiederentdeckte Quelle der Theatergeschichte. In: Medien der Theatergeschichte des 18. und 19. Jahrhunderts. Hrsg. von Hermann Korte u.&#x202f;a. Heidelberg 2015, S.&#160;93–126.
+                    <lb/><hi rend="bold">Kröll</hi>, Karin: "Theatrum Mundi" versus Mundus Theatri. Untersuchungen zur Geschichte der Jahrmarktskunst in der frühen Neuzeit. Kopenhagen [1989].
+                    <lb/><hi rend="bold">Müller</hi>, Hermann Friedrich: Herzog Ludwig Rudolf und das Blankenburger Theater. In: Zeitschrift des Harz-Vereins für Geschichte und Altertumskunde 39 (1896), S.&#160;498–519. 
+                    <lb/><hi rend="bold">Musik. Alte Drucke bis etwa 1750.</hi> Beschrieben von Wolfgang Schmieder. Mitarb. von Gisela Hartwieg. 2 Bde. (Text-, Registerbd.), Frankfurt a. M. 1967 (Kataloge der Herzog August Bibliothek, Neue Reihe XII).
+                    <lb/><hi rend="bold">Musikalischer Lustgarten.</hi> Kostbare Zeugnisse der Musikgeschichte. Hrsg. von Ulrich Konrad, Adalbert Roth, Martin Staehelin. Wolfenbüttel 1985 (Ausstellungskataloge der Herzog August Bibliothek, 47)
+                    <lb/><hi rend="bold">Pegah</hi>, Rashid Sascha: Und abends war ‚opera‘. Tagebuchnotizen aus dem Jahre 1707. In: Wolfenbütteler Notizen zur Buchgeschichte 23.2 (1998), S.&#160;182–190.
+                    <lb/><hi rend="bold">Theater-Zettel-Sammlungen</hi>. Hrsg. von Matthias J. Pernerstorfer. 2 Bde., Wien 2012 und 2015.
+                    <lb/><hi rend="bold">Pernerstorfer</hi>, Matthias J.: Zur Dokumentation, Erschließung, und Digitalisierung von Theaterzetteln. In: Medien der Theatergeschichte des 18. und 19. Jahrhunderts. Hrsg. von Hermann Korte u.&#x202f;a. Heidelberg 2015, S.&#160;127–134.
+                    <lb/><hi rend="bold">Rudin</hi>, Bärbel: Der Blankenburger Herzog Ludwig Rudolph und die „Mecklenburgischen Hofcomoedianten“, oder: Die Katholiken kommen! In: Daphnis 24.2/3 (1995), S.&#160;329–375.
+                    <lb/><hi rend="bold">Rudin</hi>, Bärbel: Das fürstlich Eggenbergische Hoftheater in Böhmisch Krumau (1676–1691): zur ästhetischen Allianz zwischen Wanderbühne und Hofkultur. In: Daphnis 25 (1996), S.&#160;467–488.
+                    <lb/><hi rend="bold">Rudin</hi>, Bärbel: Venedig im Norden oder: Harlekin und die Buffonisten: „Die Hochfürstl. Braunschw. Lüneb. Wolffenbüttelschen Teutschen Hof-Acteurs“ (1727–1732). Reichenbach im Vogtland 2000.
+                    <lb/><hi rend="bold">Rudin</hi>, Bärbel: Von Alexanders Mord-Banquet bis zur Kindheit Mosis. Eine unbekannte Kollektion von Theaterzetteln der Wanderbühne. In: Daphnis 35 (2006), S.&#160;193–261.
+                    <lb/><hi rend="bold">Rudin</hi>, Bärbel: Die Textbibliothek der eggenbergischen Hofkomödianten in Český Krumlov/ Böhmisch Krumau (1676-1691). Eine kulturgeographische Zeitreise. In: Sammeln, Lesen, Übersetzen als höfische Praxis der Frühen Neuzeit. Die böhmische Bibliothek der Fürsten Eggenberg im Kontext der Fürsten- und Fürstinnenbibliotheken der Zeit. Hrsg. von Jill Bepler. Wiesbaden 2010 (Wolfenbütteler Forschungen, 126), S.&#160;73–106.
+                    <lb/><hi rend="bold">Rudin</hi>, Bärbel und Peter <hi rend="bold">Brand</hi>: Der englische Komödiant Robert Browne (1563–ca. 1621). Zur Etablierung des Berufstheaters auf dem Kontinent. In: Daphnis 39 (2010), S.&#160;1–134.
+                    <lb/><hi rend="bold">Rudin</hi>, Bärbel: Komödien um maskierte, verwechselte, verlorene Identitäten. Amsterdamer Zugstücke des Goldenen Zeitalters auf der deutschen Berufsbühne. In: Wolfenbütteler Barock-Nachrichten 40 (2013), S.&#160;143–165.
+                    <lb/><hi rend="bold">Rudin</hi>, Bärbel: „Zwei Mal in der Wochen Komödie“. Das erste deutsche Hoftheater in Heidelberg. Zur ortsfesten Subventionierung professioneller Schauspielkunst seit 1656. In: Daphnis 46 (2018), S.&#160;467–503.
+                    <lb/><hi rend="bold">Schaal</hi>, Richard: Die vor 1801 gedruckten Theaterlibretti des Theatermuseums München. In: Die Musikforschung 10 (1957), S.&#160;388–396 u. 487–497; 11 (1958), S.&#160;54–69,168–177, 321–336 u. 462–477; 12 (1959), S.&#160;60–75, 161–177, 299–306 u. 454–461; 13 (1960), S.&#160;38–46, 164–172, 299–306 u. 441–448; 14 (1961), S.&#160;36–43 u. 166–183. 
+                    <lb/><hi rend="bold">Schmidt</hi>, Gustav Friedrich: Die frühdeutsche Oper und die musikdramatische Kunst Georg Caspar Schürmanns. 2 Bde., Regensburg 1933 und 1934. 
+                    <lb/><hi rend="bold">Schmidt</hi>, Gustav Friedrich: Neue Beiträge zur Geschichte der Musik und des Theaters am Herzoglichen Hofe zu Braunschweig-Wolfenbüttel. Folge 1: Chronologisches Verzeichnis der in Wolfenbüttel, Braunschweig, Salzthal, Bevern und Blankenburg aufgeführten Opern, Ballette und Schauspiele (Komödien) mit Musik bis zur Mitte des 18. Jahrhunderts. München 1920.
+                    <lb/><hi rend="bold">Schüddekopf</hi>, Carl: Caroline Neuber in Braunschweig. In: Jahrbuch des Geschichtsvereins für das Herzogtum Braunschweig 1 (1902), S.&#160;115–148. 
+                    <lb/><hi rend="bold">Smart</hi>, Sara: Friedrich Christian Bressand (ca. 1670-1699). In: Barocke Sammellust. Die Bibliothek und Kunstkammer des Herzogs Ferdinand Albrecht von Braunschweig und Lüneburg (1636-1687). Kat. und Ausst. von Jill Bepler. Weinheim 1988, S.&#160;135-139.
+                    <lb/><hi rend="bold">Theaterzettel-Sammlung, Braunschweig 1710–1772.</hi> Stadtarchiv Braunschweig: H X A Nr. 1 [<hi rend="italic">Schwerpunkt ab 1739</hi>].
+                    <lb/><hi rend="bold">Thiel</hi>, Eberhard und Gisela Rohr: Libretti. Verzeichnis der bis 1800 erschienenen Textbücher. Frankfurt a. M. 1970 (Kataloge der Herzog August Bibliothek, 14).
+                    <lb/><hi rend="bold">Tiggeler</hi>, Steffen: Musik und Theater. In: Die Braunschweigische Landesgeschichte. Jahrtausendrückblick einer Region. Hrsg. von Horst-Rüdiger Jarck und Gerhard Schildt. Braunschweig 2000, S.&#160;629–650.
+                    <lb/><hi rend="bold">verklingend und ewig.</hi> Tausend Jahre Musikgedächtnis 800 – 1800. Hrsg. von Susanne Rode-Breymann und Sven Limbeck. Wiesbaden 2011 (Ausstellungskataloge der Herzog August Bibliothek, 94).
+                    <lb/><hi rend="bold">Vom herzoglichen Hoftheater zum bürgerlichen Tourneetheater.</hi> [Ausstellung des Schloßmuseums Wolfenbüttel, 24.10.1992-10.1.1993]. Hrsg. unter Red. von Hans-Henning Grote. Wolfenbüttel 1992.
+                    <lb/><hi rend="bold">Wallbrecht</hi>, Rosenmarie Elisabeth: Das Theater des Barockzeitalters an den welfischen Höfen Hannover und Celle. Hildesheim 1974.
+                    <lb/><hi rend="bold">Walther</hi>, Johann Gottfried: Musicalisches Lexikon oder Musicalische Bibliothek. (1732). Faks.-Ndr. hrsg. von Richard Schaal. Kassel und Basel 1953.
+                    <lb/><hi rend="bold">Zielske</hi>, Harald: Die deutschen Höfe und das Wandertruppenwesen im 17. und frühen 18. Jahrhundert. In: Europäische Hofkultur im 16. und 17. Jahrhundert. Hrsg. von August Buck, Georg Kauffmann, Blake Lee Spahr und Conrad Wiedemann. Bd. 3. Hamburg 1981 (Wolfenbütteler Arbeiten zur Barockforschung, 10), S.&#160;521–532.
+                    <lb/><hi rend="bold">Zimmermann</hi>, Paul: Herzog Ferdinand Albrechts I. zu Braunschweig und Lüneburg theatralische Aufführungen im Schlosse zu Bevern. In: Jahrbuch des Geschichtsvereins für das Herzogtum Braunschweig 3 (1904), S.&#160;111–156.
+                </p>                
+            </div>
+            <div>
+                <head>SELBSTZEUGNISFORSCHUNG</head>
+                <p>
+                    <lb/><hi rend="bold">Burschel</hi>, Peter: „J’avais le plaisir de me voir camparèe à tous les astres“. Gelebte Räume in den Memoiren der Kurfürstin Sophie von Hannover. In: Selbstzeugnis und Person (2012), S.&#160;335–347. 
+                    <lb/><hi rend="bold">Clementi</hi>, Siglinde: Körper, Selbst und Melancholie. Die Selbstzeugnisse des Landadeligen Osvaldo Ercole Trapp (1634–1710). Köln, Weimar, Wien 2017.
+                    <lb/><hi rend="bold">Croy</hi>, Emmanuel de: Nie war es herrlicher zu leben. Das geheime Tagebuch des Herzogs von Croy 1718–1784.  Übers. und hrsg. von Hans Pleschinski. 2. Aufl. München 2011. 
+                    <lb/><hi rend="bold">Das dargestellte Ich.</hi> Studien zu Selbstzeugnissen des späteren Mittelalters und der frühen Neuzeit. Hrsg. von Klaus Arnold, Sabine Schmolinsky und Urs Martin Zahnd. Bochum 1999.
+                    <lb/><hi rend="bold">Dekker</hi>, Rudolf: Egodocuments and History. Autobiographical Writing in its social Context since the Middle Ages. Hilversum 2002.
+                    <lb/><hi rend="bold">Dekker</hi>, Rudolf: Ego-Dokumente in den Niederlanden vom 16. bis zum 17. Jahrhundert. In: Ego-Dokumente (1996), S.&#160;33–57.
+                    <lb/><hi rend="bold">Dekker</hi>, Rudolf: Family, culture and society in the diary of Constantijn Huygens Jr., secretary to Stadholder-King William of Orange. Leiden 2013.
+                    <lb/><hi rend="bold">The diary of Constantijn Huygens Jr., secretary to stadholder-king William of Orange.</hi> Selected and translated by Rudolf Dekker. Textband und DVD. Amsterdam 2015.
+                    <lb/><hi rend="bold">Dürr</hi>, Renate: Funktionen des Schreibens: Autobiographien und Selbstzeugnisse als Zeugnisse der Kommunikation und Selbstvergewisserung. In: Kommunikation und Transfer im Christentum der Frühen Neuzeit. Hrsg. von Irene Dingel. Mainz 2007, S.&#160;17–31.
+                    <lb/><hi rend="bold">Ego-Dokumente</hi>. Annäherung an den Menschen in der Geschichte. Hrsg. von Winfried Schulze. Berlin 1996.
+                    <lb/><hi rend="bold">Fashioning the self</hi> in transcultural settings. The uses and significance of dress in self-narratives. Hrsg. von Claudia Ulbrich und Richard Wittmann. Würzburg 2015.
+                    <lb/><hi rend="bold">Frauenstimmen, Frauenrollen in der Oper und Frauen-Selbstzeugnisse.</hi> Hrsg. von Gabriele Busch-Salmen und Eva Rieger. Herbolzheim 2000.
+                    <lb/><hi rend="bold">Gerhalter</hi>, Li: Selbstzeugnisse sammeln. Eigensinnige Logiken und vielschichtige Interessenslagen. In: Logiken der Sammlung. Das Archiv zwischen Strategie und Eigendynamik. Hrsg. von Petra-Maria Dallinger und Georg Hofer, unter Mitarbeit von Stefan Maurer. Berlin, Boston 2020 (Literatur und Archiv, 4), S.&#160;51–70. <ref target="https://www.degruyter.com/view/book/9783110696479/10.1515/9783110696479-005.xml">ONLINE</ref>
+                    <lb/><hi rend="bold">Gleixner</hi>, Ulrike: Eine wachsende weibliche Leserschaft in der Frühen Neuzeit. Selbstzeugnisse als Quelle von Lesepraktiken. In: Erziehungsgeschichte(n): Kindheiten Selbstzeugnisse Reflexionen. Hrsg. von Klemens Ketelhut. Köln, Weimar, Wien 2014, S.&#160;87–102.                    
+                    <lb/><hi rend="bold">Jacobsen</hi>, Roswitha: Fürstentagebücher als Quellengattung, ihre Edition und Erforschung. In: Friedrich I. von Sachsen-Gotha und Altenburg. Die Tagebücher 1667–1686, Bd. 1, Tagebücher 1667–1677. Hrsg. von Jens Wandel. Weimar 1998, S.&#160;11–14.
+                    <lb/><hi rend="bold">Jancke</hi>, Gabriele: Autobiographie als soziale Praxis. Beziehungskonzepte in Selbstzeugnissen des 15. und 16. Jahrhunderts im deutschsprachigen Raum. Köln [u.&#x202f;a.] 2002.                    
+                    <lb/><hi rend="bold">Kormann</hi>, Eva: Ich, Welt und Gott. Autobiographik im 17. Jahrhundert. Köln, Weimar, Wien 2004.
+                    <lb/><hi rend="bold">Krusenstjern</hi>, Benigna von:  Was sind Selbstzeugnisse? Begriffskritische und quellenkundliche Überlegungen anhand von Beispielen aus dem 17. Jahrhundert. In: Historische Anthropologie 2 (1994), S.&#160;462–471.
+                    <lb/><hi rend="bold">Kühner</hi>, Christian: „Je parlerai moi-même de moi“. Französische Adelsmemoiren des 17. Jahrhunderts als Selbstzeugnisse. In: Francia. Hrsg. vom Deutschen Historischen Institut Paris, 41 (2014), S.&#160;129–151.
+                    <lb/><hi rend="bold">Lejeune</hi>, Philippe: „Liebes Tagebuch“. Zur Theorie und Praxis des Journals. München 2014.
+                    <lb/><hi rend="bold">Mapping the ‘I’.</hi> Research on self-narratives in Germany and Switzerland. Hrsg. von Claudia Ulbrich, Kaspar von Greyerz, Lorenz Heiligensetzer. Leiden [u.&#x202f;a.] 2015.
+                    <lb/><hi rend="bold">Meise</hi>, Helga: Das archivierte Ich. Schreibkalender und höfische Repräsentation in Hessen-Darmstadt 1624–1790. Darmstadt 2002.
+                    <lb/><hi rend="bold">Misch</hi>, Georg: Geschichte der Autobiographie. Bd. 4. 2: Von der Renaissance bis zu den autobiographischen Hauptwerken des 18. und 19. Jahrhunderts. Frankfurt a. M. 1969.
+                    <lb/><hi rend="bold">Piller</hi>, Gudrun: Private Körper. Spuren des Leibes in Selbstzeugnissen des 18. Jahrhunderts. Köln 2007.
+                    <lb/><hi rend="bold">Pongratz</hi>, Stefan: Adel und Alltag am Münchener Hof. Die Schreibkalender des Johann Maximilian IV. Emanuel von Preysing-Hohenaschau (1687–1764). Kallmünz/ Opf. 2013.
+                    <lb/><hi rend="bold">Räume des Selbst.</hi> Selbstzeugnisforschung transkulturell. Hrsg. von Andreas Bähr, Peter Burschel und Gabriele Jancke. Köln 2007.
+                    <lb/><hi rend="bold">Ralle</hi>, Inga Hanna: Ich – Hier – Jetzt. Muster und Merkmale des Tagebuches, in: Jahrbuch für Internationale Germanistik 49.1 (2017), S.&#160;97–111.
+                    <lb/><hi rend="bold">Ralle</hi>, Inga Hanna: Selbstzeugnisse digital: Erschließung, Präsentation und Benutzbarkeit. In: Zeitschrift für digitale Geisteswissenschaften, Sonderbände, 2 (2018), Art. 5. <ref target="http://www.zfdg.de/sb002_005">ONLINE</ref>
+                    <lb/><hi rend="bold">Reimann</hi>, Christoph: Die Tagebücher des Grafen Casimir zu Sayn-Wittgenstein-Berleburg (1687–1741) als Selbstzeugnis eines pietistischen Landesherrn. Kassel 2019.
+                    <lb/><hi rend="bold">Reiseberichte als Quellen europäischer Kulturgeschichte.</hi> Aufgaben und Möglichkeiten der historischen Reiseforschung. Hrsg. von Antoni Maczak und Hans Jürgen Teuteberg. Wolfenbüttel 1982 (Wolfenbütteler Forschungen, 21).
+                    <lb/><hi rend="bold">Reiseberichte der Frühen Neuzeit.</hi> Wirtschafts- und kulturhistorische Quellen. Hrsg. von Stephan Füssel. München 1987.
+                    <lb/>„Mein Herr befindet sich gottlob gesund und wohl“. <hi rend="bold">Sächsische Prinzen auf Reisen</hi>. Hrsg. von Katrin Keller. Leipzig 1994.
+                    <lb/><hi rend="bold">Schmid</hi>, Barbara: Schreiben für Status und Herrschaft. Deutsche Autobiographik in Spätmittelalter und früher Neuzeit. Zürich 2006.
+                    <lb/><hi rend="bold">Schwerpunkt: Selbstzeugnisse.</hi> Hrsg. von Peter Burschel, Christoph Cornelißen und Michael Sauer. Seelze 2018 (Geschichte in Wissenschaft und Unterricht 69 [2018], H. 5/6).
+                    <lb/><hi rend="bold">Seitschek</hi>, Stefan: Die Tagebücher Kaiser Karls VI. Zwischen Arbeitseifer und Melancholie. Horn 2018.
+                    <lb/><hi rend="bold">Selbstzeugnis und Person</hi>. Transkulturelle Perspektiven. Hrsg. von Claudia Ulbrich, Hans Medick und Angelika Schaser. Köln, Weimar, Wien 2012.
+                    <lb/><hi rend="bold">Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek.</hi> Digitale Edition des Diariums von Herzog August d. J. Hrsg. von Inga Hanna Ralle unter Mitw. von David Maus und Jaqueline Krone. Wolfenbüttel 2014–2017. <ref target="http://diglib.hab.de/edoc/ed000225/startx.htm">ONLINE</ref>
+                    <lb/><hi rend="bold">Selbstzeugnisse in der Frühen Neuzeit</hi>. Individualisierungsweisen in interdisziplinärer Perspektive. Hrsg. von Kaspar von Greyerz. München 2007.
+                    <lb/><hi rend="bold">Von der dargestellten Person zum erinnerten Ich.</hi> Europäische Selbstzeugnisse als historische Quellen (1500–1850). Hrsg. von Kaspar von Greyerz, Hans Medick und Patrice Veit. Köln, Weimar, Wien 2001.
+                </p>                
+            </div>
+            </div>              
+        </body>
+    </text>
+</TEI>

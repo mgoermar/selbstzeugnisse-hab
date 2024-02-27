@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="sz2.introduction_cod_guelf_286a_blank" n="Einleitung">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 286a Blank.</title>
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Miriam</forename>
+                        <surname>Mulzer</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>auf Grundlage von Vorarbeiten von</resp>
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Herz</surname>                        
+                    </persName>
+                    <persName>
+                        <forename>Alexander</forename>
+                        <surname>Zirr</surname>                        
+                    </persName>                    
+                </respStmt>                
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Niedersächsisches Ministerium für Wissenschaft und Kultur</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2020">2020</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 286a Blank.: Tagebuch Herzog Ludwig Rudolphs von Braunschweig-Wolfenbüttel, 1707</head>
+                <p>
+                    <hi rend="smaller"><lb/>Vorsatzblatt recto: „L’An. 1707. Jn allen meinen tahten, laß ich den Höchsten rahten. Wolffenb. d. 1. Jan. 1707.“
+                    <lb/>360 S., eigenh. Brauner Lederband auf Pappe, Goldkanten. Vgl. <ref target="https://diglib.hab.de/?db=mss&amp;list=ms&amp;id=286a-blank&amp;catalog=Butzmann">Hans Butzmann: Die Blankenburger Handschriften. Frankfurt a. M. 1966 (Kataloge der Herzog August Bibliothek, Neue Reihe Bd. 11), S. 265.</ref>
+                    <lb/>Links: <ref target="http://diglib.hab.de/mss/286a-blank/start.htm">Digitalisat</ref>, <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank">edierter Text</ref>, <ref target="http://selbstzeugnisse.hab.de/repertorium/eintrag/286-a-blank">Selbstzeugnisrepertorium</ref></hi>
+                </p>
+                <p>
+                    <lb/>Dieses Selbstzeugnis beinhaltet, beginnend mit dem <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#1707-01-01_1">1. Januar 1707</ref>, allerlei nach Themen und innerhalb derselben chronologisch geordnete Notizen Ludwig Rudolphs aus dem Jahre 1707. In diesem Jahr hielt sich der Herzog vorrangig in Wolfenbüttel auf, abgesehen von kleineren Reisen nach Braunschweig, Salzdahlum und Blankenburg. Den Karneval verbrachte er bei der welfischen Verwandtschaft in Hannover. Außerdem geleitete er seine Tochter Elisabeth Christine, die für ihre geplante Verehelichung mit dem späteren Karl VI. nach Wien aufbrach, im <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#1707-04-19_180">April 1707</ref> bis Seesum. Durch die thematische Gliederung des Tagebuchs treten mitunter zwischen den einzelnen Einträgen große zeitliche Sprünge auf, die dieses Selbstzeugnis zwar zu einem nach Tagesdaten geordneten, aber nicht zu einem als durchgehendes Journal gestalteten autobiographischen Zeugnis machen. Über die Schnellauswahl nach Datum lassen sich jedoch parallele Einträge in den verschiedenen thematischen Blöcken auffinden.
+                </p>
+                <p>
+                    <lb/>Das Tagebuch umfasst 360, davon 188 beschriebene Seiten, und ist von Ludwig Rudolphs eigener Hand verfasst. Insgesamt sind die chronologischen Einträge auf 21 thematische Abschnitte aufgeteilt. Bei den gewählten Rubriken handelt es sich um Geistliche Verrichtungen (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#1">S. 1-12</ref>), Hochzeiten (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#13">13-14</ref>), Kindstaufen (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#21">21-22</ref>), Begräbnisse (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#27">27-30</ref>), Feste/Messen/Festivitäten (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#33">33-93</ref>), Fremde Besucher (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#95">95-110</ref>), Krankheiten, Todesfälle und Geburten (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#111">111-117</ref>), Militärsachen (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#119">119-121</ref>), Staatssachen (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#135">135-140</ref>), Veränderungen am Hof und im Militär (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#159">159-161</ref>), Reisen (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#173">173-182</ref>, <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#340">340-343</ref>, <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#346">346-348</ref>), Geschenke (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#183">183-191</ref>), Einkünfte und Ausgaben (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#221">221-223</ref>), Forstsachen (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#267">267</ref>), Visiten (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#281">281-298</ref>), Jagden (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#301">301-302</ref>), Varia (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#307">307-310</ref>), Kompturei Supplingenburg (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#311">311-314</ref>) und Briefe (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#315">315-321</ref>). Angelegt aber ohne Eintragungen sind die Rubriken Bons Mots (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#203">203</ref>) und Gartensachen (<ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#253">253</ref>). Mehr Platz als antizipiert erforderten die Aufzeichnungen zu Reisen, die sich in mehreren am Ende befindlichen Anhängen fortsetzen. Zwischen den einzelnen Abschnitten befinden sich oft mehrere leere Seiten. Am Ende der Handschrift steht ein von Ludwig Rudolph angelegter <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#00362(l*r)">Index</ref>. Inhaltlich finden sich die aufgeführten Kategorien bereits in Ludwig Rudolphs Tagebuch von 1701, das jedoch noch weniger stark nach einzelnen Rubriken aufgegliedert war. Der berichtend-protokollarische Charakter der Aufzeichnungen vermeidet subjektive Urteile, Anschauungen, Emotionen und kommt einem formalisierten Hof-Tagebuch oder einem höfischen Jahresprotokoll recht nahe.
+                </p>
+                <p>
+                    <lb/>Die Handschrift ist in deutscher Kurrentschrift der Zeit, teilweise flüchtig und ohne viel Sorgfalt niedergeschrieben und war daher stellenweise schwer lesbar. Stellen, bei denen die Lesung unsicher blieb, wurden entsprechend gekennzeichnet. Allgemein lässt sich keine Konstantschreibung (z. B. Cuhrfürst / Churfürst, Gandersheim / Gandersheimb) feststellen, vor allem hinsichtlich der Groß- und Kleinschreibung der Substantive. Aber es zeigt sich eine erkennbare grammatische Regulierung der Schreibweise, auch wenn gelegentlich Verstöße gegen bereits damals kodifizierte korrekte Kasusendungen oder Artikel- und Pronomenansetzung begegnen (z. B. <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#38">S. 38</ref>: „wurde […] in herrn Vatters kleinß Hauß […]“; „bey etliche geheimbte rähte“). Wortbildungen wie „Vorßneider“ (Vorschneider, <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank#39">S. 39</ref>) mögen niederdeutsche Spracheinflüsse widerspiegeln. Zuweilen ist nicht auszumachen, ob ein Schaft-s oder ein „ß“ intendiert war. Auffällig ist der häufige Gebrauch von Semikola und Punkten, wo Kommata oder Doppelpunkte zu erwarten wären. In manchen Fällen, in denen gesetzte Punkte den Satzzusammenhang völlig unkenntlich machen und ein Verstehen be- oder gar verhindern, wurden sie fortgelassen, markiert durch [ ]. Fehlende Satzschlusszeichen sowie eindeutig fehlende Kommata (z.B. bei Aufzählungen) werden in eckigen Klammern ergänzt, als Binnenzeichen erscheinende Semikola, Punkte oder gar Ausrufezeichen hingegen (stillschweigend) als einfache Kommata wiedergegeben, selbst wenn sie an Stellen gesetzt werden, an denen es nach heutigem Gebrauch falsch wäre. Auffällig ist auch eine Silbentrennung, die zuweilen weder der Wortmorphologie noch den natürlichen Sprechsilben folgt.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

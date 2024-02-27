@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lektürenotizen (1701, 1707)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+          <address>
+            <street>Lessingplatz 1</street>
+            <name type="city">Wolfenbüttel</name>
+            <postCode>D-38299</postCode>
+            <name type="country">Germany</name>
+          </address>
+        </publisher>
+        <date when="2021-09-09">2021</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="witness_0">Herzog August Bibliothek Wolfenbüttel, Cod. Guelf. 28 Blank., Cod. Guelf. 286a Blank.</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="transcription">
+        <head>ohne Kategorie</head>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf0"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf1"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf2"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf3"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf4"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf5"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf6"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf7"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf8"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf9"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf10"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf11"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf12"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf13"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf14"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf15"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf16"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf17"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf18"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf19"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf20"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf21"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf22"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf23"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf24"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf25"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf26"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf27"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf28"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf29"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf30"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf31"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf32"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf33"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf34"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf35"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf36"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf37"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf38"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf39"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf40"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf41"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf42"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf43"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf44"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf45"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf46"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf47"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf48"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf49"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf50"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf51"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf52"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf53"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf54"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf55"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf56"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf57"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf58"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf59"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf60"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf61"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf62"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf63"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf64"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf65"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf66"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf67"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf68"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf69"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf70"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf71"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf72"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf73"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf74"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf75"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf76"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf77"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf78"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf79"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf80"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf81"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf82"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf83"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf84"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf85"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf86"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf87"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf88"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf89"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf90"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf91"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf92"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf93"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf94"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf95"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf96"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf97"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf98"/>
+        </div>
+        <div type="volume">
+          <p xml:id="ludwig_rudolf99"/>
+        </div>
+      </div>
+      <div type="bibliography">
+        <listBibl>
+          <bibl xml:id="ludwig_rudolf0-reference" corresp="ludwig_rudolf0">
+            <title>Les Caractères De Theophraste, Traduits du Grec. Avec Les Caracteres Ou Les Moeurs De Ce Siecle, Par M. De La Bruyere de l'Academie Françoise. Avec La Clef En Marge, divisé en trois Volumes</title>
+            <author>
+              <rs type="person" key="gnd_118621793">Theophrastus</rs>
+            </author>
+            <author>
+              <rs type="person" key="gnd_118725785">La Bruyère, Jean</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_11900478X">Coste, Pierre</rs>
+            </editor>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Wetstein</publisher>
+            <date when="1720">1720</date>
+            <idno type="K10plus">237048752</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf1-reference" corresp="ludwig_rudolf1">
+            <title>Acta So zwischen Seiner Chur-Fürstlichen Durchl. zu Pfaltz, Dann Deß Heil. Reichs Freyer Stadt Donauwörth, In Puncto Strittiger Saltz-Niederlag, Bey Hochlöbl. Reichs-Convent, in deß auch Heil. Reichs Stadt Regenspurg von Anno 1710. 1711. und 1712. ventiliret worden</title>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1712">1712</date>
+            <idno type="VD18">14376083</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf2-reference" corresp="ludwig_rudolf2">
+            <title>Alix de France. nouvelle historique</title>
+            <author>Montfort, Louis</author>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Roger</publisher>
+            <date when="1712">1712</date>
+            <idno type="K10plus">595406939</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf3-reference" corresp="ludwig_rudolf3">
+            <title>Les Mille &amp; Un Jour Tome Troisiéme</title>
+            <editor>
+              <rs type="person" key="gnd_117702269">Pétis de la Croix, François</rs>
+            </editor>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Coup</publisher>
+            <date when="1712">1712</date>
+            <idno type="K10plus">250753391</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf4-reference" corresp="ludwig_rudolf4">
+            <title>Les Mille &amp; Un Jour Tome Second</title>
+            <editor>
+              <rs type="person" key="gnd_117702269">Pétis de la Croix, François</rs>
+            </editor>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Coup</publisher>
+            <date when="1712">1712</date>
+            <idno type="K10plus">250752980</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf5-reference" corresp="ludwig_rudolf5">
+            <title>La Vie De Cesar Borgia, appellé du depuis Le Duc De Valentinois. Enrichi de belles figures en Taille douce</title>
+            <author>
+              <rs type="person" key="gnd_121889556">Tomasi, Tomaso</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_128597771">Freschot, Casimir</rs>
+            </editor>
+            <pubPlace>Leide</pubPlace>
+            <publisher>Haak</publisher>
+            <date when="1712">1712</date>
+            <idno type="K10plus">23610506X</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf6-reference" corresp="ludwig_rudolf6">
+            <title>Résolution de leurs Hautes Puissances. Memoire &amp; Documents Servant a montrer, que c'est a tort que les Estats Generaux des Provinces Unies sont chargez, par les Resolutions ou Votes de la Chambre des Communes du Parlement de la Grande-Bretagne, &amp; par l'Addresse de la même Cahmbre [!], presentée sur ce sujet à sa Majesté Britannique d'avoir manqué à divers égards, pendant le cours de la presente guerre, a fournir ce qu'ils doivent pour leur Quote part, ou Portion, suivant leurs engagements</title>
+            <pubPlace>[s'Gravenhage]</pubPlace>
+            <publisher>Scheltus</publisher>
+            <date when="1712">1712</date>
+            <idno type="K10plus">150965478</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf7-reference" corresp="ludwig_rudolf7">
+            <title>Alethophili Sendschreiben an Herrn M. R. O. Von unterschiedlichen Etliche Jahre her vorgegebenen Neuen Propheten und Prophezeyungen. Worinnen Absonderlich auch von der Welt-beruffenen Männer Theophrasti Paracelsi, Isaac Bickerstafs, Emanuel Philippi Paris, Georgii Reichardi und Nicolai Drabicii Vaticiniis wegen der jetzigen Schwedischen und anderer Conjuncturen/ ausführlicher Bericht geschiehet</title>
+            <author>
+              <rs type="person" key="gnd_1055513329">Kaiser, Johann</rs>
+            </author>
+            <pubPlace>Cölln</pubPlace>
+            <date when="1712">1712</date>
+            <idno type="VD18">10221069-004</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf8-reference" corresp="ludwig_rudolf8">
+            <title>Tratté de l'amour de Dieu</title>
+            <author>
+              <rs type="person" key="gnd_1055323457">Saurin, Élie</rs>
+            </author>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Roger</publisher>
+            <date when="1712">1712</date>
+            <idno type="K10plus">150381794</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf9-reference" corresp="ludwig_rudolf9">
+            <title>Memoires Anecdotes De La Cour Et Du Clergé De France. Avec L'Histoire du Différend du Cardinal de Noailles ; avec les Evêques de Luc̜on &amp; de la Rochelle, &amp; les Jesuites</title>
+            <author>
+              <rs type="person" key="gnd_1055469648">Denis, Jean Baptiste</rs>
+            </author>
+            <pubPlace>Londres</pubPlace>
+            <date when="1712">1712</date>
+            <idno type="K10plus">14765842X</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf10-reference" corresp="ludwig_rudolf10">
+            <title>Leben und Thaten Iosephi I. Römischen Käysers, sambt der unter Sr. Maiestät .. Regierung vorgefallenen Reichs-Historie. Alles mit behörigen Documenten bekräfftiget, auch mit andern curieusen u. nützlichen Reichs-Materien erläutert, Als I. Von der Wahl-Crönungs-Ceremonien eines Römischen Käysers; II. Gründliche Nachricht von der Güldenen Bulle ..; III. Von denen Reichs-Vicariis ..</title>
+            <author>
+              <rs type="person" key="gnd_117014931">Zschackwitz, Johann Ehrenfried</rs>
+            </author>
+            <pubPlace>Leipzig</pubPlace>
+            <pubPlace>Leipzig</pubPlace>
+            <publisher>Gleditsch</publisher>
+            <publisher>Weidmann</publisher>
+            <date when="1712">1712</date>
+            <idno type="VD18">11405236-001</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf11-reference" corresp="ludwig_rudolf11">
+            <title>La Communion Sainte, Ou Traité sur la nécessité &amp; les moyens de communier dignement</title>
+            <author>
+              <rs type="person" key="gnd_120538253">Basnage de Beauval, Jacques</rs>
+            </author>
+            <pubPlace>Rotterdam</pubPlace>
+            <publisher>Acher</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">829182470</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf12-reference" corresp="ludwig_rudolf12">
+            <title>L'Espion Dans Les Cours Des Princes Chrétiens, Ou Lettres Et Memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe.̤ T. 2</title>
+            <author>
+              <rs type="person" key="gnd_119080370">Marana, Giovanni Paolo</rs>
+            </author>
+            <pubPlace>Cologne</pubPlace>
+            <publisher>Kinkius</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">360588395</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf13-reference" corresp="ludwig_rudolf13">
+            <title>Les Campagnes de Charles XII. Roi de Suède T. 4</title>
+            <author>
+              <rs type="person" key="gnd_100144489">Grimarest, Jean-Léonor le Gallois</rs>
+            </author>
+            <pubPlace>LaHaye</pubPlace>
+            <publisher>De Voys</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">243633238</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf14-reference" corresp="ludwig_rudolf14">
+            <title>L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 6</title>
+            <author>
+              <rs type="person" key="gnd_119080370">Marana, Giovanni Paolo</rs>
+            </author>
+            <pubPlace>Cologne</pubPlace>
+            <publisher>Kenkus</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">236485989</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf15-reference" corresp="ludwig_rudolf15">
+            <title>L'espion dans les cours des princes chrétiens, ou lettres et memoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 1</title>
+            <author>
+              <rs type="person" key="gnd_119080370">Marana, Giovanni Paolo</rs>
+            </author>
+            <pubPlace>Cologne</pubPlace>
+            <publisher>Kenkus</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">236483579</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf16-reference" corresp="ludwig_rudolf16">
+            <title>Send-Schreiben an einen S. Theologum, Jn welchem die 50. Motiven/ dadurch eine Erlauchte Person zum Abtritte von der Evangelisch-Lutherischen zu der Römisch-Catholischen Kirche soll seyn verleitet worden, Kürtzlich nach und aus Gottes Worte geprüfet. Sich anfangs zu eigner Erbauung aufgesetzt; Hernach aber .. zu anderer Stärchung überlassen von Einem Liebhaber der Warheit ; Zum Beschlusse sind hinzu gefüget 50. wichtige Motiven/ welche einen jeden rechtschaffenen Christen abhalten können/ daß er sich zu der Römischen Kirche nicht begebe</title>
+            <author>
+              <rs type="person" key="gnd_117653713">Schwedler, Johann Christoph</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_116912731">Günther, Johann</rs>
+            </editor>
+            <pubPlace>Leipzig</pubPlace>
+            <publisher>Braun</publisher>
+            <date when="1711">1711</date>
+            <idno type="VD18">10453261</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf17-reference" corresp="ludwig_rudolf17">
+            <title>Le grand Scanderberg. Nouvelle</title>
+            <author>
+              <rs type="person" key="gnd_119462222">La Roche-Guilhem, Anne</rs>
+            </author>
+            <pubPlace>La Haye</pubPlace>
+            <publisher>Swart</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">215076435</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf18-reference" corresp="ludwig_rudolf18">
+            <title>L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 5</title>
+            <editor>
+              <rs type="person" key="gnd_119080370">Marana, Giovanni Paolo</rs>
+            </editor>
+            <pubPlace>Cologne</pubPlace>
+            <publisher>Kinkius</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">186712855</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf19-reference" corresp="ludwig_rudolf19">
+            <title>L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 4</title>
+            <editor>
+              <rs type="person" key="gnd_119080370">Marana, Giovanni Paolo</rs>
+            </editor>
+            <pubPlace>Cologne</pubPlace>
+            <publisher>Kinkius</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">186712839</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf20-reference" corresp="ludwig_rudolf20">
+            <title>L'espion dans les cours des princes chrétiens, ou lettres et mémoires d'un Envoyé secret de la Porte dans les Cours de l'Europe T. 3</title>
+            <editor>
+              <rs type="person" key="gnd_119080370">Marana, Giovanni Paolo</rs>
+            </editor>
+            <pubPlace>Cologne</pubPlace>
+            <publisher>Kinkius</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">186712804</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf21-reference" corresp="ludwig_rudolf21">
+            <title>Les Oeuvres</title>
+            <author>
+              <rs type="person" key="gnd_118677284">Crébillon, Prosper Jolyot</rs>
+            </author>
+            <pubPlace>La Haye</pubPlace>
+            <publisher>Johnson</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">151704813</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf22-reference" corresp="ludwig_rudolf22">
+            <title>Le nouveau Gentilhomme bourgeois ou les fées à la mode</title>
+            <author>
+              <rs type="person" key="gnd_118808788">Aulnoy, Marie Catherine Le Jumel de Barneville</rs>
+            </author>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Roger</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">151681449</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf23-reference" corresp="ludwig_rudolf23">
+            <title>Heilsahme Seelen-Artzeney. Bey dem letztern Krancken- und bey nahe Tod-Bette, Des Durchl. Fürsten und Herrn, Herrn Ludewig Rudolphs, Hertzogen zu Braunschweig und Lüneburg</title>
+            <author>
+              <rs type="person" key="gnd_12131412X">Finen, Eberhard</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_138517894">Zilliger, Johann Georg</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_124700470">Ludwig Rudolf Braunschweig-Lüneburg, Herzog</rs>
+            </editor>
+            <pubPlace>
+              <rs type="place" key="gnd_4008065-1">Braunschweig</rs>
+            </pubPlace>
+            <publisher>Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr.</publisher>
+            <date when="1711">1711</date>
+            <idno type="VD18">12838306</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf24-reference" corresp="ludwig_rudolf24">
+            <title>[Satirae]</title>
+            <author>
+              <rs type="person" key="gnd_118556126">Iuvenalis, Decimus Iunius</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_1012625001">Silvestri, Camillo</rs>
+            </editor>
+            <pubPlace>Padova</pubPlace>
+            <publisher>^[Drucker:] Stamperia del Seminario</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">150881991</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf25-reference" corresp="ludwig_rudolf25">
+            <title>L'Histoire [et la religion] des Juifs, réclamée et retablie par son véritable auteur Basnage, contre l'édition anonyme et tronquée, qui s'en est faite à Paris chez Roulland, 1710. Avec plusieurs additions, pour servir de 6. tome à cette Histoire</title>
+            <author>
+              <rs type="person" key="gnd_120538253">Basnage de Beauval, Jacques</rs>
+            </author>
+            <pubPlace>Rotterdam</pubPlace>
+            <publisher>Fritsch &amp; Böhm</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">150600720</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf26-reference" corresp="ludwig_rudolf26">
+            <title>L'Amant Oisif. Contenant Cinquante Nouvelles Espagnoles. Divisé En Trois Parties</title>
+            <author>
+              <rs type="person" key="gnd_100140858">Riflé de Garouville, Savinien</rs>
+            </author>
+            <pubPlace>Brusselles</pubPlace>
+            <publisher>Backer</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">150346719</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf27-reference" corresp="ludwig_rudolf27">
+            <title>État Ancien Et Moderne Des Duchés De Florence, Modene, Mantoue, &amp; Parme. Avec l'Histoire Anecdote des Intrigues des Cours de leurs derniers Princes ; On y a ajouté une semblable Relation de la Ville &amp; Légation de Bologne</title>
+            <author>
+              <rs type="person" key="gnd_128597771">Freschot, Casimir</rs>
+            </author>
+            <editor>Vitriarius, Jean Jacques</editor>
+            <pubPlace>Utrecht</pubPlace>
+            <pubPlace>Utrecht</pubPlace>
+            <publisher>Broedelet</publisher>
+            <publisher>Poolsum</publisher>
+            <date when="1711">1711</date>
+            <idno type="K10plus">150342829</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf28-reference" corresp="ludwig_rudolf28">
+            <title>Curioser Staats-Discurs Nebst Einiger politischen Erleuterung über von Ihrer Königl. Majestät Von Groß-Britannien, [et]c. [et]c. An das Hochlöbliche Röm. Reichs-Convent zu Regenspurg Abgeschickten Ermahnungs-Brieff, Von nachdrücklichen Inhalt wegen Fortsetzung des Krieges wider die Cron Franckreich als allgemeinen Reichs-Feindt</title>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1710">1710</date>
+            <idno type="VD18">12955116</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf29-reference" corresp="ludwig_rudolf29">
+            <title>Les Pensées ingénieuses ou les Épigrammes d'Owen</title>
+            <author>
+              <rs type="person" key="gnd_118787446">Owen, John</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_172224861">LeBrun, Antoine Louis</rs>
+            </editor>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Ribou</publisher>
+            <date when="1710">1710</date>
+            <idno type="K10plus">151586829</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf30-reference" corresp="ludwig_rudolf30">
+            <title>Eberhard Finens Erbauliche Reden über die Paßions-Geschicht/ und andere Sprüche Heiliger Schrifft Wie auch Einige Stücke des Catechismi. Zur Vorbereitung In denen Auf Hochstl. gnädigste Verordnung theils bey den ehemahligen Krancken-Bette/ theils bey den Gebrauch der warmen Bäder zu Wißbaden und Aachen/ auch nachgehends zu Braunschweig und Saltzdahlen angestellten Hauß-Betstunden/ gehalten .. ; nebst den Andern Theil ..</title>
+            <author>
+              <rs type="person" key="gnd_12131412X">Finen, Eberhard</rs>
+            </author>
+            <pubPlace>Braunschweig</pubPlace>
+            <publisher>Zilliger</publisher>
+            <date when="1710">1710</date>
+            <idno type="VD18">12838292</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf31-reference" corresp="ludwig_rudolf31">
+            <title>Histoire politique et amoureuse du Cardinal Louis ^[Louis ^Manuel] Portocarrero Archevêque de Toledo</title>
+            <pubPlace>o.O.</pubPlace>
+            <publisher>LeSincere</publisher>
+            <date when="1710">1710</date>
+            <idno type="K10plus">150789556</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf32-reference" corresp="ludwig_rudolf32">
+            <title>Unvorgreiffliche Gedancken eines schwedischen Unterthanen über das jüngst heraus gegebene Dänische Manifest, so hiebey mit angedruckt</title>
+            <author>
+              <rs type="person" key="gnd_116021675">Palthen, Johann Philipp</rs>
+            </author>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1710">1710</date>
+            <idno type="VD18">10222405-009</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf33-reference" corresp="ludwig_rudolf33">
+            <title>Considération sur l'éternité</title>
+            <author>
+              <rs type="person" key="gnd_12232319X">Abelly, Louis</rs>
+            </author>
+            <pubPlace>Brusselles</pubPlace>
+            <publisher>de Backer</publisher>
+            <date when="1710">1710</date>
+            <idno type="K10plus">146978870</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf34-reference" corresp="ludwig_rudolf34">
+            <title>Sendschreiben an Mylord [et]c. [et]c.Betreffende die Nothwendigkeit Gerechtsame/ der völligen Restitution der Spanischen Monarchie. Aus dem Englischen übersetzet. Barbaris pro Legibus semper Dominorum Imperia fuere</title>
+            <pubPlace>Erlangen</pubPlace>
+            <publisher>Lorber</publisher>
+            <date when="1710">1710</date>
+            <idno type="VD18">14631520-004</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf35-reference" corresp="ludwig_rudolf35">
+            <title>Oeuvres Diverses De Monsieur Jean Locke.</title>
+            <author>
+              <rs type="person" key="gnd_118573748">Locke, John</rs>
+            </author>
+            <pubPlace>Rotterdam</pubPlace>
+            <publisher>Fritsch &amp; Böhm</publisher>
+            <date when="1710">1710</date>
+            <idno type="K10plus">134055551</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf36-reference" corresp="ludwig_rudolf36">
+            <title>Petrone Latin Et François. Traduction Entiere, Suivant Le Manuscrit Trouvé A Belgrade en 1688. ; Avec plusieurs Remarques &amp; Additions, qui manquent dans la premiere Edition</title>
+            <author>
+              <rs type="person" key="gnd_118593293">Petronius Arbiter</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_118831917">Nodot, François</rs>
+            </editor>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1709">1709</date>
+            <idno type="VD18">11261765-001</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf37-reference" corresp="ludwig_rudolf37">
+            <title>Sonnets chrétiens sur divers sujets</title>
+            <author>
+              <rs type="person" key="gnd_130060836">Drelincourt, Laurent</rs>
+            </author>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Desbordes</publisher>
+            <date when="1709">1709</date>
+            <idno type="K10plus">151090645</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf38-reference" corresp="ludwig_rudolf38">
+            <title>Rechte Anwendung der jetzigen kurtzen Lebens-Zeit/ und Christliche Vorbereitung zu der künfftigen Seeligen Ewigkeit. Nach Anleitung derer auserlesensten Sprüche Heil. Schrifft/ allen Christen zur Erlernung der allernöthigsten/ allerfürtrefflichsten und Seeligen Sterbe-Kunst mitgetheilet</title>
+            <author>
+              <rs type="person" key="gnd_133492966">Toppe, Philipp Julius</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_116996501">Liebernickel, Gottfried</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_1037506340">Liebernickel, Gottfried</rs>
+            </editor>
+            <pubPlace>Hamburg</pubPlace>
+            <publisher>bey Gottfried Liebernickel</publisher>
+            <date when="1708">1708</date>
+            <idno type="VD18">13349112</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf39-reference" corresp="ludwig_rudolf39">
+            <title>L'Homme De Trompé Ou Le Criticon T. 3</title>
+            <author>
+              <rs type="person" key="gnd_118696874">Gracián y Morales, Baltasar</rs>
+            </author>
+            <pubPlace>La Haye</pubPlace>
+            <publisher>Ellinckhuysen</publisher>
+            <date when="1708">1708</date>
+            <idno type="K10plus">330455036</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf40-reference" corresp="ludwig_rudolf40">
+            <title>L'Homme De Trompé Ou Le Criticon T. 2</title>
+            <author>
+              <rs type="person" key="gnd_118696874">Gracián y Morales, Baltasar</rs>
+            </author>
+            <pubPlace>La Haye</pubPlace>
+            <publisher>Ellinckhuysen</publisher>
+            <date when="1708">1708</date>
+            <idno type="K10plus">33045501X</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf41-reference" corresp="ludwig_rudolf41">
+            <title>Histoire D'Hypolite, Comte de Duglas</title>
+            <author>
+              <rs type="person" key="gnd_118808788">Aulnoy, Marie Catherine Le Jumel de Barneville</rs>
+            </author>
+            <pubPlace>Brusselle</pubPlace>
+            <publisher>De Backer</publisher>
+            <date when="1708">1708</date>
+            <idno type="K10plus">237690055</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf42-reference" corresp="ludwig_rudolf42">
+            <title>L'Homme De Trompé Ou Le Criticon T. 1</title>
+            <author>
+              <rs type="person" key="gnd_118696874">Gracián y Morales, Baltasar</rs>
+            </author>
+            <pubPlace>La Haye</pubPlace>
+            <publisher>Ellinckhuysen</publisher>
+            <date when="1708">1708</date>
+            <idno type="K10plus">235847062</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf43-reference" corresp="ludwig_rudolf43">
+            <title>Nouveau Traité De La Civilité Qui Se Pratique En France Parmi Les Honnestes Gens</title>
+            <author>
+              <rs type="person" key="gnd_120374307">Courtin, Antoine</rs>
+            </author>
+            <editor>Chevreuse, ...</editor>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Schelte</publisher>
+            <date when="1708">1708</date>
+            <idno type="K10plus">150292511</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf44-reference" corresp="ludwig_rudolf44">
+            <title>Qui comprend depuis Auguste jusqu'à Galba. Histoire des empereurs et des autres princes, qui ont régné durant les six premiers siècles de l'Église .. T. 1, Pt. 1</title>
+            <author>
+              <rs type="person" key="gnd_128681667">Le Nain de Tillemont, Sébastien</rs>
+            </author>
+            <pubPlace>Bruxelles</pubPlace>
+            <publisher>Fricx</publisher>
+            <date when="1707">1707</date>
+            <idno type="K10plus">25375111X</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf45-reference" corresp="ludwig_rudolf45">
+            <title>Joh. Wolffgang Triers kurtze Fragen von den menschlichen Neigungen. darinnen von deren Ursprung und Würckungen auf eine besondere Art gehandelt und zugleich angewiesen wird, wie man dieselben so wohl an sich als an andern erkennen könne, auch sich sonsten im gemeinen Leben dißfalls zu verhalten habe</title>
+            <author>
+              <rs type="person" key="gnd_104043806">Trier, Johann Wolfgang</rs>
+            </author>
+            <pubPlace>Leipzig</pubPlace>
+            <publisher>Gleditsch</publisher>
+            <date when="1707">1707</date>
+            <idno type="VD18">12388920-004</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf46-reference" corresp="ludwig_rudolf46">
+            <title>Das grosse Dessein des Louis von Baaden. Welches Er An seinem Sterbe-Tage den 4. Januarii dieses 1707. Jahres glücklich hinaus geführt. in einer Patentation gezeiget von einem am Rheinstrom wohnenden Teutschen</title>
+            <pubPlace>Rastatt</pubPlace>
+            <date when="1707">1707</date>
+            <idno type="VD18">10239014-003</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf47-reference" corresp="ludwig_rudolf47">
+            <title>L'Usage Du Monde Ou Le Parfait Modele D'Un Honneste Homme</title>
+            <author>
+              <rs type="person" key="gnd_120006294">Goussault, Jacques</rs>
+            </author>
+            <pubPlace>Paris</pubPlace>
+            <pubPlace>Bruxelles</pubPlace>
+            <publisher>Brunet &amp; Rigaut</publisher>
+            <publisher>Leonard</publisher>
+            <date when="1707">1707</date>
+            <idno type="K10plus">151605971</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf48-reference" corresp="ludwig_rudolf48">
+            <title>Warhafftige Abbildung Aller itzo im Krieg begriffenen Hohen Potentaten und dero Generals. Durch Beibringung verschiedener aus Betrachtung dero Actionen gezogenen Remarques .. Mit einem Entwurff von der .. Kunst, die Gemüther der Menschen zu erkennen, worin gezeiget und untersuchet wird: I. ob eine solche Kunst zu finden, II. wie sie zu erlernen, III. wozu sie nütze und IV. ob sie untrüglich sey?</title>
+            <pubPlace>Cöln</pubPlace>
+            <publisher>Marteau</publisher>
+            <date when="1707">1707</date>
+            <idno type="VD18">14373211-005</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf49-reference" corresp="ludwig_rudolf49">
+            <title>Histoire du Vieux et du Nouveau Testament. enrichie de Figures .. etc.</title>
+            <editor>
+              <rs type="person" key="gnd_120538253">Basnage de Beauval, Jacques</rs>
+            </editor>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Pierre Mortier</publisher>
+            <date when="1706">1706</date>
+            <idno type="K10plus">14680340X</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf50-reference" corresp="ludwig_rudolf50">
+            <title>Democritus und Heraclytus Uber den ietzigen Zustand der Cron Franckreich</title>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1705">1705</date>
+            <idno type="VD18">10885366-ddd</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf51-reference" corresp="ludwig_rudolf51">
+            <title>Réflexions Ou Sentences Et Maximes Morales. De Monsieur De La Rochefoucault ..</title>
+            <author>
+              <rs type="person" key="gnd_118569775">La Rochefoucauld, François</rs>
+            </author>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Mortier</publisher>
+            <date when="1705">1705</date>
+            <idno type="K10plus">151033234</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf52-reference" corresp="ludwig_rudolf52">
+            <title>Democritus Continuiret seine Conference Heraclyto Uber den Zustand der Cron Franckreich</title>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1705">1705</date>
+            <idno type="VD18">10885366-ddd</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf53-reference" corresp="ludwig_rudolf53">
+            <title>Instructions Secretes Des Jesuites. Suivant l'original</title>
+            <pubPlace>
+              <rs type="place" key="gnd_4031483-2">Köln</rs>
+            </pubPlace>
+            <publisher>Sincere</publisher>
+            <date when="1704">1704</date>
+            <idno type="VD18">11525770</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf54-reference" corresp="ludwig_rudolf54">
+            <title>Suite Des Mazarinischen Reverence</title>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1704">1704</date>
+            <idno type="VD18">14580349</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf55-reference" corresp="ludwig_rudolf55">
+            <title>Des Bischoffs von Münster Bernhard von Galen Schreiben, aus der andern Welt, An Ludwig XIV. König von Franckreich</title>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1704">1704</date>
+            <idno type="VD18">10093591</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf56-reference" corresp="ludwig_rudolf56">
+            <title>Mazarini Abschieds-Compliment</title>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1704">1704</date>
+            <idno type="VD18">11086432</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf57-reference" corresp="ludwig_rudolf57">
+            <title>Traité du mérite</title>
+            <author>
+              <rs type="person" key="gnd_1055126783">Vassetz abbé</rs>
+            </author>
+            <pubPlace>La Haye</pubPlace>
+            <publisher>Voys</publisher>
+            <date when="1704">1704</date>
+            <idno type="K10plus">134957520</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf58-reference" corresp="ludwig_rudolf58">
+            <title>Freuden-Schild Wider die Traurigkeit. In allerhand küm[m]erlichen Zufällen auffgerichtet</title>
+            <author>
+              <rs type="person" key="gnd_12348796X">Schweinitz, David</rs>
+            </author>
+            <pubPlace>Frankfurt, Main</pubPlace>
+            <pubPlace>Leipzig</pubPlace>
+            <pubPlace>Jena</pubPlace>
+            <publisher>Rohrlach</publisher>
+            <publisher>Ehrich</publisher>
+            <date when="1701">1701</date>
+            <idno type="VD18">12836362</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf59-reference" corresp="ludwig_rudolf59">
+            <title>Bouclier D'Estat Et De Justice, Contre le dessein de la France ..</title>
+            <author>
+              <rs type="person" key="gnd_11878014X">Lisola, François Paul</rs>
+            </author>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1701">1701</date>
+            <idno type="VD18">14611392-003</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf60-reference" corresp="ludwig_rudolf60">
+            <title>Instructions de l'empereur Charles V. à Philippe II. Roi d'Espagne et de Philippe II. au prince Philippe son fils. Mises en François par Antoine Teissier. 2. édition. A laquelle on a joint la Méthode qu'on a tenuë pour l'éducation des enfans de France</title>
+            <author>
+              <rs type="person" key="gnd_118560093">Karl Heiliges Römisches Reich, Kaiser</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_129426024">Teissier, Antoine</rs>
+            </editor>
+            <pubPlace>A la Haye</pubPlace>
+            <publisher>Dole</publisher>
+            <date when="1700">1700</date>
+            <idno type="K10plus">136951821</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf61-reference" corresp="ludwig_rudolf61">
+            <title>Histoire De Ferdinand-Alvarez De Tolede, Premier Du Nom, Duc D'Albe</title>
+            <author>
+              <rs type="person" key="gnd_137527616">Osorio, Antonio</rs>
+            </author>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Guignard</publisher>
+            <date when="1699">1699</date>
+            <idno type="K10plus">135733421</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf62-reference" corresp="ludwig_rudolf62">
+            <title>Le triomphe de la deesse monas ou l'histoire du portrait de madame la princesse de Conti fille du roi</title>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>duVal</publisher>
+            <date when="1698">1698</date>
+            <idno type="K10plus">236361856</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf63-reference" corresp="ludwig_rudolf63">
+            <title>Practicarum Observationum, tam ad processum iudiciarium, praesertim Imperialis Camerae, quam causarum decisionis pertinentium, libri 2. De Pace publica, et proscriptis, sive bannitis imperij, libri 2. De Pignorationibus liber 1. De manuum Injectionibus, sive arrestis imperii tractatus. Huic noviss. ed. acc. app. 2</title>
+            <author>
+              <rs type="person" key="gnd_11884296X">Gail, Andreas</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_124408389">Gymnich, Walter</rs>
+            </editor>
+            <pubPlace>Coloniae Agrippina</pubPlace>
+            <publisher>Metternich</publisher>
+            <date when="1698">1698</date>
+            <idno type="K10plus">184827981</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf64-reference" corresp="ludwig_rudolf64">
+            <title>Histoire Des Controverses Et Des Matieres Ecclesiastiques ..</title>
+            <author>
+              <rs type="person" key="gnd_100115993">Du Pin, Louis Ellies</rs>
+            </author>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Pralard</publisher>
+            <date when="1697">1697</date>
+            <idno type="K10plus">620058943</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf65-reference" corresp="ludwig_rudolf65">
+            <title>Traité de la dévotion.</title>
+            <author>
+              <rs type="person" key="gnd_118558900">Jurieu, Pierre</rs>
+            </author>
+            <pubPlace>La Haye</pubPlace>
+            <publisher>Troyel</publisher>
+            <date when="1697">1697</date>
+            <idno type="K10plus">149903561</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf66-reference" corresp="ludwig_rudolf66">
+            <title>Suscitabulum Poenitentiae Catecheticum, Das ist: Catechetischer Buß-Wecker/ Oder Eine richtige Anweisung zu den wesentlichen Stücken der wahren Buß/ wie selbige nach den zweyen ersten Hauptstücken der Christlichen Lehre nützlich zu üben/ Außführlich und nachdrücklich vorgebildet wird. Allen rechtschaffenen Christen zur nöthigen und seeligen Erweisung ungeheuchelter Busse angestellet Von David von Schweinitz/ auff Seyffersdorff</title>
+            <author>
+              <rs type="person" key="gnd_12348796X">Schweinitz, David</rs>
+            </author>
+            <pubPlace>Frankfurt, Oder</pubPlace>
+            <publisher>Schrey</publisher>
+            <publisher>Meyer</publisher>
+            <date when="1696">1696</date>
+            <idno type="VD17">3:614050Y</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf67-reference" corresp="ludwig_rudolf67">
+            <title>Conduite pour se taire et pour parles principalement en matière de religion. suivant la copie imprimée à Paris</title>
+            <author>
+              <rs type="person" key="gnd_101503660">Morvan de Bellegarde, Jean-Baptiste</rs>
+            </author>
+            <pubPlace>Liege</pubPlace>
+            <publisher>Broncart</publisher>
+            <date when="1696">1696</date>
+            <idno type="K10plus">223556645</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf68-reference" corresp="ludwig_rudolf68">
+            <title>Danielis Georgi[i] Morhofi[i] Polyhistor. Sive De Notitia Auctorum Et Rerum Commentarii [1]</title>
+            <author>
+              <rs type="person" key="gnd_118784919">Morhof, Daniel Georg</rs>
+            </author>
+            <editor>Alefeld, Joachimus</editor>
+            <pubPlace>Lübeck</pubPlace>
+            <publisher>Böckmannus</publisher>
+            <date when="1695">1695</date>
+            <idno type="K10plus">719560519</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf69-reference" corresp="ludwig_rudolf69">
+            <title>Penta-decas fidium cordialium .. Das Ist: Geistlicher Hertzens-Harffen von fünffmahl-zehen Seiten .. Theil</title>
+            <author>
+              <rs type="person" key="gnd_12348796X">Schweinitz, David</rs>
+            </author>
+            <pubPlace>Breßlau</pubPlace>
+            <publisher>Fellgiebel</publisher>
+            <date when="1694">1694</date>
+            <idno type="K10plus">15086812X</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf70-reference" corresp="ludwig_rudolf70">
+            <title>Le Monde Enchanté Ou Examen des communs sentimens touchant les Esprits, leur nature, leur pouvoir, leur administration, &amp; leurs opérations .. Divisé en quatre Parties ; Traduit de l'Hollandois</title>
+            <author>
+              <rs type="person" key="gnd_119016915">Bekker, Balthasar</rs>
+            </author>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Rotterdam</publisher>
+            <date when="1694">1694</date>
+            <idno type="K10plus">147204798</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf71-reference" corresp="ludwig_rudolf71">
+            <title>Novellen Aus Der gelehrten und curiösen Welt 1692</title>
+            <editor>
+              <rs type="person" key="gnd_104217650">Zenner, Gottfried</rs>
+            </editor>
+            <pubPlace>Frankfurt</pubPlace>
+            <pubPlace>Gotha</pubPlace>
+            <pubPlace>Leipzig</pubPlace>
+            <publisher>Boetius</publisher>
+            <publisher>Groschuff</publisher>
+            <date when="1692">1692</date>
+            <idno type="VD17">7:694881V</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf72-reference" corresp="ludwig_rudolf72">
+            <title>L' Art De Se Connoitre Soy-Meme, Ou La Recherche des Sources De la Morale</title>
+            <author>
+              <rs type="person" key="gnd_100002307">Abbadie, Jacques</rs>
+            </author>
+            <pubPlace>Rotterdam</pubPlace>
+            <publisher>Slaart</publisher>
+            <date when="1692">1692</date>
+            <idno type="K10plus">150211236</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf73-reference" corresp="ludwig_rudolf73">
+            <title>Vocabolario degli Accademici della Crusca. In questa 3. impressione Nuovamente corr. e copiosamente accresciuto</title>
+            <pubPlace>Firenze</pubPlace>
+            <publisher>Stamp. d. Accademia della Crusca</publisher>
+            <date when="1691">1691</date>
+            <idno type="K10plus">486368920</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf74-reference" corresp="ludwig_rudolf74">
+            <title>Francisci Sanctii Minerva, Sive De Causis Latinæ linguæ Commentarius</title>
+            <author>
+              <rs type="person" key="gnd_118751123">Sánchez de las Brozas, Francisco</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_119298600">Schoppe, Caspar</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_119019914">Perizonius, Jacobus</rs>
+            </editor>
+            <pubPlace>Franequera</pubPlace>
+            <publisher>Strickius</publisher>
+            <date when="1687">1687</date>
+            <idno type="K10plus">251813266</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf75-reference" corresp="ludwig_rudolf75">
+            <title>L' Unico Mezzo, Che ci fà trovar la felicità in questo Mondo .. con brevità e Chiarezza si dimostra nel presente libretto, in todesco, francese, &amp; italiano</title>
+            <author>
+              <rs type="person" key="gnd_116400684">Caffa, Karl</rs>
+            </author>
+            <pubPlace>Jena</pubPlace>
+            <publisher>Gollner</publisher>
+            <date when="1685">1685</date>
+            <idno type="VD17">3:604602L</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf76-reference" corresp="ludwig_rudolf76">
+            <title>De Legibus Naturae Disquisitio Philosophica. In qua Earum Forma, Summa Capita, Ordo, Promulgatio, &amp; Obligatio e rerum Natura investigantur ; Quin Etiam Elementa Philosophiae Hobbianae, Cum Moralis tum Civilis, considerantur &amp; refutantur</title>
+            <author>
+              <rs type="person" key="gnd_121534006">Cumberland, Richard</rs>
+            </author>
+            <editor>Bridgeman, Orlandus</editor>
+            <editor>Parker, Sam.</editor>
+            <pubPlace>Lübeck</pubPlace>
+            <pubPlace>Frankfurt, Main</pubPlace>
+            <publisher>Otto</publisher>
+            <publisher>Wiedemeyerus</publisher>
+            <date when="1683">1683</date>
+            <idno type="VD17">1:008798Z</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf77-reference" corresp="ludwig_rudolf77">
+            <title>Geographia ordine litterarum disposita</title>
+            <author>
+              <rs type="person" key="gnd_124639089">Baudrand, Michel-Antoine</rs>
+            </author>
+            <pubPlace>Parisiis</pubPlace>
+            <publisher>Michalet</publisher>
+            <date when="1681">1681</date>
+            <idno type="K10plus">150019556</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf78-reference" corresp="ludwig_rudolf78">
+            <title>Examen ratiociniorum Danicorum super naufragio militum Suecicorum ad Bornholmiam, eorundemque detentione</title>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1680">1680</date>
+            <idno type="K10plus">151714266</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf79-reference" corresp="ludwig_rudolf79">
+            <title>Iulii Sperberi, C. Kabalisticae precationes, Das ist: Außerlesene schöne Gebet/ so aus der H. Schrifft und vornembsten Psalmen des Königlichen Propheten Davids zusammen getragen und also zugerichtet. Aus des Autoris Lateinischem Exemplar ins Teutsche versetzt</title>
+            <author>
+              <rs type="person" key="gnd_128616385">Sperber, Julius</rs>
+            </author>
+            <pubPlace>Frankfurt, Main</pubPlace>
+            <pubPlace>Amsterdam</pubPlace>
+            <publisher>Betkius</publisher>
+            <date when="1675">1675</date>
+            <idno type="VD17">1:072956R</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf80-reference" corresp="ludwig_rudolf80">
+            <title>Henrici Glareani In Cornelii Taciti de situ .. Germaniae libellum commentariolus</title>
+            <author>
+              <rs type="person" key="gnd_11905339X">Glareanus, Henricus Loriti</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_117106178">Schardius, Simon</rs>
+            </editor>
+            <pubPlace>Giessae</pubPlace>
+            <date when="1673">1673</date>
+            <idno type="K10plus">369886046</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf81-reference" corresp="ludwig_rudolf81">
+            <title>The voyage of Italy, or, A compleat journey through Italy. in two parts : with the characters of the people, and the description of the chief towns, churches, monasteries, tombs, libraries, pallaces, villas, gardens, pictures, statues, and antiquities : as also of the interest, government, riches, force, &amp;c. of all the princes : with instructions concerning travel</title>
+            <author>Lassels, Richard</author>
+            <editor>Simon Wilson</editor>
+            <pubPlace>Newly printed at Paris</pubPlace>
+            <publisher>[s.n.], and are to be sold in London, by John Starkey</publisher>
+            <date when="1670">1670</date>
+            <idno type="K10plus">553173561</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf82-reference" corresp="ludwig_rudolf82">
+            <title>Jetztlebendes Europa, Oder Neue Historische und Politische Erzehlung aller seiner Stände, wie solche gegen dem Ende deß Jahrs 1666. ihr Wesen gehabt. In unterschiedlichen Tafeln repræsentirt, Darinnen . von den Universitäten und berühmten Bibliothecen .. und von allen berühmten Leuten in jeder Profession; Benebens einer Zusammensamlung Der denckwürdigsten Sachen die sich nach dem allgemeinen Friedenschluß in Europa zugetragen ..</title>
+            <author>
+              <rs type="person" key="gnd_124861075">Chappuzeau, Samuel</rs>
+            </author>
+            <pubPlace>Franckfurt am Mayn</pubPlace>
+            <publisher>Schiele</publisher>
+            <date when="1670">1670</date>
+            <idno type="K10plus">151871949</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf83-reference" corresp="ludwig_rudolf83">
+            <title>L'imitation de Jesus Christ</title>
+            <author>
+              <rs type="person" key="gnd_118642766">Thomas von Kempen</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_118522175">Corneille, Pierre</rs>
+            </editor>
+            <pubPlace>Paris</pubPlace>
+            <publisher>Ballard</publisher>
+            <date when="1665">1665</date>
+            <idno type="K10plus">246014911</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf84-reference" corresp="ludwig_rudolf84">
+            <title>Character Virtutum variis, aliorum etiam, qua veterum, qua recentium Autorum coloribus adumbratus</title>
+            <author>
+              <rs type="person" key="gnd_121895610">Pastorius, Joachim</rs>
+            </author>
+            <editor>Guldensternius, Sigismundus</editor>
+            <pubPlace>[S.l.]</pubPlace>
+            <date when="1664">1664</date>
+            <idno type="VD17">23:269676U</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf85-reference" corresp="ludwig_rudolf85">
+            <title>Scrutinium Ingeniorum pro iis, qui excellere cupiunt</title>
+            <author>
+              <rs type="person" key="gnd_119456222">Huarte de San Juan, Juan</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_122503279">Caesar, Joachim</rs>
+            </editor>
+            <editor>Albrecht Sachsen-Jülich-Cleve-Berg, Herzog</editor>
+            <editor>Ludwig Anhalt-Köthen, Fürst</editor>
+            <pubPlace>Jena</pubPlace>
+            <publisher>Neuenhahn</publisher>
+            <publisher>Krebs</publisher>
+            <date when="1663">1663</date>
+            <idno type="VD17">1:065794A</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf86-reference" corresp="ludwig_rudolf86">
+            <title>Venetia città nobilissima et singolare</title>
+            <author>
+              <rs type="person" key="gnd_119255901">Sansovino, Francesco</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_1055727280">Martinioni, Giustiniano</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_1024756335">Curti, Stefano</rs>
+            </editor>
+            <pubPlace>Venedig</pubPlace>
+            <publisher>Curti</publisher>
+            <date when="1663">1663</date>
+            <idno type="K10plus">140235191</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf87-reference" corresp="ludwig_rudolf87">
+            <title>Hertzens-Psalter/ Das ist: Geistliche Andachten und Gebete über den Psalter David. Gerichtet Auf unterschiedener Personen/ und Stände Anliegen</title>
+            <author>
+              <rs type="person" key="gnd_12348796X">Schweinitz, David</rs>
+            </author>
+            <pubPlace>Breslau</pubPlace>
+            <publisher>Fellgiebel</publisher>
+            <date when="1662">1662</date>
+            <idno type="VD17">39:156875D</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf88-reference" corresp="ludwig_rudolf88">
+            <title>Genealogia. Derer von Schweinitz/ Vor der Zeit Vom Swentze Genennet</title>
+            <author>
+              <rs type="person" key="gnd_12348796X">Schweinitz, David</rs>
+            </author>
+            <editor>Christian Hertzog in Schlesien, zur Liegnitz, Brieg und Wohlau</editor>
+            <editor>Ludwig Hertzog in Schlesien, zur Liegnitz, Brieg und Goldberg</editor>
+            <editor>Georg Hertzog in Schlesien zur Liegnitz und Brieg</editor>
+            <pubPlace>Liegnitz</pubPlace>
+            <publisher>Schneider</publisher>
+            <date when="1661">1661</date>
+            <idno type="VD17">23:232961A</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf89-reference" corresp="ludwig_rudolf89">
+            <title>Tractatus politico-historico-juridicus de Juribus et Privilegiis Civitatum Imperialium, tam generalibus, quam specialibus et de earundem Magistratuum Officio. In sex libros divisus</title>
+            <author>
+              <rs type="person" key="gnd_124429254">Knipschildt, Philipp</rs>
+            </author>
+            <pubPlace>Ulmae Suevorum</pubPlace>
+            <publisher>Kühne</publisher>
+            <date when="1657">1657</date>
+            <idno type="K10plus">141633042</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf90-reference" corresp="ludwig_rudolf90">
+            <title>Specvlvm Natvrae Hvmanæ, Siue Mores Et Temperamenta Hominvm Vsqve Ad Intimos Animorum sensus cognoscendi. Omnibus maxime vtile, &amp; lectu iucundum</title>
+            <author>
+              <rs type="person" key="gnd_122674391">Follin, Hermann</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_122674332">Follin, Johann</rs>
+            </editor>
+            <pubPlace>Coloniae Agrippinae</pubPlace>
+            <publisher>Kalcovius</publisher>
+            <date when="1649">1649</date>
+            <idno type="K10plus">147802350</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf91-reference" corresp="ludwig_rudolf91">
+            <title>Theatrum ingenii humani Liber 1-2</title>
+            <author>
+              <rs type="person" key="gnd_128500751">Neuhusius, Edo</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_132103885">Neuhusius, Reinerus</rs>
+            </editor>
+            <pubPlace>Amstelodami</pubPlace>
+            <publisher>Jansonius</publisher>
+            <date when="1648">1648</date>
+            <idno type="K10plus">150731884</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf92-reference" corresp="ludwig_rudolf92">
+            <title>Arcadia der Gräffin von Pembrock</title>
+            <author>
+              <rs type="person" key="gnd_11861391X">Sidney, Philip</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_117080632">Mögling, Daniel</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_118590111">Opitz, Martin</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_118581090">Merian, Matthaeus</rs>
+            </editor>
+            <editor>Sophia Leonora Hessen, Landgräfin</editor>
+            <pubPlace>Franckfurt</pubPlace>
+            <publisher>Humm</publisher>
+            <date when="1643">1643</date>
+            <idno type="K10plus">151490759</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf93-reference" corresp="ludwig_rudolf93">
+            <title>Nikēphoru Kallistu Tu Xanthopulu Ekklēsiastikēs Historias Biblia 18 Tomvs Prior</title>
+            <author>
+              <rs type="person" key="gnd_10095443X">Nicephorus Callistus Xanthopulus</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_124677320">Du Duc, Fronton</rs>
+            </editor>
+            <editor>
+              <rs type="person" key="gnd_136285422">Lange, Johann</rs>
+            </editor>
+            <editor>Richelieu, Armandus Joannes</editor>
+            <pubPlace>Lutetiae Parisiorum</pubPlace>
+            <publisher>Cramoisy</publisher>
+            <date when="1630">1630</date>
+            <idno type="K10plus">190912367</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf94-reference" corresp="ludwig_rudolf94">
+            <title>La Secchia Rapita. Poema Eroicomico, e'l Canto Dell'Oceano</title>
+            <author>
+              <rs type="person" key="gnd_118753959">Tassoni, Alessandro</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_122970470">Barberini, Antonio</rs>
+            </editor>
+            <pubPlace>Venetia</pubPlace>
+            <publisher>Sarzina</publisher>
+            <date when="1625">1625</date>
+            <idno type="K10plus">513708979</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf95-reference" corresp="ludwig_rudolf95">
+            <title>La Biblia. Que es, Los sacros libros del Vieio y Nuevo Testamento. : Trasladada en español.</title>
+            <pubPlace>[Basel]</pubPlace>
+            <publisher>Aubrius &amp; Schleich</publisher>
+            <date when="1622">1622</date>
+            <idno type="K10plus">151756309</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf96-reference" corresp="ludwig_rudolf96">
+            <title>Andreæ Althameri Commentaria: In P. Cornelii Taciti equitis Romani libellum De Situ, Moribus Et Populis Germaniæ</title>
+            <author>
+              <rs type="person" key="gnd_118620452">Tacitus, Cornelius</rs>
+            </author>
+            <editor>
+              <rs type="person" key="gnd_100010423">Althamer, Andreas</rs>
+            </editor>
+            <pubPlace>Ambergae</pubPlace>
+            <publisher>Forster</publisher>
+            <date when="1609">1609</date>
+            <idno type="K10plus">394766091</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf97-reference" corresp="ludwig_rudolf97">
+            <title>Matthaei Dresseri  ORATIO  DE ORDINE, VERITATE ET VSV  in historiarum lectione  spectando. Habita in Academia Lipsi-ca, XVII Januarij,anno 82.</title>
+            <author>
+              <rs type="person" key="gnd_116218363">Dresser, Matthaeus</rs>
+            </author>
+            <pubPlace>Wittenberg</pubPlace>
+            <publisher>Gronenberg, Simon</publisher>
+            <date when="1582">1582</date>
+            <idno type="K10plus">567283895</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf98-reference" corresp="ludwig_rudolf98">
+            <title>Cosmographiae Vniversalis Lib. VI. In Qvibvs Ivxta Certioris Fidei Scriptores .. describuntur, Omnium habitabilis Orbis partium situs propriæq́[ue] dotes. Regionum Topographicæ picturæ .. Cunctarum Gentium mores, leges, religio, res gestæ, &amp; mutationes usq[ue] ad annum Christi M. D. L. LXXII.</title>
+            <author>
+              <rs type="person" key="gnd_118585517">Münster, Sebastian</rs>
+            </author>
+            <pubPlace>Basileae</pubPlace>
+            <publisher>Henricpetri</publisher>
+            <date when="1572">1572</date>
+            <idno type="K10plus">223457167</idno>
+          </bibl>
+          <bibl xml:id="ludwig_rudolf99-reference" corresp="ludwig_rudolf99">
+            <title>Teutsch Passional vnsers [unsers] Herren Jesu Christi. Mit schönen tröstlichen Gebetlein</title>
+            <author>Schwenckfeld, Caspar</author>
+            <pubPlace>Nürnberg</pubPlace>
+            <publisher>[s.n.]</publisher>
+            <date when="1547">1547</date>
+            <idno type="K10plus">389070084</idno>
+          </bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

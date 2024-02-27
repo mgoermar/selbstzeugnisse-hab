@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title>Lektürenotizen</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/affix.css">
+        <link rel="stylesheet" href="assets/css/proprietary.css">
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/proprietary.js"></script>
+        <script src="assets/js/jqcloud.js"></script>
+    </head>
+
+    <body onload="javascript:x = getNavBarHeight();scrollNav(x);">
+
+        <div class="container-fluid" style="background-color:#FFFFFF">
+          <h1>Lektürenotizen (1701, 1707)</h1>
+            <p>Es handelt sich um Lesenotizen des Herzogs Ludwig Rudoph von Braunschweig-Wolfenbüttel in seinen Tage- und Notizbüchern.</br>Rekonstruktion: Jan-Hendrik Hütten, Alexander Zirr, Andreas Herz, Miriam Mulzer, Maximilian Görmar, 2021</p>
+            <div style="float:left;margin-right:20px">
+            <p>Altkatalog: Herzog August Bibliothek Wolfenbüttel, Cod. Guelf. 28 Blank., Cod. Guelf. 286a Blank.<br />
+            <span id="switchLink"><a href="javascript:switchToOriginal()">Anzeige in Vorlageform</a></span></p>
+            </div>
+
+            <div class="dropdown" style="float:left">
+                <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Download<span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li class="dropdown-header">Datenexport</li> 
+                    <li><a href="ludwig_rudolf.csv">CSV</a></li>
+                    <li><a href="ludwig_rudolf.xml">XML</a></li>
+                    <li><a href="ludwig_rudolf-tei.xml">TEI</a></li>
+                    <li><a href="ludwig_rudolf.rdf">RDF/XML</a></li>
+                    <li><a href="ludwig_rudolf.ttl">Turtle</a></li>
+                    <li><a href="ludwig_rudolf-gephi.zip">Gephi (CSV)</a></li>
+                    <li><a href="ludwig_rudolf-SOLR.xml">Solr XML</a></li>
+                    <li class="dropdown-header">Geodaten</li>
+                    <li><a href="printingPlaces.csv">CSV</a></li>
+                    <li><a href="printingPlaces.kml">KML</a></li>
+                    <li class="dropdown-header">Komplette Website</li>
+                    <li><a href="ludwig_rudolf.zip">ZIP</a></li>
+                </ul>
+            </div> 
+        </div>
+        <nav class="navbar navbar-default" data-spy="affix" data-offset-top="197">
+            <ul class="nav navbar-nav">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-persName.html">Personen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-persName.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#A">A (7)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#B">B (7)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#C">C (11)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#D">D (5)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#F">F (6)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#G">G (11)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#H">H (1)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#I">I (1)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#J">J (1)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#K">K (3)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#L">L (13)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#M">M (13)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#N">N (4)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#O">O (3)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#P">P (7)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#R">R (2)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#S">S (17)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#T">T (8)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#V">V (2)</a></li>
+                        <li><a href="ludwig_rudolf-persName.html#Z">Z (3)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-beacon.html">Personenprofil<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-beacon.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#ActaPacisWestfalicae">Acta Pacis Westfalicae (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#AlbertinaWien">Albertina Wien (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#AlchemischeBestaendederHAB">Alchemische Bestände der HAB (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#ArchivportalD">Archivportal D (20)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BachDigital">Bach Digital (8)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BiographischesLexikondesKaiserthumsOesterreich">Biographisches Lexikon des Kaiserthums Oesterreich (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BiographischesLexikonzurGeschichteSuedosteuropas">Biographisches Lexikon zur Geschichte Südosteuropas (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BriefeundTexteausdemintellektuellenBerlinum1800">Briefe und Texte aus dem intellektuellen Berlin um 1800 (8)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#BriefwechselBenediktBahnsen">Briefwechsel Benedikt Bahnsen (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#CarlMariavonWeberGesamtausgabe(WeGA)">Carl Maria von Weber Gesamtausgabe (WeGA) (9)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#ControversiaetConfessio">Controversia et Confessio (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#correspSearch–VerzeichnissevonBriefeditionen">correspSearch – Verzeichnisse von Briefeditionen (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DeutscheBiographie">Deutsche Biographie (34)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DeutscheDigitaleBibliothek">Deutsche Digitale Bibliothek (102)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DeutschesTextarchiv">Deutsches Textarchiv (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DigitalerPortraitindex">Digitaler Portraitindex (64)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#DizionarioBiograficodegliItaliani">Dizionario Biografico degli Italiani (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#e-codicesVirtuelleHandschriftenbibliothekderSchweiz">e-codices Virtuelle Handschriftenbibliothek der Schweiz (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#editionhumboldtdigital">edition humboldt digital (7)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Fabricius:Bibliothecalatina">Fabricius: Bibliotheca latina (2)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#FrankfurterPersonenlexikon">Frankfurter Personenlexikon (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#FruchtbringendeGesellschaft">Fruchtbringende Gesellschaft (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#GesamtkatalogdeutschsprachigerLeichenpredigten">Gesamtkatalog deutschsprachiger Leichenpredigten (14)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#GeschichtsquellendesdeutschenMittelalters">Geschichtsquellen des deutschen Mittelalters (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Graphikportal–Akteure">Graphikportal – Akteure (6)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Graphikportal–Dargestellte">Graphikportal – Dargestellte (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#HessischeBiografie">Hessische Biografie (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#HistorischesLexikonderSchweiz">Historisches Lexikon der Schweiz (10)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#InternationalMusicScoreLibraryProject">International Music Score Library Project (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#JahresberichtefuerdeutscheGeschichte">Jahresberichte für deutsche Geschichte (39)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#JewishEncyclopedia1906">Jewish Encyclopedia 1906 (4)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#KalliopeVerbundkatalog">Kalliope Verbundkatalog (64)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#KatalogdesMuenzkabinettsStaatlicheMuseenzuBerlin">Katalog des Münzkabinetts Staatliche Museen zu Berlin (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#MatrikelderUniversitaetRostock">Matrikel der Universität Rostock (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#MelchiorAdam:Vitae">Melchior Adam: Vitae (5)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#PersonendatenbankderHoeflingederoesterreichischenHabsburger">Personendatenbank der Höflinge der österreichischen Habsburger (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Rheinland-PfaelzischePersonendatenbank">Rheinland-Pfälzische Personendatenbank (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#RostockerProfessorenkatalog">Rostocker Professorenkatalog (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Sandrart.net">Sandrart.net (9)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#SaechsischeBiographie">Sächsische Biographie (3)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Trithemius:Descriptoribusecclesiasticis">Trithemius: De scriptoribus ecclesiasticis (1)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#VerzeichnisderDrucke16.Jahrhunderts(VD16)">Verzeichnis der Drucke 16. Jahrhunderts (VD 16) (17)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#VirtuellesKupferstichkabinett">Virtuelles Kupferstichkabinett (24)</a></li>
+                        <li><a href="ludwig_rudolf-beacon.html#Wikipedia">Wikipedia (65)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-year.html">Datierung<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-year.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1540–1550">1540–1550 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1570–1580">1570–1580 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1580–1590">1580–1590 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1600–1610">1600–1610 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1620–1630">1620–1630 (2)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1630–1640">1630–1640 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1640–1650">1640–1650 (3)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1650–1660">1650–1660 (1)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1660–1670">1660–1670 (6)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1670–1680">1670–1680 (4)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1680–1690">1680–1690 (5)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1690–1700">1690–1700 (13)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1700–1710">1700–1710 (25)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1710–1720">1710–1720 (35)</a></li>
+                        <li><a href="ludwig_rudolf-year.html#1720–1730">1720–1730 (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-genres.html">Gattungen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-genres.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Biographie">Biographie (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Brief">Brief (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Erbauungsliteratur">Erbauungsliteratur (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Flugschrift">Flugschrift (5)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Gebetbuch">Gebetbuch (2)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Gelegenheitsschrift">Gelegenheitsschrift (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Handbuch">Handbuch (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Ordensliteratur:Jesuiten">Ordensliteratur:Jesuiten (2)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Rede">Rede (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Roman">Roman (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Satire">Satire (5)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Streitschrift:jur.">Streitschrift:jur. (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Streitschrift:theol.">Streitschrift:theol. (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Traktat">Traktat (1)</a></li>
+                        <li><a href="ludwig_rudolf-genres.html#Verserzaehlung">Verserzählung (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-subjects.html">Inhalte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-subjects.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Arsmoriendi">Ars moriendi (1)</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Genealogie">Genealogie (1)</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Geographie">Geographie (2)</a></li>
+                        <li><a href="ludwig_rudolf-subjects.html#Paedagogik">Pädagogik (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-languages.html">Sprachen<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-languages.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Englisch">Englisch (1)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Franzoesisch">Französisch (44)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Deutsch">Deutsch (28)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Altgriechisch">Altgriechisch (1)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Italienisch">Italienisch (4)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Latein">Latein (22)</a></li>
+                        <li><a href="ludwig_rudolf-languages.html#Spanisch">Spanisch (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-placeName.html">Orte<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-placeName.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#AlaHaye">A la Haye (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Ambergae">Ambergae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Amstelodami">Amstelodami (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Amsterdam">Amsterdam (13)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Basel">Basel (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Basileae">Basileae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Braunschweig">Braunschweig (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Breslau">Breslau (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Bresslau">Breßlau (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Brusselle">Brusselle (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Brusselles">Brusselles (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Bruxelles">Bruxelles (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Cologne">Cologne (6)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#ColoniaeAgrippina">Coloniae Agrippina (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#ColoniaeAgrippinae">Coloniae Agrippinae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Coelln">Cölln (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Coeln">Cöln (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Erlangen">Erlangen (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Firenze">Firenze (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Franckfurt">Franckfurt (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#FranckfurtamMayn">Franckfurt am Mayn (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Franequera">Franequera (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Frankfurt">Frankfurt (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Frankfurt,Main">Frankfurt, Main (3)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Frankfurt,Oder">Frankfurt, Oder (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Giessae">Giessae (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Gotha">Gotha (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Hamburg">Hamburg (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Jena">Jena (3)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Koeln">Köln (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#LaHaye">La Haye (7)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#LaHaye">LaHaye (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Leide">Leide (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Leipzig">Leipzig (6)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Liege">Liege (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Liegnitz">Liegnitz (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Londres">Londres (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#LutetiaeParisiorum">Lutetiae Parisiorum (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Luebeck">Lübeck (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#NewlyprintedatParis">Newly printed at Paris (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Nuernberg">Nürnberg (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Padova">Padova (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Paris">Paris (5)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Parisiis">Parisiis (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Rastatt">Rastatt (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Rotterdam">Rotterdam (4)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#s'Gravenhage">s'Gravenhage (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#UlmaeSuevorum">Ulmae Suevorum (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Utrecht">Utrecht (2)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Venedig">Venedig (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Venetia">Venetia (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#Wittenberg">Wittenberg (1)</a></li>
+                        <li><a href="ludwig_rudolf-placeName.html#s.l.">s. l. (13)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-publishers.html">Drucker/Verleger<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-publishers.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#^[Drucker:]StamperiadelSeminario">^[Drucker:] Stamperia del Seminario (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Acher">Acher (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#AubriusetSchleich">Aubrius & Schleich (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Backer">Backer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ballard">Ballard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Betkius">Betkius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#beyGottfriedLiebernickel">bey Gottfried Liebernickel (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Boetius">Boetius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Braun">Braun (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Broedelet">Broedelet (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Broncart">Broncart (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#BrunetetRigaut">Brunet & Rigaut (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Boeckmannus">Böckmannus (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Coup">Coup (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Cramoisy">Cramoisy (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Curti">Curti (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#DeBacker">De Backer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#deBacker">de Backer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#DeVoys">De Voys (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Desbordes">Desbordes (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Dole">Dole (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#duVal">duVal (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ehrich">Ehrich (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ellinckhuysen">Ellinckhuysen (3)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Fellgiebel">Fellgiebel (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Forster">Forster (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Fricx">Fricx (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#FritschetBoehm">Fritsch & Böhm (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#GedrucktundVerlegtbeyJ.GeorgZilligern,Hochf.privil.Hof-Buchdr.">Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr. (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Gleditsch">Gleditsch (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Gollner">Gollner (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Gronenberg,Simon">Gronenberg, Simon (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Groschuff">Groschuff (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Guignard">Guignard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Haak">Haak (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Henricpetri">Henricpetri (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Humm">Humm (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Jansonius">Jansonius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Johnson">Johnson (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kalcovius">Kalcovius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kenkus">Kenkus (2)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kinkius">Kinkius (4)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Krebs">Krebs (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Kuehne">Kühne (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Leonard">Leonard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#LeSincere">LeSincere (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Lorber">Lorber (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Marteau">Marteau (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Metternich">Metternich (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Meyer">Meyer (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Michalet">Michalet (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Mortier">Mortier (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Neuenhahn">Neuenhahn (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Otto">Otto (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#PierreMortier">Pierre Mortier (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Poolsum">Poolsum (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Pralard">Pralard (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Ribou">Ribou (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Roger">Roger (3)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Rohrlach">Rohrlach (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Rotterdam">Rotterdam (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#s.n.],andaretobesoldinLondon,byJohnStarkey">s.n.], and are to be sold in London, by John Starkey (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Sarzina">Sarzina (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schelte">Schelte (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Scheltus">Scheltus (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schiele">Schiele (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schneider">Schneider (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Schrey">Schrey (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Sincere">Sincere (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Slaart">Slaart (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Stamp.d.AccademiadellaCrusca">Stamp. d. Accademia della Crusca (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Strickius">Strickius (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Swart">Swart (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Troyel">Troyel (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Voys">Voys (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Weidmann">Weidmann (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Wetstein">Wetstein (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Wiedemeyerus">Wiedemeyerus (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#Zilliger">Zilliger (1)</a></li>
+                        <li><a href="ludwig_rudolf-publishers.html#s.n.">s. n. (1)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-format.html">Formate<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-format.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-format.html#2°">2° (4)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#4°">4° (13)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8°">8° (29)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#12°">12° (18)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#2">2 (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#458S.,3Bl.;8°">458 S., 3 Bl. ; 8° (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8">8 (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8"">8" (2)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#8o">8o (1)</a></li>
+                        <li><a href="ludwig_rudolf-format.html#ohneAngabe">ohne Angabe (30)</a></li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="ludwig_rudolf-systemManifestation.html">Nachweise<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="ludwig_rudolf-systemManifestation.html">Seitenanfang</a></li>
+                        <li><a href="ludwig_rudolf-systemManifestation.html#K10plus">K10plus (69)</a></li>
+                        <li><a href="ludwig_rudolf-systemManifestation.html#VD17">VD17 (9)</a></li>
+                        <li><a href="ludwig_rudolf-systemManifestation.html#VD18">VD18 (22)</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right" style="padding-right:15px">
+                <li class="dropdown">
+	                <a class="dropdown-toggle" data-toggle="dropdown" href="#"><span class="glyphicon glyphicon-picture"></span> Visualisierung<span class="caret"></span></a>
+	                <ul class="dropdown-menu">
+		                <li><a href="ludwig_rudolf-wordCloud.html" title="Wortwolken">Word Clouds</a></li>
+		                <li><a href="ludwig_rudolf-doughnut.html" title="Kreisdiagramme">Kreisdiagramme</a></li>
+	                </ul>
+                </li>
+            </ul>
+        </nav>
+        <div class="container" style="min-height:600px;">
+
+			<script>
+	var publishers = '[{\"text\":\"Kinkius\",\"weight\":4},{\"text\":\"Roger\",\"weight\":3},{\"text\":\"Ellinckhuysen\",\"weight\":3},{\"text\":\"Coup\",\"weight\":2},{\"text\":\"Gleditsch\",\"weight\":2},{\"text\":\"Fritsch & B\\u00f6hm\",\"weight\":2},{\"text\":\"Fellgiebel\",\"weight\":2},{\"text\":\"Kenkus\",\"weight\":2},{\"text\":\"Swart\",\"weight\":1},{\"text\":\"Ribou\",\"weight\":1},{\"text\":\"LeSincere\",\"weight\":1},{\"text\":\"Lorber\",\"weight\":1},{\"text\":\"Marteau\",\"weight\":1},{\"text\":\"Metternich\",\"weight\":1},{\"text\":\"Meyer\",\"weight\":1},{\"text\":\"Michalet\",\"weight\":1},{\"text\":\"Mortier\",\"weight\":1},{\"text\":\"Neuenhahn\",\"weight\":1},{\"text\":\"Otto\",\"weight\":1},{\"text\":\"Pierre Mortier\",\"weight\":1},{\"text\":\"Poolsum\",\"weight\":1},{\"text\":\"Zilliger\",\"weight\":1},{\"text\":\"Pralard\",\"weight\":1},{\"text\":\"Wiedemeyerus\",\"weight\":1},{\"text\":\"Wetstein\",\"weight\":1},{\"text\":\"Strickius\",\"weight\":1},{\"text\":\"Schiele\",\"weight\":1},{\"text\":\"Stamp. d. Accademia della Crusca\",\"weight\":1},{\"text\":\"Slaart\",\"weight\":1},{\"text\":\"Sincere\",\"weight\":1},{\"text\":\"Troyel\",\"weight\":1},{\"text\":\"Schrey\",\"weight\":1},{\"text\":\"Schneider\",\"weight\":1},{\"text\":\"Scheltus\",\"weight\":1},{\"text\":\"Weidmann\",\"weight\":1},{\"text\":\"Schelte\",\"weight\":1},{\"text\":\"Sarzina\",\"weight\":1},{\"text\":\"s.n.], and are to be sold in London, by John Starkey\",\"weight\":1},{\"text\":\"Leonard\",\"weight\":1},{\"text\":\"Rohrlach\",\"weight\":1},{\"text\":\"Voys\",\"weight\":1},{\"text\":\"Rotterdam\",\"weight\":1},{\"text\":\"^[Drucker:] Stamperia del Seminario\",\"weight\":1},{\"text\":\"K\\u00fchne\",\"weight\":1},{\"text\":\"Broncart\",\"weight\":1},{\"text\":\"de Backer\",\"weight\":1},{\"text\":\"De Backer\",\"weight\":1},{\"text\":\"Curti\",\"weight\":1},{\"text\":\"Cramoisy\",\"weight\":1},{\"text\":\"B\\u00f6ckmannus\",\"weight\":1},{\"text\":\"Brunet & Rigaut\",\"weight\":1},{\"text\":\"Broedelet\",\"weight\":1},{\"text\":\"Desbordes\",\"weight\":1},{\"text\":\"Braun\",\"weight\":1},{\"text\":\"Boetius\",\"weight\":1},{\"text\":\"bey Gottfried Liebernickel\",\"weight\":1},{\"text\":\"Betkius\",\"weight\":1},{\"text\":\"Ballard\",\"weight\":1},{\"text\":\"Backer\",\"weight\":1},{\"text\":\"Aubrius & Schleich\",\"weight\":1},{\"text\":\"De Voys\",\"weight\":1},{\"text\":\"Dole\",\"weight\":1},{\"text\":\"Krebs\",\"weight\":1},{\"text\":\"Haak\",\"weight\":1},{\"text\":\"Acher\",\"weight\":1},{\"text\":\"Kalcovius\",\"weight\":1},{\"text\":\"Johnson\",\"weight\":1},{\"text\":\"Jansonius\",\"weight\":1},{\"text\":\"Humm\",\"weight\":1},{\"text\":\"Henricpetri\",\"weight\":1},{\"text\":\"Guignard\",\"weight\":1},{\"text\":\"duVal\",\"weight\":1},{\"text\":\"Groschuff\",\"weight\":1},{\"text\":\"Gronenberg, Simon\",\"weight\":1},{\"text\":\"Gollner\",\"weight\":1},{\"text\":\"Gedruckt und Verlegt bey J. Georg Zilligern, Hochf. privil. Hof-Buchdr.\",\"weight\":1},{\"text\":\"Fricx\",\"weight\":1},{\"text\":\"Forster\",\"weight\":1},{\"text\":\"Ehrich\",\"weight\":1},{\"text\":\"s. n.\",\"weight\":1}]';
+		var format = '[{\"text\":\"ohne Angabe\",\"weight\":30},{\"text\":\"8\\u00b0\",\"weight\":29},{\"text\":\"12\\u00b0\",\"weight\":18},{\"text\":\"4\\u00b0\",\"weight\":13},{\"text\":\"2\\u00b0\",\"weight\":4},{\"text\":\"8&quot;\",\"weight\":2},{\"text\":\"2\",\"weight\":1},{\"text\":\"458 S., 3 Bl. ; 8\\u00b0\",\"weight\":1},{\"text\":\"8\",\"weight\":1},{\"text\":\"8o\",\"weight\":1}]';
+		var genres = '[{\"text\":\"Satire\",\"weight\":5},{\"text\":\"Flugschrift\",\"weight\":5},{\"text\":\"Gebetbuch\",\"weight\":2},{\"text\":\"Ordensliteratur:Jesuiten\",\"weight\":2},{\"text\":\"Biographie\",\"weight\":1},{\"text\":\"Brief\",\"weight\":1},{\"text\":\"Erbauungsliteratur\",\"weight\":1},{\"text\":\"Gelegenheitsschrift\",\"weight\":1},{\"text\":\"Handbuch\",\"weight\":1},{\"text\":\"Rede\",\"weight\":1},{\"text\":\"Roman\",\"weight\":1},{\"text\":\"Streitschrift:jur.\",\"weight\":1},{\"text\":\"Streitschrift:theol.\",\"weight\":1},{\"text\":\"Traktat\",\"weight\":1},{\"text\":\"Verserz\\u00e4hlung\",\"weight\":1}]';
+		var subjects = '[{\"text\":\"Geographie\",\"weight\":2},{\"text\":\"Ars moriendi\",\"weight\":1},{\"text\":\"Genealogie\",\"weight\":1},{\"text\":\"P\\u00e4dagogik\",\"weight\":1}]';
+		var persName = '[{\"text\":\"Giovanni Paolo Marana\",\"weight\":6,\"link\":\"ludwig_rudolf-persName.html#person119080370\"},{\"text\":\"David Schweinitz\",\"weight\":5,\"link\":\"ludwig_rudolf-persName.html#person12348796X\"},{\"text\":\"Jacques Basnage de Beauval\",\"weight\":3,\"link\":\"ludwig_rudolf-persName.html#person120538253\"},{\"text\":\"Baltasar Graci\\u00e1n y Morales\",\"weight\":3,\"link\":\"ludwig_rudolf-persName.html#person118696874\"},{\"text\":\"Eberhard Finen\",\"weight\":2,\"link\":\"ludwig_rudolf-persName.html#person12131412X\"},{\"text\":\"Marie Catherine Le Jumel de Barneville Aulnoy\",\"weight\":2,\"link\":\"ludwig_rudolf-persName.html#person118808788\"},{\"text\":\"Fran\\u00e7ois P\\u00e9tis de la Croix\",\"weight\":2,\"link\":\"ludwig_rudolf-persName.html#person117702269\"},{\"text\":\"Casimir Freschot\",\"weight\":2,\"link\":\"ludwig_rudolf-persName.html#person128597771\"},{\"text\":\"Jacques Abbadie\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person100002307\"},{\"text\":\"John Owen\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118787446\"},{\"text\":\"Armandus Joannes Richelieu\",\"weight\":1},{\"text\":\"Petronius Arbiter\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118593293\"},{\"text\":\"Jacobus Perizonius\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person119019914\"},{\"text\":\"Joachim Pastorius\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person121895610\"},{\"text\":\"Sam. Parker\",\"weight\":1},{\"text\":\"Johann Philipp Palthen\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person116021675\"},{\"text\":\"Fran\\u00e7ois Nodot\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118831917\"},{\"text\":\"Antonio Osorio\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person137527616\"},{\"text\":\"Martin Opitz\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118590111\"},{\"text\":\"Nicephorus Callistus Xanthopulus\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person10095443X\"},{\"text\":\"Reinerus Neuhusius\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person132103885\"},{\"text\":\"Edo Neuhusius\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person128500751\"},{\"text\":\"Sebastian M\\u00fcnster\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118585517\"},{\"text\":\"Daniel M\\u00f6gling\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person117080632\"},{\"text\":\"Jean-Baptiste Morvan de Bellegarde\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person101503660\"},{\"text\":\"Daniel Georg Morhof\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118784919\"},{\"text\":\"Louis Montfort\",\"weight\":1},{\"text\":\"Matthaeus Merian\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118581090\"},{\"text\":\"Giustiniano Martinioni\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person1055727280\"},{\"text\":\"Savinien Rifl\\u00e9 de Garouville\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person100140858\"},{\"text\":\"\\u00c9lie Saurin\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person1055323457\"},{\"text\":\"Francesco Sansovino\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person119255901\"},{\"text\":\"Alessandro Tassoni\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118753959\"},{\"text\":\"Johann Georg Zilliger\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person138517894\"},{\"text\":\"Gottfried Zenner\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person104217650\"},{\"text\":\"Jean Jacques Vitriarius\",\"weight\":1},{\"text\":\"Vassetz abb\\u00e9\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person1055126783\"},{\"text\":\"Johann Wolfgang Trier\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person104043806\"},{\"text\":\"Philipp Julius Toppe\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person133492966\"},{\"text\":\"Tomaso Tomasi\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person121889556\"},{\"text\":\"Thomas von Kempen\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118642766\"},{\"text\":\"Theophrastus\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118621793\"},{\"text\":\"Antoine Teissier\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person129426024\"},{\"text\":\"Cornelius Tacitus\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118620452\"},{\"text\":\"Ludwig Hertzog in Schlesien, zur Liegnitz, Brieg und Goldberg\",\"weight\":1},{\"text\":\"Francisco S\\u00e1nchez de las Brozas\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118751123\"},{\"text\":\"Julius Sperber\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person128616385\"},{\"text\":\"Landgr\\u00e4fin Sophia Leonora Hessen\",\"weight\":1},{\"text\":\"Simon Wilson\",\"weight\":1},{\"text\":\"Camillo Silvestri\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person1012625001\"},{\"text\":\"Philip Sidney\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person11861391X\"},{\"text\":\"Caspar Schwenckfeld\",\"weight\":1},{\"text\":\"Johann Christoph Schwedler\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person117653713\"},{\"text\":\"Caspar Schoppe\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person119298600\"},{\"text\":\"Simon Schardius\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person117106178\"},{\"text\":\"Herzog Ludwig Rudolf Braunschweig-L\\u00fcneburg\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person124700470\"},{\"text\":\"Fran\\u00e7ois Paul Lisola\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person11878014X\"},{\"text\":\"F\\u00fcrst Ludwig Anhalt-K\\u00f6then\",\"weight\":1},{\"text\":\"Christian Hertzog in Schlesien, zur Liegnitz, Brieg und Wohlau\",\"weight\":1},{\"text\":\"Fronton Du Duc\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person124677320\"},{\"text\":\"Matthaeus Dresser\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person116218363\"},{\"text\":\"Laurent Drelincourt\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person130060836\"},{\"text\":\"Jean Baptiste Denis\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person1055469648\"},{\"text\":\"Stefano Curti\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person1024756335\"},{\"text\":\"Richard Cumberland\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person121534006\"},{\"text\":\"Prosper Jolyot Cr\\u00e9billon\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118677284\"},{\"text\":\"Antoine Courtin\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person120374307\"},{\"text\":\"Pierre Coste\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person11900478X\"},{\"text\":\"Pierre Corneille\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118522175\"},{\"text\":\"... Chevreuse\",\"weight\":1},{\"text\":\"Hermann Follin\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person122674391\"},{\"text\":\"Samuel Chappuzeau\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person124861075\"},{\"text\":\"Karl Caffa\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person116400684\"},{\"text\":\"Joachim Caesar\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person122503279\"},{\"text\":\"Orlandus Bridgeman\",\"weight\":1},{\"text\":\"Balthasar Bekker\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person119016915\"},{\"text\":\"Michel-Antoine Baudrand\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person124639089\"},{\"text\":\"Antonio Barberini\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person122970470\"},{\"text\":\"Andreas Althamer\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person100010423\"},{\"text\":\"Joachimus Alefeld\",\"weight\":1},{\"text\":\"Herzog Albrecht Sachsen-J\\u00fclich-Cleve-Berg\",\"weight\":1},{\"text\":\"Louis Ellies Du Pin\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person100115993\"},{\"text\":\"Johann Follin\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person122674332\"},{\"text\":\"John Locke\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118573748\"},{\"text\":\"Kaiser Karl Heiliges R\\u00f6misches Reich\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118560093\"},{\"text\":\"Louis Abelly\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person12232319X\"},{\"text\":\"Gottfried Liebernickel\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person1037506340\"},{\"text\":\"Antoine Louis LeBrun\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person172224861\"},{\"text\":\"S\\u00e9bastien Le Nain de Tillemont\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person128681667\"},{\"text\":\"Richard Lassels\",\"weight\":1},{\"text\":\"Johann Lange\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person136285422\"},{\"text\":\"Fran\\u00e7ois La Rochefoucauld\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118569775\"},{\"text\":\"Anne La Roche-Guilhem\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person119462222\"},{\"text\":\"Jean La Bruy\\u00e8re\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118725785\"},{\"text\":\"Philipp Knipschildt\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person124429254\"},{\"text\":\"Johann Kaiser\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person1055513329\"},{\"text\":\"Andreas Gail\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person11884296X\"},{\"text\":\"Pierre Jurieu\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118558900\"},{\"text\":\"Decimus Iunius Iuvenalis\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person118556126\"},{\"text\":\"Juan Huarte de San Juan\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person119456222\"},{\"text\":\"Johann G\\u00fcnther\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person116912731\"},{\"text\":\"Walter Gymnich\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person124408389\"},{\"text\":\"Sigismundus Guldensternius\",\"weight\":1},{\"text\":\"Jean-L\\u00e9onor le Gallois Grimarest\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person100144489\"},{\"text\":\"Jacques Goussault\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person120006294\"},{\"text\":\"Henricus Loriti Glareanus\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person11905339X\"},{\"text\":\"Georg Hertzog in Schlesien zur Liegnitz und Brieg\",\"weight\":1},{\"text\":\"Johann Ehrenfried Zschackwitz\",\"weight\":1,\"link\":\"ludwig_rudolf-persName.html#person117014931\"}]';
+		var placeName = '[{\"text\":\"s. l.\",\"weight\":13},{\"text\":\"Amsterdam\",\"weight\":13},{\"text\":\"La Haye\",\"weight\":7},{\"text\":\"Leipzig\",\"weight\":6},{\"text\":\"Cologne\",\"weight\":6},{\"text\":\"Paris\",\"weight\":5},{\"text\":\"Rotterdam\",\"weight\":4},{\"text\":\"Jena\",\"weight\":3},{\"text\":\"Frankfurt, Main\",\"weight\":3},{\"text\":\"Braunschweig\",\"weight\":2},{\"text\":\"Utrecht\",\"weight\":2},{\"text\":\"L\\u00fcbeck\",\"weight\":2},{\"text\":\"Brusselles\",\"weight\":2},{\"text\":\"Bruxelles\",\"weight\":2},{\"text\":\"Londres\",\"weight\":1},{\"text\":\"Liegnitz\",\"weight\":1},{\"text\":\"Liege\",\"weight\":1},{\"text\":\"Leide\",\"weight\":1},{\"text\":\"Lutetiae Parisiorum\",\"weight\":1},{\"text\":\"Parisiis\",\"weight\":1},{\"text\":\"Newly printed at Paris\",\"weight\":1},{\"text\":\"N\\u00fcrnberg\",\"weight\":1},{\"text\":\"Padova\",\"weight\":1},{\"text\":\"Rastatt\",\"weight\":1},{\"text\":\"s\'Gravenhage\",\"weight\":1},{\"text\":\"Ulmae Suevorum\",\"weight\":1},{\"text\":\"Venedig\",\"weight\":1},{\"text\":\"Venetia\",\"weight\":1},{\"text\":\"Wittenberg\",\"weight\":1},{\"text\":\"LaHaye\",\"weight\":1},{\"text\":\"A la Haye\",\"weight\":1},{\"text\":\"K\\u00f6ln\",\"weight\":1},{\"text\":\"C\\u00f6lln\",\"weight\":1},{\"text\":\"Amstelodami\",\"weight\":1},{\"text\":\"Basel\",\"weight\":1},{\"text\":\"Basileae\",\"weight\":1},{\"text\":\"Breslau\",\"weight\":1},{\"text\":\"Bre\\u00dflau\",\"weight\":1},{\"text\":\"Brusselle\",\"weight\":1},{\"text\":\"Coloniae Agrippina\",\"weight\":1},{\"text\":\"Coloniae Agrippinae\",\"weight\":1},{\"text\":\"C\\u00f6ln\",\"weight\":1},{\"text\":\"Hamburg\",\"weight\":1},{\"text\":\"Erlangen\",\"weight\":1},{\"text\":\"Firenze\",\"weight\":1},{\"text\":\"Franckfurt\",\"weight\":1},{\"text\":\"Franckfurt am Mayn\",\"weight\":1},{\"text\":\"Franequera\",\"weight\":1},{\"text\":\"Frankfurt\",\"weight\":1},{\"text\":\"Frankfurt, Oder\",\"weight\":1},{\"text\":\"Giessae\",\"weight\":1},{\"text\":\"Ambergae\",\"weight\":1},{\"text\":\"Gotha\",\"weight\":1}]';
+		var languages = '[{\"text\":\"Franz\\u00f6sisch\",\"weight\":44},{\"text\":\"Deutsch\",\"weight\":28},{\"text\":\"Latein\",\"weight\":22},{\"text\":\"Italienisch\",\"weight\":4},{\"text\":\"Englisch\",\"weight\":1},{\"text\":\"Altgriechisch\",\"weight\":1},{\"text\":\"Spanisch\",\"weight\":1}]';
+		var beacon = '[{\"text\":\"Deutsche Digitale Bibliothek\",\"weight\":102},{\"text\":\"Wikipedia\",\"weight\":65},{\"text\":\"Kalliope Verbundkatalog\",\"weight\":64},{\"text\":\"Digitaler Portraitindex\",\"weight\":64},{\"text\":\"Jahresberichte f\\u00fcr deutsche Geschichte\",\"weight\":39},{\"text\":\"Deutsche Biographie\",\"weight\":34},{\"text\":\"Virtuelles Kupferstichkabinett\",\"weight\":24},{\"text\":\"Archivportal D\",\"weight\":20},{\"text\":\"Verzeichnis der Drucke 16. Jahrhunderts (VD 16)\",\"weight\":17},{\"text\":\"Gesamtkatalog deutschsprachiger Leichenpredigten\",\"weight\":14},{\"text\":\"Historisches Lexikon der Schweiz\",\"weight\":10},{\"text\":\"Carl Maria von Weber Gesamtausgabe (WeGA)\",\"weight\":9},{\"text\":\"Sandrart.net\",\"weight\":9},{\"text\":\"Briefe und Texte aus dem intellektuellen Berlin um 1800\",\"weight\":8},{\"text\":\"Bach Digital\",\"weight\":8},{\"text\":\"edition humboldt digital\",\"weight\":7},{\"text\":\"Graphikportal \\u2013 Akteure\",\"weight\":6},{\"text\":\"Alchemische Best\\u00e4nde der HAB\",\"weight\":6},{\"text\":\"Deutsches Textarchiv\",\"weight\":6},{\"text\":\"correspSearch \\u2013 Verzeichnisse von Briefeditionen\",\"weight\":6},{\"text\":\"Melchior Adam: Vitae\",\"weight\":5},{\"text\":\"International Music Score Library Project\",\"weight\":5},{\"text\":\"Graphikportal \\u2013 Dargestellte\",\"weight\":5},{\"text\":\"Acta Pacis Westfalicae\",\"weight\":5},{\"text\":\"Jewish Encyclopedia 1906\",\"weight\":4},{\"text\":\"Katalog des M\\u00fcnzkabinetts Staatliche Museen zu Berlin\",\"weight\":3},{\"text\":\"S\\u00e4chsische Biographie\",\"weight\":3},{\"text\":\"Rheinland-Pf\\u00e4lzische Personendatenbank\",\"weight\":3},{\"text\":\"Personendatenbank der H\\u00f6flinge der \\u00f6sterreichischen Habsburger\",\"weight\":3},{\"text\":\"Controversia et Confessio\",\"weight\":2},{\"text\":\"Briefwechsel Benedikt Bahnsen\",\"weight\":2},{\"text\":\"e-codices Virtuelle Handschriftenbibliothek der Schweiz\",\"weight\":2},{\"text\":\"Fabricius: Bibliotheca latina\",\"weight\":2},{\"text\":\"Biographisches Lexikon des Kaiserthums Oesterreich\",\"weight\":2},{\"text\":\"Biographisches Lexikon zur Geschichte S\\u00fcdosteuropas\",\"weight\":2},{\"text\":\"Matrikel der Universit\\u00e4t Rostock\",\"weight\":1},{\"text\":\"Albertina Wien\",\"weight\":1},{\"text\":\"Rostocker Professorenkatalog\",\"weight\":1},{\"text\":\"Frankfurter Personenlexikon\",\"weight\":1},{\"text\":\"Fruchtbringende Gesellschaft\",\"weight\":1},{\"text\":\"Trithemius: De scriptoribus ecclesiasticis\",\"weight\":1},{\"text\":\"Dizionario Biografico degli Italiani\",\"weight\":1},{\"text\":\"Hessische Biografie\",\"weight\":1},{\"text\":\"Geschichtsquellen des deutschen Mittelalters\",\"weight\":1}]';
+		makeWordCloud(persName);
+	</script>
+	
+			<div class="row">
+				<div class="buttonsTop">
+					<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(publishers)">Drucker/Verleger</button>
+	<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(format)">Formate</button>
+	<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(genres)">Gattungen</button>
+	<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(subjects)">Inhalte</button>
+	<button type="button" class="btn btn-default active" onclick="javascript:updateWordCloud(persName)">Personen</button>
+	<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(placeName)">Orte</button>
+	<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(languages)">Sprachen</button>
+	<button type="button" class="btn btn-default" onclick="javascript:updateWordCloud(beacon)">Personenprofil</button>
+	
+				</div>
+			</div>
+		    <div id="wordcloud"></div>        </div>
+
+        <footer class="container-fluid">
+            <p><a href="../index.php" style="color:white">Start</a>&nbsp;&nbsp;<a href="http://www.hab.de/de/home/impressum.html" style="color:white" target="_blank">Impressum</a></p>
+            <p style="color:white; text-align:right;">Stand: 09.09.2021</p>
+        </footer>
+
+    </body>
+
+</html>

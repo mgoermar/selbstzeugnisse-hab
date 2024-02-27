@@ -29,7 +29,7 @@
             
             <div xml:id="E1618-03-19"><head><date when="1618-03-19">den 19 Martÿ <c>♃</c>,</date></head><p> die Fürstliche
                 begrebnuß, H<ex>err</ex> <rs ref="register.xml#Philipp_II._Pommern_Stettin" type="person">Philippi des Andern zu Stetin Pommern</rs>,
-                angestellet und verrichtet worden: </p></div>
+                angestellet und verrichtet worden: <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
             <div xml:id="E1618-03-30"><head><date when="1618-03-30">den 30 Martÿ <c>☽</c>,</date></head><p> <del rend="overstrike">zu</del> biß
                 <rs ref="register.xml#Ueckermuende" type="place">Ükermünde</rs>: 7. m<ex>eill</ex>.</p></div>
@@ -40,7 +40,7 @@
             <div xml:id="E1618-04-01"><head><date when="1618-04-01">den 1. Aprilis: <c>☿</c></date></head><p> biß <rs ref="register.xml#Wolgast" type="place">Wolgast</rs>, 3.
                 m<ex>eill</ex>.</p></div>
             
-            <div xml:id="E1618-04-09"><head><date when="1618-04-09">den 9. Aprilis <c>♃</c></date></head><p> biß <rs ref="register.xml#Zinnowitz" type="place">Zitz</rs>:</p></div>
+            <div xml:id="E1618-04-09"><add place="inline"><head><date when="1618-04-09">den 9. Aprilis <c>♃</c></date></head><p> biß <rs ref="register.xml#Zinnowitz" type="place">Zitz</rs>:</p></add></div>
             
             <div xml:id="E1618-04-10"><head><date when="1618-04-10">den 10 Aprilis <c>♀</c></date></head><p> biß <rs ref="register.xml#Loitz" type="place">Loitz</rs>: 5.
                 m<ex>eill</ex>.</p></div>
@@ -54,7 +54,7 @@
             
             <div xml:id="E1618-04-18"><head><date when="1618-04-18">d<ex>e</ex>n 18 Aprilis <c>♄</c>,</date></head><p> biß <rs ref="register.xml#Grabow" type="place">Grabow</rs>. 4. m<ex>eill</ex>.</p></div>
             
-            <div xml:id="E1618-04-21"><head><date when="1618-04-21">d<ex>e</ex>n 21 Aprilis, <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>: <c type="accent">x</c><note type="annotation">Schluss- oder Betonungszeichen</note></p></div>
+            <div xml:id="E1618-04-21"><head><date when="1618-04-21">d<ex>e</ex>n 21 Aprilis, <c>♂</c>,</date></head><p> biß <rs ref="register.xml#Hitzacker" type="place">Hitzger</rs>: <foreign xml:lang="lat">p<ex>erge</ex></foreign><note type="translation" resp="mg">usw.</note></p></div>
             
         </body>
     </text>
