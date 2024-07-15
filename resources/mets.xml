@@ -268,10 +268,10 @@
       <file ID="edition_grand_tour" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/grandtour/Reiseberichte/index_grand_tour.xml" LOCTYPE="URL" />
       </file>
-      <!--<file ID="grand_tour.register.personen" MIMETYPE="application/tei+xml">
+      <file ID="grand_tour.register.personen" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/grandtour/register/listPerson_grand_tour.xml" LOCTYPE="URL" />
       </file>
-      <file ID="grand_tour.register.orte" MIMETYPE="application/tei+xml">
+      <!--<file ID="grand_tour.register.orte" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/grandtour/register/listPlace_grand_tour.xml" LOCTYPE="URL" />
       </file>
       <file ID="grand_tour.register.koerperschaften" MIMETYPE="application/tei+xml">
@@ -284,7 +284,10 @@
         <FLocat xlink:href="daten/grandtour/introduction/introduction_cod_guelf_267_1_extrav.xml" LOCTYPE="URL" />
       </file>
       <file ID="grand_tour.cod_guelf_267_1_extrav" MIMETYPE="application/tei+xml">
-        <FLocat xlink:href="daten/grandtour/Reiseberichte/cod_guelf_267_1_extrav.xml" LOCTYPE="URL" /> <!--erstmal nur testweise eingebunden-->
+        <FLocat xlink:href="daten/grandtour/Reiseberichte/cod_guelf_267_1_extrav.xml" LOCTYPE="URL" />
+      </file>
+      <file ID="grand_tour.cod_guelf_89_blank" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/grandtour/Reiseberichte/cod_guelf_89_blank.xml" LOCTYPE="URL" /> 
       </file>
     </fileGrp>
     <xi:include href="daten/repertorium/mets.xml" xpointer="files"/>
@@ -529,10 +532,10 @@
           <div ID="grand_tour.projektbeschreibung">
             <fptr FILEID="grand_tour.introduction.introduction_projectDesc"/>
           </div>
-          <!--<div ID="grand_tour.personen">
-            <fptr FILEID="grandtour.register.personen"/>
+          <div ID="grand_tour.personen">
+            <fptr FILEID="grand_tour.register.personen"/>
           </div>
-          <div ID="grand_tour.orte">
+          <!--<div ID="grand_tour.orte">
             <fptr FILEID="grandtour.register.orte"/>
           </div>-->
           <div ID="grand_tour.cod_guelf_267_1_extrav">
@@ -541,6 +544,11 @@
             </div>
             <div ID="grand_tour.cod_guelf_267_1_extrav">
               <fptr FILEID="grand_tour.cod_guelf_267_1_extrav"/>
+            </div>
+          </div>
+          <div ID="grand_tour.cod_guelf_89_blank">
+            <div ID="grand_tour.cod_guelf_89_blank">
+              <fptr FILEID="grand_tour.cod_guelf_89_blank"/>
             </div>
           </div>
         </div>
@@ -735,6 +743,14 @@
     <behavior STRUCTID="grand_tour.cod_guelf_267_1_extrav">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="grand_tour.cod_guelf_89_blank">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="grand_tour.personen">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/listPerson_grand_tour.xsl"/>
     </behavior>
     <behavior STRUCTID="projekt">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>

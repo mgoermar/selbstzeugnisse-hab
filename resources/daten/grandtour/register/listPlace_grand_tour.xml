@@ -34,6 +34,13 @@
                 <place xml:id="aare_river">
                     <placeName ref="https://www.geonames.org/2661878/aare.html">Aare, Fluss</placeName>
                 </place>
+                <place xml:id="aby">
+                    <placeName ref="https://www.geonames.org/2727594/aby.html">Åby</placeName>
+                </place>
+                <place xml:id="aby_kroock">
+                    <placeName>Aby Kroock</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Norrköping und Stockholm gelegen. Nicht näher identifizierbar.</note>
+                </place>
                 <place xml:id="aegypten">
                     <placeName ref="https://www.geonames.org/8378475/aegyptus.html">Ägypten</placeName>
                 </place>
@@ -52,6 +59,9 @@
                 <place xml:id="ambronay">
                     <placeName ref="https://www.geonames.org/3037884/ambronay.html">Ambronay</placeName>
                 </place>
+                <place xml:id="aengelholm">
+                    <placeName ref="https://www.geonames.org/2725901/aengelholm.html">Ängelholm</placeName>
+                </place>
                 <place xml:id="anklam">
                     <placeName ref="https://www.geonames.org/2956018/anklam.html">Anklam</placeName>
                 </place>
@@ -61,11 +71,20 @@
                 <place xml:id="attiswil">
                     <placeName ref="https://www.geonames.org/2661692/attiswil.html">Attiswil</placeName>
                 </place>
+                <place xml:id="augsburg">
+                    <placeName ref="https://www.geonames.org/2954172/augsburg.html">Augsburg</placeName>
+                </place>
+                <place xml:id="aurich">
+                    <placeName ref="https://www.geonames.org/2954006/aurich.html">Aurich</placeName>
+                </place>
                 <place xml:id="baden_markgrafschaft">
                     <placeName ref="https://www.wikidata.org/wiki/Q650489">Baden, Markgrafschaft</placeName>
                 </place>
                 <place xml:id="balsthal">
                     <placeName ref="https://www.geonames.org/2661626/balsthal.html">Balsthal</placeName>
+                </place>
+                <place xml:id="bankeberg">
+                    <placeName ref="https://www.geonames.org/2723507/bankeberg.html">Bankeberg</placeName>
                 </place>
                 <place xml:id="basel">
                     <placeName ref="https://www.geonames.org/2661604/basel.html">Basel</placeName>
@@ -75,6 +94,10 @@
                 </place>
                 <place xml:id="beaujolais">
                     <placeName ref="https://d-nb.info/gnd/4080306-5">Beaujolais</placeName>
+                </place>
+                <place xml:id="belare">
+                    <placeName>Belare</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Halmstad und Jönköping gelegen. Nicht näher identifizierbar.</note>
                 </place>
                 <place xml:id="benfeld">
                     <placeName ref="https://www.geonames.org/3033488/benfeld.html">Benfeld</placeName>
@@ -87,6 +110,10 @@
                 </place>
                 <place xml:id="bern_republik">
                     <placeName ref="https://d-nb.info/gnd/1109823428">Bern, Stadt und Republik</placeName>
+                </place>
+                <place xml:id="biorckholm">
+                    <placeName>Biorckholm</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Linköping und Norrköping gelegen. Nicht näher identifizierbar.</note>
                 </place>
                 <place xml:id="bornheim">
                     <placeName ref="https://www.geonames.org/2946108/bornheim.html">Bornheim</placeName>
@@ -109,6 +136,9 @@
                 <place xml:id="braunschweig">
                     <placeName ref="https://www.geonames.org/2945024/braunschweig.html">Braunschweig</placeName>
                 </place>
+                <place xml:id="braunschweig-lueneburg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/17444-0">Braunschweig-Lüneburg, Herzogtum</placeName>
+                </place>
                 <place xml:id="breisach">
                     <placeName ref="https://www.geonames.org/2944800/breisach-am-rhein.html">Breisach</placeName>
                 </place>
@@ -120,6 +150,10 @@
                 </place>
                 <place xml:id="bruchsal">
                     <placeName ref="https://www.geonames.org/2943560/bruchsal.html">Bruchsal</placeName>
+                </place>
+                <place xml:id="brueneck">
+                    <placeName>Brüneck</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Linköping und Norrköping gelegen. Nicht näher identifizierbar.</note>
                 </place>
                 <place xml:id="bruessel">
                     <placeName ref="https://www.geonames.org/2800866/brussels.html">Brüssel (Brussels, Bruxelles)</placeName>
@@ -152,7 +186,7 @@
                     <placeName>Chastillonet</placeName>
                     <note>1659 Schloss oder Burg am Fluss <rs type="place" ref="#ain_river">Ain</rs> in der Nähe von <rs type="place" ref="#chatillon-la-palud">Châtillon-la-Palud</rs>; nicht näher identifizierbar.</note>
                 </place>
-                <place xml:id="chatillon-la-palud">
+                <place xml:id="chatillon-la-palude">
                     <placeName ref="https://www.geonames.org/3026067/chatillon-la-palud.html">Châtillon-la-Palud</placeName>
                 </place>
                 <place xml:id="china">
@@ -211,12 +245,21 @@
                 </place>
                 <place xml:id="elmshorn">
                     <placeName ref="https://www.geonames.org/2930821/elmshorn.html">Elmshorn</placeName>
+                </place>                
+                <place xml:id="england_koenigreich">
+                    <placeName ref="https://d-nb.info/gnd/4014770-8">England, Königreich</placeName>
                 </place>
                 <place xml:id="enkhuizen">
                     <placeName ref="https://www.geonames.org/2756077/enkhuizen.html">Enkhuizen</placeName>
                 </place>
                 <place xml:id="europa">
                     <placeName ref="https://www.geonames.org/6255148/europe.html">Europa</placeName>
+                </place>
+                <place xml:id="flandern_grafschaft">
+                    <placeName ref="https://d-nb.info/gnd/4071249-7">Flandern, Grafschaft</placeName>
+                </place>
+                <place xml:id="flensburg">
+                    <placeName ref="https://www.geonames.org/2926271/flensburg.html">Flensburg</placeName>
                 </place>
                 <place xml:id="forez">
                     <placeName ref="https://d-nb.info/gnd/4086515-0">Forez</placeName>
@@ -235,6 +278,9 @@
                 </place>
                 <place xml:id="frauenburg">
                     <placeName ref="https://www.geonames.org/3099634/frombork.html">Frauenburg (Frombork)</placeName>
+                </place>
+                <place xml:id="frederiksborg_schloss">
+                    <placeName ref="https://www.geonames.org/2621938/frederiksborg-slot.html">Frederiksborg, Schloss (Hillerød)</placeName>
                 </place>
                 <place xml:id="freiburg">
                     <placeName ref="https://www.geonames.org/2925177/freiburg.html">Freiburg im Breisgau</placeName>
@@ -257,11 +303,11 @@
                 <place xml:id="gallien">
                     <placeName ref="https://d-nb.info/gnd/4019150-3">Gallien</placeName>
                 </place>
+                <place xml:id="gamla_uppsala">
+                    <placeName ref="https://www.geonames.org/2712993/gamla-uppsala.html">Gamla Uppsala (Alt-Uppsala)</placeName>
+                </place>
                 <place xml:id="genf">
                     <placeName ref="https://www.geonames.org/2660646/geneve.html">Genf</placeName>
-                </place>
-                <place xml:id="gemuenden_wohra">
-                    <placeName ref="https://www.geonames.org/2921375/gemuenden-an-der-wohra.html">Gemünden an der Wohra</placeName>
                 </place>
                 <place xml:id="genfer_see">
                     <placeName ref="https://www.geonames.org/2660647/lake-geneva.html">Genfer See</placeName>
@@ -271,7 +317,10 @@
                 </place>
                 <place xml:id="gingst">
                     <placeName ref="https://www.geonames.org/2920342/gingst.html">Gingst</placeName>
-                </place>                
+                </place>
+                <place xml:id="gislaved">
+                    <placeName ref="https://www.geonames.org/2712045/gislaved.html">Gislaved</placeName>
+                </place>
                 <place xml:id="glueckstadt">
                     <placeName ref="https://www.geonames.org/2919763/glueckstadt.html">Glückstadt</placeName>
                 </place>
@@ -296,6 +345,9 @@
                 <place xml:id="granges">
                     <placeName ref="https://www.geonames.org/2660526/granges.html">Granges</placeName>
                 </place>
+                <place xml:id="graenna">
+                    <placeName ref="https://www.geonames.org/2711174/graenna.html">Gränna</placeName>
+                </place>
                 <place xml:id="greifswald">
                     <placeName ref="https://www.geonames.org/2917788/greifswald.html">Greifswald</placeName>
                 </place>
@@ -305,14 +357,23 @@
                 <place xml:id="groningen">
                     <placeName ref="https://www.geonames.org/2755251/groningen.html">Groningen</placeName>
                 </place>
+                <place xml:id="grosser_belt">
+                    <placeName ref="https://www.geonames.org/2612449/storebaelt.html">Großer Belt (Storebælt)</placeName>
+                </place>
                 <place xml:id="gudensberg">
                     <placeName ref="https://www.geonames.org/2913890/gudensberg.html">Gudensberg</placeName>
                 </place>
                 <place xml:id="guemmenen">
                     <placeName ref="https://www.geonames.org/2660446/guemmenen.html">Gümmenen</placeName>
                 </place>
+                <place xml:id="hadersleben">
+                    <placeName ref="https://www.geonames.org/2620964/haderslev.html">Hadersleben (Haderslev)</placeName>
+                </place>
                 <place xml:id="haguenau">
                     <placeName ref="https://www.geonames.org/3014078/haguenau.html">Haguenau</placeName>
+                </place>
+                <place xml:id="halmstad">
+                    <placeName ref="https://www.geonames.org/2708365/halmstad.html">Halmstad</placeName>
                 </place>
                 <place xml:id="hamburg">
                     <placeName ref="https://www.geonames.org/2911298/hamburg.html">Hamburg</placeName>
@@ -338,6 +399,12 @@
                 <place xml:id="helmstedt">
                     <placeName ref="https://www.geonames.org/2906676/helmstedt.html">Helmstedt</placeName>
                 </place>
+                <place xml:id="helsingborg">
+                    <placeName ref="https://www.geonames.org/2706767/helsingborg.html">Helsingborg</placeName>
+                </place>
+                <place xml:id="helsingor">
+                    <placeName ref="https://www.geonames.org/2620473/helsingor.html">Helsingør</placeName>
+                </place>
                 <place xml:id="hessen_landgrafschaft">
                     <placeName ref="https://d-nb.info/gnd/4072471-2">Landgrafschaft Hessen-Darmstadt</placeName>
                 </place>
@@ -347,8 +414,15 @@
                 <place xml:id="hoechst">
                     <placeName ref="https://www.geonames.org/2903019/hoechst.html">Höchst</placeName>
                 </place>
+                <place xml:id="holkaberg">
+                    <placeName ref="https://www.geonames.org/2705421/holkaberg.html">Holkaberg</placeName>
+                </place>
                 <place xml:id="holstein_herzogtum">
                     <placeName ref="https://d-nb.info/gnd/112347-6">Holstein, Herzogtum</placeName>
+                </place>
+                <place xml:id="huemko">
+                    <placeName>Hümko[?]</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Linköping und Norrköping gelegen. Nicht näher identifizierbar.</note>
                 </place>
                 <place xml:id="husum">
                     <placeName ref="https://www.geonames.org/2897132/husum.html">Husum</placeName>
@@ -371,14 +445,27 @@
                 <place xml:id="japan">
                     <placeName ref="https://d-nb.info/gnd/4028495-5">Japan</placeName>
                 </place>
+                <place xml:id="jaeer">
+                    <placeName>Jäer</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Linköping und Norrköping gelegen. Nicht näher identifizierbar.</note>
+                </place>
+                <place xml:id="jaera">
+                    <placeName ref="https://www.geonames.org/2703305/jaera.html">Jära</placeName>
+                </place>
                 <place xml:id="jasmund">
                     <placeName ref="https://www.geonames.org/2895140/jasmund.html">Jasmund</placeName>
+                </place>
+                <place xml:id="joenkoeping">
+                    <placeName ref="https://www.geonames.org/2702979/joenkoeping.html">Jönköping</placeName>
                 </place>
                 <place xml:id="jorat">
                     <placeName ref="https://www.geonames.org/2660218/jorat.html">Jorat</placeName>
                 </place>
                 <place xml:id="jura_mountains">
                     <placeName ref="https://www.geonames.org/3012052/jura.html">Jura, Gebirge</placeName>
+                </place>
+                <place xml:id="karlberg_schloss">
+                    <placeName ref="https://d-nb.info/gnd/120025502X">Karlberg, Schloss</placeName>
                 </place>
                 <place xml:id="kaschubei">
                     <placeName ref="https://d-nb.info/gnd/4284575-0">Kaschubei (Kaszuby)</placeName>
@@ -391,15 +478,36 @@
                 </place>
                 <place xml:id="kellinghusen">
                     <placeName ref="https://www.geonames.org/2891750/kellinghusen.html">Kellinghusen</placeName>
+                </place>                
+                <place xml:id="kiel">
+                    <placeName ref="https://www.geonames.org/2891122/kiel.html">Kiel</placeName>
+                </place>
+                <place xml:id="kleiner_belt">
+                    <placeName ref="https://www.geonames.org/2617724/lillebaelt.html">Kleiner Belt (Lillebælt)</placeName>
+                </place>
+                <place xml:id="kolding">
+                    <placeName ref="https://www.geonames.org/2618528/kolding.html">Kolding</placeName>
+                </place>
+                <place xml:id="koenigsberg">
+                    <placeName ref="https://www.geonames.org/554234/kaliningrad.html">Königsberg (Kaliningrad)</placeName>
+                </place>
+                <place xml:id="kopenhagen">
+                    <placeName ref="https://www.geonames.org/2618425/copenhagen.html">Kopenhagen (København)</placeName>
                 </place>
                 <place xml:id="koerlin">
                     <placeName ref="https://www.geonames.org/3096630/karlino.html">Körlin (Karlino)</placeName>
+                </place>                
+                <place xml:id="korsor">
+                    <placeName ref="https://www.geonames.org/2618361/korsor.html">Korsør</placeName>
                 </place>
                 <place xml:id="koeslin">
                     <placeName ref="https://www.geonames.org/3095049/koszalin.html">Köslin (Koszalin)</placeName>
                 </place>
-                <place xml:id="koenigsberg">
-                    <placeName ref="https://www.geonames.org/554234/kaliningrad.html">Königsberg (Kaliningrad)</placeName>
+                <place xml:id="kronborg_schloss">
+                    <placeName ref="https://www.geonames.org/2618192/kronborg.html">Kronborg, Schloss (Helsingør)</placeName>
+                </place>
+                <place xml:id="krokek">
+                    <placeName ref="https://www.geonames.org/2699206/krokek.html">Krokek</placeName>
                 </place>
                 <place xml:id="krozingen">
                     <placeName ref="https://www.geonames.org/2953414/bad-krozingen.html">Krozingen (Bad Krozingen)</placeName>
@@ -413,6 +521,9 @@
                 <place xml:id="la_duchere">
                     <placeName ref="https://www.geonames.org/12047865/la-duchere.html">La Duchère</placeName>
                     <note>Früher Meierhof vor den Toren Lyons; heute zum Stadtgebiet gehörig.</note>
+                </place>
+                <place xml:id="laholm">
+                    <placeName ref="https://www.geonames.org/2697861/laholm.html">Laholm</placeName>
                 </place>
                 <place xml:id="langgoens">
                     <placeName ref="https://www.geonames.org/2880672/langgoens.html">Langgöns</placeName>
@@ -432,6 +543,12 @@
                 <place xml:id="liestal">
                     <placeName ref="https://www.geonames.org/2659891/liestal.html">Liestal</placeName>
                 </place>
+                <place xml:id="limburg_lahn">
+                    <placeName ref="https://www.geonames.org/2877648/limburg-an-der-lahn.html">Limburg an der Lahn</placeName>
+                </place>
+                <place xml:id="linkoeping">
+                    <placeName ref="https://www.geonames.org/2694762/linkoeping.html">Linköping</placeName>
+                </place>
                 <place xml:id="litauen_grossfuerstentum">
                     <placeName ref="https://d-nb.info/gnd/4499060-1">Litauen, Großfürstentum</placeName>
                 </place>
@@ -443,6 +560,9 @@
                 </place>
                 <place xml:id="luebeck">
                     <placeName ref="https://www.geonames.org/2875601/luebeck.html">Lübeck</placeName>
+                </place>
+                <place xml:id="lund">
+                    <placeName ref="https://www.geonames.org/2693678/lund.html">Lund</placeName>
                 </place>
                 <place xml:id="lueneburg">
                     <placeName ref="https://www.geonames.org/2875115/lueneburg.html">Lüneburg</placeName>
@@ -480,9 +600,8 @@
                 <place xml:id="mewe">
                     <placeName ref="https://www.geonames.org/3099127/gniew.html">Mewe (Gniev)</placeName>
                 </place>
-                <place xml:id="minde">
-                    <placeName>Minde</placeName>
-                    <note>Vermutlich ORtsteil von <rs type="place" ref="#gemuenden_wohra">Gemünden an der Wohra</rs>.</note>
+                <place xml:id="middelfart">
+                    <placeName ref="https://www.geonames.org/2616933/middelfart.html">Middelfart</placeName>
                 </place>
                 <place xml:id="mittelmeer">
                     <placeName ref="https://www.geonames.org/363196/mediterranean-sea.html">Mittelmeer</placeName>
@@ -529,11 +648,26 @@
                 <place xml:id="niederlande_vereinigte">
                     <placeName ref="https://d-nb.info/gnd/5210337-7">Niederlande, Vereinigte (Republik der Sieben Vereinigten Provinzen)</placeName>
                 </place>
+                <place xml:id="nissaryd"><!--s. auch https://www.openstreetmap.org/node/886171600-->
+                    <placeName ref="https://www.wikidata.org/wiki/Q31897387">Nissaryd</placeName>
+                </place>
                 <place xml:id="nogat_river">
                     <placeName ref="https://www.geonames.org/3090832/nogat.html">Nogat, Fluss</placeName>
                 </place>
+                <place xml:id="norrkoeping">
+                    <placeName ref="https://www.geonames.org/2688368/norrkoeping.html">Norrköping</placeName>
+                </place>
+                <place xml:id="norra_unnaryd">
+                    <placeName ref="https://www.geonames.org/2688615/norra-unnaryd.html">Norra Unnaryd</placeName>
+                </place>
                 <place xml:id="nuernberg">
                     <placeName ref="https://www.geonames.org/2861650/nuernberg.html">Nürnberg</placeName>
+                </place>
+                <place xml:id="nyborg">
+                    <placeName ref="https://www.geonames.org/2616015/nyborg.html">Nyborg</placeName>
+                </place>
+                <place xml:id="nykoeping">
+                    <placeName ref="https://www.geonames.org/2687700/nykoeping.html">Nyköping</placeName>
                 </place>
                 <place xml:id="nyon">
                     <placeName ref="https://www.geonames.org/2659422/nyon.html">Nyon</placeName>
@@ -544,8 +678,14 @@
                 <place xml:id="oberer_hauenstein_pass">
                     <placeName ref="https://www.geonames.org/11075205/oberer-hauenstein.html">Oberer Hauenstein, Pass</placeName>
                 </place>
+                <place xml:id="odense">
+                    <placeName ref="https://www.geonames.org/2615876/odense.html">Odense</placeName>
+                </place>
                 <place xml:id="oldenburg">
                     <placeName ref="https://www.geonames.org/2857458/oldenburg.html">Oldenburg</placeName>
+                </place>                
+                <place xml:id="oeresund">
+                    <placeName ref="https://www.geonames.org/2612845/the-sound.html">Öresund (Øresund)</placeName>
                 </place>
                 <place xml:id="orleans">
                     <placeName ref="https://www.geonames.org/2989317/orleans.html">Orléans</placeName>
@@ -553,8 +693,14 @@
                 <place xml:id="osmanisches_reich">
                     <placeName ref="https://d-nb.info/gnd/4075720-1">Osmanisches Reich</placeName>
                 </place>
+                <place xml:id="oestergoetland">
+                    <placeName ref="https://d-nb.info/gnd/4102012-1">Östergötland</placeName>
+                </place>
                 <place xml:id="osterode">
                     <placeName ref="https://www.geonames.org/2856405/osterode-am-harz.html">Osterode am Harz</placeName>
+                </place>
+                <place xml:id="ostfriesland_grafschaft">
+                    <placeName ref="https://d-nb.info/gnd/4044067-9">Ostfriesland, Grafschaft</placeName>
                 </place>
                 <place xml:id="ostindien">
                     <placeName ref="https://d-nb.info/gnd/4116816-1">Ostindien</placeName>
@@ -570,6 +716,9 @@
                     <placeName>Passefern ("Gehe fort")</placeName>
                     <note>Dorf zwischen Murten und Peterlingen. Nicht näher zu identifizieren.</note>
                 </place>
+                <place xml:id="pavia">
+                    <placeName ref="https://www.geonames.org/3171366/pavia.html">Pavia</placeName>
+                </place>
                 <place xml:id="persien">
                     <placeName ref="https://d-nb.info/gnd/4027653-3">Persien (Iran)</placeName>
                 </place>
@@ -584,6 +733,9 @@
                 </place>
                 <place xml:id="plathe">
                     <placeName ref="https://www.geonames.org/3088788/ploty.html">Plathe (Płoty)</placeName>
+                </place>                
+                <place xml:id="ploen">
+                    <placeName ref="https://www.geonames.org/2853162/ploen.html">Plön</placeName>
                 </place>
                 <place xml:id="polen_koenigreich">
                     <placeName ref="https://d-nb.info/gnd/1060577984">Polen, Königreich</placeName>
@@ -600,6 +752,16 @@
                 <place xml:id="preussisch_holland">
                     <placeName ref="https://www.geonames.org/3089392/paslek.html">Preußisch Holland (Pasłęk)</placeName>
                 </place>
+                <place xml:id="ramos">
+                    <placeName>Ramos</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Halmstad und Jönköping gelegen. Nicht näher identifizierbar.</note>
+                </place>
+                <place xml:id="reaby">
+                    <placeName ref="https://www.geonames.org/2682858/reaby.html">Reaby</placeName>
+                </place>
+                <place xml:id="rendsburg">
+                    <placeName ref="https://www.geonames.org/2848245/rendsburg.html">Rendsburg</placeName>
+                </place>
                 <place xml:id="reselkow">
                     <placeName ref="https://www.geonames.org/2983362/roanne.html">Reselkow (Rzesznikowo)</placeName>
                 </place>
@@ -609,6 +771,9 @@
                 <place xml:id="rhone_river">
                     <placeName ref="https://www.geonames.org/2983752/rhone.html">Rhône, Fluss</placeName>
                 </place>
+                <place xml:id="ringsted">
+                    <placeName ref="https://www.geonames.org/2614764/ringsted.html">Ringsted</placeName>
+                </place>
                 <place xml:id="roanne">
                     <placeName ref="https://www.geonames.org/2983362/roanne.html">Roanne</placeName>
                 </place>   
@@ -617,6 +782,12 @@
                 </place>
                 <place xml:id="rom">
                     <placeName ref="https://www.geonames.org/3169070/rome.html">Rom</placeName>
+                </place>
+                <place xml:id="roskilde">
+                    <placeName ref="https://www.geonames.org/2614481/roskilde.html">Roskilde</placeName>
+                </place>
+                <place xml:id="rostock">
+                    <placeName ref="https://www.geonames.org/2844588/rostock.html">Rostock</placeName>
                 </place>
                 <place xml:id="ruegen_island">
                     <placeName ref="https://www.geonames.org/2843325/ruegen-island.html">Rügen, Insel</placeName>
@@ -648,6 +819,10 @@
                 <place xml:id="schliengen">
                     <placeName ref="https://www.geonames.org/2838534/schliengen.html">Schliengen</placeName>
                 </place>
+                <place xml:id="schwaelbroo">
+                    <placeName>Schwälbroo</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Norrköping und Stockholm gelegen. Nicht näher identifizierbar.</note>
+                </place>
                 <place xml:id="schweden_koenigreich">
                     <placeName ref="https://d-nb.info/gnd/4077258-5">Schweden, Königreich</placeName>
                 </place>
@@ -663,8 +838,17 @@
                 <place xml:id="seyssel">
                     <placeName ref="https://www.geonames.org/2974649/seyssel.html">Seyssel</placeName>
                 </place>
+                <place xml:id="slagelse">
+                    <placeName ref="https://www.geonames.org/2613460/slagelse.html">Slagelse</placeName>
+                </place>
+                <place xml:id="soedertaellje">
+                    <placeName ref="https://www.geonames.org/2676176/soedertaelje.html">Södertällje</placeName>
+                </place>
                 <place xml:id="solothurn">
                     <placeName ref="https://www.geonames.org/2658564/solothurn.html">Solothurn</placeName>
+                </place>
+                <place xml:id="spanien_koenigreich">
+                    <placeName ref="https://d-nb.info/gnd/4055964-6">Spanien, Königreich</placeName>
                 </place>
                 <place xml:id="speyer">
                     <placeName ref="https://www.geonames.org/2830582/speyer.html">Speyer</placeName>
@@ -672,14 +856,14 @@
                 <place xml:id="stettin">
                     <placeName ref="https://www.geonames.org/3083829/szczecin.html">Stettin (Szczecin)</placeName>
                 </place>
+                <place xml:id="stockholm">
+                    <placeName ref="https://www.geonames.org/2673730/stockholm.html">Stockholm</placeName>
+                </place>
                 <place xml:id="stollhofen">
                     <placeName ref="https://www.geonames.org/2826555/stollhofen.html">Stollhofen</placeName>
                 </place>
                 <place xml:id="stolpe">
                     <placeName ref="https://www.geonames.org/3085450/slupsk.html">Stolpe (Słupsk)</placeName>
-                </place>
-                <place xml:id="stralsund">
-                    <placeName ref="https://www.geonames.org/2826287/stralsund.html">Stralsund</placeName>
                 </place>
                 <place xml:id="strassburg">
                     <placeName ref="https://www.geonames.org/2973783/strasbourg.html">Straßburg (Strasbourg)</placeName>
@@ -696,6 +880,13 @@
                 <place xml:id="tatarei">
                     <placeName ref="https://www.wikidata.org/wiki/Q83971">Tatarei</placeName>
                 </place>
+                <place xml:id="ticino_river">
+                    <placeName ref="https://www.geonames.org/2658369/fiume-ticino.html">Ticino, Fluss</placeName>
+                </place>
+                <place xml:id="trara">
+                    <placeName>Trara</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Halmstad und Jönköping gelegen. Nicht näher identifizierbar.</note>
+                </place>
                 <place xml:id="trave_river">
                     <placeName ref="https://www.geonames.org/2821483/trave.html">Trave, Fluss</placeName>
                 </place>                
@@ -711,8 +902,26 @@
                 <place xml:id="ueckermuende">
                     <placeName ref="https://www.geonames.org/6550738/ueckermuende.html">Ueckermünde</placeName>
                 </place> 
+                <place xml:id="uehr">
+                    <placeName>Ühr</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Halmstad und Jönköping gelegen. Nicht näher identifizierbar.</note>
+                </place>
+                <place xml:id="ulriksdal_schloss">
+                    <placeName ref="https://www.geonames.org/6949387/ulriksdals-slott.html">Ulriksdal, Schloss</placeName>
+                </place>
                 <place xml:id="ungarn">
                     <placeName ref="https://www.wikidata.org/wiki/Q253094">Ungarn, Königliches</placeName>
+                </place>
+                <place xml:id="uppsala">
+                    <placeName ref="https://www.geonames.org/2666199/uppsala.html">Uppsala</placeName>
+                </place>
+                <place xml:id="utsche">
+                    <placeName>Utsche</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Jönköping und Linköping gelegen. Nicht näher identifizierbar.</note>
+                </place>
+                <place xml:id="usta">
+                    <placeName>Usta</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Jönköping und Linköping gelegen. Nicht näher identifizierbar.</note>
                 </place>
                 <place xml:id="vesuv">
                     <placeName ref="https://www.geonames.org/2727909/vesuv.html">Vesuv</placeName>
@@ -741,6 +950,17 @@
                 </place>
                 <place xml:id="wetterau">
                     <placeName ref="https://www.geonames.org/2809977/wetterau.html">Wetterau</placeName>
+                </place>
+                <place xml:id="wielbrack">
+                    <placeName>Wielbrack</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Norrköping und Stockholm gelegen. Nicht näher identifizierbar.</note>
+                </place>
+                <place xml:id="wreta">
+                    <placeName>Wreta</placeName>
+                    <note>Ein kleiner Ort im heutigen Südschweden, zwischen Linköping und Norrköping gelegen. Nicht näher identifizierbar.</note>
+                </place>
+                <place xml:id="viby">
+                    <placeName ref="https://www.geonames.org/2663243/viby.html">Viby</placeName>
                 </place>
                 <place xml:id="wiedlisbach">
                     <placeName ref="https://www.geonames.org/2658006/wiedlisbach.html">Wiedlisbach</placeName>

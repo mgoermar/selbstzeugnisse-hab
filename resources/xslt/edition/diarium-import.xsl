@@ -594,7 +594,7 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="text()[parent::tei:w]">
+    <xsl:template match="text()[ancestor::tei:w]">
         <xsl:value-of select="translate(normalize-space(),':','')"/>
     </xsl:template>
     
@@ -795,7 +795,7 @@
                     </a>
                 </xsl:when>                
                 <xsl:when test="contains(@facs,'#mss') and not(@n)">
-                    <a id="{@n}" class="pagebreak screen-only" target="_facsimile" href="http://diglib.hab.de/mss/{substring-before(substring-after(@facs, '_'),'_')}/{substring-after(substring-after(@facs,'_'),'_')}.jpg">
+                    <a id="{//tei:facsimile/tei:graphic[concat('#',@xml:id)=current()/@facs]/@n}" class="pagebreak screen-only" target="_facsimile" href="http://diglib.hab.de/mss/{substring-before(substring-after(@facs, '_'),'_')}/{substring-after(substring-after(@facs,'_'),'_')}.jpg">
                         <span class="fa fa-file-o"> 
                             <xsl:value-of select="//tei:facsimile/tei:graphic[concat('#',@xml:id)=current()/@facs]/@n"/> 
                         </span>

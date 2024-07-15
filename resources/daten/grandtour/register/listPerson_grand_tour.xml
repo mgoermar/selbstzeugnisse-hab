@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grand_tour_personenregister">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grand_tour.personen">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -90,6 +90,9 @@
                 <person  xml:id="arndt_johann">
                     <persName ref="https://d-nb.info/gnd/118504134" type="display">Arndt, Johann</persName>
                 </person>
+                <person xml:id="aschenberg_rutger">
+                    <persName type="display" ref="https://d-nb.info/gnd/1053082428">Aschenberg, Rutger, Graf von</persName>
+                </person>
                 <person xml:id="ausonius_decimus_magnus">
                     <persName type="display" ref="https://d-nb.info/gnd/118505165">Ausonius, Decimus Magnus</persName>
                 </person>
@@ -129,6 +132,14 @@
                     <persName type="display">Beckmann, Hans</persName>
                     <note>Um 1657 Stadtmajor und Kommendant der Stadt Braunschweig.</note>
                 </person>
+                <person xml:id="behm_heinrich_julius">
+                    <persName type="display">Behm (Böhme), Heinrich Julius</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sz2" target="http://selbstzeugnisse.hab.de/sz2/personen#behm_heinrich_julius"/>
+                        </bibl>
+                    </listBibl>
+                </person>
                 <person xml:id="behmen_justo">
                     <persName type="display">Behmen, Justo</persName>
                     <note>Um 1658 Ratsapotheker in Osterode im Harz.</note>
@@ -155,6 +166,10 @@
                         </bibl>
                     </listBibl>
                 </person>
+                <person xml:id="bilau_anon_1">
+                    <persName type="display">Bilau, N. N.</persName>
+                    <note>Lebte um 1689 in Stockholm.</note>
+                </person>
                 <person xml:id="bolle_johann">
                     <persName type="display">Bollen, Johann</persName>
                     <note>Um 1652 Barbiergeselle.</note>
@@ -167,8 +182,15 @@
                     <persName type="display">Bollioud, Pierre</persName>
                     <note>Um 1657 Adliger, königlicher Rat, oberster Anwalt des Königs und Bürgermeister in Lyon.</note>
                 </person>
+                <person xml:id="bolstein_anon_1">
+                    <persName type="display">Bolstein, N. N.</persName>
+                    <note>Um 1689 Kaufmann in Hamburg.</note>
+                </person>
                 <person xml:id="bora_katharina">
                     <persName ref="https://d-nb.info/gnd/118575430" type="display">Bora, Katharina von</persName>
+                </person>
+                <person xml:id="boesch_andreas">
+                    <persName type="display" ref="https://d-nb.info/gnd/1065246609">Bösch, Andreas</persName>
                 </person>
                 <person xml:id="brand_theodor">
                     <persName ref="https://d-nb.info/gnd/1072492415" type="display">Brand, Theodor</persName>
@@ -220,8 +242,15 @@
                         </bibl>
                     </listBibl>
                 </person>
+                <person xml:id="braunschweig-wolfenbuettel_sophia_amalia">
+                    <persName type="display" ref="https://d-nb.info/gnd/10431205X">Braunschweig-Wolfenbüttel, Sophia Amalia, Herzogin von</persName>
+                    <persName type="birthName">Schleswig-Holstein-Gottorf, Sophia Amalia, Herzogin von</persName>
+                </person>
                 <person xml:id="braunschweig-wolfenbuettel-bevern_ferdinand_albrecht">
                     <persName ref="https://d-nb.info/gnd/11883732X" type="display">Braunschweig-Wolfenbüttel-Bevern, Ferdinand Albrecht, Herzog von</persName>
+                </person>
+                <person xml:id="brenner_elias">
+                    <persName type="display" ref="https://d-nb.info/gnd/140541632">Brenner, Elias</persName>
                 </person>
                 <person xml:id="brentel_friedrich">
                     <persName type="display" ref="https://d-nb.info/gnd/130498300">Brentel, Friedrich</persName>
@@ -286,9 +315,16 @@
                 <person xml:id="calvin_jean">
                     <persName ref="https://d-nb.info/gnd/118518534" type="display">Calvin, Jean</persName>
                 </person>
+                <person xml:id="cameen_daniel">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q96743203">Caméen, Daniel</persName>
+                </person>
                 <person xml:id="camehl_peter">
                     <persName type="display">Camehl, Peter</persName>
                     <note>Um 1658 Schaffner (Verwalter) des Bruderhofs in Straßburg.</note>
+                </person>
+                <person xml:id="campen_ludolf"><!--vielleicht identisch mit: https://d-nb.info/gnd/1055516948?-->
+                    <persName type="display">Campen, Ludolf von</persName>
+                    <note>Angehöriger des brausnchweigischen Adelsgeschlechts; um 1689 Page des Herzogs Ludwig Rudolph von Braunschweig-Wolfenbüttel auf dessen Reise nach Dänemark und Schweden. Zum Vornamen vgl. <ref target="http://diglib.hab.de/mss/217a-blank/start.htm?image=00054">Cod. Guelf. 217a Blank, S. 50</ref>.</note>
                 </person>
                 <person xml:id="cardon_horace">
                     <persName type="display" ref="https://d-nb.info/gnd/119637251">Cardon, Horace</persName>
@@ -369,6 +405,27 @@
                     <persName type="display" ref="https://d-nb.info/gnd/118523112">Cyprianus, Thascius Caecilius (Heiliger)</persName>
                     <persName>Karthago, Cyprianus, Bischof von</persName>
                 </person>
+                <person xml:id="daenemark_charlotte_amalie">
+                    <persName ref="https://d-nb.info/gnd/121096246" type="display">Charlotte Amalie, Königin von Dänemark und Norwegen, geb. Landgräfin von Hessen-Kassel</persName>
+                    <persName type="birthName">Hessen-Kassel, Charlotte Amalie, Landgräfin von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="hb" target="https://www.lagis-hessen.de/pnd/121096246"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="daenemark_christian_1">
+                    <persName ref="https://d-nb.info/gnd/11945064X">Christian (1), Prinz von Dänemark und Norwegen</persName>
+                </person>
+                <person xml:id="daenemark_christian_2">
+                    <persName ref="https://www.wikidata.org/wiki/Q3428532">Christian (2), Prinz von Dänemark und Norwegen</persName>
+                </person>
+                <person xml:id="daenemark_christian_i">
+                    <persName ref="https://d-nb.info/gnd/12939159X" type="display">Christian I., König von Dänemark, Norwegen und Schweden</persName>
+                </person>
+                <person xml:id="daenemark_christian_iii">
+                    <persName ref="https://d-nb.info/gnd/119217120" type="display">Christian III., König von Dänemark und Norwegen</persName>
+                </person>
                 <person xml:id="daenemark_christian_iv">
                     <persName ref="https://d-nb.info/gnd/118676059" type="display">Christian IV., König von Dänemark und Norwegen</persName>
                     <listBibl>
@@ -377,8 +434,32 @@
                         </bibl>
                     </listBibl>
                 </person>
+                <person xml:id="daenemark_christian_v">
+                    <persName ref="https://d-nb.info/gnd/119175800" type="display">Christian V., König von Dänemark und Norwegen</persName>
+                </person>
+                <person xml:id="daenemark_christiane_charlotte">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q75385346">Christiane Charlotte, Prinzessin von Däenmark und Norwegen</persName>
+                </person>
+                <person xml:id="daenemark_friedrich_ii">
+                    <persName ref="https://d-nb.info/gnd/118703188" type="display">Friedrich II., König von Dänemark und Norwegen</persName>
+                </person>
                 <person xml:id="daenemark_friedrich_iii">
                     <persName ref="https://d-nb.info/gnd/118693484" type="display">Friedrich III., König von Dänemark und Norwegen</persName>
+                </person>
+                <person xml:id="daenemark_friedrich_iv">
+                    <persName ref="https://d-nb.info/gnd/119546256" type="display">Friedrich IV., König von Dänemark und Norwegen</persName>
+                </person>
+                <person xml:id="daenemark_harald">
+                    <persName type="display" ref="https://d-nb.info/gnd/119127326">Harald (Blauzahn), König von Dänemark</persName>
+                </person>
+                <person xml:id="daenemark_karl">
+                    <persName ref="https://d-nb.info/gnd/1027128939">Karl, Prinz von Dänemark und Norwegen</persName>
+                </person>
+                <person xml:id="daenemark_margaretha_i">
+                    <persName type="display" ref="https://d-nb.info/gnd/118975927">Margaretha I., Königin von Dänemark, Norwegen und Schweden</persName>
+                </person>
+                <person xml:id="daenemark_sophia_hedwig">
+                    <persName type="display" ref="https://d-nb.info/gnd/1140027247">Sophia Hedwig, Prinzessin von Dänemark und Norwegen</persName>
                 </person>
                 <person xml:id="dannhauer_johann_conrad">
                     <persName ref="https://d-nb.info/gnd/120227649" type="display">Dannhauer, Johann Conrad</persName>
@@ -395,6 +476,10 @@
                         </bibl>
                     </listBibl>
                 </person>
+                <person xml:id="d_g">
+                    <persName type="display">D. G.</persName>
+                    <note>Dichter eines französischen Gedichts auf die Überfahrt Wilhelms II. von Oranien nach ENgland; Initialen nicht auflösbar.</note>
+                </person>
                 <person xml:id="doehling_johann">
                     <persName type="display">Döhling, Johann</persName>
                     <note>Um 1652 Schiffer in Lübeck.</note>
@@ -402,10 +487,23 @@
                 <person xml:id="doltter_conrad">
                     <persName type="display">Doltter, Conrad</persName>
                     <note>Um 1545 Bauherr in Basel.</note>
-                </person>
+                </person>                
                 <person xml:id="elbenius_anon_1">
                     <persName type="display">Elbenius, N. N.</persName>
                     <note>Die Person konnte bisher nicht genauer identifiziert werden.</note>
+                </person>
+                <person xml:id="england_eduard">
+                    <persName type="display" ref="https://d-nb.info/gnd/118528971">Eduard (der Schwarze Prinz), Prinz von Wales</persName>
+                </person>
+                <person xml:id="england_eduard_iii">
+                    <persName type="display" ref="https://d-nb.info/gnd/115875874X">Eduard III., König von England</persName>
+                </person>
+                <person xml:id="england_jakob_ii">
+                    <persName type="display" ref="https://d-nb.info/gnd/118711539">Jakob II., König von England, Schottland und Irland</persName>
+                </person>
+                <person xml:id="england_wilhelm_ii">
+                    <persName type="display" ref="https://d-nb.info/gnd/118643355">WIlhelm II., König von England, Schottland und Irland</persName>
+                    <persName>Oranien, WIlhelm III., Fürst von Oranien</persName>
                 </person>
                 <person xml:id="erasmus_desiderius">
                     <persName ref="https://d-nb.info/gnd/118530666" type="display">Erasmus, Desiderius</persName>
@@ -442,6 +540,10 @@
                 <person xml:id="fillier_thomas">
                     <persName ref="https://d-nb.info/gnd/12137355X" type="display">Fillier, Thomas</persName>
                     <note>Ab 1631 Stadtmajor von Braunschweig.</note>
+                </person>                
+                <person xml:id="frankreich_alfons">
+                    <persName type="display" ref="https://d-nb.info/gnd/100936105">Alfons, Prinz von Frankreich</persName>
+                    <persName>Poitiers, Alfons von</persName>
                 </person>
                 <person xml:id="frankreich_anna_ii">
                     <persName type="display" ref="https://d-nb.info/gnd/119020688">Anna (II.), Königin von Frankreich</persName>
@@ -457,8 +559,52 @@
                         </bibl>
                     </listBibl>
                 </person>
+                <person xml:id="frankreich_franz_i">
+                    <persName type="display" ref="https://d-nb.info/gnd/118534947">Franz I., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_heinrich_ii">
+                    <persName type="display" ref="https://d-nb.info/gnd/118548166">Heinrich II., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_heinrich_iii">
+                    <persName type="display" ref="https://d-nb.info/gnd/118773720">Heinrich III., König von Frankreich</persName>
+                </person>
                 <person xml:id="frankreich_heinrich_iv">
                     <persName type="display" ref="https://d-nb.info/gnd/118548174">Heinrich IV., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_johann_ii">
+                    <persName type="display" ref="https://d-nb.info/gnd/120193795">Johann II., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_karl">
+                    <persName type="display" ref="https://d-nb.info/gnd/140810412">Karl, Prinz von Frankreich</persName>
+                    <persName>Karl I., König von Sizilien</persName>
+                    <persName>Anjou, Karl, Comte d'</persName>
+                </person>
+                <person xml:id="frankreich_karl_iv">
+                    <persName type="display" ref="https://d-nb.info/gnd/137844662">Karl IV., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_karl_v">
+                    <persName type="display" ref="https://d-nb.info/gnd/118776754">Karl V., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_karl_vi">
+                    <persName type="display" ref="https://d-nb.info/gnd/118720864">Karl VI., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_karl_vii">
+                    <persName type="display" ref="https://d-nb.info/gnd/100736416">Karl VII., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_karl_viii">
+                    <persName type="display" ref="https://d-nb.info/gnd/118776762">Karl VIII., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_karl_ix">
+                    <persName type="display" ref="https://d-nb.info/gnd/118720880">Karl IX., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_ludwig_ix">
+                    <persName type="display" ref="https://d-nb.info/gnd/118729411">Ludwig IX. (der Heilige), König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_ludwig_x">
+                    <persName type="display" ref="https://d-nb.info/gnd/100952186">Ludwig X., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_ludwig_xi">
+                    <persName type="display" ref="https://d-nb.info/gnd/118574930">Ludwig XI., König von Frankreich</persName>
                 </person>
                 <person xml:id="frankreich_ludwig_xii">
                     <persName ref="https://d-nb.info/gnd/118780735" type="display">Ludwig XII., König von Frankreich</persName>
@@ -482,6 +628,18 @@
                             <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Philippe_I._de_Bourbon,_duc_d%E2%80%99Orl%C3%A9ans"/>
                         </bibl>
                     </listBibl>
+                </person>
+                <person xml:id="frankreich_philipp_iii">
+                    <persName type="display" ref="https://d-nb.info/gnd/118791850">Philipp III., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_philipp_iv">
+                    <persName type="display" ref="https://d-nb.info/gnd/118742175">Philipp IV., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_philipp_v">
+                    <persName type="display" ref="https://d-nb.info/gnd/118742183">Philipp V., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_philipp_vi">
+                    <persName type="display" ref="https://d-nb.info/gnd/118593811">Philipp VI., König von Frankreich</persName>
                 </person>
                 <person xml:id="franz_assisi">
                     <persName type="display" ref="https://d-nb.info/gnd/118534963">Franz von Assisi, Heiliger</persName>
@@ -535,6 +693,12 @@
                             <ptr type="wikipedia" target="https://fr.wikipedia.org/wiki/Famille_Guignard"/>
                         </bibl>
                     </listBibl>
+                </person>
+                <person xml:id="gyldenlove_ulrich_friedrich">
+                    <persName type="display" ref="https://d-nb.info/gnd/1072605015">Gyldenløve, Ulrich Friedrich</persName>
+                </person>
+                <person xml:id="gyldenstolpe_nils">
+                    <persName type="display" ref="https://d-nb.info/gnd/137855060">Gyldenstolpe, Nils</persName>
                 </person>
                 <person xml:id="gyllenstierna_sigismund">
                     <persName ref="https://d-nb.info/gnd/1046977709" type="display">Gyllenstierna, Sigismund</persName>
@@ -612,7 +776,15 @@
                 </person>
                 <person xml:id="heidenreich_anon_1">
                     <persName type="display">Heidenreich, N. N.</persName>
-                    <note>Um 1655 Professor an einem Tranchiercollegium in Königsberg (Kaliningrad)</note>
+                    <note>Um 1655 vielleicht Exerzitienmeister an der Universität Königsberg (Kaliningrad); unterrichtete ein Tranchierkolleg.</note>
+                </person>
+                <person xml:id="heinrich_1">
+                    <persName type="display">N. N., Heinrich</persName>
+                    <note>Um 1689 Lakai des Herzogs Ludwig Rudolph von Braunschweig-Wolfenbüttel auf dessen Reise nach Dänemark und Schweden.</note>
+                </person>
+                <person xml:id="herakles">
+                    <persName type="display" ref="https://d-nb.info/gnd/118639552">Herakles</persName>
+                    <persName>Hercules</persName>
                 </person>
                 <person xml:id="hessen-darmstadt_friedrich">
                     <persName ref="https://d-nb.info/gnd/104366869" type="display">Hessen-Darmstadt, Friedrich, Landgraf von</persName>
@@ -648,6 +820,23 @@
                 <person xml:id="holzschuher_veit_georg">
                     <persName type="display" ref="https://d-nb.info/gnd/142513296">Holzschuher (von Neuenbürg), Veit Georg</persName>
                 </person>
+                <person xml:id="horn_familie">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q2493104">Horn, Familie</persName>
+                    <note>Finnisch-schwedisches Adelsgeschlecht.</note>
+                </person>
+                <person xml:id="horn_anon_1">
+                    <persName type="display">Horn, N. N.</persName>
+                    <death>1689</death>
+                    <note>Angehöriger des schwedischen Adelsgeschlechts Horn; zuletzt Obrist in Stockholm.</note>
+                </person>
+                <person xml:id="imhoff_rudolph_christian">
+                    <persName type="display" ref="http://d-nb.info/gnd/131463896">Imhoff, Rudolph Christian von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sz2" target="http://selbstzeugnisse.hab.de/sz2/personen#imhoff_rudolph_christian"/>
+                        </bibl>
+                    </listBibl>
+                </person>
                 <person xml:id="irenaeus_heiliger">
                     <persName type="display" ref="https://d-nb.info/gnd/118555766">Irenaeus, Heiliger</persName>
                     <persName>Lyon, Irenaeus, Bischof von</persName>
@@ -655,6 +844,9 @@
                 <person xml:id="jacobi_christoph">
                     <persName type="display">Jacobi, Christoph</persName>
                     <note>Um 1658 Bewohner von Frankfurt am Main.</note>
+                </person>
+                <person xml:id="janus">
+                    <persName type="display" ref="https://d-nb.info/gnd/118775979">Janus (Gott)</persName>
                 </person>
                 <person xml:id="jean_francois">
                     <persName type="display">N. N., Jean Francois</persName>
@@ -669,11 +861,23 @@
                         </bibl>
                     </listBibl>
                 </person>
+                <person xml:id="jettebrock_rudolph_friedrich">
+                    <persName type="display">Jettebrock (Jettebruch), Rudolph Friedrich von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sz2" target="http://selbstzeugnisse.hab.de/sz2/personen#jettebrock_rudolph_friedrich"/>
+                        </bibl>
+                    </listBibl>
+                </person>
                 <person xml:id="johannes_evangelist">
                     <persName type="display" ref="https://d-nb.info/gnd/118557815">Johannes (Evangelist und Heiliger)</persName>
                 </person>
                 <person xml:id="johannes_taeufer">
                     <persName type="display" ref="https://d-nb.info/gnd/118557858">Johannes der Täufer (biblische Person)</persName>
+                </person>                
+                <person xml:id="jonsson_bjaerke_gudmund">
+                    <persName type="display">Jonsson i Bjärke, Gudmund</persName>
+                    <note>1689 auf dem schwedischen Reichstag in Stockholm Sprecher (talman) des vierten Standes (Bondeståndet, dt. Bauernstand).</note>
                 </person>
                 <person xml:id="judaea_herodes_i">
                     <persName type="display" ref="https://d-nb.info/gnd/118549847">Herodes I. (der Große), König von Judäa</persName>
@@ -681,6 +885,10 @@
                 <person xml:id="justus_heiliger">
                     <persName type="display" ref="https://d-nb.info/gnd/1212623045">Justus (Heiliger)</persName>
                     <persName>Lyon, Justus, Bischof von</persName>
+                </person>
+                <person xml:id="juul_anon_1">
+                    <persName type="display">Juul, N. N.</persName>
+                    <note>Vermutlich Angehöriger des dänischen Adelsgeschlechts Juul (oder Juel); um 1689 Major in Kopenhagen.</note>
                 </person>
                 <person xml:id="kaiser_augustus">
                     <persName type="display" ref="https://d-nb.info/gnd/118505122">Augustus, Kaiser (Römisches Reich)</persName>
@@ -720,6 +928,17 @@
                     <persName type="display">Kanten, Hermann von</persName>
                     <note>Die Person konnte bisher nicht weiter ifentifiziert werden.</note>
                 </person>
+                <person xml:id="kapetinger_dynastie">
+                    <persName type="display" ref="https://d-nb.info/gnd/118723022">Kapetinger, Dynastie</persName>
+                </person>
+                <person xml:id="karl_friedrich">
+                    <persName type="display">N. N., Karl Friedrich</persName>
+                    <persName>Friedrich, Karl</persName>
+                    <note>Um 1689 Kammerdiener des Herzogs Ludwig Rudolph von Braunschweig-Wolfenbüttel auf dessen Reise nach Dänemark und Schweden.</note>
+                </person>
+                <person xml:id="karlsteen_arvid">
+                    <persName type="display" ref="https://d-nb.info/gnd/1033446890">Karlsteen, Arvid</persName>
+                </person>
                 <person xml:id="katharina">
                     <persName type="display">Katharina</persName>
                     <note>Um 1652 Nonne im St. Johannskloster in Lübeck.</note>
@@ -739,13 +958,22 @@
                 <person xml:id="kircher_athanasius">
                     <persName type="display" ref="https://d-nb.info/gnd/118562347">Kircher, Athanasius</persName>
                 </person>
-                <person xml:id="kuenast_balthasar_ludwig">
-                    <persName ref="https://d-nb.info/gnd/122126289" type="display">Künast, Balthasar Ludwig</persName>
-                    <note>Kunstsammler in Straßburg.</note>
+                <person xml:id="kloecker_ehrenstrahl_david">
+                    <persName ref="https://d-nb.info/gnd/102452377" type="display">Klöcker (von) Ehrenstrahl, David</persName>
+                </person>
+                <person xml:id="knuth_adam_levin">
+                    <persName type="display" ref="https://d-nb.info/gnd/1163757071">Knuth, Adam Levin von</persName>
                 </person>
                 <person xml:id="kohlenberger_anon_1">
                     <persName type="display">Kohlenberger, N. N.</persName>
                     <note>Um 1652 Apotheker in Marienburg (Malbork).</note>
+                </person>
+                <person xml:id="koenig_samuel">
+                    <persName type="display" ref="https://d-nb.info/gnd/1037507088">König, Samuel</persName>
+                </person>
+                <person xml:id="koenigsmarck_maria_christina">
+                    <persName ref="https://www.wikidata.org/wiki/Q18325983" type="display">Königsmarck, Maria Christina, Gräfin von, geb. Gräfin von Wrangel</persName>
+                    <persName type="birthName">Wrangel, Maria Christina, Gräfin von</persName>
                 </person>
                 <person xml:id="kranich_joachim">
                     <persName type="display" ref="https://d-nb.info/gnd/132892839">Kranich, Joachim</persName>
@@ -765,6 +993,10 @@
                             <ptr type="dbl" target="https://biografiskleksikon.lex.dk/Vibeke_Kruse"/>
                         </bibl>
                     </listBibl>
+                </person>
+                <person xml:id="kuenast_balthasar_ludwig">
+                    <persName ref="https://d-nb.info/gnd/122126289" type="display">Künast, Balthasar Ludwig</persName>
+                    <note>Kunstsammler in Straßburg.</note>
                 </person>
                 <person xml:id="la_ferte_anon_1">
                     <persName type="display">La Ferte, N. N.</persName>
@@ -792,6 +1024,15 @@
                 <person xml:id="laurentius_heiliger">
                     <persName type="display" ref="https://d-nb.info/gnd/119320827">Laurentius (Heiliger)</persName>
                 </person>
+                <person xml:id="leiman_anon_1">
+                    <persName type="display">Leiman, N. N. (1)</persName>
+                    <death>vor 1689</death>
+                    <note>Vermutlich Gastwirt in Uppsala.</note>
+                </person>
+                <person xml:id="leiman_anon_2">
+                    <persName type="display">Leiman, N. N. (2)</persName>
+                    <note>Um 1689 Witwe des mutmaßlichen Gastwirts Leiman in Uppsala.</note>
+                </person>
                 <person xml:id="leschewam_anon_1">
                     <persName type="display">Leschewam, N. N.</persName>
                     <note>Die Person konnte bisher nicht identifiziert werden.</note>
@@ -816,6 +1057,13 @@
                         </bibl>
                     </listBibl>
                 </person>  
+                <person xml:id="liewen_bernhard">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q5950991">Liewen, Bernhard von</persName>
+                </person>
+                <person xml:id="lillie_maria_elisabeth">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q4989787">Lillie, Maria Elisabeth, Gräfin</persName>
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q4989787">Stenbock, Maria Elisabeth, Gräfin</persName>
+                </person>
                 <person xml:id="lincken_anon_1">
                     <persName type="display">Lincken, N. N.</persName>
                     <note>Um 1652 Apotheker in Altschottland (Stare Szkoty).</note>
@@ -901,11 +1149,14 @@
                     <persName type="display" ref="https://d-nb.info/gnd/1068474653">Monconys, Gaspard de, Seigneur de Liergues</persName>
                 </person>
                 <person xml:id="morell_julienne">
-                    <persName type="display" ref="https://lobid.org/gnd/123078245">Morell, Julienne</persName>
+                    <persName type="display" ref="https://d-nb.info/gnd/123078245">Morell, Julienne</persName>
                 </person>
                 <person xml:id="mueth_christian">
                     <persName type="display">Mueth, Christian</persName>
                     <note>Um 1652 Ratsapotheker in Lübeck.</note>
+                </person>
+                <person xml:id="musen">
+                    <persName type="display" ref="https://d-nb.info/gnd/118820656">Musen</persName>
                 </person>
                 <person xml:id="nassau-siegen_johann_moritz">
                     <persName ref="https://d-nb.info/gnd/118738097" type="display">Nassau-Siegen, Johann Moritz, Fürst von</persName>
@@ -959,11 +1210,18 @@
                 <person xml:id="olearius_adam">
                     <persName ref="https://d-nb.info/gnd/118736256" type="display">Olearius, Adam</persName>
                 </person>
+                <person xml:id="oranien_maria_henrietta">
+                    <persName type="display" ref="https://d-nb.info/gnd/121551075">Oranien, Maria Henrietta, Fürstin von, geb. Prinzessin von England, Schottland und Irland</persName>
+                    <persName type="birthName">Maria Henrietta, Prinzessin von England, Schottland und Irland</persName>
+                </person>
                 <person xml:id="orleans_anne_marie_louise">
                     <persName type="display" ref="https://d-nb.info/gnd/118835440">Orleans, Anne Marie Louise de, duchesse de Montpensier</persName>
                 </person>
+                <person xml:id="oxenstierna_bengt">
+                    <persName ref="https://d-nb.info/gnd/100127282" type="display">Oxenstierna, Bengt, Graf</persName>
+                </person>
                 <person xml:id="oxenstierna_erik">
-                    <persName ref="https://d-nb.info/gnd/130480886" type="display">Oxenstierna, Erik Axelsson</persName>
+                    <persName ref="https://d-nb.info/gnd/130480886" type="display">Oxenstierna, Erik, Graf</persName>
                     <listBibl>
                         <bibl>
                             <ptr type="sbl" target="https://sok.riksarkivet.se/sbl/artikel/7930"/>
@@ -1043,6 +1301,9 @@
                     <persName type="display">Peti, Jean</persName>
                     <note>Um 1658 Gastwirt in Lyon.</note>
                 </person>
+                <person xml:id="petre_edward">
+                    <persName type="display" ref="https://d-nb.info/gnd/124633870">Petre, Edward</persName>
+                </person>
                 <person xml:id="pfalz_karl_i_ludwig">
                     <persName ref="https://d-nb.info/gnd/118560182" type="display">Pfalz, Karl I. Ludwig, Kurfürst von der</persName>
                     <listBibl>
@@ -1103,6 +1364,9 @@
                 <person xml:id="rantzau_christian">
                     <persName ref="https://d-nb.info/gnd/119532239" type="display">Rantzau, Christian zu</persName>
                 </person>
+                <person xml:id="reventlow_conrad">
+                    <persName type="display" ref="https://d-nb.info/gnd/139110585">Reventlow, Conrad, Graf von</persName>
+                </person>
                 <person xml:id="richelieu_armand_jean">
                     <persName type="display" ref="https://d-nb.info/gnd/118600354">Richelieu, Armand Jean du Plessis de</persName>
                     <listBibl>
@@ -1117,6 +1381,9 @@
                 <person xml:id="rock_anon_1">
                     <persName type="display">Rock, N. N.</persName>
                     <note>Um 1652 Apotheker in Lübeck.</note>
+                </person>
+                <person xml:id="roskilde_wilhelm">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q9374558">Roskilde, Wilhelm, Bischof von</persName>
                 </person>
                 <person xml:id="sachs_johann_melchior">
                     <persName ref="https://d-nb.info/gnd/124715079" type="display">Sachs, Johann Melchior</persName>
@@ -1187,8 +1454,23 @@
                         <bibl>L. Dacheux: Fragments de diverses vielles chroniques, in: Bulletin de la Société pour la Conversation des Monuments Historiques d'Alsace, Reihe 2, Bd. 18 (1897), S. 1-181<ptr type="gvk" cRef="166530778"/></bibl>
                     </listBibl>
                 </person>
-                <person xml:id="schleswig-holstein-gottorf_friedrich">
-                    <persName ref="https://d-nb.info/gnd/11870320X" type="display">Schleswig-Holstein-Gottorf, Friedrich III.</persName>
+                <person xml:id="schleswig-holstein-gottorf_friedrich_iii">
+                    <persName ref="https://d-nb.info/gnd/11870320X" type="display">Schleswig-Holstein-Gottorf, Friedrich III., Herzog von</persName>
+                </person>
+                <person xml:id="schleswig-holstein-gottorf_friedrich_iv">
+                    <persName ref="https://d-nb.info/gnd/104193336" type="display">Schleswig-Holstein-Gottorf, Friedrich IV., Herzog von</persName>
+                </person>
+                <person xml:id="schleswig-holstein-gottorf_hedwig_sophia">
+                    <persName ref="https://d-nb.info/gnd/138622744" type="display">Schleswig-Holstein-Gottorf, HEdwig Sophia, Herzogin von, geb. Prinzessin von Schweden</persName>
+                    <persName type="birthName">Hedwig Sophia, Prinzessin von Schweden</persName>
+                </person>
+                <person xml:id="schlitz-goertz_friedrich_wilhelm">
+                    <persName ref="http://d-nb.info/gnd/136096093" type="display">Schlitz genannt von Görtz, Friedrich Wilhelm von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sz2" target="http://selbstzeugnisse.hab.de/sz2/personen#schlitz-goertz_friedrich_wilhelm"/>
+                        </bibl>
+                    </listBibl>
                 </person>
                 <person xml:id="schmidling_hermann">
                     <persName type="display">Schmidling, Hermann</persName>
@@ -1221,16 +1503,39 @@
                         </bibl>
                     </listBibl>
                 </person>
+                <person xml:id="schweden_albrecht">
+                    <persName type="display" ref="https://d-nb.info/gnd/118647725">Albrecht, König von Schweden</persName>
+                </person>
                 <person xml:id="schweden_christina">
-                    <persName ref="https://d-nb.info/gnd/118520652" type="display">Schweden, Christina von</persName>
+                    <persName ref="https://d-nb.info/gnd/118520652" type="display">Christina, Königin von Schweden</persName>
+                </person>
+                <person xml:id="schweden_gustav_ii_adolf">
+                    <persName type="display" ref="https://d-nb.info/gnd/118543733">Gustav II. Adolf, König von Schweden</persName>
+                </person>
+                <person xml:id="schweden_hedwig_eleonora">
+                    <persName type="display" ref="https://d-nb.info/gnd/115616276">Hedwig Eleonora, Königin von Schweden</persName>
+                    <persName type="birthName">Schleswig-Holstein-Gottorf, Hedwig Eleonora, Herzogin von</persName>
                 </person>
                 <person xml:id="schweden_karl_gustav">
-                    <persName ref="https://d-nb.info/gnd/118720945" type="display">Schweden, Karl Gustav X. von</persName>
+                    <persName ref="https://d-nb.info/gnd/118720945" type="display">Karl X. Gustav, König von Schweden</persName>
                     <listBibl>
                         <bibl>
                             <ptr type="adb" target="https://www.deutsche-biographie.de/pnd118720945.html#adbcontent"/>
                         </bibl>
                     </listBibl>
+                </person>
+                <person xml:id="schweden_karl_xi">
+                    <persName ref="https://d-nb.info/gnd/119160978" type="display">Karl XI., König von Schweden</persName>
+                </person>
+                <person xml:id="schweden_karl_xii">
+                    <persName ref="https://d-nb.info/gnd/118560123" type="display">Karl XII., König von Schweden</persName>
+                </person>
+                <person xml:id="schweden_ulrika_eleonora">
+                    <persName type="display" ref="https://d-nb.info/gnd/119550660">Ulrika Eleonora, Königin von Schweden</persName>
+                    <persName type="birthName">Ulrika Eleonora, Prinzessin von Dänemark und Norwegen</persName>
+                </person>
+                <person xml:id="schweden_ulrika_eleonora_2">
+                    <persName type="display" ref="https://d-nb.info/gnd/123038162">Ulrika Eleonora, Königin von Schweden</persName>
                 </person>
                 <person xml:id="sehliger_georg_adrian">
                     <persName type="display">Sehliger, Georg Adrian</persName>
@@ -1257,12 +1562,29 @@
                     <persName type="display">Sparr, N. N.</persName>
                     <note>Um 1658 Apotheker in Frankfurt am Main.</note>
                 </person>
+                <person xml:id="steinberg_anon_1">
+                    <persName type="display">Steinberg, N. N. (von)</persName>
+                    <note>Um 1689 schwedische Adlige(?) in Stockholm; wohnte bei der Schiffbrücke.</note>
+                </person>
+                <person xml:id="stenbock_johan_gabriel">
+                    <persName type="display" ref="https://d-nb.info/gnd/12393947X">Stenbock, Johan Gabriel, Graf</persName>
+                </person>
                 <person xml:id="stephanus">
                     <persName type="display">Stephanus</persName>
                     <note>Ein vermutlich mittelalterlicher Kantor und Sakristan in der Abtei Saint-Martin d’Ainay in Lyon.</note>
                 </person>
                 <person xml:id="stephanus_heiliger">
-                    <persName type="display" ref="#https://d-nb.info/gnd/1204031533">Stephanus, Heiliger</persName>
+                    <persName type="display" ref="https://d-nb.info/gnd/1204031533">Stephanus, Heiliger</persName>
+                </person>
+                <person xml:id="stuart_james_francis_edward">
+                    <persName type="display" ref="https://d-nb.info/gnd/100262554">Stuart, James Francis Edward</persName>
+                    <persName>Wales, James, Prince of</persName>
+                    <persName>Jakob III., König von England (Thronprätendent)</persName>
+                    <persName>Jakob VII., König von Schottland (Thronprätendent)</persName>
+                </person>
+                <person xml:id="svebilius_olof">
+                    <persName type="display" ref="https://d-nb.info/gnd/104776573X">Svebilius, Olof</persName>
+                    <persName>Uppsala, Olof, Erzbischof von</persName>
                 </person>
                 <person xml:id="tahlen_ernesto">
                     <persName type="display">Tahlen, Ernesto</persName>
@@ -1287,9 +1609,15 @@
                 <person xml:id="terentia">
                     <persName type="display" ref="https://www.wikidata.org/wiki/Q3518324">Terentia</persName>
                 </person>
+                <person xml:id="thor">
+                    <persName type="display" ref="https://d-nb.info/gnd/119192748">Thor (Gott)</persName>
+                </person>
                 <person xml:id="thueringen_elisabeth">
                     <persName ref="https://d-nb.info/gnd/118529927" type="display">Thüringen, Elisabeth von</persName>
                     <persName>Ungarn, Elisabeth von</persName>
+                </person>
+                <person xml:id="titanen">
+                    <persName type="display" ref="https://d-nb.info/gnd/118884786">Titanen</persName>
                 </person>
                 <person xml:id="torstensson_lennart">
                     <persName ref="https://d-nb.info/gnd/117407186" type="display">Torstensson, Lennart</persName>

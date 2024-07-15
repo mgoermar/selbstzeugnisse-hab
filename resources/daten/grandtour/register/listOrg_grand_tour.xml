@@ -49,6 +49,9 @@
                 <org xml:id="giessen_universitaet">
                     <orgName ref="https://d-nb.info/gnd/36154-9">Gießen, Universität</orgName>
                 </org>
+                <org xml:id="goten_stamm">
+                    <orgName ref="https://d-nb.info/gnd/4021650-0">Goten, Stamm</orgName>
+                </org>
                 <org xml:id="greifswald_universitaet">
                     <orgName ref="https://d-nb.info/gnd/1143162595">Greifswald, Universität</orgName>
                 </org>
@@ -111,6 +114,22 @@
                 </org>
                 <org xml:id="rom_senat">
                     <orgName ref="https://d-nb.info/gnd/4070408-7">Rom, Senat (Senatus Romanus)</orgName>
+                </org>                
+                <org xml:id="schweden_bauernstand">
+                    <orgName ref="https://www.wikidata.org/wiki/Q10432856">Bauernstand (Bondeståndet), Schweden</orgName>
+                    <note>Einer der vier Stände des schwedischen Reichstags.</note>
+                </org>
+                <org xml:id="schweden_buergerstand">
+                    <orgName ref="https://www.wikidata.org/wiki/Q37868367">Bürgerstand (Borgarståndet), Schweden</orgName>
+                    <note>Einer der vier Stände des schwedischen Reichstags.</note>
+                </org>
+                <org xml:id="schweden_geistlicher_stand">
+                    <orgName ref="https://www.wikidata.org/wiki/Q10641346">Geistlicher Stand (Prästeståndet), Schweden</orgName>
+                    <note>Einer der vier Stände des schwedischen Reichstags.</note>
+                </org>
+                <org xml:id="schweden_ritterschaft">
+                    <orgName ref="https://d-nb.info/gnd/1009444-1">Ritterschaft (Riddarhuset/Ridderskapet och adeln), Schweden</orgName>
+                    <note>Korporativer Zusammenschluss des schwedischen Adels und einer der vier Stände des schwedischen Reichstags.</note>
                 </org>
                 <org xml:id="schweizer_garde_frankreich">
                     <orgName ref="https://d-nb.info/gnd/1086520084">Schweizergarde, Frankreich (Régiment des Gardes-Suisses)</orgName>
@@ -126,6 +145,9 @@
                 </org>
                 <org xml:id="strassburg_universitaet">
                     <orgName ref="https://d-nb.info/gnd/5344022-5">Straßburg, Universität</orgName>
+                </org>
+                <org xml:id="wandalen_stamm">
+                    <orgName ref="https://d-nb.info/gnd/4062328-2">Wandalen, Stamm</orgName>
                 </org>
             </listOrg>
         </body>

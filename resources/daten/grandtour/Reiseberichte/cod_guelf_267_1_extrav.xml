@@ -212,7 +212,7 @@
                        <lb/>mit geschickten <choice><abbr>professorib&#42863;</abbr><expan>professoribus</expan></choice> woll besetzet, zur
                        <lb/>selbigen zeit waren 6 apothecken, bin aber in
                        <lb/>keiner alß des H. <rs type="person" ref="#goetzken_anon_1">Doctor Götzken</rs> apotheckn, welche
-                       <lb/>vor diesen des trefflichen apotheckers <add place="above">vnd Chymici </add><rs type="person" ref="#detharding_georg">Diederichs</rs>
+                       <lb/>vor diesen des trefflichen apotheckers <add place="above">vnd Chymici</add> <rs type="person" ref="#detharding_georg">Diederichs</rs>
                        <lb/>apothecke gewesen, welcher <choice><abbr>&#42863;tra</abbr><expan>contra</expan></choice> <rs type="person" ref="#agricola_johann"><choice><abbr>Agricol&#257;</abbr><expan>Agricolam</expan></choice></rs> <w lemma="geschrieben">geschrie:
                        <lb/>ben</w>, vnd H. <rs type="person" ref="#lobetantz_anon_1">Lobetantz</rs> meines landeßman
                        <lb/>apothecke eingetreten, in S. Jacobs kirche siehet
@@ -262,7 +262,7 @@
                        <lb/>Ihm seine krugke von bösen leuten <w lemma="abgenommen">abgenom:
                        <lb/>men</w> vnd auf den baum geworffen worden,
                        <lb/>vnd were Ihm vnmöglich ohne selbige weiter
-                       <lb/>zu kommen, <add place="above">bittend </add>es möchte doch der kaufman
+                       <lb/>zu kommen, <add place="above">bittend</add> es möchte doch der kaufman
                        <lb/>ein lohn von Gott verdienen, vnd Jhm die
                        <pb facs="#mss_267-1-extrav_00014"/>
                        <lb/>krukke her vnter langen, gedachter kaufman
@@ -290,7 +290,7 @@
                        <lb/>knochen vnd asche wir noch zuem theil sahen.
                        <lb/>Von hier seind wir durch ein Städtlein
                        <lb/><rs type="place" ref="#schlawe"><hi rend="underline">Schlage</hi></rs> gefahren biß auf die Stadt
-                       <lb/>vnd festung <rs type="place" ref="#stolpe"><hi rend="underline">Stolpe</hi></rs> gefahren, alhier war
+                       <lb/>vnd festung <rs type="place" ref="#stolp"><hi rend="underline">Stolpe</hi></rs> gefahren, alhier war
                        <lb/>eine feine apothecke am marckte auch
                        <pb facs="#mss_267-1-extrav_00015"/>
                        <lb/>ein feines <rs type="org" ref="#stolpe_collegium">Collegium</rs>, auch bey der vorstadt ein
@@ -317,7 +317,7 @@
                        <lb/><rs type="person" ref="#petersen_nikolaus">Nicolaus Petersen</rs> condition, Jn der heil. Geist
                        <lb/>gaße, vnd <rs type="person" ref="#wohihin_christoph"><choice><expan>Christopherus</expan><abbr>Christopher&#42863;</abbr></choice> Wohihin</rs> reisete nach <rs type="place" ref="#koenigsberg"><w lemma="Königsberg">Königs
                        <lb/>ber</w>g</rs>. Eß hat daselbsten vber diemaßen 2 schöne
-                       <lb/><add place="above">woll mundirte </add>zeughhauser, in dem einen siehet man die vber
+                       <lb/><add place="above">woll mundirte</add> zeughhauser, in dem einen siehet man die vber
                        <lb/>alldiemaßen schöne Ehren Pforte, welche mit
                        <pb facs="#mss_267-1-extrav_00016"/>
                        <lb/>schönen außgeschnittzter arbeit alles in marmor
@@ -346,7 +346,7 @@
                        <lb/>acceptiret, der apothecker war gleichfals auch
                        <lb/>RathsH. die leute in dieser stadt warn alle
                        <lb/>mehren theil Lutherisch, aber die Catholischen
-                       <lb/><add place="bottom">NB. <rs type="place" ref="#danzig">Gedani</rs> in domo Consulis <rs type="person" ref="#schachmann_bartholomaeus">Schachtmanni</rs> effigies vera <rs type="person" ref="#adam">Adami</rs>
+                       <lb/><add place="bottom">NB. <rs type="place" ref="#danzig">Gedani</rs> in domo Consulis <rs type="person" ref="#schachtmann_anon_1">Schachtmanni</rs> effigies vera <rs type="person" ref="#adam">Adami</rs>
                        <lb/>&amp;c <rs type="person" ref="#eva">Evæ</rs>.</add>
                        <pb facs="#mss_267-1-extrav_00017"/>
                        <lb/>hatten die kirch ein, vnd wir lutterischen hatten
@@ -383,7 +383,7 @@
                        <lb/>Den <date when="1652-10-03">3 Octobris</date> fuhr Jch von dannen auf
                        <lb/><rs type="place" ref="#elbing"><hi rend="underline">Elbing</hi></rs> eine feine See vnd handellstadt vnd ein
                        <lb/>gekehret im Schwartzen adeler am Marckte
-                       <lb/>den <date when="1652-10-04">4 dito</date> Bin Jch Gangen zu H. <rs type="person" ref="#noefe_johann_jakob">Doctori
+                       <lb/>den <date rend="1652-10-04">4 dito</date> Bin Jch Gangen zu H. <rs type="person" ref="#noefe_johann_jakob">Doctori
                        <lb/>Johanni Jacobo Noefio</rs> Medicinae
                        <lb/>Doctori vnd auch Rats apothecker daselbsten,
                        <lb/>bey welchem Jch auf recommendation des
@@ -393,7 +393,7 @@
                        <lb/>in Erwehnte raths apothecke mich aufgehalten
                        <lb/>Diese stadt ist eine von den 4 heuptstedten in
                        <lb/><rs type="place" ref="#preussen_herzogtum">Preußen</rs>, vnd vnter allen die festeste, vnd nach
-                       <lb/>dem Fluß <add place="above"><rs type="place" ref="#elbing_river">Elbing</rs></add> der da auß dem <add place="above">große </add>Haffe durch
+                       <lb/>dem Fluß <add place="above"><rs type="place" ref="#elbing_river">Elbing</rs></add> der da auß dem <add place="above">große</add> Haffe durch
                        <lb/>die stadt fleust, genand, eß ist daselbsten ein
                        <lb/>großer handell mit korn vnd flachs, in der
                        <lb/>alten stadt seind 3 vnd in der Newe 1 kirche
@@ -401,12 +401,12 @@
                    </p>
                    <p>
                        <lb/><date when="1655-01-25">A<hi rend="superscript">o</hi> 1655 den 25 Januarij</date> mit Monsieur
-                       <lb/><rs type="person" ref="#kanten_hermann">Hermann Von Kanten</rs> aufm Schlitten spatziren
+                       <lb/><rs type="person" ref="#kanten_hermann_von">Hermann Von Kanten</rs> aufm Schlitten spatziren
                        <lb/>gefahren nacher <rs type="place" ref="#preussisch_holland"><hi rend="underline">Holland</hi></rs> ein feines stedchen <w lemma="wobey">wo:
                        <lb/>bey</w> ein schönes fürstliches Schloß aufm hohen berge
                        <lb/>in welchem ein schöner brunn etliche 200
                        <lb/>Claffter tieff, dieses gehort alles vnter
-                       <lb/>dem <rs type="person" ref="#brandenburg_friedrich_wilhelm">Churf. von Brandenburg</rs>, ein spatzir
+                       <lb/>dem <rs type="person" ref="#brandenburg_friedrich_wilhelm_von">Churf. von Brandenburg</rs>, ein spatzir
                        <lb/>weg vngefehr von dieser Stadt seind 2 schöne
                        <lb/>Wälder in welchem alle beume so mit fleiß
                        <lb/>gepflantzet, in der reige vnd Ordnung, also
@@ -415,11 +415,11 @@
                       <lb/>durch reitten kan
                    </p>
                    <p>
-                      <lb/>Den <date when="1655-02-24">24 Februarij</date> wieder nacher <rs type="place" ref="#marienburg">Marienburg</rs> gereiset
+                      <lb/>Den <date rend="1655-02-24">24 Februarij</date> wieder nacher <rs type="place" ref="#marienburg">Marienburg</rs> gereiset
                       <lb/>vnd abscheid von H. <rs type="person" ref="#pyr_caspar">Casparo Pyro</rs> so <add place="above">Sel.</add> H. <rs type="person" ref="#hase_anon_1">Hasen</rs>
                       <lb/><rs type="person" ref="#hase_witwe">wittibe</rs> geheirrathet, genommen welcher mir
-                      <lb/>wie auch deßen H. Schwieger
-               Vatter der Voigt<note resp="mg" type="footnote">Person nicht identifiziert.</note> 
+                      <lb/>wie auch deßen H. <rs type="person" ref="#hase_schwiegervater">Schwieger
+               Vatter der Voigt</rs> <!--Da bisher nicht identifiziert: bist du mit der Anzeige 'hase_schwiegervater' einverstanden?-->
                       <lb/>zu Schloß 3 tage bey sich behalten, vnd alle guthat
                       <lb/>erwiesen.
                    </p>
@@ -440,7 +440,7 @@
                       <lb/>daselbsten ist alles Catholisch vnd großes
                       <lb/><rs type="org" ref="#jesuiten">Jesviter</rs> Collegium, selbigen tages weiter
                       <lb/>gefahren auff <rs type="place" ref="#heiligenbeil"><hi rend="underline">Heilig beil</hi></rs> ein feines
-                      <lb/>landstedtchen, dem <rs type="person" ref="#brandenburg_friedrich_wilhelm">Chf.</rs> zu gehörig alhie
+                      <lb/>landstedtchen, dem <rs type="person" ref="#brandenburg_friedrich_wilhelm_von">Chf.</rs> zu gehörig alhie
                       <lb/>wird ein schönes bier gebrawet, vnd an einem
                       <lb/>Jeden hauß stehet eine noth:leiter in <choice><abbr>Δbrunst</abbr><expan>Feuerbrunst</expan></choice>
                       <lb/>zu gebrauchen.
@@ -467,7 +467,7 @@
                       <lb/>Meil gerechnet. Eß Jst auch alhie eine
                       <lb/>Weit beruemhbte <rs type="org" ref="#koenigsberg_universitaet">Universität</rs>, welches collegium
                       <lb/>an den thuemb, vnd ist diese <rs type="org" ref="#koenigsberg_universitaet">universität</rs>
-                      <lb/>von <rs type="person" ref="#brandenburg-ansbach_albrecht">Marchgraffen Albrecht</rs> A<hi rend="superscript">o</hi> 1545<note type="footnote" resp="ag">Irrtum Wageners: Die Universität Königsberg wurde ein Jahr zuvor am 20. Juli 1544 gegründet.</note> <w lemma="gestifftet">ge:
+                      <lb/>von <rs type="person" ref="#brandenburg-ansbach_albrecht_von">Marchgraffen Albrecht</rs> A<hi rend="superscript">o</hi> 1545 <note type="footnote" resp="ag">Irrtum Wageners: Die Universität Königsberg wurde ein Jahr zuvor am 20. Juli 1544 gegründet</note><w lemma="gestifftet">ge:
                       <lb/>stifftet</w> worden.
                    </p>
                    <p>
@@ -481,17 +481,17 @@
                    </p>
                       <pb facs="#mss_267-1-extrav_00021"/>
                    <p>
-                      <lb/>den <date when="1655-10-04">4 <choice><expan>Octobris</expan><abbr>8bris</abbr></choice> <choice><expan>huius</expan><abbr>hui&#42863;</abbr></choice> Anni</date> Hielt der <rs type="person" ref="#brandenburg_friedrich_wilhelm">Kuhrfürst von
+                      <lb/>den <date when="1655-10-04">4 <choice><expan>Octobris</expan><abbr>8bris</abbr></choice> <choice><expan>huius</expan><abbr>hui&#42863;</abbr></choice> Anni</date> Hielt der <rs type="person" ref="#brandenburg_friedrich_wilhelm_von">Kuhrfürst von
                       <lb/>Brandenburg Friederich Wilhelm</rs> seinen Einzug
                       <lb/>zue <rs type="place" ref="#koenigsberg">Königsberg</rs> gar solenniter da er sonsten in
                       <lb/>9 Jahren selbiges Orths nicht gewesen
                    </p>
                    <p>
-                      <lb/>den <date when="1655-10-28">28 Octobris</date> hielt die <rs type="person" ref="#brandenburg_luise_henriette">Churfürstinne</rs> Jhren
-                      <lb/>einzug zum ersten mahl, da dan der <rs type="person" ref="#brandenburg_friedrich_wilhelm">Churfürst</rs>
+                      <lb/>den <date when="1655-10-28">28 Octobris</date> hielt die <rs type="person" ref="#Oranien-Nassau_Luise_Henriette_von">Churfürstinne</rs> Jhren
+                      <lb/>einzug zum ersten mahl, da dan der <rs type="person" ref="brandenburg_friedrich_wilhelm_von">Churfürst</rs>
                       <lb/>nebenst dem gantzen landadel vnd vielen <w lemma="fornehmen">for:
                       <lb/>nehmen</w> H. Jhr entgegen gefahren, vnd mit
-                      <lb/>einer mechtigen procession ein geholet, <add place="above">in </add>der gantze
+                      <lb/>einer mechtigen procession ein geholet, <add place="above">in</add> der gantze
                       <lb/>stadt waren mit weißen Sande die gaßen <w lemma="bestrewet">be:
                       <lb/>strewet</w> vnd an beiden seiten der gaßen waren
                       <lb/>durch die gantze stadt Thannen beume <w lemma="gesetzet">ge:
@@ -505,29 +505,29 @@
                       <lb/>folgeten die patricij vnd Junge bursch der stadt
                       <lb/>alle zu Pferde hierauff der gantze landadell
                       <lb/>Nach diesem 12 trompeter vnd 2 herpaucker
-                      <lb/>so vor dem <rs type="person" ref="#brandenburg_friedrich_wilhelm">Churfürsten</rs> bließen, vnd Jene
+                      <lb/>so vor dem <rs type="person" ref="#brandenburg_friedrich_wilhelm_von">Churfürsten</rs> bließen, vnd Jene
                       <lb/>die Paukken schluegen, darauff folgete
-                      <lb/>der <rs type="person" ref="#brandenburg_friedrich_wilhelm">Churfürst</rs> zu Pferde nebenst vielen grafen
+                      <lb/>der <rs type="person" ref="#brandenburg_friedrich_wilhelm_von">Churfürst</rs> zu Pferde nebenst vielen grafen
                       <lb/>vnd Frey herren an der Seite lieffen die
                       <lb/>laqueien mit bloßen haupte vnd <choice><corr>den</corr><sic>des</sic></choice> degen
                       <lb/>in die hand habende Nach diesem
                       <pb facs="#mss_267-1-extrav_00022"/>
                       <lb/>Folgeten wieder viele frembde H. vnd von
                       <lb/>adel, hinter welchem 12 pagien vor der
-                      <lb/><rs type="person" ref="#brandenburg_luise_henriette">Churfürstinen</rs> Caroße giengen, darauf folget
-                      <lb/>die <rs type="person" ref="#brandenburg_luise_henriette">Churfürstinne</rs> nebenst der Caroße liefen
+                      <lb/><rs type="person" ref="#oranien-nassau_luise_henriette_von">Churfürstinen</rs> Caroße giengen, darauf folget
+                      <lb/>die <rs type="person" ref="#oranien-nassau_luise_henriette_von">Churfürstinne</rs> nebenst der Caroße liefen
                       <lb/>die laquein auch alle mit bloßen Haupte vnd
-                      <lb/>ritt der <rs type="person" ref="#waldeck_wolrad">Graff von Waldeck</rs> als damahliger
+                      <lb/>ritt der <rs type="person" ref="#waldeck_wolrad_von">Graff von Waldeck</rs> als damahliger
                       <lb/>Generall Leutenant vber die <rs type="place" ref="#brandenburg_kurfuerstentum"><w lemma="Brandenburgische">Brandenburgi:
                       <lb/>sche</w></rs> Armada nebenst der Cutsche Bißweilen mit
-                      <lb/>der <rs type="person" ref="#brandenburg_luise_henriette">Churfurstinne</rs> redend, hierauff <w lemma="folgete">folge:
+                      <lb/>der <rs type="person" ref="#oranien-nassau_luise_henriette_von">Churfurstinne</rs> redend, hierauff <w lemma="folgete">folge:
                       <lb/>te</w> daß Frawenzimmer vnd sonsten viele
                       <lb/>vornehme Herren alle biß auffs schloß
                    </p>
                    <p>
                       <lb/>Den <date when="1655-12-03">3 December</date> præsentirten die H. Studiosi
                       <lb/><del>auffm</del> der <rs type="org" ref="#koenigsberg_universitaet_preussische_nation">Preusischen Nation</rs> aufm abend
-                      <lb/>der <rs type="person" ref="#brandenburg_luise_henriette">Churfurstinnen</rs> eine Herliche Musicæ
+                      <lb/>der <rs type="person" ref="#oranien-nassau_luise_henriette_von">Churfurstinnen</rs> eine Herliche Musicæ
                       <lb/>da die Nation zwischen 2 Compagnien <w lemma="Caurussier">Cau:
                       <lb/>russier</w> durch die stadt nachm Schloß geführet
                       <lb/>ward, vnd wurden vor jedes pahr so woll
@@ -537,7 +537,7 @@
                       <lb/>det</w>, vnd nach dem der einzug aufs schloß
                       <lb/>geschehen, gieng ein <choice><expan>studiosus</expan><abbr>studios&#42863;</abbr></choice> welcher einer
                       <lb/>vom adel vnd aus der <rs type="org" ref="#koenigsberg_universitaet_preussische_nation">Preusischen Nation</rs> <add place="margin_left"><w lemma="genand">ge:<lb/>nand</w> <rs type="person" ref="#leschewam_anon_1"><w lemma="leschewam">le:<lb/>schewam</w></rs></add> zu
-                      <lb/>dem <rs type="person" ref="#brandenburg_friedrich_wilhelm">Churfürsten</rs> hierauff vnd thäte eine
+                      <lb/>dem <rs type="person" ref="#brandenburg_friedrich_wilhelm_von">Churfürsten</rs> hierauff vnd thäte eine
                       <lb/>oration nach diesem machten die <w lemma="musicanten"><choice><abbr>music&#257;<lb/>ten</abbr><expan>musican
                       <lb/>ten</expan></choice></w> ein anfang der music, vnd wurden
                       <lb/>bißweilen unter der music nicht allein
@@ -549,26 +549,26 @@
                       <lb/>400 Rth. NB. de Epitaphio <rs type="person" ref="#lobwasser_ambrosius">Ambros. Lobwassers</rs>.
                    </p>
                    <p>
-                      <lb/>Den <date when="1655-12-25">25 <choice><expan>Decembris</expan><abbr>Xbr</abbr></choice></date> alß ein Christage fuehrete der <rs type="person" ref="#brandenburg_friedrich_wilhelm">Churfurst</rs>
+                      <lb/>Den <date when="1655-12-25">25 <choice><expan>Decembris</expan><abbr>Xbr</abbr></choice></date> alß ein Christage fuehrete der <rs type="person" ref="#brandenburg_friedrich_wilhelm_von">Churfurst</rs>
                       <lb/>seine gantze cavallerie bestehend in die 12 000 Man
-                      <lb/>durch die gantze Stadt selbsten <add place="above">vor </add>den ersten theil der <w lemma="armada">ar:
+                      <lb/>durch die gantze Stadt selbsten <add place="above">vor</add> den ersten theil der <w lemma="armada">ar:
                       <lb/>mada</w> waren die trompeter vnd heernpaucken <w lemma="hinter">hin:
-                      <lb/>ter</w> welchen der <rs type="person" ref="#brandenburg_friedrich_wilhelm">Churfürst</rs> mit bloßem Schwerte ritt.
-                      <lb/>Den andern theil der armada fuehrete der <rs type="person" ref="#waldeck_wolrad">Graff
-                      <lb/>von Walldeeck</rs>, vnd den dritten theil der <rs type="person" ref="#kannenberg_christoph">Generall
+                      <lb/>ter</w> welchen der <rs type="person" ref="#brandenburg_friedrich_wilhelm_von">Churfürst</rs> mit bloßem Schwerte ritt.
+                      <lb/>Den andern theil der armada fuehrete der <rs type="person" ref="#waldeck_wolrad_von">Graff
+                      <lb/>von Walldeeck</rs>, vnd den dritten theil der <rs type="person" ref="#kannenberg_christoph_von">Generall
                       <lb/>Kannenbergk</rs>. Den Sontag nachm Christag rukkete
-                      <lb/><rs type="person" ref="#schweden_karl_gustav">Carolus Gustavus König von Schweden</rs> vor die
+                      <lb/><rs type="person" ref="#schweden_karl_gustav_von">Carolus Gustavus König von Schweden</rs> vor die
                       <lb/>Stadt <rs type="place" ref="#koenigsberg">Königsberg</rs> vnd hielt uns 14 tage belägert,
                       <lb/>that aber keinen Eintzigen Schueß in die Statt
                       <lb/>maßen die Mannschafft drinnen Stärcker alß
-                      <lb/>sie draußen waren. Eß sandte der <rs type="person" ref="#schweden_karl_gustav">König von <w lemma="Schweden">Schwe:
-                      <lb/>den</w></rs> nach ein ander 2 legatos in die Stadt den <rs type="person" ref="#brandenburg_friedrich_wilhelm"><w lemma="Churfursten">Chur:
+                      <lb/>sie draußen waren. Eß sandte der <rs type="person" ref="#schweden_karl_gustav_von">König von <w lemma="Schweden">Schwe:
+                      <lb/>den</w></rs> nach ein ander 2 legatos in die Stadt den <rs type="person" ref="#brandenburg_friedrich_wilhelm_von"><w lemma="Churfursten">Chur:
                          <lb/>fürsten</w></rs> nach seiner willen zubewegen, welche aber
                       <lb/>unverrichteter Sache wieder wegziehen muesten, biß
                       <lb/>Endlich der <rs type="person" ref="#oxenstierna_erik">Reichs:Cantzler Oxenstirn</rs> hierin kam
                       <lb/>welcher nicht ehe weg gewolt biß der vortrag <w lemma="geschehen">gesche:
                       <lb/><note type="contemporary" place="margin_left">1656</note>hen</w>. Den <date when="1656-07-08">8 Julij</date> Reisete Jch von <rs type="place" ref="#koenigsberg">Königsberg</rs>
-                      <lb/>vbers haff nacher <rs type="place" ref="#elbing">Elbing</rs> den <rs type="person" ref="#schweden_karl_gustav">König von <w lemma="Schweden">Schwe:
+                      <lb/>vbers haff nacher <rs type="place" ref="#elbing">Elbing</rs> den <rs type="person" ref="#schweden_karl_gustav_von">König von <w lemma="Schweden">Schwe:
                       <lb/>den</w></rs> welcher damahlen elben alda zusehen bey
                       <lb/>welchem zugleich auch <rs type="place" ref="#osmanisches_reich">Turckische</rs>, <rs type="person" ref="#habsburg_leopold">Kayserliche</rs>
                       <pb facs="#mss_267-1-extrav_00024"/>
@@ -584,7 +584,7 @@
                       <lb/>Sachen verschaffet. Diese Statt <rs type="place" ref="#hamburg"><hi rend="underline">Hamburg</hi></rs>
                       <lb/>Jst eine von den vornembsten See vnd Handell
                       <lb/>stätten in <rs type="place" ref="#heiliges_roemisches_reich">Teutschland</rs>, hat 4 große Haupt- oder
-                      <lb/>Pfaarkirchen, <add place="above">alß S. Nicolaus. Catharin. Peter und Jacob </add>vnd sonsten viel andrer Mehr, eß ist
+                      <lb/>Pfaarkirchen, <add place="above">alß S. Nicolaus. Catharin. Peter und Jacob</add> vnd sonsten viel andrer Mehr, eß ist
                       <lb/>auch alhier eine feine Respublica auch eine schöne
                       <lb/>Börse beim Rats:hause.
                    </p>
@@ -655,11 +655,11 @@
                       <lb/>Bibliotheca zeigete, da man in allerhand
                       <lb/>sprachen schöne bücher siehet, vnter andern war
                       <lb/>in der Bibliotheca gar schöen gemahlet effigies
-                      <lb/><rs type="person" ref="#luther_martin">D. Lutheri</rs> vnd deßen liebste <rs type="person" ref="#bora_katharina">Cattharina</rs> wie
+                      <lb/><rs type="person" ref="#luther_martin">D. Lutheri</rs> vnd deßen liebste <rs type="person" ref="#bora_katharina_von">Cattharina</rs> wie
                       <lb/>Auch <rs type="person" ref="#calvin_jean">D. Joh. Calvini</rs>. Nach diesem fuehrete
                       <lb/>er mich in die erste Kunstkammer<note type="footnote" resp="mg">Zum folgenden vgl. auch Angela Göbel und Maximilian Görmar: „Zu Besuch in der Gottorfischen Kunstkammer. Berichte eines Apothekergesellen auf Reisen“, HABlog (2023), <ref target="https://www.hab.de/zu-besuch-in-der-gottorfischen-kunstkammer/">https://www.hab.de/zu-besuch-in-der-gottorfischen-kunstkammer/</ref>.</note> in <w lemma="welcher">wel:
                       <lb/>cher</w> in Menschlicher größe man allerhand nation
-                      <lb/><add place="margin_left">gemachte</add> Menschen sahe, <add place="bottom">die sich alle regen, aufstehen vnd bewegen könten.</add> mit Jhren <add place="above">rechten </add>gewohnlichen Kleider
+                      <lb/><add place="margin_left">gemachte</add> Menschen sahe, <add place="bottom">die sich alle regen, aufstehen vnd bewegen könten.</add> mit Jhren <add place="above">rechten</add> gewohnlichen Kleider
                       <lb/>angethan, voran der thuere zuer rechten<note type="annotation" resp="mg">Satz wird auf dem übernächsten Blatt fortgesetzt.</note>
                       <pb facs="#mss_267-1-extrav_00027"/>
                       <lb/>NB. Unter andren vornehmen buechern war auch
@@ -705,7 +705,7 @@
                       <pb facs="#mss_267-1-extrav_00030"/>
                       <lb/>mit einschlagen wenn sie einem erhaschen, ma&#223;en
                       <lb/>mir der H. <rs type="person" ref="#olearius_adam" resp="spacy">Olearius</rs> referirte da&#223; auf der
-                      <lb/><rs type="place" ref="#persien" resp="spacy">Persianischen</rs> reise einer mit solcher Peitsche hinter
+                      <lb/><rs type="place" ref="#perserreich" resp="spacy">Persianischen</rs> reise einer mit solcher Peitsche hinter
                       <lb/>Jhm her gewesen, Jhm auch erwischet, wann nicht
                       <lb/>Jhre leute, Jhm ungefehr zu hulffe kommen
                       <lb/>weren; auch zeigete er mir seinen Rock
@@ -718,7 +718,7 @@
                       <lb/>gen</w> vnd gethieren verhanden, so der vornehme
                       <lb/><rs type="person" ref="#paludanus_bernard" resp="spacy">D. Paludanus</rs> vor diesem Jn <rs type="place" resp="spacy" ref="#niederlande_vereinigte">holland</rs> zu
                       <lb/><rs type="place" ref="#enkhuizen" resp="spacy">Enckhusen</rs> Gehabt, vnd <rs type="person" ref="#braunschweig-wolfenbuettel-bevern_ferdinand_albrecht">Jhr F. G.</rs> von de&#223;en
-                      <lb/><rs type="person" ref="#paludanus_anon_1">Sohn</rs> nach des Vatern absterben hat kauffen
+                      <lb/><rs type="person" ref="#paludanus_bernard_sohn">Sohn</rs> nach des Vatern absterben hat kauffen
                       <lb/>la&#223;en. Erstlich zeigete vns die vielerliey
                       <lb/>art der schlangen, da&#223; man sich nicht <w lemma="genugsahm">genug:
                       <lb/>sahm</w> druber verwundern k&#246;nte, vntern andren
@@ -758,10 +758,10 @@
                       <pb facs="#mss_267-1-extrav_00032"/>
                       <lb/>Auch, welches zu verwundern eine &#214;ester
                       <lb/>so damahlen vor 3 Jahren bey <rs type="place" ref="#enkhuizen" resp="spacy">Enckhusen</rs> in die
-                      <lb/><rs type="place" ref="#ijsselmeer">See</rs> gefunden, welche <add place="above">so </add>gro&#223; da&#223; 3 kinder sich <w lemma="darinnen">dar
+                      <lb/><rs type="place" ref="#ijsselmeer">See</rs> gefunden, welche <add place="above">so</add> gro&#223; da&#223; 3 kinder sich <w lemma="darinnen">dar
                       <lb/>innen</w> baden k&#246;nten. Neben diesen stund
                       <lb/>ein tisch so mit lauter Edelgesteinen eingelegt
-                      <lb/>war, selbiger hatte mir wie mir der H. <rs type="person" ref="#olearius_adam">Olearius</rs>
+                      <lb/>war, selbiger hatte mir wie mir der H. <rs type="person" ref="olearius_adam">Olearius</rs>
                       <lb/>berichtet 8000 Rth. geko&#223;et, nebenst welchen
                       <lb/>ein ander sch&#246;ner steinern tisch stand so 400 rth
                       <lb/>gekost. Nicht weit vor diesen stunden vberall
@@ -812,7 +812,7 @@
                       <lb/>schlecht</w> niemand mehr vorhanden sein. Der fue&#223;
                       <lb/>des bechers war mit Edell gesteinen
                       <pb facs="#mss_267-1-extrav_00034"/>
-                      <lb/>versetzet, vnd hatte solchen Obrist. <rs type="person" ref="#buelow_jakob">Bulow</rs>
+                      <lb/>versetzet, vnd hatte solchen Obrist. <rs type="person" ref="#buelow_jakob_von">Bulow</rs>
                       <lb/>dahin gegeben. Wie auch eine holtzerne kette
                       <lb/>so ein blinder au&#223; einem gro&#223;en stock ohn alles
                       <lb/>zusammenhefften, gar kurstlich geschnitten, <w lemma="welche">wel
@@ -854,7 +854,7 @@
                    <p>
                       <lb/>Den <date when="1657-01-20">20 Januarij</date> that mir offterwehnter H. <rs type="person" ref="#olearius_adam">Olearius</rs> die
                       <lb/>Ehre vnd gieng mit mir hinau&#223; auf das newe werck
-                      <lb/>den Gar gro&#223;en Globum (, <add place="above">von </add>dergleichen sein lebtag
+                      <lb/>den Gar gro&#223;en Globum (, <add place="above">von</add> dergleichen sein lebtag
                       <lb/>nicht gehoret) mir zu zeigen. Dieser Globus ist
                       <lb/>von Kupffer gemacht, vnd in der gr&#246;&#223;e in einem
                       <lb/>gro&#223;en Saal von der Erde an bi&#223; oben an den boden
@@ -864,11 +864,11 @@
                       <lb/>vnd langsahm gehet. Vnten wertz im Globo ist
                       <lb/>eine thuere so er aufschlo&#223;, in dem globo hinein
                       <lb/>gieng vnd ich auch zu Jhm hieneintreten mueste,
-                      <lb/>ma&#223;en ein runder tisch drinnen vnd eine <add place="above">runde </add>blanck
+                      <lb/>ma&#223;en ein runder tisch drinnen vnd eine <add place="above">runde</add> blanck
                       <lb/>hinten mit Gallereyen, daso 11 persohnen vmb
                       <lb/>den tisch sitzen k&#246;nnen, vnd siehet man Jnwendig
                       <lb/>wie er mir solches zeigete, die signa calestia
-                      <lb/><add place="above">vnd planeten </add>wie dieselben gehen, vnd sich bewen.
+                      <lb/><add place="above">vnd planeten</add> wie dieselben gehen, vnd sich bewen.
                       <pb facs="#mss_267-1-extrav_00036"/>
                       <lb/>Au&#223;wendig aber auff den Gantzen Globo
                       <lb/>seind die quatuor terr&#x00E6; partes nebenst dero <unclear>l&#228;ndern</unclear>
@@ -886,14 +886,14 @@
                       <lb/>hatte aber keine Fluegel da&#223; er fliegen
                       <lb/>k&#246;nte, dieser kunte ein zimblich gro&#223; brot
                       <lb/>auff einmahl verzehren. Dieses Jst das
-                      <lb/>wenige so ich <add place="margin_left">zu <rs type="place" ref="#gottorf" resp="spacy">Gottorf</rs> <lb/>gesehen <lb/>vnd </add>darvon in ged&#228;chtni&#223; behalten, vnd
+                      <lb/>wenige so ich <add place="margin_left">zu <rs type="place" ref="#gottorf" resp="spacy">Gottorf</rs> <lb/>gesehen <lb/>vnd</add> darvon in ged&#228;chtni&#223; behalten, vnd
                       <lb/>ein Jahr hernach erstlich aufgeschrieben es seind
                       <lb/>aber so viel rarit&#228;ten da selbsten zusehen, da&#223; auch
                       <lb/>ein Gro&#223;es buch davon k&#246;nte geschrieben werden
                    </p>
                    <p>
                       <lb/>Den <date when="1657-01-22">22 <choice><expan>huius</expan><abbr>hui&#42863;</abbr></choice></date> (Nach dem oben erwenheten H. <rs type="person" ref="#langellott_joel" resp="spacy">D.
-                      <lb/>Langelott</rs> mir seine sch&#246;ne <add place="above">sachen </add>auch gewiesen, <w lemma="sonderliche">sonder
+                      <lb/>Langelott</rs> mir seine sch&#246;ne <add place="above">sachen</add> auch gewiesen, <w lemma="sonderliche">sonder
                       <lb/>liche</w> seine treffliche Chymica vnter welchen er
                       <lb/>auch eine sch&#246;ne vnd <choice><expan>verissimam</expan><abbr>verissim&#257;</abbr></choice> Tincturam
                       <lb/><choice><expan>Coralllarum</expan><abbr>Coralllar&#x016B;</abbr></choice> hatte, deren <choice><expan>modum</expan><abbr>mod&#363;</abbr></choice> er mir zu <w lemma="bezeigung">bezei
@@ -903,7 +903,7 @@
                       <lb/>vnd reisete wieder nacher <rs type="place" ref="#meldorf" resp="spacy">Melldorff</rs>, woselbsten
                       <lb/>ich meine provision der apothecken continuirte bi&#223;
                       <lb/>auf den <date when="1657-08-05">5. Augusti</date>. Da ich dan wegen der <rs type="place" ref="#schweden_koenigreich"><w lemma="Schweden">Schwe:
-                      <lb/>den</w></rs> einfall <add place="above">mich </add>reiterirte Jn die <rs type="place" ref="#glueckstadt" resp="spacy"><hi rend="underline">Gluckstadt</hi></rs>, diese ist
+                      <lb/>den</w></rs> einfall <add place="above">mich</add> reiterirte Jn die <rs type="place" ref="#glueckstadt" resp="spacy"><hi rend="underline">Gluckstadt</hi></rs>, diese ist
                       <lb/>eine feine vor wenigen Jahren von <rs type="person" ref="#daenemark_christian_iv" resp="spacy">Christiano <w lemma="quarto">quar
                       <lb/>to</w> Rege Dani&#x00E6;</rs> erbawete Stadt vnd fast eine <w lemma="vnvberwindliche">vn:
                       <lb/>vberwindliche</w> Vestung mit 2 Castelen gegen die <rs type="place" ref="#elbe_river" resp="spacy">Elbe</rs>
@@ -912,7 +912,7 @@
                       <lb/>von der Schildwacht in der Gantzen stadt hervmb
                       <lb/>gezogen wird. Den <date when="1657-08-07">7 Augusti</date> sahe Jch leider !
                       <lb/>vom wall in der Nacht in dieser Stadt, wie meine
-                      <lb/>liebe Vater stadt <rs type="place" ref="#itzehoe" resp="spacy"><hi rend="underline">Jtzehoa</hi></rs> nach dem sie vom <rs type="person" ref="#schweden_karl_gustav">Carolo
+                      <lb/>liebe Vater stadt <rs type="place" ref="#itzehoe" resp="spacy"><hi rend="underline">Jtzehoa</hi></rs> nach dem sie vom <rs type="person" ref="#schweden_karl_gustav_von">Carolo
                       <lb/>Gustavo der Schweden K&#246;nig</rs> in brand <choice><corr>geschoßen</corr><sic>geschlo&#223;en</sic></choice>
                       <lb/>mit allen kirchen vnd schulen totaliter in die
                       <lb/>asche geleget ward, da man dan da&#223; Fewer
@@ -925,7 +925,7 @@
                       <lb/>sie das Saltz in Gro&#223;er quantit&#228;t in bleyern
                       <lb/>Pfannen kochen. E&#223; ist alhie eine sehr feine particular
                       <lb/>Schuele, da die bursche von vielen Ortern, hinziehen.
-                      <lb/>Auch eine einzige <add place="above">vnd </add>wollbestalte Raths apothecke
+                      <lb/>Auch eine einzige <add place="above">vnd</add> wollbestalte Raths apothecke
                       <lb/>da dan so eine sch&#246;ne Materialkammer innen
                       <pb facs="#mss_267-1-extrav_00038"/>
                       <lb/>vorhanden, da&#223; man sie auch so leicht nicht <w lemma="Ordentlicher">Ordent:
@@ -935,7 +935,7 @@
                       <lb/><rs type="place" ref="#frankfurt_main" resp="spacy">Franckfurtesche</rs> Cutsche begab, vnd mit derselben
                       <lb/>den <date when="1657-08-27">27</date> auff <rs type="place" ref="#celle" resp="spacy"><hi rend="underline">Zelle</hi></rs> zukam. Diese stadt
                       <lb/>ist eine feine festung vnd sch&#246;nes schlo&#223; darbey
-                      <lb/>vnd residiret, alhie <rs type="person" ref="#braunschweig-lueneburg_christian_ludwig">Hertzog Christian. <add place="above">Ludewig </add>Furst zu
+                      <lb/>vnd residiret, alhie <rs type="person" ref="#braunschweig-lueneburg_christian_ludwig_von">Hertzog Christian. <add place="above">Ludewig</add> Furst zu
                       <lb/>Braunschweig vnd Lunaburg</rs>. Von dannen
                       <lb/>reiseten wir den <date when="1657-08-28">28</date> durch ein st&#228;dchen <rs type="place" ref="#burgdorf"><w lemma="Brachdorff">Brach:
                       <lb/>dorff</w></rs> auff <rs type="place" ref="#hildesheim"><hi rend="underline">Hildess heimb</hi></rs>, vnd kehrte
@@ -946,18 +946,18 @@
                       <lb/>siehet man ein sch&#246;nes laboratorium. Diese
                       <lb/>stadt Jst eine feine zimlich gro&#223;e stadt, vnd ob
                       <lb/>sie gleich im <rs type="place" ref="#braunschweig" resp="spacy">Braunschwigischen lande</rs>, <w lemma="gehöret">geh&#246;:    
-                      <lb/>ret</w> sie doch vnter dem <rs type="person" ref="#bayern_maximilian_heinrich" >Churf&#252;rsten von K&#246;llen</rs>
+                      <lb/>ret</w> sie doch vnter dem <rs type="person" ref="#bayern_maximilian_heinrich_von" >Churf&#252;rsten von K&#246;llen</rs>
                       <lb/>ma&#223;en sehr viele Catholische drinnen. E&#223; hat
                       <lb/>alhie einen vberdiema&#223;en k&#246;stlichen thuemb
                       <lb/>auff de&#223;en spitze wie sie sagen ein knopff
                       <lb/>von Golde. Die <rs type="org" ref="#jesuiten" resp="spacy">Jesviter</rs> baweten damahlen
                       <lb/>gleich ein feines collegium (wie mir dan von
-                      <lb/>einem Patre der mich in Jhren garten, <add place="above">vnd </add>newn
+                      <lb/>einem Patre der mich in Jhren garten, <add place="above">vnd</add> newn
                       <lb/>erbawte kirche hervmb furhete) gar guetlich
                       <pb facs="#mss_267-1-extrav_00039"/>
                       <lb/>gethan ward, mir auch sonsten alle gelegenheit Jhres
                       <lb/>collegij zeigete. NB. da&#223; dach auff des thuembs
-                      <lb/>thurm ist <add place="above">gantz </add>von D&#252;nnem Gold:blech welches ein <rs type="person" ref="#berge_gerhard">Bischoff</rs>
+                      <lb/>thurm ist <add place="above">gantz</add> von D&#252;nnem Gold:blech welches ein <rs type="person" ref="#berge_gerhard">Bischoff</rs>
                       <lb/><rs type="place" ref="#braunschweig">selbiges Orths</rs> vor diesem hat machen la&#223;en, ma&#223;en
                       <lb/>er eine Schlacht mit einem <rs type="person"  ref="#braunschweig-wolfenbuettel_magnus_i">Marg:graffen</rs><note type="footnote" resp="mg">Irrtum Wagener: In der Schlacht von Dinklar (1367) siegte Bischof Gerhard von Hildesheim nicht über einen Markgrafen, sondern über ein Bündnis, das von Herzog Magnus I. von Braunschweig-Wolfenbüttel angeführt wurde, und stiftete zum Dank das 1945 zerstörte goldene Dach des Hildesheimer Domturms. Vgl. Zoder: Art. Dinklar, in: <ref type="gvk" cRef="721393926">Niedersachsen und Bremen, hg. von Kurt Brüning und Heinrich Schmidt, Handbuch der historischen Stätten Deutschlands, Bd. 2, 3. Aufl., Stuttgart 1969</ref>, S. 116f.</note> <w lemma="gehalten">gehal:
                       <lb/>ten</w>, vnd so viell Gold zuer Beute bekommen, da&#223;
@@ -968,7 +968,7 @@
                       <lb/>listen</w> zu <rs type="place" ref="#hamburg" resp="spacy">Hamburg</rs>, bey H. <rs type="person" ref="#kannenberg_johann_balthasar" resp="spacy">Johann Balthasar <w lemma="Kannenberg">Kan:
                       <lb/>nenberg</w></rs> vornehmen hoffapotheckern daselbst
                       <lb/>condition an. Alhie residiret Der &#228;lteste vnd
-                      <lb/>gelehrteste <rs type="person" ref="#braunschweig-lueneburg_august">F&#252;rst Augustus hertzog zu <w lemma="braunschwig">braun:
+                      <lb/>gelehrteste <rs type="person" ref="#braunschweig-lueneburg_august_von">F&#252;rst Augustus hertzog zu <w lemma="braunschwig">braun:
                       <lb/>schwig</w> vnd lunaburg</rs>. Welcher alda eine so sch&#246;ne
                       <lb/>Bibliotheca<add place="above"> hat</add>, dergleichen man nicht sch&#246;ner, vnd
                       <lb/>gr&#246;&#223;ere quantit&#228;t von Buchern in einer <w lemma="Bibliotheca">Biblio:
@@ -979,7 +979,7 @@
                       <lb/>den</w> leder gebunden waren. Vnter andren viel
                       <lb/>vnzehlbahren bucher waren gar sch&#246;en die partes
                       <lb/>athlantis majoris wie auch der Turcken <w lemma="Alcoran">Alco:
-                         <lb/>ran</w>. Man siehet auch erwehnten <rs type="person" ref="#braunschweig-lueneburg_august">alten H. vnd
+                         <lb/>ran</w>. Man siehet auch erwehnten <rs type="person" ref="#braunschweig-lueneburg_august_von">alten H. vnd
                       <lb/>Fursten</rs> 2 mahl abgeri&#223;en auf einem Pferde sitzend
                       <pb facs="#mss_267-1-extrav_00040"/>
                       <lb/>welches nicht mit strichen, sondern mit lauter <w lemma="spruechen">sprue:
@@ -996,9 +996,9 @@
                       <lb/>von Eysen. das kleineste hat gekost 1836 Rth.
                       <lb/>E&#223; Jst auch eine feine von Gehawen steine <w lemma="erbawete">er
                       <lb/>bawete</w> kirche welcher der Gottselige F&#252;rst
-                      <lb/><rs type="person" ref="#braunschweig-wolfenbuettel_heinrich_julius" resp="spacy">hertzog Heinrich Julius</rs> (welcher die <rs type="org" ref="#helmstedt_universitaet"><w lemma="universität">univer:
+                      <lb/><rs type="person" ref="#braunschweig-wolfenbuettel_heinrich_julius_von" resp="spacy">hertzog Heinrich Julius</rs> (welcher die <rs type="org" ref="#helmstedt_universitaet"><w lemma="universität">univer:
                       <lb/>sit&#228;t</w></rs> zue <rs type="place" ref="#helmstedt" resp="spacy">Helmstadt</rs>, vnd die weit <w lemma="beruehmbte">beruehm
-                      <lb/>bte</w> Sch&#246;ne kirche zue <rs type="place" ref="#groningen" resp="spacy">Gr&#246;ningen</rs> <add place="above">wie </add>auch <add place="above">diese </add>hat
+                      <lb/>bte</w> Sch&#246;ne kirche zue <rs type="place" ref="#groningen" resp="spacy">Gr&#246;ningen</rs> <add place="above">wie</add> auch <add place="above">diese</add> hat
                       <lb/><add place="margin_left">er</add>bawen la&#223;en.
                    </p>
                    <p>
@@ -1006,7 +1006,7 @@
                       <lb/>ein wenig aufgeh&#246;ret spatzirete ich von                      
                       <lb/><note type="contemporary" place="margin_left"><rs type="place" ref="#braunschweig"><w lemma="Braunschwig"><hi rend="underline">Braun<lb/>schwig</hi></w></rs></note><rs type="place" ref="#wolfenbuettel" resp="spacy">Wolffenbuttel</rs> hinvber nacher <rs type="place" ref="#braunschweig"><hi rend="underline">Braunschwig</hi></rs>
                       <lb/>selbige Stadt zu besehen, vnd kehret ein
-                      <lb/>bey Monsieur <rs type="person" ref="#beckmann_hans" resp="spacy">Han&#223; Beckman</rs> <add place="above">Major v. </add>Commendanten
+                      <lb/>bey Monsieur <rs type="person" ref="#beckmann_hans" resp="spacy">Han&#223; Beckman</rs> <add place="above">Major v.</add> Commendanten
                       <lb/>der stadt daselbst. Darnach besuchte ich den
                       <lb/>Raths apotheckern H. <rs type="person" ref="#papke_joachim" resp="spacy">Joachim Papke</rs>, da ich dan die
                       <lb/>apothecker gesellen al&#223; H. <rs type="person" ref="#gebhard_reinhold" resp="spacy">Reinhold Gerbard</rs> meinen
@@ -1031,7 +1031,7 @@
                       <lb/>da dan al&#223;bald voran das Gro&#223;e Schlagschwert
                       <lb/>des alten Majors Mons. <rs type="person" ref="#fillier_thomas">Fillern</rs>. so annoch
                       <lb/>lebete auch wegen seines hohen alters resigniret hatte.
-                      <lb/>Auf diesem Schlagschwerd stand <add place="above">folgendes </add>eingeetzet. Mit
+                      <lb/>Auf diesem Schlagschwerd stand <add place="above">folgendes</add> eingeetzet. Mit
                       <lb/>diesem Schlagschwerd hat 1615 der Capitain
                       <lb/><rs type="person" ref="#fillier_thomas">Filler</rs> manchem braven kerln nieder gemacht.
                       <lb/>Vnd kunte man die blut:flecken noch allerkennen
@@ -1043,7 +1043,7 @@
                       <lb/>des burgermeisters <rs type="person" ref="#hildebrand_conrad">Hildebrands</rs> fahne vnd gar langes
                       <lb/>rohr auch zeigete man vns ein Rohr von me&#223;ing
                       <lb/>gemacht, mit 2 L&#228;ffen 2 mahl darau&#223; zu
-                      <lb/>schie&#223;en, vnd hatte die stadt erstlich noch <add place="above">einen </add>guetheil
+                      <lb/>schie&#223;en, vnd hatte die stadt erstlich noch <add place="above">einen</add> guetheil
                       <lb/>newer Musqueten bringen la&#223;en, die forn
                       <lb/>aufm lauf ein klein keulchen, darinnen man
                       <lb/><add>ein <w lemma="wenig">wen<lb/>ig</w></add> pulver thuen k&#246;nte, welches man Abbrente ehe
@@ -1055,7 +1055,7 @@
                       <lb/>der Gegentheil betrogen. E&#223; hatte ein <w lemma="Ehrbahr">Ehr:
                       <lb/>bahr</w> <rs type="org" ref="#braunschweig_rat">Rath selbiger Stadt</rs> die anordrung <w lemma="gemachet">gema:
                       <lb/>chet</w>, da&#223; wan ein Burger ohne M&#228;nliche
-                      <lb/>erben abstirbet sein <add place="above">bestes </add>Rohr vnd Degen ins <w lemma="zeuchhauß">zeuch:
+                      <lb/>erben abstirbet sein <add place="above">bestes</add> Rohr vnd Degen ins <w lemma="zeuchhauß">zeuch:
                       <lb/>hau&#223;</w> geben mueste. Da dan etliche tische voll
                       <lb/>mit R&#246;hren lagen, derer b&#252;rger so in der pest
                       <lb/>gestorben waren, auch etliche 100 von vieln <w lemma="Jahren">Jah:
@@ -1064,7 +1064,7 @@
                       <lb/>so woll mit munition vnd Gewehr versehen,
                       <lb/>da&#223; nichtes druber. Jm andern beiden gar
                       <lb/>gro&#223;en logamentern zeigete man vns eine <w lemma="zimliche">zim:
-                      <lb/>liche</w> quantit&#228;t von <add place="above">gro&#223;en </add>geschutze haken fewerkuegel
+                      <lb/>liche</w> quantit&#228;t von <add place="above">gro&#223;en</add> geschutze haken fewerkuegel
                       <lb/>vnd Pedarden Jn Summa von allen wa&#223; zu
                       <lb/>krieges au&#223;rustung von n&#246;then. Nach diesem
                       <lb/>giengen wir auff den Wall hervmb <w lemma="spatzieren">spatzie
@@ -1096,7 +1096,7 @@
                       <lb/>buttel</w></rs> gangen.
                    </p>
                    <p>
-                      <lb/><date when="1658-06-22">A<hi rend="superscript">o</hi> 1658 den 22 Juny</date> habe ich <add place="above">Jm Nahmen Gottes </add>einen Anfang meiner
+                      <lb/><date when="1658-06-22">A<hi rend="superscript">o</hi> 1658 den 22 Juny</date> habe ich <add place="above">Jm Nahmen Gottes</add> einen Anfang meiner
                       <lb/>Reise durch <rs type="place" ref="#deutschland">teutschland</rs> nacher <rs type="place" ref="#frankreich_koenigreich" resp="spacy">Franckreich</rs> <w lemma="gemacht">ge:
                       <lb/>macht</w>, den ich dan erwehnten tag von <rs type="place" ref="#wolfenbuettel" resp="spacy">Wolffenbuttel</rs>
                       <lb/>abgereiset, nacher <rs type="place" ref="#goslar" resp="spacy"><hi rend="underline">Gosslar</hi></rs> eine alte <w lemma="keyserliche">keyser
@@ -1108,7 +1108,7 @@
                       <lb/><add place="bottom">NB. hat den nahmen quasi Goselar weil die hauser alle mit
                       <lb/>grawem schiefer gedecket.</add>
                       <pb facs="#mss_267-1-extrav_00046"/>
-                      <lb/>Den <date when="1658-06-23">23 <choice><expan>huius</expan><abbr>hui&#42863;</abbr></choice></date> Bin Jch von <add place="above">dannen auff </add><rs type="place" ref="#clausthal" resp="spacy"><hi rend="underline">Clau&#223;dahl</hi></rs> eine <w lemma="Bergstadt">Berg:
+                      <lb/>Den <date when="1658-06-23">23 <choice><expan>huius</expan><abbr>hui&#42863;</abbr></choice></date> Bin Jch von <add place="above">dannen auff</add> <rs type="place" ref="#clausthal" resp="spacy"><hi rend="underline">Clau&#223;dahl</hi></rs> eine <w lemma="Bergstadt">Berg:
                       <lb/>stadt</w> auff den <rs type="place" ref="#harz" resp="spacy">Hartz</rs> gereiset, die nacht bey dem
                       <lb/>H. <rs type="person" ref="#kranich_joachim">apothecker</rs> <del>selbiges ortes</del>, welcher auch Richter <w lemma="deßelben">deßel:
                       <lb/>ben</w> Orths war, geblieben, den <date when="1658-06-24">24 dito</date> von dannen
@@ -1122,7 +1122,7 @@
                       <lb/>aber von den kriegeswesen sehr ruiniret, vnd Jst eine
                       <lb/>Raths apothecke nur drinnen. Den <date when="1658-06-27">27.</date> bin Jch auf
                       <lb/><rs type="place" ref="#muenden" resp="spacy"><hi rend="underline">Munden</hi></rs> geritten ein gar feines St&#228;dtchen vnd ein
-                      <lb/>Schlo&#223; darbey diese stadt Jst gleicher gestaldt <add place="above">wie <lb/><rs type="place" ref="#magdeburg" resp="spacy">Magdeburg</rs> </add>von
+                      <lb/>Schlo&#223; darbey diese stadt Jst gleicher gestaldt <add place="above">wie <lb/><rs type="place" ref="#magdeburg" resp="spacy">Magdeburg</rs></add> von
                       <lb/>den Ka&#255;serlichen eingenommen, vnd alles darinnen
                       <lb/>nieder gehawen wie zu <rs type="place" ref="#magdeburg" resp="spacy">Magdeburg</rs>, da sich den <w lemma="endlich">end:
                       <lb/>lich</w> die Burger aufs schlo&#223; reiteriret, selbiges aber haben
@@ -1167,17 +1167,17 @@
                       <lb/>hal&#223; fast rauch machet, vnd befinden sich <w lemma="dieJenigen">dieJeni
                       <lb/>gen</w> so hitzige leber woll darbey. Den <date when="1658-06-29">29. dito</date> <w lemma="reisete">rei:
                       <lb/>sete</w> ich weiter durch 2 kleine st&#228;dte al&#223; <rs type="place" ref="#minde"><hi rend="underline">Minde</hi></rs>
-                      <lb/>vnd da&#223; ander <rs type="place" ref="#gemuenden_wohra" resp="spacy"><hi rend="underline">M&#252;nde</hi></rs> auff der <rs type="place" ref="#wohra_river" resp="spacy">Worth</rs> bi&#223;
-                      <lb/>auff <rs type="place" ref="#marburg" resp="spacy"><hi rend="underline">Marpurg</hi></rs>. Diese stadt lieget gar lustig
+                      <lb/>vnd da&#223; ander <rs type="place" ref="#muende" resp="spacy"><hi rend="underline">M&#252;nde</hi></rs> <!--Beide Orte, Minde und Münde müssten Ortsteile von Gemünden an der Wohra sein, beide gleich kodieren?--> auff der <rs type="place" ref="wohra_river" resp="spacy">Worth</rs> bi&#223;
+                      <lb/>auff <rs type="place" ref="marburg" resp="spacy"><hi rend="underline">Marpurg</hi></rs>. Diese stadt lieget gar lustig
                       <lb/>am berge vnd da&#223; Schlo&#223; so ziemblich fest auf
-                      <lb/>dem berg, <add place="above">vnten </add>Jn der Stadt ist eine gar sch&#246;ne kirche
+                      <lb/>dem berg, <add place="above">vnten</add> Jn der Stadt ist eine gar sch&#246;ne kirche
                       <lb/>welche eine <rs type="person" ref="#thueringen_elisabeth">K&#246;niginne au&#223; Vngarn Elisabeth</rs>
                       <lb/>hat bawen la&#223;en. Welche auch alhie beygesetzet
                       <lb/>derer Sarck von Gold: Silber vnd <w lemma="Edelgesteinen">Edelgestei:
                       <lb/>nen</w> sehr woll au&#223;stafiret, auf der kirchen seind
                       <lb/>2 Runde spitze thurmer von lauter gehawen
-                      <lb/>steinen bi&#223; in die spitze gesetzet. Gedachte <rs type="person" ref="#thueringen_elisabeth"><w lemma="koniginne">ko:
-                      <lb/>niginne</w></rs> hat den armen so guet gethan, sie selbsten
+                      <lb/>steinen bi&#223; in die spitze gesetzet. Gedachte <!--hier nochmal die Person kodieren?--><w lemma="koniginne">ko:
+                      <lb/>niginne</w> hat den armen so guet gethan, sie selbsten
                       <lb/>gespeiset vnd gewaschen wie den auch mitten in
                       <lb/>der kirchen annoch ein stein lieget, wenn man die
                       <lb/>hand drauf leget wird nicht allein die hand <w lemma="sondern">son:
@@ -1221,14 +1221,14 @@
                       <lb/>wegen</w> keiner ein gela&#223;en ward, vnd blieb Jch <choice><corr>in</corr><sic>in
                       <pb facs="#mss_267-1-extrav_00050"/>
                       <lb/>in</sic></choice> ein Dorff <rs type="place" ref="#bornheim"><hi rend="underline">Bornheimb</hi></rs> bi&#223; in den 4ten tag
-                      <lb/>den <date when="1658-07-01">3. dito</date> besuchte mich Mons. <rs type="person" ref="#langeguet_heinrich">Langeguet</rs>, vnd namb die
+                      <lb/>den <date when="1658-07-01">3. dito</date> besuchte mich Mons. <rs type="person" ref="#langeguet_heinrich" >Langeguet</rs> <!--evtl. Heinrich Langenbeck? > https://de.wikipedia.org/wiki/Heinrich_Langenbeck_(Politiker,_1603)-->, vnd namb die
                       <lb/>abrede mit mir, da&#223; Jch mich des andern tages al&#223;
                       <lb/>den <date when="1658-07-04">4.</date> solte vber den <rs type="place" ref="#main_river" resp="spacy">Mayn</rs> vbersetzen la&#223;en, welcher
                       <lb/>anschlag so gl&#252;cklich anging Weiln am erwehnten
                       <lb/>tage H. <rs type="person" ref="#jacobi_christoph" resp="spacy">Christophorus Jacobi</rs>, Mons. <rs type="person" resp="spacy" ref="#dauts_anon_1">Dauts</rs>, vnd H.
                       <lb/><rs type="person" ref="#langeguet_heinrich">Heinricus Lange:guet</rs> mir an den <rs type="place" ref="#main_river" resp="spacy">Mayn</rs> <w lemma="entgegen">entge:
                       <lb/>gen</w> kamen, vnd zwischen sich ein in das <w lemma="Saxenhausische">Saxen:
-                      <lb/><note type="contemporary" place="margin_left">derselbigem <lb/><w lemma="capitulaioni">capitu<lb/>lationi</w></note>hausiche</w> thor practicirten. <add place="above">NB. </add>Den <date when="1658-07-07">7 dito</date> M&#252;sten
+                      <lb/><note type="contemporary" place="margin_left">derselbigem <lb/><w lemma="capitulaioni">capitu<lb/>lationi</w></note>hausiche</w> thor practicirten. <add place="above">NB.</add> Den <date when="1658-07-07">7 dito</date> M&#252;sten
                       <lb/>alle k&#246;nig: vnd F&#252;rstlichen Gesandten auch sonsten
                       <lb/>hohes vnd niedriges standes Persohnen, die nicht
                       <lb/>in den churf&#252;rstlichen Suite geh&#246;ren, die stadt
@@ -1244,7 +1244,7 @@
                       <lb/>Glocken geleutet, da dan der <rs type="person" ref="#habsburg_leopold">&#220;ngarische k&#246;nig</rs>
                       <lb/>nebenst den <rs type="person" ref="#schoenborn_johann_philipp #leyen_karl_kaspar #bayern_maximilian_heinrich #sachsen_johann_georg_ii #pfalz_karl_i_ludwig">Churf&#252;rsten</rs> vnd den beiden H. <rs type="person" ref="#nassau-siegen_johann_moritz #fuerstenberg-heiligenberg_franz_egon"><w lemma="abgesandten">abge:
                       <lb/>sandten</w></rs> zuem R&#246;mer f&#252;ehren, vnd Jhre <w lemma="churfurstliche">churfurst
-                         <lb/>liche</w> habit <add place="above">vnd rocke </add>anthaten. Da dan der <rs type="person" ref="#sachsen_johann_georg_ii #pfalz_karl_i_ludwig">Weltlichen
+                         <lb/>liche</w> habit <add place="above">vnd rocke</add> anthaten. Da dan der <rs type="person" ref="#sachsen_johann_georg_ii #pfalz_karl_i_ludwig">Weltlichen
                        <lb/>Churf&#252;rsten</rs>, wie auch des <rs type="person" ref="#habsburg_leopold">K&#246;niges</rs> rock von braun
                       <lb/>rothen Sammiet, der <rs type="person" ref="#schoenborn_johann_philipp #leyen_karl_kaspar #bayern_maximilian_heinrich">Geistlichen</rs> aber von
                       <pb facs="#mss_267-1-extrav_00051"/>
@@ -1267,7 +1267,7 @@
                       <lb/>alle der <rs type="person" ref="#schoenborn_johann_philipp #leyen_karl_kaspar #bayern_maximilian_heinrich #sachsen_johann_georg_ii #pfalz_karl_i_ludwig">churfursten</rs> Paucker und trompeter folgeten,
                       <lb/>Darauff die Cammer H. mit Guldenem schlue&#223;eln
                       <lb/>vnd staben, darauf etliche F&#252;rsten. Negst <w lemma="diesen">die
-                      <lb/>sen</w> <add place="above">ritten </add>2 herren mit guldenen Schwerten. Darauf
+                      <lb/>sen</w> <add place="above">ritten</add> 2 herren mit guldenen Schwerten. Darauf
                       <lb/>der <rs type="person" ref="#leyen_karl_kaspar" resp="spacy">Churfurst von Trier</rs> vnd <rs type="person" ref="#schoenborn_johann_philipp">Mayntz</rs>, diesen
                       <lb/>folgete vnd ritt der <rs type="person" ref="#habsburg_leopold">K&#246;nig von Vngarn</rs>, hernacher der 
                       <lb/><rs type="person" ref="#sachsen_johann_georg_ii" resp="spacy">Churfurst von Sachsen</rs>, <rs type="person" ref="#bayern_maximilian_heinrich" >K&#246;llen</rs> vnd <rs type="person" ref="#pfalz_karl_i_ludwig">Heydelberg</rs>, darauf
@@ -1295,10 +1295,10 @@
                       <lb/>erschall, da&#223; man nicht dafur h&#246;ren konte,
                       <lb/>welches etliche stunden continuirte. Jm <choice><corr>herauß</corr><sic>heau&#223;</sic></choice>
                       <lb/>reitten da die Wahl bey 3 stunden gewehret,
-                      <lb/>War die procession <add place="above">&#252;nter den <rs type="person" resp="spacy" ref="#schoenborn_johann_philipp #leyen_karl_kaspar #bayern_maximilian_heinrich #sachsen_johann_georg_ii #pfalz_karl_i_ludwig">Chf.</rs> </add>gantz ander&#223;. Voran gieng
+                      <lb/>War die procession <add place="above">&#252;nter den <rs type="person" resp="spacy" ref="#schoenborn_johann_philipp #leyen_karl_kaspar #bayern_maximilian_heinrich #sachsen_johann_georg_ii #pfalz_karl_i_ludwig">Chf.</rs></add> gantz ander&#223;. Voran gieng
                       <lb/>pagien, nobiles vnd Graffen wie zuvor.
                       <lb/>Negst den Trompetern Folgeten 5 Geistliche
-                      <lb/>mit chorr&#246;cke angethan, <add place="above">da </add>da&#223; kayserliche wapen
+                      <lb/>mit chorr&#246;cke angethan, <add place="above">da</add> da&#223; kayserliche wapen
                       <lb/>auffgesticket war vnd hatten wachslichtr in
                       <lb/>den h&#228;nden, vnd die H. so in voriger procesion
                       <lb/>zu Pferde vor die H. <rs type="person" ref="#schoenborn_johann_philipp #leyen_karl_kaspar #bayern_maximilian_heinrich #sachsen_johann_georg_ii #pfalz_karl_i_ludwig">Churf&#252;rsten</rs> mit Guldenen
@@ -1308,7 +1308,7 @@
                       <lb/>die Schwerter nach der Erden zu gekehrt. Denen Folgeten
                       <lb/>zu Pferde die beyden H. abgesandten al&#223; der <rs type="place" ref="#bayern_kurfuerstentum" resp="spacy">Bayersche</rs> <add place="margin_left"><rs type="person" ref="#fuerstenberg-heiligenberg_franz_egon">Graff <lb/>von <lb/><w lemma="Fürstenberg">Fürsten<lb/>berg</w></rs></add> und
                       <lb/>der <rs type="place" ref="#brandenburg_kurfuerstentum">Brandenburgische</rs> <rs type="person" ref="#nassau-siegen_johann_moritz">Printz Moritz</rs>, darauff folgete
-                      <lb/>der <rs type="person" ref="#leyen_karl_kaspar">Churfurst uon Trier</rs>, diesen der <rs type="person" ref="#pfalz_karl_i_ludwig">Churfurst von Heidelberg</rs>
+                      <lb/>der <rs type="person" ref="#leyen_karl_kaspar">Churfurst uon Trier</rs>, diesen der <rs type="person" ref="#pfalz_i_karl_ludwig">Churfurst von Heidelberg</rs>
                       <lb/>der eine Guldene, Krone auff der hand fuehrte, vnd
                       <lb/>hernacher der <rs type="person" ref="#sachsen_johann_georg_ii">Churfurst uon Sachsen</rs> der das kayserlich
                       <lb/>Gulden Schwert fuehrte, darauff 2. Fursten, deren
@@ -1330,10 +1330,10 @@
                       <lb/><rs type="person" ref="#kaiser_karl_i" resp="spacy">Carolus Magnus</rs> der Erste Deutsche kayser etwan vor
                       <lb/>800 vnd etliche 70 Jahren gekr&#246;hnet vnd angethan wurde
                       <lb/><add place="inline">Den <date when="1658-07-19">19. <choice><expan>huius</expan><abbr>hui&#42863;</abbr></choice></date> Gieng ich mit 2. Doctoribus von <rs type="place" ref="#speyer">speyer</rs> solches <del>zu sehen</del> in Jhren logis</add>
-                      <lb/><add place="margin_left">zu sehen, da dann </add>Die krone war 8 eckich, vnd war schlecht gemacht,
+                      <lb/><add place="margin_left">zu sehen, da dann</add> Die krone war 8 eckich, vnd war schlecht gemacht,
                       <lb/>zwar mit Edelgesteinen, aber keinen diamanten <choice><expan>versetzet</expan><abbr>&#xA75F;setzet</abbr></choice>.
                       <pb facs="#mss_267-1-extrav_00054"/>
-                      <lb/>Voran <add place="above">da </add>oben das Creutz mit der Welt abbildung war
+                      <lb/>Voran <add place="above">da</add> oben das Creutz mit der Welt abbildung war
                       <lb/>waren sch&#246;ne runde Perlen, vnd war auff der eine
                       <lb/>Seite Gottes effigies gestochen, welches 2 Cherubin <w lemma="vberdeckten">vber
                       <lb/>deckten</w>, vnd war diese uberschrifft droben. <cit><quote>Per me
@@ -1378,7 +1378,7 @@
                       <lb/>der adel, Graffen vnd Cammer H. voran giengen
                       <lb/>Folgeten zu Pferde die beiden H. Chfl. <rs type="person" ref="#bayern_ferdinand_maria #brandenburg_friedrich_wilhelm">abgesandten</rs>
                       <lb/>darnach der <rs type="person" ref="#leyen_karl_kaspar">Churf&#252;rst von Trier</rs>, diesem der
-                      <lb/><rs type="person" ref="#pfalz_karl_i_ludwig">Churf&#252;rst von Heidelberg</rs> mit der krone, vnd <w lemma="darauf">dar:
+                      <lb/><rs type="person" ref="#pfalz_i_karl_ludwig">Churf&#252;rst von Heidelberg</rs> mit der krone, vnd <w lemma="darauf">dar:
                       <lb/>auf</w> die beiden H. deren einer der <rs type="person" ref="#lobkowitz_anon_1">H. von locho:
                       <lb/>witz</rs> war, dieser mit dem Reichsapfel vnd jener mit Schwert
                       <lb/>scepter, darauf der <rs type="person" ref="#sachsen_johann_georg_ii">Churf&#252;rst von Sachsen</rs> mit
@@ -1391,7 +1391,7 @@
                       <lb/>hartschirer vnd trabanten. Hinter dem <rs type="person" ref="#habsburg_leopold">Kayser</rs>
                       <pb facs="#mss_267-1-extrav_00056"/>
                       <lb/>folgete alsbald die Compagnie zu Pferde in derer ersten
-                      <lb/>reihe ich vor <rs type="person" ref="#sehliger_georg_adrian">H. Sehl.</rs> mit ritt, vnd darnach <add place="above">die </add>2 andere
+                      <lb/>reihe ich vor <rs type="person" ref="#sehliger_georg_adrian">H. Sehl.</rs> mit ritt, vnd darnach <add place="above">die</add> 2 andere
                       <lb/>Vom R&#246;mer an war eine bruckke gemacht bi&#223; an
                       <lb/>den thuemb, da die procession auf geschahe. Nach
                       <lb/>dem Der new Erwehlte <rs type="person" ref="#habsburg_leopold">Kayser</rs> in den thuemb ward
@@ -1425,7 +1425,7 @@
                       <lb/>Jhm alle <rs type="person" ref="#schoenborn_johann_philipp #leyen_karl_kaspar #bayern_maximilian_heinrich #sachsen_johann_georg_ii #pfalz_karl_i_ludwig">Churfursten</rs>, da&#223; sie von allen leuten kunte gesehen
                       <lb/>werden. Vnd kam der <rs type="person" ref="#sachsen_johann_georg_ii">Churf&#252;rst von Sachsen</rs> in vollen
                       <lb/>galop auf sein sch&#246;nes Pferd au&#223;m romer gesetzt vnd ritt
-                      <lb/>mitten einen silbern Scheffel in d<subst><del>ie</del><add place="inline">er</add></subst><note type="annotation" resp="mg">Wahrscheinlich "ie" zu "er" verbessert durch Überschreiben.</note> <add place="above"><unclear>einen</unclear> </add>hand fuehrend
+                      <lb/>mitten einen silbern Scheffel in d<subst><del>ie</del><add place="inline">er</add></subst><note type="annotation" resp="mg">Wahrscheinlich "ie" zu "er" verbessert durch Überschreiben.</note> <add place="above"><unclear>einen</unclear></add> hand fuehrend
                       <lb/>vnd setzte mitten in den haberberg aufm platz vorm <w lemma="Römer">R&#246;:
                       <lb/>mer</w> hinein, vnd ma&#223; den scheffel voll habern, vnd
                       <lb/>strich auch solchen mit einen Salben streichholtz
@@ -1439,13 +1439,13 @@
                       <lb/>serliche</w> taffel schnitte, sich wieder zu Pferde setzte, vnd
                       <lb/>solches <del>in die hohe</del> aufm Pferde in die H&#246;he haltend
                       <lb/>hin auf den r&#246;mer gebracht Nach diesem kam der
-                      <lb/><rs type="person" ref="#pfalz_karl_i_ludwig">Churf&#252;rst von Heidelberg</rs> <add place="above">hervnter </add>geritten vnd warf etwa&#223;
+                      <lb/><rs type="person" ref="#pfalz_karl_i_ludwig">Churf&#252;rst von Heidelberg</rs> <add place="above">hervnter</add> geritten vnd warf etwa&#223;
                       <lb/>Guldene vnd Siberne Muntz au&#223;, darnach warf
                       <lb/>der <rs type="person" ref="#lobkowitz_anon_1">H. von Lochowitz</rs> eine ziemliche quantit&#228;t silbern
                       <lb/>Muntzen au&#223;, darvon ich nur 2 kleine Empfing
                       <lb/>darauf <del>geschr</del> gepreget <rs type="person" ref="#habsburg_leopold">Leopoldus 1.</rs> <choice><expan>Coronatus</expan><abbr>Coronat&#42863;</abbr></choice> in
                       <lb/>Regem Romanorum die 1. Augusti A<hi rend="superscript">o</hi> 1658.
-                      <lb/>NB. <rs type="person" ref="#nassau-siegen_johann_moritz">Printz Moritz</rs> hatte einen sehr gro&#223;en <add place="above">menschen wie </add>ein Riesen bey sich, welcher
+                      <lb/>NB. <rs type="person" ref="#nassau-siegen_johann_moritz">Printz Moritz</rs> hatte einen sehr gro&#223;en <add place="above">menschen wie</add> ein Riesen bey sich, welcher
                       <lb/>ein Schlagwert an <choice><expan>der</expan><abbr>&#x221;</abbr></choice> seite fuhrete, die er kunte vbr alleCaro&#223;en
                       <lb/>vnd Menschen vber hin sehen.
                       <pb facs="#mss_267-1-extrav_00058"/>
@@ -1476,7 +1476,7 @@
                       <lb/>al&#223; er kunte.
                    </p>
                    <p>
-                      <lb/>Den <date when="1658-07-06">6. <add place="above">July </add>dieses</date> sahe Jch die guldene Bulla, vnd <choice><expan>sessionem</expan><abbr>session&#275;</abbr></choice>
+                      <lb/>Den <date when="1658-07-06">6. <add place="above">July</add> dieses</date> sahe Jch die guldene Bulla, vnd <choice><expan>sessionem</expan><abbr>session&#275;</abbr></choice>
                       <lb/>capitulationis da dann 8 gro&#223;e stuele aller mit
                       <pb facs="#mss_267-1-extrav_00059"/>
                       <lb/>Schwartzen sammit vberzogen bey einer langen
@@ -1590,15 +1590,15 @@
                       <lb/>graffen</w> von Baden</rs> zugeh&#246;rig, bi&#223; auff <rs type="place" ref="#stollhofen" resp="spacy"><hi rend="underline">Stollhofen</hi></rs>
                       <lb/>eine kleine h&#252;bsche Stadt auch denen von <rs type="place" ref="#baden_markgrafschaft" resp="spacy">Baden</rs> <w lemma="zugehorig">zuge:
                       <lb/>horig</w>. Alhier sahen wir den Hahnentantz zu;
-                      <lb/>welcher so langsahm, vnd <add place="above">mit </add>fast zugesperten augen (ma&#223;en sie
+                      <lb/>welcher so langsahm, vnd <add place="above">mit</add> fast zugesperten augen (ma&#223;en sie
                       <lb/>keinen menschen ansehen mue&#223;en) da&#223; man kaum
                       <lb/>siehet ob sie fortkommen <choice><abbr>o&#x221;</abbr><expan>oder</expan></choice> nicht NB. Den <date when="1658-08-04">4. dieses</date>
                       <lb/>reiseten wir durch <rs type="place" ref="#haguenau" resp="spacy"><hi rend="underline">Hagenstege</hi></rs> auff <del>Stra&#223;</del>
                       <lb/><rs type="place" ref="#strassburg" resp="spacy"><hi rend="underline">Strassburg</hi></rs> vnd kehrten zuem <w lemma="Bruderhoff">Bruder
-                         <lb/>hoff</w> ein. <add place="above"><rs type="person" ref="#camehl_peter">Peter Camehl</rs> schaffnern </add>NB.  Den <date when="1658-08-04">4.</date> durch <rs type="place" ref="#haguenau">hagenstege</rs> auff
+                         <lb/>hoff</w> ein. <add place="above"><rs type="person" ref="#camehl_peter">Peter Camehl</rs> schaffnern</add> NB.  Den <date when="1658-08-04">4.</date> durch <rs type="place" ref="#haguenau">hagenstege</rs> auff
                       <lb/>ein Dorff <rs type="place" ref="#kehl">Keul</rs> von Dannen vber der <w lemma="Rheinbrucken">Rheinbru:
                       <lb/>cken</w> welche fast 1/4 Meil lang auf <rs type="place" ref="#strassburg" resp="spacy">Stra&#223;burg</rs> von
-                      <lb/>dieser Br&#252;ckken ist <rs type="person" ref="#braunschweig-lueneburg_august">hertzog Augusti Furst zu Br.
+                      <lb/>dieser Br&#252;ckken ist <rs type="person" ref="#braunschweig-lueneburg_august_von">hertzog Augusti Furst zu Br.
                       <lb/>vnd Lb.</rs> H. <rs type="person" ref="#braunschweig-dannenberg_franz" resp="spacy">Bruder</rs> mit Pferde her vnter gesturtzet vnd
                       <lb/>ertruncken.<note type="footnote" resp="mg">Vgl. das Tagebuch Herzog Augusts d. J., <ref target="http://selbstzeugnisse.hab.de/edition/diarium/1601#E1601-12-24">Eintrag vom 24. Dezember 1601</ref>.</note> . <rs type="place" ref="#strassburg" resp="spacy">Stra&#223;burg</rs> eine sch&#246;ne vnd alte
                       <lb/>Reichsstadt vnd weit berufffen nicht allein wegen
@@ -1629,7 +1629,7 @@
                       <lb/>2 gro&#223;e stunden weit schie&#223;et. Auch stand daselbsten
                       <lb/>ein gro&#223;er FewerM&#246;rsell so 300 &#8468; schie&#223;en
                       <lb/>kan. Au&#223; diesem wurden wir vber den platz
-                      <lb/>da den der abri&#223; <add place="above">nur </add>des kleinesten <rs type="place" ref="#wolfenbuettel">Wolffenbuttels</rs>
+                      <lb/>da den der abri&#223; <add place="above">nur</add> des kleinesten <rs type="place" ref="#wolfenbuettel">Wolffenbuttels</rs>
                       <lb/>gar gro&#223;en geschutz zu sehen, welches 36 schueh
                       <lb/>lang vnd 170 Centner wiegt, wie ich solches oben
                       <lb/>da ichs am selbigen Orth gesehen beschrieben habe.
@@ -1692,7 +1692,7 @@
                       <lb/>von dem Berg <rs type="place" ref="#vesuv">Vesuvio</rs>. Wie auch ein <w lemma="Paradießvogel">Paradie&#223;
                       <lb/>vogel</w> vnd sehr gro&#223;en Strau&#223;. Auch Lampen
                       <lb/>vnd krugken so die heiden ihren G&#246;tzen zu
-                      <lb/>opffern <add place="above">gebraucht wie </add>auch einen Jndianischen vnd Chinesischen
+                      <lb/>opffern <add place="above">gebraucht wie</add> auch einen Jndianischen vnd Chinesischen
                       <lb/>hau&#223;:Gott. Wie auch eine kirschkern drinnen
                       <lb/>ein gantz dutz l&#246;ffel.
                       <pb facs="#mss_267-1-extrav_00066"/>
@@ -1728,7 +1728,7 @@
                       <lb/>vor</w> invitiret worden.) seind sie in das collegium
                       <lb/>doctorale gangen, vnd der promotion der zweyen
                       <lb/>Doctoren al&#223; H. <rs type="person" ref="#haseloff_georg_samuel">Georg Samuel Hasenloff</rs> vnd
-                      <lb/>H. <rs type="person" ref="#budaeus_johann" resp="spacy">Johannis Bud&#230;i</rs> zu zusehen, deren promotor <rs type="person" ref="#sachs_johann_melchior" resp="spacy">D.
+                      <lb/>H. <rs type="person" ref="#budaei_johann" resp="spacy">Johannis Bud&#230;i</rs> <!--bisher nicht identifiziert, vielleicht ein Vorfahre von Jan Michal Budar - https://de.wikipedia.org/wiki/Jan_Micha%C5%82_Budar?-->zu zusehen, deren promotor <rs type="person" ref="#sachs_johann_melchior" resp="spacy">D.
                       <lb/>Johann Melchior Sachs</rs> war, welcher nachdem er
                       <lb/>eine lange Oration gehalten einem Jeden erstlich
                       <lb/>2 bucher offerirte, nach diesem ein von rothen <w lemma="Sammites">Sam:
@@ -1753,7 +1753,7 @@
                       <lb/>ma&#223;en die <rs type="place" ref="#schweden_koenigreich" resp="spacy">Schweden</rs> 14 Jahr sich drinnen <w lemma="auffgehalten">auffge:
                       <lb/>halten</w>, den <date when="1658-08-28">28</date> von dannen auff <rs type="place" ref="#marckolsheim" resp="spacy"><hi rend="underline">Margels</hi></rs> ein <w lemma="außgebrandtes">au&#223;
                       <lb/>gebrandtes</w> st&#228;dtchen, vnd selbigen tag noch bi&#223; auff
-                      <lb/><rs type="place" ref="#breisach" resp="spacy"><hi rend="underline">Brijsach</hi></rs> eine sehr m&#228;chtige festung vnd dem <rs type="person" ref="#frankreich_ludwig_xiv" resp="spacy">K&#246;nig
+                      <lb/><rs type="place" ref="#breisach" resp="spacy"><hi rend="undeline">Brijsach</hi></rs> eine sehr m&#228;chtige festung vnd dem <rs type="person" ref="#frankreich_ludwig_xiv" resp="spacy">K&#246;nig
                       <lb/>von Franckreich</rs> zugeh&#246;rig, alhie seind wir eingekehret
                       <lb/>im Salm. Auff dieser Seite der stadt Flie&#223;et der
                       <lb/><rs type="place" ref="#rhein_river" resp="spacy">Rein</rs> gar starck, vber welchen man auf der gro&#223;en brukk,
@@ -1861,7 +1861,7 @@
                       <lb/>vor Zeiten <rs type="person" ref="#papst_felix_v">2 p&#228;bste</rs><note type="footnote" resp="mg">Irrtum Wageners: Auf dem Basler Konzil (1431-1449) wurde 1439 im "Haus zur Mücke" mit <rs type="person" ref="#papst_felix_v">Felix V.</rs> nur ein (Gegen-)Papst gewählt. Vgl. Johannes Helmrath / Michael Lauener: "Basel, Konzil von", in: Historisches Lexikon der Schweiz (HLS), Version vom 26.01.2016. Online: <ref target="https://hls-dhs-dss.ch/de/articles/017162/2016-01-26/">https://hls-dhs-dss.ch/de/articles/017162/2016-01-26/</ref>; <ref target="https://www.baslerstadtbuch.ch/.permalink/stadtbuch/17e16c2b-791d-489c-b3a2-babc539c47a8">Valentin Lötscher: Das Haus zur Mücke, in: Basler Jahrbuch 1958, S. 86-141</ref>, hier S. 109-112.</note> erwehlet worden. Die oberschrifft
                       <lb/>der thuere lautet also. <cit><quote>Nach Christi Geburt
                       <lb/>1545. vnder H. <rs type="person" ref="#brand_theodor">Theodoren Brand</rs>, Newer, vnd
-                      <lb/>H. <rs type="person" ref="#meyer_adelberg">Adelberg Meyern</rs> alten Burgermeistern. H.
+                      <lb/>H. <rs type="person" ref="meyer_adelberg">Adelberg Meyern</rs> alten Burgermeistern. H.
                       <lb/><rs type="person" resp="spacy" ref="#heydelin_marx">Marxen Heydelin</rs> Obristen zunfftmeistern, <rs type="person" ref="#meyer_bernhard"><w lemma="Bernharden">Bern
                       <lb/>harden</w> Meyern</rs>, <rs type="person" ref="#doltter_conrad">Conrad Doltern</rs> Bauwh., ist
                       <lb/>dieses hau&#223; von Grund auf, zu Ehren gemeinem
@@ -1875,7 +1875,7 @@
                       <pb facs="#mss_267-1-extrav_00074"/>
                       <lb/>von einem affen, welches der Sel. vortreffliche
                       <lb/>vnd beruehmbte Anatomicus <rs type="person" ref="#vesalius_andreas">Andreas Vesalius</rs>
-                      <lb/><rs type="place" ref="#bruessel">Bruxellus</rs> <rs type="person" resp="spacy" ref="#habsburg_karl_v">Caroli V. Aug.</rs> Archiater zue recht <w lemma="gemacht">ge
+                      <lb/><rs type="place" ref="#bruessel">Bruxellus</rs> <rs type="person" resp="spacy" ref="habsburg_karl_v">Caroli V. Aug.</rs> Archiater zue recht <w lemma="gemacht">ge
                       <lb/>macht</w> an der Einen seiten der thuere stehen diese
                       <lb/>verse. <cit><quote>Nostro perempti Scelere, Aliena <choice><expan>vivimus</expan><abbr>vivim&#42863;</abbr></choice>
                       <lb/>manu. Pueri auctiores Ossibus, <choice><expan>Agilisque</expan><abbr>Agilisq&#x0292;</abbr></choice> sceleto
@@ -1911,7 +1911,7 @@
                       <lb/>12 &#220;hr der anfall sollen geschehen, wie es nun
                       <lb/>hat sollen 12 schlagen, schlegt die Uhr au&#223; Gottes
                       <pb facs="#mss_267-1-extrav_00075"/>
-                      <lb/>Schikkung <add place="above">noch einmahl </add>Eylff, vnd wird die verr&#228;therey in selbiger
+                      <lb/>Schikkung <add place="above">noch einmahl</add> Eylff, vnd wird die verr&#228;therey in selbiger
                       <lb/>stunde auch offenbahr, da dan dem <rs type="person" resp="spacy" ref="#hans_1">Verr&#228;ther</rs> mit
                       <lb/>virteln vnd geh&#246;rigen pene sein Recht gethan, vnd Jst de&#223;en
                       <lb/>Effigies Oben am thor an der Rheinbrukken an da&#223;
@@ -2340,7 +2340,7 @@
                       <lb/>Pellot</rs>. <rs type="person" ref="#pures_antoine">Ant. de Pure</rs>
                       <lb/><hi rend="center">Coss. Anno 1611</hi></quote></cit><note type="annotation" resp="mg">Die Inschrift ist mit einer französischen Übersetzung und Kommentar ediert in: <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k2071612/f279.item">A. Comarmond: Description du Musée Lapidaire de la Ville de Lyon. Épigraphie antique du Département du Rhône, Lyon 1846-1854, S. 197f.</ref> Nach dieser Edition wurde die vorliegende Abschrift mit Korrekturen versehen.</note>
                       <lb/>Au&#223;erhalb <hi rend="underline">la porta S. George</hi> ist ein Bischoffshoff
-                      <lb/>an de&#223;en Pforte <add place="above">stehet </add>noch folgendes alt Romanisch
+                      <lb/>an de&#223;en Pforte <add place="above">stehet</add> noch folgendes alt Romanisch
                       <lb/>monumentum: <cit><quote>NUMINIBUS, AUGUSTORUM
                          <lb/><hi rend="center"><rs type="person" ref="#faenius_rufus_lucius"><choice><sic>LEENIUS RUFFUS</sic><corr>L FAENIUS RUFUS</corr></choice></rs> ET <rs type="person" ref="#faenius_apollinaris_lucius"><choice><sic>LEENIUS</sic><corr>L FAENIUS</corr></choice>
                             <lb/>APOLLINARIS</rs> FILIUS.</hi></quote></cit><note type="annotation" resp="mg">Inschrift ediert in: <ref type="opac" cRef="144360462">CIL XIII,1</ref> S. 271, Nr. 1776 (online in: <ref target="https://db.edcs.eu/epigr/epi_url.php?s_sprache=de&amp;p_publication=CIL+13%2C+01776&amp;r_sortierung=Belegstelle">Epigraphikdatenbank Clauss / Slaby</ref>). Nach dieser Ausgabe wurde die vorliegende Abschrift korrigiert.</note>
@@ -2348,7 +2348,7 @@
                       <lb/>der heidnischen Geb&#228;wen, wie auch deroselben
                       <lb/>wa&#223;erleitung, nicht weit von diesem thor leit
                       <lb/>ein gro&#223;er <choice><abbr>4eckigter</abbr><expan>viereckigter</expan></choice> stein, welcher derogestalt
-                      <lb/><add place="margin_left">gestelt </add>da&#223; man selbigen mit einem Finger bewegen
+                      <lb/><add place="margin_left">gestelt</add> da&#223; man selbigen mit einem Finger bewegen
                       <lb/>kan.
                       <lb/>Vber die <hi rend="underline">la porte Vese</hi> stehet nachfolgendes
                       <lb/><cit><quote>Vn Dieu. un Roy, vn Foy vn. loy</quote></cit>
@@ -2398,11 +2398,11 @@
                       <lb/>pierre Scize welches auf einen so hohen felsen, da&#223;
                       <lb/>wan man von oben hervnter siehet auch einem <w lemma="schwindelle">schwin:
                          <lb/>delle</w> vnd leit gar nah an der <rs type="place" ref="#saone_river">Saone</rs>, auch kan
-                      <lb/>man die <add place="above">gantze </add><rs type="place" ref="#lyon">stadt</rs> <del>v</del> auff den thurm so auf diesen Castel
+                      <lb/>man die <add place="above">gantze</add> <rs type="place" ref="#lyon">stadt</rs> <del>v</del> auff den thurm so auf diesen Castel
                       <lb/>gar sch&#246;ne besehen. Auff diesen Castell ist <rs type="person" ref="#sforza_ludovico">Ludovicus
                       <lb/>Dux Mediolanensis</rs> 1500 mit einem diener <w lemma="gefangen">gefan
                       <lb/>gen</w> hin aufgebracht worden, da er dann in <w lemma="gegenwart">gegen:
-                         <lb/>wart</w> <add place="above">des K&#246;niges </add><rs type="person" resp="spacy" ref="#frankreich_ludwig_xii">Ludovici 12</rs> gesagt. <cit><quote>O fortuna inconstans
+                         <lb/>wart</w> <add place="above">des K&#246;niges</add> <rs type="person" resp="spacy" ref="#frankreich_ludwig_xii">Ludovici 12</rs> gesagt. <cit><quote>O fortuna inconstans
                       <lb/>heri centenis hominum millibus imperabam, hodie
                       <lb/>vix unum habeo servum.</quote></cit>
                       <pb facs="#mss_267-1-extrav_00092"/>
@@ -2454,7 +2454,7 @@
                       <lb/>wa&#223;ern begabet, al&#223; die <rs type="place" resp="spacy" ref="#rhone_river">Rhosne</rs> vnd <rs type="place" ref="#saone_river">Saone</rs>.
                    </p>
                    <p>
-                      <lb/><hi rend="superscript">Die <rs type="place" ref="#rhone_river">Rhone</rs></hi> hat Jhren vrsprung au&#223; dem <rs type="place" ref="#schweizer_alpen_mountains">Schweitzer
+                      <lb/><hi rend="underline">Die <rs type="place" ref="#rhone_river">Rhone</rs></hi> hat Jhren vrsprung au&#223; dem <rs type="place" ref="#schweizer_alpen_mountains">Schweitzer
                          <lb/>gebirge</rs> vnd fleust hervnter daselbst von dem berg <rs type="place" ref="#gotthardmassiv_mountains">Godar</rs>
                       <lb/>vngefehr zwischen der <rs type="place" resp="spacy" ref="#bern_republik">Berner</rs> vnd <rs type="place" ref="#zuerich_stadtrepublik">Zuricher Canton</rs>,
                       <lb/>gehet in die <rs type="place" ref="#genfer_see">Genffer See</rs> durch welche sie mitten
@@ -2481,14 +2481,14 @@
                       <lb/><cit><quote><ref type="classical" cRef="Sen_apocol_7,9-13">Vidi duobus imminens fluviis j&#252;gum
                       <lb/>quod Ph&#339;bus ortu semper obverso videt
                       <lb/>Ubi <rs type="place" resp="spacy" ref="#rhone_river">Rhodanus</rs> Jngens omne pr&#230;rapido fluit
-                      <lb/><rs type="place" ref="#saone_river">Arar</rs>que dubitans, quo suos cursus agat
+                      <lb/><rs type="place" ref="saone_river">Arar</rs>que dubitans, quo suos cursus agat
                       <lb/>Tacitus quietis alluit ripas vadis.</ref></quote></cit>
                    </p>
                    <p>
                       <lb/>Die vornembste kirche ist Sainct. Jean, welche
                       <lb/>auch vor die vornembste in gantz <rs type="place" resp="spacy" ref="#frankreich_koenigreich">Franckreich</rs>
-                      <lb/>gehalten wird vnd ist der vornembste <add place="above">pr&#230;lat </add>bey dieser
-                      <lb/><add place="margin_left">kirch </add>der Ertz:bischoff Messire <rs type="person" ref="#neufville_camille">Camille de
+                      <lb/>gehalten wird vnd ist der vornembste <add place="above">pr&#230;lat</add> bey dieser
+                      <lb/><add place="margin_left">kirch</add> der Ertz:bischoff Messire <rs type="person" ref="neufville_camille">Camille de
                       <lb/>Neufville</rs> welcher auch Primat in Geistlichen
                       <lb/>vber gantz <rs type="place" resp="spacy" ref="#frankreich_koenigreich">Franckreich</rs>, daneben seind 32
                       <lb/>Chanonici welche alle Frantz&#246;sische Graffen
@@ -2501,7 +2501,7 @@
                       <lb/>etliche 100 bilder gar kunstlich gehawet denen
                       <lb/>aber allen die K&#246;pffe uon den reformirten vor
                       <lb/>100 Jahren hervnter geschlagen au&#223;genommen eins
-                      <lb/>welches <rs type="person" ref="#johannes_taeufer">Johannis Baptist&#230;</rs> <add place="above">Statue </add>so au&#223; sch&#246;nen Marmor
+                      <lb/>welches <rs type="person" ref="#johannes_taeufer">Johannis Baptist&#230;</rs> <add place="above">Statue</add> so au&#223; sch&#246;nen Marmor
                       <lb/>gehawen vnd da&#223; lamb Gottes auff der hand
                       <lb/>helt. bey der Maur her vnterwerts seind viel 100 gar
                       <lb/>kleine bilder gehawet, die so nicht haben k&#246;nnen <w lemma="zerschlagen">zer
@@ -2598,7 +2598,7 @@
                       <lb/>einem Guldenen tabernaculo getreten. <rs type="person" ref="#braunschweig-wolfenbuettel-bevern_ferdinand_albrecht">Jhr
                       <lb/>F. G.</rs> ein Sammit kue&#223;en vntergelegt, worauf
                       <lb/>sie knien mue&#223;en, vnd ein Crucifix zuk&#252;e&#223;en
-                      <lb/>gegeben, welches von dem <add place="above">selben </add>holtz sein solte an welcher
+                      <lb/>gegeben, welches von dem <add place="above">selben</add> holtz sein solte an welcher
                       <lb/>unser <rs type="person" ref="#jesus_christus">H. vnd Seligmacher</rs> am Creutz gehangen hat,
                       <lb/>nach diesem wie er auffgestanden, zeigete er
                       <lb/>vns zur lincken hand 2 gro&#223;e <w lemma="Tapezereydecken">Tapezerey
@@ -2648,7 +2648,7 @@
                       <lb/><hi rend="center">P&#230;nitemini</hi>
                       <lb/>Et credite Evangelio.</quote></cit>
                       <lb/>Nach diesem haben <rs type="person" ref="#braunschweig-wolfenbuettel-bevern_ferdinand_albrecht">Ihr. F. G.</rs> die <rs type="org" ref="#augustiner">Augustiner</rs>
-                      <lb/>kirche besehen, Jn welcher das Gewolb wie <add place="above">die </add>Papiern
+                      <lb/>kirche besehen, Jn welcher das Gewolb wie <add place="above">die</add> Papiern
                       <lb/>fenster in <rs type="place" resp="spacy" ref="#frankreich_koenigreich">Franckreich</rs> gemacht, vnd Jst auch alda ein
                       <lb/>Sonderlich schon bildni&#223; der <rs type="person" ref="#margareta_heilige">heil. Margareta</rs> zu sehen.
                    </p>
@@ -2659,7 +2659,7 @@
                       <lb/>in da&#223; <rs type="org" ref="#franziskaner">Cordelier oder Barfue&#223;er</rs> Closter, in welchen
                       <lb/>ohne die gro&#223;e kirchen der <rs type="org" ref="#lyon_confrerie_penitents_blanc">Orden Penitens
                       <lb/>Blanche</rs> noch eine kleine haben, vnd seind von den
-                      <lb/><add place="margin_left">B&#252;rgern </add>500 in diesen Orden. Am erwehnten tage
+                      <lb/><add place="margin_left">B&#252;rgern</add> 500 in diesen Orden. Am erwehnten tage
                       <lb/>waren die kirche gantz schwartz in wendig bezogen
                       <lb/>vnd mit wei&#223;en todtenkopfe allenthalben auf
                       <lb/><choice><abbr>dn</abbr><expan>den</expan></choice> schwartze bemahlet. Vnd auf den altar
@@ -2693,7 +2693,7 @@
                       <lb/>Tyrannen <rs type="person" ref="#kaiser_septimius_severus">Severio</rs> wiederverstoret; al&#223; er A<hi rend="superscript">o</hi> Christj
                       <lb/>17<note type="annotation" resp="mg">Es folgt eine größere Lücke in der Vorlage, in die Wagener möglicherweise noch eine fehlende Ziffer der Jahreszahl nachtragen wollte. Die Christenverfolgung, auf die er hier wohl Bezug nimmt, fand 177 statt. S. auch den Sachkommentar.</note> die Verfolgung der Christen in <rs type="place" resp="spacy" ref="#frankreich_koenigreich">Franckreich</rs>,
                       <lb/>hat fortgesetzet, hat Gedachter <rs type="person" ref="#kaiser_septimius_severus">Septimius Severius</rs>
-                      <lb/>den <rs type="person" ref="#irenaeus_heiliger">heil. Jren&#230;um</rs> <add place="above">gewesenen Bischoff </add>sampt 19 000 andere christen
+                      <lb/>den <rs type="person" ref="#irenaeus_heiliger">heil. Jren&#230;um</rs> <add place="above">gewesenen Bischoff</add> sampt 19 000 andere christen
                       <lb/>zu <rs type="place" resp="spacy" ref="#lyon">Lyon</rs> zu Tode Martern vnd auff stukken
                       <lb/>hawen la&#223;en, vnd solches soll geschehen sein auf
                       <lb/>den platz vnter bey S. Justi kirchen da man itzund
@@ -2722,7 +2722,7 @@
                       <lb/>rechten hand hinter dem Chor, ist bey einem <w lemma="kleinen">klei
                       <lb/>nen</w> altar ein stuck von einer Seulen in ein
                       <lb/>Gitterwerck versperret an welchen die christen
-                      <lb/>gemartert worden. Wenn <add place="above">man </add>von den Kirchhoff
+                      <lb/>gemartert worden. Wenn <add place="above">man</add> von den Kirchhoff
                       <lb/>ab unten in die Capelle gehen will ist zur rechten
                       <lb/>hand eine Seule von Jaspisstein, bey deroelben
                       <lb/>stehet diese R&#246;mische Schrifft <cit><quote>D M.
@@ -2754,10 +2754,10 @@
                       <lb/>die <rs type="org" ref="#franziskaner">fratres minim&#230; ordinis S. Francisci</rs> sich in
                       <lb/>aufhalten. Wie ich voran hineinkam sahe ich die
                       <lb/>Typos vnd abbildung Veteris vnd nov&#230; <rs type="place" ref="#rom">Rom&#230;</rs>
-                      <lb/>auch <add place="above">aller knochen so daselbst vnd </add>von allen Kl&#246;stern, so beym heil. Grabe
+                      <lb/>auch <add place="above">aller knochen so daselbst vnd</add> von allen Kl&#246;stern, so beym heil. Grabe
                       <lb/>Nach diesem wie mich der janitor ein wenig
                       <lb/>hervmb gefuhret, brachte er mich in die Sacristay
-                      <lb/>hinein, welche dergestalt mit <add place="above">sch&#246;nen </add>Gemahlten <w lemma="gezieret">ge:
+                      <lb/>hinein, welche dergestalt mit <add place="above">sch&#246;nen</add> Gemahlten <w lemma="gezieret">ge:
                       <lb/>zieret</w>, da&#223; sich druber zuverwundern, vnd
                       <pb facs="#mss_267-1-extrav_00104"/>
                       <lb/>waren alle Historien au&#223; dem alten vnd newen
@@ -2784,7 +2784,7 @@
                       <lb/>ctorum</w> vber denen in ein ander fach stunden,
                       <lb/>wie 4 Cant&#246;rchen auch mit reliquien sanctorum
                       <lb/>angefullet, daneben 4 verguldete armen, in
-                      <lb/>welchen in <add place="above">ein </add>jede eine Gla&#223;scheibe gesetzet da&#223; man
+                      <lb/>welchen in <add place="above">ein</add> jede eine Gla&#223;scheibe gesetzet da&#223; man
                       <lb/>die gebeine sehen kundte, vnd stund vnten mit <w lemma="guldenen">gul
                       <lb/>denen</w> Buchstaben angeschrieben, we&#223;en Gebein in
                       <lb/>einem jeden arm, welches war von <rs type="person" ref="#irenaeus_heiliger">S. Jren&#230;o</rs>
@@ -2858,7 +2858,7 @@
                       <lb/>wi&#223;en</w> nachricht hat, da&#223; wie er ins Elend
                       <lb/>vertrieben worden, sich nacher <rs type="place" resp="spacy" ref="#lyon">LYON</rs> soll
                       <lb/>begeben haben.<note type="footnote" resp="mg">Herodes Antipas wurde wahrscheinlich nicht nach Lyon (lat. Lugdunum Segusianorum oder nur Lugdunum), sondern nach Saint-Bertrand-de-Comminges (lat. Ludgunum Convenarum) verbannt und starb dort. Vgl. <ref target="https://de.wikisource.org/w/index.php?title=RE:Herodes_24&amp;oldid=4197040">Walter Ott: Art. Herodes 24, in: RE, Supplementbd. II (1913), Sp. 168-191</ref>, hier Sp. 188.</note><note type="annotation" resp="mg">Notiz auf einem kleineren, nachträglich engebundenen Zettel.</note>
-                      <pb facs="#mss_267-1-extrav_00108"/><pb facs="#mss_267-1-extrav_00109"/>
+                      <pb facs="#mss_267-1-extrav_00108"/><pb facs="#mss_267-1-extrav_000109"/>
                       <lb/><note type="annotation" resp="mg">Satz schließt an das vorletzte Blatt an.</note>vnd da&#223; der <rs type="person" ref="#papst_paschalis_ii">Papa paschalis</rs> da begraben sey.<note type="footnote" resp="mg">Wagener gibt hier fehlerhafte Informationen wieder, die er wahrscheinlich der weiter unten (fol. 53r.) erwähnten Beschreibung Lyons von Abraham Göllnitz entnahm. Dort ist auch die Inschrift wiedergegeben, die auf die Weihe der Kirche durch Papst Paschalis II. im Jahr 1107 verweist, aber nicht auf dessen Grab: "Hanc aedem sacram Paschalis papa dicavit". Vgl. <ref target="https://search.worldcat.org/de/title/558785985">Abraham Gölnitz: Lyon au XVIIme Siècle. Extrait de L'Itinéraire en France et en Belgique, übers. und hg. von Anoine Vachez, Lyon 1877</ref>, S. 71 mit Anm. 2 (dort auch das Zitat).</note> Jn der
                       <lb/>einen Capelle siehet man eine gar alte unl&#228;serliche
                       <lb/>Romanische Schrifft, woselbsten ein altar gestanden
@@ -2873,7 +2873,7 @@
                       <lb/>Qui Jacet hic Monachi, venerabilis <choice><abbr>atq&#x0292;</abbr><expan>atque</expan></choice> periti
                       <lb/>Festo <choice><expan>namque</expan><abbr>namq&#x0292;</abbr></choice> tuo vita decessit ab ista
                       <lb/>Jstius Ecclesi&#230; Cantor simul <choice><expan>atque</expan><abbr>atq&#x0292;</abbr></choice> sacrista.</quote></cit>
-                      <lb/>Neben dieser kirche siehet man noch ein <add place="above">alt </add>Romanische
+                      <lb/>Neben dieser kirche siehet man noch ein <add place="above">alt</add> Romanische
                       <lb/>Collegium welches der <rs type="person" ref="#minerva">Minerv&#230;</rs> zu Ehren gebawet
                       <lb/>in diesem ist sehr flei&#223;ig die disputierkunst getrieben
                       <lb/>worden.

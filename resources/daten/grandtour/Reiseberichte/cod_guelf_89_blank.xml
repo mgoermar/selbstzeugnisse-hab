@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd" xml:id="grand_tour.cod_guelf_89_blank" n="Cod. Guelf. 89 Blank.">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel: Dänische und Schwedische reyse so von mir getahn worden in dem Jahre 1689 angefangen den 9. Jan. meineß alters in 18 Jahre. <lb/>(Cod. Guelf. 89 Blank.)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel: Dänische und Schwedische reyse so von mir getahn worden in dem Jahre 1689 angefangen den 9. Jan. meineß alters in 18 Jahre. Herzog August Bibliothek, Signatur: Cod. Guelf. 89 Blank., fol. 90r-101r
+            </bibl>                
+            <xi:include href="../register/listPlace_grand_tour.xml" xpointer="element(place)"/>
+            <xi:include href="../register/listPerson_grand_tour.xml" xpointer="element(person)"/>
+            <xi:include href="../register/listOrg_grand_tour.xml" xpointer="element(org)"/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>   
+   <text>
+      <body>
+         <div type="volume">
+            <pb facs="#mss_89-blank_00181" n="90r"/>
+            <head>
+               <lb/><rs type="place" ref="#daenemark_koenigreich">Dänische</rs> und <rs type="place" ref="#schweden_koenigreich">Schwedische</rs>
+               <lb/>reyse <del>bet</del> so von <rs type="place" ref="#wolfenbuettel">hier</rs>
+               <lb/>getahn worden in dem
+               <lb/><date when="1689">Jahre 1689.</date> angefangen
+               <lb/>d. <date when="1689-01-09">9. Jan.</date> meineß alters in 18. Jahren.
+            </head>
+            <p>
+               <lb/>Wir traten unsere reyse d. <date when="1689-01-09">9 Jan:</date>
+               <lb/>an und kamen den ersten Tag bis
+               <lb/><rs type="place" ref="#braunschweig">Braunschweig</rs>. Die Suite <del>vor</del> bestund in
+               <lb/>6. Personen <add place="above">als</add> wie folget
+               <lb/>M<hi rend="superscript">r</hi>. <rs type="person" ref="#imhoff_rudolph_christian">d'Imhoff</rs>. wie Hoffmeister.
+               <lb/>M<hi rend="superscript">r</hi>. <rs type="person" ref="#jettebrock_rudolph_friedrich">Jettebrock</rs>. wie Volontair.
+               <lb/>M<hi rend="superscript">r</hi>. <rs type="person" ref="#behm_heinrich_julius">Böhme</rs>. wie Secretarius.
+               <lb/><rs type="person" ref="#karl_friedrich">Carl Friderich</rs>. wie Cammerdiener.
+               <lb/><rs type="person" ref="#campen_ludolf">von Campen</rs>. wie page.
+               <lb/><rs type="person" ref="#heinrich_1">Heinrich</rs>. wie Laquei.
+            </p>
+            <p>
+               <lb/><subst><del>D</del><add place="inline">N</add></subst>achdeme<note type="annotation" resp="mg">"D" zu "N" verbessert.</note> wir nun zwischen <rs type="place" ref="#braunschweig">Braunschweig</rs>
+               <lb/>und <rs type="place" ref="#hamburg">Hamburg</rs> 3. Tage zu gebracht, kamen
+               <lb/>wir d. <date when="1689-01-12">12. hujus.</date> aldar an. Wir <w lemma="Logierten">Lo-
+               <lb/>gierten</w> bey einem Kaufmann mit nahmen
+               <lb/><rs type="person" ref="#bolstein_anon_1">Bolstein</rs>.
+            </p>
+            <p>
+               <lb/>Die wenige Zeit so wir aldar verblieben,
+               <lb/>verpassirten wir in besehung der aldar
+               <lb/>sich befindender raritäten. Als nehmlich der
+               <lb/>Dom welcher wohl sehens würdig ist.
+               <lb/><unclear reason="illegible">D</unclear>ie Seulen so darinnen sich befinden
+               <lb/>sind alle von porphir. Wir waren
+               <lb/>noch in <rs type="person" ref="#koenig_samuel">Königß</rs> Buchladen so <del>sich do</del>
+               <lb/>in demselben ist. Hernach der hafen
+               <lb/>und daß zucht und Sp<unclear reason="eccentric_ductus">e</unclear>inhauß.
+            </p>
+            <p>
+               <lb/><unclear reason="illegible">Den</unclear> <date when="1689-01-15">15. dito</date>. reiseten wir wiederum
+               <lb/>ab und kamen d. <date when="1689-01-16">16.</date> nach <rs type="place" ref="#ploen">Plöen</rs> an
+               <lb/>alwo <subst><del>ich</del><add place="above">wir</add></subst> bis d. <date when="1689-01-19">19.</date> stille lagen.
+            </p>
+            <p>
+               <lb/><unclear reason="illegible">Von</unclear> dar reiseten wir noch <w lemma="denselbigen">denselbi-
+                  <lb/>gen</w> Tag nach dem <rs type="place" ref="#kiel">Kiel</rs> woselbst
+               <lb/>Eben der so genante umschlag gehalten
+               <lb/>wurd.
+               <pb facs="#mss_89-blank_00182" n="90v"/>
+               <lb/>Alhier bekamen wir die ersten
+               <lb/>offenen Köhrwagen.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-20">20.</date> arrivirten wir zu <rs type="place" ref="#rendsburg">Rensburg</rs>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-21">21.</date> hielten wir daß mittages
+               <lb/>mahl in <rs type="place" ref="#gottorf">Gottorff</rs>. Den abend davon
+               <lb/>kamen wir nach <rs type="place" ref="#flensburg">Flensburg</rs>.
+            </p>
+            <p>
+               <lb/>Daß schloß zu <rs type="place" ref="#gottorf">Gottorff</rs> ist wohl
+               <lb/>sehens würdig, wie auch der garten,
+               <lb/>in welchen wir unter andren <w lemma="raritäten">raritä-
+               <lb/>ten</w> einen großen Globen sahen, welcher
+               <lb/>von waßer vor demmahl ist getrieben
+               <lb/>worden, der innen raum ist so groß
+               <lb/>daß 12. personen bey der Taffel gemächlich
+               <lb/>darin sitzen können. Es wird auf
+               <lb/>48. Tausend rht. wehrt geschätzet.
+               <lb/>Der Meister so ihn verfertiget heist
+               <lb/><rs type="person" ref="#boesch_andreas">Andreas Busch</rs> bürtig von <rs type="place" ref="#limburg_lahn">Limburg</rs>.<note type="footnote" resp="mg">Zum Gottorfer Riesenglobus vgl. auch den <ref target="http://selbstzeugnisse.hab.de/grand_tour/cod_guelf_267_1_extrav#1657-01-20">Eintrag zum 20. Januar 1657 im Reisetagebuch des Apothekergesellen Wagener</ref>. </note>
+               <lb/>Die Amalien Burg so der prinzeßin
+               <lb/><rs type="person" ref="#braunschweig-wolfenbuettel_sophia_amalia">Sophia Ammalia</rs> ist zu ehren erbauet
+               <lb/>ist auch sehr schön. Wie auch die
+               <lb/>Orangerie so in 200. baumen bestehet.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-22">22.</date> zu mittage zum Kohlstein.
+               <lb/>Daß <del>aben</del> nachtlager hielten wir zu
+               <lb/><rs type="place" ref="#kolding">Coldingen</rs>. Nachdem wir von <rs type="place" ref="#hadersleben">Hadersleben</rs>
+               <lb/>frische Pferde genommen.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-23">23.</date> passirten wir den <rs type="place" ref="#kleiner_belt">kleinen
+               <lb/>Belt</rs> mit nachen bey <rs type="place" ref="#middelfart">mittelfahrt</rs>, alwo
+               <lb/>wir auch ein Früstück zu unß nahmen
+               <lb/>und von dar bis nach der Stadt <rs type="place" ref="#odense"><w lemma="Odensee">Oden-
+               <lb/>see</w></rs> fuhren alwo wir die nacht <w lemma="verblieben">ver-
+               <lb/>blieben</w>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-24">24.</date> reiseten wir um 4. Uhr des
+               <lb/>morgens von dar ab, und kamen gegen
+            <pb facs="#mss_89-blank_00183" n="91r"/>
+               <lb/><unclear reason="illegible">5</unclear> uhr zu <rs type="place" ref="#nyborg">Nieborg</rs> an. Alwo wir frü-
+               <lb/>stückten und hernachmahls bis an den
+               <lb/><rs type="place" ref="#grosser_belt">großen Belt</rs> mit wagen kamen, welchen
+               <lb/>wir bey hellem Sonnenschein und gutem
+               <lb/>winde passirten. Zu <rs type="place" ref="#korsor">Corsör</rs> nahmen wir
+               <lb/>frisch <unclear>forgesphan</unclear> und fuhren den abend
+               <lb/>noch hin bis nach <rs type="place" ref="#slagelse">Sclagel</rs>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-25">25.</date> <choice><sic>hegten</sic><corr>legten</corr></choice> wir ab zu mittage
+               <lb/>zu <rs type="place" ref="#ringsted"><unclear reason="illegible">R</unclear>instelt</rs> daß nachtquartier nahmen
+               <lb/>wir zu <rs type="place" ref="#roskilde">Rotschild</rs>. alwo wir der Könige
+               <lb/>Begräbnüße besahen.
+            </p>
+            <p>
+               <lb/>Unter andern schönen gräbern waren
+               <lb/>denckwürdig zusehen. <rs type="person" ref="#daenemark_friedrich_ii">Fridirici II.</rs> Grab.
+               <lb/><del>wel</del> an welchen alle seine tahten <w lemma="zusehen">zuse-
+               <lb/>hen</w> waren in Stein sehr künstlich <w lemma="außgehauen">auß-
+               <lb/>gehauen</w>. Er ligt oben auf ganz <w lemma="geharnischt">gehar-
+               <lb/>nischt</w> zum Füßen stehen die Wörter, 
+               <lb/><ref type="biblical" cRef="Is_26,19">Esaia am 26.</ref>
+               <lb/><hi rend="center"><cit><quote>Vivent mortui tui, etc.</quote></cit>
+               <lb/>Zur linken.
+               <lb/><cit><quote>Meine Hoffnung zu Gott alleine.</quote></cit>
+               <lb/><cit><quote>Treu ist Wilbrett.</quote></cit>
+               <lb/>Zum haupte war die grab-
+               <lb/>schrift zulesen mit güldenen
+               <lb/>buchstaben.
+               <lb/><cit><quote><rs type="person" ref="#daenemark_friedrich_ii">Frid. II. Rex Daniæ et Nor-
+               <lb/>wegiæ.</rs></quote></cit></hi>
+            </p>
+            <p>
+               <lb/>Die andern Könige so dar begraben
+               <lb/>sind, sind
+               <lb/><rs type="person" ref="#daenemark_christian_iii">Christ. III.</rs>
+               <lb/><rs type="person" ref="#daenemark_friedrich_iii">Frid. III.</rs>
+               <lb/><rs type="person" ref="#daenemark_christian_1">Christ V.</rs>
+               <lb/><rs type="person" ref="#roskilde_wilhelm">Wilhelmus Episc. L&#x0153;hund.</rs>
+               <lb/>cojugio <rs type="person" ref="#daenemark_margaretha_i">Margareta</rs>.
+               <lb/><rs type="person" ref="#daenemark_harald">Haraldus</rs> defundator ecclesiæ.
+            </p>
+            <pb facs="#mss_89-blank_00184" n="91v" />
+            <p>
+               <lb/>D. <date when="1689-01-26">26.</date> Sind wir zu <rs type="place" ref="#kopenhagen">Coppenhagen</rs>
+               <lb/>glücklich arriviret. logierten in der ersten <unclear reason="illegible">n<ex>acht</ex></unclear>
+               <lb/>in der Cronenburg. Hernach aber nahmen wir <add place="below">ein eigen <unclear>haus</unclear>.</add>
+               <lb/>D. <date when="1689-01-27">2<subst><del>6</del><add place="inline">7</add></subst>.</date><note type="annotation" resp="mg">"6" durch Überschreiben zu "7" verbessert.</note> habe ich meine audience bey
+               <lb/>dem <rs type="person" ref="#daenemark_christian_v">König</rs>, der <rs type="person" ref="#daenemark_charlotte_amalie">Königen</rs>, und <rs type="person" ref="#daenemark_sophia_hedwig #daenemark_christiane_charlotte"><w lemma="Printzessin">Printzes-
+                  <lb/>sin</w></rs><note type="footnote" resp="mg">In seiner 1690 begonnenen Autobiographie schreibt Ludwig Rudolph, er habe beide Prinzessinnen getroffen. Vgl. <ref target="http://diglib.hab.de/mss/217a-blank/start.htm?image=00057">Cod. Guelf. 217a, S. 53</ref>.</note> wie auch bey den <rs type="person" ref="#daenemark_friedrich_iv #daenemark_christian_2 #daenemark_karl">3. Printzen</rs>
+               <lb/>gehabt. Den abend darauf bin ich
+               <lb/>zu hofe an der Taffel geblieben.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-28">28.</date> wurde ein Ball gehalten
+               <lb/>in der Stadt bey dem <rs type="person" ref="#juul_anon_1">Major <unclear>Ju</unclear>l</rs>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-29">29.</date> war ich zu Gaste bey
+               <lb/><rs type="person" ref="#gyldenlove_ulrich_friedrich">Güldenlöve</rs>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-30">30.</date> bey <rs type="person" ref="reventlow_conrad">Rebenclau</rs> den abend
+               <lb/><subst><del>D. 3</del><add type="inline">Darauf</add></subst><note type="annotation" resp="mg">"D. 3" zu "Darauf" verbessert durch Überschreiben.</note> wurde wieder ein Ball
+               <lb/>gehalten <del>bey dem</del> in seinem Hause
+            </p>
+            <p>
+               <lb/>D. <date when="1689-01-31">31.</date> nahm ich meinen abschiedt zu
+               <lb/>hoffe. Es wurde denselben abend
+               <lb/>aldar getantzet.
+            </p>
+            <p>
+               <lb/>Was sonsten in <rs type="place" ref="#kopenhagen">Coppenhagen</rs> sehens
+               <lb/>wehrt ist, ist daß Arsenal, der hafen.
+               <lb/>die Rosenburg und Amalien burg, der
+               <lb/>runde Turm welchen <rs type="person" ref="#daenemark_christian_iii">Christ. III.</rs> erbauen 
+               <lb/>laßen <add place="margin-left">und die Kunstkammer.</add>, die Crone und der Tron. Es wurde
+               <lb/>unß gezeiget von, <rs type="person" ref="#knuth_adam_levin">Adam von Knott</rs> Königlichen <add place="below">OberKammer Junkern</add>
+            </p>
+            <p>
+               <lb/><note type="contemporary" place="margin-left">Febr.</note>D. <date when="1689-02-01">1. Febr.</date> reiseten wir von <rs type="place" ref="#kopenhagen"><w lemma="Coppenhagen">Coppen-
+               <lb/>hagen</w></rs> hinweg, und kamen den ersten
+               <lb/>Tag bis <rs type="place" ref="#frederiksborg_schloss">Fridrichsburg</rs>. Alwo wir daß
+               <lb/>schloß besahen. Welches wohl wehrt ist
+               <lb/>gesehen zu werden. Absonderlich daß
+               <lb/>Appartement welches mit lautern <w lemma="Portraiten">Portrai-
+               <lb/>ten</w> von Königen ist angefüllet, vnd
+               <lb/>fänget sich die re<subst><del>h</del><add place="inline">y</add></subst>he<note type="annotation" resp="mg">"h" zu "y" verbessert durch Überschreiben.</note> von <rs type="person" ref="#daenemark_christian_i">Christ. 1.</rs>
+               <lb/>bis auf den jitzigen <rs type="person" ref="#daenemark_christian_v">Christ. V.</rs>
+               <lb/>welcher mit seinen <rs type="person" ref="#daenemark_friedrich_iv #daenemark_christian_2 #daenemark_karl">3. ältesten Printzen</rs>
+               <pb facs="#mss_89-blank_00185" n="92r" />
+               <lb/>abgemahlet stehet. Sonsten ist auch der
+               <lb/>Tantz Saal sehr schöne alwo alle
+               <lb/>die Tahten so <rs type="person" ref="#daenemark_christian_iii">Christianus III.</rs> getahn in
+               <lb/>Tapeten lebenß größe gewirket sind. Die
+               <lb/>Kirche ist auch schöne. Jn welcher vor
+               <lb/>diesem der altar gantz <subst><del>daß</del><add place="above">mit</add></subst> Silbernen <rs type="person" ref="#apostel">Apostoln</rs>
+               <lb/>ist bezieret gewesen, aber die <rs type="place" ref="#schweden_koenigreich">Schweden</rs> haben
+               <lb/>gerne der <rs type="person" ref="#apostel">Apostol</rs> leben sich in ihrem
+               <lb/>Reiche auch bedienen wollen, und sie mit
+               <lb/>sich genommen, von dannen Sie <add>noch</add> wieder er-
+               <lb/>wartet werden.
+            </p>
+            <p>
+               <lb/>Daß königliche Badehauß ist auch daselbst
+               <lb/>sehr curieus zusehen in der vorkammer
+               <lb/>deß bades stehet unter andern gemälden
+               <lb/>ein bauer mit einem hunde abgeschildert
+               <lb/>über welchen diese dänische verse zusehen.
+               <lb/><cit><quote><hi rend="center">Bunden er lig som hunden
+               <lb/>Var Bunden nicke Bunden.
+               <lb/>War Bunden ver end Hunden.</hi></quote></cit>
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-02">2.</date> kamen wir nach <rs type="place" ref="#helsingor">Helsignör</rs> an
+               <lb/>alwo wir die nacht verblieben. Den
+               <lb/>andern morgen besahen wir daß derbey
+               <lb/>ligende Casteel <rs type="place" ref="#kronborg_schloss">Cronenburg</rs>. Es wurde eben
+               <lb/>darmahlß <add place="above">an</add> ein cronwerck gearbeiet um
+               <lb/>es hinauß gegen der Stadt zulegen. War
+               <lb/>auch schon meist fertig. Der Commendante
+               <lb/>darauf war ein Obrister.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-03">3.</date> sind wir den <rs type="place" ref="#oeresund">Sund</rs> bey gutem
+               <lb/>wetter passiret. Zu <rs type="place" ref="#helsingborg">Helsingburg</rs> wurden
+               <lb/>wir mit 4. canon schüße salviret wie wir
+               <lb/>ankamen und wie wir inß wirtshauß traten
+               <lb/>wie auch mit 8. wir wieder abfuhren.
+               <lb/>D. abend darauf blieben wir zu <rs type="place" ref="#aengelholm"><w lemma="Engelholm">Engel-
+               <lb/>holm</w></rs>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-04">4.</date> bis <rs type="place" ref="#laholm">Laholm</rs>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-05">5.</date> auß <rs type="place" ref="#laholm">Laholm</rs> durch <rs type="place" ref="#halmstad">Halmstadt</rs>
+               <lb/>durch <rs type="place" ref="#trara">Trara</rs><note type="footnote" resp="mg">Dieser Ort, wie auch mehrere der im Folgenden genannten Orte, konnte nicht identifiziert werden. Vermutlich handelte es sich nur um kleine Weiler, wenn nicht Einzelgehöfte, die über keine Wirtshäuser verfügten. Jedenfalls schreibt Ludwig Rudolf in seiner Autobiographie über seine Reise von Laholm nach Stockholm: "[D]iese reise passirten wir durch viele rauhe plätze[?], kamen aber dennoch auch, durch etliche städte, als Linkopin[,] Nordkoping, und andere mehr, welche aber bey uns wohl vor gute dörfer passiren können. Endlich nach überstandenen vielen ungemach kamen wir endlich zu Stockholm glücklich und wohl an". (<ref target="http://diglib.hab.de/mss/217a-blank/start.htm?image=00060">Cod. Guelf. 217a Blank, S. 56</ref>)."</note> durch <rs type="place" ref="#ramos">Ramos</rs> bis deß
+               <lb/>nachtes zu <rs type="place" ref="#nissaryd">Nissare</rs>. Hier bekamen wir
+               <lb/>daß erste <rs type="place" ref="#schweden_koenigreich">Schwedische</rs> brodt zukosten so genant wird Koudebrön.
+            </p>
+            <pb facs="#mss_89-blank_00186" n="92v"/>
+            <p>
+               <lb/>D. <date when="1689-02-06">6.</date> auß <rs type="place" ref="#nissaryd">Nissare</rs> durch <rs type="place" ref="#belare">Belare</rs>
+               <lb/><rs type="place" ref="#gislaved">Gislevet</rs>, <rs type="place" ref="#uehr">Ühr</rs>, <rs type="place" ref="#norra_unnaryd">Ünare</rs>, <rs type="place" ref="#jaera">Järeh</rs>, bis deß
+               <lb/>nachtes zu <rs type="place" ref="#joenkoeping">Jencköping</rs> eine Stadt.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-07">7.</date> auß <rs type="place" ref="#joenkoeping">Jencköpin</rs> durch <rs type="place" ref="#reaby">Rabi</rs>
+               <lb/><rs type="place" ref="#graenna">Grena</rs>, alhier kamen wir in daß
+               <lb/><rs type="place" ref="#oestergoetland">Oster=Gohtland</rs>.
+               <lb/><rs type="place" ref="#holkaberg"><subst><del>K</del><add place="inline">H</add></subst>oltenberg</rs><note type="annotation" resp="mg">'K' durch Überschreiben zu "H" verbessert.</note>, <rs type="place" ref="#utsche">Utsche</rs>, bis deß nachtes
+               <lb/>zu <rs type="place" ref="#usta">Usta</rs>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-08">8.</date> auß <rs type="place" ref="#usta">Usta</rs> bis <rs type="place" ref="#viby">Wilby</rs>, <rs type="place" ref="#bankeberg">Banckenberg</rs>,
+               <lb/><rs type="place" ref="#linkoeping">Lynköping</rs>. Zu mittage, <rs type="place" ref="#biorckholm">Biorckholm</rs>, <rs type="place" ref="#huemko"><unclear reason="eccentric_ductus">Hümko</unclear></rs>,
+               <lb/>zu deß nachtes zu <rs type="place" ref="#brueneck">Brüneck</rs>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-09">9.</date> Auß <rs type="place" ref="#brueneck">Brüneck</rs> bis <rs type="place" ref="#norrkoeping">Nortköping</rs>
+               <lb/>daselbst zu mittag geßen. Durch <rs type="place" ref="#aby">Aby</rs>
+               <lb/><rs type="place" ref="#krokek">Kroockeeck</rs>, <rs type="place" ref="#wreta">Wreta</rs>, <rs type="place" ref="#jaeer">Jäer</rs> bis deß
+               <lb/>nachtes zu <rs type="place" ref="#nykoeping">Nicöping</rs>.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-10">10.</date> durch <rs type="place" ref="#schwaelbro">Schwälbroo</rs>, <rs type="place" ref="#aby_kroock">Aby Kroock</rs>
+               <lb/>mittages geßen. <rs type="place" ref="#wielbrack">Wielbroek</rs> <rs type="place" ref="#soedertaellje">Suderstellje</rs>
+               <lb/>zu nachte.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-11">11.</date> Sind wir glücklich zu <rs type="place" ref="#stockholm">Stockholm</rs>
+               <lb/>um 4. uhr deß nachmittags ankommen.
+               <lb/>logieret in <rs type="person" ref="#steinberg_anon_1">der Stenebergischen</rs> Hause bey
+               <lb/>der Schiffbrücke.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-13">13.</date> Sind wir daß erste
+               <lb/>mahl zur Audienz bey dem
+               <lb/><rs type="person" ref="#schweden_karl_xi">König</rs>, bey der <rs type="person" ref="#schweden_hedwig_eleonora">verwibten Königin</rs>, bey
+               <lb/>der <rs type="person" ref="#schweden_ulrika_eleonora">Regirenden</rs>, und bey den <rs type="person" ref="#schweden_karl_xii"><w lemma="Kronprintzen">Kron-
+               <lb/>printzen</w></rs> gewesen. <del>Den abend</del>
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-14">14.</date> habe ich deß abends
+               <lb/>bey der Königlichen Taffel
+               <lb/>geßen. Welche ordinair in
+               <lb/>der <rs type="person" ref="#schweden_hedwig_eleonora">Verwittweten Königen</rs> ihr
+               <lb/>gemach gehalten wird.
+            </p>
+            <pb facs="#mss_89-blank_000187" n="93r"/>
+            <p>
+               <lb/>D. <date when="1689-02-18">18.</date> bin ich bey der <rs type="person" ref="#koenigsmarck_maria_christina">Gräfin
+               <lb/>Königßmarken</rs> zu Gaste gewesen.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-19">19.</date> Jst die Revüe von der
+               <lb/>königlichen Garde zu fuß gehalten
+               <lb/>worden. Der obriste so dieselbige
+               <lb/>commandiret heißet <rs type="person" ref="#liewen_bernhard"><subst><del>Linnepl</del><add place="below">Lieve</add></subst></rs>. Sie
+               <lb/>ist corporriert von 13 compagnien, <w lemma="jedwede">jed-
+               <lb/>wede</w> zu 100 und etliche mann starck.
+               <lb/>D. mittag war ich mit dem <rs type="person" ref="#schleswig-holstein-gottorf_friedrich_iv">Printzen
+               <lb/>von Gottorff</rs> bey dem Feldmarschall
+               <lb/><rs type="person" ref="#aschenberg_rutger">Aschenberg</rs> zur mahlzeit.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-02-20">20.</date> habe ich von M<hi rend="superscript">r</hi> <rs type="person" ref="#schlitz-goertz_friedrich_wilhelm">Görtz
+               </rs>          <lb/><rs type="place" ref="#braunschweig-lueneburg_herzogtum">Luneburgischen</rs> <del>Amb</del> Envoyé abschiedt
+               <lb/>genommen. Welcher auch denselbigen
+               <lb/>Tag abgereißet. Ich habe denselbigen
+               <lb/>tag folgende verse zusehen bekommen
+               <lb/>welche ich wegen ihrer <w lemma="anmutigkeit">anmutig-
+               <lb/>keit</w> hieher setzen wollen.
+               <cit>
+                  <quote>
+                     <lb/><hi rend="center">Jn <rs type="place" ref="#england_koenigreich">Britannicam</rs></hi>
+                     <lb/><hi rend="right">Expeditionem <rs type="person" ref="#england_wilhelm_ii">Arausicani Principis</rs>.
+                     <lb/>Ventis disturbatam
+                     <lb/>Epigramma.
+                     <lb/><rs type="place" ref="#paris">Parisiis</rs> missum.</hi>
+                     <lb/>Bella movet <rs type="person" ref="#england_jakob_ii">socero</rs> <rs type="person" ref="#england_wilhelm_ii">gener</rs> impius, <choice><abbr>inq&#x0292;</abbr><expan>inque</expan></choice> <rs type="person" ref="#oranien_maria_henrietta">parentis</rs>
+                     <lb/><rs type="person" ref="#england_jakob_ii">Germanum</rs> vertit perfidus arma <rs type="person" ref="#england_wilhelm_ii">nepos</rs>.
+                     <lb/>Conditur innumeris substractum navibus æquor,
+                     <lb/>Et denso Classis milite pressa gemit.
+                     <lb/><choice><abbr>Jamq&#x0292;</abbr><expan>Jamque</expan></choice> animo exuvias, et opimi præmia <rs type="place" ref="#england_koenigreich">Regni</rs>
+                     <lb/><choice><abbr>Sceptraq&#x0292;</abbr><expan>Sceptraque</expan></choice> cognato Sanguine tincta rapit.
+                     <pb facs="#mss_89-blank_00188" n="93v"/>
+                     <lb/>Demens, qui Superos ausit sperare secund<unclear reason="illegible">e</unclear>
+                     <lb/>Ac Tantum credit posse juvare nefas!
+                     <lb/>Ecce ultor sese adverso fert cardine ventus
+                     <lb/><choice><abbr>Sacrilegasq&#x0292;</abbr><expan>Sacrilegasque</expan></choice> ferit justa procella rates.
+                     <lb/>Pars tumidis hauritur aquis, Pars hæret arenis,
+                     <lb/>Aut mæsto in portus cum <rs type="person" ref="#england_wilhelm_ii">Duce</rs> fracta redit.
+                     <lb/>J nunc, Et sociis confide superbe <rs type="place" ref="#niederlande_vereinigte">Batavis</rs>
+                     <lb/>Pugnat pro <rs type="person" ref="#england_jakob_ii">Socero</rs> Pontus et aura
+                     <lb/><hi rend="center">tuo.</hi>
+                     <lb/>Sur les heureus Succés des desseins de
+                     <lb/>son A. S. Monseigneur Le <rs type="person" ref="#england_wilhelm_ii">Prince d'<w lemma="orange">o-
+                     <lb/>range</w></rs>.
+                     <lb/><hi rend="center">Stances.</hi>
+                     <lb/>Qui servent de reponse à L'Epigramme
+                     <lb/><hi rend="center">envoyeé de <rs type="place" ref="#paris">Paris</rs>.</hi>
+                     <lb/>Toy dont La <rs type="person" ref="#musen">Muse</rs> impitoyable,
+                     <lb/>Abimoit dans Le sein des eaus,
+                     <lb/>Et Les Soldats et Les vaisseaus
+                     <lb/>D'un <rs type="person" ref="#england_wilhelm_ii">Prince</rs>, a qui Le ciel est toujours
+                     <lb/><hi rend="center">favorable:</hi>
+                     <lb/>Animé dans tes fictions,
+                     <lb/>ou de rage, ou de jalousie,
+                     <lb/>Pensois tu que ta Poesie
+                     <lb/>Pût imposer aus yeus de tant de
+                     <lb/><hi rend="center">nations.</hi>
+                     <pb facs="#mss_89-blank_00189" n="94r"/>
+                     <lb/>Certes, en dépit de la <rs type="place" ref="#frankreich_koenigreich">France</rs>,
+                     <lb/>L'<rs type="place" ref="#england_koenigreich">Angleterre</rs> selon nos voeus
+                     <lb/>A vù naitre ce jour heureus,
+                     <lb/>Ce jour qui ne Luisoit que pour sa delivrance,
+                     <lb/>Quand nos Chefs et nos Matelots
+                     <lb/>Sans Crainte abordoient Le rivage; 
+                     <lb/>Elle a vu que malgré L'orage,
+                     <lb/>Ils savoient échaper à La fureur des flots.
+                     <lb/>
+                     <lb/>Par de plus sensibles miracles,
+                     <lb/><rs type="person" ref="#england_wilhelm_ii">Prince</rs> Le plus grand des humains,
+                     <lb/>Lorsqu'on traversoit tes dessins,
+                     <lb/>Dieu t'a fait surmonter les plus fácheus obstacles,
+                     <lb/>Depuis, malgré L'effort des Rois,
+                     <lb/>Tout cede à ton puissant genie, 
+                     <lb/>Et si Leur audace est punie,
+                     <lb/>C'est Le fruit glorieus de tes nouveaus exploits.
+                     <lb/>
+                     <lb/>A L'exemple du grand <rs type="person" ref="#herakles">Alcide</rs>,
+                     <lb/>Fais revivre Le siecle heureus,
+                     <lb/>ou Les monstres Les plus affreus,
+                     <lb/>Perirent sous Le poid de son bras intrepide,
+                     <lb/>Dompte Le reste des <rs type="person" ref="#titanen">Titans</rs>,
+                     <lb/>Poursui, c'est Le Ciel qui t'anime,
+                     <lb/>Il veut que ta valeur opprime
+                     <lb/>Et la rage et L'orgueil de ces fiers combattans.
+                     <pb facs="#mss_89-blank_00190" n="94v"/>
+                     <lb/>Cependant quel peuple barbare,
+                     <lb/>ignore les faits glorieus,
+                     <lb/>Qui n'est pas instruit, sous Les Cieus,
+                     <lb/>Que de tes Ennemis La chute se prepare?
+                     <lb/>Que Les <rs type="place" ref="#england_koenigreich">Anglois</rs> brisent Leurs fers,
+                     <lb/>Par toy sauvés du precipice,
+                     <lb/>Et que L'orgueil et L'injustice
+                     <lb/>Loin d'eus, pour se cacher retournent ans
+                     <lb/><hi rend="center">Enfers.</hi>
+                     <lb/>
+                     <lb/>En vaïn La colere impuissante
+                     <lb/>De quelques profanes Auteurs,
+                     <lb/>En vain les Traits des imposteurs
+                     <lb/>Attaquent La grandeur du <rs type="person" ref="#england_wilhelm_ii">Prince</rs> que je
+                     <lb/><hi rend="center">chante.</hi>
+                     <lb/>Animés dans leurs fictions
+                     <lb/>ou de rage ou de jalousie,
+                     <lb/>Pensent ils que Leur Poesie
+                     <lb/>Puisse imposer aus yeus de tant de nations
+                     <lb/>Pendant qu'il tonnoit sur nos têtes
+                     <lb/>I'ls esperoient qu'en nos malheurs,
+                     <lb/>Le Ciel insensible à nos pleurs
+                     <lb/>Nous alloit accabler de nouvelles
+                     <lb/><hi rend="center">tempêtes</hi>.
+                     <pb facs="#mss_89-blank_00191" n="95r"/>
+                     <lb/>Voyés L'âches, que nos Soldats
+                     <lb/>N'en ont pas été Les victimes; 
+                     <lb/>Peutêtre pour vanger vos crimes,
+                     <lb/>Le Ciel Les a sauvés de L'horreur du trepas.
+                     <lb/><hi rend="rigth"><rs type="person" ref="#d_g">D. G.</rs></hi>
+                     <lb/><hi rend="center">Fin.</hi>
+                  </quote>
+               </cit><note type="footnote" resp="mg">Beide vorstehende Gedichte zitiert aus: In felicem Serenissimi Arausionensium Principis expeditionem composita carmina, Rotterdam 1688. <ptr type="gbv" cRef="147543789"/></note>
+            </p>
+            <p>
+               <lb/><note type="contemporary" place="margin-right">Mart.</note>
+               <lb/>D. <date when="1689-03-03">3 Mertz</date> bin ich zur einer
+               <lb/>Begräbnüß invitiret worden <add place="above">bey</add> welcher
+               <lb/>folgende ceremonien bey <unclear reason="eccentric_ductus">vorfielen</unclear>.
+               <lb/>erstlich wurde die leichpredigt <w lemma="gehalten">ge-
+               <lb/>halten</w>, hernach wurde ein gesang
+               <lb/>gesungen, und denn folgends die
+               <lb/><rs type="person" ref="#horn_anon_1">leiche</rs> weggetragen, vor der leiche
+               <lb/>wurde erst auf ein schwartz <w lemma="sammet">sam-
+               <lb/>met</w> küßen deß verstorbenen degen
+               <lb/>getragen, diesem folgte wieder ein
+               <lb/>cavallier mit eben ein solchem
+               <lb/>küßem, worauf der regiments stab
+               <lb/>lang, hierauf folgte noch eine solches
+               <lb/>küßen worauf daß Casquet gantz
+               <lb/>vergüldet lag, darauf wieder vor
+               <lb/>einem Obristen die lehenßfahne <w lemma="getragen">ge-
+               <lb/>tragen</w>, diesem folgte der General
+               <lb/>Wachmeister mit daß <unclear><w lemma="Haubtpanllier">Haubtpan-
+               <lb/>llier</w></unclear>, worauf die <rs type="person" ref="#horn_anon_1">leiche</rs>, welche
+               <lb/>schwartz und mit silbernen Platten
+               <lb/>ringsherum besetzet war, von 12.
+               <lb/>Leutenanß und Fendrichs getragen.
+               <lb/>Darauf wurden die 16 ahnen von
+               <lb/>mütterlicher und vätterlicher Seite hinterhergetragen.
+               <pb facs="#mss_89-blank_00192" n="95v" />
+               <lb/>wie der <rs type="person" ref="#svebilius_olof">bischoff</rs> nach hiesigem
+               <lb/>gebrauch die erste schauffel mit
+               <lb/>außen auf den Sark geworffen,
+               <lb/>wurden 8. 6. <choice><abbr>℔</abbr><expan>Pfund</expan></choice> Stücke loßgebrennt,
+               <lb/>hierauf wurde gesungen, auf welches
+               <lb/>der Segen gesprochen ward, nach
+               <lb/>endigung deßelben, sich abermahl
+               <lb/>8. canon schüße hören liesen. Der
+               <lb/>verstorbene war ein obrister <w lemma="gewesen">gewe:
+               <lb/>sen</w> und <del>hieß</del> war vom <rs type="person" ref="#horn_familie">geschlecht
+               <lb/><del>ein</del> Horn</rs>.
+               <lb/>Wie die Ceremonie vorbey, fuhr
+               <lb/>ich mit dem <rs type="person" ref="#schweden_karl_xi">Könige</rs> nach hoffe.
+               <lb/>Alwo ich den abend zur Taffel
+               <lb/>blieb.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-03-07">7. Marti</date> bin ich mit dem
+               <lb/><rs type="person" ref="#schleswig-holstein-gottorf_friedrich_iv">Printzen von Gottorff</rs> bey der
+               <lb/><rs type="person" ref="#lillie_maria_elisabeth">Gräfin Lilien</rs> zu gaste gewesen,
+               <lb/>es wurde alda vor der <w lemma="mahlzeit">mahl-
+               <lb/>zeit</w> gespielet und verlohr ich auf
+               <lb/>50. rd.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-03-09">9.</date> dieses, bekam ich von <rs type="person" ref="#bilau_anon_1">M<hi rend="superscript">r</hi> 
+               <lb/>Bilau</rs> folgendes zusehen.
+               <lb/><cit><quote>Curiosa observatio
+               <lb/>Inter Reges <rs type="place" ref="#frankreich_koenigreich">Galliæ</rs> qui ex <rs type="person" ref="#kapetinger_dynastie">linea
+               <lb/>Capetiana</rs>, per sex secula huc
+               <lb/><choice><abbr>usq&#x0292;</abbr><expan>usque</expan></choice> regnarunt, constat septimum
+               <lb/><choice><abbr>quemq&#x0292;</abbr><expan>quemque</expan></choice> ab hostibus captum fuisse
+               <lb/>qui numerus modernum Regem
+               <lb/>ordine tangit.
+               <pb facs="#mss_89-blank_00193" n="96r"/>            
+                  <lb/>Reges
+                  <lb/><rs type="place" ref="#frankreich_koenigreich">Galliæ</rs> 43. <rs type="person" ref="#frankreich_ludwig_ix">Ludovicus IX.</rs> sanctus, captus à saracenis,
+                  <lb/>cum <rs type="person" ref="#frankreich_alfons">Alphonso</rs> et <rs type="person" ref="#frankreich_karl">Carolo</rs> fratribus, Aō = 1200.<note type="footnote" resp="mg">Irrtum Ludwig Rudolfs: Ludwig IX. von Frankreich wurde nicht 1200, sondern 1250 auf einem Kreuzzug in Ägypten gefangengenommen.</note>
+                  <lb/>44. <rs type="person" ref="#frankreich_philipp_iii">Philippus III.</rs>
+                  <lb/>45. <rs type="person" ref="#frankreich_philipp_iv">Philippus IV.</rs>
+                  <lb/>46. <rs type="person" ref="#frankreich_ludwig_x">Ludovicus X.</rs>
+                  <lb/>57. <rs type="person" ref="#frankreich_philipp_v">Philippus V.</rs>
+                  <lb/>48. <rs type="person" ref="#frankreich_karl_iv">Carolus IV.</rs>
+                  <lb/>49. <rs type="person" ref="#frankreich_philipp_vi">Philippus VI.</rs>
+                  <lb/>50. <rs type="person" ref="#frankreich_johann_ii">Johannes <choice><sic>I.</sic><corr>II.</corr></choice></rs> Captus ab <rs type="person" ref="#england_eduard">Eduardo</rs>, <rs type="person" ref="#england_eduard_iii">Eduardi III Regis
+                     <lb/>Angliæ</rs> filio Aō 1356.
+                  <lb/>51. <rs type="person" ref="#frankreich_karl_v">Carolus. V.</rs>
+                  <lb/>52. <rs type="person" ref="#frankreich_karl_vi">Carolus. VI.</rs>
+                  <lb/>53. <rs type="person" ref="#frankreich_karl_vii">Carolus. VII.</rs>
+                  <lb/>54. <rs type="person" ref="#frankreich_ludwig_xi">Ludovicus. XI.</rs>
+                  <lb/>55. <rs type="person" ref="#frankreich_karl_viii">Carolus. VIII.</rs>
+                  <lb/>56. <rs type="person" ref="#frankreich_ludwig_xii">Ludovicus. XII.</rs>
+                  <lb/>57. <rs type="person" ref="#frankreich_franz_i">Franciscus I.</rs> Captus in pugna <rs type="place" ref="#ticino_river">Ticinensi</rs> auspiciis <rs type="person" ref="#habsburg_karl_v">Caroli
+                     <lb/>V. Imp. Romani.</rs> A<hi rend="superscript">o</hi> 1525.
+                  <lb/>58. <rs type="person" ref="#frankreich_heinrich_ii">Henricus II.</rs>
+                  <lb/>59. <rs type="person" ref="#frankreich_franz_ii">Franciscus.</rs>
+                  <lb/>60. <rs type="person" ref="#frankreich_karl_ix">Carolus IX.</rs>
+                  <lb/>61. <rs type="person" ref="#frankreich_heinrich_iii">Henricus III.</rs>
+                  <lb/>62. <rs type="person" ref="#frankreich_heinrich_iv">Henricus IV.</rs>
+                  <lb/>63. <rs type="person" ref="#frankreich_ludwig_xiii">Ludovicus XIII.</rs>
+                  <lb/>64. <rs type="person" ref="#frankreich_ludwig_xiv">Ludovicus XIV.</rs> auspiciis <rs type="person" ref="#habsburg_leopold">Leopoldi</rs> vicendus forsan
+                  <lb/>et captivandus
+                  <lb/><hi rend="center">nam</hi>
+                  <lb/>Ludit in humanis divina potentia rebus
+                  <lb/><hi rend="center">et</hi>
+                  <lb/><rs type="person" ref="#frankreich_ludwig_xiv">Ludovicus Magnus</rs> brevi SpatJo fIet parVus.</quote></cit>
+            </p>
+            <pb facs="#mss_89-blank_00194" n="96v" />
+            <p>
+               <lb/>Eben denselbigen tag, bin ich
+               <lb/>bey dem beruhmten mahler, <rs type="person" ref="#kloecker_ehrenstrahl_david">ehren-
+               <lb/>stral</rs> gewesen, wie auch bey den
+               <lb/>Bataillen mahler<note type="footnote" resp="mg">Nicht identifiziert.</note>. Er der erste hatte
+               <lb/>unter anderm stücken fertig, die
+               <lb/>Crönung der <rs type="person" ref="#schweden_ulrika_eleonora">regierenden Königin</rs>
+               <lb/>in lebenßgröße, den <rs type="person" ref="#schweden_karl_xi">König</rs> zu <w lemma="Pferde">Pfer-
+               <lb/>de</w> wie ers ist in der <rs type="place" ref="#lund">Lundischen</rs>
+               <lb/>bataille gewesen und noch viel
+               <lb/>andere stüke mehr.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-03-16">16.</date> bin ich mit den <rs type="person" ref="#schleswig-holstein-gottorf_friedrich_iv">Printzen
+               <lb/>von Hohlstein</rs> auf den eiß bis
+               <lb/>nach <rs type="place" ref="#karlberg_schloss">Carlsberg</rs> gefahren, welches ein
+               <lb/>Lusthauß ist, so der <rs type="person" ref="#schweden_ulrika_eleonora">regierenden
+               <lb/>Königin</rs> zukommet. Es ist ein sehr
+               <lb/>artiges Hauß und wohl sehens
+               <lb/>wehrt.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-03-18">18. dieses</date>, bin ich mit dem
+               <lb/><rs type="person" ref="#schweden_karl_xi">König</rs> im schlitten auf der
+               <lb/>Lux Jagt gewesen.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-03-19">19.</date> Jst der schluß von
+               <lb/>dem reichstage gehalten worden,
+               <lb/>welcher nicht über 5. wochen ge-
+               <lb/>dauert. Er wurde in den
+               <lb/>so genanten Ritter Saal gehal-
+               <lb/>ten, und waret die Ordnung so
+               <lb/>darbey in acht genommen wurden
+               <lb/><add place="margin-left">wie</add> sehr artig die bäncke werden
+               <lb/>folgender weiße gestellet.<note type="annotation" resp="mg">Es folgt auf der nächsten Seite eine schematische Zeichnung der Anordnung der Bänke im Rittersaal zum Reichstag. Sie kann im folgenden nur in ihren textuellen Anteilen wiedergegeben werden, deren Anordnung sich so weit wie möglich nach der Zeichnung richtet.</note>
+               <pb facs="#mss_89-blank_00195" n="97r" />
+               <table rows="6" cols="3">
+                  <row role="data" n="1">
+                     <cell role="data">
+                        der <rs type="person" ref="#schweden_ulrika_eleonora">Königin</rs>
+                        <lb/>ihr Balcon.
+                     </cell>
+                     <cell role="data"/>
+                     <cell role="data"/>
+                  </row>
+                  <row role="data" n="2">
+                     <cell role="data"/>
+                     <cell role="data">
+                        Der <rs type="person" ref="#schweden_karl_xi"><w lemma="König">Kö
+                        <lb/>nig</w></rs>.
+                     </cell>
+                     <cell role="data"/>
+                  </row>
+                  <row role="data" n="3">
+                     <cell role="data">
+                        <table rows="5" cols="1">
+                           <row role="data" n="1">
+                              <cell role="data">
+                                 <hi rend="right">
+                                    Damen von
+                                    <lb/>der <rs type="person" ref="#schweden_ulrika_eleonora">Königin</rs>.
+                                 </hi>
+                              </cell>
+                           </row>
+                           <row role="data" n="2">
+                              <cell role="data">
+                                 Die drey Classes der <rs type="org" ref="#schweden_ritterschaft">ritterschaft</rs>.
+                              </cell>                              
+                           </row>
+                           <row role="data" n="3">
+                              <cell role="data">
+                                 Grafen und Freyherren                                 
+                              </cell>
+                           </row>
+                           <row role="data" n="4">
+                              <cell role="data">
+                                 Derer Vätter sich um der Cron <unclear reason="illegible">merites</unclear> gemacht haben.
+                              </cell>
+                           </row>
+                           <row role="data" n="5">
+                              <cell role="data">Die Krieges dienste verwalten.<note type="annotation" resp="mg">Schrift von "Damen..." bis "...verwalten" um 90° gegen den Uhrzeigersinn gedreht.</note></cell>
+                           </row>
+                        </table>
+                     </cell>
+                     <cell role="data">
+                        Der Königlichen rähte ihre
+                        <lb/>Sitze.<note type="annotation" resp="mg">Schrift um 90° gegen den Uhrzeigersinn gedreht.</note>
+                     </cell>
+                     <cell role="data">
+                        Der <rs type="org" ref="#schweden_geistlicher_stand">geistlichen</rs> 3. bäncke.<note type="annotation" resp="mg">Schrift um 90° gegen den Uhrzeigersinn gedreht.</note>
+                     </cell>
+                  </row>
+                  <row role="data" n="4"> 
+                     <cell role="data">Die Noblesse<note type="annotation" resp="mg">Schrift um 90° gegen den Uhrzeigersinn gedreht.</note></cell>
+                     <cell role="data"/>
+                     <cell role="data">Die <rs type="org" ref="#schweden_bauernstand">bauern</rs> &amp; <rs type="org" ref="#schweden_buergerstand">bürger</rs>.<note type="annotation" resp="mg">Schrift um 90° gegen den Uhrzeigersinn gedreht.</note></cell>
+                  </row>
+                  <row role="data" n="5">
+                     <cell role="data">Die <rs type="person" ref="#schweden_ulrika_eleonora_2 #schleswig-holstein-gottorf_hedwig_sophia">beyden Printzeßin</rs>.</cell>
+                     <cell role="data"/>
+                     <cell role="data"/>
+                  </row>
+                  <row role="data" n="5">
+                     <cell role="data"/>
+                     <cell role="data">
+                        Allerhand damen auß
+                        <lb/>der <rs type="place" ref="#stockholm">stadt</rs>.
+                     </cell>
+                     <cell role="data"/>
+                  </row>
+               </table>
+            </p>
+            <pb facs="#mss_89-blank_00196" n="97v"/>
+            <p>
+               <lb/>Die Ceremonien so darbey ver-
+               <lb/>gingen, waren folgende,
+               <list>
+                  <item>
+                     <lb/>1. taht der <rs type="person" ref="#gyldenstolpe_nils">landmarschall</rs> in nahmen
+                     <lb/>der <rs type="org" ref="#schweden_ritterschaft">ritterschafft</rs> an den <rs type="person" ref="#schweden_karl_xi">König</rs> eine
+                     <lb/>oration, welchen der <rs type="person" ref="#svebilius_olof">Ertzbischoff</rs>, der
+                     <lb/><rs type="person" ref="#cameen_daniel">bürgermeister</rs> und <rs type="person" ref="#jonsson_bjaerke_gudmund">Dahlmann</rs>, auch nach
+                     <lb/>kamen. Der reichsmarschall, <rs type="person" ref="#stenbock_johan_gabriel">Graff <w lemma="Steinbock">Stein-
+                        <lb/>bock</w></rs>, führete Sie alle noch vor den <rs type="person" ref="#schweden_karl_xi"><w lemma="König">Kö-
+                     <lb/>nig</w></rs> und widerum weg.
+                  </item>
+                  <item>
+                     <lb/>2. bedankete sich der <rs type="person" ref="#oxenstierna_bengt">Graff Bent <w lemma="oxenstirne">oxen-
+                        <lb/>stirn</w></rs> in <del>d</del> nahmen deß <rs type="person" ref="#schweden_karl_xi">Königes</rs>, <del><unclear reason="eccentric_ductus">den</unclear></del> 
+                     <lb/><del>d</del> inßgesamt an den <rs type="org" ref="#schweden_bauernstand #schweden_buergerstand #schweden_geistlicher_stand #schweden_ritterschaft">4. Ständen</rs>,
+                  </item>
+                  <item>
+                     <lb/>3. Wurde der Recess, öffentlich <w lemma="verlesen">ver-
+                        <lb/>lesen</w>, welcher dem <rs type="person" ref="#schweden_karl_xi">König</rs> sehr lieb wahr
+                     <lb/>anzuhören, denn er in derselben 14
+                     <lb/>Tonnen goldes zur hebe bekam.
+                  </item>
+                  <item>
+                     <lb/>4. Küßeten dem <rs type="person" ref="#schweden_karl_xi">Könige</rs> die <rs type="person" ref="#gyldenstolpe_nils #svebilius_olof #cameen_daniel #stenbock_johan_gabriel"><add place="above">4</add> <del>ver</del> <w lemma="obgedachten">ob-
+                     <lb/>gedachten</w></rs> die Hand, und wurde also
+                     <lb/>der reichstag geschloßen.
+                  </item>
+               </list>
+               <lb/>Es <subst><del>tahten</del><add place="above">legten</add></subst> auch zu gleicher zeit 4 königl.
+               <lb/>rähte<note type="footnote" resp="mg">Nicht identifiziert.</note> an den <rs type="person" ref="#schweden_karl_xi">König</rs> den eidt ab,
+               <lb/>welcher Ihnen von dem <rs type="person" ref="#oxenstierna_bengt">Graff Bent
+               <lb/>oxenstiren</rs> vorgelesen wurde, Sie
+               <lb/>knieten auf 4. Sammete küßen vor
+               <lb/>ihm nieder, Und nach abgelegten eidt
+               <lb/>küßeten Sie dem König die Hand.
+            </p>
+            <pb facs="#mss_89-blank_00197" n="98r"/>
+            <p>
+               <lb/>Der <rs type="person" ref="#schweden_karl_xi">König</rs> hat einen sehr schönen
+               <lb/>rock an so über und über gesticket 
+               <lb/>ward. Der Thron war von Silber.
+               <lb/>Darauf Er saß.
+            </p>
+            <p>
+               <lb/>Ich war bey der <rs type="person" ref="#schweden_ulrika_eleonora">Königin</rs> mit
+               <lb/>dem <rs type="person" ref="#schleswig-holstein-gottorf_friedrich_iv">Prinzen von Gottorff</rs> und
+               <lb/>sahe zu.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-03-21">21.</date> bekam ich zu lesen fol-
+               <lb/>gende verse.
+               <lb/><cit><quote><rs type="person" ref="#stuart_james_francis_edward">Walliæ Princeps</rs>.
+                  <lb/>Si <rs type="person" ref="#petre_edward">Petrum</rs> implesset <rs type="person" ref="#mazarin_jules">Mazarini</rs> spiritus, <rs type="place" ref="#england_koenigreich">Anglis</rs>
+                  <lb/>Tunc fierem, <rs type="place" ref="#frankreich_koenigreich">Gallis</rs> qui <rs type="person" ref="#frankreich_ludwig_xiv">Ludovicus</rs> erat.
+                  <lb/>Le <rs type="person" ref="#stuart_james_francis_edward">Prince de Galles</rs>.
+                  <lb/>Le <rs type="person" ref="#petre_edward">Pere Peters</rs>, si savant et si fin
+                  <lb/>Eut eu L'Esprit de <rs type="person" ref="#mazarin_jules">Mazarin</rs>,
+                  <lb/>J'aurois chés Les <rs type="place" ref="#england_koenigreich">Anglois</rs> une semblable gloire
+                  <lb/>A celle de <rs type="person" ref="#frankreich_ludwig_xiv">Louis</rs>; dont nous parle L'histoire.</quote></cit><note type="footnote" resp="mg">Zitat aus: [Joachim Feller]: Pasquyns historie van de werelt op het jaer 1688, Amsterdam 1689, S. 35. <ptr type="gbv" cRef="137297688"/></note>
+            </p>
+            <p>
+               <lb/>D. <date when="1689-03-27">27.</date> bin ich mit den <rs type="person" ref="#schleswig-holstein-gottorf_friedrich_iv">Prinzen
+                  <lb/>von Gottorff</rs> nach <rs type="place" ref="#ulriksdal_schloss">Ulricsthal</rs> bey
+               <lb/>der <rs type="person" ref="#schweden_hedwig_eleonora">verwibten Königin</rs> gewesen,
+               <lb/>alwo Sie gemeiniglich die Marter=wo<add place="above">c</add>he
+               <lb/><unclear reason="illegible">über</unclear><note type="annotation" resp="mg">Durch Tintenfleck teilweise unleserlich.</note> passirt.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-03-29">29.</date> bin ich bey <rs type="person" ref="#brenner_elias">Brenner</rs> gewe-
+               <lb/>sen und habe sein Cabinet besehen
+               <lb/>welches von lauteren medaillen und
+               <lb/>munzen angefüllet ist, an seiner
+               <lb/>profession ist er ein mahler
+               <lb/>und mahlet en miniature überaus wohl.
+            </p>
+            <pb facs="#mss_89-blank_00198" n="98v"/>
+            <p>
+               <lb/><note type="contemporary" place="margin_left">April.</note> D. <date when="1689-04-06">6. April</date> habe ich mit dem
+               <lb/><rs type="person" ref="#schleswig-holstein-gottorf_friedrich_iv">Prinzen von Gottorff</rs> <rs type="person" ref="#karlsteen_arvid">Carlstein</rs> sein
+               <lb/>cabinet besehen welches sehr schöne ist.
+               <lb/>Er ist von profession ein Medailler
+               <lb/>und hat von allerhand artigen sachen.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-04-07">7.</date> besahen wir zusammen
+               <lb/>die rustkammer, in welcher unter
+               <lb/>anderm, daß Pferd worauf der
+               <lb/><rs type="person" ref="#schweden_gustav_ii_adolf">König Gustaphus Adolphus</rs> erschoßen
+               <lb/>Sein hembden und Koller wie
+               <lb/>auch Hoßen so <subst><del>d</del><add place="inline">e</add></subst>r<note type="annotation" resp="mg">"d" durch Überschreiben zu "e" verbessert.</note> damahls <w lemma="angehabt">ange-
+               <lb/>habt</w>, zusehen seindt. Sonsten sind noch
+               <lb/>die decken so die <rs type="person" ref="#schweden_christina">Königin <w lemma="Christina">Christi-
+               <lb/>na</w></rs> bey ihrer Crönung auf die
+               <lb/>Pferde und in die Carosse <w lemma="gebrauchet">ge-
+               <lb/>brauchet</w>, wie auch die von bey der
+               <lb/><rs type="person" ref="#schweden_ulrika_eleonora">jetzigen Königinnen</rs>, und welche
+               <lb/>der <rs type="person" ref="#frankreich_ludwig_xiv">König von Franckreich</rs> zum
+               <lb/>præsent an den <rs type="person" ref="#schweden_karl_xi">jitzigen Könige</rs>
+               <lb/>überschicket. Wie auch die von
+               <lb/><rs type="place" ref="#spanien_koenigreich">Spanien</rs>. Welche alle überauß
+               <lb/>schön seindt, zusehen.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-04-08">8.</date> bin ich nach <rs type="place" ref="#uppsala">Upsal</rs> die
+               <lb/>post gelauffen zu Pferde logiret in
+               <lb/><rs type="person" ref="#leiman_anon_1">Leimans</rs> <rs type="person" ref="#leiman_anon_2">Wittfrauen</rs> hause.
+            </p>
+            <p>
+               <lb/>D. <date when="1689-04-09">9.</date> besahen wir ersten daß
+               <lb/>königliche schloß daselbsten, es ist
+               <lb/>absonderlich daß contor<note type="footnote" resp="mg">Meint hier den Kunstschrank, den Philipp Hainhofer in den 1620er Jahren fertigen ließ. Er wurde von der Stadt Augsburg im April 1632 König Gustav II. Adolf von Schweden geschenkt, als dieser in die Reichsstadt einzug. Vgl. Über Philipp Hainhofer, in: Michael Wenzel (Hrsg.): Philipp Hainhofer. Reiseberichte &amp; Sammlungsbeschreibungen 1594–1636. Edition und Datensammlung zur Kunst- und Kulturgeschichte der ersten Hälfte des 17. Jahrhunderts, Wolfenbüttel 2020-2024, <ref target="https://hainhofer.hab.de/informationen-zur-edition/ueber-philipp-hainhofer">https://hainhofer.hab.de/informationen-zur-edition/ueber-philipp-hainhofer</ref>.</note> so <subst><del>d</del><add place="inline">i</add></subst>n<note type="annotation" resp="mg">"d" durch Überschreiben zu "i" verbessert.</note>
+               <lb/>eineß von den Apartements stehet
+               <lb/>sehr hübsch, und gantz mit steinen <w lemma="eingeleget">ein-
+               <lb/>geleget</w>, inwendig seind lauter <w lemma="schubladen">schub-
+               <lb/>laden</w>, welche alle voll raritheten
+               <lb/>seindt. Es <subst><del>wird</del><add place="above">hat</add></subst> auf 18 000 rd.
+               <pb facs="#mss_89-blank_00199" n="99r"/>            
+               <lb/>wehrt gekostet, und ist dem
+               <lb/><rs type="person" ref="#schweden_gustav_ii_adolf">Könige Gustapho Adolpho</rs> zum præsent
+               <lb/>von der Stadt <rs type="place" ref="#augsburg">Augsburg</rs> überschicket
+               <lb/>worden.
+            </p>
+            <p>
+               <lb/>Von dar gingen wir hin nach
+               <lb/>der Kirche, in welcher die Könige
+               <lb/>gekrönt werden. Sie ist fast so
+               <lb/>lang, wie d<subst><del>ie</del><add place="inline">er</add></subst><note type="annotation" resp="mg">"ie" durch Überschreiben zu "er" verbessert.</note> <subst><del>Dom</del><add place="above">Kirche in der</add></subst> Cartause zu
+               <lb/><rs type="place" ref="#pavia">Pavie</rs> und besahen wir darinnen
+               <lb/>1. Den Abgott <rs type="person" ref="#thor">Dora</rs>, so vor dießen
+               <lb/>von v<note type="annotation" resp="mg">Vermutlich irrtümliches, zu tilgendes "v" geschrieben.</note> den <rs type="org" ref="#goten_stamm">Gothen</rs> und <rs type="org" ref="#wandalen_stamm">Wenden</rs> ist <w lemma="angebetet">ange-
+               <lb/>betet</w> worden,
+               <lb/><rs type="person" ref="#daenemark_margaretha_i">Margarethæ</rs> Mantel so Sie der
+               <lb/><rs type="person" ref="#schweden_albrecht">König Albrecht von Schweden</rs> hat verehret
+               <lb/>wie auch der wetzstein <add place="above">so auch von demselbigen</add> und die fahne
+               <lb/>welche Sie ihme hat wieder geschicket.
+               <lb/>Den Mantel hat Sie angehabt, wie
+               <lb/>Sie <add place="above">ihn</add> hat überwunden.
+               <lb/>Der <rs type="person" ref="#schweden_katharina">Königin Catharinæ</rs> ihr grab,
+               <lb/>über welches eine silberne kron
+               <lb/>stekt welche eineß großen wehrts ist.
+               <lb/>Um daß Grab zu ihren füßen
+               <lb/>stehen noch folgende worte.
+               <lb/><hi rend="center"><ref type="biblical" cRef="Apc_14,13">Apocalip: XIII. <cit><quote>Beati mortui
+               <lb/>etc.</quote></cit></ref></hi>
+               <lb/>Deß <rs type="person" ref="#schweden_gustav_i">Königeß Gustaphi 1.</rs> sein Mausoleum,
+               <lb/>Er lieget oben gantz geharnischt zwischen
+               <lb/>seinem zween Gemahlinnen, <rs type="person" ref="#schweden_margareta"><w lemma="Margarehta">Marga-
+                  <lb/>rehta</w></rs> und <rs type="person" ref="#schweden_katharina_2">Catharina</rs> inne <add type="marign_right">Diese <subst><del>verse</del><add place="above">worte</add></subst> sind ihnen <lb/>zuen füßen zulesen. <lb/><cit><quote><ref type="biblical" cRef="Sir_7,40">Memorare novissima et in æternum <lb/>non peccabis</ref></quote></cit></add>
+               <lb/>deß <rs type="person" ref="#schweden_johann_iii">Königeß Johannes <choice><sic>1</sic><corr>III</corr></choice>.</rs> seineß.
+               <lb/><rs type="person" ref="#schweden_erik_ix">St. Erics</rs> gebeine, welche in einem
+               <lb/>silbernen sarge aufbehalten werden.
+               <lb/>Deß <choice><abbr>Stus</abbr><expan>Sanctus</expan></choice> seine Kleidungen wie auch
+               <lb/>sein hembde in welche Er von Könige
+               <lb/>Eric den Tyrannem<note type="footnote" resp="mg">Irrtum Ludwig Rudolphs: König Erik IX. (der Heilige) von Schweden wurde angeblich von <rs type="person" ref="#schweden_magnus_ii">Magnus Henriksson</rs> getötet, der nach ihm von 1160 bis 1161 als König Magnus II. Schweden regierte. Ein König Erik von Schweden, der den Beinamen "der Tyrann" oder ein ähnliches Epitheton führte, ließ sich nicht ermitteln.</note> erstochen ist.
+            </p>
+            <pb facs="#mss_89-blank_00200" n="99v"/>
+            <p>
+               <lb/>Außer <rs type="place" ref="#uppsala">Upsal</rs> ist denckwürdig zu
+               <lb/>sehen.
+               <lb/><rs type="place" ref="#gamla_uppsala">Alt Upsal</rs>, alwo die Alten heydnischen
+               <lb/>Könige residiret.
+               <lb/>Der platz wo Sie ihre ritterspiele
+               <lb/>getrieben. +<note type="annotation" resp="mg">Vermutlich ein Verweiszeichen, zu dem die entsprechende Ergänzung nicht ausgeführt wurde.</note> 
+               <lb/>Die drey brunnen wobey Sie <w lemma="geopfert">geopf-
+               <lb/>fert</w>.
+               <lb/>Und dem nach ein alter Tempel
+               <lb/>welcher vor diesen gantz mit golte
+               <lb/>soll überzogen gewesen seyn. Er
+               <lb/>ist recht in quadrat gebauet, und ist
+               <lb/>der Tempel <rs type="person" ref="#janus">Jani</rs> zu <rs type="place" ref="#rom">Romm</rs> nach
+               <lb/>ihme gemachet worden. Anjtzo ist
+               <lb/>eß eine Cristliche Kirche, und ist
+               <lb/>noch waß daran gebauet. <rs type="person" ref="#schweden_inge_i">König
+               <lb/>Ingo</rs> hat ihn verbrennen laßen
+               <lb/>wie Er wieder zum reiche<note type="footnote" resp="mg">Hier: Herrschaft.</note> <w lemma="kommen">kom-
+               <lb/>men</w>, wovon ihn sein <rs type="person" ref="#schweden_sven">Bruder</rs><note type="footnote" resp="mg">Bei dem hier gemeinten König Sven, auch Blot-Sven (d. h. Opfer-Sven) genannt, soll es sich um den Schwager, nicht den Bruder König Inges I. gehandelt haben. Seine tatsächliche Existenz ist allerdings umstritten.</note> verstoßen.
+               <lb/>Die Mauern aber sindt stehen blieben.
+               <lb/>Sonsten sind ein hauffen gräber
+               <lb/>zu sehen, welche wann man sie
+               <lb/>aufgrabet mann noch alte Urna
+               <lb/>und gewehr findet. Jch habe <w lemma="dergleichen">der-
+               <lb/>gleichen</w> Töpfe bey <rs type="person" ref="#rudbeck_olof_d_ae">H. Rebecchio</rs>
+               <lb/>gesehen, welcher aldar Professor ist
+               <lb/>Und ist daß denckwürdig daß <w lemma="nachdem">nach-
+               <lb/>dem</w> die leute gewesen Sie auch
+               <lb/>gewehr bey sich gehabt haben, alß
+               <lb/>ein Soldat ein schwert, ein <del>sch</del>
+               <lb/>ritter ein paar sporn. Ein
+               <lb/>Pilote oder schiffmann, einen schiff
+               <lb/>nägel und so weiter.<note type="annotation" resp="mg">Neben dem Text befinden sich Zeichnungen der erwähnten Grabbeigaben.</note>
+            </p>
+            <p>
+               <lb/>D. <date when="1689-04-10">10.</date> sind wir wieder <w lemma="abgereiset">ab-
+               <lb/>gereiset</w> und um 4 uhr deß abends
+               <lb/>zum <rs type="place" ref="#stockholm">Stockholm</rs> angelanget.
+            </p>
+            <pb facs="#mss_89-blank_00201" n="100r"/>
+            <p>
+               <lb/>D. <date when="1689-04-12">12.</date> hat mir <rs type="person" ref="#bilau_anon_1">M<hi rend="superscript">r</hi> Bilau</rs> fol-
+               <lb/>gendes gewiesen.
+               <lb/>Liste des vaisseaus du <rs type="person" ref="#schweden_karl_xi">Roy</rs>. 1689.
+               <table rows="23" cols="4">
+                  <row role="label" n="1">
+                     <cell role="label">Vaisseaus.</cell>
+                     <cell role="label">Canons.</cell>
+                     <cell role="label">Vaisseaus.</cell>
+                     <cell role="label">Canons.</cell>
+                  </row>
+                  <row n="2" role="data">
+                     <cell role="data">Carolus.</cell>
+                     <cell role="data">90.</cell>
+                     <cell role="data">Gotland.</cell>
+                     <cell role="data">50.</cell>
+                  </row>
+                  <row n="3" role="data">
+                     <cell role="data">Sverige.</cell>
+                     <cell role="data">84.</cell>
+                     <cell role="data">Oeland.</cell>
+                     <cell role="data">50.</cell>
+                  </row>
+                  <row n="4" role="data">
+                     <cell role="data"><unclear reason="illegible">G</unclear>öta.<note type="annotation" resp="mg">Durch Tintenfleck teilweise unmleserlich</note></cell>
+                     <cell role="data">84.</cell>
+                     <cell role="data">Estland.</cell>
+                     <cell role="data">50.</cell>
+                  </row>
+                  <row n="5" role="data">
+                     <cell role="data">Wenden.</cell>
+                     <cell role="data">84.</cell>
+                     <cell role="data">halland.</cell>
+                     <cell role="data">50.</cell>
+                  </row>
+                  <row n="6" role="data">
+                     <cell role="data">Victoria.</cell>
+                     <cell role="data">80.</cell>
+                     <cell role="data">Skonen.</cell>
+                     <cell role="data">50.</cell>
+                  </row>
+                  <row n="7" role="data">
+                     <cell role="data">Carlscron.</cell>
+                     <cell role="data">80.</cell>
+                     <cell role="data">halfmånhen.</cell>
+                     <cell role="data">50.</cell>
+                  </row>
+                  <row n="8" role="data">
+                     <cell role="data">Småland.</cell>
+                     <cell role="data">80.</cell>
+                     <cell role="data">Spes.</cell>
+                     <cell role="data">50.</cell>
+                  </row>
+                  <row n="9" role="data">
+                     <cell role="data">Ulrica.</cell>
+                     <cell role="data">80.</cell>
+                     <cell role="data">Andromeda.</cell>
+                     <cell role="data">48.</cell>
+                  </row>
+                  <row n="10" role="data">
+                     <cell role="data">Prince Carl.</cell>
+                     <cell role="data">80.</cell>
+                     <cell role="data">Ph&#x153;nix.</cell>
+                     <cell role="data">40.</cell>
+                  </row>
+                  <row n="11" role="data">
+                     <cell role="data">Hedwig Sophia.</cell>
+                     <cell role="data">80.</cell>
+                     <cell role="data">Stenbock.</cell>
+                     <cell role="data">38.</cell>
+                  </row>
+                  <row n="12" role="data">
+                     <cell role="data">Bahuus.</cell>
+                     <cell role="data">74.</cell>
+                     <cell role="data">Amalia.</cell>
+                     <cell role="data">36.</cell>
+                  </row>
+                  <row n="13" role="data">
+                     <cell role="data">Jupiter.</cell>
+                     <cell role="data">74.</cell>
+                     <cell role="data">Riga.</cell>
+                     <cell role="data">34.</cell>
+                  </row>
+                  <row n="14" role="data">
+                     <cell role="data">Solehn.</cell>
+                     <cell role="data">74.</cell>
+                     <cell role="data">Stralsund.</cell>
+                     <cell role="data">34.</cell>
+                  </row>
+                  <row n="15" role="data">
+                     <cell role="data">Wrangel.</cell>
+                     <cell role="data">74.</cell>
+                     <cell role="data">Delfin.</cell>
+                     <cell role="data">26.</cell>
+                  </row>
+                  <row n="16" role="data">
+                     <cell role="data">Hedwig Eleonore.</cell>
+                     <cell role="data">66.</cell>
+                     <cell role="data">Rugen.</cell>
+                     <cell role="data">26.</cell>
+                  </row>
+                  <row n="17" role="data">
+                     <cell role="data">Bleking.</cell>
+                     <cell role="data">66.</cell>
+                     <cell role="data">Fama.</cell>
+                     <cell role="data">18.</cell>
+                  </row>
+                  <row n="18" role="data">
+                     <cell role="data">Finland.</cell>
+                     <cell role="data">64.</cell>
+                     <cell role="data">Giägael.</cell>
+                     <cell role="data">18.</cell>
+                  </row>
+                  <row n="19" role="data">
+                     <cell role="data">Hercules.</cell>
+                     <cell role="data">54.</cell>
+                     <cell role="data">Swan.</cell>
+                     <cell role="data">18.</cell>
+                  </row>
+                  <row n="20" role="data">
+                     <cell role="data">Wismar.</cell>
+                     <cell role="data">54.</cell>
+                     <cell role="data">Carlsham.</cell>
+                     <cell role="data">16.</cell>
+                  </row>
+                  <row n="21" role="data">
+                     <cell role="data">Wachtmeister.</cell>
+                     <cell role="data">50.</cell>
+                     <cell role="data">Castor.</cell>
+                     <cell role="data">16.</cell>
+                  </row>
+                  <row n="22" role="data">
+                     <cell role="data">Lijtland.</cell>
+                     <cell role="data">50.</cell>
+                     <cell role="data">Neptunus.</cell>
+                     <cell role="data">16.</cell>
+                  </row>
+                  <row n="23" role="data">
+                     <cell role="data">Oesel.</cell>
+                     <cell role="data">50.</cell>
+                     <cell role="data"></cell>
+                     <cell role="data"></cell>
+                  </row>
+               </table>               
+               <lb/>Outre ces 43. Vaisseaus il y a encore 9. brulots. 12. autres
+               <lb/>vaisseaus portant chacun 14. pieces de canon; et 6. vaisseaus de
+               <lb/>munition, le tout faisant 70. voiles. et c'est là la flotte du <rs type="person" ref="#schweden_karl_xi">Roy</rs>.
+               <lb/>Sur la guerre on mettra 12 500. matelots. 600. soldats de marine. 1200.
+               <lb/>officiers y compris les subalternes. et avec cela 2. regimes d'infanterie.
+            </p>
+            <pb facs="#mss_89-blank_00202" n="100v"/>
+            <p>
+               <lb/>Hierauf bekahmen wir ordre daß
+               <lb/>wir solten wegreysen, welches
+               <lb/>wir denn auch darauf als bald
+               <lb/>tahten, dar dann der <rs type="person" ref="#schweden_karl_xi">König</rs>
+               <lb/>mir die gnade erwiese und
+               <lb/>mich sein portrait schenkete so
+               <lb/>en medaille und mit diamanten
+               <lb/>sehr schöne beziehret warn, und
+               <lb/>nachdem ich meinen abschied von
+               <lb/>ihme genommen wie auch von
+               <lb/><rs type="person" ref="#schweden_ulrika_eleonora #schweden_hedwig_eleonora">beyden Königinnen</rs>, reysete ich
+               <lb/>fort mit <rs type="person" ref="#imhoff_rudolph_christian">Mons<hi rend="superscript">r</hi> Imhoff</rs> und dem
+               <lb/><rs type="person" ref="#karl_friedrich">Cammerdiener</rs>, <rs type="person" ref="#jettebrock_rudolph_friedrich #behm_heinrich_julius #campen_ludolf #heinrich_1">unsere leute</rs> aber
+               <lb/>blieben noch etliche tage stille liegen
+               <lb/>und warteten auf den wind, weil
+               <lb/>Sie zu schiffe bis nach <rs type="place" ref="#luebeck">Lübeck</rs> gingen
+               <lb/>wir aber nahmen den landweg
+               <lb/>und gingen auf <rs type="place" ref="#karlskrona">Carlscron</rs> zu, aldar
+               <lb/>wir von dem <rs type="person" ref="#wachtmeister_hans">general Admiral <w lemma="Wachtmeister">Wacht
+               <lb/>meister</w></rs> sehr wohl empfangen wurden,
+               <lb/>welcher unß auch nach abgelegter
+               <lb/>vieler Höfflichkeit zwey schiffe <add place="above">von der</add> <add place="margin_left">flotte</add> gabe
+               <lb/>nemlich Wachtmeister und Castor
+               <lb/>auf welchen wir denn die <rs type="place" ref="#ostsee">Ostsee</rs>
+               <lb/>durchstreiften, und kamen nach 3. tagen
+               <lb/>zu <rs type="place" ref="#rostock">Rostock</rs> glücklich an, von dar <w lemma="gingen">gin-
+                  <lb/>gen</w> wir zu wagen bis nach <rs type="place" ref="#luebeck">Lübeck</rs>
+               <lb/>alwo wir denn durch ein <w lemma="sonderbahres">son-
+                  <lb/>derbahres</w> Glück u<rs type="person" ref="#jettebrock_rudolph_friedrich #behm_heinrich_julius #campen_ludolf #heinrich_1">nsere andern
+               <lb/>leute</rs> wiederzusehen bekamen, die
+               <lb/>eine halbe stunde nach unß daselbsten
+               <lb/>anlangten. Von dar nahmen
+               <lb/>wir unseren weg auf <rs type="place" ref="#hamburg">Hamburg</rs> zu, 
+               <lb/>alwo ich den <rs type="person" ref="#braunschweig-wolfenbuettel_rudolph_august">Hertzog Rudolff</rs> <w lemma="antraff">an-
+               <lb/>traff</w> welcher darmahls eben dar
+               <lb/>war um die <rs type="place" ref="#holstein_herzogtum">Holsteinischen</rs>
+               <pb facs="#mss_89-blank_00203" n="101r"/>
+               <lb/>sache <subst><del><unclear reason="illegible">gut</unclear></del><add place="inline">zu</add></subst><note type="annotation" resp="mg">"gut[?]" durch Überschreiben zu "zu" verbessert.</note> einen glücklichen
+               <lb/>ende zubringen. Und haben wir
+               <lb/>also unseren reyse mit gottes
+               <lb/>hülffe glücklich abgeleget hat<note type="annotation" resp="mg">Überflüssiges "hat" ist zu tilgen.</note>, auf
+               <lb/>welcher wir nur 4. Monat, haben
+               <lb/>zugebracht. Und weil ich die ordre
+               <lb/>habe mich nach <rs type="place" ref="#bremen">Brehmen</rs> zuverfügen
+               <lb/>dem aldar <del>dem</del> meinem <rs type="person" ref="#braunschweig-wolfenbuettel_anton_ulrich">H. Vattern</rs>
+               <lb/>aufzuwarten, und weitere ordre
+               <lb/>zuentfangen, so nahm ich meinen
+               <lb/>weg flugst darauf zu, welchen ich
+               <lb/>denn Gott sey gedanckt in guter
+               <lb/>gesuntheit antraffe, und nach <w lemma="abgelegter">abge-
+               <lb/>legter</w> aufwartung bey meiner <rs type="person" ref="#braunschweig-wolfenbuettel_elisabeth_juliane">Frau
+               <lb/>Mutter</rs> zu <rs type="place" ref="#benkhausen">Benthausen</rs> so den Drost
+               <lb/><rs type="person" ref="#muennich_henrich">Münnich</rs> zukömbt, trate ich meine
+               <lb/>reyse nach <rs type="place" ref="#niederlande_vereinigte">Holland</rs> wiederum an,
+               <lb/>dar ich denn in durchreysen
+               <lb/>durch <rs type="place" ref="#ostfriesland_grafschaft">Ostfrisland</rs> zum andern mahl
+               <lb/>mit den pocken überfallen wurde,
+               <lb/>und blieb ich deßwegen an dem
+               <lb/><rs type="place" ref="#ostfriesland_grafschaft">ostfrisischen</rs> hoff zu <rs type="place" ref="#aurich">Aurich</rs> 7. gantzer
+               <lb/>wochen stille liegen, nach endigung
+               <lb/>derselbigen ich denn nach <rs type="place" ref="#nijmegen">Nimwegen</rs>
+               <lb/>reysete alwo ich den <rs type="person" ref="#krosigk_bernhard_friedrich">H. Mareschall 
+               <lb/>Croseck</rs> mit meiner mechtigen equipagie
+               <lb/>zur campagne erwartete, welcher
+               <lb/>denn <del>nach</del> acht Tage darauf zu unß
+               <lb/>kam, und mit unß erst nach <rs type="place" ref="#bonn">Bonn</rs>
+               <lb/>hernach aber nach <rs type="place" ref="#flandern_grafschaft">Flandren</rs> zu der
+               <lb/><rs type="place" ref="#niederlande_vereinigte">Hollandischen</rs> Armée ging welche <add place="above">Campagne</add> wie
+               <lb/>sie seye abgelauffen ich an einen
+               <lb/>andern ohrt berichtet habe. Und
+               <lb/>so weit gehet unsere reyse den
+               <lb/>nach endigung derselben seind wir
+               <lb/>wieder nach <rs type="place" ref="#wolfenbuettel">Wolfenbüttel</rs> gegangen
+               <lb/>alwo wir in Monat <date when="1689-10">Octobre</date> seind
+               <lb/>angelanget.
+               <lb/><hi rend="center">Finis</hi><note type="footnote" resp="mg">Die folgenden Blätter enthalten in einer Art Anhang Tabellen über die Stärke der schwedischen Regimenter (fol. <ref target="http://diglib.hab.de/mss/89-blank/start.htm?image=00204">101v-104r</ref>) und einen Bericht über die Organisation der Landmiliz unter König Karl XI. von Schweden (fol. <ref target="http://diglib.hab.de/mss/89-blank/start.htm?image=00211">105r-107r</ref>). Da diese Dokumente nicht zum eigentlichen Reisebericht gehören, wurden sie nicht mit transkribiert.</note>
+            </p>            
+         </div>
+      </body>
+   </text>
+</TEI>
