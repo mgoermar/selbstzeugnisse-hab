@@ -102,6 +102,9 @@
                 <place xml:id="benfeld">
                     <placeName ref="https://www.geonames.org/3033488/benfeld.html">Benfeld</placeName>
                 </place>
+                <place xml:id="benkhausen">
+                    <placeName ref="https://www.geonames.org/2951061/benkhausen.html">Benkhausen</placeName>
+                </place>
                 <place xml:id="bensheim">
                     <placeName ref="https://www.geonames.org/2950978/bensheim.html">Bensheim</placeName>
                 </place>
@@ -114,6 +117,9 @@
                 <place xml:id="biorckholm">
                     <placeName>Biorckholm</placeName>
                     <note>Ein kleiner Ort im heutigen Südschweden, zwischen Linköping und Norrköping gelegen. Nicht näher identifizierbar.</note>
+                </place>
+                <place xml:id="bonn">
+                    <placeName ref="https://www.geonames.org/2946447/bonn.html">Bonn</placeName>
                 </place>
                 <place xml:id="bornheim">
                     <placeName ref="https://www.geonames.org/2946108/bornheim.html">Bornheim</placeName>
@@ -144,6 +150,9 @@
                 </place>
                 <place xml:id="breisgau">
                     <placeName ref="https://www.geonames.org/2944797/breisgau.html">Breisgau</placeName>
+                </place>
+                <place xml:id="bremen">
+                    <placeName ref="https://www.geonames.org/2944388/bremen.html">Bremen</placeName>
                 </place>
                 <place xml:id="broye_river">
                     <placeName ref="https://www.geonames.org/2661376/broye.html">Broye, Fluss</placeName>
@@ -467,6 +476,9 @@
                 <place xml:id="karlberg_schloss">
                     <placeName ref="https://d-nb.info/gnd/120025502X">Karlberg, Schloss</placeName>
                 </place>
+                <place xml:id="karlskrona">
+                    <placeName ref="https://www.geonames.org/2701713/karlskrona.html">Karlskrona</placeName>
+                </place>
                 <place xml:id="kaschubei">
                     <placeName ref="https://d-nb.info/gnd/4284575-0">Kaschubei (Kaszuby)</placeName>
                 </place>
@@ -647,6 +659,9 @@
                 </place>
                 <place xml:id="niederlande_vereinigte">
                     <placeName ref="https://d-nb.info/gnd/5210337-7">Niederlande, Vereinigte (Republik der Sieben Vereinigten Provinzen)</placeName>
+                </place>
+                <place xml:id="nijmegen">
+                    <placeName ref="https://www.geonames.org/2750053/nijmegen.html">Nijmegen</placeName>
                 </place>
                 <place xml:id="nissaryd"><!--s. auch https://www.openstreetmap.org/node/886171600-->
                     <placeName ref="https://www.wikidata.org/wiki/Q31897387">Nissaryd</placeName>

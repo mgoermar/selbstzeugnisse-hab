@@ -230,6 +230,23 @@
                 <person xml:id="braunschweig-lueneburg_christian_ludwig">
                     <persName ref="https://d-nb.info/gnd/102117977" type="display">Braunschweig-Lüneburg, Christian Ludwig, Herzog von</persName>
                 </person>
+                <person xml:id="braunschweig-wolfenbuettel_anton_ulrich">
+                    <persName ref="https://d-nb.info/gnd/118503472" type="display">Braunschweig-Wolfenbüttel, Anton Ulrich, Herzog von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sz2" target="http://selbstzeugnisse.hab.de/sz2/personen#braunschweig-wolfenbuettel_anton_ulrich"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="braunschweig-wolfenbuettel_elisabeth_juliane">
+                    <persName ref="http://d-nb.info/gnd/104183772" type="display">Braunschweig-Wolfenbüttel, Elisabeth Juliane, Herzogin von, geb. Herzogin von Schleswig-Holstein-Sonderburg-Norburg</persName>
+                    <persName type="birthName">Schleswig-Holstein-Sonderburg-Norburg, Elisabeth Juliane, Herzogin von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sz2" target="http://selbstzeugnisse.hab.de/sz2/personen#braunschweig-wolfenbuettel_elisabeth_juliane"/>
+                        </bibl>
+                    </listBibl>
+                </person>
                 <person xml:id="braunschweig-wolfenbuettel_heinrich_julius">
                     <persName ref="https://d-nb.info/gnd/118709887" type="display">Braunschweig-Wolfenbüttel, Heinrich Julius, Herzog von</persName>
                 </person>
@@ -239,6 +256,14 @@
                         <bibl>
                             <ptr type="ndb" target="https://www.deutsche-biographie.de/gnd137965168.html#ndbcontent"/>
                             <ptr type="adb" target="https://www.deutsche-biographie.de/gnd137965168.html#adbcontent"/>
+                        </bibl>
+                    </listBibl>
+                </person>
+                <person xml:id="braunschweig-wolfenbuettel_rudolph_august">
+                    <persName ref="https://d-nb.info/gnd/116678909" type="display">Braunschweig-Wolfenbüttel, Rudolph August, Herzog von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sz2" target="http://selbstzeugnisse.hab.de/sz2/personen#braunschweig-wolfenbuettel_rudolph_august"/>
                         </bibl>
                     </listBibl>
                 </person>
@@ -372,7 +397,7 @@
                 <person xml:id="cranach_lucas">
                     <persName type="display" ref="https://d-nb.info/gnd/118522582">Cranach, Lucas (d. Ä.)</persName>
                 </person>
-                <person xml:id="cratz_von_scharfenstein_hugo_everhard">
+                <person xml:id="cratz_scharfenstein_hugo_everhard">
                     <persName ref="https://d-nb.info/gnd/124664180" type="display">Cratz (Graf) von Scharfenstein, Hugo Everhard</persName>
                     <persName>Worms, Hugo Everhard, Bischof von</persName>
                     <listBibl>
@@ -415,10 +440,10 @@
                     </listBibl>
                 </person>
                 <person xml:id="daenemark_christian_1">
-                    <persName ref="https://d-nb.info/gnd/11945064X">Christian (1), Prinz von Dänemark und Norwegen</persName>
+                    <persName ref="https://d-nb.info/gnd/11945064X" type="display">Christian (1), Prinz von Dänemark und Norwegen</persName>
                 </person>
                 <person xml:id="daenemark_christian_2">
-                    <persName ref="https://www.wikidata.org/wiki/Q3428532">Christian (2), Prinz von Dänemark und Norwegen</persName>
+                    <persName ref="https://www.wikidata.org/wiki/Q3428532" type="display">Christian (2), Prinz von Dänemark und Norwegen</persName>
                 </person>
                 <person xml:id="daenemark_christian_i">
                     <persName ref="https://d-nb.info/gnd/12939159X" type="display">Christian I., König von Dänemark, Norwegen und Schweden</persName>
@@ -453,7 +478,7 @@
                     <persName type="display" ref="https://d-nb.info/gnd/119127326">Harald (Blauzahn), König von Dänemark</persName>
                 </person>
                 <person xml:id="daenemark_karl">
-                    <persName ref="https://d-nb.info/gnd/1027128939">Karl, Prinz von Dänemark und Norwegen</persName>
+                    <persName ref="https://d-nb.info/gnd/1027128939" type="display">Karl, Prinz von Dänemark und Norwegen</persName>
                 </person>
                 <person xml:id="daenemark_margaretha_i">
                     <persName type="display" ref="https://d-nb.info/gnd/118975927">Margaretha I., Königin von Dänemark, Norwegen und Schweden</persName>
@@ -561,6 +586,9 @@
                 </person>
                 <person xml:id="frankreich_franz_i">
                     <persName type="display" ref="https://d-nb.info/gnd/118534947">Franz I., König von Frankreich</persName>
+                </person>
+                <person xml:id="frankreich_franz_ii">
+                    <persName type="display" ref="https://d-nb.info/gnd/119077647">Franz II., König von Frankreich</persName>
                 </person>
                 <person xml:id="frankreich_heinrich_ii">
                     <persName type="display" ref="https://d-nb.info/gnd/118548166">Heinrich II., König von Frankreich</persName>
@@ -986,6 +1014,14 @@
                         </bibl>
                     </listBibl>
                 </person>
+                <person xml:id="krosigk_bernhard_friedrich">
+                    <persName ref="http://d-nb.info/gnd/124837565" type="display">Krosigk, Bernhard Friedrich von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sz2" target="http://selbstzeugnisse.hab.de/sz2/personen#krosigk_bernhard_friedrich"/>
+                        </bibl>
+                    </listBibl>
+                </person>
                 <person xml:id="kruse_vibeke">
                     <persName ref="https://d-nb.info/gnd/133558940" type="display">Kruse, Vibeke</persName>
                     <listBibl>
@@ -1010,7 +1046,7 @@
                     <persName type="display">La Jacquière, N. N.</persName>
                     <note>Literarische Gestalt in François de Rossets "Les Histoires mémorables et tragiques de nostre temps" (1614); danach ein Stadtleutnant, der in Lyon vom Teufel in Gestalt einer schönen Frau verführt wurde.</note>
                 </person>
-                <person xml:id="langeguet_heinrich">
+                <person xml:id="langeguet_heinrich"> <!--evtl. Heinrich Langenbeck? > https://de.wikipedia.org/wiki/Heinrich_Langenbeck_(Politiker,_1603)-->
                     <persName type="display">Langeguet, Heinrich</persName>
                     <note>Um 1658 Bewohner von Frankfurt am Main.</note>
                 </person>
@@ -1061,8 +1097,8 @@
                     <persName type="display" ref="https://www.wikidata.org/wiki/Q5950991">Liewen, Bernhard von</persName>
                 </person>
                 <person xml:id="lillie_maria_elisabeth">
-                    <persName type="display" ref="https://www.wikidata.org/wiki/Q4989787">Lillie, Maria Elisabeth, Gräfin</persName>
-                    <persName type="display" ref="https://www.wikidata.org/wiki/Q4989787">Stenbock, Maria Elisabeth, Gräfin</persName>
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q4989787">Lillie, Maria Elisabeth, Gräfin, geb. Gräfin Stenbock</persName>
+                    <persName type="birthName">Stenbock, Maria Elisabeth, Gräfin</persName>
                 </person>
                 <person xml:id="lincken_anon_1">
                     <persName type="display">Lincken, N. N.</persName>
@@ -1150,6 +1186,14 @@
                 </person>
                 <person xml:id="morell_julienne">
                     <persName type="display" ref="https://d-nb.info/gnd/123078245">Morell, Julienne</persName>
+                </person>
+                <person xml:id="muennich_henrich">
+                    <persName type="display">Münnich, Henrich von</persName>
+                    <listBibl>
+                        <bibl>
+                            <ptr type="sz2" target="http://selbstzeugnisse.hab.de/sz2/personen#muennich_henrich"/>
+                        </bibl>
+                    </listBibl>
                 </person>
                 <person xml:id="mueth_christian">
                     <persName type="display">Mueth, Christian</persName>
@@ -1385,6 +1429,9 @@
                 <person xml:id="roskilde_wilhelm">
                     <persName type="display" ref="https://www.wikidata.org/wiki/Q9374558">Roskilde, Wilhelm, Bischof von</persName>
                 </person>
+                <person xml:id="rudbeck_olof_d_ae">
+                    <persName type="display" ref="https://d-nb.info/gnd/119265532">Rudbeck, Olof (der Ältere)</persName>
+                </person>
                 <person xml:id="sachs_johann_melchior">
                     <persName ref="https://d-nb.info/gnd/124715079" type="display">Sachs, Johann Melchior</persName>
                 </person>
@@ -1509,12 +1556,24 @@
                 <person xml:id="schweden_christina">
                     <persName ref="https://d-nb.info/gnd/118520652" type="display">Christina, Königin von Schweden</persName>
                 </person>
+                <person xml:id="schweden_erik_ix">
+                    <persName ref="https://d-nb.info/gnd/123232201" type="display">Erik IX. (der Heilige), König von Schweden</persName>
+                </person>
+                <person xml:id="schweden_gustav_i">
+                    <persName type="display" ref="https://d-nb.info/gnd/118699431">Gustav I., König von Schweden</persName>
+                </person>
                 <person xml:id="schweden_gustav_ii_adolf">
                     <persName type="display" ref="https://d-nb.info/gnd/118543733">Gustav II. Adolf, König von Schweden</persName>
                 </person>
                 <person xml:id="schweden_hedwig_eleonora">
                     <persName type="display" ref="https://d-nb.info/gnd/115616276">Hedwig Eleonora, Königin von Schweden</persName>
                     <persName type="birthName">Schleswig-Holstein-Gottorf, Hedwig Eleonora, Herzogin von</persName>
+                </person>
+                <person xml:id="schweden_inge_i">
+                    <persName ref="https://www.wikidata.org/wiki/Q375309" type="display">Inge I., König von Schweden</persName>
+                </person>
+                <person xml:id="schweden_johann_iii">
+                    <persName ref="https://d-nb.info/gnd/122841999" type="display">Johann III., König von Schweden</persName>
                 </person>
                 <person xml:id="schweden_karl_gustav">
                     <persName ref="https://d-nb.info/gnd/118720945" type="display">Karl X. Gustav, König von Schweden</persName>
@@ -1529,6 +1588,24 @@
                 </person>
                 <person xml:id="schweden_karl_xii">
                     <persName ref="https://d-nb.info/gnd/118560123" type="display">Karl XII., König von Schweden</persName>
+                </person>
+                <person xml:id="schweden_katharina">
+                    <persName type="display" ref="https://d-nb.info/gnd/135566967">Katharina (Jagiellonika), Königin von Schweden, geb. Prinzessin von Polen</persName>
+                    <persName type="birthName">Katharina (Jagiellonika), Prinzessin von Polen</persName>
+                </person>
+                <person xml:id="schweden_katharina_2">
+                    <persName type="display" ref="https://d-nb.info/gnd/137979533">Katharina, Königin von Schweden, geb. Herzogin von Sachsen-Lauenburg</persName>
+                    <persName type="birthName">Sachsen-Lauenburg, Katharina, Herzogin von</persName>
+                </person>
+                <person xml:id="schweden_magnus_ii">
+                    <persName ref="https://d-nb.info/gnd/126123989X" type="display">Magnus II. Henriksson, König von Schweden</persName>
+                </person>
+                <person xml:id="schweden_margareta">
+                    <persName type="display" ref="https://d-nb.info/gnd/1130878465">Margareta, Königin von Schweden, geb. Löwenhaupt</persName>
+                    <persName type="birthName">Löwenhaupt, Margareta Eriksdotter</persName>
+                </person>
+                <person xml:id="schweden_sven">
+                    <persName ref="https://www.wikidata.org/wiki/Q640407" type="display">Sven (Blot-Sven), König von Schweden</persName>
                 </person>
                 <person xml:id="schweden_ulrika_eleonora">
                     <persName type="display" ref="https://d-nb.info/gnd/119550660">Ulrika Eleonora, Königin von Schweden</persName>
@@ -1645,6 +1722,9 @@
                             <ptr type="wikipedia" target="https://fr.wikipedia.org/wiki/Balthazar_de_Villars"/>
                         </bibl>
                     </listBibl>
+                </person>
+                <person xml:id="wachtmeister_hans">
+                    <persName type="display" ref="https://d-nb.info/gnd/1120531519">Wachtmeister, Hans, Graf zu Johannishus</persName>
                 </person>
                 <person xml:id="wagener_familie">
                     <persName type="display">Wagener, Familie</persName>

@@ -43,7 +43,7 @@
                <lb/><rs type="person" ref="#heinrich_1">Heinrich</rs>. wie Laquei.
             </p>
             <p>
-               <lb/><subst><del>D</del><add place="inline">N</add></subst>achdeme<note type="annotation" resp="mg">"D" zu "N" verbessert.</note> wir nun zwischen <rs type="place" ref="#braunschweig">Braunschweig</rs>
+               <lb/><subst><del>D</del><add place="inline">N</add></subst>achdeme<note type="annotation" resp="mg">"D" durch Überschreiben zu "N" verbessert.</note> wir nun zwischen <rs type="place" ref="#braunschweig">Braunschweig</rs>
                <lb/>und <rs type="place" ref="#hamburg">Hamburg</rs> 3. Tage zu gebracht, kamen
                <lb/>wir d. <date when="1689-01-12">12. hujus.</date> aldar an. Wir <w lemma="Logierten">Lo-
                <lb/>gierten</w> bey einem Kaufmann mit nahmen
@@ -179,8 +179,8 @@
                <lb/><rs type="person" ref="#gyldenlove_ulrich_friedrich">Güldenlöve</rs>.
             </p>
             <p>
-               <lb/>D. <date when="1689-01-30">30.</date> bey <rs type="person" ref="reventlow_conrad">Rebenclau</rs> den abend
-               <lb/><subst><del>D. 3</del><add type="inline">Darauf</add></subst><note type="annotation" resp="mg">"D. 3" zu "Darauf" verbessert durch Überschreiben.</note> wurde wieder ein Ball
+               <lb/>D. <date when="1689-01-30">30.</date> bey <rs type="person" ref="#reventlow_conrad">Rebenclau</rs> den abend
+               <lb/><subst><del>D. 3</del><add type="inline">Darauf</add></subst><note type="annotation" resp="mg">"D. 3" durch Überschreiben zu "Darauf" verbessert.</note> wurde wieder ein Ball
                <lb/>gehalten <del>bey dem</del> in seinem Hause
             </p>
             <p>
@@ -204,7 +204,7 @@
                <lb/>gesehen zu werden. Absonderlich daß
                <lb/>Appartement welches mit lautern <w lemma="Portraiten">Portrai-
                <lb/>ten</w> von Königen ist angefüllet, vnd
-               <lb/>fänget sich die re<subst><del>h</del><add place="inline">y</add></subst>he<note type="annotation" resp="mg">"h" zu "y" verbessert durch Überschreiben.</note> von <rs type="person" ref="#daenemark_christian_i">Christ. 1.</rs>
+               <lb/>fänget sich die re<subst><del>h</del><add place="inline">y</add></subst>he<note type="annotation" resp="mg">"h" durch Überschreiben zu "y" verbessert.</note> von <rs type="person" ref="#daenemark_christian_i">Christ. 1.</rs>
                <lb/>bis auf den jitzigen <rs type="person" ref="#daenemark_christian_v">Christ. V.</rs>
                <lb/>welcher mit seinen <rs type="person" ref="#daenemark_friedrich_iv #daenemark_christian_2 #daenemark_karl">3. ältesten Printzen</rs>
                <pb facs="#mss_89-blank_00185" n="92r" />
@@ -268,7 +268,7 @@
                <lb/>D. <date when="1689-02-07">7.</date> auß <rs type="place" ref="#joenkoeping">Jencköpin</rs> durch <rs type="place" ref="#reaby">Rabi</rs>
                <lb/><rs type="place" ref="#graenna">Grena</rs>, alhier kamen wir in daß
                <lb/><rs type="place" ref="#oestergoetland">Oster=Gohtland</rs>.
-               <lb/><rs type="place" ref="#holkaberg"><subst><del>K</del><add place="inline">H</add></subst>oltenberg</rs><note type="annotation" resp="mg">'K' durch Überschreiben zu "H" verbessert.</note>, <rs type="place" ref="#utsche">Utsche</rs>, bis deß nachtes
+               <lb/><rs type="place" ref="#holkaberg"><subst><del>K</del><add place="inline">H</add></subst>oltenberg</rs><note type="annotation" resp="mg">"K" durch Überschreiben zu "H" verbessert.</note>, <rs type="place" ref="#utsche">Utsche</rs>, bis deß nachtes
                <lb/>zu <rs type="place" ref="#usta">Usta</rs>.
             </p>
             <p>
@@ -283,7 +283,7 @@
                <lb/>nachtes zu <rs type="place" ref="#nykoeping">Nicöping</rs>.
             </p>
             <p>
-               <lb/>D. <date when="1689-02-10">10.</date> durch <rs type="place" ref="#schwaelbro">Schwälbroo</rs>, <rs type="place" ref="#aby_kroock">Aby Kroock</rs>
+               <lb/>D. <date when="1689-02-10">10.</date> durch <rs type="place" ref="#schwaelbroo">Schwälbroo</rs>, <rs type="place" ref="#aby_kroock">Aby Kroock</rs>
                <lb/>mittages geßen. <rs type="place" ref="#wielbrack">Wielbroek</rs> <rs type="place" ref="#soedertaellje">Suderstellje</rs>
                <lb/>zu nachte.
             </p>
@@ -1020,7 +1020,7 @@
                <lb/>zu <rs type="place" ref="#rostock">Rostock</rs> glücklich an, von dar <w lemma="gingen">gin-
                   <lb/>gen</w> wir zu wagen bis nach <rs type="place" ref="#luebeck">Lübeck</rs>
                <lb/>alwo wir denn durch ein <w lemma="sonderbahres">son-
-                  <lb/>derbahres</w> Glück u<rs type="person" ref="#jettebrock_rudolph_friedrich #behm_heinrich_julius #campen_ludolf #heinrich_1">nsere andern
+                  <lb/>derbahres</w> Glück <rs type="person" ref="#jettebrock_rudolph_friedrich #behm_heinrich_julius #campen_ludolf #heinrich_1">unsere andern
                <lb/>leute</rs> wiederzusehen bekamen, die
                <lb/>eine halbe stunde nach unß daselbsten
                <lb/>anlangten. Von dar nahmen
