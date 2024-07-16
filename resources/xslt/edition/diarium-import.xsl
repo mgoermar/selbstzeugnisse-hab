@@ -101,28 +101,52 @@
             <div class="facet">
                 <div class="facetWrap">
                     <h1>Schnellauswahl</h1>
-                    <xsl:if test="starts-with(ancestor::tei:TEI/@xml:id,'sz2.')">
+                    <xsl:if test="starts-with(ancestor::tei:TEI/@xml:id,'sz2.') or starts-with(ancestor::tei:TEI/@xml:id,'grand_tour')">
                         <form>
                             <label for="pages">Seite/Blatt: </label>
                             <select name="pages" id="pages" onchange="window.location.hash = value;">
                                 <xsl:for-each select="descendant::tei:pb">
-                                    <option value="{@n}"><xsl:value-of select="@n"/></option>
+                                    <xsl:choose>
+                                        <xsl:when test="not(@n)">
+                                            <option value="{//tei:facsimile/tei:graphic[concat('#',@xml:id)=current()/@facs]/@n}"><xsl:value-of select="//tei:facsimile/tei:graphic[concat('#',@xml:id)=current()/@facs]/@n"/></option>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <option value="{@n}"><xsl:value-of select="@n"/></option>
+                                        </xsl:otherwise>
+                                    </xsl:choose>                                    
                                 </xsl:for-each>
                             </select>
                         </form>
                     </xsl:if>                    
-                    <xsl:if test="descendant::tei:date">
+                    <xsl:if test="descendant::tei:date[string-length(@when)=10]">
                         <form>
                             <label for="dates">Datum: </label>
                             <select name="dates" id="dates" onchange="window.location.hash = value;">
-                                <xsl:for-each select="descendant::tei:date">
+                                <xsl:for-each select="descendant::tei:date[string-length(@when)=10]">
                                     <xsl:sort select="@when"/>
+                                    <xsl:variable name="pagenumber">
+                                        <xsl:choose>
+                                            <xsl:when test="preceding::tei:pb[1][@n]">
+                                                <xsl:value-of select="preceding::tei:pb[1]/@n"/>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <xsl:value-of select="//tei:facsimile/tei:graphic[concat('#',@xml:id)=current()/preceding::tei:pb[1]/@facs]/@n"/>                                                
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </xsl:variable>                                    
                                     <xsl:choose>
                                         <xsl:when test="@when=preceding::tei:date/@when or @when=following::tei:date/@when">
-                                            <option value="{concat(@when,'_',preceding::tei:pb[1]/@n)}"><xsl:value-of select="concat(substring(@when,9,2),'.',substring(@when,6,2),'.',substring(@when,1,4),' (S. ',preceding::tei:pb[1]/@n,')' )"/></option>
+                                            <xsl:choose>
+                                                <xsl:when test="@calendar='gregorian'">
+                                                    <option value="{concat(@when,'_gregorian','_',$pagenumber)}"><xsl:value-of select="concat(substring(@when,9,2),'.',substring(@when,6,2),'.',substring(@when,1,4), ' n. St.',' (S. ',$pagenumber,')' )"/></option>
+                                                </xsl:when>
+                                                <xsl:otherwise>
+                                                    <option value="{concat(@when,'_',$pagenumber)}"><xsl:value-of select="concat(substring(@when,9,2),'.',substring(@when,6,2),'.',substring(@when,1,4),' (S. ',$pagenumber,')' )"/></option>
+                                                </xsl:otherwise>
+                                            </xsl:choose>                                            
                                         </xsl:when>
                                         <xsl:otherwise>
-                                            <option value="{concat(@when,'_',preceding::tei:pb[1]/@n)}"><xsl:value-of select="concat(substring(@when,9,2),'.',substring(@when,6,2),'.',substring(@when,1,4))"/></option>
+                                            <option value="{concat(@when,'_',$pagenumber)}"><xsl:value-of select="concat(substring(@when,9,2),'.',substring(@when,6,2),'.',substring(@when,1,4))"/></option>
                                         </xsl:otherwise>
                                     </xsl:choose>
                                     
@@ -183,9 +207,28 @@
     </xsl:template>
     
     <xsl:template match="tei:date">
-        <span style="font-weight: bold;" id="{concat(@when,'_',preceding::tei:pb[1]/@n)}">
-            <xsl:apply-templates/>
-        </span>        
+        <xsl:variable name="pagenumber">
+            <xsl:choose>
+                <xsl:when test="preceding::tei:pb[1][@n]">
+                    <xsl:value-of select="preceding::tei:pb[1]/@n"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="//tei:facsimile/tei:graphic[concat('#',@xml:id)=current()/preceding::tei:pb[1]/@facs]/@n"/>                                                
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:choose>
+            <xsl:when test="@calendar='gregorian'">
+                <span style="font-weight: bold;" id="{concat(@when,'_gregorian','_',$pagenumber)}">
+                    <xsl:apply-templates/>
+                </span>
+            </xsl:when>
+            <xsl:otherwise>
+                <span style="font-weight: bold;" id="{concat(@when,'_',$pagenumber)}">
+                <xsl:apply-templates/>
+            </span>
+            </xsl:otherwise>
+        </xsl:choose>      
     </xsl:template>
     
     <xsl:template match="tei:ex">
@@ -595,7 +638,7 @@
     </xsl:template>
     
     <xsl:template match="text()[ancestor::tei:w]">
-        <xsl:value-of select="translate(normalize-space(),':','')"/>
+        <xsl:value-of select="translate(translate(normalize-space(),'-',''),':','')"/>
     </xsl:template>
     
     <xsl:template match="tei:del">
