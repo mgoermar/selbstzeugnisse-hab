@@ -705,7 +705,7 @@
                       <pb facs="#mss_267-1-extrav_00030"/>
                       <lb/>mit einschlagen wenn sie einem erhaschen, ma&#223;en
                       <lb/>mir der H. <rs type="person" ref="#olearius_adam" resp="spacy">Olearius</rs> referirte da&#223; auf der
-                      <lb/><rs type="place" ref="#perserreich" resp="spacy">Persianischen</rs> reise einer mit solcher Peitsche hinter
+                      <lb/><rs type="place" ref="#persien" resp="spacy">Persianischen</rs> reise einer mit solcher Peitsche hinter
                       <lb/>Jhm her gewesen, Jhm auch erwischet, wann nicht
                       <lb/>Jhre leute, Jhm ungefehr zu hulffe kommen
                       <lb/>weren; auch zeigete er mir seinen Rock
@@ -1166,8 +1166,8 @@
                       <pb facs="#mss_267-1-extrav_00048"/>
                       <lb/>hal&#223; fast rauch machet, vnd befinden sich <w lemma="dieJenigen">dieJeni
                       <lb/>gen</w> so hitzige leber woll darbey. Den <date when="1658-06-29">29. dito</date> <w lemma="reisete">rei:
-                      <lb/>sete</w> ich weiter durch 2 kleine st&#228;dte al&#223; <rs type="place" ref="#minde"><hi rend="underline">Minde</hi></rs>
-                      <lb/>vnd da&#223; ander <rs type="place" ref="#muende" resp="spacy"><hi rend="underline">M&#252;nde</hi></rs> <!--Beide Orte, Minde und Münde müssten Ortsteile von Gemünden an der Wohra sein, beide gleich kodieren?--> auff der <rs type="place" ref="#wohra_river" resp="spacy">Worth</rs> bi&#223;
+                      <lb/>sete</w> ich weiter durch 2 kleine st&#228;dte al&#223; <hi rend="underline">Minde</hi><note type="footnote" resp="mg">Welchen Ort Wagener hier meint, ist nicht sicher zu ermitteln. Neben dem gleich genannten Gemünden (Wohra) gab es in der Nähe Marburgs auch noch etwas weiter südlich am Fluss Ohm die Orte Burg-Gemünden (früher auch: Gemünden an der Straße) und direkt benachbart Niedergemünden. Jedoch lagen diese beiden Orte nicht auf der mutmaßlichen Route Wageners von (Bad) Wildungen nach Marburg.</note>
+                      <lb/>vnd da&#223; ander <rs type="place" ref="#gemuenden_wohra"><hi rend="underline">M&#252;nde</hi> auff der Worth</rs> bi&#223;
                       <lb/>auff <rs type="place" ref="#marburg" resp="spacy"><hi rend="underline">Marpurg</hi></rs>. Diese stadt lieget gar lustig
                       <lb/>am berge vnd da&#223; Schlo&#223; so ziemblich fest auf
                       <lb/>dem berg, <add place="above">vnten</add> Jn der Stadt ist eine gar sch&#246;ne kirche
@@ -2289,7 +2289,7 @@
                       <lb/>halten</w>. Nachmittages nachdem wir vns vber den
                       <lb/>Flue&#223; <rs type="place" ref="#ain_river">D'AIN</rs>; hatten vbersetzen la&#223;en, hatten
                       <lb/>wir eben fals vnd zu beeden Seiten, schl&#246;&#223;er
-                      <lb/>eines <rs type="place" ref="#chastillonet">Chastillonet</rs> vnd da&#223; ander <rs type="place" ref="#chatillon-la-palud">Chastillon</rs>
+                      <lb/>eines <rs type="place" ref="#chastillonet">Chastillonet</rs> vnd da&#223; ander <rs type="place" ref="#chatillon-la-palude">Chastillon</rs>
                       <lb/>vnd ritten bi&#223; auff ein Dorff <rs type="place" resp="spacy" ref="#la_boisse"><hi rend="underline">La Boisse</hi></rs>
                       <lb/>nicht weit von dem st&#228;dchen <rs type="place" ref="#la_valbonne"><hi rend="underline">Verbonne</hi></rs>,
                       <lb/>vnd logirten wir in diesem d&#246;rff die nacht

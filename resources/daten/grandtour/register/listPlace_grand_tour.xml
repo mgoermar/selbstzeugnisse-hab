@@ -315,6 +315,9 @@
                 <place xml:id="gamla_uppsala">
                     <placeName ref="https://www.geonames.org/2712993/gamla-uppsala.html">Gamla Uppsala (Alt-Uppsala)</placeName>
                 </place>
+                <place xml:id="gemuenden_wohra">
+                    <placeName ref="https://d-nb.info/gnd/4610302-8">Gemünden (Wohra)</placeName>
+                </place>
                 <place xml:id="genf">
                     <placeName ref="https://www.geonames.org/2660646/geneve.html">Genf</placeName>
                 </place>
@@ -877,8 +880,11 @@
                 <place xml:id="stollhofen">
                     <placeName ref="https://www.geonames.org/2826555/stollhofen.html">Stollhofen</placeName>
                 </place>
-                <place xml:id="stolpe">
+                <place xml:id="stolp">
                     <placeName ref="https://www.geonames.org/3085450/slupsk.html">Stolpe (Słupsk)</placeName>
+                </place>
+                <place xml:id="stralsund">
+                    <placeName ref="https://www.geonames.org/2826287/stralsund.html">Stralsund</placeName>
                 </place>
                 <place xml:id="strassburg">
                     <placeName ref="https://www.geonames.org/2973783/strasbourg.html">Straßburg (Strasbourg)</placeName>
@@ -991,9 +997,6 @@
                 </place>
                 <place xml:id="winsen">
                     <placeName ref="https://www.geonames.org/6552157/winsen.html">Winsen</placeName>
-                </place>
-                <place xml:id="wohra_river">
-                    <placeName ref="https://www.geonames.org/2807004/wohra.html">Wohra, Fluss</placeName>
                 </place>
                 <place xml:id="wolfenbuettel">
                     <placeName ref="https://www.geonames.org/2806914/wolfenbuettel.html">Wolfenbüttel</placeName>
