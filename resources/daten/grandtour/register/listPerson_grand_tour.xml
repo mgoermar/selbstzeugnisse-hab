@@ -849,13 +849,11 @@
                     <persName type="display" ref="https://d-nb.info/gnd/142513296">Holzschuher (von Neuenbürg), Veit Georg</persName>
                 </person>
                 <person xml:id="horn_familie">
-                    <persName type="display" ref="https://www.wikidata.org/wiki/Q2493104">Horn, Familie</persName>
-                    <note>Finnisch-schwedisches Adelsgeschlecht.</note>
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q123594635">Horn af Marienborg, Familie</persName>
                 </person>
-                <person xml:id="horn_anon_1">
-                    <persName type="display">Horn, N. N.</persName>
-                    <death>1689</death>
-                    <note>Angehöriger des schwedischen Adelsgeschlechts Horn; zuletzt Obrist in Stockholm.</note>
+                <person xml:id="horn_evert">
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q29480445">Horn af Marienborg, Evert</persName>
+                    <note>Evert Horn af Marienborg starb zwar bereits 1687, wurde aber erst 1689 in Stockholm beerdigt.</note>
                 </person>
                 <person xml:id="imhoff_rudolph_christian">
                     <persName type="display" ref="http://d-nb.info/gnd/131463896">Imhoff, Rudolph Christian von</persName>

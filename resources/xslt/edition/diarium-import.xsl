@@ -344,8 +344,16 @@
                         <br/><xsl:apply-templates select="parent::tei:person/tei:note"/>
                     </xsl:if>                                    
                     <xsl:if test="parent::tei:person/tei:persName/@ref">
+                        <xsl:choose>
+                            <xsl:when test="parent::tei:person/tei:persName/@ref[contains(.,'gnd')]">
+                                <br/>GND: <a href="{parent::tei:person/tei:persName/@ref}" target="_blank"><xsl:value-of select="substring-after(parent::tei:person/tei:persName/@ref,'gnd/')"/></a>.
+                            </xsl:when>
+                            <xsl:when test="parent::tei:person/tei:persName/@ref[contains(.,'wikidata')]">
+                                <br/>Wikidata: <a href="{parent::tei:person/tei:persName/@ref}" target="_blank"><xsl:value-of select="substring-after(parent::tei:person/tei:persName/@ref,'wiki/')"/></a>.
+                            </xsl:when>
+                        </xsl:choose>
 <!--                        <br/>Weitere Informationen in der <a href="http://beaconfinder.mww-forschung.de/index.php?gnd={substring-after(parent::tei:person/tei:persName/@ref,'gnd/')}" target="_blank">MWW-Personensuche</a>.-->
-                        <br/>GND: <a href="{parent::tei:person/tei:persName/@ref}" target="_blank"><xsl:value-of select="substring-after(parent::tei:person/tei:persName/@ref,'gnd/')"/></a>.
+                        
                     </xsl:if>
                     <xsl:if test="parent::tei:person/tei:idno[contains(.,'gnd')]">
 <!--                        <br/>Weitere Informationen in der <a href="http://beaconfinder.mww-forschung.de/index.php?gnd={substring-after(parent::tei:person/tei:idno,'gnd/')}" target="_blank">MWW-Personensuche</a>.-->
@@ -396,7 +404,7 @@
                                 <br/>Weitere Informationen in der <a href="{parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@target}" target="_blank">Hessischen Biographie</a>.
                             </xsl:when>
                             <xsl:when test="parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@type='oehl'">
-                                <br/>Weitere Informationen in der <a href="{parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@target}" target="_blank">Ökumenischen Heiligenlexikon</a>.
+                                <br/>Weitere Informationen im <a href="{parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@target}" target="_blank">Ökumenischen Heiligenlexikon</a>.
                             </xsl:when>
                             <xsl:when test="parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@type='sbl'">
                                 <br/>Weitere Informationen im <a href="{parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@target}" target="_blank">Svenskt Biografiskt Lexikon</a>.
