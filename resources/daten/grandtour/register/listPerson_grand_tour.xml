@@ -852,8 +852,7 @@
                     <persName type="display" ref="https://www.wikidata.org/wiki/Q123594635">Horn af Marienborg, Familie</persName>
                 </person>
                 <person xml:id="horn_evert">
-                    <persName type="display" ref="https://www.wikidata.org/wiki/Q29480445">Horn af Marienborg, Evert</persName>
-                    <note>Evert Horn af Marienborg starb zwar bereits 1687, wurde aber erst 1689 in Stockholm beerdigt.</note>
+                    <persName type="display" ref="https://www.wikidata.org/wiki/Q29480445">Horn af Marienborg, Evert</persName>                    
                 </person>
                 <person xml:id="imhoff_rudolph_christian">
                     <persName type="display" ref="http://d-nb.info/gnd/131463896">Imhoff, Rudolph Christian von</persName>

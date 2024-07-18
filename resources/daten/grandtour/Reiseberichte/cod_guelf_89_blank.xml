@@ -430,7 +430,7 @@
                      <lb/><hi rend="rigth"><rs type="person" ref="#d_g">D. G.</rs></hi>
                      <lb/><hi rend="center">Fin.</hi>
                   </quote>
-               </cit><note type="footnote" resp="mg">Beide vorstehende Gedichte zitiert aus: In felicem Serenissimi Arausionensium Principis expeditionem composita carmina, Rotterdam 1688. <ptr type="gbv" cRef="147543789"/></note>
+               </cit><note type="footnote" resp="mg">Beide vorstehende Gedichte zitiert aus: In felicem Serenissimi Arausionensium Principis expeditionem composita carmina, Rotterdam 1688.<!-- <ptr type="gbv" cRef="147543789"/>--></note>
             </p>
             <p>
                <lb/><note type="contemporary" place="margin-right">Mart.</note>
@@ -440,7 +440,7 @@
                <lb/>erstlich wurde die leichpredigt <w lemma="gehalten">ge-
                <lb/>halten</w>, hernach wurde ein gesang
                <lb/>gesungen, und denn folgends die
-               <lb/><rs type="person" ref="#horn_evert">leiche</rs> weggetragen, vor der leiche
+               <lb/><rs type="person" ref="#horn_evert">leiche</rs><note type="footnote" resp="mg">Evert Horn af Marienborg starb zwar bereits am 25. Dezember 1687, wurde aber erst am 3. März 1689 in Stockholm beerdigt.</note> weggetragen, vor der leiche
                <lb/>wurde erst auf ein schwartz <w lemma="sammet">sam-
                <lb/>met</w> küßen deß verstorbenen degen
                <lb/>getragen, diesem folgte wieder ein
@@ -452,7 +452,7 @@
                <lb/>einem Obristen die lehenßfahne <w lemma="getragen">ge-
                <lb/>tragen</w>, diesem folgte der General
                <lb/>Wachmeister mit daß <unclear><w lemma="Haubtpanllier">Haubtpan-
-               <lb/>llier</w></unclear>, worauf die <rs type="person" ref="#horn_anon_1">leiche</rs>, welche
+                  <lb/>llier</w></unclear>, worauf die <rs type="person" ref="#horn_evert">leiche</rs>, welche
                <lb/>schwartz und mit silbernen Platten
                <lb/>ringsherum besetzet war, von 12.
                <lb/>Leutenanß und Fendrichs getragen.
@@ -701,7 +701,7 @@
                   <lb/>Le <rs type="person" ref="#petre_edward">Pere Peters</rs>, si savant et si fin
                   <lb/>Eut eu L'Esprit de <rs type="person" ref="#mazarin_jules">Mazarin</rs>,
                   <lb/>J'aurois chés Les <rs type="place" ref="#england_koenigreich">Anglois</rs> une semblable gloire
-                  <lb/>A celle de <rs type="person" ref="#frankreich_ludwig_xiv">Louis</rs>; dont nous parle L'histoire.</quote></cit><note type="footnote" resp="mg">Zitat aus: [Joachim Feller]: Pasquyns historie van de werelt op het jaer 1688, Amsterdam 1689, S. 35. <ptr type="gbv" cRef="137297688"/></note>
+                  <lb/>A celle de <rs type="person" ref="#frankreich_ludwig_xiv">Louis</rs>; dont nous parle L'histoire.</quote></cit><note type="footnote" resp="mg">Zitat aus: [Joachim Feller]: Pasquyns historie van de werelt op het jaer 1688, Amsterdam 1689, S. 35.<!-- <ptr type="gbv" cRef="137297688"/>--></note>
             </p>
             <p>
                <lb/>D. <date when="1689-03-27">27.</date> bin ich mit den <rs type="person" ref="#schleswig-holstein-gottorf_friedrich_iv">Prinzen
