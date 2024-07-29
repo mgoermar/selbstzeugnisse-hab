@@ -409,6 +409,9 @@
                             <xsl:when test="parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@type='sbl'">
                                 <br/>Weitere Informationen im <a href="{parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@target}" target="_blank">Svenskt Biografiskt Lexikon</a>.
                             </xsl:when>
+                            <xsl:when test="parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@type='sz2'">
+                                <br/>Weitere Informationen im <a href="{parent::tei:person/tei:listBibl/tei:bibl/tei:ptr/@target}" target="_blank">Personenregister des Projekts Selbstzeugnisse II</a>.
+                            </xsl:when>
                             <xsl:when test="parent::tei:person/tei:listBibl/tei:bibl/tei:ptr[@type='doi' or @type='opac' or @type='gvk' or @type='jstor']">
                                 <br/>Literatur: <xsl:apply-templates select="parent::tei:person/tei:listBibl/tei:bibl"/>.
                             </xsl:when>

@@ -349,7 +349,7 @@
                 </person>
                 <person xml:id="campen_ludolf"><!--vielleicht identisch mit: https://d-nb.info/gnd/1055516948?-->
                     <persName type="display">Campen, Ludolf von</persName>
-                    <note>Angehöriger des brausnchweigischen Adelsgeschlechts; um 1689 Page des Herzogs Ludwig Rudolph von Braunschweig-Wolfenbüttel auf dessen Reise nach Dänemark und Schweden. Zum Vornamen vgl. <ref target="http://diglib.hab.de/mss/217a-blank/start.htm?image=00054">Cod. Guelf. 217a Blank, S. 50</ref>.</note>
+                    <note>Angehöriger des braunschweigischen Adelsgeschlechts; um 1689 Page des Herzogs Ludwig Rudolph von Braunschweig-Wolfenbüttel auf dessen Reise nach Dänemark und Schweden. Zum Vornamen vgl. <ref target="http://diglib.hab.de/mss/217a-blank/start.htm?image=00054">Cod. Guelf. 217a Blank, S. 50</ref>.</note>
                 </person>
                 <person xml:id="cardon_horace">
                     <persName type="display" ref="https://d-nb.info/gnd/119637251">Cardon, Horace</persName>
@@ -527,7 +527,7 @@
                     <persName type="display" ref="https://d-nb.info/gnd/118711539">Jakob II., König von England, Schottland und Irland</persName>
                 </person>
                 <person xml:id="england_wilhelm_ii">
-                    <persName type="display" ref="https://d-nb.info/gnd/118643355">WIlhelm II., König von England, Schottland und Irland</persName>
+                    <persName type="display" ref="https://d-nb.info/gnd/118643355">Wilhelm II., König von England, Schottland und Irland</persName>
                     <persName>Oranien, WIlhelm III., Fürst von Oranien</persName>
                 </person>
                 <person xml:id="erasmus_desiderius">
