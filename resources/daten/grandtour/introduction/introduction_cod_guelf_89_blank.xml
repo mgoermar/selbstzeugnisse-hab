@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/tei/P5/v2.8.0/tei-p5-transcr.xsd"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xml:id="grand_tour.introduction_cod_guelf_89_blank" n="Einleitung">
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 89 Blank.</title>
+                <respStmt>
+                    <resp>verfasst von</resp>
+                    <persName>
+                        <forename>Angela</forename>
+                        <surname>Göbel</surname>
+                    </persName>
+                </respStmt>     
+                <respStmt>
+                    <resp>Umsetzung der Digitalen Edition von</resp>
+                    <persName>
+                        <forename>Maximilian</forename>
+                        <surname>Görmar</surname>
+                    </persName>
+                </respStmt>
+                <funder>Deutsche Forschungsgemeinschaft</funder>                
+                <principal>Herzog August Bibliothek Wolfenbüttel</principal>
+            </titleStmt>            
+            <publicationStmt>
+                <publisher>
+                    <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+                    <ptr target="http://www.hab.de"/>
+                </publisher>
+                <date type="digitised" when="2023">2023</date>
+                <distributor>Herzog August Bibliothek Wolfenbüttel</distributor>
+                <availability status="restricted">
+                    <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">copyright information</ref>)</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>  
+            </sourceDesc>            
+        </fileDesc>
+        <revisionDesc>
+            <list>
+                <item>work in progress</item>
+            </list>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Einleitung und Handschriftenbeschreibung zu Cod. Guelf. 89 Blank.: Reisetagebuch von Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel, 1689</head>
+                <p>
+                    <hi rend="smaller">
+                        <lb/>Links: <ref target="http://diglib.hab.de/mss/89-blank/start.htm">Digitalisat</ref>, <ref target="http://selbstzeugnisse.hab.de/repertorium/eintrag/89-blank">Selbstzeugnisrepertorium</ref>, <ref target="http://selbstzeugnisse.hab.de/grand_tour/cod_guelf_89_blank">edierter Text</ref>, <ref target="https://diglib.hab.de/mss/89-blank/start.htm">Digitalisat</ref></hi>
+                </p>
+                <p>
+                    <lb/>Bei dem Selbstzeugnis, das mit der Signatur Cod. Guelf. 89 Blank. im Original in einer Sammelhandschrift mit dem Titel „Vorlesungen Johann Balthasar Lauterbachs in Nachschrift Herzog Ludwig Rudolfs und dessen skandinavische Reisen“ in den Beständen der Herzog August Bibliothek (HAB) verzeichnet ist, handelt es sich um ein in der Ich-Form verfasstes Reisetagebuch von Ludwig Rudolf von Braunschweig-Wolfenbüttel (1671-1735). 
+                </p>
+                <p>
+                    Dieses im Rahmen des Editionsprojekts „Grand Tour digital“ neu erschlossene Reisetagebuch schließt an eine Reihe weiterer Tagebücher und Aufzeichnungen Ludwig Rudolfs an, die in einem vorhergehenden Editionsprojekt „<ref target="http://selbstzeugnisse.hab.de/edition_sz2">Digitale Edition der Tagebücher von Herzog Ludwig Rudolf und Herzogin Christine Luise von Braunschweig-Wolfenbüttel</ref>“ (2019–2022)  bereits vollständig erschlossen wurden und online im Selbstzeugnisportal zur Verfügung stehen. Die dieses vorangegangene Editionsprojekt begleitende <ref target="http://selbstzeugnisse.hab.de/sz2/bibliographie">Literaturübersicht</ref>  beinhaltet darüber hinaus eine detaillierte Auswahl der vielfältigen Aufzeichnungen, Schriften und Dokumente, die Ludwig Rudolfs Leben aus primärer und sekundärer Hand abbilden.
+                </p>
+                <p>
+                    Die Aufzeichnungen des nun zusätzlich edierten Tagebuchs beginnen mit der Reise von Wolfenbüttel nach Dänemark am 9. Januar 1689 und enden mit der Rückkehr im Oktober desselben Jahres in Wolfenbüttel. Den Reiseaufzeichnungen sind Skizzen beigefügt, die das Tagebuch ergänzen. Zeitlich lässt sich die Reise Ludwig Rudolfs zwischen dem Nordischen Krieg (1674-1679) und dem Großen Nordischen Krieg (1700-1721) situieren. Die Reiseaufzeichnungen wurden zusammen mit anderen Schriften und Notizen Ludwig Rudolfs in einem Band gebunden. Der im Original mit Blatt 90r einsetzende Tagebuchtext umfasst 21 Manuskriptseiten und endet auf Blatt 101r.
+                </p>
+                <div>
+                    <head>Eigenheiten der Handschrift</head>
+                    <p>
+                        Das Reisetagebuch ist von Ludwig Rudolf selbst verfasst, wie ein Abgleich mit anderen Schriftstücken aus seiner Hand zeigt.<note type="footnote">Vgl. etwa den bereits edierten Text <ref target="http://selbstzeugnisse.hab.de/sz2/cod_guelf_286a_blank">Cod. Guelf. 286a Blank.</ref></note> Das Diarium füllt jeweils immer nur die linke oder rechte Spalte des Blattes und weist eine Unterteilung in Absätze auf. Im Gegensatz zu den weiteren beigefügten Schriften im gebundenen Band sind die Manuskriptseiten des Reisediariums durchnummeriert, beginnend bei „1.“ auf Blatt 90r. 
+                    </p>                    
+                    <p>
+                        Die Hauptsprache des Diariums ist Deutsch, hinzukommen Fremdwörter, Namen oder Inschriften in lateinischer Sprache und Auszeichnungsschrift, sowie Zitate in französischer und dänischer Sprache. Die Orthographie und die Zeichensetzung sind teils recht frei, jedoch den damaligen gängigen Werten entsprechend. Die Schreibung folgt stark dem phonematischen Prinzip, d. h. Schreiben wie man spricht. Die Einträge besitzen wiederholt Verschreibungen, Durchstreichungen und Veränderungen, vereinzelt ist die Tinte durch das Papier gedrückt oder verwischt, wie zum Beispiel auf Blatt 90r, wo die verwischte Tinte das Entziffern der Zeilenanfänge besonders in der zweiten Blatthälfte erschwert. Die Schrift ist zumeist flüssig und gleichmäßig verteilt.
+                    </p>
+                    <p>
+                        Das Tagebuch ist größtenteils chronologisch und nicht thematisch aufgebaut. Es gibt keine Hinweise, dass das Tagebuch in seiner heute überlieferten Form nachträglich (den Inhalt betreffend) bearbeitet wurde. Jedoch ist zu vermuten, dass es ursprünglich lose mitgeführt und später mit anderen Dokumenten zusammengebunden wurde. Die von Ludwig Rudolf verwendeten Abkürzungen betreffen insbesondere die durch Verschleifung gekürzten Wortendungen „-en“, „-em“; ebenso „oder“ zu „od“ und „der“, „dem“ und „den“ zu „d“.
+                    </p>
+                </div>
+                <div>
+                    <head>Biografische Angaben</head>
+                    <p>
+                        Herzog Ludwig Rudolf von Braunschweig-Wolfenbüttel kam am 22. Juli 1671 in Wolfenbüttel auf die Welt und verstarb im Alter von 65 Jahren am 1. März 1735 in Braunschweig. In den Jahren von 1731 bis zu seinem Tod war er der regierende Fürst des Hauses.<note type="footnote">Für weiterführende Informationen zur Person Ludwig Rudolfs siehe auch die im Projekt „Digitale Edition der Tagebücher von Herzog Ludwig Rudolf und Herzogin Christine Luise von Braunschweig-Wolfenbüttel“ erarbeitete <ref target="http://selbstzeugnisse.hab.de/sz2/kurzbiographien">Kurzbiographie</ref>.</note>                
+                    </p>
+                    <p>                        
+                        Seine eigentliche Grand Tour  unternimmt Ludwig Rudolf in den Jahren 1685 bis 1687. In dieser Zeit reiste er durch Italien, Frankreich und die Niederlande. Eine kleinere Folgereise nach Dänemark und Schweden im Jahr 1689 komplettierte seine Ausbildung, indem sie ihm Kenntnisse der nordischen Königreiche und vor allem des königlichen Hofes in Schweden vermittelte, das damals eine europäische Großmacht war. Recht schnell aber musste Ludwig Rudolf aus Stockholm wieder abreisen, um sich auf Anweisung seines Vaters, Herzog Anton Ulrichs, den Feldzügen in den Niederlanden anzuschließen und seine militärische Ausbildung zu komplettieren.
+                    </p>
+                </div>
+                <div>
+                    <head>Das Reisetagebuch</head>
+                    <p>                        
+                        Das Reisetagebuch skizziert also die skandinavische Reise, die Ludwig Rudolfs im Jahr 1689 nach Dänemark und Schweden unternommen hat. Es ist abwechselnd in der Wir- und Ich-Form geschrieben: die erste Person Singular und erste Person Plural wechseln sich je nach Kontext ab. Es thematisiert neben Reiserouten, Mitreisenden und Kontaktpersonen, getätigte Besuche und Begegnungen mit herausragenden Persönlichkeiten. Hinzukommen Zeugnisse von verschiedenen historischen Ereignissen (Hochzeiten, Beerdigungen, Reichstage) aber auch Anekdoten und Reiseerlebnisse und Einschnitte, die die Reise beeinflussen, familiäre und persönliche Belange oder Begegnungen.
+                    </p>
+                    <p>
+                        Gleich zu Beginn seines Reisetagebuchs listet und benennt Ludwig Rudolf seine sechs Reisebegleiter: „Mr. d'Imhoff. wie Hoffmeister, Mr. Jettebrock. wie Volontair, Mr. Böhme. wie Secretarius. Carl Friderich. wie Cammerdiener. von Campen. wie page. Heinrich. wie Laquei.“<note type="footnote"><ref target="http://selbstzeugnisse.hab.de/grand_tour/cod_guelf_89_blank#90r">Blatt 90r</ref></note> Es handelt sich hierbei um den aus Wolfenbüttel stammenden Juristen Rudolph Christian von Imhof (1660-1717), Rudolph Friedrich von Jettebrock oder Jettebruch (1668-1703), für das Jahr 1688 als Student an der Ritterakademie zu Wolfenbüttel überliefert, sowie Heinrich Julius Behm oder Böhme (ca. 1660-1717), der ab 1703 als Konsistorialassessor und Professor der Mathematik an der Ritterakademie zu Wolfenbüttel tätig war.
+                    </p>
+                    <p>
+                        Auffallend ist dabei, dass die Hinreise bis Stockholm detailliert mit täglichen Zwischenstationen aufgeschrieben wurde, während die Rückreise lediglich grob zusammengefasst wurde, mit dem Hinweis, dass die Reisegruppe im Monat Oktober 1689 wieder gut in Wolfenbüttel angekommen war.
+                    </p>
+                    <p>
+                        Zu den wichtigen Ereignissen und Erlebnissen, die Ludwig Rudolph in diesem doch kurzen Reisetagebuch erwähnt oder beschreibt, zählen die Beerdigung des schwedischen Obristen Evert Horn af Marienberg (1640-1687) in der St. Jakobskirche ab Blatt <ref target="http://selbstzeugnisse.hab.de/grand_tour/cod_guelf_89_blank#95r">95r</ref>. Obwohl er bereits im Dezember 1687 verstarb wurde er erst im Frühjahr 1989 zeremoniell beigesetzt. Erwähnenswert, und für Ludwig Rudolf sicher von großem Interesse, ist auch der Abschluss des in Stockholm stattfindenden Reichstags (ab Blatt <ref target="http://selbstzeugnisse.hab.de/grand_tour/cod_guelf_89_blank#96v">96v</ref>), dem Ludwig Rudolf am 19. März 1689 beiwohnte.
+                    </p>
+                </div>
+                <div>
+                    <head>Literatur</head>
+                    <p>
+                        Ebenso wie die Biografie Ludwig Rudolfs wurde auch der Forschungsstand zu seiner Person bereits ausführlich in der vorangegangenen und im Jahr 2022 online veröffentlichten Edition der Tagebücher von Herzog Ludwig Rudolf und Herzogin Christine Luise von Braunschweig-Wolfenbüttel ausgearbeitet. Der dortigen <ref target="http://selbstzeugnisse.hab.de/sz2/bibliographie">Bibliographie</ref> sind nur folgende Publikationen noch hinzuzufügen:
+                    </p>
+                    <listBibl>
+                        <bibl>Maximilian Görmar, Jan-Hendrik Hütten und Miriam Mulzer: „Sein Kopf war seltsam verrückt und erfüllt von tausenden Vorstellungen“, HABlog, 6. Oktober 2021, <ref target="https://www.hab.de/sein-kopf-war-seltsam-verrueckt-und-erfuellt-von-tausenden-vorstellungen/">https://www.hab.de/sein-kopf-war-seltsam-verrueckt-und-erfuellt-von-tausenden-vorstellungen/</ref>.</bibl>
+                        <bibl>Carolin Sachs: Von der Unterrichtung eines Prinzen. Zur Praxis der Wissensvermittlung an der Wolfenbütteler Ritterakademie (1687-1712), in: Niedersächsisches Jahrbuch für Landesgeschichte 93 (2021), S. 101-131.</bibl>
+                    </listBibl>
+                </div>                
+            </div>
+        </body>
+    </text>
+</TEI>
+

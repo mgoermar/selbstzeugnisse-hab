@@ -286,6 +286,9 @@
       <file ID="grand_tour.cod_guelf_267_1_extrav" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/grandtour/Reiseberichte/cod_guelf_267_1_extrav.xml" LOCTYPE="URL" />
       </file>
+      <file ID="grand_tour.introduction.introduction_cod_guelf_89_blank" MIMETYPE="application/tei+xml">
+        <FLocat xlink:href="daten/grandtour/introduction/introduction_cod_guelf_89_blank.xml" LOCTYPE="URL" />
+      </file>
       <file ID="grand_tour.cod_guelf_89_blank" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/grandtour/Reiseberichte/cod_guelf_89_blank.xml" LOCTYPE="URL" /> 
       </file>
@@ -547,6 +550,9 @@
             </div>
           </div>
           <div ID="grand_tour.cod_guelf_89_blank">
+            <div ID="grand_tour.introduction_cod_guelf_89_blank">
+              <fptr FILEID="grand_tour.introduction.introduction_cod_guelf_89_blank"/>
+            </div>
             <div ID="grand_tour.cod_guelf_89_blank">
               <fptr FILEID="grand_tour.cod_guelf_89_blank"/>
             </div>
@@ -556,15 +562,15 @@
       <div ID="projekt" LABEL="Projektteam">
         <fptr FILEID="projekt.xml"/>
       </div>
-      <!--<div ID="bibliographie" LABEL="Bibliographie">
+      <div ID="bibliographie">
         <fptr FILEID="bibliographie.xml"/>
-      </div>-->
+      </div>
       <div ID="dienste" LABEL="Datendienste">
         <fptr FILEID="dienste.xml"/>
       </div>
-      <!--<div ID="extern" LABEL="Themenspezifische Websites und Fachportale">
+      <div ID="extern">
         <fptr FILEID="extern.xml"/>
-      </div>-->
+      </div>
       <div ID="impressum" LABEL="Impressum">
         <fptr FILEID="impressum.xml"/>
       </div>
@@ -743,6 +749,10 @@
     <behavior STRUCTID="grand_tour.cod_guelf_267_1_extrav">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/edition/diarium.xsl"/>
+    </behavior>
+    <behavior STRUCTID="grand_tour.introduction_cod_guelf_89_blank">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/default.xsl"/>
     </behavior>
     <behavior STRUCTID="grand_tour.cod_guelf_89_blank">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>

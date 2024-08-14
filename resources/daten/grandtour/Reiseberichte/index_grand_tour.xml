@@ -55,7 +55,7 @@
         </group>  
         <group>
             <head>Ludwig Rudolf, 1689</head>
-<!--            <xi:include href="../introduction/introduction_cod_guelf_267_1_extrav.xml"/>-->
+            <xi:include href="../introduction/introduction_cod_guelf_89_blank.xml"/>
             <xi:include href="cod_guelf_89_blank.xml"/>
         </group> 
     </text>

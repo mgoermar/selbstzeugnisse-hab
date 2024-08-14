@@ -149,6 +149,9 @@ $app->get('grand_tour/introduction_cod_guelf_267_1_extrav', 'controller.staticpa
 	
 $app->get('grand_tour/cod_guelf_267_1_extrav', 'controller.staticpage:handle')
     ->bind('grand_tour.cod_guelf_267_1_extrav');
+    
+$app->get('grand_tour/introduction_cod_guelf_89_blank', 'controller.staticpage:handle')
+    ->bind('grand_tour.introduction_cod_guelf_89_blank');
 	
 $app->get('grand_tour/cod_guelf_89_blank', 'controller.staticpage:handle')
     ->bind('grand_tour.cod_guelf_89_blank');
