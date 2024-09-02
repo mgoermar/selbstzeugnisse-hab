@@ -946,8 +946,8 @@
                     </listBibl>
                 </person>
                 <person xml:id="kannenberg_johann_balthasar">
-                    <persName type="display">Kannenberg, Johann Balthasar</persName>
-               <note> Um 1657 Hofapotheker in Wolfenbüttel.</note>
+                    <persName type="display" ref="https://d-nb.info/gnd/122968034">Kannenberg, Johann Balthasar</persName>
+                    <note> Um 1657 Hofapotheker in Wolfenbüttel.</note>
                 </person>
                 <person xml:id="kanten_hermann">
                     <persName type="display">Kanten, Hermann von</persName>
@@ -1050,9 +1050,8 @@
                 <person xml:id="langellott_joel">
                     <persName ref="https://d-nb.info/gnd/123397928" type="display">Langellott, Joël</persName>
                 </person>  
-                <person xml:id="langermann_anon_1">
-                    <persName type="display">Langermann, N. N.</persName>
-                    <note>Vermutlich um 1657 Apotheker in Wolfenbüttel.</note>
+                <person xml:id="langermann_paul">
+                    <persName type="display" ref="https://d-nb.info/gnd/1055400346">Langermann, Paul</persName>
                 </person>
                 <person xml:id="laurentius_heiliger">
                     <persName type="display" ref="https://d-nb.info/gnd/119320827">Laurentius (Heiliger)</persName>
