@@ -271,12 +271,12 @@
       <file ID="grand_tour.register.personen" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/grandtour/register/listPerson_grand_tour.xml" LOCTYPE="URL" />
       </file>
-      <!--<file ID="grand_tour.register.orte" MIMETYPE="application/tei+xml">
+      <file ID="grand_tour.register.orte" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/grandtour/register/listPlace_grand_tour.xml" LOCTYPE="URL" />
       </file>
       <file ID="grand_tour.register.koerperschaften" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/grandtour/register/listOrg_grand_tour.xml" LOCTYPE="URL" />
-      </file>-->
+      </file>
       <file ID="grand_tour.introduction.introduction_projectDesc" MIMETYPE="application/tei+xml">
         <FLocat xlink:href="daten/grandtour/introduction/introduction_projectDesc.xml" LOCTYPE="URL" />
       </file>
@@ -538,9 +538,12 @@
           <div ID="grand_tour.personen">
             <fptr FILEID="grand_tour.register.personen"/>
           </div>
-          <!--<div ID="grand_tour.orte">
-            <fptr FILEID="grandtour.register.orte"/>
-          </div>-->
+          <div ID="grand_tour.orte">
+            <fptr FILEID="grand_tour.register.orte"/>
+          </div>
+          <div ID="grand_tour.koerperschaften">
+            <fptr FILEID="grand_tour.register.koerperschaften"/>
+          </div>
           <div ID="grand_tour.cod_guelf_267_1_extrav">
             <div ID="grand_tour.introduction_cod_guelf_267_1_extrav">
               <fptr FILEID="grand_tour.introduction.introduction_cod_guelf_267_1_extrav"/>
@@ -761,6 +764,14 @@
     <behavior STRUCTID="grand_tour.personen">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
       <mechanism LOCTYPE="URL" xlink:href="xslt/listPerson_grand_tour.xsl"/>
+    </behavior>
+    <behavior STRUCTID="grand_tour.orte">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/listPlace_grand_tour.xsl"/>
+    </behavior>
+    <behavior STRUCTID="grand_tour.koerperschaften">
+      <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>
+      <mechanism LOCTYPE="URL" xlink:href="xslt/listOrg_grand_tour.xsl"/>
     </behavior>
     <behavior STRUCTID="projekt">
       <interfaceDef LOCTYPE="URL" xlink:href="http://www.w3.org/TR/xslt"/>

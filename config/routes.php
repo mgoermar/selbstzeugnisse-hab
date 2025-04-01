@@ -144,20 +144,26 @@ $app->get('/edition_grand_tour', 'controller.staticpage:handle')
 $app->get('/grand_tour/projektbeschreibung', 'controller.staticpage:handle')
     ->bind('grand_tour.projektbeschreibung');
 
-$app->get('grand_tour/introduction_cod_guelf_267_1_extrav', 'controller.staticpage:handle')
+$app->get('/grand_tour/introduction_cod_guelf_267_1_extrav', 'controller.staticpage:handle')
     ->bind('grand_tour.introduction_cod_guelf_267_1_extrav');
 	
-$app->get('grand_tour/cod_guelf_267_1_extrav', 'controller.staticpage:handle')
+$app->get('/grand_tour/cod_guelf_267_1_extrav', 'controller.staticpage:handle')
     ->bind('grand_tour.cod_guelf_267_1_extrav');
     
-$app->get('grand_tour/introduction_cod_guelf_89_blank', 'controller.staticpage:handle')
+$app->get('/grand_tour/introduction_cod_guelf_89_blank', 'controller.staticpage:handle')
     ->bind('grand_tour.introduction_cod_guelf_89_blank');
 	
-$app->get('grand_tour/cod_guelf_89_blank', 'controller.staticpage:handle')
+$app->get('/grand_tour/cod_guelf_89_blank', 'controller.staticpage:handle')
     ->bind('grand_tour.cod_guelf_89_blank');
 	
-$app->get('grand_tour/personen', 'controller.staticpage:handle')
+$app->get('/grand_tour/personen', 'controller.staticpage:handle')
     ->bind('grand_tour.personen');
+	
+$app->get('/grand_tour/orte', 'controller.staticpage:handle')
+    ->bind('grand_tour.orte');
+	
+$app->get('/grand_tour/koerperschaften', 'controller.staticpage:handle')
+    ->bind('grand_tour.koerperschaften');
     
 $app->get('/editionen', 'controller.staticpage:handle')
     ->bind('editionen');

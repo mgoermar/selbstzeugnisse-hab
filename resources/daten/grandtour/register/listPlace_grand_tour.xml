@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-    xml:id="grand_tour_ortsregister">
+    xml:id="grand_tour.orte">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -860,7 +860,7 @@
                     <placeName ref="https://www.geonames.org/2613460/slagelse.html">Slagelse</placeName>
                 </place>
                 <place xml:id="soedertaellje">
-                    <placeName ref="https://www.geonames.org/2676176/soedertaelje.html">Södertällje</placeName>
+                    <placeName ref="https://www.geonames.org/2676176/soedertaelje.html">Södertälje</placeName>
                 </place>
                 <place xml:id="solothurn">
                     <placeName ref="https://www.geonames.org/2658564/solothurn.html">Solothurn</placeName>

@@ -122,7 +122,25 @@
                     <div class="sWrap">Einleitung</div>
                     <div class="sWrap"><img src="../assets/imgs/t001.jpg" alt=""/></div>
                   </a>
-                </li>            
+                </li>   
+                <li>
+                  <a href="grand_tour/personen">                
+                    <div class="sWrap">Personenregister</div>
+                    <div class="sWrap"><img src="../assets/imgs/img005.jpg" alt=""/></div>
+                  </a>              
+                </li>
+                <li>
+                  <a href="grand_tour/orte">
+                    <div class="sWrap">Ortsregister</div>
+                    <div class="sWrap"><img src="../assets/imgs/t002.jpg" alt=""/></div>
+                  </a>              
+                </li>
+                <li>
+                  <a href="grand_tour/koerperschaften">
+                    <div class="sWrap">Körperschaftsregister</div>
+                    <div class="sWrap"><img src="../assets/imgs/Dreigesicht.jpg" alt=""/></div>
+                  </a>              
+                </li>
               </xsl:when>
               <!--++++++++++++++++++ Reisetagebuch August +++++++++++++++++++-->
               <xsl:otherwise>
@@ -234,6 +252,24 @@
                 </li>
                 <li>
                   <a href="edition/grand_tour/itinerar_wagener_karte_iframe.html">
+                    <div class="sWrap">
+                      Itinerar (Karte)
+                    </div>
+                    <div class="sWrap"><img src="../assets/imgs/map.png" alt=""/></div>
+                  </a>
+                </li>
+              </xsl:if>
+              <xsl:if test="contains(./tei:head,'Ludwig Rudolf')">
+                <li>
+                  <a href="edition/grand_tour/itinerar_ludwig_rudolf.html">
+                    <div class="sWrap">
+                      Itinerar
+                    </div>
+                    <div class="sWrap"><img src="../assets/imgs/t002.jpg" alt=""/></div>
+                  </a>
+                </li>
+                <li>
+                  <a href="edition/grand_tour/itinerar_ludwig_rudolf_karte_iframe.html">
                     <div class="sWrap">
                       Itinerar (Karte)
                     </div>

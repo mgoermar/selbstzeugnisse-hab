@@ -17,6 +17,7 @@
         <xsl:variable name="metsId"   select="$metsFile//mets:div[mets:fptr[@FILEID = $fileId]]/@ID"/>-->
         <xsl:variable name="currentFile" select="document('../daten/grandtour/register/listPerson_grand_tour.xml')"/>
         <xsl:variable name="cod_guelf_267_1_extrav_Data" select="document('../daten/grandtour/Reiseberichte/cod_guelf_267_1_extrav.xml')//tei:text"/>
+    <xsl:variable name="cod_guelf_89_blank_Data" select="document('../daten/grandtour/Reiseberichte/cod_guelf_89_blank.xml')//tei:text"/>
         
         <map:map>
             <map:entry key="01" value="Januar"/>
@@ -294,7 +295,8 @@
            <xsl:value-of select="."/> 
         </dt>
         <dd>
-            Siehe unter <a href="#{parent::tei:person/@xml:id}"><xsl:value-of select="parent::tei:person/tei:persName[@type='display']"/></a>.
+            <br/>
+            Siehe unter <a href="#{parent::tei:person/@xml:id}"><xsl:value-of select="parent::tei:person/tei:persName[@type='display']"/></a>
         </dd>
         </dl>
     </xsl:template>
@@ -378,7 +380,22 @@
                             </xsl:for-each>
                         </td>
                     </tr>
-                </xsl:if>                                
+                </xsl:if>
+                <xsl:if test="$cod_guelf_89_blank_Data//tei:rs[@type='person'][not(contains(@ref,' '))][substring-after(@ref,'#')=current()/parent::tei:person/@xml:id]">
+                    <tr>
+                        <td><h4>Cod. Guelf. 89 Blank.:</h4></td>
+                        <td>
+                            <xsl:for-each select="$cod_guelf_89_blank_Data//tei:rs[@type='person'][not(contains(@ref,' '))][substring-after(@ref,'#')=current()/parent::tei:person/@xml:id]">
+                                <a href="cod_guelf_89_blank{concat('#',current()/preceding::tei:pb[1]/@n)}">
+                                    <xsl:value-of select="current()/preceding::tei:pb[1]/@n"/>
+                                </a>
+                                <xsl:if test="position()!=last()">
+                                    <xsl:text>, </xsl:text>
+                                </xsl:if>
+                            </xsl:for-each>
+                        </td>
+                    </tr>
+                </xsl:if>
             </tbody>
         </table>
         </dl>

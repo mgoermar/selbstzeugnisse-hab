@@ -1,0 +1,86 @@
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <title>Itinerar Ludwig Rudolf</title>
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+        <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>
+        <!-- Assets -->
+        <link rel="shortcut icon" href="favicon_hdk.ico"/>         
+        <link rel="preconnect" href="https://fonts.gstatic.com"/> 
+        <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&amp;display=swap" rel="stylesheet"/>
+        
+        <link href="/assets/selbstzeugnisse/css/reset.css" type="text/css" rel="stylesheet"/>
+        <link href="/assets/font-awesome/css/font-awesome.min.css" media="screen" rel="stylesheet"/>
+        
+        <link href="/assets/selbstzeugnisse/css/styles.css" type="text/css" rel="stylesheet"/>
+        <link href="/assets/selbstzeugnisse/css/diarium.css" type="text/css" rel="stylesheet"/>
+        
+        <script src="/assets/jquery/jquery.min.js"></script>
+        <script src="/assets/jquery-zoom/jquery.zoom.min.js"></script>
+        <script src="/assets/js/selbstzeugnisse2.js"></script>
+        <noscript>
+            <style>.js-toggle { display: inherit; }</style>
+        </noscript>
+        <style>
+            td {padding-left:10px;}
+        </style>
+    </head>
+    <body>
+        <div id="mainConti">
+            <header>
+                
+                <div id="bgTop"></div>
+                <a href="http://selbstzeugnisse.hab.de" id="logo"></a>
+                
+                <div id="m_titleConti">
+                    <span id="m_title1">Selbstzeugnisse&#160;</span><span id="m_title2">der frühen Neuzeit</span><br/>
+                    <span id="m_subTitle">in der Herzog August Bibliothek</span>
+                </div>            
+                <a href="http://www.hab.de" target="_blank" id="habLogo"></a>            
+            </header>
+            <div class="navigation">
+                <div id="menuToggle"><input type="checkbox"><span></span><span></span><span></span><ul id="menu">
+                    <li><a href="/">
+                        Startseite
+                    </a></li>
+                    
+                    
+                    <li><a href="/repertorium">Repertorium</a><ul id="subMen">
+                        <div style="padding-top:10px;">
+                            <li><a href="/repertorium/suche">Suche</a></li>
+                            
+                        </div>
+                    </ul>
+                    </li>
+                    <li><a href="/editionen">Editionen</a><ul id="subMen">
+                        <div style="padding-top:10px;">
+                            <li><a href="/edition_august">Reisetagebuch Augusts II.</a></li>
+                            <li><a href="/edition_sz2">Tagebücher Ludwig Rudolphs und Christine Luises</a></li>
+                            <li><a href="/edition_grand_tour">Grand Tour digital</a></li>
+                        </div>
+                    </ul>
+                    </li>
+                    <li><a href="/projekt">Projektteam</a></li>
+                    <li><a href="/dienste">Datendienste</a></li>
+                    <li><a href="/impressum">Impressum</a></li>
+                    
+                </ul>
+                </div>
+            </div>
+            <div class="content">
+                <div class="contentWrap">
+                    <div>
+                        <h1>Itinerar des Herzogs Ludwig Rudolf von Braunschweig-Wolfenbüttel (1689)</h1>
+                        <p>
+                            Die Karte visualisiert die Reise, die Ludwig Rudolf 1689 nach Dänemark und Schweden unternahm und in seinem Reisetagebuch festhielt. Die Rückreise ist deutlich weniger detailliert beschrieben als die Hinreise, was die zum Teil großen örtlichen Sprünge erklärt. Die Reise von Stockholm nach Karlskrona erfolgte etwa über den Landweg, ohne dass sich konkrete Zwischenstationen rekonstruieren ließen. Vgl. auch das <a href="itinerar_ludwig_rudolf.html">tabellarische Itinerar</a>. Die Kartenvisualisierung wurde mit der Python-Bibliothek von <a href="https://plotly.com/python/">Plotly</a> erstellt. Während der Projektlaufzeit ist eine Erweiterung der Funktionalitäten der Kartenvisualisierung geplant, um eine Verlinkung mit dem Editionstext und die Einbindung historischen Kartenmaterials zu realisieren.
+                        </p>
+                        <div id="iframe_container">
+                            <iframe src="itinerar_ludwig_rudolf_map.html" height="700" width="1000"></iframe>
+                        </div>
+                    </div>
+                    
+            </div>
+        </div>
+    </body>
+</html>

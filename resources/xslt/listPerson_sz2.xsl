@@ -296,7 +296,7 @@
            <xsl:value-of select="."/> 
         </dt>
         <dd>
-            Siehe unter <a href="#{parent::tei:person/@xml:id}"><xsl:value-of select="parent::tei:person/tei:persName[@type='display']"/></a>.
+            Siehe unter <a href="#{parent::tei:person/@xml:id}"><xsl:value-of select="parent::tei:person/tei:persName[@type='display']"/></a>
         </dd>
         </dl>
     </xsl:template>
